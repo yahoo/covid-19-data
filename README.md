@@ -1,15 +1,15 @@
 # Yahoo Knowledge Graph COVID-19 Datasets
 
-## Table of Contents
-
-- [Background](#background)
-- [Install](#install)
-- [Security](#security)
-- [API](#api)
-- [Contribute](#contribute)
-- [License](#license)
-
 ## Background
+
+The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. In the spirit of open source, the team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public. 
+
+The current offering includes:
+* A public API (commercial use upon request)
+* Hourly data updates with history 
+* Open data sets (commercial use upon request)
+* Open source dashboard to explore data
+* Data from public sources
 
 
 ## Install
@@ -28,12 +28,11 @@ Please refer to [the contributing.md file](Contributing.md) for information abou
 
 ## Maintainers
 
-+ Amit
++ Amit 
 + Asaf
 + Cindy
-+ Jon
-+ Aaron
-+ Chas
+
+Please contact yk-covid-19-os@verizonmedia.com with any questions.
 
 ## License
 
