@@ -6,8 +6,8 @@ The Yahoo Knowledge Graph team at Verizon Media is responsible for providing cri
 
 The current offering includes:
 * A [public API](https://github.com/yahoo/covid-19-api/) (commercial use upon request)
-* Hourly data updates with history 
-* Open data sets (commercial use upon request)
+* Hourly dataset updates with history 
+* Open datasets (commercial use upon request)
 * Open source [dashboard to explore data](https://github.com/yahoo/covid-19-dashboard/)
 * Data from public sources
 
