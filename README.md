@@ -11,20 +11,18 @@ The current offering includes:
 * Open source dashboard to explore data
 * Data from public sources
 
-
 ## Install
-
-_Describe how to install and use this project. Readers may be novices, but our tone is informative, not condescending. You can point to instructions rather than writing too much here. Remember, if users can't install this project, they will not contribute much to it. Assume they might need information about the programming language version or operating environment information. Don't assume they operate under the same exact conditions we do internally._
-
-**Example**
 
 ## API
 
 This project doesn't have an API. This is a placeholder in case you need it for your project. If you don't need it, delete this section and the reference to it in the [table of contents](#table-of-contents).
 
-## Contribute
+## Dashboard
 
-Please refer to [the contributing.md file](Contributing.md) for information about how to get involved. We welcome issues, questions, and pull requests.
+This project doesn't have an API. This is a placeholder in case you need it for your project. If you don't need it, delete this section and the reference to it in the [table of contents](#table-of-contents).
+
+## Datasets
+
 
 ## Maintainers
 
