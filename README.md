@@ -2,12 +2,12 @@
 
 ## Background
 
-The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. In the spirit of open source, the team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public. 
+The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public. 
 
 The current offering includes:
 * A [public API](https://github.com/yahoo/covid-19-api/)
 * Hourly dataset updates from public sources
-* Open datasets ([commercial use upon request](https://docs.google.com/forms/d/e/1FAIpQLSdINfXR6S0ZmOGSvdvg4WUKzhqvDxltLoa4q4btQ4gkJokTPw/viewform])
+* Open datasets ([commercial use upon request](https://docs.google.com/forms/d/e/1FAIpQLSdINfXR6S0ZmOGSvdvg4WUKzhqvDxltLoa4q4btQ4gkJokTPw/viewform]))
 * Open source [dashboard to explore data](https://covid19.knowledge.yahoo.com/)
 
 ## Datasets
