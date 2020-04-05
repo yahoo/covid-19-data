@@ -21,11 +21,31 @@ This project doesn't have an API. This is a placeholder in case you need it for 
 
 ## Datasets
 
-The collected data is split into 2 dataset
-For a detailed description of contents of each file, see the [schema](schema) section.
+The collected data is split into 2 datasets - region information and daily case counts, detailed below.
+
+The schema of the data reflect current available information.
+As the covid-19 pandemic develops and local governments and agencies improve in their
+ability to collect and present their data to the public, so will the schema evolve to reflect that.
+
+Please check back often as more information is constantly being collected.
 
 ### region-info
-Provides general information about the regions covered in the dataset, such as geographical location and links to other public data sources
+Provides general information about the regions covered in the dataset, such as geographical location and links to other public data sources.
+
+| Field               | Type        | Description |
+|---------------------|-------------|-------------|
+| id                  | xsd:string  | a unique identifier for the region |
+| type                | xsd:string  | the region type, for example: Country, StateAdminArea, CityTown, etc... |
+| woeId               | xsd:string  | WhereOnEarth unique identifier for the region |
+| wikiId              | xsd:string  | the main wikiepdia page name of the country, can be used as a unique key |
+| label               | xsd:string  | the english name of the region |
+| latitude            | xsd:float   | latitude in decimal number format |
+| longitude           | xsd:float   | longitude in decimal number format |
+| population          | xsd:integer | the population residing in the region |
+| stateLabel          | xsd:string  | the english name of the state where the region is located (if applicable) |
+| stateId             | xsd:string  | the region id of the state if applicable |
+| countryLabel        | xsd:string  | the english name of the country where the region is located (if applicable) |
+| countryId           | xsd:string  | the region id of the country if applicable |
 
 ### region-daily
 Provides detailed case counts of covid-19 per region.
@@ -36,6 +56,24 @@ We retain historical daily counts to help facilitate understanding and tracking 
 In order to provide the most accurate and up-to-date data, we also publish the current daily case counts.
 The current daily counts are continuously updated as more information is collected and processed by our platform,
 when reading the current daily counts take notice that the case counts for specific regions may change throughout the day.
+
+| Field               | Type        | Description |
+|---------------------|-------------|-------------|
+| regionId            | xsd:string  | see _id_ above |
+| regionType          | xsd:string  | see above |
+| stateId             | xsd:string  |           |
+| countryId           | xsd:string  |           |
+| label               | xsd:string  |           |
+| totalConfirmed      | xsd:integer | the total amount of confirmed cases of covid-19 in the region until the given date (aggregate) |
+| totalDeaths         | xsd:integer | the total amount of fatalities from covid-19 in the region |
+| totalRecoveredCases | xsd:integer | the total amount of people recovered from covid-19 in the region (aggregate) |
+| totalTestedCases    | xsd:integer | the total amount of people tested for covid-19 in the region (aggregate) |
+| numActiveCases      | xsd:integer | the current count of confirmed covid-19 cases in the region which have yet to recover or otherwise |
+| numDeaths           | xsd:integer | the daily count of fatalities as a result of covid-19 |
+| numPendingTests     | xsd:integer | the current count of people waiting to be tested for covid-19 |
+| numRecoveredCases   | xsd:integer | the daily count of recovered cases |
+| numTested           | xsd:integer | the daily count of people tested for covid-19 |
+| collectedDate       | xsd:datetime| last update time of the entry |
 
 ## Maintainers
 
