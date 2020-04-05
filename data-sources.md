@@ -1,6 +1,8 @@
 We obtain data from the following sources
 | Region | URL |
 | -----|-----|
+| Global | https://www.who.int/ |
+| Global | https://www.ecdc.europa.eu/ |
 | China | http://weekly.chinacdc.cn/ |
 | Italy | http://www.salute.gov.it/ |
 | Spain | https://covid19.isciii.es/ |
