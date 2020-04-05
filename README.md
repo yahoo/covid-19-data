@@ -11,8 +11,6 @@ The current offering includes:
 * Open source [dashboard to explore data](https://github.com/yahoo/covid-19-dashboard/)
 * Data from public sources
 
-## Install
-
 ## API
 
 This project doesn't have an API. This is a placeholder in case you need it for your project. If you don't need it, delete this section and the reference to it in the [table of contents](#table-of-contents).
@@ -23,6 +21,21 @@ This project doesn't have an API. This is a placeholder in case you need it for 
 
 ## Datasets
 
+The collected data is split into 2 dataset
+For a detailed description of contents of each file, see the [schema](schema) section.
+
+### region-info
+Provides general information about the regions covered in the dataset, such as geographical location and links to other public data sources
+
+### region-daily
+Provides detailed case counts of covid-19 per region.
+Each entry (row) in the daily file represents a single region.
+
+We retain historical daily counts to help facilitate understanding and tracking of the pandemic.
+
+In order to provide the most accurate and up-to-date data, we also publish the current daily case counts.
+The current daily counts are continuously updated as more information is collected and processed by our platform,
+when reading the current daily counts take notice that the case counts for specific regions may change throughout the day.
 
 ## Maintainers
 
