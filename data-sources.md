@@ -1,9 +1,16 @@
 # Sources
 
-| Region | Data Source |
-| ------ | ----------- |
-| All Countries | <https://www.ecdc.europa.eu/en> |
-| All Countries | <https://www.who.int/> |
+## Global
+
+| Data Source |
+| ----------- |
+| <https://www.ecdc.europa.eu/en> |
+| <https://www.who.int/> |
+
+## Countries
+
+| Country | Data Source |
+| ------- | ----------- |
 | Algeria | <http://covid19.sante.gov.dz/> |
 | Andorra | <https://www.govern.ad/> |
 | Armenia | <https://ncdc.am/coronavirus/> |
@@ -67,6 +74,11 @@
 | Ukraine | <https://moz.gov.ua/> |
 | United Kingdom | <https://www.gov.uk/> |
 | Uruguay | <https://www.gub.uy/> |
+
+## States
+
+| State | Data Source |
+| ----- | ----------- |
 | AK | <http://www.dhss.alaska.gov/> |
 | AL | <https://www.alabamapublichealth.gov/> |
 | AR | <https://www.healthy.arkansas.gov/> |
@@ -118,6 +130,11 @@
 | WI | <https://www.dhs.wisconsin.gov/> |
 | WV | <https://dhhr.wv.gov/> |
 | WY | <https://health.wyo.gov/> |
+
+## Counties
+
+| County | Data Source |
+| ------ | ----------- |
 | Alameda, CA | <http://www.acphd.org/> |
 | Alpine, CA | <https://www.alpinecountyca.gov/> |
 | Amador, CA | <https://www.amadorgov.org/> |
@@ -190,3 +207,26 @@
 | Pershing, NV | <http://www.pershingcounty.net/> |
 | Washoe, NV | <https://www.washoecounty.us/> |
 | White Pine, NV | <https://www.whitepinecounty.net/> |
+| Beaver, UT | <https://swuhealth.org/covid/> |
+| Box Elder, UT | <https://brhd.org/coronavirus/> |
+| Cache, UT | <https://brhd.org/coronavirus/> |
+| Carbon, UT | <https://www.seuhealth.com/covid-19> |
+| Daggett, UT | <https://tricountyhealth.com/local-covid-19-situational-update/> |
+| Duchesne, UT | <https://tricountyhealth.com/local-covid-19-situational-update/> |
+| Emery, UT | <https://www.seuhealth.com/covid-19> |
+| Garfield, UT | <https://swuhealth.org/covid/> |
+| Grand, UT | <https://www.seuhealth.com/covid-19> |
+| Iron, UT | <https://swuhealth.org/covid/> |
+| Juab, UT | <https://centralutahpublichealth.org/> |
+| Kane, UT | <https://swuhealth.org/covid/> |
+| Millard, UT | <https://centralutahpublichealth.org/> |
+| Morgan, UT | <http://www.webermorganhealth.org/coronavirus/> |
+| Piute, UT | <https://centralutahpublichealth.org/> |
+| Sanpete, UT | <https://centralutahpublichealth.org/> |
+| Sevier, UT | <https://centralutahpublichealth.org/> |
+| Uintah, UT | <https://tricountyhealth.com/local-covid-19-situational-update/> |
+| Washington, UT | <https://swuhealth.org/covid/> |
+| Wayne, UT | <https://centralutahpublichealth.org/> |
+| Weber, UT | <http://www.webermorganhealth.org/coronavirus/> |
+
+**Note**: Some counties share the same data source, also for counties where no individual source is provided, the information is provided at the state or country level
