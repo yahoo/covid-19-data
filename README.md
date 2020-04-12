@@ -8,7 +8,7 @@ The current offering includes:
 * A [public API](https://github.com/yahoo/covid-19-api/) powered by [Elide](https://elide.io/)
 * Hourly dataset updates from [public sources](https://github.com/yahoo/covid-19-data/blob/master/data-sources.md)
 * Open datasets ([commercial use upon request](https://docs.google.com/forms/d/e/1FAIpQLSdINfXR6S0ZmOGSvdvg4WUKzhqvDxltLoa4q4btQ4gkJokTPw/viewform]))
-* Open source [dashboard to explore data](https://covid19.knowledge.yahoo.com/)
+* Open source [dashboard to explore data](https://yahoo.github.io/covid-19-dashboard)
 
 ## Datasets
 
