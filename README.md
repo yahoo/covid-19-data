@@ -2,9 +2,10 @@
 
 ## Background
 
-The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public. 
+The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public.
 
 The current offering includes:
+
 * A [public API](https://github.com/yahoo/covid-19-api/) powered by [Elide](https://elide.io/)
 * Hourly dataset updates from [public sources](https://github.com/yahoo/covid-19-data/blob/master/data-sources.md)
 * Open datasets ([commercial use upon request](https://docs.google.com/forms/d/e/1FAIpQLSdINfXR6S0ZmOGSvdvg4WUKzhqvDxltLoa4q4btQ4gkJokTPw/viewform]))
@@ -61,13 +62,14 @@ when reading the current daily counts take notice that the case counts for speci
 | numPendingTests     | xsd:integer | the current count of people waiting to be tested for COVID-19 |
 | numRecoveredCases   | xsd:integer | the daily count of recovered cases |
 | numTested           | xsd:integer | the daily count of people tested for COVID-19 |
-| collectedDate       | xsd:datetime| last update time of the entry |
+| lastUpdatedDate     | xsd:datetime| last update time of the entry |
+| dataSource          | xsd:anyURI  | the source attribution for the COVID-19 data in the current entry |
 
 ## Maintainers
 
 + [Amit Nagpal](https://www.linkedin.com/in/amitnagpal09/)
 + [Asaf Ary](https://www.linkedin.com/in/asafary/)
-+ [Cindy Wang](https://www.linkedin.com/in/cindy-wang-365233/) 
++ [Cindy Wang](https://www.linkedin.com/in/cindy-wang-365233/)
 
 Please contact yk-covid-19-os@verizonmedia.com with any questions.
 
