@@ -49,10 +49,7 @@ when reading the current daily counts take notice that the case counts for speci
 | Field               | Type        | Description |
 |---------------------|-------------|-------------|
 | regionId            | xsd:string  | see _id_ above |
-| regionType          | xsd:string  | see above |
-| stateId             | xsd:string  |           |
-| countryId           | xsd:string  |           |
-| label               | xsd:string  |           |
+| label               | xsd:string  | see above      |
 | totalConfirmed      | xsd:integer | the total amount of confirmed cases of COVID-19 in the region until the given date (aggregate) |
 | totalDeaths         | xsd:integer | the total amount of fatalities from COVID-19 in the region |
 | totalRecoveredCases | xsd:integer | the total amount of people recovered from COVID-19 in the region (aggregate) |
