@@ -25,7 +25,7 @@ Provides general information about the regions covered in the dataset, such as g
 | Field               | Type        | Description |
 |---------------------|-------------|-------------|
 | id                  | xsd:string  | a unique identifier for the region |
-| type                | xsd:string  | the region type, for example: Country, StateAdminArea, CityTown, etc... |
+| type                | list of xsd:string | a list of type classifications for the region. for example: Country, StateAdminArea, CountyAdminArea, etc... |
 | woeId               | xsd:string  | WhereOnEarth unique identifier for the region |
 | wikiId              | xsd:string  | the main Wikipedia page name of the country, can be used as a unique key |
 | label               | xsd:string  | the English name of the region |
