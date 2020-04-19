@@ -2,7 +2,7 @@
 
 ## Background
 
-The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public.
+The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public.
 
 The current offering includes:
 
