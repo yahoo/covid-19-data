@@ -2,7 +2,7 @@
 
 ## Background
 
-The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing a subset of COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public.
+The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The team is releasing COVID-19 data, an API, and a dashboard that includes country, state, and county level information to the public.
 
 The current offering includes:
 
@@ -81,6 +81,6 @@ Please contact yk-covid-19-os@verizonmedia.com with any questions.
 
 ## License
 
-The Yahoo COVID-19 Dataset is made available under a [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).  No express permission from Verizon Media is required for noncommercial uses.  Only compliance with the CC-BY-NC 4.0 license is required for [noncommercial uses](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation) including attribution.
+The Yahoo Knowledge Graph COVID-19 Dataset is made available under a [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).  No express permission from Verizon Media is required for noncommercial uses.  Only compliance with the CC-BY-NC 4.0 license is required for [noncommercial uses](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation) including attribution.
 
 Verizon Media may consider granting royalty-free commercial licenses upon request.  If you are interested in making commercial use of the Yahoo COVID-19 Dataset, [please submit a request](https://docs.google.com/forms/d/e/1FAIpQLSdINfXR6S0ZmOGSvdvg4WUKzhqvDxltLoa4q4btQ4gkJokTPw/viewform).
