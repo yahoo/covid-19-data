@@ -6,6 +6,7 @@
 | ----------- |
 | <https://www.ecdc.europa.eu/en> |
 | <https://www.who.int/> |
+| <https://www.worldbank.org/> |
 
 ## Countries
 
