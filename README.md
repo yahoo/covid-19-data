@@ -19,13 +19,14 @@ Please check back frequently as more information will be constantly added.
 
 We welcome data feeds or links to web pages that you would like us to crawl, extract, and merge into the overall stats. Feel free to [submit an issue](https://github.com/yahoo/covid-19-data/issues/new).
 
-### region-info
+### region-metadata
+
 Provides general information about the regions covered in the dataset, such as geographical location and links to other public data sources.
 
 | Field               | Type        | Description |
 |---------------------|-------------|-------------|
 | id                  | xsd:string  | a unique identifier for the region |
-| type                | xsd:string  | the region type, for example: Country, StateAdminArea, CityTown, etc... |
+| type                | list of xsd:string | a list of type classifications for the region. for example: Country, StateAdminArea, CountyAdminArea, etc... |
 | woeId               | xsd:string  | WhereOnEarth unique identifier for the region |
 | wikiId              | xsd:string  | the main Wikipedia page name of the country, can be used as a unique key |
 | label               | xsd:string  | the English name of the region |
@@ -49,27 +50,32 @@ when reading the current daily counts take notice that the case counts for speci
 | Field               | Type        | Description |
 |---------------------|-------------|-------------|
 | regionId            | xsd:string  | see _id_ above |
-| regionType          | xsd:string  | see above |
-| stateId             | xsd:string  |           |
-| countryId           | xsd:string  |           |
-| label               | xsd:string  |           |
+| label               | xsd:string  | see above      |
 | totalConfirmed      | xsd:integer | the total amount of confirmed cases of COVID-19 in the region until the given date (aggregate) |
 | totalDeaths         | xsd:integer | the total amount of fatalities from COVID-19 in the region |
 | totalRecoveredCases | xsd:integer | the total amount of people recovered from COVID-19 in the region (aggregate) |
 | totalTestedCases    | xsd:integer | the total amount of people tested for COVID-19 in the region (aggregate) |
 | numActiveCases      | xsd:integer | the current count of confirmed COVID-19 cases in the region which have yet to recover or otherwise |
 | numDeaths           | xsd:integer | the daily count of fatalities as a result of COVID-19 |
-| numPendingTests     | xsd:integer | the current count of people waiting to be tested for COVID-19 |
 | numRecoveredCases   | xsd:integer | the daily count of recovered cases |
-| numTested           | xsd:integer | the daily count of people tested for COVID-19 |
+| numTests            | xsd:integer | the daily count of people tested for COVID-19 |
+| referenceDate       | xsd:date    | the date associated with the COVID-19 data according to the **local** timezone of the region |
 | lastUpdatedDate     | xsd:datetime| last update time of the entry |
 | dataSource          | xsd:anyURI  | the source attribution for the COVID-19 data in the current entry |
 
+### region-latest
+
+Provides the latest known figures for each region.
+
+The schema for the latest file is the same as the region-daily above.
+The main difference is in _referenceDate_: for the daily files, _referenceDate_ will always match the filename.
+In the latest file, _referenceDate_ will be dependant on the last extraction date and the local timezone of the region.
+
 ## Maintainers
 
-+ [Amit Nagpal](https://www.linkedin.com/in/amitnagpal09/)
-+ [Asaf Ary](https://www.linkedin.com/in/asafary/)
-+ [Cindy Wang](https://www.linkedin.com/in/cindy-wang-365233/)
+* [Amit Nagpal](https://www.linkedin.com/in/amitnagpal09/)
+* [Asaf Ary](https://www.linkedin.com/in/asafary/)
+* [Cindy Wang](https://www.linkedin.com/in/cindy-wang-365233/)
 
 Please contact yk-covid-19-os@verizonmedia.com with any questions.
 
