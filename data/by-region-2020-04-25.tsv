@@ -1,5 +1,6 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numActiveCases	numDeaths	numRecoveredCases	numTests	dataSource
 eb643940f04288c6d3bc49f7c4972d40	Abrantes	2020-04-25	2020-04-24T23:00:00		7							https://covid19.min-saude.pt/
+c22e8aefd0015bcf4e8fd333d1ad4f27	Abruzzo	2020-04-25		286	2803	438	32397	2079				http://www.salute.gov.it/
 c5d214d66da99ac7bc0edda19356e08a	Albergaria-a-Velha	2020-04-25	2020-04-24T23:00:00		61							https://covid19.min-saude.pt/
 95d743e07089d064234df2f9270f7523	Albufeira	2020-04-25	2020-04-24T23:00:00		68							https://covid19.min-saude.pt/
 a7d2ba59548e88b8aab0bea59afd7bfa	Alcanena	2020-04-25	2020-04-24T23:00:00		5							https://covid19.min-saude.pt/
@@ -12,9 +13,12 @@ db26f552a9b4b711e3537e26f49f2ccf	Amadora	2020-04-25	2020-04-24T23:00:00		253				
 6d8c20f6e5ad68e49b2c111db23a5b39	Amarante, Portugal	2020-04-25	2020-04-24T23:00:00		74							https://covid19.min-saude.pt/
 8aa48a0966a180c00618aa97cf659716	Amares	2020-04-25	2020-04-24T23:00:00		43							https://covid19.min-saude.pt/
 70cf52283d69f3b16429682b84d21075	Anadia, Portugal	2020-04-25	2020-04-24T23:00:00		28							https://covid19.min-saude.pt/
+49a1e8cf277bb1f58536e45c10c10020	Andalusia	2020-04-25	2020-04-24T09:35:03	1107	12495	3992						https://www.mscbs.gob.es/
 c637be1cf835c710a89f5c030c9252cb	Andaman and Nicobar Islands	2020-04-25	2020-04-24T11:30:00+0000	0	22	11						https://www.mohfw.gov.in/
 037960597072204e989f671623e600aa	Andhra Pradesh	2020-04-25	2020-04-24T11:30:00+0000	29	955	145						https://www.mohfw.gov.in/
 bcff8ce79caeec8c56ee42633d4c9d77	Antofagasta	2020-04-25	2020-04-24T04:00:00+0000	2	366							https://www.minsal.cl/
+c07f43af3f7ed5ff2f4e2a4fce92897b	Apulia	2020-04-25		383	3881	565	52472	2933				http://www.salute.gov.it/
+c2afadec4da6fe19d9f46a6df7502c3f	Aragon	2020-04-25	2020-04-24T09:35:03	695	5295	1781						https://www.mscbs.gob.es/
 ade4ec5bce5a681c6721328633a9a42d	Arcos de Valdevez	2020-04-25	2020-04-24T23:00:00		50							https://covid19.min-saude.pt/
 008218b7b83907d1f256b4e712f7494b	Arganil	2020-04-25	2020-04-24T23:00:00		7							https://covid19.min-saude.pt/
 00d864f2bc91e07edb48b7e3b4b2446e	Arica y Parinacota Region	2020-04-25	2020-04-24T04:00:00+0000	3	239							https://www.minsal.cl/
@@ -22,6 +26,7 @@ bde2677585a8c14ebb18c7ee709b713f	Arouca, Portugal	2020-04-25	2020-04-24T23:00:00
 75b4110ffcec84169eeb16f6649812b8	Arruda dos Vinhos	2020-04-25	2020-04-24T23:00:00		5							https://covid19.min-saude.pt/
 3e975ed48bcad18f8aaf761abb67d48b	Arunachal Pradesh	2020-04-25	2020-04-24T11:30:00+0000	0	1	1						https://www.mohfw.gov.in/
 44e0325f3e4f2272ae44a4a675b527e6	Assam	2020-04-25	2020-04-24T11:30:00+0000	1	36	19						https://www.mohfw.gov.in/
+8d0bf5abf5750f86ec01a9baee95ee3a	Asturias	2020-04-25	2020-04-24T09:35:03	231	2509	688						https://www.mscbs.gob.es/
 1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-04-25	2020-04-24T04:00:00+0000	0	21							https://www.minsal.cl/
 4442e4af0916f53a07fb8ca9a49b98ed	Australia	2020-04-25	2020-04-24T15:00:00	78	6675	5136	482000					https://www.health.gov.au/
 7188ee817ff0ec57b9ed4987e2b9341d	Australian Capital Territory	2020-04-25	2020-04-24T20:00:00+0000		104							https://www.health.gov.au/
@@ -29,21 +34,30 @@ bde2677585a8c14ebb18c7ee709b713f	Arouca, Portugal	2020-04-25	2020-04-24T23:00:00
 68445f8032f49a840247caf97852277d	Aveiro, Portugal	2020-04-25	2020-04-24T23:00:00		243							https://covid19.min-saude.pt/
 1d5c88aeee7280bb8ff1e48572fa330d	Azambuja	2020-04-25	2020-04-24T23:00:00		7							https://covid19.min-saude.pt/
 6ddecd8ccd9f648d19dc02c7a566cb4f	Bahrain	2020-04-25	2020-04-24T23:30:00	8	2518	1113	107273					https://www.moh.gov.bh/COVID19
+424a76833ca99e5863fb117fdb6d535f	Balearic Islands	2020-04-25	2020-04-24T09:35:03	172	1878	1081						https://www.mscbs.gob.es/
 59b7848c26cba6c40461d4f27dbd295d	Barcelos, Portugal	2020-04-25	2020-04-24T23:00:00		191							https://covid19.min-saude.pt/
 2e69f079b210c74f6e8498ab6319ef6d	Barreiro, Portugal	2020-04-25	2020-04-24T23:00:00		86							https://covid19.min-saude.pt/
+97db1e4ee88adfea537c30b0aa653a63	Basilicata	2020-04-25		24	360	107	9026	229				http://www.salute.gov.it/
+ebd9ba99ad127ded62bd4825f1882b60	Basque Country (autonomous community)	2020-04-25	2020-04-24T09:35:03	1193	13780	8459						https://www.mscbs.gob.es/
 ddbf06ae12c6026cb2bac4fc234c6cb6	Batalha, Portugal	2020-04-25	2020-04-24T23:00:00		4							https://covid19.min-saude.pt/
 859a18bad84184d704fd68a8faeeea1a	Bay of Plenty	2020-04-25	2020-04-24T02:20:00+0000		47	33		14				https://www.health.govt.nz/
+6c1674d14bf5f95742f572cddb0641a7	Belgium	2020-04-25	2020-04-24T00:00:00	6679	44293							https://epistat.wiv-isp.be/Covid/
 4ab43447d21e5b616f05947791dcdbb5	Benavente, Portugal	2020-04-25	2020-04-24T23:00:00		27							https://covid19.min-saude.pt/
 27559de2125101ccb786807bceb46aa1	Bihar	2020-04-25	2020-04-24T11:30:00+0000	2	176	46						https://www.mohfw.gov.in/
 f42b22099a586cbbc78db29b9bc96ea4	Bombarral	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
+d96b0c48a55dd5c1196584ab793e5643	Brittany (administrative region)	2020-04-25				743						https://www.santepubliquefrance.fr/
 8b5055b8ad8155f9690cb748eb35f235	Bruck an der Mur District	2020-04-25	2020-04-24T20:00:00		51							https://info.gesundheitsministerium.at/
 da09f52eec25639ae60a44f7e79f55a1	Burgenland	2020-04-25	2020-04-24T20:00:00	8		230		79				https://info.gesundheitsministerium.at/
 00de0e8082e9316b210e9d628a7d19ec	Cabeceiras de Basto	2020-04-25	2020-04-24T23:00:00		10							https://covid19.min-saude.pt/
 7cba18992ee4b9016468e8a64337cd34	Cadaval	2020-04-25	2020-04-24T23:00:00		5							https://covid19.min-saude.pt/
+cb09c754fad3673f7d34c75e63fad18c	Calabria	2020-04-25		80	1079	178	28764	821				http://www.salute.gov.it/
 57a23fa3dbb21cdbbf70326afb9c0f1d	Caldas da Rainha	2020-04-25	2020-04-24T23:00:00		15							https://covid19.min-saude.pt/
 abb0bf11c3ef17b05649ed3c2e088ed3	Calheta, Azores	2020-04-25	2020-04-24T23:00:00		5							https://covid19.min-saude.pt/
 06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-04-25	2020-04-24T00:00:00		122	110						http://www.cdcmoh.gov.kh/
 106114808380b70bd066c8bacc37b9a7	Caminha	2020-04-25	2020-04-24T23:00:00		14							https://covid19.min-saude.pt/
+cc817969d60833fd7c3c7461797d9b6d	Campania	2020-04-25		336	4282	1003	61331	2943				http://www.salute.gov.it/
+dc3bb29135ba4b09e76d1c1925790a5d	Canary Islands	2020-04-25	2020-04-24T09:35:03	128	2140	1017						https://www.mscbs.gob.es/
+403ec7ac6864b855d6111ddb002d1051	Cantabria	2020-04-25	2020-04-24T09:35:03	178	2273	913						https://www.mscbs.gob.es/
 435b855f1ce90b50ae94a8cc56e980e6	Cantanhede, Portugal	2020-04-25	2020-04-24T23:00:00		43							https://covid19.min-saude.pt/
 06263b8d6db0df452a3e235de61f8b69	Canton of Aargau	2020-04-25	2020-04-16T22:00:00+0000	23	943							https://www.bag.admin.ch/
 65ef6787094ace636764d0240d9512b1	Canton of Appenzell Ausserrhoden	2020-04-25	2020-04-16T22:00:00+0000	3	79							https://www.bag.admin.ch/
@@ -76,51 +90,70 @@ a8e896fcdfecad266b45b2fe7034216d	Castelo Branco, Portugal	2020-04-25	2020-04-24T
 965ed3ec9e3b5efeeaed3f08a7e242e7	Castelo de Paiva	2020-04-25	2020-04-24T23:00:00		10							https://covid19.min-saude.pt/
 771a65a1085917c13d0689670efb2f99	Castro Daire	2020-04-25	2020-04-24T23:00:00		100							https://covid19.min-saude.pt/
 5919147afb2ce2d99a1f9b35c62eda13	Castro Marim	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
+4b70ef6abcaca1b3311ccd7636aa92e2	Catalonia	2020-04-25	2020-04-24T09:35:03	4393	46571	16138						https://www.mscbs.gob.es/
 b90916ae6c1782c79f7b6d950d96f5dc	Celorico da Beira	2020-04-25	2020-04-24T23:00:00		9							https://covid19.min-saude.pt/
 35a3c6dd829791b6070d0374a437f8bc	Celorico de Basto	2020-04-25	2020-04-24T23:00:00		16							https://covid19.min-saude.pt/
+6ba4f96b7a9959170c8a360db22e850d	Centre-Val de Loire	2020-04-25				1038						https://www.santepubliquefrance.fr/
+b14c3890a187a7798035ac60d89b54f7	Ceuta	2020-04-25	2020-04-24T09:35:03	4	125	84						https://www.mscbs.gob.es/
 086a7856eb3440a11e9bb3e1c656d854	Chamusca	2020-04-25	2020-04-24T23:00:00		8							https://covid19.min-saude.pt/
 33d760dd178036b714669c2766cadf1b	Chandigarh	2020-04-25	2020-04-24T11:30:00+0000	0	27	14						https://www.mohfw.gov.in/
 16cbe6f32ee3647575fa736e491fa41e	Chaves, Portugal	2020-04-25	2020-04-24T23:00:00		23							https://covid19.min-saude.pt/
 98a0215e7384c0045229405845a76921	Chhattisgarh	2020-04-25	2020-04-24T11:30:00+0000	0	36	28						https://www.mohfw.gov.in/
 2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-04-25	2020-04-23T21:00:00	174	12306	6327						https://www.minsal.cl/
 7afb01c9f1acf1db40831e738bc2d079	Coimbra	2020-04-25	2020-04-24T23:00:00		368							https://covid19.min-saude.pt/
+9a4d970eac1bc4287c2a2bfe33326243	Community of Madrid	2020-04-25	2020-04-24T09:35:03	7765	61726	34212						https://www.mscbs.gob.es/
 65fd23a398a0936844ecf9768be1f1db	Condeixa-a-Nova	2020-04-25	2020-04-24T23:00:00		61							https://covid19.min-saude.pt/
 78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-04-25	2020-04-24T04:00:00+0000	0	72							https://www.minsal.cl/
+ada9a060b058259f01de14e24997f87d	Corsica	2020-04-25				168						https://www.santepubliquefrance.fr/
 8b7ca5b03f1286b3aab8879bd06fbf09	Coruche	2020-04-25	2020-04-24T23:00:00		33							https://covid19.min-saude.pt/
 4c6448118024cde337167524534e8401	Cuba, Portugal	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
 12a4359f3d8a4a2db61f4d040edb73ed	Czech Republic	2020-04-25	2020-04-24T22:30:00+0000	214	7273	2371	203622	4688				https://onemocneni-aktualne.mzcr.cz/
 08b618992b4f08c4a012234eeac2336d	Dakhla-Oued Ed-Dahab	2020-04-25	2020-04-24T17:00:00+0000		2							http://www.covidmaroc.ma/
 9baaebe1759ba1a6365a2b0539081516	Delhi	2020-04-25	2020-04-24T11:30:00+0000	50	2376	808						https://www.mohfw.gov.in/
 424214945ba5615eca039bfe5d731c09	Denmark	2020-04-25	2020-04-24T10:45:00	403	8210	5526	125329					https://www.sst.dk/
-5cdd21c97f86686cc505e02fd32a7523	Earth	2020-04-25	2020-04-25T00:36:38.16	190243	2755721							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+5cdd21c97f86686cc505e02fd32a7523	Earth	2020-04-25	2020-04-25T02:35:17.16	190513	2759481							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+46fb35db1ee26c5c3a1c59eca715c630	East Midlands	2020-04-25	2020-04-24T14:24:31		5941							https://www.gov.uk/
+9fa586c842208843c415cfa324048287	East of England	2020-04-25	2020-04-24T14:24:31		8878							https://www.gov.uk/
 8d8850eb122df8685285743838fb6abf	Eisenstadt	2020-04-25	2020-04-24T20:00:00		16							https://info.gesundheitsministerium.at/
 afc1fb751a11a5e54ec06a1c914c0b34	Elvas	2020-04-25	2020-04-24T23:00:00		8							https://covid19.min-saude.pt/
+46bc56ae264329f72d44b7bfd2f87076	Emilia-Romagna	2020-04-25		3303	23970	8158	151505	12509				http://www.salute.gov.it/
+64f607906be7598a02d75dbc1e979662	England	2020-04-25	2020-04-24T14:24:31	17372	105225							https://www.gov.uk/
 16c8ed5f311431675334fb05b9fe867c	Espinho, Portugal	2020-04-25	2020-04-24T23:00:00		63							https://covid19.min-saude.pt/
 220c19d10fe57704ebc86d9e2d87ec15	Esposende	2020-04-25	2020-04-24T23:00:00		40							https://covid19.min-saude.pt/
 ac4ff97e59ad433cb3452704ab98c4c1	Estarreja	2020-04-25	2020-04-24T23:00:00		52							https://covid19.min-saude.pt/
+37a1a8ebbedb0cd6a2244a12448a869e	Extremadura	2020-04-25	2020-04-24T09:35:03	411	3403	1358						https://www.mscbs.gob.es/
 a20df05bafa89d55d19741d3cce308e7	Fafe	2020-04-25	2020-04-24T23:00:00		72							https://covid19.min-saude.pt/
 96750469ea5eff2f9ae70eef66babad6	Faro, Portugal	2020-04-25	2020-04-24T23:00:00		58							https://covid19.min-saude.pt/
 62a31ae99f39c3703156dff0fb70ec15	Faroe Islands	2020-04-25	2020-04-24T08:00:00+0000	0	187	178	6458					https://www.sst.dk/
 76c542dd8bff7351540a16e1c87bf4ae	Felgueiras	2020-04-25	2020-04-24T23:00:00		275							https://covid19.min-saude.pt/
 22410ce6097d384ec19e092633607c61	Figueira da Foz	2020-04-25	2020-04-24T23:00:00		17							https://covid19.min-saude.pt/
 9e0606de7ec4d9a235d5c710f6efbba1	Figueira de Castelo Rodrigo	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
+0309a6c666a7a803fdb9db95de71cf01	France	2020-04-25	2020-04-24T14:00:00	22245	122577	43493						https://www.santepubliquefrance.fr/
+f759cc253e82d5acc22a83374fae2818	French Guiana	2020-04-25		1	107							https://www.who.int/
+d8fa078f85a325fda848f2fb4f4857d9	Friuli Venezia Giulia	2020-04-25		258	2882	1304	55502	1320				http://www.salute.gov.it/
 de270a614e5023d88704b7cf23875e6c	Funchal	2020-04-25	2020-04-24T23:00:00		30							https://covid19.min-saude.pt/
+67cb6c1780f6dc78144ed7f8402315f3	Galicia (Spain)	2020-04-25	2020-04-24T09:35:03	382	8932	1730						https://www.mscbs.gob.es/
+d8b00929dec65d422303256336ada04f	Germany	2020-04-25	2020-04-24T00:00:00	5500	152438	109800						https://www.rki.de/
 904848bc2d46b8dcd2e90e5a025f726e	Goa	2020-04-25	2020-04-24T11:30:00+0000	0	7	7						https://www.mohfw.gov.in/
 4c95b7b5aca6c7f6fa474e2a54eb0833	Gondomar, Portugal	2020-04-25	2020-04-24T23:00:00		894							https://covid19.min-saude.pt/
 07387094d487f4a7bc97fdac96d54172	Gouveia, Portugal	2020-04-25	2020-04-24T23:00:00		15							https://covid19.min-saude.pt/
 ca7668a05b2a3dbf29ca3d768c0febe8	Graz	2020-04-25	2020-04-24T20:00:00		453							https://info.gesundheitsministerium.at/
+d0ddf8ace64108fae4f1371f1fe778a2	Greater London	2020-04-25	2020-04-24T14:24:31		23063							https://www.gov.uk/
 583eda79d32f7c1cb0840862787a73ca	Greenland	2020-04-25	2020-04-24T08:00:00+0000	0	11	11	1180					https://www.sst.dk/
+0dc81c66d1c08d6ca64c7e8b60ae78fb	Guadeloupe	2020-04-25		12	148							https://www.who.int/
 78149812c9fa2064d787f13bed12a703	Guarda, Portugal	2020-04-25	2020-04-24T23:00:00		20							https://covid19.min-saude.pt/
 691b2330070783319ab18dbb948341cf	Guelmim-Oued Noun	2020-04-25	2020-04-24T17:00:00+0000		6							http://www.covidmaroc.ma/
 9ac24d086d7592786374e1995fb205e6	Gujarat	2020-04-25	2020-04-24T11:30:00+0000	112	2624	258						https://www.mohfw.gov.in/
 3d3b133886eed27f350f8215a605042d	Hartberg District	2020-04-25	2020-04-24T20:00:00		307							https://info.gesundheitsministerium.at/
 1b86e8daccc894df32394681ebe753e4	Haryana	2020-04-25	2020-04-24T11:30:00+0000	3	272	156						https://www.mohfw.gov.in/
+d0f46070f10d962c9c34661e07b36ba3	Hauts-de-France	2020-04-25				3597						https://www.santepubliquefrance.fr/
 a42109305349eb91ddbdda04373721e4	Himachal Pradesh	2020-04-25	2020-04-24T11:30:00+0000	1	40	18						https://www.mohfw.gov.in/
 4a1c1e0e4ed299c266832a4a98be4e90	Horta, Azores	2020-04-25	2020-04-24T23:00:00		6							https://covid19.min-saude.pt/
 fa79c3005daec47ecff84a116a0927a1	Hungary	2020-04-25	2020-04-24T07:21:00	250	2383	401	58251					https://koronavirus.gov.hu/
 7d31e0da1ab99fe8b08a22118e2f402b	India	2020-04-25	2020-04-24T11:30:00+0000	723	23452	4814						https://www.mohfw.gov.in/
 3081b7ed18f680faf5e9ce71b058cf9b	Innlandet	2020-04-25	2020-04-24T11:00:00		424							https://www.fhi.no/
 1ff97f22292e3d91119e867aadcf511b	Innsbruck	2020-04-25	2020-04-24T20:00:00		400							https://info.gesundheitsministerium.at/
+1007e1b7f894dfbf72a0eaa80f3bc57e	Italy	2020-04-25		25969	192994	60498	1642356	106527				http://www.salute.gov.it/
 475ec2baed249713cd6edc6274cb7875	Jammu and Kashmir (state)	2020-04-25	2020-04-24T11:30:00+0000	5	427	92						https://www.mohfw.gov.in/
 5308f89b85b77bdd39a446f01674e874	Jharkhand	2020-04-25	2020-04-24T11:30:00+0000	3	55	8						https://www.mohfw.gov.in/
 6ea1e24d60afddf388b06f8243c45b70	Jordan	2020-04-25	2020-04-24T18:30:00	7	441	326						https://corona.moh.gov.jo/
@@ -130,15 +163,19 @@ e369d9fd2ab54455129816db19e37fd4	Kerala	2020-04-25	2020-04-24T11:30:00+0000	3	44
 9411cbb4eebe5b8e9deb98dcebbc3b9d	Klagenfurt	2020-04-25	2020-04-24T20:00:00		86							https://info.gesundheitsministerium.at/
 fbb273840f8782292a36fdb74e1d6a19	Krems an der Donau	2020-04-25	2020-04-24T20:00:00		38							https://info.gesundheitsministerium.at/
 05387f3ca38d7bd84ae35f31f2899ecf	Kuwait	2020-04-25	2020-04-24T00:00:00	15	2614	613						https://corona.e.gov.kw/
+097f9b6b805aac4bcb7a36bb78c20840	La Rioja (Spain)	2020-04-25	2020-04-24T09:35:03	307	4865	1964						https://www.mscbs.gob.es/
 cf474fd5821e76175fe0f895ef9c9a0b	Ladakh	2020-04-25	2020-04-24T11:30:00+0000	0	18	14						https://www.mohfw.gov.in/
 f671fec08c7515f6716850094d371cef	Lagoa, Algarve	2020-04-25	2020-04-24T23:00:00		7							https://covid19.min-saude.pt/
 154822144cb3a3ec038d2de0ddd240ad	Lagos, Portugal	2020-04-25	2020-04-24T23:00:00		4							https://covid19.min-saude.pt/
 a37b699ac376585133ffaa5b493e5cef	Lamego	2020-04-25	2020-04-24T23:00:00		33							https://covid19.min-saude.pt/
+84d0447bddc00597d2a14284d627c8ed	Lazio	2020-04-25		384	6132	1256	114317	4492				http://www.salute.gov.it/
 b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	2020-04-25	2020-04-24T16:53:00	22	696	140	25337					https://corona.ministryinfo.gov.lb/
 9716560415209c7683898db025d910ad	Leiria	2020-04-25	2020-04-24T23:00:00		63							https://covid19.min-saude.pt/
+47abe64b4e6d1e3b619c16b2ff75022a	Liguria	2020-04-25		1076	7173	2660	39563	3437				http://www.salute.gov.it/
 443befbacdaa99c161dd11495b82b99b	Linz	2020-04-25	2020-04-24T20:00:00		300							https://info.gesundheitsministerium.at/
 260b4e591e03de9750f965a30087ed5f	Lisbon	2020-04-25	2020-04-24T23:00:00		1271							https://covid19.min-saude.pt/
 d9051e0b77f8bb5521389618e70e2ada	Lithuania	2020-04-25	2020-04-24T10:45:00	40	1410	430	90992					https://koronastop.lrv.lt
+b0ea6e29d4727582c926ca0e6b9f775b	Lombardy	2020-04-25		13106	71256	23782	314298	34368				http://www.salute.gov.it/
 27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-04-25	2020-04-24T04:00:00+0000	8	460							https://www.minsal.cl/
 357f9948bcc7b532177ba13c896171c8	Loures	2020-04-25	2020-04-24T23:00:00		303							https://covid19.min-saude.pt/
 7ccecefc413bc3c4782967801162a596	Lousada	2020-04-25	2020-04-24T23:00:00		162							https://covid19.min-saude.pt/
@@ -155,14 +192,18 @@ b9e89790cfff7b5c57c108f4f8b35d48	Maia, Portugal	2020-04-25	2020-04-24T23:00:00		
 a9f77a1613eb1316193a46cde1f4a153	Mangualde	2020-04-25	2020-04-24T23:00:00		63							https://covid19.min-saude.pt/
 9f405b4cfb0722cc0518fc99a26f3c2a	Manipur	2020-04-25	2020-04-24T11:30:00+0000	0	2	2						https://www.mohfw.gov.in/
 a8cbddc80fb0a973f4f8cdbc07b860d9	Manteigas	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
+cbbf47d0cf18f11240d45497ac3c395b	Marche	2020-04-25		865	6028	1890	49163	3273				http://www.salute.gov.it/
 e6ad897785a2889cf659732c31dd6d5d	Marco de Canaveses	2020-04-25	2020-04-24T23:00:00		59							https://covid19.min-saude.pt/
 70fe06d872bd1ac699d976796f3a178c	Marinha Grande	2020-04-25	2020-04-24T23:00:00		14							https://covid19.min-saude.pt/
 0a8c642a302d1968b167aa75eef74e3f	Marrakesh-Safi	2020-04-25	2020-04-24T17:00:00+0000		802							http://www.covidmaroc.ma/
+899c4b2a0d41d5b86e2dbc3b2f5380cf	Martinique	2020-04-25		14	170							https://www.who.int/
 62402cd9d6e7a3e76660d901d9f23b18	Matosinhos	2020-04-25	2020-04-24T23:00:00		934							https://covid19.min-saude.pt/
 255cbbc9d4e6cd82ca3d3837ad7093fa	Maule Region	2020-04-25	2020-04-24T04:00:00+0000	10	349							https://www.minsal.cl/
 07f3ca235faaa1c9ad16facef5526d8b	Mauritius	2020-04-25	2020-04-24T00:00:00	9	331	285						http://www.covid19.mu/
+9c05c40b81fd906b1585e231c0d896f1	Mayotte	2020-04-25		4	339							https://www.who.int/
 ea7c631b4b5bcf1017f88116f7dfa234	Mealhada	2020-04-25	2020-04-24T23:00:00		14							https://covid19.min-saude.pt/
 418d4c56f7fa6ee6dbfe42f70876d8da	Meghalaya	2020-04-25	2020-04-24T11:30:00+0000	1	12	0						https://www.mohfw.gov.in/
+5475ba47056fb8596065a0d640138bb0	Melilla	2020-04-25	2020-04-24T09:35:03	2	116	61						https://www.mscbs.gob.es/
 bb159249a948d564e6815f7ffa5da0c4	Mira, Portugal	2020-04-25	2020-04-24T23:00:00		4							https://covid19.min-saude.pt/
 ace5897b56e196fcb8a29b51738033f9	Miranda do Corvo	2020-04-25	2020-04-24T23:00:00		13							https://covid19.min-saude.pt/
 b967ab6d51f48df87b3d407341369f23	Miranda do Douro	2020-04-25	2020-04-24T23:00:00		7							https://covid19.min-saude.pt/
@@ -170,18 +211,25 @@ b967ab6d51f48df87b3d407341369f23	Miranda do Douro	2020-04-25	2020-04-24T23:00:00
 4b8c5cc6acf242d8a24ad12b227d16ce	Mizoram	2020-04-25	2020-04-24T11:30:00+0000	0	1	0						https://www.mohfw.gov.in/
 4d2ee3f999437317fd3bb4eba4d5efc9	Moimenta da Beira	2020-04-25	2020-04-24T23:00:00		11							https://covid19.min-saude.pt/
 dddae2c8073658f33c5161f3812afdae	Moita	2020-04-25	2020-04-24T23:00:00		61							https://covid19.min-saude.pt/
+5167f4d23cf87e8955e0869fc2a4ecfa	Molise	2020-04-25		20	287	67	4805	200				http://www.salute.gov.it/
 d7a5772ab38c310930dc9b8407d3c8a0	Montemor-o-Velho	2020-04-25	2020-04-24T23:00:00		16							https://covid19.min-saude.pt/
 5d9883c0820e37ca2d4962edbb7f6eaa	Montijo, Portugal	2020-04-25	2020-04-24T23:00:00		40							https://covid19.min-saude.pt/
 4d4a1722d8e85909a576da2c42878ff0	Morocco	2020-04-25	2020-04-24T18:00:00	158	3758	486						http://www.covidmaroc.ma/
 f98e69fd474e95646c6d54b6c8379e60	Moura, Portugal	2020-04-25	2020-04-24T23:00:00		29							https://covid19.min-saude.pt/
 773263b11483ec40f6821faa579c74a4	Murtosa	2020-04-25	2020-04-24T23:00:00		8							https://covid19.min-saude.pt/
+1ea40eabc4d7e003bfb08b8f4a047652	Navarre	2020-04-25	2020-04-24T09:35:03	417	5180	1552						https://www.mscbs.gob.es/
 9b972961dd61f8a1ba93399fc8034bda	Nelas	2020-04-25	2020-04-24T23:00:00		14							https://covid19.min-saude.pt/
 a67d4cbdd1b59e0ffccc6bafc83eb033	Netherlands	2020-04-25	2020-04-24T15:35:00	4289	36535							https://www.rivm.nl/
 238dc11e5d8dbea1158dd326a08614c0	New South Wales	2020-04-25	2020-04-24T20:00:00+0000		2994							https://www.health.gov.au/
 23113b12a9d8135100497751756d4bee	New Zealand	2020-04-25	2020-04-24T09:00:00	17	1114	1095	108238					https://www.health.govt.nz/
 32df967ee87142dd8ca7be88842ba136	Nordland	2020-04-25	2020-04-24T11:00:00		113							https://www.fhi.no/
+85d2b8ec0ca91db1e0d6ad486c169959	Normandy	2020-04-25				965						https://www.santepubliquefrance.fr/
+39af04bf8904745f6b1b0edfab19ef0d	North East England	2020-04-25	2020-04-24T14:24:31		6546							https://www.gov.uk/
+8c09f00326f31311647464e40afcb6ea	North West England	2020-04-25	2020-04-24T14:24:31		16252							https://www.gov.uk/
 b19aa8ce8070b6012633afc284e5f569	Northern Territory	2020-04-25	2020-04-24T20:00:00+0000		27							https://www.health.gov.au/
 d5b9290a0b67727d4ba1ca6059dc31a6	Norway	2020-04-25	2020-04-24T08:00:00	191	7408		155125					https://www.fhi.no/
+100ea10c9fa7706dabf917bd66a08aeb	Nouvelle-Aquitaine	2020-04-25				1243						https://www.santepubliquefrance.fr/
+4925fb79ef2eb5cafbad0f114032ae21	Occitanie	2020-04-25				1974						https://www.santepubliquefrance.fr/
 6066310fdf9edf269cb0b6848ddfccb9	Odisha	2020-04-25	2020-04-24T11:30:00+0000	1	90	33						https://www.mohfw.gov.in/
 87d821bd5a7c83ee71b279d4d561a222	Odivelas	2020-04-25	2020-04-24T23:00:00		193							https://covid19.min-saude.pt/
 f77b08bf065e1c6790747c4f21608a18	Oeiras, Portugal	2020-04-25	2020-04-24T23:00:00		218							https://covid19.min-saude.pt/
@@ -194,10 +242,12 @@ f4830432874f86d2e2a1a5f2dbebbc80	Oslo	2020-04-25	2020-04-24T11:00:00		2273						
 8f6effd31825dd4d397ae1833028e208	Palmela	2020-04-25	2020-04-24T23:00:00		18							https://covid19.min-saude.pt/
 804cb447be7832a9f4e3f99bba47b030	Paredes, Portugal	2020-04-25	2020-04-24T23:00:00		251							https://covid19.min-saude.pt/
 5d3038ac706c87ba2c5ad3531ab18cb5	Paredes de Coura	2020-04-25	2020-04-24T23:00:00		7							https://covid19.min-saude.pt/
+b8c593bcd3fbcd5aa8caed32c0f97aba	Pays de la Loire	2020-04-25				1090						https://www.santepubliquefrance.fr/
 f774bf7539e2d55553afd19168a241df	Penacova	2020-04-25	2020-04-24T23:00:00		14							https://covid19.min-saude.pt/
 9762de8da24642870f95f0146d7891db	Penafiel	2020-04-25	2020-04-24T23:00:00		134							https://covid19.min-saude.pt/
 d9b3e0d109a57d3c92ceaa5a74716831	Penela	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
 a725d30e7da72ed4d681e9ed48cbc842	Peniche, Portugal	2020-04-25	2020-04-24T23:00:00		10							https://covid19.min-saude.pt/
+deb65130918c961ea80790accbb4484d	Piedmont	2020-04-25		2699	23822	5732	125300	15391				http://www.salute.gov.it/
 0679b5f1bb79d16f5d900352713d4bf9	Pinhel	2020-04-25	2020-04-24T23:00:00		22							https://covid19.min-saude.pt/
 edcc7ce272618c0535e1bdb5f8b634ee	Pombal, Portugal	2020-04-25	2020-04-24T23:00:00		39							https://covid19.min-saude.pt/
 97b0f63a2296827fd0c66c4777711658	Ponta Delgada	2020-04-25	2020-04-24T23:00:00		4							https://covid19.min-saude.pt/
@@ -212,6 +262,7 @@ ea71b362e3ea9969db085abfccdeb10d	Portugal	2020-04-25	2020-04-24T03:00:00	854	227
 81b03c07e7cc90aabc2143648791ed06	Puducherry	2020-04-25	2020-04-24T11:30:00+0000	0	7	3						https://www.mohfw.gov.in/
 a5242c1436be2b5a277885df78be6b01	Queensland	2020-04-25	2020-04-24T20:00:00+0000		1026							https://www.health.gov.au/
 d418e699c9dd62a45089899a35a02404	Rajasthan	2020-04-25	2020-04-24T11:30:00+0000	27	1964	230						https://www.mohfw.gov.in/
+e96f78b67f5c4654268d411be5458909	Region of Murcia	2020-04-25	2020-04-24T09:35:03	125	1741	791						https://www.mscbs.gob.es/
 da11822e8fb4f18bfdb37b85292db069	Reguengos de Monsaraz	2020-04-25	2020-04-24T23:00:00		6							https://covid19.min-saude.pt/
 20b0f54a13f9bf5b41f56f6854ed5db0	Resende, Portugal	2020-04-25	2020-04-24T23:00:00		61							https://covid19.min-saude.pt/
 ba95c080214b958313cc058a79adac6d	Ribeira de Pena	2020-04-25	2020-04-24T23:00:00		3							https://covid19.min-saude.pt/
@@ -224,11 +275,14 @@ b34c72f31d2f11ac34c0c76970ce6364	Salzburg (state)	2020-04-25	2020-04-24T20:00:00
 1610f326457f9ebb2aef7a5c9219e319	Santa Cruz, Madeira	2020-04-25	2020-04-24T23:00:00		6							https://covid19.min-saude.pt/
 e342c7a06e0c1250ddc923f512c560c6	Santa Maria da Feira	2020-04-25	2020-04-24T23:00:00		356							https://covid19.min-saude.pt/
 44c4b6d5560e1668ea968162ed4c39e8	Santo Tirso	2020-04-25	2020-04-24T23:00:00		282							https://covid19.min-saude.pt/
+a65ed8e2728a0d78b5367f59702e9320	Sardinia	2020-04-25		102	1257	351	19889	804				http://www.salute.gov.it/
+da5dd6f051ca74960ec199973cf8bf0f	Scotland	2020-04-25	2020-04-24T14:24:31	1120	9697							https://www.gov.uk/
 1bfcb82d42bbf1baffe6d2c6416af353	Seia	2020-04-25	2020-04-24T23:00:00		8							https://covid19.min-saude.pt/
 a92bf0c9cc963c0276ddeef6061c0a42	Seixal	2020-04-25	2020-04-24T23:00:00		148							https://covid19.min-saude.pt/
 e2658515ae5eec7efe099684ad795980	Serpa	2020-04-25	2020-04-24T23:00:00		18							https://covid19.min-saude.pt/
 97a73a870e48631e55b929aa6f05815d	Sesimbra	2020-04-25	2020-04-24T23:00:00		19							https://covid19.min-saude.pt/
 311b9b77447442d4be76f909f1c77209	Sever do Vouga	2020-04-25	2020-04-24T23:00:00		29							https://covid19.min-saude.pt/
+afc898fcdf7c8345694944b048c73746	Sicily	2020-04-25		218	2981	443	65165	2320				http://www.salute.gov.it/
 8404c729af651364a7cf26b9467b3e3f	Silves, Portugal	2020-04-25	2020-04-24T23:00:00		21							https://covid19.min-saude.pt/
 458e4cbc78201c1aec5fc53a31c59378	Singapore	2020-04-25	2020-04-24	12	12075	956	121774	11107				https://www.moh.gov.sg/covid-19
 877df04b7bb600041f4ce7978061406e	Sintra	2020-04-25	2020-04-24T23:00:00		515							https://covid19.min-saude.pt/
@@ -236,6 +290,10 @@ fb16961ea082d104a56aaaa392fca6c4	Soure, Portugal	2020-04-25	2020-04-24T23:00:00	
 4525654750c36b10ddada1f8fd95da16	Souss-Massa	2020-04-25	2020-04-24T17:00:00+0000		50							http://www.covidmaroc.ma/
 1287b11a755a7d660aa421359e6d24d0	South Africa	2020-04-25	2020-04-24T00:00:00	79	4220	1473	153390					https://sacoronavirus.co.za/
 b9ad9e76d90ea1e7d150ee3e87af0d1a	South Australia	2020-04-25	2020-04-24T20:00:00+0000		438							https://www.health.gov.au/
+f096bf992c2b5ca71e1ad76b76b277c8	South East England	2020-04-25	2020-04-24T14:24:31		14974							https://www.gov.uk/
+30d1a660dcaf4082b9f0a416f7edfed5	South Tyrol	2020-04-25		263	2456	1100	35062	1093				http://www.salute.gov.it/
+127e7702479e3739dce8e92db82a7885	South West England	2020-04-25	2020-04-24T14:24:31		5528							https://www.gov.uk/
+907eba32d950bfab68227fd7ea22999b	Spain	2020-04-25	2020-04-24T21:00:00	22524	219764	92355						https://www.mscbs.gob.es/
 131130c9120de7d00df0bba87f93005e	Steyr	2020-04-25	2020-04-24T20:00:00		61							https://info.gesundheitsministerium.at/
 cb17153656c01858896be179abd25e38	Styria	2020-04-25	2020-04-24T20:00:00	107		973		604				https://info.gesundheitsministerium.at/
 d7a55ccf43d41e61fd22ee9f0548a8cf	Tamil Nadu	2020-04-25	2020-04-24T11:30:00+0000	20	1683	752						https://www.mohfw.gov.in/
@@ -250,20 +308,26 @@ e9ebcb2b23b7c18c27b2810b85e495cc	Terras de Bouro	2020-04-25	2020-04-24T23:00:00	
 006d79e2e56c7e9add4a7c8214fb1dff	Torres Novas	2020-04-25	2020-04-24T23:00:00		11							https://covid19.min-saude.pt/
 3d6c9da986fc2b07145f900a7f28e5ed	Torres Vedras	2020-04-25	2020-04-24T23:00:00		28							https://covid19.min-saude.pt/
 a3e77ef9e01fb89859705824d08a085b	Trancoso, Portugal	2020-04-25	2020-04-24T23:00:00		17							https://covid19.min-saude.pt/
+0269dae753688f767813897dbe8be9f4	Trentino	2020-04-25		389	3776	1560	29779	1827				http://www.salute.gov.it/
 0bad206b82a2c718af4332280419b104	Tripura	2020-04-25	2020-04-24T11:30:00+0000	0	2	1						https://www.mohfw.gov.in/
 65b9cf579750548f0cc5c8b8bf19152d	Trofa	2020-04-25	2020-04-24T23:00:00		115							https://covid19.min-saude.pt/
 fad2545abc5d025ba7b7fd6ed1183b1a	Troms og Finnmark	2020-04-25	2020-04-24T11:00:00		229							https://www.fhi.no/
 221cdfb73049678e244380b45872cbb2	Turkey	2020-04-25	2020-04-24T00:00:00	2600	104912	21737	830257					https://covid19.saglik.gov.tr/
+b6111b6a101e80da31bd9fc31655164b	Tuscany	2020-04-25		742	8877	2002	121336	6133				http://www.salute.gov.it/
 5cf93865db09f6ff3855ef7334b97c8c	Tyrol (state)	2020-04-25	2020-04-24T20:00:00	98		2943		408				https://info.gesundheitsministerium.at/
+b957bf1ae46a4ab812f3bbd9af464aaa	Umbria	2020-04-25		62	1363	979	30524	322				http://www.salute.gov.it/
 edab6ab6fad43f4911b41103922c3e9e	United Arab Emirates	2020-04-25		64	9281	1760						https://covid19.ncema.gov.ae/
+5ad75a758f27c089b52a1eac8dca7e0d	United Kingdom	2020-04-25	2020-04-24T08:00:00	19506	143464							https://www.gov.uk/
 6922c2d0821afd8e14c746ab9e6ea2df	Upper Austria	2020-04-25	2020-04-24T20:00:00	47		2007		174				https://info.gesundheitsministerium.at/
 a21c1873af3dbc01c143b6e3f38e9fa9	Uttar Pradesh	2020-04-25	2020-04-24T11:30:00+0000	24	1604	206						https://www.mohfw.gov.in/
 62cfab1d81df1897ffaae3094403483e	Uttarakhand	2020-04-25	2020-04-24T11:30:00+0000	0	47	24						https://www.mohfw.gov.in/
 2e141761a4c1645ee35646ad13a8e8ad	Vagos	2020-04-25	2020-04-24T23:00:00		17							https://covid19.min-saude.pt/
 2d5485a448277a0ea4191655d32856fc	Vale de Cambra	2020-04-25	2020-04-24T23:00:00		85							https://covid19.min-saude.pt/
+7f3db3489b0bdeb901c1e318533c262e	Valencian Community	2020-04-25	2020-04-24T09:35:03	1147	10906	5809						https://www.mscbs.gob.es/
 565112b67275c9c8b14725d9af9c93b8	Valongo	2020-04-25	2020-04-24T23:00:00		655							https://covid19.min-saude.pt/
 013814c582f2e04ebcbd8be835b981d1	Vaud	2020-04-25	2020-04-16T22:00:00+0000	266	4794							https://www.bag.admin.ch/
 5a1fc5920c6b31e7f78e5a5ffb886c4e	Velas	2020-04-25	2020-04-24T23:00:00		6							https://covid19.min-saude.pt/
+6f62c119eb74408b76b9b32e53b38cf5	Veneto	2020-04-25		1244	17229	6306	296896	9679				http://www.salute.gov.it/
 90edf9dddf944355ac5949ee9f1280d9	Vestfold og Telemark	2020-04-25	2020-04-24T11:00:00		268							https://www.fhi.no/
 07f393ec4e3709f2bf27dbddb00f91da	Vestland	2020-04-25	2020-04-24T11:00:00		829							https://www.fhi.no/
 df12fd45bef1cc8ef2a5c024732fc053	Viana do Castelo	2020-04-25	2020-04-24T23:00:00		132							https://covid19.min-saude.pt/
@@ -291,10 +355,13 @@ bbba6910ddd9359d2d4458593a16a1d7	Vizela	2020-04-25	2020-04-24T23:00:00		69						
 ec05171b4c22e1a99d5c9dab86cbbf48	Vouzela	2020-04-25	2020-04-24T23:00:00		6							https://covid19.min-saude.pt/
 a7d56e7c5c4b6ffca4e9fda8eb9f8ebe	Waidhofen an der Ybbs	2020-04-25	2020-04-24T20:00:00		23							https://info.gesundheitsministerium.at/
 d8afff57191b68b3b4f4c3d1099fc276	Waikato	2020-04-25	2020-04-24T02:20:00+0000	1	189	115		73				https://www.health.govt.nz/
+e612e56ca0235a349cffa8331d8a6ad7	Wales	2020-04-25	2020-04-24T14:24:31	751	8601							https://www.gov.uk/
 7d9d5414c5269ec416701a2fdbe2c9b6	Wels	2020-04-25	2020-04-24T20:00:00		57							https://info.gesundheitsministerium.at/
 be5bf577e4f25ca3525e0ddd4c3e3688	West Bengal	2020-04-25	2020-04-24T11:30:00+0000	15	514	103						https://www.mohfw.gov.in/
 faaf89538aebf477c534aa4dbe32dc4f	West Coast, New Zealand	2020-04-25	2020-04-24T02:20:00+0000	1	5	4		0				https://www.health.govt.nz/
+e8bd565ab45209a6aadd3020a43e51c0	West Midlands (region)	2020-04-25	2020-04-24T14:24:31		11172							https://www.gov.uk/
 84d05acd35799d0c3e37bb59c74dd9f2	Western Australia	2020-04-25	2020-04-24T20:00:00+0000		548							https://www.health.gov.au/
 c1a6b42d892795a2406030ea4a3845c5	Whanganui	2020-04-25	2020-04-24T02:20:00+0000		9	7		2				https://www.health.govt.nz/
 c9f34b8f7517e3fa1dd80650bfdcb12c	Wiener Neustadt	2020-04-25	2020-04-24T20:00:00		39							https://info.gesundheitsministerium.at/
+41ba2469b9f3765260373b2f85071ff1	Yorkshire and the Humber	2020-04-25	2020-04-24T14:24:31		8326							https://www.gov.uk/
 b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	2020-04-25	2020-04-24T16:53:00	22	696	140	25337					https://corona.ministryinfo.gov.lb/
