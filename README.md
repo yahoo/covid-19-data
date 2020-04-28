@@ -75,6 +75,10 @@ Note that because different regions report at different and often unpredictable 
 
 Please contact yk-covid-19-os@verizonmedia.com with any questions.
 
+## Contributors
+
+[Thank you to everyone](https://github.com/yahoo/covid-19-data/blob/master/contributors.md) who contributed to this project! 
+
 ## License
 
 The Yahoo Knowledge Graph COVID-19 Dataset is made available under a [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).  No express permission from Verizon Media is required for noncommercial uses.  Only compliance with the CC-BY-NC 4.0 license is required for [noncommercial uses](https://wiki.creativecommons.org/wiki/NonCommercial_interpretation) including attribution.
