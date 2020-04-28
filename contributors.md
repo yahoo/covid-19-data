@@ -54,4 +54,4 @@ Suriya Sundar Sampath\
 [Ashley Wolf](https://www.linkedin.com/in/ashleywolf/)\
 [Gil Yehuda](https://www.linkedin.com/in/gilyehuda/)\
 [Michael F. Martin](https://www.linkedin.com/in/michael-f-martin-10ab805b/)\
-[Rosalie Bartlett](https://www.linkedin.com/in/rosaliebartlett/)\
+[Rosalie Bartlett](https://www.linkedin.com/in/rosaliebartlett/)
