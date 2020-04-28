@@ -1,5 +1,5 @@
 # Yahoo Knowledge Graph COVID-19 Datasets
-
+[![Slack](https://badgen.net/badge/slack/chat/purple?icon=slack)](https://join.slack.com/t/ykgcovid-19/shared_invite/zt-dh1owuzn-RkEy9_r8PhzhrV6PHa5MUg)
 ## Background
 
 The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The COVID-19 datasets include country, state, and county level information updated on a rolling basis, with updates occuring approximately hourly.
