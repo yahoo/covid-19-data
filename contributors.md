@@ -1,6 +1,6 @@
 Thanks goes to these wonderful people:
 
-Yahoo Knowledge Graph, CAKE team\
+## Yahoo Knowledge Graph, CAKE team
 [Alvaro Mendez](https://www.linkedin.com/in/alvaro-mendez-b27183b4/)\
 [Amit Kumar](https://www.linkedin.com/in/ask4amit/)\
 [Amit Nagpal](https://www.linkedin.com/in/amitnagpal09/)\
@@ -20,9 +20,9 @@ Rohan Nogueira\
 [Sanil Ghatpande](https://www.linkedin.com/in/sanil-ghatpande-bb64581b/)\
 [Runqi Shao](https://www.linkedin.com/in/runqi-shao-9304a5a4/)\
 [Stephanie Blair](https://www.linkedin.com/in/stephaniedekermenjian/)\
-[Vipin V](https://www.linkedin.com/in/getvipin/)\
+[Vipin V](https://www.linkedin.com/in/getvipin/)
 
-Platforms
+## Platforms
 [Aaron Klish](https://www.linkedin.com/in/aaron-klish-005927/)\
 [Anders Beitnes](https://www.linkedin.com/in/andersbeitnes/)\
 [Balaji Manoharan](https://www.linkedin.com/in/balaji-manoharan-08006018/)\
@@ -37,7 +37,7 @@ Hardik Patel\
 Jordan Schwartz\
 [Luke Sheppard](https://www.linkedin.com/in/lukesheppardinfosec/)\
 [Kannan Ramamoorthy](https://www.linkedin.com/in/kannan-ramamoorthy-oscp-ceh-75477a62/)\
-[Kaushik Satpathy[(https://www.linkedin.com/in/kaushiksatpathy/)\
+[Kaushik Satpathy](https://www.linkedin.com/in/kaushiksatpathy/)\
 [Kevin Hinterlong](https://www.linkedin.com/in/kevinhinterlong/)\
 [Mohanakrishnakumar Karunakaran](https://www.linkedin.com/in/mohanakrishnakumarkarunakaran/)\
 [Mohit Arora](https://www.linkedin.com/in/mohitarora13/)\
@@ -50,7 +50,7 @@ Jordan Schwartz\
 Suriya Sundar Sampath\
 [Tiffany Kyi](https://www.linkedin.com/in/tiffanykyi/)\
  
-Open Source\
+## Open Source Program Office
 [Ashley Wolf](https://www.linkedin.com/in/ashleywolf/)\
 [Gil Yehuda](https://www.linkedin.com/in/gilyehuda/)\
 [Michael F. Martin](https://www.linkedin.com/in/michael-f-martin-10ab805b/)\
