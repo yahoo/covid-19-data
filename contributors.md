@@ -48,7 +48,7 @@ Jordan Schwartz\
 [Sri Pulla](https://www.linkedin.com/in/sri-pulla-71592a21/)\
 [Suresh Visvanathan](https://www.linkedin.com/in/sureshvisvanathan/)\
 Suriya Sundar Sampath\
-[Tiffany Kyi](https://www.linkedin.com/in/tiffanykyi/)\
+[Tiffany Kyi](https://www.linkedin.com/in/tiffanykyi/)
  
 ## Open Source Program Office
 [Ashley Wolf](https://www.linkedin.com/in/ashleywolf/)\
