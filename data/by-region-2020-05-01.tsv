@@ -1,6 +1,10 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numActiveCases	numDeaths	numRecoveredCases	numTests	dataSource
+36c6e65b740d4dae1bd4d63346c7cd07	Águeda	2020-05-01	2020-04-30T23:00:00		44							https://covid19.min-saude.pt/
+15d16c62663b9a81277fd7778bcde586	Évora	2020-05-01	2020-04-30T23:00:00		19							https://covid19.min-saude.pt/
+ac61cf0003fdc6743c13a1cc1c9a81ea	Ílhavo	2020-05-01	2020-04-30T23:00:00		99							https://covid19.min-saude.pt/
 eb643940f04288c6d3bc49f7c4972d40	Abrantes	2020-05-01	2020-04-30T23:00:00		8							https://covid19.min-saude.pt/
 c22e8aefd0015bcf4e8fd333d1ad4f27	Abruzzo	2020-05-01		320	2930	695	37996	1915				http://www.salute.gov.it/
+225a80fd19c736dd5de8a07901643637	Agder	2020-05-01	2020-04-30T11:00:00		325							https://www.fhi.no/
 c5d214d66da99ac7bc0edda19356e08a	Albergaria-a-Velha	2020-05-01	2020-04-30T23:00:00		82							https://covid19.min-saude.pt/
 95d743e07089d064234df2f9270f7523	Albufeira	2020-05-01	2020-04-30T23:00:00		70							https://covid19.min-saude.pt/
 a7d2ba59548e88b8aab0bea59afd7bfa	Alcanena	2020-05-01	2020-04-30T23:00:00		7							https://covid19.min-saude.pt/
@@ -29,6 +33,7 @@ bde2677585a8c14ebb18c7ee709b713f	Arouca, Portugal	2020-05-01	2020-04-30T23:00:00
 44e0325f3e4f2272ae44a4a675b527e6	Assam	2020-05-01	2020-04-30T11:30:00+0000	1	42	29			0			https://www.mohfw.gov.in/
 8d0bf5abf5750f86ec01a9baee95ee3a	Asturias	2020-05-01	2020-04-30T05:04:53	273	2283	835						https://www.mscbs.gob.es/
 1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-05-01	2020-04-30T04:00:00+0000	0	43				0			https://www.minsal.cl/
+4edc0c0590551c303f33db08a22b9662	Auckland Region	2020-05-01	2020-05-01T01:00:00+0000		175	152		23				https://www.health.govt.nz/
 4442e4af0916f53a07fb8ca9a49b98ed	Australia	2020-05-01	2020-04-30T20:00:00+0000	92	6762	5720	570000					https://www.health.gov.au/
 7188ee817ff0ec57b9ed4987e2b9341d	Australian Capital Territory	2020-05-01	2020-04-30T20:00:00+0000		106							https://www.health.gov.au/
 9891739094756d2605946c867b32ad28	Austria	2020-05-01	2020-04-30T20:00:00	558	15457	12907						https://info.gesundheitsministerium.at/
@@ -36,23 +41,45 @@ bde2677585a8c14ebb18c7ee709b713f	Arouca, Portugal	2020-05-01	2020-04-30T23:00:00
 1d5c88aeee7280bb8ff1e48572fa330d	Azambuja	2020-05-01	2020-04-30T23:00:00		10							https://covid19.min-saude.pt/
 6ddecd8ccd9f648d19dc02c7a566cb4f	Bahrain	2020-05-01	2020-05-01	8	3040	1500	129694	1532	0			https://www.moh.gov.bh/COVID19
 424a76833ca99e5863fb117fdb6d535f	Balearic Islands	2020-05-01	2020-04-30T05:04:53	188	1883	1219						https://www.mscbs.gob.es/
+3d9a596547760314dc4fabe93bb28358	Banteay Meanchey Province	2020-05-01	2020-05-01T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
 59b7848c26cba6c40461d4f27dbd295d	Barcelos, Portugal	2020-05-01	2020-04-30T23:00:00		209							https://covid19.min-saude.pt/
 2e69f079b210c74f6e8498ab6319ef6d	Barreiro, Portugal	2020-05-01	2020-04-30T23:00:00		92							https://covid19.min-saude.pt/
 97db1e4ee88adfea537c30b0aa653a63	Basilicata	2020-05-01		25	367	150	12774	192				http://www.salute.gov.it/
 ebd9ba99ad127ded62bd4825f1882b60	Basque Country (autonomous community)	2020-05-01	2020-04-30T05:04:53	1296	12701	10936						https://www.mscbs.gob.es/
 ddbf06ae12c6026cb2bac4fc234c6cb6	Batalha, Portugal	2020-05-01	2020-04-30T23:00:00		4							https://covid19.min-saude.pt/
+40810e9722071096c25fc680cec8f5c6	Bath and North East Somerset	2020-05-01	2020-04-30T17:02:25		206							https://www.gov.uk/
+0172881de6e38ed3243c46245774e1c5	Battambang Province	2020-05-01	2020-05-01T07:00:00+0000		8							http://www.cdcmoh.gov.kh/
 859a18bad84184d704fd68a8faeeea1a	Bay of Plenty	2020-05-01	2020-05-01T01:00:00+0000		47	37		10				https://www.health.govt.nz/
 6c1674d14bf5f95742f572cddb0641a7	Belgium	2020-05-01	2020-04-29T00:00:00	7594	48519				11			https://epistat.wiv-isp.be/Covid/
 4ab43447d21e5b616f05947791dcdbb5	Benavente, Portugal	2020-05-01	2020-04-30T23:00:00		28							https://covid19.min-saude.pt/
 27559de2125101ccb786807bceb46aa1	Bihar	2020-05-01	2020-04-30T11:30:00+0000	2	403	65			0			https://www.mohfw.gov.in/
+269cb914b20d49fb2f7cc5b1f602b7aa	Birmingham	2020-05-01	2020-04-30T17:02:25		2801							https://www.gov.uk/
+229cded91047e0595b90028c115941b8	Blackburn with Darwen	2020-05-01	2020-04-30T17:02:25		306							https://www.gov.uk/
+272fe12ee0b1dba0defa703952c5e0e9	Blackpool	2020-05-01	2020-04-30T17:02:25		427							https://www.gov.uk/
 f42b22099a586cbbc78db29b9bc96ea4	Bombarral	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
+3147b7af6af2df2956653b843ec4a35e	Borough of Bedford	2020-05-01	2020-04-30T17:02:25		436							https://www.gov.uk/
+1781e09ba54ba603d7b749fe4892734f	Borough of Darlington	2020-05-01	2020-04-30T17:02:25		269							https://www.gov.uk/
+f9b6319f4d47986c1801f8bedcb41de9	Borough of Halton	2020-05-01	2020-04-30T17:02:25		312							https://www.gov.uk/
+74744139023aa342729363283b095e2e	Borough of Hartlepool	2020-05-01	2020-04-30T17:02:25		180							https://www.gov.uk/
+53c919c799b5abe0cfae39df7b70585b	Borough of Milton Keynes	2020-05-01	2020-04-30T17:02:25		448							https://www.gov.uk/
+8add2141a5de27db7250e6a1c39ca933	Borough of Stockton-on-Tees	2020-05-01	2020-04-30T17:02:25		343							https://www.gov.uk/
+9c733397ba05d0e628002e38e7bdb58b	Borough of Swindon	2020-05-01	2020-04-30T17:02:25		361							https://www.gov.uk/
+cd480159ddae67035def157205f93566	Borough of Wokingham	2020-05-01	2020-04-30T17:02:25		362							https://www.gov.uk/
+199cba2d9b5f1c243564e82b014d0082	Bournemouth, Christchurch and Poole	2020-05-01	2020-04-30T17:02:25		404							https://www.gov.uk/
+7a836ab2885770972ddd05a9226836fd	Bracknell Forest	2020-05-01	2020-04-30T17:02:25		209							https://www.gov.uk/
+7153e0185271817667370dab891cf95c	Braga	2020-05-01	2020-04-30T23:00:00		1063							https://covid19.min-saude.pt/
+157cd34cc88906bdedaa1845f6dfab44	Brighton and Hove	2020-05-01	2020-04-30T17:02:25		355							https://www.gov.uk/
+ee9528184f21142f7b0fa9993048d9d0	Bristol	2020-05-01	2020-04-30T17:02:25		601							https://www.gov.uk/
 d96b0c48a55dd5c1196584ab793e5643	Brittany (administrative region)	2020-05-01		212		823						https://www.santepubliquefrance.fr/
 8b5055b8ad8155f9690cb748eb35f235	Bruck an der Mur District	2020-05-01	2020-04-30T20:00:00		52							https://info.gesundheitsministerium.at/
+c90603199761407ed25e1b734509184c	Buckinghamshire	2020-05-01	2020-04-30T17:02:25		801							https://www.gov.uk/
 da09f52eec25639ae60a44f7e79f55a1	Burgenland	2020-05-01	2020-04-30T20:00:00	10		250		70				https://info.gesundheitsministerium.at/
 00de0e8082e9316b210e9d628a7d19ec	Cabeceiras de Basto	2020-05-01	2020-04-30T23:00:00		17							https://covid19.min-saude.pt/
 7cba18992ee4b9016468e8a64337cd34	Cadaval	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
 cb09c754fad3673f7d34c75e63fad18c	Calabria	2020-05-01		86	1108	282	35903	740				http://www.salute.gov.it/
 57a23fa3dbb21cdbbf70326afb9c0f1d	Caldas da Rainha	2020-05-01	2020-04-30T23:00:00		19							https://covid19.min-saude.pt/
+81eecaffced98e919d40b7d03931e579	Calderdale	2020-05-01	2020-04-30T17:02:25		238							https://www.gov.uk/
+d5148e5b87cea999623ec8af614047a1	Calheta, Madeira	2020-05-01	2020-04-30T23:00:00		6							https://covid19.min-saude.pt/
 06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-05-01	2020-04-30T00:00:00		122	119						http://www.cdcmoh.gov.kh/
 106114808380b70bd066c8bacc37b9a7	Caminha	2020-05-01	2020-04-30T23:00:00		15							https://covid19.min-saude.pt/
 cc817969d60833fd7c3c7461797d9b6d	Campania	2020-05-01		359	4423	1291	76108	2773				http://www.salute.gov.it/
@@ -61,6 +88,7 @@ dc3bb29135ba4b09e76d1c1925790a5d	Canary Islands	2020-05-01	2020-04-30T05:04:53	1
 435b855f1ce90b50ae94a8cc56e980e6	Cantanhede, Portugal	2020-05-01	2020-04-30T23:00:00		51							https://covid19.min-saude.pt/
 06263b8d6db0df452a3e235de61f8b69	Canton of Aargau	2020-05-01	2020-04-30T22:00:00+0000	33	1108							https://www.bag.admin.ch/
 65ef6787094ace636764d0240d9512b1	Canton of Appenzell Ausserrhoden	2020-05-01	2020-04-30T22:00:00+0000	3	94							https://www.bag.admin.ch/
+adec14087e769843644b0bad33736510	Canton of Appenzell Innerrhoden	2020-05-01	2020-04-30T22:00:00+0000	0	25							https://www.bag.admin.ch/
 55b6cb679883677182c4ff709acd1b90	Canton of Basel-Landschaft	2020-05-01	2020-04-30T22:00:00+0000	30	824							https://www.bag.admin.ch/
 682dfaf55f7a667f3e4bc753c1db4511	Canton of Basel-Stadt	2020-05-01	2020-04-30T22:00:00+0000	50	951							https://www.bag.admin.ch/
 42a38626605a643b32d3ee41babd2975	Canton of Bern	2020-05-01	2020-04-30T22:00:00+0000	85	1757							https://www.bag.admin.ch/
@@ -93,33 +121,56 @@ a8e896fcdfecad266b45b2fe7034216d	Castelo Branco, Portugal	2020-05-01	2020-04-30T
 4b70ef6abcaca1b3311ccd7636aa92e2	Catalonia	2020-05-01	2020-04-30T05:04:53	4975	48916	19615						https://www.mscbs.gob.es/
 b90916ae6c1782c79f7b6d950d96f5dc	Celorico da Beira	2020-05-01	2020-04-30T23:00:00		9							https://covid19.min-saude.pt/
 35a3c6dd829791b6070d0374a437f8bc	Celorico de Basto	2020-05-01	2020-04-30T23:00:00		18							https://covid19.min-saude.pt/
+6e68bf52119e337f50f2f87c58238c27	Central Bedfordshire	2020-05-01	2020-04-30T17:02:25		471							https://www.gov.uk/
 6ba4f96b7a9959170c8a360db22e850d	Centre-Val de Loire	2020-05-01		388		1206						https://www.santepubliquefrance.fr/
 b14c3890a187a7798035ac60d89b54f7	Ceuta	2020-05-01	2020-04-30T05:04:53	4	101	126						https://www.mscbs.gob.es/
 086a7856eb3440a11e9bb3e1c656d854	Chamusca	2020-05-01	2020-04-30T23:00:00		9							https://covid19.min-saude.pt/
 33d760dd178036b714669c2766cadf1b	Chandigarh	2020-05-01	2020-04-30T11:30:00+0000	0	56	17			0			https://www.mohfw.gov.in/
 16cbe6f32ee3647575fa736e491fa41e	Chaves, Portugal	2020-05-01	2020-04-30T23:00:00		25							https://covid19.min-saude.pt/
+c8472b77662f3559fa45289339e8d7bb	Cheshire East	2020-05-01	2020-04-30T17:02:25		851							https://www.gov.uk/
+a1d1d2ae2566993a1db7de0fdb46e541	Cheshire West and Chester	2020-05-01	2020-04-30T17:02:25		777							https://www.gov.uk/
 98a0215e7384c0045229405845a76921	Chhattisgarh	2020-05-01	2020-04-30T11:30:00+0000	0	38	36			0			https://www.mohfw.gov.in/
 2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-05-01	2020-04-30T00:00:00	227	16023	8580						https://www.minsal.cl/
+d4c67d41770eab40a946fc1ff75c853f	City of Bradford	2020-05-01	2020-04-30T17:02:25		849							https://www.gov.uk/
+67541b6bb9bf3ca1099eb45e12ffc104	City of Leeds	2020-05-01	2020-04-30T17:02:25		1367							https://www.gov.uk/
+c553b3fca3579562ab6a50ef95f544ac	City of London	2020-05-01	2020-04-30T17:02:25		16							https://www.gov.uk/
+6f754a7d9dd075f6c51da5812c6186c2	City of Salford	2020-05-01	2020-04-30T17:02:25		595							https://www.gov.uk/
+001e9a8bde05867df0fcb64764c6bc36	City of Sunderland	2020-05-01	2020-04-30T17:02:25		1138							https://www.gov.uk/
+2e128f3a68e852e1dffd3b97ac3d69c5	City of Wakefield	2020-05-01	2020-04-30T17:02:25		512							https://www.gov.uk/
+d04ff64e5b0881a8256dd9c26878f3e6	City of Westminster	2020-05-01	2020-04-30T17:02:25		592							https://www.gov.uk/
 7afb01c9f1acf1db40831e738bc2d079	Coimbra	2020-05-01	2020-04-30T23:00:00		408							https://covid19.min-saude.pt/
 9a4d970eac1bc4287c2a2bfe33326243	Community of Madrid	2020-05-01	2020-04-30T05:04:53	8176	61171	36707						https://www.mscbs.gob.es/
 65fd23a398a0936844ecf9768be1f1db	Condeixa-a-Nova	2020-05-01	2020-04-30T23:00:00		64							https://covid19.min-saude.pt/
 78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-05-01	2020-04-30T04:00:00+0000	0	76				0			https://www.minsal.cl/
+34850c1f9f324ccfb8aab54a4bd285d4	Cornwall	2020-05-01	2020-04-30T17:02:25		485							https://www.gov.uk/
 ada9a060b058259f01de14e24997f87d	Corsica	2020-05-01		50		188						https://www.santepubliquefrance.fr/
 8b7ca5b03f1286b3aab8879bd06fbf09	Coruche	2020-05-01	2020-04-30T23:00:00		36							https://covid19.min-saude.pt/
+194a4d28f10dd71cd072a06481f88f43	County Durham	2020-05-01	2020-04-30T17:02:25		1340							https://www.gov.uk/
+9ed47047fb3b7f26ada9a35fe83d7b1b	Coventry	2020-05-01	2020-04-30T17:02:25		654							https://www.gov.uk/
 4c6448118024cde337167524534e8401	Cuba, Portugal	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
+e28fc7b980b342e2bb4a1eb56f66230e	Cumbria	2020-05-01	2020-04-30T17:02:25		1819							https://www.gov.uk/
 12a4359f3d8a4a2db61f4d040edb73ed	Czech Republic	2020-05-01	2020-04-30T22:30:00+0000	236	7682	3314	242088	4132				https://onemocneni-aktualne.mzcr.cz/
+aab10c06d249bd00401c2946d8008567	Da Nang	2020-05-01		0	6	6						https://ncov.moh.gov.vn/
 08b618992b4f08c4a012234eeac2336d	Dakhla-Oued Ed-Dahab	2020-05-01	2020-04-30T15:00:00+0000		2							http://www.covidmaroc.ma/
 9baaebe1759ba1a6365a2b0539081516	Delhi	2020-05-01	2020-04-30T11:30:00+0000	56	3439	1092			2			https://www.mohfw.gov.in/
 424214945ba5615eca039bfe5d731c09	Denmark	2020-05-01	2020-04-30T10:50:00	452	9158	6546	193165					https://www.sst.dk/
+7e3c720afe1e04eadd7459f072be745b	Derby	2020-05-01	2020-04-30T17:02:25		476							https://www.gov.uk/
+b5484e0da2940ac1dffbe6422375902c	Derbyshire	2020-05-01	2020-04-30T17:02:25		1243							https://www.gov.uk/
+ca9b33c206e08498e2e4ad87b6197473	Devon	2020-05-01	2020-04-30T17:02:25		686							https://www.gov.uk/
+0960de8471bcc9200d083c02e054a2c2	Dorset	2020-05-01	2020-04-30T17:02:25		304							https://www.gov.uk/
 5cdd21c97f86686cc505e02fd32a7523	Earth	2020-05-01	2020-05-01T03:37:04.781	226139	3199602							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 46fb35db1ee26c5c3a1c59eca715c630	East Midlands	2020-05-01	2020-04-30T17:02:25		6747							https://www.gov.uk/
+83cb12331c934dce754aa376b6635227	East Riding of Yorkshire	2020-05-01	2020-04-30T17:02:25		567							https://www.gov.uk/
+9ac8959ebec8a1282e536bb97429e2b4	East Sussex	2020-05-01	2020-04-30T17:02:25		570							https://www.gov.uk/
 9fa586c842208843c415cfa324048287	East of England	2020-05-01	2020-04-30T17:02:25		10274							https://www.gov.uk/
 8d8850eb122df8685285743838fb6abf	Eisenstadt	2020-05-01	2020-04-30T20:00:00		16							https://info.gesundheitsministerium.at/
 afc1fb751a11a5e54ec06a1c914c0b34	Elvas	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
 46bc56ae264329f72d44b7bfd2f87076	Emilia-Romagna	2020-05-01		3551	25436	12322	182857	9563				http://www.salute.gov.it/
 64f607906be7598a02d75dbc1e979662	England	2020-05-01	2020-04-30T17:02:25	24110	118343							https://www.gov.uk/
+bfe2efafacf68bad1a4686d9bc83f1af	Entroncamento	2020-05-01	2020-04-30T23:00:00		6							https://covid19.min-saude.pt/
 16c8ed5f311431675334fb05b9fe867c	Espinho, Portugal	2020-05-01	2020-04-30T23:00:00		74							https://covid19.min-saude.pt/
 220c19d10fe57704ebc86d9e2d87ec15	Esposende	2020-05-01	2020-04-30T23:00:00		37							https://covid19.min-saude.pt/
+9b547b8f966cbaf14a511a250a501f15	Essex	2020-05-01	2020-04-30T17:02:25		2506							https://www.gov.uk/
 ac4ff97e59ad433cb3452704ab98c4c1	Estarreja	2020-05-01	2020-04-30T23:00:00		64							https://covid19.min-saude.pt/
 37a1a8ebbedb0cd6a2244a12448a869e	Extremadura	2020-05-01	2020-04-30T05:04:53	446	2785	1887						https://www.mscbs.gob.es/
 a20df05bafa89d55d19741d3cce308e7	Fafe	2020-05-01	2020-04-30T23:00:00		92							https://covid19.min-saude.pt/
@@ -134,9 +185,11 @@ d8fa078f85a325fda848f2fb4f4857d9	Friuli Venezia Giulia	2020-05-01		289	3025	1566
 de270a614e5023d88704b7cf23875e6c	Funchal	2020-05-01	2020-04-30T23:00:00		30							https://covid19.min-saude.pt/
 67cb6c1780f6dc78144ed7f8402315f3	Galicia (Spain)	2020-05-01	2020-04-30T05:04:53	547	8697	5573						https://www.mscbs.gob.es/
 d8b00929dec65d422303256336ada04f	Germany	2020-05-01	2020-04-30T00:00:00	6288	159119	123500			173			https://www.rki.de/
+e532b17297cb1d768f6cd0e0d217abac	Gloucestershire	2020-05-01	2020-04-30T17:02:25		1181							https://www.gov.uk/
 904848bc2d46b8dcd2e90e5a025f726e	Goa	2020-05-01	2020-04-30T11:30:00+0000	0	7	7			0			https://www.mohfw.gov.in/
 4c95b7b5aca6c7f6fa474e2a54eb0833	Gondomar, Portugal	2020-05-01	2020-04-30T23:00:00		1000							https://covid19.min-saude.pt/
 07387094d487f4a7bc97fdac96d54172	Gouveia, Portugal	2020-05-01	2020-04-30T23:00:00		17							https://covid19.min-saude.pt/
+8227ae54c0700625b5fa48afe8105b1a	Grand Est	2020-05-01		2885		8047						https://www.santepubliquefrance.fr/
 ca7668a05b2a3dbf29ca3d768c0febe8	Graz	2020-05-01	2020-04-30T20:00:00		477							https://info.gesundheitsministerium.at/
 d0ddf8ace64108fae4f1371f1fe778a2	Greater London	2020-05-01	2020-04-30T17:02:25		24297							https://www.gov.uk/
 583eda79d32f7c1cb0840862787a73ca	Greenland	2020-05-01	2020-04-30T12:00:00+0000	0	11	11	1243		0			https://www.sst.dk/
@@ -144,41 +197,91 @@ d0ddf8ace64108fae4f1371f1fe778a2	Greater London	2020-05-01	2020-04-30T17:02:25		
 78149812c9fa2064d787f13bed12a703	Guarda, Portugal	2020-05-01	2020-04-30T23:00:00		20							https://covid19.min-saude.pt/
 691b2330070783319ab18dbb948341cf	Guelmim-Oued Noun	2020-05-01	2020-04-30T15:00:00+0000		29							http://www.covidmaroc.ma/
 9ac24d086d7592786374e1995fb205e6	Gujarat	2020-05-01	2020-04-30T11:30:00+0000	197	4082	527			16			https://www.mohfw.gov.in/
+809cc2b6a53b84d676a23f8c0ebb8f4b	Hampshire	2020-05-01	2020-04-30T17:02:25		2734							https://www.gov.uk/
+4187c4575f19a0b34cb6358c5590a449	Hanoi	2020-05-01		0	112	83						https://ncov.moh.gov.vn/
 3d3b133886eed27f350f8215a605042d	Hartberg District	2020-05-01	2020-04-30T20:00:00		312							https://info.gesundheitsministerium.at/
 1b86e8daccc894df32394681ebe753e4	Haryana	2020-05-01	2020-04-30T11:30:00+0000	3	310	209			0			https://www.mohfw.gov.in/
 d0f46070f10d962c9c34661e07b36ba3	Hauts-de-France	2020-05-01		1374		4075						https://www.santepubliquefrance.fr/
+18da668ab36a342d2dfbce963ac4b257	Herefordshire	2020-05-01	2020-04-30T17:02:25		298							https://www.gov.uk/
+8e0be7d94b945267413ae092bddd957f	Hertfordshire	2020-05-01	2020-04-30T17:02:25		2243							https://www.gov.uk/
 a42109305349eb91ddbdda04373721e4	Himachal Pradesh	2020-05-01	2020-04-30T11:30:00+0000	1	40	25			0			https://www.mohfw.gov.in/
+1527a37ca7176fe5a984c0e28eb639d6	Ho Chi Minh City	2020-05-01		0	55	50						https://ncov.moh.gov.vn/
 4a1c1e0e4ed299c266832a4a98be4e90	Horta, Azores	2020-05-01	2020-04-30T23:00:00		6							https://covid19.min-saude.pt/
 fa79c3005daec47ecff84a116a0927a1	Hungary	2020-05-01	2020-04-30T06:25:00	312	2775	581	72951					https://koronavirus.gov.hu/
 7d31e0da1ab99fe8b08a22118e2f402b	India	2020-05-01	2020-04-30T11:30:00+0000	1075	33610	8373						https://www.mohfw.gov.in/
 3081b7ed18f680faf5e9ce71b058cf9b	Innlandet	2020-05-01	2020-04-30T11:00:00		437							https://www.fhi.no/
 1ff97f22292e3d91119e867aadcf511b	Innsbruck	2020-05-01	2020-04-30T20:00:00		409							https://info.gesundheitsministerium.at/
+ca3915ed8e4dc0c6412a1cafa47c434b	Isle of Wight	2020-05-01	2020-04-30T17:02:25		107							https://www.gov.uk/
 1007e1b7f894dfbf72a0eaa80f3bc57e	Italy	2020-05-01		27967	205463	75945	1979217	101551				http://www.salute.gov.it/
 475ec2baed249713cd6edc6274cb7875	Jammu and Kashmir (state)	2020-05-01	2020-04-30T11:30:00+0000	8	581	192			0			https://www.mohfw.gov.in/
 5308f89b85b77bdd39a446f01674e874	Jharkhand	2020-05-01	2020-04-30T11:30:00+0000	3	107	19			0			https://www.mohfw.gov.in/
 6ea1e24d60afddf388b06f8243c45b70	Jordan	2020-05-01	2020-04-30T17:40:00	8	453	362						https://corona.moh.gov.jo/
+0156f349b9b117ae621b28ac07827b41	Kampong Cham Province	2020-05-01	2020-05-01T07:00:00+0000		16							http://www.cdcmoh.gov.kh/
+9d83069e30c1b92bc1b4a4973144d590	Kampong Chhnang Province	2020-05-01	2020-05-01T07:00:00+0000		3							http://www.cdcmoh.gov.kh/
+5bf905f5ad2fbc16052224608866067d	Kampot Province	2020-05-01	2020-05-01T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+4a81c0d6be1f67f49ab0d9a8e97eff87	Kandal Province	2020-05-01	2020-05-01T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
 185a5eb309e9ba14f65e6486f08b3032	Karnataka	2020-05-01	2020-04-30T11:30:00+0000	21	557	223			1			https://www.mohfw.gov.in/
 7c1a943bf29d2c753fb935e99428482c	Kazakhstan	2020-05-01	2020-04-30T23:00:00	25	3402	866						https://www.coronavirus2020.kz/
+a02eebc82319b5eeae7f3903fa46f904	Kent	2020-05-01	2020-04-30T17:02:25		3331							https://www.gov.uk/
+0197fedf2ff9c17a5d2680e81e002fa9	Kep Province	2020-05-01	2020-05-01T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
 e369d9fd2ab54455129816db19e37fd4	Kerala	2020-05-01	2020-04-30T11:30:00+0000	4	496	369			0			https://www.mohfw.gov.in/
+19f8998ee05b8e221b209decd571b855	Kingston upon Hull	2020-05-01	2020-04-30T17:02:25		428							https://www.gov.uk/
+d084f2d2a2708ffba6765cec3951f696	Kirklees	2020-05-01	2020-04-30T17:02:25		551							https://www.gov.uk/
 9411cbb4eebe5b8e9deb98dcebbc3b9d	Klagenfurt	2020-05-01	2020-04-30T20:00:00		90							https://info.gesundheitsministerium.at/
+85d53d2f383dc639d59cb6a4dad81148	Koh Kong Province	2020-05-01	2020-05-01T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
 fbb273840f8782292a36fdb74e1d6a19	Krems an der Donau	2020-05-01	2020-04-30T20:00:00		40							https://info.gesundheitsministerium.at/
 05387f3ca38d7bd84ae35f31f2899ecf	Kuwait	2020-05-01	2020-04-30T00:00:00	26	4024	1539			2			https://corona.e.gov.kw/
 097f9b6b805aac4bcb7a36bb78c20840	La Rioja (Spain)	2020-05-01	2020-04-30T05:04:53	332	3918	2159						https://www.mscbs.gob.es/
 cf474fd5821e76175fe0f895ef9c9a0b	Ladakh	2020-05-01	2020-04-30T11:30:00+0000	0	22	16			0			https://www.mohfw.gov.in/
+8563532f46639cc4b85313f949ba7f22	Lagoa, Azores	2020-05-01	2020-04-30T23:00:00		10							https://covid19.min-saude.pt/
 154822144cb3a3ec038d2de0ddd240ad	Lagos, Portugal	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
 a37b699ac376585133ffaa5b493e5cef	Lamego	2020-05-01	2020-04-30T23:00:00		33							https://covid19.min-saude.pt/
+d2e8837e7b4141a48a0eaebe7d57895d	Lancashire	2020-05-01	2020-04-30T17:02:25		2736							https://www.gov.uk/
 84d0447bddc00597d2a14284d627c8ed	Lazio	2020-05-01		441	6616	1707	137596	4468				http://www.salute.gov.it/
 b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	2020-05-01	2020-04-30T15:39:00	24	725	150	34499					https://corona.ministryinfo.gov.lb/
+a06360acafe964d244e424cbd50862e8	Leicester	2020-05-01	2020-04-30T17:02:25		648							https://www.gov.uk/
+821549cf5b147898342cf79b0d9bb966	Leicestershire	2020-05-01	2020-04-30T17:02:25		906							https://www.gov.uk/
 9716560415209c7683898db025d910ad	Leiria	2020-05-01	2020-04-30T23:00:00		70							https://covid19.min-saude.pt/
 47abe64b4e6d1e3b619c16b2ff75022a	Liguria	2020-05-01		1167	7993	3275	48762	3551				http://www.salute.gov.it/
+a1fc7241c14b2b8c66480176d56175fc	Lincolnshire	2020-05-01	2020-04-30T17:02:25		828							https://www.gov.uk/
 443befbacdaa99c161dd11495b82b99b	Linz	2020-05-01	2020-04-30T20:00:00		303							https://info.gesundheitsministerium.at/
 260b4e591e03de9750f965a30087ed5f	Lisbon	2020-05-01	2020-04-30T23:00:00		1465							https://covid19.min-saude.pt/
 d9051e0b77f8bb5521389618e70e2ada	Lithuania	2020-05-01	2020-04-30T10:50:00	45	1385	589	125555					https://koronastop.lrv.lt
+afce84ff226407a47c9782a742ba02f7	Liverpool	2020-05-01	2020-04-30T17:02:25		1392							https://www.gov.uk/
 b0ea6e29d4727582c926ca0e6b9f775b	Lombardy	2020-05-01		13772	75732	25749	376943	36211				http://www.salute.gov.it/
+323bd58cbd4f673fe131e1cc7a955403	London Borough of Barking and Dagenham	2020-05-01	2020-04-30T17:02:25		450							https://www.gov.uk/
+ce87401c8fc1fdfff9eccc20b9073bcb	London Borough of Barnet	2020-05-01	2020-04-30T17:02:25		1184							https://www.gov.uk/
+e3d68c9fc08e82b54822e35c497318e9	London Borough of Bexley	2020-05-01	2020-04-30T17:02:25		608							https://www.gov.uk/
+8b7914c3b8e0fe71b065438a85f1f6b0	London Borough of Brent	2020-05-01	2020-04-30T17:02:25		1338							https://www.gov.uk/
+badb53b2df1681a6f5780c238e36fa62	London Borough of Bromley	2020-05-01	2020-04-30T17:02:25		1036							https://www.gov.uk/
+1454fda205d52e7b91eb249886595554	London Borough of Camden	2020-05-01	2020-04-30T17:02:25		569							https://www.gov.uk/
+a377550da1e8a8aeeafa1c78cf7abe88	London Borough of Croydon	2020-05-01	2020-04-30T17:02:25		1358							https://www.gov.uk/
+7db54d32b72b0d2d70b0c798a0864ed6	London Borough of Ealing	2020-05-01	2020-04-30T17:02:25		1044							https://www.gov.uk/
+dc7c1266815a22cca5e8a1086567335b	London Borough of Enfield	2020-05-01	2020-04-30T17:02:25		827							https://www.gov.uk/
+292964c31822842a3a9cbbcc0d5533d2	London Borough of Hackney	2020-05-01	2020-04-30T17:02:25		600							https://www.gov.uk/
+e17e630e988e53b0b3ea7b654305d757	London Borough of Hammersmith and Fulham	2020-05-01	2020-04-30T17:02:25		605							https://www.gov.uk/
+011de3b2e089e8a369d7db2bc970f86f	London Borough of Haringey	2020-05-01	2020-04-30T17:02:25		543							https://www.gov.uk/
+d221ecf683b63a9ff0c6c5e73c72063a	London Borough of Harrow	2020-05-01	2020-04-30T17:02:25		903							https://www.gov.uk/
+7419e38e6b1a6ec590ea81c7aec504d8	London Borough of Havering	2020-05-01	2020-04-30T17:02:25		631							https://www.gov.uk/
+c443b8676e0179fdba83e5a6370a98e8	London Borough of Hillingdon	2020-05-01	2020-04-30T17:02:25		717							https://www.gov.uk/
+54a974c2d0f5328c5701b3d79e0bb5eb	London Borough of Hounslow	2020-05-01	2020-04-30T17:02:25		637							https://www.gov.uk/
+f18207866018961ca5325aac224b9df6	London Borough of Islington	2020-05-01	2020-04-30T17:02:25		409							https://www.gov.uk/
+f4351ee6d88074092d632d8cbcb0167b	London Borough of Lambeth	2020-05-01	2020-04-30T17:02:25		1124							https://www.gov.uk/
+769baa4106d2adadeca558eabcb5e441	London Borough of Lewisham	2020-05-01	2020-04-30T17:02:25		904							https://www.gov.uk/
+11983f9d485c0a95273c7be7d0e0c971	London Borough of Merton	2020-05-01	2020-04-30T17:02:25		641							https://www.gov.uk/
+f23745ac31ae23006bc812cefc4cfdee	London Borough of Newham	2020-05-01	2020-04-30T17:02:25		943							https://www.gov.uk/
+4575ea97ad6d78084830bdfeec80ba57	London Borough of Redbridge	2020-05-01	2020-04-30T17:02:25		667							https://www.gov.uk/
+d13820bdba72d3325912e0fea2068e6c	London Borough of Richmond upon Thames	2020-05-01	2020-04-30T17:02:25		361							https://www.gov.uk/
+9d8c08142f0daf82ab7cf413c843c88b	London Borough of Southwark	2020-05-01	2020-04-30T17:02:25		1179							https://www.gov.uk/
+878232fce055477e50c003d61f497525	London Borough of Sutton	2020-05-01	2020-04-30T17:02:25		662							https://www.gov.uk/
+8d1f904fc8014d050e261a2d0c4296a0	London Borough of Tower Hamlets	2020-05-01	2020-04-30T17:02:25		597							https://www.gov.uk/
+d81977d52995c299653534afe099cfb0	London Borough of Waltham Forest	2020-05-01	2020-04-30T17:02:25		718							https://www.gov.uk/
+feaad4378fd34185a2c60a669b11131e	London Borough of Wandsworth	2020-05-01	2020-04-30T17:02:25		909							https://www.gov.uk/
 27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-05-01	2020-04-30T04:00:00+0000	10	487				1			https://www.minsal.cl/
 357f9948bcc7b532177ba13c896171c8	Loures	2020-05-01	2020-04-30T23:00:00		386							https://covid19.min-saude.pt/
 7ccecefc413bc3c4782967801162a596	Lousada	2020-05-01	2020-04-30T23:00:00		206							https://covid19.min-saude.pt/
 4a7f86fa7a2f5c11478dd005f0f40f9a	Lower Austria	2020-05-01	2020-04-30T20:00:00	86		2164		338				https://info.gesundheitsministerium.at/
+20ee5d666fa2428304848c9ebf2cf8b2	Luton	2020-05-01	2020-04-30T17:02:25		595							https://www.gov.uk/
 06630c890abadde9228ea818ce52b621	Luxembourg	2020-05-01	2020-04-30T00:00:00	90	3784	3213	42643		1			https://gouvernement.lu/
 7d6449d258f3d70de14d55117942c7ed	Macedo de Cavaleiros	2020-05-01	2020-04-30T23:00:00		21							https://covid19.min-saude.pt/
 cdc5b6bf63384ed64ece9b1a7645a9a8	Madalena, Azores	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
@@ -188,6 +291,7 @@ d040c0ef6baf553f552943ad5765bd72	Mafra, Portugal	2020-05-01	2020-04-30T23:00:00	
 84e516108956e6e374941043b5f73e86	Maharashtra	2020-05-01	2020-04-30T11:30:00+0000	432	9915	1593			32			https://www.mohfw.gov.in/
 b9e89790cfff7b5c57c108f4f8b35d48	Maia, Portugal	2020-05-01	2020-04-30T23:00:00		863							https://covid19.min-saude.pt/
 3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	2020-05-01	2020-04-30T17:00:00	100	5945	4087						http://www.moh.gov.my/
+317532540adceb07d5e2ec62d5eacac2	Manchester	2020-05-01	2020-04-30T17:02:25		1060							https://www.gov.uk/
 a9f77a1613eb1316193a46cde1f4a153	Mangualde	2020-05-01	2020-04-30T23:00:00		71							https://covid19.min-saude.pt/
 9f405b4cfb0722cc0518fc99a26f3c2a	Manipur	2020-05-01	2020-04-30T11:30:00+0000	0	2	2			0			https://www.mohfw.gov.in/
 a8cbddc80fb0a973f4f8cdbc07b860d9	Manteigas	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
@@ -201,16 +305,37 @@ e6ad897785a2889cf659732c31dd6d5d	Marco de Canaveses	2020-05-01	2020-04-30T23:00:
 07f3ca235faaa1c9ad16facef5526d8b	Mauritius	2020-05-01	2020-04-30T11:41:04	10	334	310						https://www.ecdc.europa.eu/
 9c05c40b81fd906b1585e231c0d896f1	Mayotte	2020-05-01		4	460							https://www.who.int/
 ea7c631b4b5bcf1017f88116f7dfa234	Mealhada	2020-05-01	2020-04-30T23:00:00		17							https://covid19.min-saude.pt/
+453152430f7986b2e533133878cdbd91	Medway	2020-05-01	2020-04-30T17:02:25		610							https://www.gov.uk/
 418d4c56f7fa6ee6dbfe42f70876d8da	Meghalaya	2020-05-01	2020-04-30T11:30:00+0000	1	12	0			0			https://www.mohfw.gov.in/
 5475ba47056fb8596065a0d640138bb0	Melilla	2020-05-01	2020-04-30T05:04:53	2	114	96						https://www.mscbs.gob.es/
+6393595ae46aad252bd19444a4f6c85b	Metropolitan Borough of Barnsley	2020-05-01	2020-04-30T17:02:25		622							https://www.gov.uk/
+44ce19a69cacf11fd9cd454939f02758	Metropolitan Borough of Bolton	2020-05-01	2020-04-30T17:02:25		739							https://www.gov.uk/
+cd0d720cf2f2b525f41fe934cd0c4fbf	Metropolitan Borough of Bury	2020-05-01	2020-04-30T17:02:25		457							https://www.gov.uk/
+76cf445a5150f360c0c3e7cda6f967cd	Metropolitan Borough of Doncaster	2020-05-01	2020-04-30T17:02:25		440							https://www.gov.uk/
+386b8e9954a52d5f89e463b927e0fcfe	Metropolitan Borough of Dudley	2020-05-01	2020-04-30T17:02:25		734							https://www.gov.uk/
+96bdce7e2a199613bc908771324a7f05	Metropolitan Borough of Gateshead	2020-05-01	2020-04-30T17:02:25		800							https://www.gov.uk/
+9acbd937fecf8fdf98a2dd2c4fd976a0	Metropolitan Borough of Knowsley	2020-05-01	2020-04-30T17:02:25		532							https://www.gov.uk/
+5afa7dd30730c56cb6ae8dab9c0b4447	Metropolitan Borough of Oldham	2020-05-01	2020-04-30T17:02:25		594							https://www.gov.uk/
+789482fae186e099fb7ac41ba0d9b485	Metropolitan Borough of Rochdale	2020-05-01	2020-04-30T17:02:25		434							https://www.gov.uk/
+ec3d226b8a94e2a0771550f4c560b77d	Metropolitan Borough of Rotherham	2020-05-01	2020-04-30T17:02:25		680							https://www.gov.uk/
+470fc1ae906703274332d888873a5df0	Metropolitan Borough of Sefton	2020-05-01	2020-04-30T17:02:25		789							https://www.gov.uk/
+255e7ee6a4dff150805dfec6404896af	Metropolitan Borough of Solihull	2020-05-01	2020-04-30T17:02:25		556							https://www.gov.uk/
+2ea75a5f582e8bfa958ace4274bc7dce	Metropolitan Borough of St Helens	2020-05-01	2020-04-30T17:02:25		634							https://www.gov.uk/
+ff9764a9683e2a953e07e5b3c2d068dd	Metropolitan Borough of Stockport	2020-05-01	2020-04-30T17:02:25		808							https://www.gov.uk/
+9804fb1339ff93d4bdcf1f74ddbdb44e	Metropolitan Borough of Walsall	2020-05-01	2020-04-30T17:02:25		934							https://www.gov.uk/
+6c5a99c406d78290e017e4ef04b0e96c	Metropolitan Borough of Wigan	2020-05-01	2020-04-30T17:02:25		642							https://www.gov.uk/
+692a403b099faac0e0f591c20810ae31	Metropolitan Borough of Wirral	2020-05-01	2020-04-30T17:02:25		990							https://www.gov.uk/
+b4cb58c3a936665786359c2c634d6ff4	Middlesbrough	2020-05-01	2020-04-30T17:02:25		541							https://www.gov.uk/
 bb159249a948d564e6815f7ffa5da0c4	Mira, Portugal	2020-05-01	2020-04-30T23:00:00		4							https://covid19.min-saude.pt/
 ace5897b56e196fcb8a29b51738033f9	Miranda do Corvo	2020-05-01	2020-04-30T23:00:00		14							https://covid19.min-saude.pt/
 b967ab6d51f48df87b3d407341369f23	Miranda do Douro	2020-05-01	2020-04-30T23:00:00		7							https://covid19.min-saude.pt/
 9056629881d40868e89ec889c96111b5	Mirandela	2020-05-01	2020-04-30T23:00:00		17							https://covid19.min-saude.pt/
 4b8c5cc6acf242d8a24ad12b227d16ce	Mizoram	2020-05-01	2020-04-30T11:30:00+0000	0	1	0			0			https://www.mohfw.gov.in/
+2cce9d9760a1bf2aefa6490d66d95462	Mogadouro	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
 4d2ee3f999437317fd3bb4eba4d5efc9	Moimenta da Beira	2020-05-01	2020-04-30T23:00:00		12							https://covid19.min-saude.pt/
 dddae2c8073658f33c5161f3812afdae	Moita	2020-05-01	2020-04-30T23:00:00		68							https://covid19.min-saude.pt/
 5167f4d23cf87e8955e0869fc2a4ecfa	Molise	2020-05-01		21	298	87	6446	190				http://www.salute.gov.it/
+772fdb84e302ebfc2afe165f9b14ade0	Montemor-o-Novo	2020-05-01	2020-04-30T23:00:00		7							https://covid19.min-saude.pt/
 d7a5772ab38c310930dc9b8407d3c8a0	Montemor-o-Velho	2020-05-01	2020-04-30T23:00:00		15							https://covid19.min-saude.pt/
 5d9883c0820e37ca2d4962edbb7f6eaa	Montijo, Portugal	2020-05-01	2020-04-30T23:00:00		46							https://covid19.min-saude.pt/
 4d4a1722d8e85909a576da2c42878ff0	Morocco	2020-05-01	2020-04-30T16:00:00	170	4423	984						http://www.covidmaroc.ma/
@@ -221,14 +346,28 @@ f98e69fd474e95646c6d54b6c8379e60	Moura, Portugal	2020-05-01	2020-04-30T23:00:00	
 a67d4cbdd1b59e0ffccc6bafc83eb033	Netherlands	2020-05-01	2020-04-30T16:05:00	4795	39316				84			https://www.rivm.nl/
 238dc11e5d8dbea1158dd326a08614c0	New South Wales	2020-05-01	2020-04-30T20:00:00+0000		3025							https://www.health.gov.au/
 23113b12a9d8135100497751756d4bee	New Zealand	2020-05-01	2020-04-30T09:00:00	19	1476	1241	134570					https://www.health.govt.nz/
+155c2168d7451274c45eacbb6025a5a7	Newcastle upon Tyne	2020-05-01	2020-04-30T17:02:25		884							https://www.gov.uk/
 32df967ee87142dd8ca7be88842ba136	Nordland	2020-05-01	2020-04-30T11:00:00		114							https://www.fhi.no/
+c394bf9a4d43b977e11610b5b5f85843	Norfolk	2020-05-01	2020-04-30T17:02:25		1481							https://www.gov.uk/
 85d2b8ec0ca91db1e0d6ad486c169959	Normandy	2020-05-01		346		1068						https://www.santepubliquefrance.fr/
 39af04bf8904745f6b1b0edfab19ef0d	North East England	2020-05-01	2020-04-30T17:02:25		7552							https://www.gov.uk/
+7389694b3d864d9747fcfe67dbdb2a37	North East Lincolnshire	2020-05-01	2020-04-30T17:02:25		134							https://www.gov.uk/
+a857c7af09b0eca88bb75dcdae1ab7df	North Lincolnshire	2020-05-01	2020-04-30T17:02:25		350							https://www.gov.uk/
+ce3146c19a1ddb7b34e4d6d5fa0209cd	North Somerset	2020-05-01	2020-04-30T17:02:25		231							https://www.gov.uk/
+801731a1f9b8046a62198de02d36ed88	North Tyneside	2020-05-01	2020-04-30T17:02:25		460							https://www.gov.uk/
 8c09f00326f31311647464e40afcb6ea	North West England	2020-05-01	2020-04-30T17:02:25		18523							https://www.gov.uk/
+4d9bb5df56864237719a58416875bf0b	North Yorkshire	2020-05-01	2020-04-30T17:02:25		908							https://www.gov.uk/
+e15a6982ad13d4991110044ac62a4878	Northamptonshire	2020-05-01	2020-04-30T17:02:25		1019							https://www.gov.uk/
+a52b36a4d417538f77478895c601e4ab	Northern Ireland	2020-05-01	2020-04-30T17:02:25	338	3536							https://www.gov.uk/
 b19aa8ce8070b6012633afc284e5f569	Northern Territory	2020-05-01	2020-04-30T20:00:00+0000		27							https://www.health.gov.au/
+3af87fefce39538922036929f3f94a67	Northland Region	2020-05-01	2020-05-01T01:00:00+0000		28	24		5				https://www.health.govt.nz/
+b0dd02d0cbea1b13e491569d694f8a61	Northumberland	2020-05-01	2020-04-30T17:02:25		748							https://www.gov.uk/
 d5b9290a0b67727d4ba1ca6059dc31a6	Norway	2020-05-01	2020-04-30T13:00:00	204	7710		172586					https://www.fhi.no/
+829482baf763ef63c78c36889615b3b1	Nottingham	2020-05-01	2020-04-30T17:02:25		518							https://www.gov.uk/
+c43ab7162cc01861a69e73705e83df76	Nottinghamshire	2020-05-01	2020-04-30T17:02:25		1089							https://www.gov.uk/
 100ea10c9fa7706dabf917bd66a08aeb	Nouvelle-Aquitaine	2020-05-01		324		1446						https://www.santepubliquefrance.fr/
 4925fb79ef2eb5cafbad0f114032ae21	Occitanie	2020-05-01		401		2142						https://www.santepubliquefrance.fr/
+86f16715a746edc2eeef83281d06a0c2	Odemira	2020-05-01	2020-04-30T23:00:00		4							https://covid19.min-saude.pt/
 6066310fdf9edf269cb0b6848ddfccb9	Odisha	2020-05-01	2020-04-30T11:30:00+0000	1	128	39			0			https://www.mohfw.gov.in/
 87d821bd5a7c83ee71b279d4d561a222	Odivelas	2020-05-01	2020-04-30T23:00:00		221							https://covid19.min-saude.pt/
 f77b08bf065e1c6790747c4f21608a18	Oeiras, Portugal	2020-05-01	2020-04-30T23:00:00		215							https://covid19.min-saude.pt/
@@ -238,6 +377,7 @@ f77b08bf065e1c6790747c4f21608a18	Oeiras, Portugal	2020-05-01	2020-04-30T23:00:00
 134a68029fa6f35eba71b46c13fd25be	Oriental (Morocco)	2020-05-01	2020-04-30T15:00:00+0000		175							http://www.covidmaroc.ma/
 f4830432874f86d2e2a1a5f2dbebbc80	Oslo	2020-05-01	2020-04-30T11:00:00		2364							https://www.fhi.no/
 5d3f118f3e8db173636386c071150ba7	Ovar	2020-05-01	2020-04-30T23:00:00		557							https://covid19.min-saude.pt/
+f03241ddaf1bc6f0cbdb1832abc7cc2b	Oxfordshire	2020-05-01	2020-04-30T17:02:25		1540							https://www.gov.uk/
 8f6effd31825dd4d397ae1833028e208	Palmela	2020-05-01	2020-04-30T23:00:00		18							https://covid19.min-saude.pt/
 804cb447be7832a9f4e3f99bba47b030	Paredes, Portugal	2020-05-01	2020-04-30T23:00:00		294							https://covid19.min-saude.pt/
 5d3038ac706c87ba2c5ad3531ab18cb5	Paredes de Coura	2020-05-01	2020-04-30T23:00:00		7							https://covid19.min-saude.pt/
@@ -246,8 +386,11 @@ f774bf7539e2d55553afd19168a241df	Penacova	2020-05-01	2020-04-30T23:00:00		16				
 9762de8da24642870f95f0146d7891db	Penafiel	2020-05-01	2020-04-30T23:00:00		140							https://covid19.min-saude.pt/
 d9b3e0d109a57d3c92ceaa5a74716831	Penela	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
 a725d30e7da72ed4d681e9ed48cbc842	Peniche, Portugal	2020-05-01	2020-04-30T23:00:00		10							https://covid19.min-saude.pt/
+f3128071d6d92c6b28a5d4cb4f8b4630	Peterborough	2020-05-01	2020-04-30T17:02:25		224							https://www.gov.uk/
+adaac9a1f92c1b6eb7623e2da7939019	Phnom Penh	2020-05-01	2020-05-01T07:00:00+0000		28							http://www.cdcmoh.gov.kh/
 deb65130918c961ea80790accbb4484d	Piedmont	2020-05-01		3066	26289	7730	156534	15493				http://www.salute.gov.it/
 0679b5f1bb79d16f5d900352713d4bf9	Pinhel	2020-05-01	2020-04-30T23:00:00		22							https://covid19.min-saude.pt/
+dd96fef1e8b9bd782431449241fcf2cf	Plymouth	2020-05-01	2020-04-30T17:02:25		278							https://www.gov.uk/
 edcc7ce272618c0535e1bdb5f8b634ee	Pombal, Portugal	2020-05-01	2020-04-30T23:00:00		52							https://covid19.min-saude.pt/
 97b0f63a2296827fd0c66c4777711658	Ponta Delgada	2020-05-01	2020-04-30T23:00:00		8							https://covid19.min-saude.pt/
 1d946afdda3edd9b51daec797693d407	Ponta do Sol, Madeira	2020-05-01	2020-04-30T23:00:00		6							https://covid19.min-saude.pt/
@@ -257,22 +400,32 @@ edcc7ce272618c0535e1bdb5f8b634ee	Pombal, Portugal	2020-05-01	2020-04-30T23:00:00
 a5b17e03494a1dbb63698f813151e3ed	Portel, Portugal	2020-05-01	2020-04-30T23:00:00		6							https://covid19.min-saude.pt/
 8493f398f200c8dffe60d46439dd3360	Porto	2020-05-01	2020-04-30T23:00:00		1219							https://covid19.min-saude.pt/
 89059074d93e9d3d3208bda3c6e08bf4	Porto Santo Island	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
+da871503f6796db5142177b404db4fbe	Portsmouth	2020-05-01	2020-04-30T17:02:25		284							https://www.gov.uk/
 ea71b362e3ea9969db085abfccdeb10d	Portugal	2020-05-01	2020-04-30T23:00:00	989	25056	1519			0			https://covid19.min-saude.pt/
+3d01e677d271211030019290e83788d3	Preah Vihear Province	2020-05-01	2020-05-01T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
 81b03c07e7cc90aabc2143648791ed06	Puducherry	2020-05-01	2020-04-30T11:30:00+0000	0	8	5			0			https://www.mohfw.gov.in/
 6b2eb450290fde9e498cf4d068fda710	Punjab, India	2020-05-01	2020-04-30T11:30:00+0000	19	357	90			0			https://www.mohfw.gov.in/
 a5242c1436be2b5a277885df78be6b01	Queensland	2020-05-01	2020-04-30T20:00:00+0000		1033							https://www.health.gov.au/
 d418e699c9dd62a45089899a35a02404	Rajasthan	2020-05-01	2020-04-30T11:30:00+0000	51	2438	768			0			https://www.mohfw.gov.in/
+0865561d05ea5c11b7bf902eb450d101	Reading, Berkshire	2020-05-01	2020-04-30T17:02:25		460							https://www.gov.uk/
+77d2135ac5871ce8580492a1469062bc	Redcar and Cleveland	2020-05-01	2020-04-30T17:02:25		311							https://www.gov.uk/
 e96f78b67f5c4654268d411be5458909	Region of Murcia	2020-05-01	2020-04-30T05:04:53	130	1486	1202						https://www.mscbs.gob.es/
 da11822e8fb4f18bfdb37b85292db069	Reguengos de Monsaraz	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
 20b0f54a13f9bf5b41f56f6854ed5db0	Resende, Portugal	2020-05-01	2020-04-30T23:00:00		62							https://covid19.min-saude.pt/
 ba95c080214b958313cc058a79adac6d	Ribeira de Pena	2020-05-01	2020-04-30T23:00:00		3							https://covid19.min-saude.pt/
 9ec675a2e864742647d01b1af26001da	Rio Maior	2020-05-01	2020-04-30T23:00:00		15							https://covid19.min-saude.pt/
 39ac65d43a019f4cc24c5106e9c9eb8c	Rogaland	2020-05-01	2020-04-30T11:00:00		431							https://www.fhi.no/
+8505c53ff31c315621e161fadb5e15cd	Royal Borough of Greenwich	2020-05-01	2020-04-30T17:02:25		623							https://www.gov.uk/
+d4887f0676d4d1c350070bf6debbabfd	Royal Borough of Kensington and Chelsea	2020-05-01	2020-04-30T17:02:25		459							https://www.gov.uk/
+5ccbf289ca88d3ce35ab58f5b900c3bd	Royal Borough of Kingston upon Thames	2020-05-01	2020-04-30T17:02:25		443							https://www.gov.uk/
+4459275467abee9ffb15a630607fc60f	Royal Borough of Windsor and Maidenhead	2020-05-01	2020-04-30T17:02:25		245							https://www.gov.uk/
 5feb168ca8fb495dcc89b1208cdeb919	Russia	2020-05-01	2020-04-30T10:35:00	1073	106498	11619	3490000					https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+1629d36882f3179d9ac2d0a1579525e8	Rutland	2020-05-01	2020-04-30T17:02:25		20							https://www.gov.uk/
 5dc1fcf8bc0f3f7fbd4625d6c62d572c	Sabrosa	2020-05-01	2020-04-30T23:00:00		7							https://covid19.min-saude.pt/
 26a61be8eb8f5e69b82a64eb96c82d15	Salvaterra de Magos	2020-05-01	2020-04-30T23:00:00		8							https://covid19.min-saude.pt/
 ea6515eca27ae68c06c82e8cc2a6d318	Salzburg	2020-05-01	2020-04-30T20:00:00		142							https://info.gesundheitsministerium.at/
 b34c72f31d2f11ac34c0c76970ce6364	Salzburg (state)	2020-05-01	2020-04-30T20:00:00	33		1090		109				https://info.gesundheitsministerium.at/
+2b52c74ed9e9a00f0ec99fa5a719bad9	Sandwell	2020-05-01	2020-04-30T17:02:25		957							https://www.gov.uk/
 1610f326457f9ebb2aef7a5c9219e319	Santa Cruz, Madeira	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
 e342c7a06e0c1250ddc923f512c560c6	Santa Maria da Feira	2020-05-01	2020-04-30T23:00:00		396							https://covid19.min-saude.pt/
 9acfc63159cc3f45ae2c363b662ca205	Santiago Metropolitan Region	2020-05-01	2020-04-30T04:00:00+0000	110	9625							https://www.minsal.cl/
@@ -281,36 +434,55 @@ a65ed8e2728a0d78b5367f59702e9320	Sardinia	2020-05-01		116	1295	435	24754	744				
 da5dd6f051ca74960ec199973cf8bf0f	Scotland	2020-05-01	2020-04-30T17:02:25	1415	11353							https://www.gov.uk/
 1bfcb82d42bbf1baffe6d2c6416af353	Seia	2020-05-01	2020-04-30T23:00:00		13							https://covid19.min-saude.pt/
 a92bf0c9cc963c0276ddeef6061c0a42	Seixal	2020-05-01	2020-04-30T23:00:00		165							https://covid19.min-saude.pt/
+09569f019edff40f06658ee267d48ebb	Sernancelhe	2020-05-01	2020-04-30T23:00:00		4							https://covid19.min-saude.pt/
 e2658515ae5eec7efe099684ad795980	Serpa	2020-05-01	2020-04-30T23:00:00		18							https://covid19.min-saude.pt/
 97a73a870e48631e55b929aa6f05815d	Sesimbra	2020-05-01	2020-04-30T23:00:00		19							https://covid19.min-saude.pt/
 311b9b77447442d4be76f909f1c77209	Sever do Vouga	2020-05-01	2020-04-30T23:00:00		32							https://covid19.min-saude.pt/
+30d85fa7d563a95914f4d31958e9e3fa	Sheffield	2020-05-01	2020-04-30T17:02:25		2093							https://www.gov.uk/
+54ca3b35a43612f338b4364d6ac781ff	Shropshire	2020-05-01	2020-04-30T17:02:25		479							https://www.gov.uk/
 afc898fcdf7c8345694944b048c73746	Sicily	2020-05-01		235	3166	774	79669	2157				http://www.salute.gov.it/
+e02be5b2676568af51c8367c0ea366e6	Siem Reap Province	2020-05-01	2020-05-01T07:00:00+0000		7							http://www.cdcmoh.gov.kh/
 8404c729af651364a7cf26b9467b3e3f	Silves, Portugal	2020-05-01	2020-04-30T23:00:00		22							https://covid19.min-saude.pt/
 458e4cbc78201c1aec5fc53a31c59378	Singapore	2020-05-01	2020-04-30T04:00:00+0000	15	16169	1244	143919	14910	1			https://www.moh.gov.sg/covid-19
 877df04b7bb600041f4ce7978061406e	Sintra	2020-05-01	2020-04-30T23:00:00		586							https://covid19.min-saude.pt/
+947b11dac8b758ce5d79f1bbeacf7a04	Slough	2020-05-01	2020-04-30T17:02:25		376							https://www.gov.uk/
+05b58b67166d2e5dd34e0b811df3454a	Somerset	2020-05-01	2020-04-30T17:02:25		482							https://www.gov.uk/
 fb16961ea082d104a56aaaa392fca6c4	Soure, Portugal	2020-05-01	2020-04-30T23:00:00		21							https://covid19.min-saude.pt/
 4525654750c36b10ddada1f8fd95da16	Souss-Massa	2020-05-01	2020-04-30T15:00:00+0000		51							http://www.covidmaroc.ma/
 1287b11a755a7d660aa421359e6d24d0	South Africa	2020-05-01	2020-04-30T00:00:00	103	5647	2073	207530					https://sacoronavirus.co.za/
 b9ad9e76d90ea1e7d150ee3e87af0d1a	South Australia	2020-05-01	2020-04-30T20:00:00+0000		438							https://www.health.gov.au/
 f096bf992c2b5ca71e1ad76b76b277c8	South East England	2020-05-01	2020-04-30T17:02:25		16831							https://www.gov.uk/
+cecd8dea1cf6d33feaa60f39eef15a92	South Gloucestershire	2020-05-01	2020-04-30T17:02:25		341							https://www.gov.uk/
+d25b0b8719d283638ef6f748d0b82ceb	South Tyneside	2020-05-01	2020-04-30T17:02:25		538							https://www.gov.uk/
 30d1a660dcaf4082b9f0a416f7edfed5	South Tyrol	2020-05-01		275	2518	1441	41297	802				http://www.salute.gov.it/
 127e7702479e3739dce8e92db82a7885	South West England	2020-05-01	2020-04-30T17:02:25		6177							https://www.gov.uk/
+5a884401673693b0bdf379fefb7ec2b2	Southampton	2020-05-01	2020-04-30T17:02:25		454							https://www.gov.uk/
+5eecca6b57cc3349725293829e7dff0a	Southend-on-Sea	2020-05-01	2020-04-30T17:02:25		294							https://www.gov.uk/
 907eba32d950bfab68227fd7ea22999b	Spain	2020-05-01	2020-04-30T00:00:00	24543	213435	112050						https://www.mscbs.gob.es/
+132be056aa9650b194261fe7a272135c	Staffordshire	2020-05-01	2020-04-30T17:02:25		1697							https://www.gov.uk/
 131130c9120de7d00df0bba87f93005e	Steyr	2020-05-01	2020-04-30T20:00:00		61							https://info.gesundheitsministerium.at/
 cb17153656c01858896be179abd25e38	Styria	2020-05-01	2020-04-30T20:00:00	118		1187		440				https://info.gesundheitsministerium.at/
+5b8131b653f22a029caafb19feb21cd0	Suffolk	2020-05-01	2020-04-30T17:02:25		1027							https://www.gov.uk/
+f1f8cb000a78018601da3da6d0327057	Surrey	2020-05-01	2020-04-30T17:02:25		2530							https://www.gov.uk/
 3ad08396dc5afa78f34f548eea3c1d64	Switzerland	2020-05-01	2020-04-30T11:41:04	1407	29324	23400		143	28			https://www.ecdc.europa.eu/
+0a62ef4f27437f774e33be7254c08717	Tameside	2020-05-01	2020-04-30T17:02:25		451							https://www.gov.uk/
 d7a55ccf43d41e61fd22ee9f0548a8cf	Tamil Nadu	2020-05-01	2020-04-30T11:30:00+0000	27	2162	1210			2			https://www.mohfw.gov.in/
 eb04791608c94057599f2bfb1327cdd5	Tanger-Tetouan-Al Hoceima	2020-05-01	2020-04-30T15:00:00+0000		597							http://www.covidmaroc.ma/
 fb699e1804db4f9e5f235802844708ec	Taranaki	2020-05-01	2020-05-01T01:00:00+0000		16	14		2				https://www.health.govt.nz/
 c844c19bdbe33b9c547d94dd580ea642	Tasmania	2020-05-01	2020-04-30T20:00:00+0000		221							https://www.health.gov.au/
 2d26716b97ba8660c24b92323c0013ed	Tavira	2020-05-01	2020-04-30T23:00:00		30							https://covid19.min-saude.pt/
+868b91a1ca93abad4cca9092b9f478c9	Tboung Khmum Province	2020-05-01	2020-05-01T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
 387589377125beb163bf2d65e5f3212d	Telangana	2020-05-01	2020-04-30T11:30:00+0000	26	1012	367			0			https://www.mohfw.gov.in/
+977869ed478cfe79c361bdd12c46e60f	Telford and Wrekin	2020-05-01	2020-04-30T17:02:25		254							https://www.gov.uk/
 e9ebcb2b23b7c18c27b2810b85e495cc	Terras de Bouro	2020-05-01	2020-04-30T23:00:00		8							https://covid19.min-saude.pt/
+528453ab78f39d048df5b265bcc7e4c2	Thurrock	2020-05-01	2020-04-30T17:02:25		275							https://www.gov.uk/
 0daf92c77ff149327ca2d8a43922ff41	Tomar	2020-05-01	2020-04-30T23:00:00		11							https://covid19.min-saude.pt/
 02e8e98bcc125f51be37b97ab1facb26	Tondela	2020-05-01	2020-04-30T23:00:00		12							https://covid19.min-saude.pt/
+f9ab5979e801ffb274a21298e3822dfc	Torbay	2020-05-01	2020-04-30T17:02:25		202							https://www.gov.uk/
 89578e2b7e9c0dbddb7ff7c375250cc8	Torre de Moncorvo	2020-05-01	2020-04-30T23:00:00		23							https://covid19.min-saude.pt/
 006d79e2e56c7e9add4a7c8214fb1dff	Torres Novas	2020-05-01	2020-04-30T23:00:00		11							https://covid19.min-saude.pt/
 3d6c9da986fc2b07145f900a7f28e5ed	Torres Vedras	2020-05-01	2020-04-30T23:00:00		29							https://covid19.min-saude.pt/
+9c01415166cb80bd49d1dcb3b484b628	Trafford	2020-05-01	2020-04-30T17:02:25		584							https://www.gov.uk/
 a3e77ef9e01fb89859705824d08a085b	Trancoso, Portugal	2020-05-01	2020-04-30T23:00:00		15							https://covid19.min-saude.pt/
 0269dae753688f767813897dbe8be9f4	Trentino	2020-05-01		418	4116	2328	36534	1370				http://www.salute.gov.it/
 0bad206b82a2c718af4332280419b104	Tripura	2020-05-01	2020-04-30T11:30:00+0000	0	2	2			0			https://www.mohfw.gov.in/
@@ -331,6 +503,7 @@ a21c1873af3dbc01c143b6e3f38e9fa9	Uttar Pradesh	2020-05-01	2020-04-30T11:30:00+00
 565112b67275c9c8b14725d9af9c93b8	Valongo	2020-05-01	2020-04-30T23:00:00		724							https://covid19.min-saude.pt/
 013814c582f2e04ebcbd8be835b981d1	Vaud	2020-05-01	2020-04-30T22:00:00+0000	375	5274							https://www.bag.admin.ch/
 5a1fc5920c6b31e7f78e5a5ffb886c4e	Velas	2020-05-01	2020-04-30T23:00:00		5							https://covid19.min-saude.pt/
+1b277a671d67328348024f35fb78ab0b	Vendas Novas	2020-05-01	2020-04-30T23:00:00		6							https://covid19.min-saude.pt/
 6f62c119eb74408b76b9b32e53b38cf5	Veneto	2020-05-01		1459	17960	8354	349227	8147				http://www.salute.gov.it/
 90edf9dddf944355ac5949ee9f1280d9	Vestfold og Telemark	2020-05-01	2020-04-30T11:00:00		272							https://www.fhi.no/
 07f393ec4e3709f2bf27dbddb00f91da	Vestland	2020-05-01	2020-04-30T11:00:00		856							https://www.fhi.no/
@@ -360,11 +533,19 @@ ec05171b4c22e1a99d5c9dab86cbbf48	Vouzela	2020-05-01	2020-04-30T23:00:00		8						
 a7d56e7c5c4b6ffca4e9fda8eb9f8ebe	Waidhofen an der Ybbs	2020-05-01	2020-04-30T20:00:00		23							https://info.gesundheitsministerium.at/
 d8afff57191b68b3b4f4c3d1099fc276	Waikato	2020-05-01	2020-04-30T01:00:00+0000	1	186	151		34	0			https://www.health.govt.nz/
 e612e56ca0235a349cffa8331d8a6ad7	Wales	2020-05-01	2020-04-30T17:02:25	908	9812							https://www.gov.uk/
+16a8b415178bce64a2ea1a2eaf0d7918	Warrington	2020-05-01	2020-04-30T17:02:25		594							https://www.gov.uk/
+ae9b6456ea4139426edac7c3a6573a30	Warwickshire	2020-05-01	2020-04-30T17:02:25		1141							https://www.gov.uk/
 7d9d5414c5269ec416701a2fdbe2c9b6	Wels	2020-05-01	2020-04-30T20:00:00		58							https://info.gesundheitsministerium.at/
 be5bf577e4f25ca3525e0ddd4c3e3688	West Bengal	2020-05-01	2020-04-30T11:30:00+0000	22	758	124			0			https://www.mohfw.gov.in/
+0b59dfc2595c191d1745bdbe4ff230eb	West Berkshire	2020-05-01	2020-04-30T17:02:25		315							https://www.gov.uk/
 faaf89538aebf477c534aa4dbe32dc4f	West Coast, New Zealand	2020-05-01	2020-05-01T01:00:00+0000	1	5	4		0	0			https://www.health.govt.nz/
 e8bd565ab45209a6aadd3020a43e51c0	West Midlands (region)	2020-05-01	2020-04-30T17:02:25		12868							https://www.gov.uk/
+237a512c96c94c6aabe9291771e2adc6	West Sussex	2020-05-01	2020-04-30T17:02:25		1100							https://www.gov.uk/
 84d05acd35799d0c3e37bb59c74dd9f2	Western Australia	2020-05-01	2020-04-30T20:00:00+0000		551							https://www.health.gov.au/
 c1a6b42d892795a2406030ea4a3845c5	Whanganui	2020-05-01	2020-05-01T01:00:00+0000		9	9		0				https://www.health.govt.nz/
 c9f34b8f7517e3fa1dd80650bfdcb12c	Wiener Neustadt	2020-05-01	2020-04-30T20:00:00		46							https://info.gesundheitsministerium.at/
+bb51307f831e4afcd50e4cc80bc88086	Wiltshire	2020-05-01	2020-04-30T17:02:25		415							https://www.gov.uk/
+c01eda48462473081244a311ab45447c	Wolverhampton	2020-05-01	2020-04-30T17:02:25		797							https://www.gov.uk/
+793c90afab8ac3c7d25a37c6c9a09f90	Worcestershire	2020-05-01	2020-04-30T17:02:25		1107							https://www.gov.uk/
+d6f148df6bf665a69e08bdda1e141906	York	2020-05-01	2020-04-30T17:02:25		271							https://www.gov.uk/
 41ba2469b9f3765260373b2f85071ff1	Yorkshire and the Humber	2020-05-01	2020-04-30T17:02:25		10010							https://www.gov.uk/
