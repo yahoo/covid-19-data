@@ -32,10 +32,7 @@ Provides general information about the regions covered in the dataset, such as g
 | latitude            | xsd:float   | latitude in decimal number format |
 | longitude           | xsd:float   | longitude in decimal number format |
 | population          | xsd:integer | the population residing in the region |
-| stateLabel          | xsd:string  | the English name of the state where the region is located (if applicable) |
-| stateId             | xsd:string  | the region id of the state if applicable |
-| countryLabel        | xsd:string  | the English name of the country where the region is located (if applicable) |
-| countryId           | xsd:string  | the region id of the country if applicable |
+| parentId            | list of xsd:string | a list of parent geopolitical regions for the region, this represents only direct parents as they exist in the dataset and not the full possible hierarchy |
 
 ### by-region-`[DATE]`
 
