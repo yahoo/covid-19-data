@@ -1,50 +1,64 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numActiveCases	numDeaths	numRecoveredCases	numTests	dataSource
-c22e8aefd0015bcf4e8fd333d1ad4f27	Abruzzo	2020-03-13		2	89	4	958	83	0			http://www.salute.gov.it/
+c22e8aefd0015bcf4e8fd333d1ad4f27	Abruzzo	2020-03-13		2	89	4	958	83	0	0		http://www.salute.gov.it/
 6e9767f4f15357401b148b9a8ced14ef	Afghanistan	2020-03-13		0	7				0			https://www.who.int/
 c420ddff824a5c0eec70dd23d62496bc	Albania	2020-03-13		1	33				1			https://www.who.int/
-575b9408b6daa2ddcefbcf6d81c9b4c9	Algeria	2020-03-13	2020-04-30T11:41:04	1	25			5	1			https://www.ecdc.europa.eu/
-49a1e8cf277bb1f58536e45c10c10020	Andalusia	2020-03-13	2020-04-30T05:04:53	2	269				2			https://www.mscbs.gob.es/
+575b9408b6daa2ddcefbcf6d81c9b4c9	Algeria	2020-03-13	2020-05-01T11:41:02	1	25			5	1	1		https://www.ecdc.europa.eu/
+49a1e8cf277bb1f58536e45c10c10020	Andalusia	2020-03-13	2020-05-01T09:12:34	2	269				2	0		https://www.mscbs.gob.es/
 68746a7280b143cfc01f967610d3e86d	Andorra	2020-03-13		0	2				0			https://www.who.int/
 79f96d084a36450dd126ddb451f53c90	Antigua and Barbuda	2020-03-13		0	1							https://www.who.int/
-58514bdf2478891d0fe67a830a684d0f	Aosta Valley	2020-03-13		1	28		189	27	0			http://www.salute.gov.it/
-c07f43af3f7ed5ff2f4e2a4fce92897b	Apulia	2020-03-13		5	129	3	1449	121	0			http://www.salute.gov.it/
-c2afadec4da6fe19d9f46a6df7502c3f	Aragon	2020-03-13	2020-04-30T05:04:53	7	121				0			https://www.mscbs.gob.es/
-3536be57ce0713954e454ae6c53ec023	Argentina	2020-03-13	2020-04-30T11:41:04	1	31			12				https://www.ecdc.europa.eu/
+9d2b14ff85dd7ad35f163ee7d0633bf2	Antwerp Province	2020-03-13	2020-03-13		172							https://epistat.wiv-isp.be/Covid/
+58514bdf2478891d0fe67a830a684d0f	Aosta Valley	2020-03-13		1	28		189	27	0	0		http://www.salute.gov.it/
+c07f43af3f7ed5ff2f4e2a4fce92897b	Apulia	2020-03-13		5	129	3	1449	121	0	2		http://www.salute.gov.it/
+c2afadec4da6fe19d9f46a6df7502c3f	Aragon	2020-03-13	2020-05-01T09:12:34	7	121				0	0		https://www.mscbs.gob.es/
+3536be57ce0713954e454ae6c53ec023	Argentina	2020-03-13	2020-05-01T11:41:02	1	31			12		0		https://www.ecdc.europa.eu/
 a00c273f0f497484093fa94865cf5ca5	Armenia	2020-03-13		0	8				0			https://www.who.int/
-4893b64051cf425047ddd8606dae25f4	Aruba	2020-03-13	2020-04-30T11:41:04		2			2				https://www.ecdc.europa.eu/
-8d0bf5abf5750f86ec01a9baee95ee3a	Asturias	2020-03-13	2020-04-30T05:04:53	1	92	1			0			https://www.mscbs.gob.es/
+4893b64051cf425047ddd8606dae25f4	Aruba	2020-03-13	2020-05-01T11:41:02		2			2				https://www.ecdc.europa.eu/
+8d0bf5abf5750f86ec01a9baee95ee3a	Asturias	2020-03-13	2020-05-01T09:12:34	1	92	1			0	0		https://www.mscbs.gob.es/
 4442e4af0916f53a07fb8ca9a49b98ed	Australia	2020-03-13		3	189				0			https://www.who.int/
 9891739094756d2605946c867b32ad28	Austria	2020-03-13		1	504				0			https://www.who.int/
-7176f8c3bccfdf02322c73f7a0bc9688	Azerbaijan	2020-03-13	2020-04-30T11:41:04		13							https://www.ecdc.europa.eu/
+7176f8c3bccfdf02322c73f7a0bc9688	Azerbaijan	2020-03-13	2020-05-01T11:41:02		13					0		https://www.ecdc.europa.eu/
 6ddecd8ccd9f648d19dc02c7a566cb4f	Bahrain	2020-03-13		0	195				0			https://www.who.int/
-424a76833ca99e5863fb117fdb6d535f	Balearic Islands	2020-03-13	2020-04-30T05:04:53	1	28	1			0			https://www.mscbs.gob.es/
+424a76833ca99e5863fb117fdb6d535f	Balearic Islands	2020-03-13	2020-05-01T09:12:34	1	28	1			0	0		https://www.mscbs.gob.es/
 f78a77f631d275aac6a914a17fe1b885	Bangladesh	2020-03-13		0	3				0			https://www.who.int/
-97db1e4ee88adfea537c30b0aa653a63	Basilicata	2020-03-13			10		155	10	0			http://www.salute.gov.it/
-ebd9ba99ad127ded62bd4825f1882b60	Basque Country (autonomous community)	2020-03-13	2020-04-30T05:04:53	14	521	5			0			https://www.mscbs.gob.es/
-6542f875eaa09a5c550e5f3986400ad9	Belarus	2020-03-13	2020-04-30T11:41:04		21			9				https://www.ecdc.europa.eu/
+97db1e4ee88adfea537c30b0aa653a63	Basilicata	2020-03-13			10		155	10	0	0		http://www.salute.gov.it/
+ebd9ba99ad127ded62bd4825f1882b60	Basque Country (autonomous community)	2020-03-13	2020-05-01T09:12:34	14	521	5			0	3		https://www.mscbs.gob.es/
+40810e9722071096c25fc680cec8f5c6	Bath and North East Somerset	2020-03-13	2020-05-01T16:47:46		4							https://www.gov.uk/
+6542f875eaa09a5c550e5f3986400ad9	Belarus	2020-03-13	2020-05-01T11:41:02		21			9		0		https://www.ecdc.europa.eu/
 6c1674d14bf5f95742f572cddb0641a7	Belgium	2020-03-13		0	599				-3			https://www.who.int/
-e65a0ed0e39dd14a9e5af441efb09b37	Bhutan	2020-03-13	2020-04-30T11:41:04		1							https://www.ecdc.europa.eu/
-28aaafc355915903ce4a7e1d3af3bc4e	Bolivia	2020-03-13	2020-04-30T11:41:04		3			1				https://www.ecdc.europa.eu/
+e65a0ed0e39dd14a9e5af441efb09b37	Bhutan	2020-03-13	2020-05-01T11:41:02		1					0		https://www.ecdc.europa.eu/
+269cb914b20d49fb2f7cc5b1f602b7aa	Birmingham	2020-03-13	2020-05-01T16:47:46		36							https://www.gov.uk/
+229cded91047e0595b90028c115941b8	Blackburn with Darwen	2020-03-13	2020-05-01T16:47:46		1							https://www.gov.uk/
+28aaafc355915903ce4a7e1d3af3bc4e	Bolivia	2020-03-13	2020-05-01T11:41:02		3			1		0		https://www.ecdc.europa.eu/
+f9b6319f4d47986c1801f8bedcb41de9	Borough of Halton	2020-03-13	2020-05-01T16:47:46		3							https://www.gov.uk/
+9c733397ba05d0e628002e38e7bdb58b	Borough of Swindon	2020-03-13	2020-05-01T16:47:46		4							https://www.gov.uk/
 c758f309604eaea62c3c519cb2d6d5e3	Bosnia and Herzegovina	2020-03-13		0	11				0			https://www.who.int/
 42537f0fb56e31e20ab9c2305752087d	Brazil	2020-03-13		0	98				0			https://www.who.int/
-d3f5841f04ba23bb90e1b9f4256cea70	Brunei	2020-03-13	2020-04-30T11:41:04		25			14				https://www.ecdc.europa.eu/
-01a151debf2bfee8906f43f4342eb10b	Bulgaria	2020-03-13	2020-04-30T11:41:04	1	23			16				https://www.ecdc.europa.eu/
+157cd34cc88906bdedaa1845f6dfab44	Brighton and Hove	2020-03-13	2020-05-01T16:47:46		11							https://www.gov.uk/
+ee9528184f21142f7b0fa9993048d9d0	Bristol	2020-03-13	2020-05-01T16:47:46		8							https://www.gov.uk/
+d3f5841f04ba23bb90e1b9f4256cea70	Brunei	2020-03-13	2020-05-01T11:41:02		25			14		0		https://www.ecdc.europa.eu/
+c90603199761407ed25e1b734509184c	Buckinghamshire	2020-03-13	2020-05-01T16:47:46		34							https://www.gov.uk/
+01a151debf2bfee8906f43f4342eb10b	Bulgaria	2020-03-13	2020-05-01T11:41:02	1	23			16		0		https://www.ecdc.europa.eu/
 dfc4327c51fe1e82827c1eb7b0d23a42	Burkina Faso	2020-03-13		0	2				0			https://www.who.int/
-cb09c754fad3673f7d34c75e63fad18c	Calabria	2020-03-13			38	1	504	37	0			http://www.salute.gov.it/
-06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-03-13	2020-04-30T11:41:04		5			2				https://www.ecdc.europa.eu/
+cb09c754fad3673f7d34c75e63fad18c	Calabria	2020-03-13			38	1	504	37	0	0		http://www.salute.gov.it/
+06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-03-13	2020-05-01T11:41:02		5			2		0		https://www.ecdc.europa.eu/
 4be25f9d27da71d4e98775668b5b12af	Cameroon	2020-03-13		0	2				0			https://www.who.int/
-cc817969d60833fd7c3c7461797d9b6d	Campania	2020-03-13		2	220	5	1671	213	1			http://www.salute.gov.it/
+cc817969d60833fd7c3c7461797d9b6d	Campania	2020-03-13		2	220	5	1671	213	1	1		http://www.salute.gov.it/
 445d337b5cd5de476f99333df6b0c2a7	Canada	2020-03-13		1	152				0			https://www.who.int/
-dc3bb29135ba4b09e76d1c1925790a5d	Canary Islands	2020-03-13	2020-04-30T05:04:53	1	90	7			1			https://www.mscbs.gob.es/
-403ec7ac6864b855d6111ddb002d1051	Cantabria	2020-03-13	2020-04-30T05:04:53		31	7			0			https://www.mscbs.gob.es/
-4b70ef6abcaca1b3311ccd7636aa92e2	Catalonia	2020-03-13	2020-04-30T05:04:53	13	558	32			4			https://www.mscbs.gob.es/
+dc3bb29135ba4b09e76d1c1925790a5d	Canary Islands	2020-03-13	2020-05-01T09:12:34	1	90	7			1	2		https://www.mscbs.gob.es/
+403ec7ac6864b855d6111ddb002d1051	Cantabria	2020-03-13	2020-05-01T09:12:34		31	7			0	0		https://www.mscbs.gob.es/
+4b70ef6abcaca1b3311ccd7636aa92e2	Catalonia	2020-03-13	2020-05-01T09:12:34	13	558	32			4	13		https://www.mscbs.gob.es/
 08a3abb86ae944b6f2d92c7c1d02d50e	Cayman Islands	2020-03-13		0	1							https://www.who.int/
-b14c3890a187a7798035ac60d89b54f7	Ceuta	2020-03-13	2020-04-30T05:04:53						0			https://www.mscbs.gob.es/
+6e68bf52119e337f50f2f87c58238c27	Central Bedfordshire	2020-03-13	2020-05-01T16:47:46		6							https://www.gov.uk/
+b14c3890a187a7798035ac60d89b54f7	Ceuta	2020-03-13	2020-05-01T09:12:34						0	0		https://www.mscbs.gob.es/
+c8472b77662f3559fa45289339e8d7bb	Cheshire East	2020-03-13	2020-05-01T16:47:46		7							https://www.gov.uk/
 2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-03-13		0	43				0			https://www.who.int/
 ae54a5c026f31ada088992587d92cb3a	China	2020-03-13		3180	80991				7			https://www.who.int/
+6f754a7d9dd075f6c51da5812c6186c2	City of Salford	2020-03-13	2020-05-01T16:47:46		4							https://www.gov.uk/
+d04ff64e5b0881a8256dd9c26878f3e6	City of Westminster	2020-03-13	2020-05-01T16:47:46		60							https://www.gov.uk/
 ef3388cc5659bccb742fb8af762f1bfd	Colombia	2020-03-13		0	16				0			https://www.who.int/
-9a4d970eac1bc4287c2a2bfe33326243	Community of Madrid	2020-03-13	2020-04-30T05:04:53	86	2940	474			5			https://www.mscbs.gob.es/
-e226fbb7731da90173e60cdd1704481c	Costa Rica	2020-03-13	2020-04-30T11:41:04		23			1				https://www.ecdc.europa.eu/
+9a4d970eac1bc4287c2a2bfe33326243	Community of Madrid	2020-03-13	2020-05-01T09:12:34	86	2940	474			5	317		https://www.mscbs.gob.es/
+34850c1f9f324ccfb8aab54a4bd285d4	Cornwall	2020-03-13	2020-05-01T16:47:46		9							https://www.gov.uk/
+e226fbb7731da90173e60cdd1704481c	Costa Rica	2020-03-13	2020-05-01T11:41:02		23			1		0		https://www.ecdc.europa.eu/
 04cc9a4edffb228cdbff138c8511d40a	County Carlow	2020-03-13			0							https://www.gov.ie/
 34adb408633899e4fdc5ef8186148a5a	County Cavan	2020-03-13			0							https://www.gov.ie/
 139045fd956b90dc865395c1c6ab1a19	County Clare	2020-03-13			0							https://www.gov.ie/
@@ -73,136 +87,198 @@ c815a81a59be13491ca438a6a2758535	County Waterford	2020-03-13			0							https://w
 cd1d7b72da8fe3361c849bf1bcff1d45	County Wicklow	2020-03-13			0							https://www.gov.ie/
 560d4c6ff431c86546f3fcec72c748c7	Croatia	2020-03-13		0	31				0			https://www.who.int/
 33cac763789c407f405b2cf0dce7df89	Cuba	2020-03-13		0	4				0			https://www.who.int/
+e28fc7b980b342e2bb4a1eb56f66230e	Cumbria	2020-03-13	2020-05-01T16:47:46		25							https://www.gov.uk/
 ea2ba3f8011e19e3101ce65fdcefbcc4	Cyprus	2020-03-13		0	14				0			https://www.who.int/
-12a4359f3d8a4a2db61f4d040edb73ed	Czech Republic	2020-03-13	2020-04-30T11:41:04		116			22				https://www.ecdc.europa.eu/
+12a4359f3d8a4a2db61f4d040edb73ed	Czech Republic	2020-03-13	2020-05-01T11:41:02		116			22		0		https://www.ecdc.europa.eu/
 6e9cb8977e95d11f6042b4c33ea07127	Democratic Republic of the Congo	2020-03-13		0	1				0			https://www.who.int/
 424214945ba5615eca039bfe5d731c09	Denmark	2020-03-13		0	801				0			https://www.who.int/
+7e3c720afe1e04eadd7459f072be745b	Derby	2020-03-13	2020-05-01T16:47:46		6							https://www.gov.uk/
+b5484e0da2940ac1dffbe6422375902c	Derbyshire	2020-03-13	2020-05-01T16:47:46		29							https://www.gov.uk/
+ca9b33c206e08498e2e4ad87b6197473	Devon	2020-03-13	2020-05-01T16:47:46		30							https://www.gov.uk/
 1b44cfe344fa1ed289752f66791b7dd6	Dominican Republic	2020-03-13		0	5				0			https://www.who.int/
-5cdd21c97f86686cc505e02fd32a7523	Earth	2020-03-13	2020-04-30T23:36:54.506	5385	142395				416			https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+0960de8471bcc9200d083c02e054a2c2	Dorset	2020-03-13	2020-05-01T16:47:46		5							https://www.gov.uk/
+5cdd21c97f86686cc505e02fd32a7523	Earth	2020-03-13	2020-05-02T01:38:37.997	5384	142395				414			https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 cd4f1b90916c295a8a46719499c3299c	East Flanders	2020-03-13	2020-03-13		141							https://epistat.wiv-isp.be/Covid/
-46fb35db1ee26c5c3a1c59eca715c630	East Midlands	2020-03-13	2020-04-29T21:32:34		119							https://www.gov.uk/
-9fa586c842208843c415cfa324048287	East of England	2020-03-13	2020-04-29T21:32:34		119							https://www.gov.uk/
+46fb35db1ee26c5c3a1c59eca715c630	East Midlands	2020-03-13	2020-05-01T16:47:46		119							https://www.gov.uk/
+83cb12331c934dce754aa376b6635227	East Riding of Yorkshire	2020-03-13	2020-05-01T16:47:46		10							https://www.gov.uk/
+9ac8959ebec8a1282e536bb97429e2b4	East Sussex	2020-03-13	2020-05-01T16:47:46		6							https://www.gov.uk/
+9fa586c842208843c415cfa324048287	East of England	2020-03-13	2020-05-01T16:47:46		119							https://www.gov.uk/
 4d5d85af33ec2aaedb674d2d6a7d53b6	Ecuador	2020-03-13		0	23				0			https://www.who.int/
-e31959fe2842dacea4d16d36e9813620	Egypt	2020-03-13	2020-04-30T11:41:04	2	80			20	1			https://www.ecdc.europa.eu/
-46bc56ae264329f72d44b7bfd2f87076	Emilia-Romagna	2020-03-13		201	2263	51	8787	2011	55			http://www.salute.gov.it/
-64f607906be7598a02d75dbc1e979662	England	2020-03-13	2020-04-29T21:32:34	10					1			https://www.gov.uk/
+e31959fe2842dacea4d16d36e9813620	Egypt	2020-03-13	2020-05-01T11:41:02	2	80			20	1	1		https://www.ecdc.europa.eu/
+46bc56ae264329f72d44b7bfd2f87076	Emilia-Romagna	2020-03-13		201	2263	51	8787	2011	55	8		http://www.salute.gov.it/
+64f607906be7598a02d75dbc1e979662	England	2020-03-13	2020-05-01T16:47:46	10					1			https://www.gov.uk/
+9b547b8f966cbaf14a511a250a501f15	Essex	2020-03-13	2020-05-01T16:47:46		29							https://www.gov.uk/
 7755415a9fe7022060b98a689236ccd2	Estonia	2020-03-13		0	79				0			https://www.who.int/
-37a1a8ebbedb0cd6a2244a12448a869e	Extremadura	2020-03-13	2020-04-30T05:04:53	2	66	4			1			https://www.mscbs.gob.es/
+37a1a8ebbedb0cd6a2244a12448a869e	Extremadura	2020-03-13	2020-05-01T09:12:34	2	66	4			1	1		https://www.mscbs.gob.es/
 62a31ae99f39c3703156dff0fb70ec15	Faroe Islands	2020-03-13		0	3				0			https://www.who.int/
-6f781c6559a0c605da918096bdb69edf	Finland	2020-03-13	2020-04-30T11:41:04		155			96				https://www.ecdc.europa.eu/
+6f781c6559a0c605da918096bdb69edf	Finland	2020-03-13	2020-05-01T11:41:02		155			96		0		https://www.ecdc.europa.eu/
 220b61353e158085d893e7d1bcf328b1	Flemish Brabant	2020-03-13	2020-03-13		191							https://epistat.wiv-isp.be/Covid/
 0309a6c666a7a803fdb9db95de71cf01	France	2020-03-13		79	3640				18			https://www.who.int/
 f759cc253e82d5acc22a83374fae2818	French Guiana	2020-03-13		0	6				0			https://www.who.int/
 9f565d21ab70afde5aca88d6e7174b9e	French Polynesia	2020-03-13		0	1				0			https://www.who.int/
-d8fa078f85a325fda848f2fb4f4857d9	Friuli Venezia Giulia	2020-03-13		10	257	11	3149	236	2			http://www.salute.gov.it/
-fceb5af40df295d85851f390f4f8d78d	Gabon	2020-03-13	2020-04-30T11:41:04		1			1				https://www.ecdc.europa.eu/
-67cb6c1780f6dc78144ed7f8402315f3	Galicia (Spain)	2020-03-13	2020-04-30T05:04:53		115	3			0			https://www.mscbs.gob.es/
-b3c6f07b0e6e5acb9e98e10378649de9	Georgia (country)	2020-03-13	2020-04-30T11:41:04		25			1				https://www.ecdc.europa.eu/
-d8b00929dec65d422303256336ada04f	Germany	2020-03-13	2020-04-30T11:41:04	5	2369			802	2			https://www.ecdc.europa.eu/
-e7400496f1ce70cb62c2c44ca2ddc469	Ghana	2020-03-13	2020-04-30T11:41:04		2			2				https://www.ecdc.europa.eu/
+d8fa078f85a325fda848f2fb4f4857d9	Friuli Venezia Giulia	2020-03-13		10	257	11	3149	236	2	0		http://www.salute.gov.it/
+fceb5af40df295d85851f390f4f8d78d	Gabon	2020-03-13	2020-05-01T11:41:02		1			1				https://www.ecdc.europa.eu/
+67cb6c1780f6dc78144ed7f8402315f3	Galicia (Spain)	2020-03-13	2020-05-01T09:12:34		115	3			0	3		https://www.mscbs.gob.es/
+b3c6f07b0e6e5acb9e98e10378649de9	Georgia (country)	2020-03-13	2020-05-01T11:41:02		25			1		0		https://www.ecdc.europa.eu/
+d8b00929dec65d422303256336ada04f	Germany	2020-03-13	2020-05-01T11:41:02	5	2369			802	2	2		https://www.ecdc.europa.eu/
+e7400496f1ce70cb62c2c44ca2ddc469	Ghana	2020-03-13	2020-05-01T11:41:02		2			2				https://www.ecdc.europa.eu/
 672566a43483aa8212cb365658600b99	Gibraltar	2020-03-13		0	1				0			https://www.who.int/
-d0ddf8ace64108fae4f1371f1fe778a2	Greater London	2020-03-13	2020-04-29T21:32:34		765							https://www.gov.uk/
-6b718641741f992e68ec3712718561b8	Greece	2020-03-13	2020-04-30T11:41:04	1	133			34				https://www.ecdc.europa.eu/
-cf4c7e1169281886577940e361854a84	Guyana	2020-03-13	2020-04-30T11:41:04	1	1			1	1			https://www.ecdc.europa.eu/
+e532b17297cb1d768f6cd0e0d217abac	Gloucestershire	2020-03-13	2020-05-01T16:47:46		12							https://www.gov.uk/
+d0ddf8ace64108fae4f1371f1fe778a2	Greater London	2020-03-13	2020-05-01T16:47:46		764							https://www.gov.uk/
+6b718641741f992e68ec3712718561b8	Greece	2020-03-13	2020-05-01T11:41:02	1	133			34		0		https://www.ecdc.europa.eu/
+cf4c7e1169281886577940e361854a84	Guyana	2020-03-13	2020-05-01T11:41:02	1	1			1	1			https://www.ecdc.europa.eu/
+809cc2b6a53b84d676a23f8c0ebb8f4b	Hampshire	2020-03-13	2020-05-01T16:47:46		67							https://www.gov.uk/
+18da668ab36a342d2dfbce963ac4b257	Herefordshire	2020-03-13	2020-05-01T16:47:46		2							https://www.gov.uk/
+8e0be7d94b945267413ae092bddd957f	Hertfordshire	2020-03-13	2020-05-01T16:47:46		43							https://www.gov.uk/
 f4270ce39e7e926052e097a0e4e63bde	Honduras	2020-03-13		0	2				0			https://www.who.int/
 fa79c3005daec47ecff84a116a0927a1	Hungary	2020-03-13		0	19				0			https://www.who.int/
-b78edab0f52e0d6c195fd0d8c5709d26	Iceland	2020-03-13	2020-04-30T11:41:04		117			32				https://www.ecdc.europa.eu/
+b78edab0f52e0d6c195fd0d8c5709d26	Iceland	2020-03-13	2020-05-01T11:41:02		117			32		0		https://www.ecdc.europa.eu/
 7d31e0da1ab99fe8b08a22118e2f402b	India	2020-03-13		1	81				1			https://www.who.int/
 4647d00cf81f8fb0ab80f753320d0fc9	Indonesia	2020-03-13		4	69				3			https://www.who.int/
 21fc68909a9eb8692e84cf64e495213e	Iran	2020-03-13		514	11364				85			https://www.who.int/
-5ae2ff99743a8487c917e98bbf3db2d3	Iraq	2020-03-13	2020-04-30T11:41:04	8	74			4				https://www.ecdc.europa.eu/
+5ae2ff99743a8487c917e98bbf3db2d3	Iraq	2020-03-13	2020-05-01T11:41:02	8	74			4		0		https://www.ecdc.europa.eu/
 5a548c2f5875f10bf5614b7c258876cf	Israel	2020-03-13		0	126				0			https://www.who.int/
 1007e1b7f894dfbf72a0eaa80f3bc57e	Italy	2020-03-13		1268	17660				252			https://www.who.int/
 4413f999927923b7c6fd336d7cdbabeb	Ivory Coast	2020-03-13		0	1				0			https://www.who.int/
-1add2eb41fcae9b2a15b4a7d68571409	Jamaica	2020-03-13	2020-04-30T11:41:04		6			4				https://www.ecdc.europa.eu/
-53a577bb3bc587b0c28ab808390f1c9b	Japan	2020-03-13	2020-04-30T11:41:04	19	675			56	4			https://www.ecdc.europa.eu/
+1add2eb41fcae9b2a15b4a7d68571409	Jamaica	2020-03-13	2020-05-01T11:41:02		6			4		0		https://www.ecdc.europa.eu/
+53a577bb3bc587b0c28ab808390f1c9b	Japan	2020-03-13	2020-05-01T11:41:02	19	675			56	4	4		https://www.ecdc.europa.eu/
 3cda26e0c8aedbf662adb42f923ef3ec	Jersey	2020-03-13		0	2				0			https://www.who.int/
 6ea1e24d60afddf388b06f8243c45b70	Jordan	2020-03-13		0	1				0			https://www.who.int/
+a02eebc82319b5eeae7f3903fa46f904	Kent	2020-03-13	2020-05-01T16:47:46		29							https://www.gov.uk/
 05387f3ca38d7bd84ae35f31f2899ecf	Kuwait	2020-03-13		0	100				0			https://www.who.int/
-097f9b6b805aac4bcb7a36bb78c20840	La Rioja (Spain)	2020-03-13	2020-04-30T05:04:53	3	278	1			0			https://www.mscbs.gob.es/
+097f9b6b805aac4bcb7a36bb78c20840	La Rioja (Spain)	2020-03-13	2020-05-01T09:12:34	3	278	1			0	0		https://www.mscbs.gob.es/
+d2e8837e7b4141a48a0eaebe7d57895d	Lancashire	2020-03-13	2020-05-01T16:47:46		15							https://www.gov.uk/
 a09f4b2ae67f0a63ab8912047a1a1b55	Latvia	2020-03-13		0	19				0			https://www.who.int/
-84d0447bddc00597d2a14284d627c8ed	Lazio	2020-03-13		11	277	24	6491	242	2			http://www.salute.gov.it/
+84d0447bddc00597d2a14284d627c8ed	Lazio	2020-03-13		11	277	24	6491	242	2	5		http://www.salute.gov.it/
 b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	2020-03-13		3	66				0			https://www.who.int/
-da4e3775bd2de6c37fadd9b0188f7a4e	Liechtenstein	2020-03-13	2020-04-30T11:41:04		4			1				https://www.ecdc.europa.eu/
-47abe64b4e6d1e3b619c16b2ff75022a	Liguria	2020-03-13		17	345	24	1442	304	6			http://www.salute.gov.it/
+a06360acafe964d244e424cbd50862e8	Leicester	2020-03-13	2020-05-01T16:47:46		3							https://www.gov.uk/
+821549cf5b147898342cf79b0d9bb966	Leicestershire	2020-03-13	2020-05-01T16:47:46		15							https://www.gov.uk/
+da4e3775bd2de6c37fadd9b0188f7a4e	Liechtenstein	2020-03-13	2020-05-01T11:41:02		4			1		0		https://www.ecdc.europa.eu/
+47abe64b4e6d1e3b619c16b2ff75022a	Liguria	2020-03-13		17	345	24	1442	304	6	4		http://www.salute.gov.it/
 c29a813229fd2ced27b1cfa2505161dd	Limburg (Belgium)	2020-03-13	2020-03-13		143							https://epistat.wiv-isp.be/Covid/
 d9051e0b77f8bb5521389618e70e2ada	Lithuania	2020-03-13		0	6				0			https://www.who.int/
-b0ea6e29d4727582c926ca0e6b9f775b	Lombardy	2020-03-13		890	9820	1198	32700	7732	146			http://www.salute.gov.it/
+afce84ff226407a47c9782a742ba02f7	Liverpool	2020-03-13	2020-05-01T16:47:46		11							https://www.gov.uk/
+b0ea6e29d4727582c926ca0e6b9f775b	Lombardy	2020-03-13		890	9820	1198	32700	7732	146	113		http://www.salute.gov.it/
+ce87401c8fc1fdfff9eccc20b9073bcb	London Borough of Barnet	2020-03-13	2020-05-01T16:47:46		38							https://www.gov.uk/
+1454fda205d52e7b91eb249886595554	London Borough of Camden	2020-03-13	2020-05-01T16:47:46		30							https://www.gov.uk/
+dc7c1266815a22cca5e8a1086567335b	London Borough of Enfield	2020-03-13	2020-05-01T16:47:46		21							https://www.gov.uk/
+292964c31822842a3a9cbbcc0d5533d2	London Borough of Hackney	2020-03-13	2020-05-01T16:47:46		23							https://www.gov.uk/
+54a974c2d0f5328c5701b3d79e0bb5eb	London Borough of Hounslow	2020-03-13	2020-05-01T16:47:46		18							https://www.gov.uk/
+d81977d52995c299653534afe099cfb0	London Borough of Waltham Forest	2020-03-13	2020-05-01T16:47:46		8							https://www.gov.uk/
+20ee5d666fa2428304848c9ebf2cf8b2	Luton	2020-03-13	2020-05-01T16:47:46		3							https://www.gov.uk/
 06630c890abadde9228ea818ce52b621	Luxembourg	2020-03-13		1	38				1			https://www.who.int/
-3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	2020-03-13	2020-04-30T11:41:04		158			9				https://www.ecdc.europa.eu/
+3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	2020-03-13	2020-05-01T11:41:02		158			9		0		https://www.ecdc.europa.eu/
 62235142f3fca96e1f2cd0ed4a7de48d	Maldives	2020-03-13		0	8				0			https://www.who.int/
 92468e8a62373add2b9caefddbcf1303	Malta	2020-03-13		0	12				0			https://www.who.int/
-cbbf47d0cf18f11240d45497ac3c395b	Marche	2020-03-13		27	725		2218	698	5			http://www.salute.gov.it/
+317532540adceb07d5e2ec62d5eacac2	Manchester	2020-03-13	2020-05-01T16:47:46		15							https://www.gov.uk/
+cbbf47d0cf18f11240d45497ac3c395b	Marche	2020-03-13		27	725		2218	698	5	0		http://www.salute.gov.it/
 899c4b2a0d41d5b86e2dbc3b2f5380cf	Martinique	2020-03-13		0	4				0			https://www.who.int/
-5475ba47056fb8596065a0d640138bb0	Melilla	2020-03-13	2020-04-30T05:04:53		3				0			https://www.mscbs.gob.es/
-8dbb07a18d46f63d8b3c8994d5ccc351	Mexico	2020-03-13	2020-04-30T11:41:04		16			5				https://www.ecdc.europa.eu/
+453152430f7986b2e533133878cdbd91	Medway	2020-03-13	2020-05-01T16:47:46		11							https://www.gov.uk/
+5475ba47056fb8596065a0d640138bb0	Melilla	2020-03-13	2020-05-01T09:12:34		3				0	0		https://www.mscbs.gob.es/
+386b8e9954a52d5f89e463b927e0fcfe	Metropolitan Borough of Dudley	2020-03-13	2020-05-01T16:47:46		9							https://www.gov.uk/
+5afa7dd30730c56cb6ae8dab9c0b4447	Metropolitan Borough of Oldham	2020-03-13	2020-05-01T16:47:46		9							https://www.gov.uk/
+789482fae186e099fb7ac41ba0d9b485	Metropolitan Borough of Rochdale	2020-03-13	2020-05-01T16:47:46		4							https://www.gov.uk/
+ec3d226b8a94e2a0771550f4c560b77d	Metropolitan Borough of Rotherham	2020-03-13	2020-05-01T16:47:46		5							https://www.gov.uk/
+2ea75a5f582e8bfa958ace4274bc7dce	Metropolitan Borough of St Helens	2020-03-13	2020-05-01T16:47:46		2							https://www.gov.uk/
+ff9764a9683e2a953e07e5b3c2d068dd	Metropolitan Borough of Stockport	2020-03-13	2020-05-01T16:47:46		9							https://www.gov.uk/
+9804fb1339ff93d4bdcf1f74ddbdb44e	Metropolitan Borough of Walsall	2020-03-13	2020-05-01T16:47:46		16							https://www.gov.uk/
+692a403b099faac0e0f591c20810ae31	Metropolitan Borough of Wirral	2020-03-13	2020-05-01T16:47:46		6							https://www.gov.uk/
+8dbb07a18d46f63d8b3c8994d5ccc351	Mexico	2020-03-13	2020-05-01T11:41:02		16			5		0		https://www.ecdc.europa.eu/
 0c12f5495afe76d9242ed25668979de9	Moldova	2020-03-13		0	8				0			https://www.who.int/
-5167f4d23cf87e8955e0869fc2a4ecfa	Molise	2020-03-13			17		243	17	0			http://www.salute.gov.it/
+5167f4d23cf87e8955e0869fc2a4ecfa	Molise	2020-03-13			17		243	17	0	0		http://www.salute.gov.it/
 d6a297c6193fd59309453a0db7a51b90	Monaco	2020-03-13		0	2				0			https://www.who.int/
 bb6a72b6a93150d4181e50496fc15f5a	Mongolia	2020-03-13		0	1				0			https://www.who.int/
-4d4a1722d8e85909a576da2c42878ff0	Morocco	2020-03-13	2020-04-30T11:41:04	1	6			1				https://www.ecdc.europa.eu/
-1ea40eabc4d7e003bfb08b8f4a047652	Navarre	2020-03-13	2020-04-30T05:04:53		146				0			https://www.mscbs.gob.es/
+4d4a1722d8e85909a576da2c42878ff0	Morocco	2020-03-13	2020-05-01T11:41:02	1	6			1		0		https://www.ecdc.europa.eu/
+1ea40eabc4d7e003bfb08b8f4a047652	Navarre	2020-03-13	2020-05-01T09:12:34		146				0	0		https://www.mscbs.gob.es/
 7fef6b003c726890ea5ca3708fe8ff56	Nepal	2020-03-13		0	1				0			https://www.who.int/
 a67d4cbdd1b59e0ffccc6bafc83eb033	Netherlands	2020-03-13		10	804				5			https://www.who.int/
 23113b12a9d8135100497751756d4bee	New Zealand	2020-03-13		0	5				0			https://www.who.int/
+155c2168d7451274c45eacbb6025a5a7	Newcastle upon Tyne	2020-03-13	2020-05-01T16:47:46		7							https://www.gov.uk/
 5d839147c83e283c1d1bb705dc50586f	Nigeria	2020-03-13		0	2				0			https://www.who.int/
-39af04bf8904745f6b1b0edfab19ef0d	North East England	2020-03-13	2020-04-29T21:32:34		23							https://www.gov.uk/
-28f9f2e9021c7754f9968e027d577267	Republic of Macedonia	2020-03-13	2020-04-30T11:41:04		9			2				https://www.ecdc.europa.eu/
-8c09f00326f31311647464e40afcb6ea	North West England	2020-03-13	2020-04-29T21:32:34		166							https://www.gov.uk/
+c394bf9a4d43b977e11610b5b5f85843	Norfolk	2020-03-13	2020-05-01T16:47:46		9							https://www.gov.uk/
+39af04bf8904745f6b1b0edfab19ef0d	North East England	2020-03-13	2020-05-01T16:47:46		23							https://www.gov.uk/
+28f9f2e9021c7754f9968e027d577267	Republic of Macedonia	2020-03-13	2020-05-01T11:41:02		9			2		0		https://www.ecdc.europa.eu/
+ce3146c19a1ddb7b34e4d6d5fa0209cd	North Somerset	2020-03-13	2020-05-01T16:47:46		13							https://www.gov.uk/
+801731a1f9b8046a62198de02d36ed88	North Tyneside	2020-03-13	2020-05-01T16:47:46		5							https://www.gov.uk/
+8c09f00326f31311647464e40afcb6ea	North West England	2020-03-13	2020-05-01T16:47:46		167							https://www.gov.uk/
+4d9bb5df56864237719a58416875bf0b	North Yorkshire	2020-03-13	2020-05-01T16:47:46		10							https://www.gov.uk/
+e15a6982ad13d4991110044ac62a4878	Northamptonshire	2020-03-13	2020-05-01T16:47:46		17							https://www.gov.uk/
+b0dd02d0cbea1b13e491569d694f8a61	Northumberland	2020-03-13	2020-05-01T16:47:46		1							https://www.gov.uk/
 d5b9290a0b67727d4ba1ca6059dc31a6	Norway	2020-03-13		1	750				1			https://www.who.int/
+829482baf763ef63c78c36889615b3b1	Nottingham	2020-03-13	2020-05-01T16:47:46		14							https://www.gov.uk/
+c43ab7162cc01861a69e73705e83df76	Nottinghamshire	2020-03-13	2020-05-01T16:47:46		23							https://www.gov.uk/
 1c77b9733832da9d1ffac66620f3c006	Oman	2020-03-13		0	18				0			https://www.who.int/
-b9698b8546220246fe600a949db326bf	Pakistan	2020-03-13	2020-04-30T11:41:04		21			1				https://www.ecdc.europa.eu/
-6bec347f256837d3539ad619bd489de7	Panama	2020-03-13	2020-04-30T11:41:04	1	27			13				https://www.ecdc.europa.eu/
-73101738da81e5cbb87b64cd400a4405	Paraguay	2020-03-13	2020-04-30T11:41:04		6			1				https://www.ecdc.europa.eu/
-84c8fa2341f7d052a1ee3a36ff043798	Peru	2020-03-13	2020-04-30T11:41:04		22			5				https://www.ecdc.europa.eu/
-77dab2f81a6c8c9136efba7ab2c4c0f2	Philippines	2020-03-13	2020-04-30T11:41:04	2	52			3				https://www.ecdc.europa.eu/
-deb65130918c961ea80790accbb4484d	Piedmont	2020-03-13		46	840		3105	794	20			http://www.salute.gov.it/
+f03241ddaf1bc6f0cbdb1832abc7cc2b	Oxfordshire	2020-03-13	2020-05-01T16:47:46		27							https://www.gov.uk/
+b9698b8546220246fe600a949db326bf	Pakistan	2020-03-13	2020-05-01T11:41:02		21			1		0		https://www.ecdc.europa.eu/
+6bec347f256837d3539ad619bd489de7	Panama	2020-03-13	2020-05-01T11:41:02	1	27			13		0		https://www.ecdc.europa.eu/
+73101738da81e5cbb87b64cd400a4405	Paraguay	2020-03-13	2020-05-01T11:41:02		6			1		0		https://www.ecdc.europa.eu/
+84c8fa2341f7d052a1ee3a36ff043798	Peru	2020-03-13	2020-05-01T11:41:02		22			5		0		https://www.ecdc.europa.eu/
+77dab2f81a6c8c9136efba7ab2c4c0f2	Philippines	2020-03-13	2020-05-01T11:41:02	2	52			3		0		https://www.ecdc.europa.eu/
+deb65130918c961ea80790accbb4484d	Piedmont	2020-03-13		46	840		3105	794	20	0		http://www.salute.gov.it/
+dd96fef1e8b9bd782431449241fcf2cf	Plymouth	2020-03-13	2020-05-01T16:47:46		3							https://www.gov.uk/
 94880bda83bda77c5692876700711f15	Poland	2020-03-13		1	64				0			https://www.who.int/
+da871503f6796db5142177b404db4fbe	Portsmouth	2020-03-13	2020-05-01T16:47:46		3							https://www.gov.uk/
 ea71b362e3ea9969db085abfccdeb10d	Portugal	2020-03-13		0	112				0			https://www.who.int/
 7cc7ef17c45527cf90fcf27516794d21	Qatar	2020-03-13		0	262				0			https://www.who.int/
-e96f78b67f5c4654268d411be5458909	Region of Murcia	2020-03-13	2020-04-30T05:04:53		47				0			https://www.mscbs.gob.es/
+e96f78b67f5c4654268d411be5458909	Region of Murcia	2020-03-13	2020-05-01T09:12:34		47				0	0		https://www.mscbs.gob.es/
 10e71bd23d3dea9ac62d72d53e2ab9f0	Republic of Ireland	2020-03-13		1	91				0			https://www.who.int/
-28f9f2e9021c7754f9968e027d577267	Republic of Macedonia	2020-03-13	2020-04-30T11:41:04		9			2				https://www.ecdc.europa.eu/
-0c7d5ae44b2a0be9ebd7d6b9f7d60f20	Romania	2020-03-13	2020-04-30T11:41:04		64			19				https://www.ecdc.europa.eu/
+28f9f2e9021c7754f9968e027d577267	Republic of Macedonia	2020-03-13	2020-05-01T11:41:02		9			2		0		https://www.ecdc.europa.eu/
+0c7d5ae44b2a0be9ebd7d6b9f7d60f20	Romania	2020-03-13	2020-05-01T11:41:02		64			19		0		https://www.ecdc.europa.eu/
+d4887f0676d4d1c350070bf6debbabfd	Royal Borough of Kensington and Chelsea	2020-03-13	2020-05-01T16:47:46		52							https://www.gov.uk/
 5feb168ca8fb495dcc89b1208cdeb919	Russia	2020-03-13		0	34				0			https://www.who.int/
-a7395dd77b153e755381d816dce0079b	Saint Vincent and the Grenadines	2020-03-13	2020-04-30T11:41:04		1			1				https://www.ecdc.europa.eu/
+a7395dd77b153e755381d816dce0079b	Saint Vincent and the Grenadines	2020-03-13	2020-05-01T11:41:02		1			1				https://www.ecdc.europa.eu/
 54a0d1f73c3bf9eb699b7f36d90260fd	San Marino	2020-03-13		5	83				0			https://www.who.int/
-a65ed8e2728a0d78b5367f59702e9320	Sardinia	2020-03-13			43		504	43	0			http://www.salute.gov.it/
-53d2fba69d071e53f12b61227d3d30de	Saudi Arabia	2020-03-13	2020-04-30T11:41:04		62			17				https://www.ecdc.europa.eu/
+2b52c74ed9e9a00f0ec99fa5a719bad9	Sandwell	2020-03-13	2020-05-01T16:47:46		8							https://www.gov.uk/
+a65ed8e2728a0d78b5367f59702e9320	Sardinia	2020-03-13			43		504	43	0	0		http://www.salute.gov.it/
+53d2fba69d071e53f12b61227d3d30de	Saudi Arabia	2020-03-13	2020-05-01T11:41:02		62			17		0		https://www.ecdc.europa.eu/
 9986531359550785caffb2032622437f	Senegal	2020-03-13		0	10				0			https://www.who.int/
 2ff6e535bd2f100979a171ad430e642b	Serbia	2020-03-13		0	31				0			https://www.who.int/
-afc898fcdf7c8345694944b048c73746	Sicily	2020-03-13		2	130	2	1950	126	0			http://www.salute.gov.it/
+30d85fa7d563a95914f4d31958e9e3fa	Sheffield	2020-03-13	2020-05-01T16:47:46		24							https://www.gov.uk/
+afc898fcdf7c8345694944b048c73746	Sicily	2020-03-13		2	130	2	1950	126	0	0		http://www.salute.gov.it/
 458e4cbc78201c1aec5fc53a31c59378	Singapore	2020-03-13		0	200				0			https://www.who.int/
+947b11dac8b758ce5d79f1bbeacf7a04	Slough	2020-03-13	2020-05-01T16:47:46		19							https://www.gov.uk/
 88a392b5a8d8f73986d83a2deefb0472	Slovakia	2020-03-13		0	32				0			https://www.who.int/
 00247297c394dd443dc97067830c35f4	Slovenia	2020-03-13		0	141				0			https://www.who.int/
-1287b11a755a7d660aa421359e6d24d0	South Africa	2020-03-13	2020-04-30T11:41:04		17			4				https://www.ecdc.europa.eu/
-f096bf992c2b5ca71e1ad76b76b277c8	South East England	2020-03-13	2020-04-29T21:32:34		298							https://www.gov.uk/
-aa292756f481473cfd6a988c22d480b1	South Korea	2020-03-13	2020-04-30T11:41:04	67	7979			110	1			https://www.ecdc.europa.eu/
-30d1a660dcaf4082b9f0a416f7edfed5	South Tyrol	2020-03-13		2	125		811	123	1			http://www.salute.gov.it/
-127e7702479e3739dce8e92db82a7885	South West England	2020-03-13	2020-04-29T21:32:34		138							https://www.gov.uk/
-907eba32d950bfab68227fd7ea22999b	Spain	2020-03-13	2020-04-30T05:04:53	141	5893	544			18			https://www.mscbs.gob.es/
-999309971ba0008ba9f444f6df579961	Sri Lanka	2020-03-13	2020-04-30T11:41:04		3			1				https://www.ecdc.europa.eu/
+05b58b67166d2e5dd34e0b811df3454a	Somerset	2020-03-13	2020-05-01T16:47:46		11							https://www.gov.uk/
+1287b11a755a7d660aa421359e6d24d0	South Africa	2020-03-13	2020-05-01T11:41:02		17			4		0		https://www.ecdc.europa.eu/
+f096bf992c2b5ca71e1ad76b76b277c8	South East England	2020-03-13	2020-05-01T16:47:46		301							https://www.gov.uk/
+aa292756f481473cfd6a988c22d480b1	South Korea	2020-03-13	2020-05-01T11:41:02	67	7979			110	1	1		https://www.ecdc.europa.eu/
+30d1a660dcaf4082b9f0a416f7edfed5	South Tyrol	2020-03-13		2	125		811	123	1	0		http://www.salute.gov.it/
+127e7702479e3739dce8e92db82a7885	South West England	2020-03-13	2020-05-01T16:47:46		138							https://www.gov.uk/
+5a884401673693b0bdf379fefb7ec2b2	Southampton	2020-03-13	2020-05-01T16:47:46		5							https://www.gov.uk/
+907eba32d950bfab68227fd7ea22999b	Spain	2020-03-13	2020-05-01T09:12:34	141	5893	544			18	344		https://www.mscbs.gob.es/
+999309971ba0008ba9f444f6df579961	Sri Lanka	2020-03-13	2020-05-01T11:41:02		3			1		0		https://www.ecdc.europa.eu/
+132be056aa9650b194261fe7a272135c	Staffordshire	2020-03-13	2020-05-01T16:47:46		16							https://www.gov.uk/
 eedc1bd88a12dd0af6e1fb3504c6e5fb	State of Palestine	2020-03-13		0	35				0			https://www.who.int/
+5b8131b653f22a029caafb19feb21cd0	Suffolk	2020-03-13	2020-05-01T16:47:46		8							https://www.gov.uk/
+f1f8cb000a78018601da3da6d0327057	Surrey	2020-03-13	2020-05-01T16:47:46		42							https://www.gov.uk/
 c8f4261f9f46e6465709e17ebea7a92b	Sweden	2020-03-13		0	775				0			https://www.who.int/
 3ad08396dc5afa78f34f548eea3c1d64	Switzerland	2020-03-13		7	1125				3			https://www.who.int/
-551fe18ef47d4e6e9d943b9a68ada21d	Taiwan	2020-03-13	2020-04-30T11:41:04	1	49			1				https://www.ecdc.europa.eu/
+551fe18ef47d4e6e9d943b9a68ada21d	Taiwan	2020-03-13	2020-05-01T11:41:02	1	49			1		0		https://www.ecdc.europa.eu/
+0a62ef4f27437f774e33be7254c08717	Tameside	2020-03-13	2020-05-01T16:47:46		9							https://www.gov.uk/
 103357e3e40a9c0e4e9d36110f7bbc7a	Thailand	2020-03-13		1	75				0			https://www.who.int/
 1e746c5c85c4c0de3a0858b0dd047476	Togo	2020-03-13		0	1				0			https://www.who.int/
-0269dae753688f767813897dbe8be9f4	Trentino	2020-03-13		2	163	4	846	157	1			http://www.salute.gov.it/
-6d196050243a291b44c87f63346173dd	Trinidad and Tobago	2020-03-13	2020-04-30T11:41:04		1			1				https://www.ecdc.europa.eu/
-d6dacba23ab4a1d5b72f223bfb010a05	Tunisia	2020-03-13	2020-04-30T11:41:04		13			6				https://www.ecdc.europa.eu/
+9c01415166cb80bd49d1dcb3b484b628	Trafford	2020-03-13	2020-05-01T16:47:46		12							https://www.gov.uk/
+0269dae753688f767813897dbe8be9f4	Trentino	2020-03-13		2	163	4	846	157	1	0		http://www.salute.gov.it/
+6d196050243a291b44c87f63346173dd	Trinidad and Tobago	2020-03-13	2020-05-01T11:41:02		1			1				https://www.ecdc.europa.eu/
+d6dacba23ab4a1d5b72f223bfb010a05	Tunisia	2020-03-13	2020-05-01T11:41:02		13			6		0		https://www.ecdc.europa.eu/
 221cdfb73049678e244380b45872cbb2	Turkey	2020-03-13		0	5				0			https://www.who.int/
-b6111b6a101e80da31bd9fc31655164b	Tuscany	2020-03-13		5	470	10	4049	455	0			http://www.salute.gov.it/
+b6111b6a101e80da31bd9fc31655164b	Tuscany	2020-03-13		5	470	10	4049	455	0	3		http://www.salute.gov.it/
 f01fc92b23faa973f3492a23d5a705c5	Ukraine	2020-03-13		1	3				1			https://www.who.int/
-b957bf1ae46a4ab812f3bbd9af464aaa	Umbria	2020-03-13		1	76	2	576	73	1			http://www.salute.gov.it/
-edab6ab6fad43f4911b41103922c3e9e	United Arab Emirates	2020-03-13	2020-04-30T11:41:04		85			11				https://www.ecdc.europa.eu/
-5ad75a758f27c089b52a1eac8dca7e0d	United Kingdom	2020-03-13	2020-04-30T11:41:04	10	590			134	4			https://www.ecdc.europa.eu/
-09d4bca31e2fd8b0f57f79f85ed42bd8	United States	2020-03-13	2020-04-30T11:41:04	40	1663			351	10			https://www.ecdc.europa.eu/
+b957bf1ae46a4ab812f3bbd9af464aaa	Umbria	2020-03-13		1	76	2	576	73	1	0		http://www.salute.gov.it/
+edab6ab6fad43f4911b41103922c3e9e	United Arab Emirates	2020-03-13	2020-05-01T11:41:02		85			11		0		https://www.ecdc.europa.eu/
+5ad75a758f27c089b52a1eac8dca7e0d	United Kingdom	2020-03-13	2020-05-01T11:41:02	9	590			134	2	2		https://www.ecdc.europa.eu/
+09d4bca31e2fd8b0f57f79f85ed42bd8	United States	2020-03-13	2020-05-01T11:41:02	40	1663			351	10	10		https://www.ecdc.europa.eu/
 5a31a9de04d08bec5558dd9d29043e0a	United States Virgin Islands	2020-03-13		0	1							https://www.who.int/
-7f3db3489b0bdeb901c1e318533c262e	Valencian Community	2020-03-13	2020-04-30T05:04:53	4	130	2			3			https://www.mscbs.gob.es/
+7f3db3489b0bdeb901c1e318533c262e	Valencian Community	2020-03-13	2020-05-01T09:12:34	4	130	2			3	0		https://www.mscbs.gob.es/
 edb3fc76459aacac8c76607a4da9188e	Vatican City	2020-03-13		0	1				0			https://www.who.int/
-6f62c119eb74408b76b9b32e53b38cf5	Veneto	2020-03-13		42	1595	100	25691	1453	10			http://www.salute.gov.it/
-fdef6daa799e80dbce1b561577b21181	Vietnam	2020-03-13	2020-04-30T11:41:04		44			5				https://www.ecdc.europa.eu/
+6f62c119eb74408b76b9b32e53b38cf5	Veneto	2020-03-13		42	1595	100	25691	1453	10	45		http://www.salute.gov.it/
+fdef6daa799e80dbce1b561577b21181	Vietnam	2020-03-13	2020-05-01T11:41:02		44			5		0		https://www.ecdc.europa.eu/
+ae9b6456ea4139426edac7c3a6573a30	Warwickshire	2020-03-13	2020-05-01T16:47:46		20							https://www.gov.uk/
 58bf89fabefa367b455e4f29ab12c772	West Flanders	2020-03-13	2020-03-13		114							https://epistat.wiv-isp.be/Covid/
-e8bd565ab45209a6aadd3020a43e51c0	West Midlands (region)	2020-03-13	2020-04-29T21:32:34		188							https://www.gov.uk/
-41ba2469b9f3765260373b2f85071ff1	Yorkshire and the Humber	2020-03-13	2020-04-29T21:32:34		89							https://www.gov.uk/
+e8bd565ab45209a6aadd3020a43e51c0	West Midlands (region)	2020-03-13	2020-05-01T16:47:46		188							https://www.gov.uk/
+237a512c96c94c6aabe9291771e2adc6	West Sussex	2020-03-13	2020-05-01T16:47:46		11							https://www.gov.uk/
+bb51307f831e4afcd50e4cc80bc88086	Wiltshire	2020-03-13	2020-05-01T16:47:46		13							https://www.gov.uk/
+c01eda48462473081244a311ab45447c	Wolverhampton	2020-03-13	2020-05-01T16:47:46		29							https://www.gov.uk/
+d6f148df6bf665a69e08bdda1e141906	York	2020-03-13	2020-05-01T16:47:46		4							https://www.gov.uk/
+41ba2469b9f3765260373b2f85071ff1	Yorkshire and the Humber	2020-03-13	2020-05-01T16:47:46		89							https://www.gov.uk/
