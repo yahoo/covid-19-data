@@ -1,19 +1,39 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numActiveCases	numDeaths	numRecoveredCases	numTests	dataSource
-a9095de33967647fb684edc8a148291f	Antofagasta Region	2020-05-04	2020-05-02T04:00:00+0000	7	679							https://www.minsal.cl/
-00d864f2bc91e07edb48b7e3b4b2446e	Arica y Parinacota Region	2020-05-04	2020-05-02T04:00:00+0000	4	307							https://www.minsal.cl/
-1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-05-04	2020-05-02T04:00:00+0000	0	59							https://www.minsal.cl/
+a9095de33967647fb684edc8a148291f	Antofagasta Region	2020-05-04	2020-05-03T04:00:00+0000	7	740				0			https://www.minsal.cl/
+00d864f2bc91e07edb48b7e3b4b2446e	Arica y Parinacota Region	2020-05-04	2020-05-03T04:00:00+0000	4	308				0			https://www.minsal.cl/
+1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-05-04	2020-05-03T04:00:00+0000	0	67				0			https://www.minsal.cl/
 4edc0c0590551c303f33db08a22b9662	Auckland Region	2020-05-04	2020-05-03T01:00:00+0000		178	154		24		0		https://www.health.govt.nz/
+3d9a596547760314dc4fabe93bb28358	Banteay Meanchey Province	2020-05-04	2020-05-04T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
+0172881de6e38ed3243c46245774e1c5	Battambang Province	2020-05-04	2020-05-04T07:00:00+0000		8							http://www.cdcmoh.gov.kh/
 859a18bad84184d704fd68a8faeeea1a	Bay of Plenty	2020-05-04	2020-05-03T01:00:00+0000		47	37		10		0		https://www.health.govt.nz/
-2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-05-04	2020-05-02T04:00:00+0000	247	18435	9572						https://www.minsal.cl/
-78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-05-04	2020-05-02T04:00:00+0000	0	78							https://www.minsal.cl/
-5cdd21c97f86686cc505e02fd32a7523	Earth	2020-05-04	2020-05-03T15:39:34.425	237637	3397686							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
-27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-05-04	2020-05-02T04:00:00+0000	10	513							https://www.minsal.cl/
-703805fa9ac9f1cbc1ef92878e724f4d	Magallanes Region	2020-05-04	2020-05-02T04:00:00+0000	11	752							https://www.minsal.cl/
-255cbbc9d4e6cd82ca3d3837ad7093fa	Maule Region	2020-05-04	2020-05-02T04:00:00+0000	13	396							https://www.minsal.cl/
+06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-05-04	2020-05-04T07:00:00+0000	0	122	120		2	0	0		http://www.cdcmoh.gov.kh/
+2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-05-04	2020-05-03T04:00:00+0000	260	19663	10041			13	469		https://www.minsal.cl/
+78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-05-04	2020-05-03T04:00:00+0000	0	88				0			https://www.minsal.cl/
+aab10c06d249bd00401c2946d8008567	Da Nang	2020-05-04		0	6	6						https://ncov.moh.gov.vn/
+5cdd21c97f86686cc505e02fd32a7523	Earth	2020-05-04	2020-05-03T19:38:38.392	238557	3420870							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+4187c4575f19a0b34cb6358c5590a449	Hanoi	2020-05-04		0	112	83						https://ncov.moh.gov.vn/
+1527a37ca7176fe5a984c0e28eb639d6	Ho Chi Minh City	2020-05-04		0	56	50						https://ncov.moh.gov.vn/
+0156f349b9b117ae621b28ac07827b41	Kampong Cham Province	2020-05-04	2020-05-04T07:00:00+0000		16							http://www.cdcmoh.gov.kh/
+9d83069e30c1b92bc1b4a4973144d590	Kampong Chhnang Province	2020-05-04	2020-05-04T07:00:00+0000		3							http://www.cdcmoh.gov.kh/
+5bf905f5ad2fbc16052224608866067d	Kampot Province	2020-05-04	2020-05-04T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+4a81c0d6be1f67f49ab0d9a8e97eff87	Kandal Province	2020-05-04	2020-05-04T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+7c1a943bf29d2c753fb935e99428482c	Kazakhstan	2020-05-04		27	3920	1084						https://www.coronavirus2020.kz/
+0197fedf2ff9c17a5d2680e81e002fa9	Kep Province	2020-05-04	2020-05-04T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
+85d53d2f383dc639d59cb6a4dad81148	Koh Kong Province	2020-05-04	2020-05-04T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-05-04	2020-05-03T04:00:00+0000	10	517				0			https://www.minsal.cl/
+703805fa9ac9f1cbc1ef92878e724f4d	Magallanes Region	2020-05-04	2020-05-03T04:00:00+0000	11	777				0			https://www.minsal.cl/
+3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	2020-05-04	2020-05-03T10:08:34+0000	105	6298	4413	195833		2	87		http://www.moh.gov.my/
+255cbbc9d4e6cd82ca3d3837ad7093fa	Maule Region	2020-05-04	2020-05-03T04:00:00+0000	13	397				0			https://www.minsal.cl/
 23113b12a9d8135100497751756d4bee	New Zealand	2020-05-04	2020-05-03T09:00:00	20	1487	1266	150223					https://www.health.govt.nz/
 3af87fefce39538922036929f3f94a67	Northland Region	2020-05-04	2020-05-03T01:00:00+0000		28	24		4		0		https://www.health.govt.nz/
-9acfc63159cc3f45ae2c363b662ca205	Santiago Metropolitan Region	2020-05-04	2020-05-02T04:00:00+0000	122	11661							https://www.minsal.cl/
+adaac9a1f92c1b6eb7623e2da7939019	Phnom Penh	2020-05-04	2020-05-04T07:00:00+0000		28							http://www.cdcmoh.gov.kh/
+3d01e677d271211030019290e83788d3	Preah Vihear Province	2020-05-04	2020-05-04T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+9acfc63159cc3f45ae2c363b662ca205	Santiago Metropolitan Region	2020-05-04	2020-05-03T04:00:00+0000	135	12656				13			https://www.minsal.cl/
+e02be5b2676568af51c8367c0ea366e6	Siem Reap Province	2020-05-04	2020-05-04T07:00:00+0000		7							http://www.cdcmoh.gov.kh/
+458e4cbc78201c1aec5fc53a31c59378	Singapore	2020-05-04	2020-05-03T04:00:00+0000	18	18205	1408	143919	16779	1	61		https://www.moh.gov.sg/covid-19
 fb699e1804db4f9e5f235802844708ec	Taranaki	2020-05-04	2020-05-03T01:00:00+0000		16	14		2		0		https://www.health.govt.nz/
+868b91a1ca93abad4cca9092b9f478c9	Tboung Khmum Province	2020-05-04	2020-05-04T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
+fdef6daa799e80dbce1b561577b21181	Vietnam	2020-05-04		0	271	219						https://ncov.moh.gov.vn/
 d8afff57191b68b3b4f4c3d1099fc276	Waikato	2020-05-04	2020-05-03T01:00:00+0000	1	186	151		34	0	1		https://www.health.govt.nz/
 faaf89538aebf477c534aa4dbe32dc4f	West Coast, New Zealand	2020-05-04	2020-05-03T01:00:00+0000	1	5	4		0	0	0		https://www.health.govt.nz/
 c1a6b42d892795a2406030ea4a3845c5	Whanganui	2020-05-04	2020-05-03T01:00:00+0000		9	9		0		0		https://www.health.govt.nz/
