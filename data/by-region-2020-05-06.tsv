@@ -1,19 +1,83 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numActiveCases	numDeaths	numRecoveredCases	numTests	dataSource
-a9095de33967647fb684edc8a148291f	Antofagasta Region	2020-05-06	2020-05-04T04:00:00+0000	7	760							https://www.minsal.cl/
-00d864f2bc91e07edb48b7e3b4b2446e	Arica y Parinacota Region	2020-05-06	2020-05-04T04:00:00+0000	4	308							https://www.minsal.cl/
-1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-05-06	2020-05-04T04:00:00+0000	0	70							https://www.minsal.cl/
+c637be1cf835c710a89f5c030c9252cb	Andaman and Nicobar Islands	2020-05-06	2020-05-05T17:00:00	0	33	32			0	0		https://www.mohfw.gov.in/
+037960597072204e989f671623e600aa	Andhra Pradesh	2020-05-06	2020-05-05T17:00:00	36	1717	589			0	65		https://www.mohfw.gov.in/
+a9095de33967647fb684edc8a148291f	Antofagasta Region	2020-05-06	2020-05-05T04:00:00+0000	7	811				0			https://www.minsal.cl/
+00d864f2bc91e07edb48b7e3b4b2446e	Arica y Parinacota Region	2020-05-06	2020-05-05T04:00:00+0000	4	315				0			https://www.minsal.cl/
+3e975ed48bcad18f8aaf761abb67d48b	Arunachal Pradesh	2020-05-06	2020-05-05T17:00:00	0	1	1			0	0		https://www.mohfw.gov.in/
+44e0325f3e4f2272ae44a4a675b527e6	Assam	2020-05-06	2020-05-05T17:00:00	1	43	32			0	0		https://www.mohfw.gov.in/
+1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-05-06	2020-05-05T04:00:00+0000	0	78				0			https://www.minsal.cl/
 4edc0c0590551c303f33db08a22b9662	Auckland Region	2020-05-06	2020-05-05T01:00:00+0000		177	153		24		1		https://www.health.govt.nz/
+6ddecd8ccd9f648d19dc02c7a566cb4f	Bahrain	2020-05-06	2020-05-06	8	3720	1762	155501	1950	0	0		https://www.moh.gov.bh/COVID19
+3d9a596547760314dc4fabe93bb28358	Banteay Meanchey Province	2020-05-06	2020-05-06T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
+0172881de6e38ed3243c46245774e1c5	Battambang Province	2020-05-06	2020-05-06T07:00:00+0000		8							http://www.cdcmoh.gov.kh/
 859a18bad84184d704fd68a8faeeea1a	Bay of Plenty	2020-05-06	2020-05-05T01:00:00+0000		47	46		1		6		https://www.health.govt.nz/
-2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-05-06	2020-05-04T04:00:00+0000	270	20643	10415						https://www.minsal.cl/
-78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-05-06	2020-05-04T04:00:00+0000	0	91							https://www.minsal.cl/
-5cdd21c97f86686cc505e02fd32a7523	Earth	2020-05-06	2020-05-05T16:39:11.475	251237	3556852							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
-27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-05-06	2020-05-04T04:00:00+0000	10	524							https://www.minsal.cl/
-703805fa9ac9f1cbc1ef92878e724f4d	Magallanes Region	2020-05-06	2020-05-04T04:00:00+0000	11	795							https://www.minsal.cl/
-255cbbc9d4e6cd82ca3d3837ad7093fa	Maule Region	2020-05-06	2020-05-04T04:00:00+0000	13	399							https://www.minsal.cl/
+6542f875eaa09a5c550e5f3986400ad9	Belarus	2020-05-06	2020-05-05T03:00:00+0000	107	18350	3771	211369					http://stopcovid.belta.by/
+27559de2125101ccb786807bceb46aa1	Bihar	2020-05-06	2020-05-05T17:00:00	4	529	130			0	5		https://www.mohfw.gov.in/
+06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-05-06	2020-05-06T07:00:00+0000	0	122	120		2	0	0		http://www.cdcmoh.gov.kh/
+33d760dd178036b714669c2766cadf1b	Chandigarh	2020-05-06	2020-05-05T17:00:00	1	102	21			1	2		https://www.mohfw.gov.in/
+98a0215e7384c0045229405845a76921	Chhattisgarh	2020-05-06	2020-05-05T17:00:00	0	58	36			0	0		https://www.mohfw.gov.in/
+2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-05-06	2020-05-05T04:00:00+0000	275	22016	10710			5	295		https://www.minsal.cl/
+78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-05-06	2020-05-05T04:00:00+0000	0	97				0			https://www.minsal.cl/
+aab10c06d249bd00401c2946d8008567	Da Nang	2020-05-06		0	6	6						https://ncov.moh.gov.vn/
+9baaebe1759ba1a6365a2b0539081516	Delhi	2020-05-06	2020-05-05T17:00:00	64	4898	1431			0	69		https://www.mohfw.gov.in/
+5cdd21c97f86686cc505e02fd32a7523	Earth	2020-05-06	2020-05-05T22:39:13.653	254494	3589944							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+904848bc2d46b8dcd2e90e5a025f726e	Goa	2020-05-06	2020-05-05T17:00:00	0	7	7			0	0		https://www.mohfw.gov.in/
+9ac24d086d7592786374e1995fb205e6	Gujarat	2020-05-06	2020-05-05T17:00:00	319	5804	1195			29	153		https://www.mohfw.gov.in/
+4187c4575f19a0b34cb6358c5590a449	Hanoi	2020-05-06		0	112	92						https://ncov.moh.gov.vn/
+1b86e8daccc894df32394681ebe753e4	Haryana	2020-05-06	2020-05-05T17:00:00	6	517	254			1	9		https://www.mohfw.gov.in/
+a42109305349eb91ddbdda04373721e4	Himachal Pradesh	2020-05-06	2020-05-05T17:00:00	1	41	38			0	4		https://www.mohfw.gov.in/
+1527a37ca7176fe5a984c0e28eb639d6	Ho Chi Minh City	2020-05-06		0	56	50						https://ncov.moh.gov.vn/
+7d31e0da1ab99fe8b08a22118e2f402b	India	2020-05-06	2020-05-05T17:00:00	1583	46711	13161						https://www.mohfw.gov.in/
+475ec2baed249713cd6edc6274cb7875	Jammu and Kashmir (state)	2020-05-06	2020-05-05T17:00:00	8	726	303			0	16		https://www.mohfw.gov.in/
+5308f89b85b77bdd39a446f01674e874	Jharkhand	2020-05-06	2020-05-05T17:00:00	3	115	27			0	5		https://www.mohfw.gov.in/
+6ea1e24d60afddf388b06f8243c45b70	Jordan	2020-05-06	2020-05-05T21:04:00+0000	9	471	375						https://corona.moh.gov.jo/
+0156f349b9b117ae621b28ac07827b41	Kampong Cham Province	2020-05-06	2020-05-06T07:00:00+0000		16							http://www.cdcmoh.gov.kh/
+9d83069e30c1b92bc1b4a4973144d590	Kampong Chhnang Province	2020-05-06	2020-05-06T07:00:00+0000		3							http://www.cdcmoh.gov.kh/
+5bf905f5ad2fbc16052224608866067d	Kampot Province	2020-05-06	2020-05-06T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+4a81c0d6be1f67f49ab0d9a8e97eff87	Kandal Province	2020-05-06	2020-05-06T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+185a5eb309e9ba14f65e6486f08b3032	Karnataka	2020-05-06	2020-05-05T17:00:00	28	659	324			2	20		https://www.mohfw.gov.in/
+7c1a943bf29d2c753fb935e99428482c	Kazakhstan	2020-05-06		29	4205	1279						https://www.coronavirus2020.kz/
+0197fedf2ff9c17a5d2680e81e002fa9	Kep Province	2020-05-06	2020-05-06T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
+e369d9fd2ab54455129816db19e37fd4	Kerala	2020-05-06	2020-05-05T17:00:00	4	500	462			0	61		https://www.mohfw.gov.in/
+85d53d2f383dc639d59cb6a4dad81148	Koh Kong Province	2020-05-06	2020-05-06T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+05387f3ca38d7bd84ae35f31f2899ecf	Kuwait	2020-05-06		40	5804	2032						https://corona.e.gov.kw/
+cf474fd5821e76175fe0f895ef9c9a0b	Ladakh	2020-05-06	2020-05-05T17:00:00	0	41	17			0	0		https://www.mohfw.gov.in/
+b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	2020-05-06	2020-05-05T13:02:00+0000	25	741	206	42488	510				https://corona.ministryinfo.gov.lb/
+d9051e0b77f8bb5521389618e70e2ada	Lithuania	2020-05-06	undefined 05, 2020 10:09 p.m. [EEST]	46	1423	678	149106					https://koronastop.lrv.lt
+27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-05-06	2020-05-05T04:00:00+0000	10	525				0			https://www.minsal.cl/
+a149b7e6018d0690ca09d02472b478d3	Madhya Pradesh	2020-05-06	2020-05-05T17:00:00	176	3049	1000			11	202		https://www.mohfw.gov.in/
+703805fa9ac9f1cbc1ef92878e724f4d	Magallanes Region	2020-05-06	2020-05-05T04:00:00+0000	11	809				0			https://www.minsal.cl/
+84e516108956e6e374941043b5f73e86	Maharashtra	2020-05-06	2020-05-05T17:00:00	583	14541	2465			35	350		https://www.mohfw.gov.in/
+3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	2020-05-06	2020-05-05T09:33:39+0000	106	6383	4567	213220					http://www.moh.gov.my/
+9f405b4cfb0722cc0518fc99a26f3c2a	Manipur	2020-05-06	2020-05-05T17:00:00	0	2	2			0	0		https://www.mohfw.gov.in/
+255cbbc9d4e6cd82ca3d3837ad7093fa	Maule Region	2020-05-06	2020-05-05T04:00:00+0000	13	408				0			https://www.minsal.cl/
+07f3ca235faaa1c9ad16facef5526d8b	Mauritius	2020-05-06	2020-05-05T11:41:12	10	334	319		3				https://www.ecdc.europa.eu/
+418d4c56f7fa6ee6dbfe42f70876d8da	Meghalaya	2020-05-06	2020-05-05T17:00:00	1	12	10			0	10		https://www.mohfw.gov.in/
+4b8c5cc6acf242d8a24ad12b227d16ce	Mizoram	2020-05-06	2020-05-05T17:00:00	0	1	0			0	0		https://www.mohfw.gov.in/
 23113b12a9d8135100497751756d4bee	New Zealand	2020-05-06	2020-05-05T09:00:00	20	1486	1302	155928					https://www.health.govt.nz/
 3af87fefce39538922036929f3f94a67	Northland Region	2020-05-06	2020-05-05T01:00:00+0000		28	24		4		0		https://www.health.govt.nz/
-9acfc63159cc3f45ae2c363b662ca205	Santiago Metropolitan Region	2020-05-06	2020-05-04T04:00:00+0000	143	13528							https://www.minsal.cl/
+6066310fdf9edf269cb0b6848ddfccb9	Odisha	2020-05-06	2020-05-05T17:00:00	1	170	60			0	0		https://www.mohfw.gov.in/
+adaac9a1f92c1b6eb7623e2da7939019	Phnom Penh	2020-05-06	2020-05-06T07:00:00+0000		28							http://www.cdcmoh.gov.kh/
+3d01e677d271211030019290e83788d3	Preah Vihear Province	2020-05-06	2020-05-06T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
+81b03c07e7cc90aabc2143648791ed06	Puducherry	2020-05-06	2020-05-05T17:00:00	0	9	6			0	1		https://www.mohfw.gov.in/
+6b2eb450290fde9e498cf4d068fda710	Punjab, India	2020-05-06	2020-05-05T17:00:00	23	1233	128			2	11		https://www.mohfw.gov.in/
+7cc7ef17c45527cf90fcf27516794d21	Qatar	2020-05-06	2020-05-04T21:00:00+0000	12	17142	1924	109762	15206	0	0		https://www.moph.gov.qa/
+d418e699c9dd62a45089899a35a02404	Rajasthan	2020-05-06	2020-05-05T17:00:00	77	3061	1394			6	38		https://www.mohfw.gov.in/
+5feb168ca8fb495dcc89b1208cdeb919	Russia	2020-05-06	2020-05-05T07:35:00+0000	1451	155370	19865	4400000					https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+9acfc63159cc3f45ae2c363b662ca205	Santiago Metropolitan Region	2020-05-06	2020-05-05T04:00:00+0000	146	14707				3			https://www.minsal.cl/
+e02be5b2676568af51c8367c0ea366e6	Siem Reap Province	2020-05-06	2020-05-06T07:00:00+0000		7							http://www.cdcmoh.gov.kh/
+458e4cbc78201c1aec5fc53a31c59378	Singapore	2020-05-06	2020-05-05T04:00:00+0000	18	19410	1519	143919	17873	0	62		https://www.moh.gov.sg/covid-19
+d7a55ccf43d41e61fd22ee9f0548a8cf	Tamil Nadu	2020-05-06	2020-05-05T17:00:00	31	3550	1409			1	30		https://www.mohfw.gov.in/
 fb699e1804db4f9e5f235802844708ec	Taranaki	2020-05-06	2020-05-05T01:00:00+0000		16	16		0		2		https://www.health.govt.nz/
+868b91a1ca93abad4cca9092b9f478c9	Tboung Khmum Province	2020-05-06	2020-05-06T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
+387589377125beb163bf2d65e5f3212d	Telangana	2020-05-06	2020-05-05T17:00:00	29	1085	585			0	95		https://www.mohfw.gov.in/
+0bad206b82a2c718af4332280419b104	Tripura	2020-05-06	2020-05-05T17:00:00	0	29	2			0	0		https://www.mohfw.gov.in/
+221cdfb73049678e244380b45872cbb2	Turkey	2020-05-06		3520	129491	73285	1204421					https://covid19.saglik.gov.tr/
+edab6ab6fad43f4911b41103922c3e9e	United Arab Emirates	2020-05-06		146	15192	3153						https://covid19.ncema.gov.ae/
+a21c1873af3dbc01c143b6e3f38e9fa9	Uttar Pradesh	2020-05-06	2020-05-05T17:00:00	53	2859	944			8	186		https://www.mohfw.gov.in/
+62cfab1d81df1897ffaae3094403483e	Uttarakhand	2020-05-06	2020-05-05T17:00:00	1	60	39			0	0		https://www.mohfw.gov.in/
+fdef6daa799e80dbce1b561577b21181	Vietnam	2020-05-06		0	271	232						https://ncov.moh.gov.vn/
 d8afff57191b68b3b4f4c3d1099fc276	Waikato	2020-05-06	2020-05-05T01:00:00+0000	1	186	164		21	0	12		https://www.health.govt.nz/
+be5bf577e4f25ca3525e0ddd4c3e3688	West Bengal	2020-05-06	2020-05-05T17:00:00	133	1259	218			98	67		https://www.mohfw.gov.in/
 faaf89538aebf477c534aa4dbe32dc4f	West Coast, New Zealand	2020-05-06	2020-05-05T01:00:00+0000	1	5	4		0	0	0		https://www.health.govt.nz/
 c1a6b42d892795a2406030ea4a3845c5	Whanganui	2020-05-06	2020-05-05T01:00:00+0000		9	9		0		0		https://www.health.govt.nz/
