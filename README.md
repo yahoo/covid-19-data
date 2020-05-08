@@ -40,22 +40,24 @@ Provides detailed case counts of COVID-19 in each region on `[DATE]` in local ti
 
 Please be aware that different sources release data at different and often unpredictable frequencies. The by-region-`[DATE]` numbers will be updated as sources release data for the given date for their region. In some cases, data for a given region is not released until many days after that calendar date has elapsed everywhere in the world.  As a result, the same by-region-`[DATE]` file may show different aggregate statistics for the same date depending on when the by-region-`[DATE]` is accessed.  Generally speaking, by-region-`[DATE]` data more than one week old is stable.
 
-| Field               | Type        | Description |
-|---------------------|-------------|-------------|
-| regionId            | xsd:string  | see _id_ above |
-| label               | xsd:string  | see above      |
-| totalConfirmed      | xsd:integer | the total amount of confirmed cases of COVID-19 in the region until the given date (aggregate) |
-| totalDeaths         | xsd:integer | the total amount of fatalities from COVID-19 in the region |
-| totalRecoveredCases | xsd:integer | the total amount of people recovered from COVID-19 in the region (aggregate) |
-| totalTestedCases    | xsd:integer | the total amount of people tested for COVID-19 in the region (aggregate) |
-| numPositiveTests    | xsd:integer | the daily count of people tested positive for COVID-19 |
-| numDeaths           | xsd:integer | the daily count of fatalities as a result of COVID-19 |
-| numRecoveredCases   | xsd:integer | the daily count of people recovered from COVID-19 |
-| diffNumPositiveTests| xsd:integer | the difference in number of positive cases found between 2 consecutive days |
-| diffNumDeaths       | xsd:integer | the difference in number of deaths between 2 consecutive days |
-| referenceDate       | xsd:date    | the date associated with the COVID-19 data according to the **local** timezone of the region |
-| lastUpdatedDate     | xsd:datetime| last update time of the entry |
-| dataSource          | xsd:anyURI  | the source attribution for the COVID-19 data in the current entry |
+| Field                   | Type        | Description |
+|-------------------------|-------------|-------------|
+| regionId                | xsd:string  | see _id_ above |
+| label                   | xsd:string  | see above      |
+| totalConfirmed          | xsd:integer | the total amount of confirmed cases of COVID-19 in the region until the given date (aggregate) |
+| totalDeaths             | xsd:integer | the total amount of fatalities from COVID-19 in the region |
+| totalRecoveredCases     | xsd:integer | the total amount of people recovered from COVID-19 in the region (aggregate) |
+| totalTestedCases        | xsd:integer | the total amount of people tested for COVID-19 in the region (aggregate) |
+| numPositiveTests        | xsd:integer | the daily count of people tested positive for COVID-19 |
+| numDeaths               | xsd:integer | the daily count of fatalities as a result of COVID-19 |
+| numRecoveredCases       | xsd:integer | the daily count of people recovered from COVID-19 |
+| diffNumPositiveTests    | xsd:integer | the difference in number of positive cases found between 2 consecutive days |
+| diffNumDeaths           | xsd:integer | the difference in number of deaths between 2 consecutive days |
+| avgWeeklyConfirmedCases | xsd:float   | 7-day moving average of daily new confirmed cases |
+| avgWeeklyDeaths         | xsd:float   | 7-day moving average of daily new deaths |
+| referenceDate           | xsd:date    | the date associated with the COVID-19 data according to the **local** timezone of the region |
+| lastUpdatedDate         | xsd:datetime| last update time of the entry |
+| dataSource              | xsd:anyURI  | the source attribution for the COVID-19 data in the current entry |
 
 ### by-region-latest
 
