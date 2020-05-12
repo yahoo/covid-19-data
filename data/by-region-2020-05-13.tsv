@@ -1,11 +1,11 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Antofagasta_Region	Antofagasta Region	2020-05-13	2020-05-11T04:00:00+0000	10	1014								0.43	29.0		https://www.minsal.cl/
-Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-13	2020-05-11T04:00:00+0000	7	351								0.43	5.14		https://www.minsal.cl/
-Atacama_Region	Atacama Region	2020-05-13	2020-05-11T04:00:00+0000	0	133									7.86		https://www.minsal.cl/
+Antofagasta_Region	Antofagasta Region	2020-05-13	2020-05-12T04:00:00+0000	10	1109			95	0		59	0	0.43	42.57		https://www.minsal.cl/
+Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-13	2020-05-12T04:00:00+0000	7	351			0	0		-11	-1	0.43	5.14		https://www.minsal.cl/
+Atacama_Region	Atacama Region	2020-05-13	2020-05-12T04:00:00+0000	0	134			1	0		-8	0		8.0		https://www.minsal.cl/
 Auckland_Region	Auckland Region	2020-05-13	2020-05-12T05:00:00+0000		179	169		0		3	-1			0.29	2.29	https://www.health.govt.nz/
 Bay_of_Plenty	Bay of Plenty	2020-05-13	2020-05-12T05:00:00+0000		47	47		0		0	0				0.14	https://www.health.govt.nz/
 Chile	Chile	2020-05-13	2020-05-12T04:00:00+0000	335	31721	14125	294057	1658	12	520	461	1	7.71	1239.0	419.43	https://www.minsal.cl/
-Coquimbo_Region	Coquimbo Region	2020-05-13	2020-05-11T04:00:00+0000	1	140								0.14	6.14		https://www.minsal.cl/
+Coquimbo_Region	Coquimbo Region	2020-05-13	2020-05-12T04:00:00+0000	1	148			8	0		3	0	0.14	7.29		https://www.minsal.cl/
 Earth	Earth	2020-05-13	2020-05-12T17:43:56.635	286371	4156134								3382.86	65038.0	33291.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Los_Lagos_Region	Los Lagos Region	2020-05-13	2020-05-12T04:00:00+0000	11	594			2	1		-15	1	0.14	9.86		https://www.minsal.cl/
 Magallanes_Region	Magallanes Region	2020-05-13	2020-05-12T04:00:00+0000	14	910			9	0		1	-1	0.43	14.43		https://www.minsal.cl/
