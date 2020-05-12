@@ -1,501 +1,674 @@
-regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numActiveCases	numDeaths	numRecoveredCases	numTests	dataSource
-36c6e65b740d4dae1bd4d63346c7cd07	Águeda	2020-05-12	2020-05-11T23:00:00		57							https://covid19.min-saude.pt/
-15d16c62663b9a81277fd7778bcde586	Évora	2020-05-12	2020-05-11T23:00:00		23							https://covid19.min-saude.pt/
-ac61cf0003fdc6743c13a1cc1c9a81ea	Ílhavo	2020-05-12	2020-05-11T23:00:00		112							https://covid19.min-saude.pt/
-eb643940f04288c6d3bc49f7c4972d40	Abrantes	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-c22e8aefd0015bcf4e8fd333d1ad4f27	Abruzzo	2020-05-12		366	3107	1132	48903	1609				http://www.salute.gov.it/
-07eebb249ecf81ea1205252e6e22834d	Acre (state)	2020-05-12	2020-05-11T20:00:00	41	1447							https://covid.saude.gov.br/
-225a80fd19c736dd5de8a07901643637	Agder	2020-05-12	2020-05-11T11:00:00		335							https://www.fhi.no/
-72572f1f5dcb5f2d72cb08d812ffa94c	Alagoas	2020-05-12	2020-05-11T20:00:00	126	2258							https://covid.saude.gov.br/
-c5d214d66da99ac7bc0edda19356e08a	Albergaria-a-Velha	2020-05-12	2020-05-11T23:00:00		87							https://covid19.min-saude.pt/
-95d743e07089d064234df2f9270f7523	Albufeira	2020-05-12	2020-05-11T23:00:00		74							https://covid19.min-saude.pt/
-a7d2ba59548e88b8aab0bea59afd7bfa	Alcanena	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-f452b8b98ba69346eaafc96acfd678aa	Alcochete	2020-05-12	2020-05-11T23:00:00		16							https://covid19.min-saude.pt/
-8c4d6ae0e85ca246c76ab71a396eb12e	Alenquer, Portugal	2020-05-12	2020-05-11T23:00:00		39							https://covid19.min-saude.pt/
-9a0aa33bbb40e96b0b504eb941fd6885	Almada	2020-05-12	2020-05-11T23:00:00		273							https://covid19.min-saude.pt/
-b6add9f0ce990631fa265cc34c5139db	Almeida, Portugal	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-4dcab40b3e5d88b9f107c9004ec1cc1d	Almeirim	2020-05-12	2020-05-11T23:00:00		15							https://covid19.min-saude.pt/
-db26f552a9b4b711e3537e26f49f2ccf	Amadora	2020-05-12	2020-05-11T23:00:00		448							https://covid19.min-saude.pt/
-6d8c20f6e5ad68e49b2c111db23a5b39	Amarante, Portugal	2020-05-12	2020-05-11T23:00:00		92							https://covid19.min-saude.pt/
-8aa48a0966a180c00618aa97cf659716	Amares	2020-05-12	2020-05-11T23:00:00		68							https://covid19.min-saude.pt/
-b2ada64ed7906f115747414e6f7bef8d	Amazonas (Brazilian state)	2020-05-12	2020-05-11T20:00:00	1004	12599							https://covid.saude.gov.br/
-1e090a5fb566bc00a2a6ef100bfe8ffc	Amstetten District	2020-05-12	2020-05-11T20:00:00		297							https://info.gesundheitsministerium.at/
-70cf52283d69f3b16429682b84d21075	Anadia, Portugal	2020-05-12	2020-05-11T23:00:00		40							https://covid19.min-saude.pt/
-c637be1cf835c710a89f5c030c9252cb	Andaman and Nicobar Islands	2020-05-12	2020-05-11T08:00:00	0	33	33			0	0		https://www.mohfw.gov.in/
-037960597072204e989f671623e600aa	Andhra Pradesh	2020-05-12	2020-05-11T08:00:00	45	1980	925			1	38		https://www.mohfw.gov.in/
-a9095de33967647fb684edc8a148291f	Antofagasta Region	2020-05-12	2020-05-11T04:00:00+0000	10	1014				0			https://www.minsal.cl/
-58514bdf2478891d0fe67a830a684d0f	Aosta Valley	2020-05-12		139	1158	912	10063	107				http://www.salute.gov.it/
-c07f43af3f7ed5ff2f4e2a4fce92897b	Apulia	2020-05-12		451	4327	1332	79737	2544				http://www.salute.gov.it/
-ade4ec5bce5a681c6721328633a9a42d	Arcos de Valdevez	2020-05-12	2020-05-11T23:00:00		68							https://covid19.min-saude.pt/
-008218b7b83907d1f256b4e712f7494b	Arganil	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-00d864f2bc91e07edb48b7e3b4b2446e	Arica y Parinacota Region	2020-05-12	2020-05-11T04:00:00+0000	7	351				1			https://www.minsal.cl/
-bde2677585a8c14ebb18c7ee709b713f	Arouca, Portugal	2020-05-12	2020-05-11T23:00:00		37							https://covid19.min-saude.pt/
-75b4110ffcec84169eeb16f6649812b8	Arruda dos Vinhos	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-3e975ed48bcad18f8aaf761abb67d48b	Arunachal Pradesh	2020-05-12	2020-05-11T08:00:00	0	1	1			0	0		https://www.mohfw.gov.in/
-44e0325f3e4f2272ae44a4a675b527e6	Assam	2020-05-12	2020-05-11T08:00:00	2	63	34			0	0		https://www.mohfw.gov.in/
-1a1beb0199da97847b4c5aa96298790f	Atacama Region	2020-05-12	2020-05-11T04:00:00+0000	0	133				0			https://www.minsal.cl/
-4edc0c0590551c303f33db08a22b9662	Auckland Region	2020-05-12	2020-05-12T01:00:00+0000		179	169		13		7		https://www.health.govt.nz/
-9891739094756d2605946c867b32ad28	Austria	2020-05-12	2020-05-11T20:00:00	591	15874	14061	319484					https://info.gesundheitsministerium.at/
-68445f8032f49a840247caf97852277d	Aveiro, Portugal	2020-05-12	2020-05-11T23:00:00		308							https://covid19.min-saude.pt/
-1d5c88aeee7280bb8ff1e48572fa330d	Azambuja	2020-05-12	2020-05-11T23:00:00		48							https://covid19.min-saude.pt/
-f3064c20708a502444c1268f2154a799	Baden District, Austria	2020-05-12	2020-05-11T20:00:00		146							https://info.gesundheitsministerium.at/
-4147fcba3b166ba39ab0d88afdbbb6b2	Bahia	2020-05-12	2020-05-11T20:00:00	202	5558							https://covid.saude.gov.br/
-6ddecd8ccd9f648d19dc02c7a566cb4f	Bahrain	2020-05-12	2020-05-12	8	5236	2152	190780	3076	0	0		https://www.moh.gov.bh/COVID19
-3d9a596547760314dc4fabe93bb28358	Banteay Meanchey Province	2020-05-12	2020-05-12T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
-59b7848c26cba6c40461d4f27dbd295d	Barcelos, Portugal	2020-05-12	2020-05-11T23:00:00		279							https://covid19.min-saude.pt/
-2e69f079b210c74f6e8498ab6319ef6d	Barreiro, Portugal	2020-05-12	2020-05-11T23:00:00		141							https://covid19.min-saude.pt/
-97db1e4ee88adfea537c30b0aa653a63	Basilicata	2020-05-12		27	386	217	18266	142				http://www.salute.gov.it/
-ddbf06ae12c6026cb2bac4fc234c6cb6	Batalha, Portugal	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-40810e9722071096c25fc680cec8f5c6	Bath and North East Somerset	2020-05-12	2020-05-11T14:57:05		223							https://www.gov.uk/
-0172881de6e38ed3243c46245774e1c5	Battambang Province	2020-05-12	2020-05-12T07:00:00+0000		8							http://www.cdcmoh.gov.kh/
-859a18bad84184d704fd68a8faeeea1a	Bay of Plenty	2020-05-12	2020-05-12T01:00:00+0000		47	47		0		0		https://www.health.govt.nz/
-6542f875eaa09a5c550e5f3986400ad9	Belarus	2020-05-12	2020-05-11T03:00:00+0000	135	23906	6531	274060					http://stopcovid.belta.by/
-6c1674d14bf5f95742f572cddb0641a7	Belgium	2020-05-12	2020-05-10T00:00:00	8707	53449							https://epistat.wiv-isp.be/Covid/
-4ab43447d21e5b616f05947791dcdbb5	Benavente, Portugal	2020-05-12	2020-05-11T23:00:00		28							https://covid19.min-saude.pt/
-27559de2125101ccb786807bceb46aa1	Bihar	2020-05-12	2020-05-11T08:00:00	6	696	365			1	43		https://www.mohfw.gov.in/
-269cb914b20d49fb2f7cc5b1f602b7aa	Birmingham	2020-05-12	2020-05-11T14:57:05		3125							https://www.gov.uk/
-229cded91047e0595b90028c115941b8	Blackburn with Darwen	2020-05-12	2020-05-11T14:57:05		367							https://www.gov.uk/
-272fe12ee0b1dba0defa703952c5e0e9	Blackpool	2020-05-12	2020-05-11T14:57:05		508							https://www.gov.uk/
-f42b22099a586cbbc78db29b9bc96ea4	Bombarral	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-1781e09ba54ba603d7b749fe4892734f	Borough of Darlington	2020-05-12	2020-05-11T14:57:05		330							https://www.gov.uk/
-f9b6319f4d47986c1801f8bedcb41de9	Borough of Halton	2020-05-12	2020-05-11T14:57:05		347							https://www.gov.uk/
-74744139023aa342729363283b095e2e	Borough of Hartlepool	2020-05-12	2020-05-11T14:57:05		231							https://www.gov.uk/
-53c919c799b5abe0cfae39df7b70585b	Borough of Milton Keynes	2020-05-12	2020-05-11T14:57:05		497							https://www.gov.uk/
-8add2141a5de27db7250e6a1c39ca933	Borough of Stockton-on-Tees	2020-05-12	2020-05-11T14:57:05		436							https://www.gov.uk/
-9c733397ba05d0e628002e38e7bdb58b	Borough of Swindon	2020-05-12	2020-05-11T14:57:05		410							https://www.gov.uk/
-cd480159ddae67035def157205f93566	Borough of Wokingham	2020-05-12	2020-05-11T14:57:05		417							https://www.gov.uk/
-199cba2d9b5f1c243564e82b014d0082	Bournemouth, Christchurch and Poole	2020-05-12	2020-05-11T14:57:05		444							https://www.gov.uk/
-7153e0185271817667370dab891cf95c	Braga	2020-05-12	2020-05-11T23:00:00		1152							https://covid19.min-saude.pt/
-42537f0fb56e31e20ab9c2305752087d	Brazil	2020-05-12	2020-05-11T19:53:00	11519	168331	67384						https://covid.saude.gov.br/
-157cd34cc88906bdedaa1845f6dfab44	Brighton and Hove	2020-05-12	2020-05-11T14:57:05		400							https://www.gov.uk/
-ee9528184f21142f7b0fa9993048d9d0	Bristol	2020-05-12	2020-05-11T14:57:05		672							https://www.gov.uk/
-d96b0c48a55dd5c1196584ab793e5643	Brittany (administrative region)	2020-05-12		230		942						https://www.santepubliquefrance.fr/
-c90603199761407ed25e1b734509184c	Buckinghamshire	2020-05-12	2020-05-11T14:57:05		890							https://www.gov.uk/
-da09f52eec25639ae60a44f7e79f55a1	Burgenland	2020-05-12	2020-05-11T20:00:00	11		283		43				https://info.gesundheitsministerium.at/
-00de0e8082e9316b210e9d628a7d19ec	Cabeceiras de Basto	2020-05-12	2020-05-11T23:00:00		15							https://covid19.min-saude.pt/
-7cba18992ee4b9016468e8a64337cd34	Cadaval	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-cb09c754fad3673f7d34c75e63fad18c	Calabria	2020-05-12		93	1134	473	47265	568				http://www.salute.gov.it/
-57a23fa3dbb21cdbbf70326afb9c0f1d	Caldas da Rainha	2020-05-12	2020-05-11T23:00:00		24							https://covid19.min-saude.pt/
-81eecaffced98e919d40b7d03931e579	Calderdale	2020-05-12	2020-05-11T14:57:05		274							https://www.gov.uk/
-d5148e5b87cea999623ec8af614047a1	Calheta, Madeira	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-06c7a3c3a3344a62864b951aec4df830	Cambodia	2020-05-12	2020-05-12T07:00:00+0000	0	122	121		1	0	1		http://www.cdcmoh.gov.kh/
-106114808380b70bd066c8bacc37b9a7	Caminha	2020-05-12	2020-05-11T23:00:00		16							https://covid19.min-saude.pt/
-cc817969d60833fd7c3c7461797d9b6d	Campania	2020-05-12		392	4602	2301	119042	1909				http://www.salute.gov.it/
-435b855f1ce90b50ae94a8cc56e980e6	Cantanhede, Portugal	2020-05-12	2020-05-11T23:00:00		64							https://covid19.min-saude.pt/
-06263b8d6db0df452a3e235de61f8b69	Canton of Aargau	2020-05-12	2020-05-11T22:00:00+0000	38	1163				1			https://www.bag.admin.ch/
-65ef6787094ace636764d0240d9512b1	Canton of Appenzell Ausserrhoden	2020-05-12	2020-05-11T22:00:00+0000	3	98				0			https://www.bag.admin.ch/
-adec14087e769843644b0bad33736510	Canton of Appenzell Innerrhoden	2020-05-12	2020-05-11T22:00:00+0000	0	25				0			https://www.bag.admin.ch/
-55b6cb679883677182c4ff709acd1b90	Canton of Basel-Landschaft	2020-05-12	2020-05-11T22:00:00+0000	34	836				0			https://www.bag.admin.ch/
-682dfaf55f7a667f3e4bc753c1db4511	Canton of Basel-Stadt	2020-05-12	2020-05-11T22:00:00+0000	50	970				0			https://www.bag.admin.ch/
-42a38626605a643b32d3ee41babd2975	Canton of Bern	2020-05-12	2020-05-11T22:00:00+0000	92	1835				0			https://www.bag.admin.ch/
-14cedc8f352d58d7a49437a4621c24ee	Canton of Fribourg	2020-05-12	2020-05-11T22:00:00+0000	83	1129				0			https://www.bag.admin.ch/
-a370245f17c4831dfb423be352e02556	Canton of Geneva	2020-05-12	2020-05-11T22:00:00+0000	267	4976				7			https://www.bag.admin.ch/
-1133022204163e04bf3c474925965fc4	Canton of Glarus	2020-05-12	2020-05-11T22:00:00+0000	12	127				0			https://www.bag.admin.ch/
-d8338e039d7326789cdfe77a14666967	Canton of Grisons	2020-05-12	2020-05-11T22:00:00+0000	45	820				0			https://www.bag.admin.ch/
-35b358bcdd83e5e23f756ba484222ecc	Canton of Jura	2020-05-12	2020-05-11T22:00:00+0000	7	202				0			https://www.bag.admin.ch/
-785484a9d496e91d153235833434a979	Canton of Lucerne	2020-05-12	2020-05-11T22:00:00+0000	19	713				0			https://www.bag.admin.ch/
-9ffb0eb6728379416b88d428079d0d79	Canton of Nidwalden	2020-05-12	2020-05-11T22:00:00+0000	3	117				0			https://www.bag.admin.ch/
-ebcd75c4d34d767bb82cd09c5f5c4f80	Canton of Obwalden	2020-05-12	2020-05-11T22:00:00+0000	0	79				0			https://www.bag.admin.ch/
-7b1998a82a4d01dbaf82fee4422132bd	Canton of Schaffhausen	2020-05-12	2020-05-11T22:00:00+0000	6	78				0			https://www.bag.admin.ch/
-cc2c1b817af1fd5f6d34e8d6ec85f94a	Canton of Schwyz	2020-05-12	2020-05-11T22:00:00+0000	23	306				0			https://www.bag.admin.ch/
-75dbe5d071b0ff267acaca8b8cc74b8e	Canton of Solothurn	2020-05-12	2020-05-11T22:00:00+0000	15	420				0			https://www.bag.admin.ch/
-42c37a2758893a36fac6b61fb0d774d2	Canton of St. Gallen	2020-05-12	2020-05-11T22:00:00+0000	36	801				1			https://www.bag.admin.ch/
-34e8e82f5d5ce12604edfde90a96216a	Canton of Thurgau	2020-05-12	2020-05-11T22:00:00+0000	17	376				0			https://www.bag.admin.ch/
-ac2f35f1e6d19470f0f1eaf994e0dcc3	Canton of Ticino	2020-05-12	2020-05-11T22:00:00+0000	340	3268				0			https://www.bag.admin.ch/
-c5f3cabb8f2fa06aa13c3e4bd5775bd3	Canton of Uri	2020-05-12	2020-05-11T22:00:00+0000	7	92				0			https://www.bag.admin.ch/
-175c96c32d13c72988716254b4264ea6	Canton of Valais	2020-05-12	2020-05-11T22:00:00+0000	148	1910				2			https://www.bag.admin.ch/
-4e0546e09ba87fe68c1edfe261695a57	Canton of Zug	2020-05-12	2020-05-11T22:00:00+0000	8	193				0			https://www.bag.admin.ch/
-ca7170d19a4453cae40f436aea29ae15	Carinthia	2020-05-12	2020-05-11T20:00:00	13		389		9				https://info.gesundheitsministerium.at/
-9ea52012cdf530a08ffdfd8b27f90098	Carregal do Sal	2020-05-12	2020-05-11T23:00:00		11							https://covid19.min-saude.pt/
-86649b4222ad99f977f6f92d501fb6b4	Cartaxo	2020-05-12	2020-05-11T23:00:00		46							https://covid19.min-saude.pt/
-2139828d785f45cc8100eac012d60abe	Casablanca-Settat	2020-05-12	2020-05-11T15:00:00+0000		1732							http://www.covidmaroc.ma/
-d78ac6070973fd4e65ef9c6b2f685c3e	Cascais	2020-05-12	2020-05-11T23:00:00		442							https://covid19.min-saude.pt/
-a8e896fcdfecad266b45b2fe7034216d	Castelo Branco, Portugal	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-965ed3ec9e3b5efeeaed3f08a7e242e7	Castelo de Paiva	2020-05-12	2020-05-11T23:00:00		17							https://covid19.min-saude.pt/
-771a65a1085917c13d0689670efb2f99	Castro Daire	2020-05-12	2020-05-11T23:00:00		104							https://covid19.min-saude.pt/
-5919147afb2ce2d99a1f9b35c62eda13	Castro Marim	2020-05-12	2020-05-11T23:00:00		3							https://covid19.min-saude.pt/
-b90916ae6c1782c79f7b6d950d96f5dc	Celorico da Beira	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-35a3c6dd829791b6070d0374a437f8bc	Celorico de Basto	2020-05-12	2020-05-11T23:00:00		22							https://covid19.min-saude.pt/
-6e68bf52119e337f50f2f87c58238c27	Central Bedfordshire	2020-05-12	2020-05-11T14:57:05		553							https://www.gov.uk/
-6ba4f96b7a9959170c8a360db22e850d	Centre-Val de Loire	2020-05-12		449		1448						https://www.santepubliquefrance.fr/
-086a7856eb3440a11e9bb3e1c656d854	Chamusca	2020-05-12	2020-05-11T23:00:00		9							https://covid19.min-saude.pt/
-33d760dd178036b714669c2766cadf1b	Chandigarh	2020-05-12	2020-05-11T08:00:00	2	169	24			0	0		https://www.mohfw.gov.in/
-16cbe6f32ee3647575fa736e491fa41e	Chaves, Portugal	2020-05-12	2020-05-11T23:00:00		26							https://covid19.min-saude.pt/
-c8472b77662f3559fa45289339e8d7bb	Cheshire East	2020-05-12	2020-05-11T14:57:05		1031							https://www.gov.uk/
-98a0215e7384c0045229405845a76921	Chhattisgarh	2020-05-12	2020-05-11T08:00:00	0	59	49			0	6		https://www.mohfw.gov.in/
-2e6507f70a9cc26fb50f5fd82a83c7ef	Chile	2020-05-12	2020-05-11T04:00:00+0000	323	30063	13605	294057					https://www.minsal.cl/
-d4c67d41770eab40a946fc1ff75c853f	City of Bradford	2020-05-12	2020-05-11T14:57:05		1112							https://www.gov.uk/
-67541b6bb9bf3ca1099eb45e12ffc104	City of Leeds	2020-05-12	2020-05-11T14:57:05		1640							https://www.gov.uk/
-c553b3fca3579562ab6a50ef95f544ac	City of London	2020-05-12	2020-05-11T14:57:05		16							https://www.gov.uk/
-6f754a7d9dd075f6c51da5812c6186c2	City of Salford	2020-05-12	2020-05-11T14:57:05		866							https://www.gov.uk/
-001e9a8bde05867df0fcb64764c6bc36	City of Sunderland	2020-05-12	2020-05-11T14:57:05		1324							https://www.gov.uk/
-2e128f3a68e852e1dffd3b97ac3d69c5	City of Wakefield	2020-05-12	2020-05-11T14:57:05		634							https://www.gov.uk/
-d04ff64e5b0881a8256dd9c26878f3e6	City of Westminster	2020-05-12	2020-05-11T14:57:05		639							https://www.gov.uk/
-7afb01c9f1acf1db40831e738bc2d079	Coimbra	2020-05-12	2020-05-11T23:00:00		561							https://covid19.min-saude.pt/
-65fd23a398a0936844ecf9768be1f1db	Condeixa-a-Nova	2020-05-12	2020-05-11T23:00:00		143							https://covid19.min-saude.pt/
-78aed43a7109dd496adfc5c8345cc336	Coquimbo Region	2020-05-12	2020-05-11T04:00:00+0000	1	140				0			https://www.minsal.cl/
-34850c1f9f324ccfb8aab54a4bd285d4	Cornwall	2020-05-12	2020-05-11T14:57:05		547							https://www.gov.uk/
-ada9a060b058259f01de14e24997f87d	Corsica	2020-05-12		52		199						https://www.santepubliquefrance.fr/
-8b7ca5b03f1286b3aab8879bd06fbf09	Coruche	2020-05-12	2020-05-11T23:00:00		37							https://covid19.min-saude.pt/
-194a4d28f10dd71cd072a06481f88f43	County Durham	2020-05-12	2020-05-11T14:57:05		1698							https://www.gov.uk/
-9ed47047fb3b7f26ada9a35fe83d7b1b	Coventry	2020-05-12	2020-05-11T14:57:05		761							https://www.gov.uk/
-4c6448118024cde337167524534e8401	Cuba, Portugal	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-e28fc7b980b342e2bb4a1eb56f66230e	Cumbria	2020-05-12	2020-05-11T14:57:05		2115							https://www.gov.uk/
-12a4359f3d8a4a2db61f4d040edb73ed	Czech Republic	2020-05-12	2020-05-11T22:30:00+0000	282	8176	4711	306409	3183				https://onemocneni-aktualne.mzcr.cz/
-aab10c06d249bd00401c2946d8008567	Da Nang	2020-05-12		0	6	6						https://ncov.moh.gov.vn/
-08b618992b4f08c4a012234eeac2336d	Dakhla-Oued Ed-Dahab	2020-05-12	2020-05-11T15:00:00+0000		2							http://www.covidmaroc.ma/
-9baaebe1759ba1a6365a2b0539081516	Delhi	2020-05-12	2020-05-11T08:00:00	73	6923	2069			0	49		https://www.mohfw.gov.in/
-424214945ba5615eca039bfe5d731c09	Denmark	2020-05-12	2020-05-11T12:00:00+0000	533	10513	8328	326560					https://www.sst.dk/
-7e3c720afe1e04eadd7459f072be745b	Derby	2020-05-12	2020-05-11T14:57:05		526							https://www.gov.uk/
-b5484e0da2940ac1dffbe6422375902c	Derbyshire	2020-05-12	2020-05-11T14:57:05		1455							https://www.gov.uk/
-ca9b33c206e08498e2e4ad87b6197473	Devon	2020-05-12	2020-05-11T14:57:05		776							https://www.gov.uk/
-0960de8471bcc9200d083c02e054a2c2	Dorset	2020-05-12	2020-05-11T14:57:05		347							https://www.gov.uk/
-5cdd21c97f86686cc505e02fd32a7523	Earth	2020-05-12	2020-05-12T04:39:59.261	284509	4119527							https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
-46fb35db1ee26c5c3a1c59eca715c630	East Midlands	2020-05-12	2020-05-11T14:57:05		7688							https://www.gov.uk/
-83cb12331c934dce754aa376b6635227	East Riding of Yorkshire	2020-05-12	2020-05-11T14:57:05		749							https://www.gov.uk/
-9ac8959ebec8a1282e536bb97429e2b4	East Sussex	2020-05-12	2020-05-11T14:57:05		648							https://www.gov.uk/
-9fa586c842208843c415cfa324048287	East of England	2020-05-12	2020-05-11T14:57:05		12295							https://www.gov.uk/
-8d8850eb122df8685285743838fb6abf	Eisenstadt	2020-05-12	2020-05-11T20:00:00		16							https://info.gesundheitsministerium.at/
-afc1fb751a11a5e54ec06a1c914c0b34	Elvas	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-46bc56ae264329f72d44b7bfd2f87076	Emilia-Romagna	2020-05-12		3867	26876	15969	234619	7040				http://www.salute.gov.it/
-64f607906be7598a02d75dbc1e979662	England	2020-05-12	2020-05-11T14:57:05	28657	136873							https://www.gov.uk/
-bfe2efafacf68bad1a4686d9bc83f1af	Entroncamento	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-16c8ed5f311431675334fb05b9fe867c	Espinho, Portugal	2020-05-12	2020-05-11T23:00:00		76							https://covid19.min-saude.pt/
-220c19d10fe57704ebc86d9e2d87ec15	Esposende	2020-05-12	2020-05-11T23:00:00		44							https://covid19.min-saude.pt/
-9b547b8f966cbaf14a511a250a501f15	Essex	2020-05-12	2020-05-11T14:57:05		2907							https://www.gov.uk/
-ac4ff97e59ad433cb3452704ab98c4c1	Estarreja	2020-05-12	2020-05-11T23:00:00		88							https://covid19.min-saude.pt/
-a20df05bafa89d55d19741d3cce308e7	Fafe	2020-05-12	2020-05-11T23:00:00		104							https://covid19.min-saude.pt/
-96750469ea5eff2f9ae70eef66babad6	Faro, Portugal	2020-05-12	2020-05-11T23:00:00		59							https://covid19.min-saude.pt/
-62a31ae99f39c3703156dff0fb70ec15	Faroe Islands	2020-05-12	2020-05-11T12:00:00+0000	0	187	187	8450		0	0		https://www.sst.dk/
-5b051036c9e2b94999a2f52d5341a5b8	Federal District (Brazil)	2020-05-12	2020-05-11T20:00:00	42	2682							https://covid.saude.gov.br/
-76c542dd8bff7351540a16e1c87bf4ae	Felgueiras	2020-05-12	2020-05-11T23:00:00		383							https://covid19.min-saude.pt/
-22410ce6097d384ec19e092633607c61	Figueira da Foz	2020-05-12	2020-05-11T23:00:00		32							https://covid19.min-saude.pt/
-0309a6c666a7a803fdb9db95de71cf01	France	2020-05-12		26643	139519	56724						https://www.santepubliquefrance.fr/
-d8fa078f85a325fda848f2fb4f4857d9	Friuli Venezia Giulia	2020-05-12		312	3138	1996	90860	830				http://www.salute.gov.it/
-de270a614e5023d88704b7cf23875e6c	Funchal	2020-05-12	2020-05-11T23:00:00		26							https://covid19.min-saude.pt/
-d8b00929dec65d422303256336ada04f	Germany	2020-05-12	2020-05-12	7417	169575	145600			0	0		https://www.rki.de/
-e532b17297cb1d768f6cd0e0d217abac	Gloucestershire	2020-05-12	2020-05-11T14:57:05		1328							https://www.gov.uk/
-904848bc2d46b8dcd2e90e5a025f726e	Goa	2020-05-12	2020-05-11T08:00:00	0	7	7			0	0		https://www.mohfw.gov.in/
-4c95b7b5aca6c7f6fa474e2a54eb0833	Gondomar, Portugal	2020-05-12	2020-05-11T23:00:00		1048							https://covid19.min-saude.pt/
-07387094d487f4a7bc97fdac96d54172	Gouveia, Portugal	2020-05-12	2020-05-11T23:00:00		21							https://covid19.min-saude.pt/
-8227ae54c0700625b5fa48afe8105b1a	Grand Est	2020-05-12		3138		8959						https://www.santepubliquefrance.fr/
-ca7668a05b2a3dbf29ca3d768c0febe8	Graz	2020-05-12	2020-05-11T20:00:00		468							https://info.gesundheitsministerium.at/
-d0ddf8ace64108fae4f1371f1fe778a2	Greater London	2020-05-12	2020-05-11T14:57:05		25891							https://www.gov.uk/
-583eda79d32f7c1cb0840862787a73ca	Greenland	2020-05-12	2020-05-11T12:00:00+0000	0	11	11	1435		0	0		https://www.sst.dk/
-78149812c9fa2064d787f13bed12a703	Guarda, Portugal	2020-05-12	2020-05-11T23:00:00		20							https://covid19.min-saude.pt/
-691b2330070783319ab18dbb948341cf	Guelmim-Oued Noun	2020-05-12	2020-05-11T15:00:00+0000		43							http://www.covidmaroc.ma/
-9ac24d086d7592786374e1995fb205e6	Gujarat	2020-05-12	2020-05-11T08:00:00	493	8194	2545			21	454		https://www.mohfw.gov.in/
-809cc2b6a53b84d676a23f8c0ebb8f4b	Hampshire	2020-05-12	2020-05-11T14:57:05		3032							https://www.gov.uk/
-4187c4575f19a0b34cb6358c5590a449	Hanoi	2020-05-12		0	112	101						https://ncov.moh.gov.vn/
-1b86e8daccc894df32394681ebe753e4	Haryana	2020-05-12	2020-05-11T08:00:00	10	703	300			1	10		https://www.mohfw.gov.in/
-d0f46070f10d962c9c34661e07b36ba3	Hauts-de-France	2020-05-12		1545		4690						https://www.santepubliquefrance.fr/
-18da668ab36a342d2dfbce963ac4b257	Herefordshire	2020-05-12	2020-05-11T14:57:05		403							https://www.gov.uk/
-8e0be7d94b945267413ae092bddd957f	Hertfordshire	2020-05-12	2020-05-11T14:57:05		2603							https://www.gov.uk/
-a42109305349eb91ddbdda04373721e4	Himachal Pradesh	2020-05-12	2020-05-11T08:00:00	2	55	39			0	1		https://www.mohfw.gov.in/
-1527a37ca7176fe5a984c0e28eb639d6	Ho Chi Minh City	2020-05-12		0	56	50						https://ncov.moh.gov.vn/
-4a1c1e0e4ed299c266832a4a98be4e90	Horta, Azores	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-fa79c3005daec47ecff84a116a0927a1	Hungary	2020-05-12	2020-05-11T04:30:00+0000	421	3284	958	112165	1905				https://koronavirus.gov.hu/
-7d31e0da1ab99fe8b08a22118e2f402b	India	2020-05-12	2020-05-11T08:00:00	2206	67152	20917						https://www.mohfw.gov.in/
-3081b7ed18f680faf5e9ce71b058cf9b	Innlandet	2020-05-12	2020-05-11T11:00:00		463							https://www.fhi.no/
-1ff97f22292e3d91119e867aadcf511b	Innsbruck	2020-05-12	2020-05-11T20:00:00		409							https://info.gesundheitsministerium.at/
-ca3915ed8e4dc0c6412a1cafa47c434b	Isle of Wight	2020-05-12	2020-05-11T14:57:05		154							https://www.gov.uk/
-1007e1b7f894dfbf72a0eaa80f3bc57e	Italy	2020-05-12		30739	219814	106587	2606652	82488				http://www.salute.gov.it/
-475ec2baed249713cd6edc6274cb7875	Jammu and Kashmir (state)	2020-05-12	2020-05-11T08:00:00	9	861	383			0	15		https://www.mohfw.gov.in/
-5308f89b85b77bdd39a446f01674e874	Jharkhand	2020-05-12	2020-05-11T08:00:00	3	157	78			0	0		https://www.mohfw.gov.in/
-6ea1e24d60afddf388b06f8243c45b70	Jordan	2020-05-12	2020-05-11T21:01:00+0000	9	562	390						https://corona.moh.gov.jo/
-0156f349b9b117ae621b28ac07827b41	Kampong Cham Province	2020-05-12	2020-05-12T07:00:00+0000		16							http://www.cdcmoh.gov.kh/
-9d83069e30c1b92bc1b4a4973144d590	Kampong Chhnang Province	2020-05-12	2020-05-12T07:00:00+0000		3							http://www.cdcmoh.gov.kh/
-5bf905f5ad2fbc16052224608866067d	Kampot Province	2020-05-12	2020-05-12T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
-4a81c0d6be1f67f49ab0d9a8e97eff87	Kandal Province	2020-05-12	2020-05-12T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
-185a5eb309e9ba14f65e6486f08b3032	Karnataka	2020-05-12	2020-05-11T08:00:00	31	848	424			1	38		https://www.mohfw.gov.in/
-7c1a943bf29d2c753fb935e99428482c	Kazakhstan	2020-05-12		32	5207	2074						https://www.coronavirus2020.kz/
-a02eebc82319b5eeae7f3903fa46f904	Kent	2020-05-12	2020-05-11T14:57:05		4191							https://www.gov.uk/
-0197fedf2ff9c17a5d2680e81e002fa9	Kep Province	2020-05-12	2020-05-12T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
-e369d9fd2ab54455129816db19e37fd4	Kerala	2020-05-12	2020-05-11T08:00:00	4	512	489			0	4		https://www.mohfw.gov.in/
-19f8998ee05b8e221b209decd571b855	Kingston upon Hull	2020-05-12	2020-05-11T14:57:05		593							https://www.gov.uk/
-d084f2d2a2708ffba6765cec3951f696	Kirklees	2020-05-12	2020-05-11T14:57:05		660							https://www.gov.uk/
-9411cbb4eebe5b8e9deb98dcebbc3b9d	Klagenfurt	2020-05-12	2020-05-11T20:00:00		92							https://info.gesundheitsministerium.at/
-85d53d2f383dc639d59cb6a4dad81148	Koh Kong Province	2020-05-12	2020-05-12T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
-fbb273840f8782292a36fdb74e1d6a19	Krems an der Donau	2020-05-12	2020-05-11T20:00:00		40							https://info.gesundheitsministerium.at/
-05387f3ca38d7bd84ae35f31f2899ecf	Kuwait	2020-05-12		65	9286	2907						https://corona.e.gov.kw/
-cf474fd5821e76175fe0f895ef9c9a0b	Ladakh	2020-05-12	2020-05-11T08:00:00	0	42	21			0	4		https://www.mohfw.gov.in/
-8563532f46639cc4b85313f949ba7f22	Lagoa, Azores	2020-05-12	2020-05-11T23:00:00		9							https://covid19.min-saude.pt/
-154822144cb3a3ec038d2de0ddd240ad	Lagos, Portugal	2020-05-12	2020-05-11T23:00:00		3							https://covid19.min-saude.pt/
-a37b699ac376585133ffaa5b493e5cef	Lamego	2020-05-12	2020-05-11T23:00:00		37							https://covid19.min-saude.pt/
-d2e8837e7b4141a48a0eaebe7d57895d	Lancashire	2020-05-12	2020-05-11T14:57:05		3167							https://www.gov.uk/
-84d0447bddc00597d2a14284d627c8ed	Lazio	2020-05-12		562	7190	2334	181398	4294				http://www.salute.gov.it/
-b45ff92cc522bb89bfc3b8ef3fc21b7d	Lebanon	2020-05-12	2020-05-11T14:24:00+0000	26	859	234	51731	599				https://corona.ministryinfo.gov.lb/
-a06360acafe964d244e424cbd50862e8	Leicester	2020-05-12	2020-05-11T14:57:05		762							https://www.gov.uk/
-821549cf5b147898342cf79b0d9bb966	Leicestershire	2020-05-12	2020-05-11T14:57:05		1060							https://www.gov.uk/
-9716560415209c7683898db025d910ad	Leiria	2020-05-12	2020-05-11T23:00:00		79							https://covid19.min-saude.pt/
-47abe64b4e6d1e3b619c16b2ff75022a	Liguria	2020-05-12		1293	8832	4695	68814	2844				http://www.salute.gov.it/
-a1fc7241c14b2b8c66480176d56175fc	Lincolnshire	2020-05-12	2020-05-11T14:57:05		916							https://www.gov.uk/
-443befbacdaa99c161dd11495b82b99b	Linz	2020-05-12	2020-05-11T20:00:00		306							https://info.gesundheitsministerium.at/
-260b4e591e03de9750f965a30087ed5f	Lisbon	2020-05-12	2020-05-11T23:00:00		1737							https://covid19.min-saude.pt/
-d9051e0b77f8bb5521389618e70e2ada	Lithuania	2020-05-12	2020-05-11T19:11:00+0000	50	1485	833	186565					https://koronastop.lrv.lt
-afce84ff226407a47c9782a742ba02f7	Liverpool	2020-05-12	2020-05-11T14:57:05		1509							https://www.gov.uk/
-b0ea6e29d4727582c926ca0e6b9f775b	Lombardy	2020-05-12		15054	81871	36406	492642	30411				http://www.salute.gov.it/
-ce87401c8fc1fdfff9eccc20b9073bcb	London Borough of Barnet	2020-05-12	2020-05-11T14:57:05		1252							https://www.gov.uk/
-1454fda205d52e7b91eb249886595554	London Borough of Camden	2020-05-12	2020-05-11T14:57:05		598							https://www.gov.uk/
-dc7c1266815a22cca5e8a1086567335b	London Borough of Enfield	2020-05-12	2020-05-11T14:57:05		856							https://www.gov.uk/
-292964c31822842a3a9cbbcc0d5533d2	London Borough of Hackney	2020-05-12	2020-05-11T14:57:05		624							https://www.gov.uk/
-54a974c2d0f5328c5701b3d79e0bb5eb	London Borough of Hounslow	2020-05-12	2020-05-11T14:57:05		704							https://www.gov.uk/
-d81977d52995c299653534afe099cfb0	London Borough of Waltham Forest	2020-05-12	2020-05-11T14:57:05		747							https://www.gov.uk/
-27a140c71bd106a2062db268ff14be14	Los Lagos Region	2020-05-12	2020-05-11T04:00:00+0000	10	592				0			https://www.minsal.cl/
-357f9948bcc7b532177ba13c896171c8	Loures	2020-05-12	2020-05-11T23:00:00		507							https://covid19.min-saude.pt/
-7ccecefc413bc3c4782967801162a596	Lousada	2020-05-12	2020-05-11T23:00:00		267							https://covid19.min-saude.pt/
-4a7f86fa7a2f5c11478dd005f0f40f9a	Lower Austria	2020-05-12	2020-05-11T20:00:00	90		2418		174				https://info.gesundheitsministerium.at/
-20ee5d666fa2428304848c9ebf2cf8b2	Luton	2020-05-12	2020-05-11T14:57:05		666							https://www.gov.uk/
-06630c890abadde9228ea818ce52b621	Luxembourg	2020-05-12	2020-05-11T00:00:00	101	3888	3602	55415					https://gouvernement.lu/
-7d6449d258f3d70de14d55117942c7ed	Macedo de Cavaleiros	2020-05-12	2020-05-11T23:00:00		20							https://covid19.min-saude.pt/
-cdc5b6bf63384ed64ece9b1a7645a9a8	Madalena, Azores	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-a149b7e6018d0690ca09d02472b478d3	Madhya Pradesh	2020-05-12	2020-05-11T08:00:00	215	3614	1676			0	0		https://www.mohfw.gov.in/
-d040c0ef6baf553f552943ad5765bd72	Mafra, Portugal	2020-05-12	2020-05-11T23:00:00		91							https://covid19.min-saude.pt/
-703805fa9ac9f1cbc1ef92878e724f4d	Magallanes Region	2020-05-12	2020-05-11T04:00:00+0000	14	901				1			https://www.minsal.cl/
-84e516108956e6e374941043b5f73e86	Maharashtra	2020-05-12	2020-05-11T08:00:00	832	22171	4199			53	399		https://www.mohfw.gov.in/
-b9e89790cfff7b5c57c108f4f8b35d48	Maia, Portugal	2020-05-12	2020-05-11T23:00:00		909							https://covid19.min-saude.pt/
-3f0e49c46cbde0c7adf5ea04a97ab261	Malaysia	2020-05-12	2020-05-11T10:30:31+0000	109	6726	5113	266048					http://www.moh.gov.my/
-317532540adceb07d5e2ec62d5eacac2	Manchester	2020-05-12	2020-05-11T14:57:05		1334							https://www.gov.uk/
-a9f77a1613eb1316193a46cde1f4a153	Mangualde	2020-05-12	2020-05-11T23:00:00		77							https://covid19.min-saude.pt/
-9f405b4cfb0722cc0518fc99a26f3c2a	Manipur	2020-05-12	2020-05-11T08:00:00	0	2	2			0	0		https://www.mohfw.gov.in/
-a8cbddc80fb0a973f4f8cdbc07b860d9	Manteigas	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-cbbf47d0cf18f11240d45497ac3c395b	Marche	2020-05-12		964	6543	2352	77830	3227				http://www.salute.gov.it/
-e6ad897785a2889cf659732c31dd6d5d	Marco de Canaveses	2020-05-12	2020-05-11T23:00:00		79							https://covid19.min-saude.pt/
-70fe06d872bd1ac699d976796f3a178c	Marinha Grande	2020-05-12	2020-05-11T23:00:00		18							https://covid19.min-saude.pt/
-0a8c642a302d1968b167aa75eef74e3f	Marrakesh-Safi	2020-05-12	2020-05-11T15:00:00+0000		1206							http://www.covidmaroc.ma/
-904c59b9c65b7690754a62f2b8a9440e	Mato Grosso	2020-05-12	2020-05-11T20:00:00	18	519							https://covid.saude.gov.br/
-60f7fc6cf542973f3f160ad2d8519e0a	Mato Grosso do Sul	2020-05-12	2020-05-11T20:00:00	11	362							https://covid.saude.gov.br/
-62402cd9d6e7a3e76660d901d9f23b18	Matosinhos	2020-05-12	2020-05-11T23:00:00		1207							https://covid19.min-saude.pt/
-255cbbc9d4e6cd82ca3d3837ad7093fa	Maule Region	2020-05-12	2020-05-11T04:00:00+0000	14	454				0			https://www.minsal.cl/
-07f3ca235faaa1c9ad16facef5526d8b	Mauritius	2020-05-12	2020-05-10T20:00:00+0000	10	332	322		0	0	0		http://www.covid19.mu/
-ea7c631b4b5bcf1017f88116f7dfa234	Mealhada	2020-05-12	2020-05-11T23:00:00		17							https://covid19.min-saude.pt/
-453152430f7986b2e533133878cdbd91	Medway	2020-05-12	2020-05-11T14:57:05		701							https://www.gov.uk/
-418d4c56f7fa6ee6dbfe42f70876d8da	Meghalaya	2020-05-12	2020-05-11T08:00:00	1	13	10			0	0		https://www.mohfw.gov.in/
-6393595ae46aad252bd19444a4f6c85b	Metropolitan Borough of Barnsley	2020-05-12	2020-05-11T14:57:05		775							https://www.gov.uk/
-76cf445a5150f360c0c3e7cda6f967cd	Metropolitan Borough of Doncaster	2020-05-12	2020-05-11T14:57:05		591							https://www.gov.uk/
-386b8e9954a52d5f89e463b927e0fcfe	Metropolitan Borough of Dudley	2020-05-12	2020-05-11T14:57:05		876							https://www.gov.uk/
-5afa7dd30730c56cb6ae8dab9c0b4447	Metropolitan Borough of Oldham	2020-05-12	2020-05-11T14:57:05		943							https://www.gov.uk/
-789482fae186e099fb7ac41ba0d9b485	Metropolitan Borough of Rochdale	2020-05-12	2020-05-11T14:57:05		666							https://www.gov.uk/
-ec3d226b8a94e2a0771550f4c560b77d	Metropolitan Borough of Rotherham	2020-05-12	2020-05-11T14:57:05		814							https://www.gov.uk/
-470fc1ae906703274332d888873a5df0	Metropolitan Borough of Sefton	2020-05-12	2020-05-11T14:57:05		860							https://www.gov.uk/
-2ea75a5f582e8bfa958ace4274bc7dce	Metropolitan Borough of St Helens	2020-05-12	2020-05-11T14:57:05		696							https://www.gov.uk/
-ff9764a9683e2a953e07e5b3c2d068dd	Metropolitan Borough of Stockport	2020-05-12	2020-05-11T14:57:05		963							https://www.gov.uk/
-9804fb1339ff93d4bdcf1f74ddbdb44e	Metropolitan Borough of Walsall	2020-05-12	2020-05-11T14:57:05		1060							https://www.gov.uk/
-6c5a99c406d78290e017e4ef04b0e96c	Metropolitan Borough of Wigan	2020-05-12	2020-05-11T14:57:05		998							https://www.gov.uk/
-692a403b099faac0e0f591c20810ae31	Metropolitan Borough of Wirral	2020-05-12	2020-05-11T14:57:05		1129							https://www.gov.uk/
-b4cb58c3a936665786359c2c634d6ff4	Middlesbrough	2020-05-12	2020-05-11T14:57:05		626							https://www.gov.uk/
-44509c500f43743efa8bd124c618cee1	Minas Gerais	2020-05-12	2020-05-11T20:00:00	119	3237							https://covid.saude.gov.br/
-bb159249a948d564e6815f7ffa5da0c4	Mira, Portugal	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-ace5897b56e196fcb8a29b51738033f9	Miranda do Corvo	2020-05-12	2020-05-11T23:00:00		16							https://covid19.min-saude.pt/
-b967ab6d51f48df87b3d407341369f23	Miranda do Douro	2020-05-12	2020-05-11T23:00:00		10							https://covid19.min-saude.pt/
-9056629881d40868e89ec889c96111b5	Mirandela	2020-05-12	2020-05-11T23:00:00		19							https://covid19.min-saude.pt/
-4b8c5cc6acf242d8a24ad12b227d16ce	Mizoram	2020-05-12	2020-05-11T08:00:00	0	1	1			0	0		https://www.mohfw.gov.in/
-2cce9d9760a1bf2aefa6490d66d95462	Mogadouro	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-4d2ee3f999437317fd3bb4eba4d5efc9	Moimenta da Beira	2020-05-12	2020-05-11T23:00:00		13							https://covid19.min-saude.pt/
-dddae2c8073658f33c5161f3812afdae	Moita	2020-05-12	2020-05-11T23:00:00		97							https://covid19.min-saude.pt/
-5167f4d23cf87e8955e0869fc2a4ecfa	Molise	2020-05-12		22	383	132	9390	229				http://www.salute.gov.it/
-772fdb84e302ebfc2afe165f9b14ade0	Montemor-o-Novo	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-d7a5772ab38c310930dc9b8407d3c8a0	Montemor-o-Velho	2020-05-12	2020-05-11T23:00:00		25							https://covid19.min-saude.pt/
-5d9883c0820e37ca2d4962edbb7f6eaa	Montijo, Portugal	2020-05-12	2020-05-11T23:00:00		87							https://covid19.min-saude.pt/
-4d4a1722d8e85909a576da2c42878ff0	Morocco	2020-05-12	2020-05-11T15:00:00+0000	188	6281	2811	62699					http://www.covidmaroc.ma/
-f98e69fd474e95646c6d54b6c8379e60	Moura, Portugal	2020-05-12	2020-05-11T23:00:00		57							https://covid19.min-saude.pt/
-773263b11483ec40f6821faa579c74a4	Murtosa	2020-05-12	2020-05-11T23:00:00		17							https://covid19.min-saude.pt/
-9b972961dd61f8a1ba93399fc8034bda	Nelas	2020-05-12	2020-05-11T23:00:00		19							https://covid19.min-saude.pt/
-a67d4cbdd1b59e0ffccc6bafc83eb033	Netherlands	2020-05-12	2020-05-11T11:59:00+0000	5456	42788							https://www.rivm.nl/
-23113b12a9d8135100497751756d4bee	New Zealand	2020-05-12	2020-05-11T09:00:00	21	1497	1386	194191					https://www.health.govt.nz/
-155c2168d7451274c45eacbb6025a5a7	Newcastle upon Tyne	2020-05-12	2020-05-11T14:57:05		996							https://www.gov.uk/
-f3396367c00b6e999578592ba7344925	Nordeste, Azores	2020-05-12	2020-05-11T23:00:00		16							https://covid19.min-saude.pt/
-32df967ee87142dd8ca7be88842ba136	Nordland	2020-05-12	2020-05-11T11:00:00		116							https://www.fhi.no/
-c394bf9a4d43b977e11610b5b5f85843	Norfolk	2020-05-12	2020-05-11T14:57:05		1913							https://www.gov.uk/
-85d2b8ec0ca91db1e0d6ad486c169959	Normandy	2020-05-12		380		1218						https://www.santepubliquefrance.fr/
-39af04bf8904745f6b1b0edfab19ef0d	North East England	2020-05-12	2020-05-11T14:57:05		9044							https://www.gov.uk/
-a857c7af09b0eca88bb75dcdae1ab7df	North Lincolnshire	2020-05-12	2020-05-11T14:57:05		426							https://www.gov.uk/
-ce3146c19a1ddb7b34e4d6d5fa0209cd	North Somerset	2020-05-12	2020-05-11T14:57:05		304							https://www.gov.uk/
-801731a1f9b8046a62198de02d36ed88	North Tyneside	2020-05-12	2020-05-11T14:57:05		528							https://www.gov.uk/
-8c09f00326f31311647464e40afcb6ea	North West England	2020-05-12	2020-05-11T14:57:05		22510							https://www.gov.uk/
-4d9bb5df56864237719a58416875bf0b	North Yorkshire	2020-05-12	2020-05-11T14:57:05		1180							https://www.gov.uk/
-e15a6982ad13d4991110044ac62a4878	Northamptonshire	2020-05-12	2020-05-11T14:57:05		1150							https://www.gov.uk/
-a52b36a4d417538f77478895c601e4ab	Northern Ireland	2020-05-12	2020-05-11T14:57:05	435	4149							https://www.gov.uk/
-3af87fefce39538922036929f3f94a67	Northland Region	2020-05-12	2020-05-12T01:00:00+0000		28	28		1		1		https://www.health.govt.nz/
-b0dd02d0cbea1b13e491569d694f8a61	Northumberland	2020-05-12	2020-05-11T14:57:05		867							https://www.gov.uk/
-d5b9290a0b67727d4ba1ca6059dc31a6	Norway	2020-05-12	2020-05-11T11:00:00	224	8106		202751					https://www.fhi.no/
-829482baf763ef63c78c36889615b3b1	Nottingham	2020-05-12	2020-05-11T14:57:05		569							https://www.gov.uk/
-c43ab7162cc01861a69e73705e83df76	Nottinghamshire	2020-05-12	2020-05-11T14:57:05		1224							https://www.gov.uk/
-100ea10c9fa7706dabf917bd66a08aeb	Nouvelle-Aquitaine	2020-05-12		358		1653						https://www.santepubliquefrance.fr/
-4925fb79ef2eb5cafbad0f114032ae21	Occitanie	2020-05-12		454		2355						https://www.santepubliquefrance.fr/
-86f16715a746edc2eeef83281d06a0c2	Odemira	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-6066310fdf9edf269cb0b6848ddfccb9	Odisha	2020-05-12	2020-05-11T08:00:00	3	377	68			1	5		https://www.mohfw.gov.in/
-87d821bd5a7c83ee71b279d4d561a222	Odivelas	2020-05-12	2020-05-11T23:00:00		277							https://covid19.min-saude.pt/
-f77b08bf065e1c6790747c4f21608a18	Oeiras, Portugal	2020-05-12	2020-05-11T23:00:00		277							https://covid19.min-saude.pt/
-9040fe34e777416e754d8dffca84b556	Oliveira de Frades	2020-05-12	2020-05-11T23:00:00		12							https://covid19.min-saude.pt/
-9de0d811ad075b5e9e528675a53db000	Oliveira do Bairro	2020-05-12	2020-05-11T23:00:00		28							https://covid19.min-saude.pt/
-0035c7938362b7324172452801c1260d	Oliveira do Hospital	2020-05-12	2020-05-11T23:00:00		11							https://covid19.min-saude.pt/
-134a68029fa6f35eba71b46c13fd25be	Oriental (Morocco)	2020-05-12	2020-05-11T15:00:00+0000		176							http://www.covidmaroc.ma/
-f4830432874f86d2e2a1a5f2dbebbc80	Oslo	2020-05-12	2020-05-11T11:00:00		2523							https://www.fhi.no/
-5d3f118f3e8db173636386c071150ba7	Ovar	2020-05-12	2020-05-11T23:00:00		626							https://covid19.min-saude.pt/
-f03241ddaf1bc6f0cbdb1832abc7cc2b	Oxfordshire	2020-05-12	2020-05-11T14:57:05		1755							https://www.gov.uk/
-8f6effd31825dd4d397ae1833028e208	Palmela	2020-05-12	2020-05-11T23:00:00		20							https://covid19.min-saude.pt/
-804cb447be7832a9f4e3f99bba47b030	Paredes, Portugal	2020-05-12	2020-05-11T23:00:00		320							https://covid19.min-saude.pt/
-5d3038ac706c87ba2c5ad3531ab18cb5	Paredes de Coura	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-b8c593bcd3fbcd5aa8caed32c0f97aba	Pays de la Loire	2020-05-12		385		1416						https://www.santepubliquefrance.fr/
-f774bf7539e2d55553afd19168a241df	Penacova	2020-05-12	2020-05-11T23:00:00		20							https://covid19.min-saude.pt/
-9762de8da24642870f95f0146d7891db	Penafiel	2020-05-12	2020-05-11T23:00:00		155							https://covid19.min-saude.pt/
-d9b3e0d109a57d3c92ceaa5a74716831	Penela	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-a725d30e7da72ed4d681e9ed48cbc842	Peniche, Portugal	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-13464617db978b462a7b67aa406a6062	Pernambuco	2020-05-12	2020-05-11T20:00:00	1047	13275							https://covid.saude.gov.br/
-f3128071d6d92c6b28a5d4cb4f8b4630	Peterborough	2020-05-12	2020-05-11T14:57:05		295							https://www.gov.uk/
-adaac9a1f92c1b6eb7623e2da7939019	Phnom Penh	2020-05-12	2020-05-12T07:00:00+0000		28							http://www.cdcmoh.gov.kh/
-deb65130918c961ea80790accbb4484d	Piedmont	2020-05-12		3400	28776	12038	213783	13338				http://www.salute.gov.it/
-0679b5f1bb79d16f5d900352713d4bf9	Pinhel	2020-05-12	2020-05-11T23:00:00		23							https://covid19.min-saude.pt/
-dd96fef1e8b9bd782431449241fcf2cf	Plymouth	2020-05-12	2020-05-11T14:57:05		335							https://www.gov.uk/
-edcc7ce272618c0535e1bdb5f8b634ee	Pombal, Portugal	2020-05-12	2020-05-11T23:00:00		60							https://covid19.min-saude.pt/
-97b0f63a2296827fd0c66c4777711658	Ponta Delgada	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-1d946afdda3edd9b51daec797693d407	Ponta do Sol, Madeira	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-91c1128ff9a80ca879dbff3de7e914e3	Ponte da Barca	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-869f7eec0219d10b75481a063843ec21	Ponte de Lima	2020-05-12	2020-05-11T23:00:00		27							https://covid19.min-saude.pt/
-77a7c910c69b6e291e384d23e5aaee12	Portalegre, Portugal	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-a5b17e03494a1dbb63698f813151e3ed	Portel, Portugal	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-8493f398f200c8dffe60d46439dd3360	Porto	2020-05-12	2020-05-11T23:00:00		1303							https://covid19.min-saude.pt/
-89059074d93e9d3d3208bda3c6e08bf4	Porto Santo Island	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-da871503f6796db5142177b404db4fbe	Portsmouth	2020-05-12	2020-05-11T14:57:05		308							https://www.gov.uk/
-ea71b362e3ea9969db085abfccdeb10d	Portugal	2020-05-12	2020-05-11T03:00:00	1144	27689	2549						https://covid19.min-saude.pt/
-3d01e677d271211030019290e83788d3	Preah Vihear Province	2020-05-12	2020-05-12T07:00:00+0000		2							http://www.cdcmoh.gov.kh/
-81b03c07e7cc90aabc2143648791ed06	Puducherry	2020-05-12	2020-05-11T08:00:00	0	9	6			0	0		https://www.mohfw.gov.in/
-6b2eb450290fde9e498cf4d068fda710	Punjab, India	2020-05-12	2020-05-11T08:00:00	31	1823	166			0	9		https://www.mohfw.gov.in/
-7cc7ef17c45527cf90fcf27516794d21	Qatar	2020-05-12	2020-05-10T21:00:00+0000	14	23623	2840	131044	20769	0	0		https://www.moph.gov.qa/
-d418e699c9dd62a45089899a35a02404	Rajasthan	2020-05-12	2020-05-11T08:00:00	107	3814	2176			1	150		https://www.mohfw.gov.in/
-0865561d05ea5c11b7bf902eb450d101	Reading, Berkshire	2020-05-12	2020-05-11T14:57:05		541							https://www.gov.uk/
-77d2135ac5871ce8580492a1469062bc	Redcar and Cleveland	2020-05-12	2020-05-11T14:57:05		368							https://www.gov.uk/
-da11822e8fb4f18bfdb37b85292db069	Reguengos de Monsaraz	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-20b0f54a13f9bf5b41f56f6854ed5db0	Resende, Portugal	2020-05-12	2020-05-11T23:00:00		63							https://covid19.min-saude.pt/
-ba95c080214b958313cc058a79adac6d	Ribeira de Pena	2020-05-12	2020-05-11T23:00:00		3							https://covid19.min-saude.pt/
-26f119b27fa855bfa9627402a92d8800	Rio Grande do Norte	2020-05-12	2020-05-11T20:00:00	88	1928							https://covid.saude.gov.br/
-778a044eb6cc8228a4e4dc670db076cc	Rio Grande do Sul	2020-05-12	2020-05-11T20:00:00	97	2542							https://covid.saude.gov.br/
-9ec675a2e864742647d01b1af26001da	Rio Maior	2020-05-12	2020-05-11T23:00:00		16							https://covid19.min-saude.pt/
-9b07670df9270db4ad954e10a6f715d3	Rio de Janeiro (state)	2020-05-12	2020-05-11T20:00:00	1714	17062							https://covid.saude.gov.br/
-39ac65d43a019f4cc24c5106e9c9eb8c	Rogaland	2020-05-12	2020-05-11T11:00:00		436							https://www.fhi.no/
-9162839f935cb7f1245d978d53f3d9ce	Roraima	2020-05-12	2020-05-11T20:00:00	21	1290							https://covid.saude.gov.br/
-d4887f0676d4d1c350070bf6debbabfd	Royal Borough of Kensington and Chelsea	2020-05-12	2020-05-11T14:57:05		481							https://www.gov.uk/
-5feb168ca8fb495dcc89b1208cdeb919	Russia	2020-05-12	2020-05-11T07:35:00+0000	2009	221344	39801	5600000	179534	94	5495		https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-1629d36882f3179d9ac2d0a1579525e8	Rutland	2020-05-12	2020-05-11T14:57:05		26							https://www.gov.uk/
-5dc1fcf8bc0f3f7fbd4625d6c62d572c	Sabrosa	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-26a61be8eb8f5e69b82a64eb96c82d15	Salvaterra de Magos	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-ea6515eca27ae68c06c82e8cc2a6d318	Salzburg	2020-05-12	2020-05-11T20:00:00		133							https://info.gesundheitsministerium.at/
-b34c72f31d2f11ac34c0c76970ce6364	Salzburg (state)	2020-05-12	2020-05-11T20:00:00	36		1162		36				https://info.gesundheitsministerium.at/
-2b52c74ed9e9a00f0ec99fa5a719bad9	Sandwell	2020-05-12	2020-05-11T14:57:05		1110							https://www.gov.uk/
-0425e946a1bcb1bd65c3e73c56aa15da	Santa Catarina (state)	2020-05-12	2020-05-11T20:00:00	65	3429							https://covid.saude.gov.br/
-1610f326457f9ebb2aef7a5c9219e319	Santa Cruz, Madeira	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-e342c7a06e0c1250ddc923f512c560c6	Santa Maria da Feira	2020-05-12	2020-05-11T23:00:00		442							https://covid19.min-saude.pt/
-9acfc63159cc3f45ae2c363b662ca205	Santiago Metropolitan Region	2020-05-12	2020-05-11T04:00:00+0000	172	21317				6			https://www.minsal.cl/
-44c4b6d5560e1668ea968162ed4c39e8	Santo Tirso	2020-05-12	2020-05-11T23:00:00		372							https://covid19.min-saude.pt/
-a65ed8e2728a0d78b5367f59702e9320	Sardinia	2020-05-12		120	1343	712	34641	511				http://www.salute.gov.it/
-da5dd6f051ca74960ec199973cf8bf0f	Scotland	2020-05-12	2020-05-11T14:57:05	1857	13627							https://www.gov.uk/
-1bfcb82d42bbf1baffe6d2c6416af353	Seia	2020-05-12	2020-05-11T23:00:00		13							https://covid19.min-saude.pt/
-a92bf0c9cc963c0276ddeef6061c0a42	Seixal	2020-05-12	2020-05-11T23:00:00		191							https://covid19.min-saude.pt/
-2cf8a7de91057cc14a66a491524d3dfd	Sergipe	2020-05-12	2020-05-11T20:00:00	34	1771							https://covid.saude.gov.br/
-09569f019edff40f06658ee267d48ebb	Sernancelhe	2020-05-12	2020-05-11T23:00:00		6							https://covid19.min-saude.pt/
-e2658515ae5eec7efe099684ad795980	Serpa	2020-05-12	2020-05-11T23:00:00		15							https://covid19.min-saude.pt/
-97a73a870e48631e55b929aa6f05815d	Sesimbra	2020-05-12	2020-05-11T23:00:00		23							https://covid19.min-saude.pt/
-311b9b77447442d4be76f909f1c77209	Sever do Vouga	2020-05-12	2020-05-11T23:00:00		39							https://covid19.min-saude.pt/
-30d85fa7d563a95914f4d31958e9e3fa	Sheffield	2020-05-12	2020-05-11T14:57:05		2376							https://www.gov.uk/
-54ca3b35a43612f338b4364d6ac781ff	Shropshire	2020-05-12	2020-05-11T14:57:05		616							https://www.gov.uk/
-afc898fcdf7c8345694944b048c73746	Sicily	2020-05-12		257	3339	1020	103134	2062				http://www.salute.gov.it/
-e02be5b2676568af51c8367c0ea366e6	Siem Reap Province	2020-05-12	2020-05-12T07:00:00+0000		7							http://www.cdcmoh.gov.kh/
-8404c729af651364a7cf26b9467b3e3f	Silves, Portugal	2020-05-12	2020-05-11T23:00:00		21							https://covid19.min-saude.pt/
-458e4cbc78201c1aec5fc53a31c59378	Singapore	2020-05-12	2020-05-11T04:00:00+0000	21	23787	3225	175604	20541	1	504		https://www.moh.gov.sg/covid-19
-877df04b7bb600041f4ce7978061406e	Sintra	2020-05-12	2020-05-11T23:00:00		769							https://covid19.min-saude.pt/
-947b11dac8b758ce5d79f1bbeacf7a04	Slough	2020-05-12	2020-05-11T14:57:05		433							https://www.gov.uk/
-05b58b67166d2e5dd34e0b811df3454a	Somerset	2020-05-12	2020-05-11T14:57:05		571							https://www.gov.uk/
-fb16961ea082d104a56aaaa392fca6c4	Soure, Portugal	2020-05-12	2020-05-11T23:00:00		22							https://covid19.min-saude.pt/
-4525654750c36b10ddada1f8fd95da16	Souss-Massa	2020-05-12	2020-05-11T15:00:00+0000		71							http://www.covidmaroc.ma/
-f096bf992c2b5ca71e1ad76b76b277c8	South East England	2020-05-12	2020-05-11T14:57:05		19344							https://www.gov.uk/
-d25b0b8719d283638ef6f748d0b82ceb	South Tyneside	2020-05-12	2020-05-11T14:57:05		670							https://www.gov.uk/
-30d1a660dcaf4082b9f0a416f7edfed5	South Tyrol	2020-05-12		290	2572	1835	50019	447				http://www.salute.gov.it/
-127e7702479e3739dce8e92db82a7885	South West England	2020-05-12	2020-05-11T14:57:05		7044							https://www.gov.uk/
-5a884401673693b0bdf379fefb7ec2b2	Southampton	2020-05-12	2020-05-11T14:57:05		539							https://www.gov.uk/
-5eecca6b57cc3349725293829e7dff0a	Southend-on-Sea	2020-05-12	2020-05-11T14:57:05		340							https://www.gov.uk/
-132be056aa9650b194261fe7a272135c	Staffordshire	2020-05-12	2020-05-11T14:57:05		1979							https://www.gov.uk/
-131130c9120de7d00df0bba87f93005e	Steyr	2020-05-12	2020-05-11T20:00:00		61							https://info.gesundheitsministerium.at/
-cb17153656c01858896be179abd25e38	Styria	2020-05-12	2020-05-11T20:00:00	126		1423		251				https://info.gesundheitsministerium.at/
-5b8131b653f22a029caafb19feb21cd0	Suffolk	2020-05-12	2020-05-11T14:57:05		1290							https://www.gov.uk/
-f1f8cb000a78018601da3da6d0327057	Surrey	2020-05-12	2020-05-11T14:57:05		2759							https://www.gov.uk/
-3ad08396dc5afa78f34f548eea3c1d64	Switzerland	2020-05-12	2020-05-11T11:43:19	1537	30222	26800						https://www.ecdc.europa.eu/
-0a62ef4f27437f774e33be7254c08717	Tameside	2020-05-12	2020-05-11T14:57:05		549							https://www.gov.uk/
-d7a55ccf43d41e61fd22ee9f0548a8cf	Tamil Nadu	2020-05-12	2020-05-11T08:00:00	47	7204	1959			3	135		https://www.mohfw.gov.in/
-eb04791608c94057599f2bfb1327cdd5	Tanger-Tetouan-Al Hoceima	2020-05-12	2020-05-11T15:00:00+0000		902							http://www.covidmaroc.ma/
-fb699e1804db4f9e5f235802844708ec	Taranaki	2020-05-12	2020-05-12T01:00:00+0000		16	16		0		0		https://www.health.govt.nz/
-2d26716b97ba8660c24b92323c0013ed	Tavira	2020-05-12	2020-05-11T23:00:00		30							https://covid19.min-saude.pt/
-868b91a1ca93abad4cca9092b9f478c9	Tboung Khmum Province	2020-05-12	2020-05-12T07:00:00+0000		4							http://www.cdcmoh.gov.kh/
-387589377125beb163bf2d65e5f3212d	Telangana	2020-05-12	2020-05-11T08:00:00	30	1196	750			0	0		https://www.mohfw.gov.in/
-977869ed478cfe79c361bdd12c46e60f	Telford and Wrekin	2020-05-12	2020-05-11T14:57:05		311							https://www.gov.uk/
-e9ebcb2b23b7c18c27b2810b85e495cc	Terras de Bouro	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-528453ab78f39d048df5b265bcc7e4c2	Thurrock	2020-05-12	2020-05-11T14:57:05		300							https://www.gov.uk/
-79407c896de6ce9640499572e6e01b6c	Tocantins	2020-05-12	2020-05-11T20:00:00	11	688							https://covid.saude.gov.br/
-0daf92c77ff149327ca2d8a43922ff41	Tomar	2020-05-12	2020-05-11T23:00:00		11							https://covid19.min-saude.pt/
-02e8e98bcc125f51be37b97ab1facb26	Tondela	2020-05-12	2020-05-11T23:00:00		13							https://covid19.min-saude.pt/
-f9ab5979e801ffb274a21298e3822dfc	Torbay	2020-05-12	2020-05-11T14:57:05		210							https://www.gov.uk/
-89578e2b7e9c0dbddb7ff7c375250cc8	Torre de Moncorvo	2020-05-12	2020-05-11T23:00:00		23							https://covid19.min-saude.pt/
-006d79e2e56c7e9add4a7c8214fb1dff	Torres Novas	2020-05-12	2020-05-11T23:00:00		13							https://covid19.min-saude.pt/
-3d6c9da986fc2b07145f900a7f28e5ed	Torres Vedras	2020-05-12	2020-05-11T23:00:00		31							https://covid19.min-saude.pt/
-9c01415166cb80bd49d1dcb3b484b628	Trafford	2020-05-12	2020-05-11T14:57:05		687							https://www.gov.uk/
-a3e77ef9e01fb89859705824d08a085b	Trancoso, Portugal	2020-05-12	2020-05-11T23:00:00		18							https://covid19.min-saude.pt/
-0269dae753688f767813897dbe8be9f4	Trentino	2020-05-12		443	4297	3119	53398	735				http://www.salute.gov.it/
-0bad206b82a2c718af4332280419b104	Tripura	2020-05-12	2020-05-11T08:00:00	0	150	2			0	0		https://www.mohfw.gov.in/
-65b9cf579750548f0cc5c8b8bf19152d	Trofa	2020-05-12	2020-05-11T23:00:00		142							https://covid19.min-saude.pt/
-fad2545abc5d025ba7b7fd6ed1183b1a	Troms og Finnmark	2020-05-12	2020-05-11T11:00:00		251							https://www.fhi.no/
-221cdfb73049678e244380b45872cbb2	Turkey	2020-05-12		3841	139771	95780	1403320					https://covid19.saglik.gov.tr/
-b6111b6a101e80da31bd9fc31655164b	Tuscany	2020-05-12		950	9787	4764	179469	4073				http://www.salute.gov.it/
-5cf93865db09f6ff3855ef7334b97c8c	Tyrol (state)	2020-05-12	2020-05-11T20:00:00	100		3317		99				https://info.gesundheitsministerium.at/
-b957bf1ae46a4ab812f3bbd9af464aaa	Umbria	2020-05-12		71	1412	1233	47474	108				http://www.salute.gov.it/
-edab6ab6fad43f4911b41103922c3e9e	United Arab Emirates	2020-05-12		201	18878	5381						https://covid19.ncema.gov.ae/
-6922c2d0821afd8e14c746ab9e6ea2df	Upper Austria	2020-05-12	2020-05-11T20:00:00	53		2169		42				https://info.gesundheitsministerium.at/
-a21c1873af3dbc01c143b6e3f38e9fa9	Uttar Pradesh	2020-05-12	2020-05-11T08:00:00	74	3467	1653			0	154		https://www.mohfw.gov.in/
-62cfab1d81df1897ffaae3094403483e	Uttarakhand	2020-05-12	2020-05-11T08:00:00	1	68	46			0	0		https://www.mohfw.gov.in/
-2e141761a4c1645ee35646ad13a8e8ad	Vagos	2020-05-12	2020-05-11T23:00:00		20							https://covid19.min-saude.pt/
-2d5485a448277a0ea4191655d32856fc	Vale de Cambra	2020-05-12	2020-05-11T23:00:00		150							https://covid19.min-saude.pt/
-565112b67275c9c8b14725d9af9c93b8	Valongo	2020-05-12	2020-05-11T23:00:00		737							https://covid19.min-saude.pt/
-013814c582f2e04ebcbd8be835b981d1	Vaud	2020-05-12	2020-05-11T22:00:00+0000	389	5375				0			https://www.bag.admin.ch/
-5a1fc5920c6b31e7f78e5a5ffb886c4e	Velas	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-1b277a671d67328348024f35fb78ab0b	Vendas Novas	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-6f62c119eb74408b76b9b32e53b38cf5	Veneto	2020-05-12		1666	18741	11615	445905	5460				http://www.salute.gov.it/
-90edf9dddf944355ac5949ee9f1280d9	Vestfold og Telemark	2020-05-12	2020-05-11T11:00:00		279							https://www.fhi.no/
-07f393ec4e3709f2bf27dbddb00f91da	Vestland	2020-05-12	2020-05-11T11:00:00		877							https://www.fhi.no/
-df12fd45bef1cc8ef2a5c024732fc053	Viana do Castelo	2020-05-12	2020-05-11T23:00:00		174							https://covid19.min-saude.pt/
-314cab8c7190da60a6daf6e1130eec6d	Vieira do Minho	2020-05-12	2020-05-11T23:00:00		34							https://covid19.min-saude.pt/
-601f9226a92f0a314068aa4395f65528	Vienna	2020-05-12	2020-05-11T20:00:00	144		2061		520				https://info.gesundheitsministerium.at/
-fdef6daa799e80dbce1b561577b21181	Vietnam	2020-05-12		0	288	249						https://ncov.moh.gov.vn/
-98f327c93c75d82d34a6925667b09faa	Viken (county)	2020-05-12	2020-05-11T11:00:00		2180							https://www.fhi.no/
-c48647bcaf4f133bd350439d9e3be598	Vila Flor	2020-05-12	2020-05-11T23:00:00		3							https://covid19.min-saude.pt/
-aa66c9df0f1e1d0134fef25558279469	Vila Franca de Xira	2020-05-12	2020-05-11T23:00:00		258							https://covid19.min-saude.pt/
-f17eff1383b377aec3f42176685722af	Vila Nova de Cerveira	2020-05-12	2020-05-11T23:00:00		7							https://covid19.min-saude.pt/
-d7ed8f777bbfbe2f925cc2a1b8aa75fa	Vila Nova de Gaia	2020-05-12	2020-05-11T23:00:00		1455							https://covid19.min-saude.pt/
-ea123160d66381bd0633603d958ec5cd	Vila Nova de Poiares	2020-05-12	2020-05-11T23:00:00		5							https://covid19.min-saude.pt/
-7d2e1608742d4b444e6247bb836f0fad	Vila Pouca de Aguiar	2020-05-12	2020-05-11T23:00:00		4							https://covid19.min-saude.pt/
-0afbd58d502de69b6257219fd6a3379a	Vila Real	2020-05-12	2020-05-11T23:00:00		150							https://covid19.min-saude.pt/
-8eae3647839830b03b86b78dbd9f0d28	Vila Verde	2020-05-12	2020-05-11T23:00:00		214							https://covid19.min-saude.pt/
-8ab1d506d077612775fa51a505fd294c	Vila do Conde	2020-05-12	2020-05-11T23:00:00		279							https://covid19.min-saude.pt/
-0d630f309cd8eaead4c6693378f162fb	Villach	2020-05-12	2020-05-11T20:00:00		22							https://info.gesundheitsministerium.at/
-cfd4083d01fb575e2617600e5c960c03	Vimioso	2020-05-12	2020-05-11T23:00:00		10							https://covid19.min-saude.pt/
-fc1abb2a118bf7a446b3de7c9b7079ab	Vinhais	2020-05-12	2020-05-11T23:00:00		28							https://covid19.min-saude.pt/
-b9eb0a0f55609d4268bd234ade81564d	Viseu	2020-05-12	2020-05-11T23:00:00		99							https://covid19.min-saude.pt/
-bbba6910ddd9359d2d4458593a16a1d7	Vizela	2020-05-12	2020-05-11T23:00:00		101							https://covid19.min-saude.pt/
-6c26d83c5622aa697d39a9ca0aaff52b	Vorarlberg	2020-05-12	2020-05-11T20:00:00	18		839		27				https://info.gesundheitsministerium.at/
-ec05171b4c22e1a99d5c9dab86cbbf48	Vouzela	2020-05-12	2020-05-11T23:00:00		8							https://covid19.min-saude.pt/
-a7d56e7c5c4b6ffca4e9fda8eb9f8ebe	Waidhofen an der Ybbs	2020-05-12	2020-05-11T20:00:00		24							https://info.gesundheitsministerium.at/
-d8afff57191b68b3b4f4c3d1099fc276	Waikato	2020-05-12	2020-05-11T01:00:00+0000	1	188	174		15	0	4		https://www.health.govt.nz/
-e612e56ca0235a349cffa8331d8a6ad7	Wales	2020-05-12	2020-05-11T14:57:05	1116	11468							https://www.gov.uk/
-16a8b415178bce64a2ea1a2eaf0d7918	Warrington	2020-05-12	2020-05-11T14:57:05		683							https://www.gov.uk/
-ae9b6456ea4139426edac7c3a6573a30	Warwickshire	2020-05-12	2020-05-11T14:57:05		1317							https://www.gov.uk/
-7d9d5414c5269ec416701a2fdbe2c9b6	Wels	2020-05-12	2020-05-11T20:00:00		58							https://info.gesundheitsministerium.at/
-be5bf577e4f25ca3525e0ddd4c3e3688	West Bengal	2020-05-12	2020-05-11T08:00:00	185	1939	417			14	45		https://www.mohfw.gov.in/
-0b59dfc2595c191d1745bdbe4ff230eb	West Berkshire	2020-05-12	2020-05-11T14:57:05		344							https://www.gov.uk/
-faaf89538aebf477c534aa4dbe32dc4f	West Coast, New Zealand	2020-05-12	2020-05-11T01:00:00+0000	1	5	4		0	0	0		https://www.health.govt.nz/
-e8bd565ab45209a6aadd3020a43e51c0	West Midlands (region)	2020-05-12	2020-05-11T14:57:05		15000							https://www.gov.uk/
-237a512c96c94c6aabe9291771e2adc6	West Sussex	2020-05-12	2020-05-11T14:57:05		1230							https://www.gov.uk/
-c1a6b42d892795a2406030ea4a3845c5	Whanganui	2020-05-12	2020-05-12T01:00:00+0000		9	9		0		0		https://www.health.govt.nz/
-c9f34b8f7517e3fa1dd80650bfdcb12c	Wiener Neustadt	2020-05-12	2020-05-11T20:00:00		53							https://info.gesundheitsministerium.at/
-bb51307f831e4afcd50e4cc80bc88086	Wiltshire	2020-05-12	2020-05-11T14:57:05		491							https://www.gov.uk/
-c01eda48462473081244a311ab45447c	Wolverhampton	2020-05-12	2020-05-11T14:57:05		938							https://www.gov.uk/
-793c90afab8ac3c7d25a37c6c9a09f90	Worcestershire	2020-05-12	2020-05-11T14:57:05		1266							https://www.gov.uk/
-d6f148df6bf665a69e08bdda1e141906	York	2020-05-12	2020-05-11T14:57:05		402							https://www.gov.uk/
-41ba2469b9f3765260373b2f85071ff1	Yorkshire and the Humber	2020-05-12	2020-05-11T14:57:05		12366							https://www.gov.uk/
+regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+%C3%81gueda	Águeda	2020-05-12	2020-05-11T23:00:00		57			0			0			0.29		https://covid19.min-saude.pt/
+%C3%89vora	Évora	2020-05-12	2020-05-11T23:00:00		23			0			-1			0.57		https://covid19.min-saude.pt/
+%C3%8Dlhavo	Ílhavo	2020-05-12	2020-05-11T23:00:00		112			0			0			0.14		https://covid19.min-saude.pt/
+Abrantes	Abrantes	2020-05-12	2020-05-11T23:00:00		8			0			0			0.14		https://covid19.min-saude.pt/
+Abruzzo	Abruzzo	2020-05-12		366	3107	1132	48903				4		4.43	11.71	35.86	http://www.salute.gov.it/
+Acre_(state)	Acre (state)	2020-05-12	2020-05-11T20:00:00	41	1447								1.86	102.0		https://covid.saude.gov.br/
+Adygea	Adygea	2020-05-12	2020-05-11T07:35:00+0000	7	241	173		17	0	0	13	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Agder	Agder	2020-05-12	2020-05-11T11:00:00		335									0.43		https://www.fhi.no/
+Akmola_Region	Akmola Region	2020-05-12		4	110	91										https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2020-05-12			176	54										https://www.coronavirus2020.kz/
+Alagoas	Alagoas	2020-05-12	2020-05-11T20:00:00	126	2258								7.71	102.86		https://covid.saude.gov.br/
+Albergaria-a-Velha	Albergaria-a-Velha	2020-05-12	2020-05-11T23:00:00		87			0			0			0.57		https://covid19.min-saude.pt/
+Albufeira	Albufeira	2020-05-12	2020-05-11T23:00:00		74			0			-1			0.57		https://covid19.min-saude.pt/
+Alcanena	Alcanena	2020-05-12	2020-05-11T23:00:00		8			0			0					https://covid19.min-saude.pt/
+Alcochete	Alcochete	2020-05-12	2020-05-11T23:00:00		16			0			0					https://covid19.min-saude.pt/
+Alenquer,_Portugal	Alenquer, Portugal	2020-05-12	2020-05-11T23:00:00		39			0			0			2.29		https://covid19.min-saude.pt/
+Almada	Almada	2020-05-12	2020-05-11T23:00:00		273			0			-3			3.71		https://covid19.min-saude.pt/
+Almaty	Almaty	2020-05-12		9	1593	456										https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2020-05-12			183	87										https://www.coronavirus2020.kz/
+Almeida,_Portugal	Almeida, Portugal	2020-05-12	2020-05-11T23:00:00		4			0			0					https://covid19.min-saude.pt/
+Almeirim	Almeirim	2020-05-12	2020-05-11T23:00:00		15			0			0			0.29		https://covid19.min-saude.pt/
+Altai_Krai	Altai Krai	2020-05-12	2020-05-11T07:35:00+0000	3	707	224		38	0	20	10	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Altai_Republic	Altai Republic	2020-05-12	2020-05-11T07:35:00+0000	0	54	18		2	0	1	1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Amadora	Amadora	2020-05-12	2020-05-11T23:00:00		448			0			-17			11.43		https://covid19.min-saude.pt/
+Amarante,_Portugal	Amarante, Portugal	2020-05-12	2020-05-11T23:00:00		92			0			-1			0.86		https://covid19.min-saude.pt/
+Amares	Amares	2020-05-12	2020-05-11T23:00:00		68			0			0			2.43		https://covid19.min-saude.pt/
+Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-05-12	2020-05-11T20:00:00	1004	12599								60.0	765.29		https://covid.saude.gov.br/
+Amstetten_District	Amstetten District	2020-05-12	2020-05-11T20:00:00		297									0.14		https://info.gesundheitsministerium.at/
+Amur_Oblast	Amur Oblast	2020-05-12	2020-05-11T07:35:00+0000	1	152	24		12	0	0	7	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Anadia,_Portugal	Anadia, Portugal	2020-05-12	2020-05-11T23:00:00		40			0			0					https://covid19.min-saude.pt/
+Andaman_and_Nicobar_Islands	Andaman and Nicobar Islands	2020-05-12	2020-05-11T08:00:00	0	33	33		0	0	0	0	0			0.14	https://www.mohfw.gov.in/
+Andhra_Pradesh	Andhra Pradesh	2020-05-12	2020-05-11T08:00:00	45	1980	925		50	1	38	7	-2	1.29	47.14	57.29	https://www.mohfw.gov.in/
+Antofagasta_Region	Antofagasta Region	2020-05-12	2020-05-11T04:00:00+0000	10	1014			36	0		5	0	0.43	36.29		https://www.minsal.cl/
+Aosta_Valley	Aosta Valley	2020-05-12		139	1158	912	10063				1			2.14	2.57	http://www.salute.gov.it/
+Apulia	Apulia	2020-05-12		451	4327	1332	79737				14		2.57	22.43	76.29	http://www.salute.gov.it/
+Arcos_de_Valdevez	Arcos de Valdevez	2020-05-12	2020-05-11T23:00:00		68			0			0			0.57		https://covid19.min-saude.pt/
+Arganil	Arganil	2020-05-12	2020-05-11T23:00:00		8			0			0			0.14		https://covid19.min-saude.pt/
+Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-12	2020-05-11T04:00:00+0000	7	351			11	1		8	1	0.43	6.14		https://www.minsal.cl/
+Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	3	457	163		32	0	7	7	-2				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Arouca,_Portugal	Arouca, Portugal	2020-05-12	2020-05-11T23:00:00		37			0			0			0.29		https://covid19.min-saude.pt/
+Arruda_dos_Vinhos	Arruda dos Vinhos	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Arunachal_Pradesh	Arunachal Pradesh	2020-05-12	2020-05-11T08:00:00	0	1	1		0	0	0	0	0				https://www.mohfw.gov.in/
+Assam	Assam	2020-05-12	2020-05-11T08:00:00	2	63	34		0	0	0	-4	-1	0.14	2.86	0.29	https://www.mohfw.gov.in/
+Astrakhan_Oblast	Astrakhan Oblast	2020-05-12	2020-05-11T07:35:00+0000	6	764	181		33	0	4	-25	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Atacama_Region	Atacama Region	2020-05-12	2020-05-11T04:00:00+0000	0	133			9	0		2	0		9.0		https://www.minsal.cl/
+Atyrau_Region	Atyrau Region	2020-05-12			323	121										https://www.coronavirus2020.kz/
+Auckland_Region	Auckland Region	2020-05-12	2020-05-12T01:00:00+0000		179	169		1		7	1			0.14	2.43	https://www.health.govt.nz/
+Austria	Austria	2020-05-12	2020-05-11T20:00:00	591	15874	14061	319484						2.14	41.14	85.57	https://info.gesundheitsministerium.at/
+Aveiro,_Portugal	Aveiro, Portugal	2020-05-12	2020-05-11T23:00:00		308			0			0			1.14		https://covid19.min-saude.pt/
+Azambuja	Azambuja	2020-05-12	2020-05-11T23:00:00		48			0			-1			3.57		https://covid19.min-saude.pt/
+Baden_District,_Austria	Baden District, Austria	2020-05-12	2020-05-11T20:00:00		146									1.0		https://info.gesundheitsministerium.at/
+Bahia	Bahia	2020-05-12	2020-05-11T20:00:00	202	5558								8.71	260.57		https://covid.saude.gov.br/
+Bahrain	Bahrain	2020-05-12	2020-05-12	8	5236	2152	190780	79	0	0	-222	0		216.57	55.71	https://www.moh.gov.bh/COVID19
+Banteay_Meanchey_Province	Banteay Meanchey Province	2020-05-12	2020-05-12T07:00:00+0000		4			0			0					http://www.cdcmoh.gov.kh/
+Barcelos,_Portugal	Barcelos, Portugal	2020-05-12	2020-05-11T23:00:00		279			0			-1			7.71		https://covid19.min-saude.pt/
+Barreiro,_Portugal	Barreiro, Portugal	2020-05-12	2020-05-11T23:00:00		141			0			-3			4.57		https://covid19.min-saude.pt/
+Bashkortostan	Bashkortostan	2020-05-12	2020-05-11T07:35:00+0000	15	1567	435		76	0	0	1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2020-05-12		27	386	217	18266				1		0.29	-1.43	3.29	http://www.salute.gov.it/
+Batalha,_Portugal	Batalha, Portugal	2020-05-12	2020-05-11T23:00:00		4			0			0					https://covid19.min-saude.pt/
+Bath_and_North_East_Somerset	Bath and North East Somerset	2020-05-12	2020-05-11T14:57:05		223									0.6		https://www.gov.uk/
+Battambang_Province	Battambang Province	2020-05-12	2020-05-12T07:00:00+0000		8			0			0					http://www.cdcmoh.gov.kh/
+Bay_of_Plenty	Bay of Plenty	2020-05-12	2020-05-12T01:00:00+0000		47	47		0		0	0				1.0	https://www.health.govt.nz/
+Belarus	Belarus	2020-05-12	2020-05-11T03:00:00+0000	135	23906	6531	274060						4.0	793.71	394.29	http://stopcovid.belta.by/
+Belgium	Belgium	2020-05-12	2020-05-10T00:00:00	8707	53449								98.71	420.0		https://epistat.wiv-isp.be/Covid/
+Belgorod_Oblast	Belgorod Oblast	2020-05-12	2020-05-11T07:35:00+0000	6	798	208		91	0	0	43	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Benavente,_Portugal	Benavente, Portugal	2020-05-12	2020-05-11T23:00:00		28			0			0					https://covid19.min-saude.pt/
+Bihar	Bihar	2020-05-12	2020-05-11T08:00:00	6	696	365		105	1	43	85	1	0.29	25.57	34.29	https://www.mohfw.gov.in/
+Birmingham	Birmingham	2020-05-12	2020-05-11T14:57:05		3125									14.38		https://www.gov.uk/
+Blackpool	Blackpool	2020-05-12	2020-05-11T14:57:05		508									2.0		https://www.gov.uk/
+Bludenz_District	Bludenz District	2020-05-12	2020-05-11T20:00:00		254									0.29		https://info.gesundheitsministerium.at/
+Bombarral	Bombarral	2020-05-12	2020-05-11T23:00:00		4			0			0			0.14		https://covid19.min-saude.pt/
+Borough_of_Bedford	Borough of Bedford	2020-05-12	2020-05-11T14:57:05		504									1.27		https://www.gov.uk/
+Borough_of_Darlington	Borough of Darlington	2020-05-12	2020-05-11T14:57:05		330									1.29		https://www.gov.uk/
+Borough_of_Halton	Borough of Halton	2020-05-12	2020-05-11T14:57:05		347									1.13		https://www.gov.uk/
+Borough_of_Milton_Keynes	Borough of Milton Keynes	2020-05-12	2020-05-11T14:57:05		497									1.44		https://www.gov.uk/
+Borough_of_Swindon	Borough of Swindon	2020-05-12	2020-05-11T14:57:05		410									2.14		https://www.gov.uk/
+Bracknell_Forest	Bracknell Forest	2020-05-12	2020-05-11T14:57:05		231									0.56		https://www.gov.uk/
+Braga	Braga	2020-05-12	2020-05-11T23:00:00		1152			0			-3			5.57		https://covid19.min-saude.pt/
+Braunau_am_Inn_District	Braunau am Inn District	2020-05-12	2020-05-11T20:00:00		127											https://info.gesundheitsministerium.at/
+Brazil	Brazil	2020-05-12	2020-05-11T19:53:00	11519	168331	67384							514.0	7659.43		https://covid.saude.gov.br/
+Brighton_and_Hove	Brighton and Hove	2020-05-12	2020-05-11T14:57:05		400									1.67		https://www.gov.uk/
+Bristol	Bristol	2020-05-12	2020-05-11T14:57:05		672									2.57		https://www.gov.uk/
+Brittany_(administrative_region)	Brittany (administrative region)	2020-05-12		230		942							1.14		8.43	https://www.santepubliquefrance.fr/
+Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-05-12	2020-05-11T20:00:00		89									1.29		https://info.gesundheitsministerium.at/
+Bryansk_Oblast	Bryansk Oblast	2020-05-12	2020-05-11T07:35:00+0000	22	1678	536		73	5	36	5	5				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Buckinghamshire	Buckinghamshire	2020-05-12	2020-05-11T14:57:05		890									1.88		https://www.gov.uk/
+Burgenland	Burgenland	2020-05-12	2020-05-11T20:00:00	11		283									3.14	https://info.gesundheitsministerium.at/
+Buryatia	Buryatia	2020-05-12	2020-05-11T07:35:00+0000	5	620	188		50	0	11	28	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Cabeceiras_de_Basto	Cabeceiras de Basto	2020-05-12	2020-05-11T23:00:00		15			0			0			-0.14		https://covid19.min-saude.pt/
+Cadaval	Cadaval	2020-05-12	2020-05-11T23:00:00		7			0			-1			0.29		https://covid19.min-saude.pt/
+Calabria	Calabria	2020-05-12		93	1134	473	47265				2		0.71	2.14	13.14	http://www.salute.gov.it/
+Caldas_da_Rainha	Caldas da Rainha	2020-05-12	2020-05-11T23:00:00		24			0			0			0.71		https://covid19.min-saude.pt/
+Calderdale	Calderdale	2020-05-12	2020-05-11T14:57:05		274									1.64		https://www.gov.uk/
+Calheta,_Madeira	Calheta, Madeira	2020-05-12	2020-05-11T23:00:00		4			0			0			-0.1		https://covid19.min-saude.pt/
+Cambodia	Cambodia	2020-05-12	2020-05-12T07:00:00+0000	0	122	121		0	0	1	0	0			0.14	http://www.cdcmoh.gov.kh/
+Caminha	Caminha	2020-05-12	2020-05-11T23:00:00		16			0			0					https://covid19.min-saude.pt/
+Campania	Campania	2020-05-12		392	4602	2301	119042				14		3.29	12.0	97.43	http://www.salute.gov.it/
+Cantanhede,_Portugal	Cantanhede, Portugal	2020-05-12	2020-05-11T23:00:00		64			0			0			0.29		https://covid19.min-saude.pt/
+Canton_of_Aargau	Canton of Aargau	2020-05-12	2020-05-10T22:00:00+0000	38	1163			14	1		14	1	0.29	4.29		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-05-12	2020-05-11T22:00:00+0000	3	98			1	0		1	0		0.14		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-05-12	2020-05-11T22:00:00+0000	0	25			0	0		0	0				https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-05-12	2020-05-11T22:00:00+0000	34	836			0	0		-1	0	0.29	1.14		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-05-12	2020-05-11T22:00:00+0000	50	970			4	0		4	0		1.71		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2020-05-12	2020-05-10T22:00:00+0000	92	1835			3	0		-4	0	0.29	5.57		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2020-05-12	2020-05-10T22:00:00+0000	83	1129			3	0		-2	-1	0.57	3.86		https://www.bag.admin.ch/
+Canton_of_Geneva	Canton of Geneva	2020-05-12	2020-05-11T22:00:00+0000	267	4976			5	7		5	7	2.0	3.86		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2020-05-12	2020-05-10T22:00:00+0000	12	127			2	0		2	0		0.71		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2020-05-12	2020-05-11T22:00:00+0000	45	820			2	0		2	0		0.43		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2020-05-12	2020-05-10T22:00:00+0000	7	202			0	0		0	0		0.57		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2020-05-12	2020-05-10T22:00:00+0000	19	713			0	0		0	0	0.14	1.14		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2020-05-12	2020-05-10T22:00:00+0000	3	117			2	0		2	0		0.57		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2020-05-12	2020-05-10T22:00:00+0000	0	79			0	0		0	0				https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2020-05-12	2020-05-10T22:00:00+0000	6	78			2	0		2	0		0.43		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2020-05-12	2020-05-11T22:00:00+0000	23	306			0	0		0	0	0.29	0.14		https://www.bag.admin.ch/
+Canton_of_Solothurn	Canton of Solothurn	2020-05-12	2020-05-10T22:00:00+0000	15	420			13	0		13	0		2.86		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2020-05-12	2020-05-10T22:00:00+0000	36	801			3	1		3	1	0.43	1.14		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2020-05-12	2020-05-11T22:00:00+0000	17	376			2	0		2	0		0.57		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2020-05-12	2020-05-10T22:00:00+0000	340	3268			3	0		-2	-2	2.0	4.29		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2020-05-12	2020-05-11T22:00:00+0000	7	92			0	0		0	0	0.14	0.14		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2020-05-12	2020-05-11T22:00:00+0000	148	1910			5	2		5	2	1.0	4.0		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2020-05-12	2020-05-11T22:00:00+0000	8	193			1	0		1	0		0.43		https://www.bag.admin.ch/
+Carinthia	Carinthia	2020-05-12	2020-05-11T20:00:00	13		389									0.86	https://info.gesundheitsministerium.at/
+Carregal_do_Sal	Carregal do Sal	2020-05-12	2020-05-11T23:00:00		11			0			0					https://covid19.min-saude.pt/
+Cartaxo	Cartaxo	2020-05-12	2020-05-11T23:00:00		46			0			-1			1.29		https://covid19.min-saude.pt/
+Casablanca-Settat	Casablanca-Settat	2020-05-12	2020-05-11T15:00:00+0000		1732									52.67		http://www.covidmaroc.ma/
+Cascais	Cascais	2020-05-12	2020-05-11T23:00:00		442			0			-3			13.14		https://covid19.min-saude.pt/
+Castelo_Branco,_Portugal	Castelo Branco, Portugal	2020-05-12	2020-05-11T23:00:00		5			0			0					https://covid19.min-saude.pt/
+Castelo_de_Paiva	Castelo de Paiva	2020-05-12	2020-05-11T23:00:00		17			0			-1			0.43		https://covid19.min-saude.pt/
+Castro_Daire	Castro Daire	2020-05-12	2020-05-11T23:00:00		104			0			0					https://covid19.min-saude.pt/
+Castro_Marim	Castro Marim	2020-05-12	2020-05-11T23:00:00		3			0			0					https://covid19.min-saude.pt/
+Celorico_da_Beira	Celorico da Beira	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Celorico_de_Basto	Celorico de Basto	2020-05-12	2020-05-11T23:00:00		22			0			0			0.57		https://covid19.min-saude.pt/
+Centre-Val_de_Loire	Centre-Val de Loire	2020-05-12		449		1448							4.0		20.57	https://www.santepubliquefrance.fr/
+Chamusca	Chamusca	2020-05-12	2020-05-11T23:00:00		9			0			0					https://covid19.min-saude.pt/
+Chandigarh	Chandigarh	2020-05-12	2020-05-11T08:00:00	2	169	24		0	0	0	-19	-1	0.29	10.71	0.71	https://www.mohfw.gov.in/
+Chaves,_Portugal	Chaves, Portugal	2020-05-12	2020-05-11T23:00:00		26			0			0					https://covid19.min-saude.pt/
+Chechnya	Chechnya	2020-05-12	2020-05-11T07:35:00+0000	8	787	445		28	0	23	2	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	4	1118	263		77	0	14	-13	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Cheshire_West_and_Chester	Cheshire West and Chester	2020-05-12	2020-05-11T14:57:05		927									4.57		https://www.gov.uk/
+Chhattisgarh	Chhattisgarh	2020-05-12	2020-05-11T08:00:00	0	59	49		0	0	6	0	0		0.29	1.86	https://www.mohfw.gov.in/
+Chile	Chile	2020-05-12	2020-05-11T04:00:00+0000	323	30063	13605	294057						6.86	1149.57	413.57	https://www.minsal.cl/
+Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-05-12	2020-05-11T07:35:00+0000	0	31	11		1	0	0	-1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chuvashia	Chuvashia	2020-05-12	2020-05-11T07:35:00+0000	8	1220	255		76	0	50	13	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+City_of_Bradford	City of Bradford	2020-05-12	2020-05-11T14:57:05		1112									10.71		https://www.gov.uk/
+City_of_Leeds	City of Leeds	2020-05-12	2020-05-11T14:57:05		1640									10.71		https://www.gov.uk/
+City_of_London	City of London	2020-05-12	2020-05-11T14:57:05		16									0.14		https://www.gov.uk/
+City_of_Salford	City of Salford	2020-05-12	2020-05-11T14:57:05		866									2.88		https://www.gov.uk/
+City_of_Sunderland	City of Sunderland	2020-05-12	2020-05-11T14:57:05		1324									8.86		https://www.gov.uk/
+City_of_Wakefield	City of Wakefield	2020-05-12	2020-05-11T14:57:05		634									5.86		https://www.gov.uk/
+City_of_Westminster	City of Westminster	2020-05-12	2020-05-11T14:57:05		639									0.63		https://www.gov.uk/
+Coimbra	Coimbra	2020-05-12	2020-05-11T23:00:00		561			0			0			7.57		https://covid19.min-saude.pt/
+Condeixa-a-Nova	Condeixa-a-Nova	2020-05-12	2020-05-11T23:00:00		143			0			0			1.14		https://covid19.min-saude.pt/
+Coquimbo_Region	Coquimbo Region	2020-05-12	2020-05-11T04:00:00+0000	1	140			5	0		-1	-1	0.14	7.0		https://www.minsal.cl/
+Cornwall	Cornwall	2020-05-12	2020-05-11T14:57:05		547									2.57		https://www.gov.uk/
+Corsica	Corsica	2020-05-12		52		199							0.14		0.71	https://www.santepubliquefrance.fr/
+Coruche	Coruche	2020-05-12	2020-05-11T23:00:00		37			0			0			0.43		https://covid19.min-saude.pt/
+County_Durham	County Durham	2020-05-12	2020-05-11T14:57:05		1698									8.86		https://www.gov.uk/
+Coventry	Coventry	2020-05-12	2020-05-11T14:57:05		761									3.43		https://www.gov.uk/
+Cuba,_Portugal	Cuba, Portugal	2020-05-12	2020-05-11T23:00:00		4			0			0			0.14		https://covid19.min-saude.pt/
+Cumbria	Cumbria	2020-05-12	2020-05-11T14:57:05		2115									10.75		https://www.gov.uk/
+Czech_Republic	Czech Republic	2020-05-12	2020-05-11T22:30:00+0000	282	8176	4711	306409						4.0	42.57	101.71	https://onemocneni-aktualne.mzcr.cz/
+Da_Nang	Da Nang	2020-05-12		0	6	6										https://ncov.moh.gov.vn/
+Dagestan	Dagestan	2020-05-12	2020-05-11T07:35:00+0000	20	2772	968		119	2	196	26	2				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Dakhla-Oued_Ed-Dahab	Dakhla-Oued Ed-Dahab	2020-05-12	2020-05-11T15:00:00+0000		2											http://www.covidmaroc.ma/
+Delhi	Delhi	2020-05-12	2020-05-11T08:00:00	73	6923	2069		381	0	49	157	-5	1.29	339.14	101.0	https://www.mohfw.gov.in/
+Denmark	Denmark	2020-05-12	2020-05-11T12:00:00+0000	533	10513	8328	326560						5.71	98.86	177.14	https://www.sst.dk/
+Derby	Derby	2020-05-12	2020-05-11T14:57:05		526									1.33		https://www.gov.uk/
+Derbyshire	Derbyshire	2020-05-12	2020-05-11T14:57:05		1455									7.43		https://www.gov.uk/
+Deutschlandsberg_District	Deutschlandsberg District	2020-05-12	2020-05-11T20:00:00		48											https://info.gesundheitsministerium.at/
+Devon	Devon	2020-05-12	2020-05-11T14:57:05		776									2.86		https://www.gov.uk/
+Dornbirn_District	Dornbirn District	2020-05-12	2020-05-11T20:00:00		152									0.14		https://info.gesundheitsministerium.at/
+Dorset	Dorset	2020-05-12	2020-05-11T14:57:05		347									0.63		https://www.gov.uk/
+Earth	Earth	2020-05-12	2020-05-12T04:39:59.261	284509	4119527								4102.43	72841.71	36991.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Kazakhstan_Region	East Kazakhstan Region	2020-05-12		1	51	14										https://www.coronavirus2020.kz/
+East_Midlands	East Midlands	2020-05-12	2020-05-11T14:57:05		7688									32.71		https://www.gov.uk/
+East_Riding_of_Yorkshire	East Riding of Yorkshire	2020-05-12	2020-05-11T14:57:05		749									5.14		https://www.gov.uk/
+East_Sussex	East Sussex	2020-05-12	2020-05-11T14:57:05		648									2.0		https://www.gov.uk/
+East_of_England	East of England	2020-05-12	2020-05-11T14:57:05		12295									41.86		https://www.gov.uk/
+Eferding_District	Eferding District	2020-05-12	2020-05-11T20:00:00		53											https://info.gesundheitsministerium.at/
+Eisenstadt	Eisenstadt	2020-05-12	2020-05-11T20:00:00		16											https://info.gesundheitsministerium.at/
+Elvas	Elvas	2020-05-12	2020-05-11T23:00:00		8			0			0			0.43		https://covid19.min-saude.pt/
+Emilia-Romagna	Emilia-Romagna	2020-05-12		3867	26876	15969	234619				80		23.14	85.86	297.14	http://www.salute.gov.it/
+England	England	2020-05-12	2020-05-11T14:57:05	28657	136873								316.57			https://www.gov.uk/
+Entroncamento	Entroncamento	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Espinho,_Portugal	Espinho, Portugal	2020-05-12	2020-05-11T23:00:00		76			0			0			0.43		https://covid19.min-saude.pt/
+Esposende	Esposende	2020-05-12	2020-05-11T23:00:00		44			0			-1			0.57		https://covid19.min-saude.pt/
+Essex	Essex	2020-05-12	2020-05-11T14:57:05		2907									9.71		https://www.gov.uk/
+Estarreja	Estarreja	2020-05-12	2020-05-11T23:00:00		88			0			0			1.57		https://covid19.min-saude.pt/
+Fafe	Fafe	2020-05-12	2020-05-11T23:00:00		104			0			-2			0.86		https://covid19.min-saude.pt/
+Faro,_Portugal	Faro, Portugal	2020-05-12	2020-05-11T23:00:00		59			0			0			-0.14		https://covid19.min-saude.pt/
+Faroe_Islands	Faroe Islands	2020-05-12	2020-05-11T12:00:00+0000	0	187	187	8450	0	0	0	0	0			0.29	https://www.sst.dk/
+Federal_District_(Brazil)	Federal District (Brazil)	2020-05-12	2020-05-11T20:00:00	42	2682								1.29	130.57		https://covid.saude.gov.br/
+Feldkirch_District	Feldkirch District	2020-05-12	2020-05-11T20:00:00		212									0.14		https://info.gesundheitsministerium.at/
+Feldkirchen_District	Feldkirchen District	2020-05-12	2020-05-11T20:00:00		15											https://info.gesundheitsministerium.at/
+Felgueiras	Felgueiras	2020-05-12	2020-05-11T23:00:00		383			0			-7			3.86		https://covid19.min-saude.pt/
+Figueira_da_Foz	Figueira da Foz	2020-05-12	2020-05-11T23:00:00		32			0			0			0.57		https://covid19.min-saude.pt/
+Fornos_de_Algodres	Fornos de Algodres	2020-05-12	2020-05-11T23:00:00		3			0			0					https://covid19.min-saude.pt/
+France	France	2020-05-12		26643	139519	56724							158.86	936.0	569.71	https://www.santepubliquefrance.fr/
+Freistadt_District	Freistadt District	2020-05-12	2020-05-11T20:00:00		120									0.14		https://info.gesundheitsministerium.at/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-05-12		312	3138	1996	90860				8		1.29	7.57	28.29	http://www.salute.gov.it/
+Funchal	Funchal	2020-05-12	2020-05-11T23:00:00		26			0			0					https://covid19.min-saude.pt/
+Germany	Germany	2020-05-12	2020-05-12	7417	169575	145600		0	0	0	-357	-22	83.71	816.43	1500.0	https://www.rki.de/
+Gloucestershire	Gloucestershire	2020-05-12	2020-05-11T14:57:05		1328									4.38		https://www.gov.uk/
+Gmunden_District	Gmunden District	2020-05-12	2020-05-11T20:00:00		73									0.14		https://info.gesundheitsministerium.at/
+Goa	Goa	2020-05-12	2020-05-11T08:00:00	0	7	7		0	0	0	0	0				https://www.mohfw.gov.in/
+Gondomar,_Portugal	Gondomar, Portugal	2020-05-12	2020-05-11T23:00:00		1048			0			0			5.57		https://covid19.min-saude.pt/
+Gouveia,_Portugal	Gouveia, Portugal	2020-05-12	2020-05-11T23:00:00		21			0			0					https://covid19.min-saude.pt/
+Grand_Est	Grand Est	2020-05-12		3138		8959							18.14		58.0	https://www.santepubliquefrance.fr/
+Graz	Graz	2020-05-12	2020-05-11T20:00:00		468									-1.43		https://info.gesundheitsministerium.at/
+Greater_London	Greater London	2020-05-12	2020-05-11T14:57:05		25891									40.71		https://www.gov.uk/
+Greenland	Greenland	2020-05-12	2020-05-11T12:00:00+0000	0	11	11	1435	0	0	0	0	0				https://www.sst.dk/
+Grieskirchen_District	Grieskirchen District	2020-05-12	2020-05-11T20:00:00		74											https://info.gesundheitsministerium.at/
+Guarda,_Portugal	Guarda, Portugal	2020-05-12	2020-05-11T23:00:00		20			0			0			-0.14		https://covid19.min-saude.pt/
+Guelmim-Oued_Noun	Guelmim-Oued Noun	2020-05-12	2020-05-11T15:00:00+0000		43									1.17		http://www.covidmaroc.ma/
+Gujarat	Gujarat	2020-05-12	2020-05-11T08:00:00	493	8194	2545		398	21	454	4	-2	29.0	395.14	214.71	https://www.mohfw.gov.in/
+Hampshire	Hampshire	2020-05-12	2020-05-11T14:57:05		3032									8.86		https://www.gov.uk/
+Hanoi	Hanoi	2020-05-12		0	112	101									2.57	https://ncov.moh.gov.vn/
+Haryana	Haryana	2020-05-12	2020-05-11T08:00:00	10	703	300		28	1	10	0	0	0.71	37.29	7.86	https://www.mohfw.gov.in/
+Hauts-de-France	Hauts-de-France	2020-05-12		1545		4690							12.0		50.29	https://www.santepubliquefrance.fr/
+Herefordshire	Herefordshire	2020-05-12	2020-05-11T14:57:05		403									9.0		https://www.gov.uk/
+Hermagor_District	Hermagor District	2020-05-12	2020-05-11T20:00:00		5											https://info.gesundheitsministerium.at/
+Hertfordshire	Hertfordshire	2020-05-12	2020-05-11T14:57:05		2603									6.14		https://www.gov.uk/
+Himachal_Pradesh	Himachal Pradesh	2020-05-12	2020-05-11T08:00:00	2	55	39		5	0	1	5	0	0.14	2.14	0.71	https://www.mohfw.gov.in/
+Ho_Chi_Minh_City	Ho Chi Minh City	2020-05-12		0	56	50										https://ncov.moh.gov.vn/
+Hollabrunn_District	Hollabrunn District	2020-05-12	2020-05-11T20:00:00		34											https://info.gesundheitsministerium.at/
+Horn_District	Horn District	2020-05-12	2020-05-11T20:00:00		48									0.43		https://info.gesundheitsministerium.at/
+Horta,_Azores	Horta, Azores	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Hungary	Hungary	2020-05-12	2020-05-11T04:30:00+0000	421	3284	958	112165						8.29	31.29	35.57	https://koronavirus.gov.hu/
+Imst_District	Imst District	2020-05-12	2020-05-11T20:00:00		292									0.29		https://info.gesundheitsministerium.at/
+India	India	2020-05-12	2020-05-11T08:00:00	2206	67152	20917							89.0	2920.29	1108.14	https://www.mohfw.gov.in/
+Ingushetia	Ingushetia	2020-05-12	2020-05-11T07:35:00+0000	29	1245	287		46	0	15	-1	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Innlandet	Innlandet	2020-05-12	2020-05-11T11:00:00		463									2.29		https://www.fhi.no/
+Innsbruck	Innsbruck	2020-05-12	2020-05-11T20:00:00		409											https://info.gesundheitsministerium.at/
+Irkutsk_Oblast	Irkutsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	4	313	85		24	0	5	6	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Isle_of_Wight	Isle of Wight	2020-05-12	2020-05-11T14:57:05		154									1.11		https://www.gov.uk/
+Italy	Italy	2020-05-12		30739	219814	106587	2606652				744		203.43	971.57	3050.86	http://www.salute.gov.it/
+Ivanovo_Oblast	Ivanovo Oblast	2020-05-12	2020-05-11T07:35:00+0000	11	843	180		85	1	3	6	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Jambyl_Region	Jambyl Region	2020-05-12		1	182	92										https://www.coronavirus2020.kz/
+Jammu_and_Kashmir_(state)	Jammu and Kashmir (state)	2020-05-12	2020-05-11T08:00:00	9	861	383		25	0	15	12	0	0.14	22.86	13.71	https://www.mohfw.gov.in/
+Jennersdorf_District	Jennersdorf District	2020-05-12	2020-05-11T20:00:00		10											https://info.gesundheitsministerium.at/
+Jewish_Autonomous_Oblast	Jewish Autonomous Oblast	2020-05-12	2020-05-11T07:35:00+0000	1	185	39		6	0	5	2	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Jharkhand	Jharkhand	2020-05-12	2020-05-11T08:00:00	3	157	78		1	0	0	-23	0		6.0	8.0	https://www.mohfw.gov.in/
+Jordan	Jordan	2020-05-12	2020-05-11T21:01:00+0000	9	562	390								13.0	2.14	https://corona.moh.gov.jo/
+Kabardino-Balkaria	Kabardino-Balkaria	2020-05-12	2020-05-11T07:35:00+0000	3	1325	223		80	0	24	3	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kaliningrad_Oblast	Kaliningrad Oblast	2020-05-12	2020-05-11T07:35:00+0000	11	753	207		40	0	19	-2	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kalmykia	Kalmykia	2020-05-12	2020-05-11T07:35:00+0000	6	494	129		21	0	24	3	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kaluga_Oblast	Kaluga Oblast	2020-05-12	2020-05-11T07:35:00+0000	15	1828	254		98	0	26	9	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kamchatka_Krai	Kamchatka Krai	2020-05-12	2020-05-11T07:35:00+0000	0	384	51		8	0	1	-5	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kampong_Cham_Province	Kampong Cham Province	2020-05-12	2020-05-12T07:00:00+0000		16			0			0					http://www.cdcmoh.gov.kh/
+Kampong_Chhnang_Province	Kampong Chhnang Province	2020-05-12	2020-05-12T07:00:00+0000		3			0			0					http://www.cdcmoh.gov.kh/
+Kampot_Province	Kampot Province	2020-05-12	2020-05-12T07:00:00+0000		2			0			0					http://www.cdcmoh.gov.kh/
+Kandal_Province	Kandal Province	2020-05-12	2020-05-12T07:00:00+0000		2			0			0					http://www.cdcmoh.gov.kh/
+Karachay-Cherkessia	Karachay-Cherkessia	2020-05-12	2020-05-11T07:35:00+0000	3	539	86		12	0	0	-6	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Karaganda_Region	Karaganda Region	2020-05-12		3	197	99										https://www.coronavirus2020.kz/
+Karnataka	Karnataka	2020-05-12	2020-05-11T08:00:00	31	848	424		54	1	38	13	1	0.71	29.43	17.14	https://www.mohfw.gov.in/
+Kazakhstan	Kazakhstan	2020-05-12		32	5207	2074							0.43	143.14	113.57	https://www.coronavirus2020.kz/
+Kemerovo_Oblast	Kemerovo Oblast	2020-05-12	2020-05-11T07:35:00+0000	7	251	79		18	1	7	-1	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kent	Kent	2020-05-12	2020-05-11T14:57:05		4191									23.57		https://www.gov.uk/
+Kep_Province	Kep Province	2020-05-12	2020-05-12T07:00:00+0000		4			0			0					http://www.cdcmoh.gov.kh/
+Kerala	Kerala	2020-05-12	2020-05-11T08:00:00	4	512	489		7	0	4	5	0		1.71	12.57	https://www.mohfw.gov.in/
+Khabarovsk_Krai	Khabarovsk Krai	2020-05-12	2020-05-11T07:35:00+0000	7	935	365		39	0	20	5	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Khakassia	Khakassia	2020-05-12	2020-05-11T07:35:00+0000	8	466	96		41	0	0	19	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Khanty-Mansi_Autonomous_Okrug	Khanty-Mansi Autonomous Okrug	2020-05-12	2020-05-11T07:35:00+0000	4	777	252		84	0	5	17	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kingston_upon_Hull	Kingston upon Hull	2020-05-12	2020-05-11T14:57:05		593									4.75		https://www.gov.uk/
+Kirchdorf_an_der_Krems_District	Kirchdorf an der Krems District	2020-05-12	2020-05-11T20:00:00		43									0.14		https://info.gesundheitsministerium.at/
+Kirklees	Kirklees	2020-05-12	2020-05-11T14:57:05		660									3.0		https://www.gov.uk/
+Kirov_Oblast	Kirov Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	835	263		28	1	27	-18	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Klagenfurt	Klagenfurt	2020-05-12	2020-05-11T20:00:00		92											https://info.gesundheitsministerium.at/
+Koh_Kong_Province	Koh Kong Province	2020-05-12	2020-05-12T07:00:00+0000		2			0			0					http://www.cdcmoh.gov.kh/
+Komi_Republic	Komi Republic	2020-05-12	2020-05-11T07:35:00+0000	15	844	252		21	1	33	1	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Korneuburg_District	Korneuburg District	2020-05-12	2020-05-11T20:00:00		162									0.86		https://info.gesundheitsministerium.at/
+Kostanay_Region	Kostanay Region	2020-05-12		1	66	30										https://www.coronavirus2020.kz/
+Kostroma_Oblast	Kostroma Oblast	2020-05-12	2020-05-11T07:35:00+0000	3	372	115		15	0	8	1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Krasnodar_Krai	Krasnodar Krai	2020-05-12	2020-05-11T07:35:00+0000	22	2027	662		98	0	40	-1	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Krasnoyarsk_Krai	Krasnoyarsk Krai	2020-05-12	2020-05-11T07:35:00+0000	15	1201	285		58	1	1	-15	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Krems_an_der_Donau	Krems an der Donau	2020-05-12	2020-05-11T20:00:00		40											https://info.gesundheitsministerium.at/
+Kufstein_District	Kufstein District	2020-05-12	2020-05-11T20:00:00		520									0.57		https://info.gesundheitsministerium.at/
+Kurgan_Oblast	Kurgan Oblast	2020-05-12	2020-05-11T07:35:00+0000	0	79	35		6	0	2	4	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kursk_Oblast	Kursk Oblast	2020-05-12	2020-05-11T07:35:00+0000	6	1484	301		74	0	3	3	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kuwait	Kuwait	2020-05-12		65	9286	2907							3.57	497.43	125.0	https://corona.e.gov.kw/
+Kyzylorda_Region	Kyzylorda Region	2020-05-12			230	161										https://www.coronavirus2020.kz/
+Ladakh	Ladakh	2020-05-12	2020-05-11T08:00:00	0	42	21		0	0	4	0	0		0.14	0.57	https://www.mohfw.gov.in/
+Lagoa,_Azores	Lagoa, Azores	2020-05-12	2020-05-11T23:00:00		9			0			0			-0.11		https://covid19.min-saude.pt/
+Lagos,_Portugal	Lagos, Portugal	2020-05-12	2020-05-11T23:00:00		3			0			0					https://covid19.min-saude.pt/
+Lamego	Lamego	2020-05-12	2020-05-11T23:00:00		37			0			0			0.14		https://covid19.min-saude.pt/
+Lancashire	Lancashire	2020-05-12	2020-05-11T14:57:05		3167									10.14		https://www.gov.uk/
+Landeck_District	Landeck District	2020-05-12	2020-05-11T20:00:00		991									0.14		https://info.gesundheitsministerium.at/
+Lazio	Lazio	2020-05-12		562	7190	2334	181398				25		4.0	39.43	46.29	http://www.salute.gov.it/
+Lebanon	Lebanon	2020-05-12	2020-05-11T14:24:00+0000	26	859	234	51731						0.14	16.86	4.0	https://corona.ministryinfo.gov.lb/
+Leibnitz_District	Leibnitz District	2020-05-12	2020-05-11T20:00:00		184											https://info.gesundheitsministerium.at/
+Leicester	Leicester	2020-05-12	2020-05-11T14:57:05		762									5.14		https://www.gov.uk/
+Leicestershire	Leicestershire	2020-05-12	2020-05-11T14:57:05		1060									6.57		https://www.gov.uk/
+Leiria	Leiria	2020-05-12	2020-05-11T23:00:00		79			0			0					https://covid19.min-saude.pt/
+Leningrad_Oblast	Leningrad Oblast	2020-05-12	2020-05-11T07:35:00+0000	6	1566	450		66	0	27	-1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Leoben_District	Leoben District	2020-05-12	2020-05-11T20:00:00		25									0.29		https://info.gesundheitsministerium.at/
+Lienz_District	Lienz District	2020-05-12	2020-05-11T20:00:00		151											https://info.gesundheitsministerium.at/
+Liezen_District	Liezen District	2020-05-12	2020-05-11T20:00:00		86											https://info.gesundheitsministerium.at/
+Liguria	Liguria	2020-05-12		1293	8832	4695	68814				44		8.71	51.0	125.57	http://www.salute.gov.it/
+Lilienfeld_District	Lilienfeld District	2020-05-12	2020-05-11T20:00:00		44									0.29		https://info.gesundheitsministerium.at/
+Lincolnshire	Lincolnshire	2020-05-12	2020-05-11T14:57:05		916									1.75		https://www.gov.uk/
+Linz	Linz	2020-05-12	2020-05-11T20:00:00		306									0.29		https://info.gesundheitsministerium.at/
+Lipetsk_Oblast	Lipetsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	3	897	193		48	0	7	0	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Lisbon	Lisbon	2020-05-12	2020-05-11T23:00:00		1737			0			-2			22.57		https://covid19.min-saude.pt/
+Lithuania	Lithuania	2020-05-12	2020-05-11T19:11:00+0000	50	1485	833	186565						0.57	8.86	22.14	https://koronastop.lrv.lt
+Liverpool	Liverpool	2020-05-12	2020-05-11T14:57:05		1509									0.88		https://www.gov.uk/
+Lombardy	Lombardy	2020-05-12		15054	81871	36406	492642				364		95.0	466.57	1326.0	http://www.salute.gov.it/
+London_Borough_of_Barking_and_Dagenham	London Borough of Barking and Dagenham	2020-05-12	2020-05-11T14:57:05		477									1.63		https://www.gov.uk/
+London_Borough_of_Barnet	London Borough of Barnet	2020-05-12	2020-05-11T14:57:05		1252									2.0		https://www.gov.uk/
+London_Borough_of_Bexley	London Borough of Bexley	2020-05-12	2020-05-11T14:57:05		666									2.33		https://www.gov.uk/
+London_Borough_of_Brent	London Borough of Brent	2020-05-12	2020-05-11T14:57:05		1410									2.14		https://www.gov.uk/
+London_Borough_of_Bromley	London Borough of Bromley	2020-05-12	2020-05-11T14:57:05		1184									6.5		https://www.gov.uk/
+London_Borough_of_Camden	London Borough of Camden	2020-05-12	2020-05-11T14:57:05		598									1.0		https://www.gov.uk/
+London_Borough_of_Croydon	London Borough of Croydon	2020-05-12	2020-05-11T14:57:05		1455									1.63		https://www.gov.uk/
+London_Borough_of_Ealing	London Borough of Ealing	2020-05-12	2020-05-11T14:57:05		1137									3.56		https://www.gov.uk/
+London_Borough_of_Enfield	London Borough of Enfield	2020-05-12	2020-05-11T14:57:05		856									1.11		https://www.gov.uk/
+London_Borough_of_Hackney	London Borough of Hackney	2020-05-12	2020-05-11T14:57:05		624									1.0		https://www.gov.uk/
+London_Borough_of_Hammersmith_and_Fulham	London Borough of Hammersmith and Fulham	2020-05-12	2020-05-11T14:57:05		639									0.63		https://www.gov.uk/
+London_Borough_of_Haringey	London Borough of Haringey	2020-05-12	2020-05-11T14:57:05		568									0.8		https://www.gov.uk/
+London_Borough_of_Harrow	London Borough of Harrow	2020-05-12	2020-05-11T14:57:05		995									3.63		https://www.gov.uk/
+London_Borough_of_Havering	London Borough of Havering	2020-05-12	2020-05-11T14:57:05		679									1.8		https://www.gov.uk/
+London_Borough_of_Hillingdon	London Borough of Hillingdon	2020-05-12	2020-05-11T14:57:05		756									1.78		https://www.gov.uk/
+London_Borough_of_Hounslow	London Borough of Hounslow	2020-05-12	2020-05-11T14:57:05		704									1.86		https://www.gov.uk/
+London_Borough_of_Islington	London Borough of Islington	2020-05-12	2020-05-11T14:57:05		433									0.63		https://www.gov.uk/
+London_Borough_of_Lambeth	London Borough of Lambeth	2020-05-12	2020-05-11T14:57:05		1171									1.0		https://www.gov.uk/
+London_Borough_of_Lewisham	London Borough of Lewisham	2020-05-12	2020-05-11T14:57:05		953									1.38		https://www.gov.uk/
+London_Borough_of_Merton	London Borough of Merton	2020-05-12	2020-05-11T14:57:05		675									1.3		https://www.gov.uk/
+London_Borough_of_Newham	London Borough of Newham	2020-05-12	2020-05-11T14:57:05		983									2.0		https://www.gov.uk/
+London_Borough_of_Redbridge	London Borough of Redbridge	2020-05-12	2020-05-11T14:57:05		733									3.63		https://www.gov.uk/
+London_Borough_of_Richmond_upon_Thames	London Borough of Richmond upon Thames	2020-05-12	2020-05-11T14:57:05		397									1.11		https://www.gov.uk/
+London_Borough_of_Southwark	London Borough of Southwark	2020-05-12	2020-05-11T14:57:05		1234									1.0		https://www.gov.uk/
+London_Borough_of_Sutton	London Borough of Sutton	2020-05-12	2020-05-11T14:57:05		708									0.9		https://www.gov.uk/
+London_Borough_of_Tower_Hamlets	London Borough of Tower Hamlets	2020-05-12	2020-05-11T14:57:05		615									0.63		https://www.gov.uk/
+London_Borough_of_Waltham_Forest	London Borough of Waltham Forest	2020-05-12	2020-05-11T14:57:05		747									1.38		https://www.gov.uk/
+London_Borough_of_Wandsworth	London Borough of Wandsworth	2020-05-12	2020-05-11T14:57:05		956									1.0		https://www.gov.uk/
+Los_Lagos_Region	Los Lagos Region	2020-05-12	2020-05-11T04:00:00+0000	10	592			17	0		1	0		9.71		https://www.minsal.cl/
+Loures	Loures	2020-05-12	2020-05-11T23:00:00		507			0			-2			12.43		https://covid19.min-saude.pt/
+Lousada	Lousada	2020-05-12	2020-05-11T23:00:00		267			0			-7			6.0		https://covid19.min-saude.pt/
+Lower_Austria	Lower Austria	2020-05-12	2020-05-11T20:00:00	90		2418							0.29		15.43	https://info.gesundheitsministerium.at/
+Luton	Luton	2020-05-12	2020-05-11T14:57:05		666									2.2		https://www.gov.uk/
+Luxembourg	Luxembourg	2020-05-12	2020-05-11T00:00:00	101	3888	3602	55415						0.71	6.86	27.14	https://gouvernement.lu/
+Macedo_de_Cavaleiros	Macedo de Cavaleiros	2020-05-12	2020-05-11T23:00:00		20			0			0			0.14		https://covid19.min-saude.pt/
+Madalena,_Azores	Madalena, Azores	2020-05-12	2020-05-11T23:00:00		5			0			0					https://covid19.min-saude.pt/
+Madhya_Pradesh	Madhya Pradesh	2020-05-12	2020-05-11T08:00:00	215	3614	1676		0	0	0	-273	-15	7.14	96.0	125.43	https://www.mohfw.gov.in/
+Mafra,_Portugal	Mafra, Portugal	2020-05-12	2020-05-11T23:00:00		91			0			0			2.71		https://covid19.min-saude.pt/
+Magadan_Oblast	Magadan Oblast	2020-05-12	2020-05-11T07:35:00+0000	3	155	83		0	0	10	-1	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Magallanes_Region	Magallanes Region	2020-05-12	2020-05-11T04:00:00+0000	14	901			8	1		-4	-1	0.43	15.14		https://www.minsal.cl/
+Maharashtra	Maharashtra	2020-05-12	2020-05-11T08:00:00	832	22171	4199		1943	53	399	778	5	40.57	1313.86	297.71	https://www.mohfw.gov.in/
+Maia,_Portugal	Maia, Portugal	2020-05-12	2020-05-11T23:00:00		909			0			-1			5.43		https://covid19.min-saude.pt/
+Malaysia	Malaysia	2020-05-12	2020-05-11T10:30:31+0000	109	6726	5113	266048						0.43	49.0	78.0	http://www.moh.gov.my/
+Manchester	Manchester	2020-05-12	2020-05-11T14:57:05		1334									8.43		https://www.gov.uk/
+Mangualde	Mangualde	2020-05-12	2020-05-11T23:00:00		77			0			0			0.29		https://covid19.min-saude.pt/
+Mangystau_Region	Mangystau Region	2020-05-12		1	129	17										https://www.coronavirus2020.kz/
+Manipur	Manipur	2020-05-12	2020-05-11T08:00:00	0	2	2		0	0	0	0	0				https://www.mohfw.gov.in/
+Manteigas	Manteigas	2020-05-12	2020-05-11T23:00:00		7			0			0					https://covid19.min-saude.pt/
+Marche	Marche	2020-05-12		964	6543	2352	77830				10		4.0	21.57	16.43	http://www.salute.gov.it/
+Marco_de_Canaveses	Marco de Canaveses	2020-05-12	2020-05-11T23:00:00		79			0			0			0.86		https://covid19.min-saude.pt/
+Mari_El	Mari El	2020-05-12	2020-05-11T07:35:00+0000	5	928	623		25	0	29	4	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Marinha_Grande	Marinha Grande	2020-05-12	2020-05-11T23:00:00		18			0			0					https://covid19.min-saude.pt/
+Marrakesh-Safi	Marrakesh-Safi	2020-05-12	2020-05-11T15:00:00+0000		1206									23.17		http://www.covidmaroc.ma/
+Mato_Grosso	Mato Grosso	2020-05-12	2020-05-11T20:00:00	18	519								0.71	25.0		https://covid.saude.gov.br/
+Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-05-12	2020-05-11T20:00:00	11	362								0.14	12.57		https://covid.saude.gov.br/
+Matosinhos	Matosinhos	2020-05-12	2020-05-11T23:00:00		1207			0			-3			8.29		https://covid19.min-saude.pt/
+Mattersburg_District	Mattersburg District	2020-05-12	2020-05-11T20:00:00		48									0.14		https://info.gesundheitsministerium.at/
+Maule_Region	Maule Region	2020-05-12	2020-05-11T04:00:00+0000	14	454			13	0		4	0	0.14	7.86		https://www.minsal.cl/
+Mauritius	Mauritius	2020-05-12	2020-05-10T20:00:00+0000	10	332	322		0	0	0	0	0			0.43	http://www.covid19.mu/
+Mealhada	Mealhada	2020-05-12	2020-05-11T23:00:00		17			0			0			-0.14		https://covid19.min-saude.pt/
+Meghalaya	Meghalaya	2020-05-12	2020-05-11T08:00:00	1	13	10		0	0	0	-1	0		0.14	1.43	https://www.mohfw.gov.in/
+Melk_District	Melk District	2020-05-12	2020-05-11T20:00:00		168											https://info.gesundheitsministerium.at/
+Metropolitan_Borough_of_Barnsley	Metropolitan Borough of Barnsley	2020-05-12	2020-05-11T14:57:05		775									3.29		https://www.gov.uk/
+Metropolitan_Borough_of_Bolton	Metropolitan Borough of Bolton	2020-05-12	2020-05-11T14:57:05		903									4.0		https://www.gov.uk/
+Metropolitan_Borough_of_Bury	Metropolitan Borough of Bury	2020-05-12	2020-05-11T14:57:05		642									1.88		https://www.gov.uk/
+Metropolitan_Borough_of_Doncaster	Metropolitan Borough of Doncaster	2020-05-12	2020-05-11T14:57:05		591									2.55		https://www.gov.uk/
+Metropolitan_Borough_of_Dudley	Metropolitan Borough of Dudley	2020-05-12	2020-05-11T14:57:05		876									1.71		https://www.gov.uk/
+Metropolitan_Borough_of_Gateshead	Metropolitan Borough of Gateshead	2020-05-12	2020-05-11T14:57:05		970									6.0		https://www.gov.uk/
+Metropolitan_Borough_of_Knowsley	Metropolitan Borough of Knowsley	2020-05-12	2020-05-11T14:57:05		620									3.0		https://www.gov.uk/
+Metropolitan_Borough_of_Oldham	Metropolitan Borough of Oldham	2020-05-12	2020-05-11T14:57:05		943									7.5		https://www.gov.uk/
+Metropolitan_Borough_of_Rochdale	Metropolitan Borough of Rochdale	2020-05-12	2020-05-11T14:57:05		666									5.5		https://www.gov.uk/
+Metropolitan_Borough_of_Rotherham	Metropolitan Borough of Rotherham	2020-05-12	2020-05-11T14:57:05		814									2.29		https://www.gov.uk/
+Metropolitan_Borough_of_Sefton	Metropolitan Borough of Sefton	2020-05-12	2020-05-11T14:57:05		860									1.29		https://www.gov.uk/
+Metropolitan_Borough_of_Solihull	Metropolitan Borough of Solihull	2020-05-12	2020-05-11T14:57:05		622									2.5		https://www.gov.uk/
+Metropolitan_Borough_of_St_Helens	Metropolitan Borough of St Helens	2020-05-12	2020-05-11T14:57:05		696									1.33		https://www.gov.uk/
+Metropolitan_Borough_of_Stockport	Metropolitan Borough of Stockport	2020-05-12	2020-05-11T14:57:05		963									3.43		https://www.gov.uk/
+Metropolitan_Borough_of_Walsall	Metropolitan Borough of Walsall	2020-05-12	2020-05-11T14:57:05		1060									2.75		https://www.gov.uk/
+Metropolitan_Borough_of_Wigan	Metropolitan Borough of Wigan	2020-05-12	2020-05-11T14:57:05		998									7.14		https://www.gov.uk/
+Metropolitan_Borough_of_Wirral	Metropolitan Borough of Wirral	2020-05-12	2020-05-11T14:57:05		1129									5.0		https://www.gov.uk/
+Middlesbrough	Middlesbrough	2020-05-12	2020-05-11T14:57:05		626									3.5		https://www.gov.uk/
+Minas_Gerais	Minas Gerais	2020-05-12	2020-05-11T20:00:00	119	3237								4.14	127.14		https://covid.saude.gov.br/
+Mira,_Portugal	Mira, Portugal	2020-05-12	2020-05-11T23:00:00		5			0			0			0.14		https://covid19.min-saude.pt/
+Miranda_do_Corvo	Miranda do Corvo	2020-05-12	2020-05-11T23:00:00		16			0			0					https://covid19.min-saude.pt/
+Miranda_do_Douro	Miranda do Douro	2020-05-12	2020-05-11T23:00:00		10			0			0			0.29		https://covid19.min-saude.pt/
+Mirandela	Mirandela	2020-05-12	2020-05-11T23:00:00		19			0			0			0.29		https://covid19.min-saude.pt/
+Mistelbach_District	Mistelbach District	2020-05-12	2020-05-11T20:00:00		135									0.29		https://info.gesundheitsministerium.at/
+Mizoram	Mizoram	2020-05-12	2020-05-11T08:00:00	0	1	1		0	0	0	0	0			0.14	https://www.mohfw.gov.in/
+Mogadouro	Mogadouro	2020-05-12	2020-05-11T23:00:00		4			0			0			0.14		https://covid19.min-saude.pt/
+Moimenta_da_Beira	Moimenta da Beira	2020-05-12	2020-05-11T23:00:00		13			0			0			-0.14		https://covid19.min-saude.pt/
+Moita	Moita	2020-05-12	2020-05-11T23:00:00		97			0			-3			3.57		https://covid19.min-saude.pt/
+Molise	Molise	2020-05-12		22	383	132	9390				13			11.71	4.29	http://www.salute.gov.it/
+Montemor-o-Novo	Montemor-o-Novo	2020-05-12	2020-05-11T23:00:00		7			0			0					https://covid19.min-saude.pt/
+Montemor-o-Velho	Montemor-o-Velho	2020-05-12	2020-05-11T23:00:00		25			0			0			1.0		https://covid19.min-saude.pt/
+Montijo,_Portugal	Montijo, Portugal	2020-05-12	2020-05-11T23:00:00		87			0			-6			4.0		https://covid19.min-saude.pt/
+Mordovia	Mordovia	2020-05-12	2020-05-11T07:35:00+0000	8	1190	237		42	0	21	-4	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Morocco	Morocco	2020-05-12	2020-05-11T15:00:00+0000	188	6281	2811	62699						1.0	151.71	139.0	http://www.covidmaroc.ma/
+Moscow	Moscow	2020-05-12	2020-05-11T07:35:00+0000	1124	115909	17822		6169	56	4032	618	-2				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Moscow_Oblast	Moscow Oblast	2020-05-12	2020-05-11T07:35:00+0000	209	21637	1389		1079	14	153	-54	5				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Moura,_Portugal	Moura, Portugal	2020-05-12	2020-05-11T23:00:00		57			0			0			0.43		https://covid19.min-saude.pt/
+Murau_District	Murau District	2020-05-12	2020-05-11T20:00:00		7											https://info.gesundheitsministerium.at/
+Murmansk_Oblast	Murmansk Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	2416	291		45	0	21	14	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Murtal_District	Murtal District	2020-05-12	2020-05-11T20:00:00		31											https://info.gesundheitsministerium.at/
+Murtosa	Murtosa	2020-05-12	2020-05-11T23:00:00		17			0			0			0.57		https://covid19.min-saude.pt/
+Nelas	Nelas	2020-05-12	2020-05-11T23:00:00		19			0			0					https://covid19.min-saude.pt/
+Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-05-12	2020-05-11T07:35:00+0000	0	50	1		1	0	0	1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Netherlands	Netherlands	2020-05-12	2020-05-11T11:59:00+0000	5456	42788								41.14	243.0		https://www.rivm.nl/
+Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-05-12	2020-05-11T20:00:00		183									0.71		https://info.gesundheitsministerium.at/
+Neusiedl_am_See_District	Neusiedl am See District	2020-05-12	2020-05-11T20:00:00		56											https://info.gesundheitsministerium.at/
+New_Zealand	New Zealand	2020-05-12	2020-05-11T09:00:00	21	1497	1386	194191						0.14	1.57	12.0	https://www.health.govt.nz/
+Newcastle_upon_Tyne	Newcastle upon Tyne	2020-05-12	2020-05-11T14:57:05		996									3.14		https://www.gov.uk/
+Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-05-12	2020-05-11T07:35:00+0000	31	4733	694		291	2	33	29	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Nordeste,_Azores	Nordeste, Azores	2020-05-12	2020-05-11T23:00:00		16			0			-2			0.57		https://covid19.min-saude.pt/
+Nordland	Nordland	2020-05-12	2020-05-11T11:00:00		116									0.14		https://www.fhi.no/
+Norfolk	Norfolk	2020-05-12	2020-05-11T14:57:05		1913									15.57		https://www.gov.uk/
+Normandy	Normandy	2020-05-12		380		1218							2.43		11.57	https://www.santepubliquefrance.fr/
+North_East_England	North East England	2020-05-12	2020-05-11T14:57:05		9044									47.0		https://www.gov.uk/
+North_East_Lincolnshire	North East Lincolnshire	2020-05-12	2020-05-11T14:57:05		140									0.36		https://www.gov.uk/
+North_Kazakhstan_Region	North Kazakhstan Region	2020-05-12			36	29										https://www.coronavirus2020.kz/
+North_Lincolnshire	North Lincolnshire	2020-05-12	2020-05-11T14:57:05		426									1.5		https://www.gov.uk/
+North_Somerset	North Somerset	2020-05-12	2020-05-11T14:57:05		304									3.71		https://www.gov.uk/
+North_Tyneside	North Tyneside	2020-05-12	2020-05-11T14:57:05		528									3.29		https://www.gov.uk/
+North_West_England	North West England	2020-05-12	2020-05-11T14:57:05		22510									90.86		https://www.gov.uk/
+North_Yorkshire	North Yorkshire	2020-05-12	2020-05-11T14:57:05		1180									8.43		https://www.gov.uk/
+Northamptonshire	Northamptonshire	2020-05-12	2020-05-11T14:57:05		1150									6.29		https://www.gov.uk/
+Northern_Ireland	Northern Ireland	2020-05-12	2020-05-11T14:57:05	435	4149								6.86			https://www.gov.uk/
+Northland_Region	Northland Region	2020-05-12	2020-05-11T01:00:00+0000		28	28		0		1	0				0.57	https://www.health.govt.nz/
+Northumberland	Northumberland	2020-05-12	2020-05-11T14:57:05		867									5.13		https://www.gov.uk/
+Norway	Norway	2020-05-12	2020-05-11T11:00:00	224	8106		202751						2.14	29.0		https://www.fhi.no/
+Nottingham	Nottingham	2020-05-12	2020-05-11T14:57:05		569									2.8		https://www.gov.uk/
+Nottinghamshire	Nottinghamshire	2020-05-12	2020-05-11T14:57:05		1224									3.71		https://www.gov.uk/
+Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-05-12		358		1653							3.14		17.71	https://www.santepubliquefrance.fr/
+Novgorod_Oblast	Novgorod Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	514	108		17	0	6	-11	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Novosibirsk_Oblast	Novosibirsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	15	1171	314		71	0	7	-4	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Nur-Sultan	Nur-Sultan	2020-05-12		3	1098	416										https://www.coronavirus2020.kz/
+Oberpullendorf_District	Oberpullendorf District	2020-05-12	2020-05-11T20:00:00		24									0.14		https://info.gesundheitsministerium.at/
+Oberwart_District	Oberwart District	2020-05-12	2020-05-11T20:00:00		130											https://info.gesundheitsministerium.at/
+Occitanie	Occitanie	2020-05-12		454		2355							2.57		20.0	https://www.santepubliquefrance.fr/
+Odemira	Odemira	2020-05-12	2020-05-11T23:00:00		7			0			0			0.43		https://covid19.min-saude.pt/
+Odisha	Odisha	2020-05-12	2020-05-11T08:00:00	3	377	68		83	1	5	60	1	0.29	30.57	1.14	https://www.mohfw.gov.in/
+Odivelas	Odivelas	2020-05-12	2020-05-11T23:00:00		277			0			-3			4.14		https://covid19.min-saude.pt/
+Oeiras,_Portugal	Oeiras, Portugal	2020-05-12	2020-05-11T23:00:00		277			0			-3			6.43		https://covid19.min-saude.pt/
+Oliveira_de_Frades	Oliveira de Frades	2020-05-12	2020-05-11T23:00:00		12			0			0			0.14		https://covid19.min-saude.pt/
+Oliveira_do_Bairro	Oliveira do Bairro	2020-05-12	2020-05-11T23:00:00		28			0			0			0.29		https://covid19.min-saude.pt/
+Oliveira_do_Hospital	Oliveira do Hospital	2020-05-12	2020-05-11T23:00:00		11			0			0					https://covid19.min-saude.pt/
+Omsk_Oblast	Omsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	7	302	58		23	1	4	-11	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Orenburg_Oblast	Orenburg Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	986	331		49	0	47	7	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Oriental_(Morocco)	Oriental (Morocco)	2020-05-12	2020-05-11T15:00:00+0000		176									0.08		http://www.covidmaroc.ma/
+Oryol_Oblast	Oryol Oblast	2020-05-12	2020-05-11T07:35:00+0000	9	1087	257		64	0	8	14	-2				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Oslo	Oslo	2020-05-12	2020-05-11T11:00:00		2523									10.86		https://www.fhi.no/
+Ovar	Ovar	2020-05-12	2020-05-11T23:00:00		626			0			-1			7.43		https://covid19.min-saude.pt/
+Oxfordshire	Oxfordshire	2020-05-12	2020-05-11T14:57:05		1755									11.25		https://www.gov.uk/
+Palmela	Palmela	2020-05-12	2020-05-11T23:00:00		20			0			0			0.29		https://covid19.min-saude.pt/
+Paredes,_Portugal	Paredes, Portugal	2020-05-12	2020-05-11T23:00:00		320			0			0			2.14		https://covid19.min-saude.pt/
+Paredes_de_Coura	Paredes de Coura	2020-05-12	2020-05-11T23:00:00		7			0			0					https://covid19.min-saude.pt/
+Pavlodar_Region	Pavlodar Region	2020-05-12		2	154	82										https://www.coronavirus2020.kz/
+Pays_de_la_Loire	Pays de la Loire	2020-05-12		385		1416							3.29		11.71	https://www.santepubliquefrance.fr/
+Penacova	Penacova	2020-05-12	2020-05-11T23:00:00		20			0			0			0.14		https://covid19.min-saude.pt/
+Penafiel	Penafiel	2020-05-12	2020-05-11T23:00:00		155			0			-2			1.43		https://covid19.min-saude.pt/
+Penela	Penela	2020-05-12	2020-05-11T23:00:00		4			0			0					https://covid19.min-saude.pt/
+Peniche,_Portugal	Peniche, Portugal	2020-05-12	2020-05-11T23:00:00		8			0			0					https://covid19.min-saude.pt/
+Penza_Oblast	Penza Oblast	2020-05-12	2020-05-11T07:35:00+0000	10	802	402		38	2	52	-3	2				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Perg_District	Perg District	2020-05-12	2020-05-11T20:00:00		251											https://info.gesundheitsministerium.at/
+Perm_Krai	Perm Krai	2020-05-12	2020-05-11T07:35:00+0000	11	753	401		10	0	10	2	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Pernambuco	Pernambuco	2020-05-12	2020-05-11T20:00:00	1047	13275								50.86	630.29		https://covid.saude.gov.br/
+Peterborough	Peterborough	2020-05-12	2020-05-11T14:57:05		295									2.0		https://www.gov.uk/
+Phnom_Penh	Phnom Penh	2020-05-12	2020-05-12T07:00:00+0000		28			0			0					http://www.cdcmoh.gov.kh/
+Piedmont	Piedmont	2020-05-12		3400	28776	12038	213783				111		26.29	143.14	400.43	http://www.salute.gov.it/
+Pinhel	Pinhel	2020-05-12	2020-05-11T23:00:00		23			0			-1			0.43		https://covid19.min-saude.pt/
+Plymouth	Plymouth	2020-05-12	2020-05-11T14:57:05		335									3.22		https://www.gov.uk/
+Pombal,_Portugal	Pombal, Portugal	2020-05-12	2020-05-11T23:00:00		60			0			0			0.43		https://covid19.min-saude.pt/
+Ponta_Delgada	Ponta Delgada	2020-05-12	2020-05-11T23:00:00		8			0			0					https://covid19.min-saude.pt/
+Ponta_do_Sol,_Madeira	Ponta do Sol, Madeira	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Ponte_da_Barca	Ponte da Barca	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Ponte_de_Lima	Ponte de Lima	2020-05-12	2020-05-11T23:00:00		27			0			-1			0.29		https://covid19.min-saude.pt/
+Portalegre,_Portugal	Portalegre, Portugal	2020-05-12	2020-05-11T23:00:00		5			0			0			0.14		https://covid19.min-saude.pt/
+Portel,_Portugal	Portel, Portugal	2020-05-12	2020-05-11T23:00:00		6			0			0					https://covid19.min-saude.pt/
+Porto	Porto	2020-05-12	2020-05-11T23:00:00		1303			0			-3			5.29		https://covid19.min-saude.pt/
+Porto_Santo_Island	Porto Santo Island	2020-05-12	2020-05-11T23:00:00		4			0			0					https://covid19.min-saude.pt/
+Portsmouth	Portsmouth	2020-05-12	2020-05-11T14:57:05		308									1.33		https://www.gov.uk/
+Portugal	Portugal	2020-05-12	2020-05-11T03:00:00	1144	27689	2549							10.0	283.86	115.14	https://covid19.min-saude.pt/
+Preah_Vihear_Province	Preah Vihear Province	2020-05-12	2020-05-12T07:00:00+0000		2			0			0					http://www.cdcmoh.gov.kh/
+Primorsky_Krai	Primorsky Krai	2020-05-12	2020-05-11T07:35:00+0000	10	907	213		51	0	20	3	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Pskov_Oblast	Pskov Oblast	2020-05-12	2020-05-11T07:35:00+0000	8	308	67		15	0	1	-1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Puducherry	Puducherry	2020-05-12	2020-05-11T08:00:00	0	9	6		0	0	0	0	0		0.14	0.14	https://www.mohfw.gov.in/
+Punjab,_India	Punjab, India	2020-05-12	2020-05-11T08:00:00	31	1823	166		61	0	9	30	-2	1.43	103.0	7.0	https://www.mohfw.gov.in/
+Qatar	Qatar	2020-05-12	2020-05-10T21:00:00+0000	14	23623	2840	131044	1103	0	0	0	-1	0.29	925.86	130.86	https://www.moph.gov.qa/
+Rajasthan	Rajasthan	2020-05-12	2020-05-11T08:00:00	107	3814	2176		106	1	150	-23	-4	5.14	132.57	117.14	https://www.mohfw.gov.in/
+Reading,_Berkshire	Reading, Berkshire	2020-05-12	2020-05-11T14:57:05		541									1.71		https://www.gov.uk/
+Redcar_and_Cleveland	Redcar and Cleveland	2020-05-12	2020-05-11T14:57:05		368									2.88		https://www.gov.uk/
+Reguengos_de_Monsaraz	Reguengos de Monsaraz	2020-05-12	2020-05-11T23:00:00		7			0			0			0.29		https://covid19.min-saude.pt/
+Republic_of_Karelia	Republic of Karelia	2020-05-12	2020-05-11T07:35:00+0000	0	160	35		12	0	3	-8	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Resende,_Portugal	Resende, Portugal	2020-05-12	2020-05-11T23:00:00		63			0			0			0.14		https://covid19.min-saude.pt/
+Reutte_District	Reutte District	2020-05-12	2020-05-11T20:00:00		56											https://info.gesundheitsministerium.at/
+Ribeira_de_Pena	Ribeira de Pena	2020-05-12	2020-05-11T23:00:00		3			0			0					https://covid19.min-saude.pt/
+Rio_Grande_do_Norte	Rio Grande do Norte	2020-05-12	2020-05-11T20:00:00	88	1928								3.71	72.43		https://covid.saude.gov.br/
+Rio_Grande_do_Sul	Rio Grande do Sul	2020-05-12	2020-05-11T20:00:00	97	2542								3.29	118.71		https://covid.saude.gov.br/
+Rio_Maior	Rio Maior	2020-05-12	2020-05-11T23:00:00		16			0			0			0.14		https://covid19.min-saude.pt/
+Rio_de_Janeiro_(state)	Rio de Janeiro (state)	2020-05-12	2020-05-11T20:00:00	1714	17062								92.71	763.0		https://covid.saude.gov.br/
+Rogaland	Rogaland	2020-05-12	2020-05-11T11:00:00		436									0.14		https://www.fhi.no/
+Rohrbach_District	Rohrbach District	2020-05-12	2020-05-11T20:00:00		150											https://info.gesundheitsministerium.at/
+Roraima	Roraima	2020-05-12	2020-05-11T20:00:00	21	1290								1.43	69.14		https://covid.saude.gov.br/
+Rostov_Oblast	Rostov Oblast	2020-05-12	2020-05-11T07:35:00+0000	22	1851	407		88	1	19	-1	-1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Royal_Borough_of_Greenwich	Royal Borough of Greenwich	2020-05-12	2020-05-11T14:57:05		664									1.4		https://www.gov.uk/
+Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-05-12	2020-05-11T14:57:05		481									0.88		https://www.gov.uk/
+Royal_Borough_of_Kingston_upon_Thames	Royal Borough of Kingston upon Thames	2020-05-12	2020-05-11T14:57:05		486									0.63		https://www.gov.uk/
+Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	2020-05-12	2020-05-11T14:57:05		274									0.78		https://www.gov.uk/
+Russia	Russia	2020-05-12	2020-05-11T07:35:00+0000	2009	221344	39801	5600000	11656	94	5495	0	6	79.71	9424.86	2848.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Rutland	Rutland	2020-05-12	2020-05-11T14:57:05		26									0.4		https://www.gov.uk/
+Ryazan_Oblast	Ryazan Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	1744	224		96	0	9	8	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sabrosa	Sabrosa	2020-05-12	2020-05-11T23:00:00		7			0			0					https://covid19.min-saude.pt/
+Saint_Petersburg	Saint Petersburg	2020-05-12	2020-05-11T07:35:00+0000	56	7711	1681		307	3	7	-107	3				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sakhalin_Oblast	Sakhalin Oblast	2020-05-12	2020-05-11T07:35:00+0000	0	38	20		1	0	0	1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Salvaterra_de_Magos	Salvaterra de Magos	2020-05-12	2020-05-11T23:00:00		8			0			0			0.29		https://covid19.min-saude.pt/
+Salzburg	Salzburg	2020-05-12	2020-05-11T20:00:00		133									-0.14		https://info.gesundheitsministerium.at/
+Salzburg_(state)	Salzburg (state)	2020-05-12	2020-05-11T20:00:00	36		1162							0.29		6.14	https://info.gesundheitsministerium.at/
+Samara_Oblast	Samara Oblast	2020-05-12	2020-05-11T07:35:00+0000	9	1017	135		66	0	9	-8	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sandwell	Sandwell	2020-05-12	2020-05-11T14:57:05		1110									3.71		https://www.gov.uk/
+Sankt_Veit_an_der_Glan_District	Sankt Veit an der Glan District	2020-05-12	2020-05-11T20:00:00		50											https://info.gesundheitsministerium.at/
+Santa_Catarina_(state)	Santa Catarina (state)	2020-05-12	2020-05-11T20:00:00	65	3429								1.86	130.0		https://covid.saude.gov.br/
+Santa_Cruz,_Madeira	Santa Cruz, Madeira	2020-05-12	2020-05-11T23:00:00		5			0			0					https://covid19.min-saude.pt/
+Santa_Maria_da_Feira	Santa Maria da Feira	2020-05-12	2020-05-11T23:00:00		442			0			-2			3.29		https://covid19.min-saude.pt/
+Santiago_Metropolitan_Region	Santiago Metropolitan Region	2020-05-12	2020-05-11T04:00:00+0000	172	21317			964	6		-432	3	4.14	1112.71		https://www.minsal.cl/
+Santo_Tirso	Santo Tirso	2020-05-12	2020-05-11T23:00:00		372			0			0			2.29		https://covid19.min-saude.pt/
+Saratov_Oblast	Saratov Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	1168	237		92	1	4	23	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sardinia	Sardinia	2020-05-12		120	1343	712	34641				3		0.14	3.57	22.14	http://www.salute.gov.it/
+Scheibbs_District	Scheibbs District	2020-05-12	2020-05-11T20:00:00		103											https://info.gesundheitsministerium.at/
+Schwaz_District	Schwaz District	2020-05-12	2020-05-11T20:00:00		346									0.29		https://info.gesundheitsministerium.at/
+Scotland	Scotland	2020-05-12	2020-05-11T14:57:05	1857	13627								40.14			https://www.gov.uk/
+Seia	Seia	2020-05-12	2020-05-11T23:00:00		13			0			0					https://covid19.min-saude.pt/
+Seixal	Seixal	2020-05-12	2020-05-11T23:00:00		191			0			0			3.71		https://covid19.min-saude.pt/
+Sergipe	Sergipe	2020-05-12	2020-05-11T20:00:00	34	1771								2.43	142.71		https://covid.saude.gov.br/
+Sernancelhe	Sernancelhe	2020-05-12	2020-05-11T23:00:00		6			0			0			0.14		https://covid19.min-saude.pt/
+Serpa	Serpa	2020-05-12	2020-05-11T23:00:00		15			0			0					https://covid19.min-saude.pt/
+Sesimbra	Sesimbra	2020-05-12	2020-05-11T23:00:00		23			0			0			0.29		https://covid19.min-saude.pt/
+Sever_do_Vouga	Sever do Vouga	2020-05-12	2020-05-11T23:00:00		39			0			0			0.43		https://covid19.min-saude.pt/
+Sheffield	Sheffield	2020-05-12	2020-05-11T14:57:05		2376									6.0		https://www.gov.uk/
+Shropshire	Shropshire	2020-05-12	2020-05-11T14:57:05		616									5.29		https://www.gov.uk/
+Shymkent	Shymkent	2020-05-12		6	239	135										https://www.coronavirus2020.kz/
+Sicily	Sicily	2020-05-12		257	3339	1020	103134				12		1.43	10.29	28.86	http://www.salute.gov.it/
+Siem_Reap_Province	Siem Reap Province	2020-05-12	2020-05-12T07:00:00+0000		7			0			0					http://www.cdcmoh.gov.kh/
+Silves,_Portugal	Silves, Portugal	2020-05-12	2020-05-11T23:00:00		21			0			0			-0.14		https://covid19.min-saude.pt/
+Singapore	Singapore	2020-05-12	2020-05-11T04:00:00+0000	21	23787	3225	175604	451	1	504	-425	1	0.43	715.57	252.57	https://www.moh.gov.sg/covid-19
+Sintra	Sintra	2020-05-12	2020-05-11T23:00:00		769			0			-7			20.29		https://covid19.min-saude.pt/
+Slough	Slough	2020-05-12	2020-05-11T14:57:05		433									1.22		https://www.gov.uk/
+Smolensk_Oblast	Smolensk Oblast	2020-05-12	2020-05-11T07:35:00+0000	7	902	264		164	0	10	94	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Somerset	Somerset	2020-05-12	2020-05-11T14:57:05		571									2.0		https://www.gov.uk/
+Soure,_Portugal	Soure, Portugal	2020-05-12	2020-05-11T23:00:00		22			0			0			0.14		https://covid19.min-saude.pt/
+Souss-Massa	Souss-Massa	2020-05-12	2020-05-11T15:00:00+0000		71									1.75		http://www.covidmaroc.ma/
+South_East_England	South East England	2020-05-12	2020-05-11T14:57:05		19344									60.57		https://www.gov.uk/
+South_Gloucestershire	South Gloucestershire	2020-05-12	2020-05-11T14:57:05		386									2.43		https://www.gov.uk/
+South_Tyneside	South Tyneside	2020-05-12	2020-05-11T14:57:05		670									5.71		https://www.gov.uk/
+South_Tyrol	South Tyrol	2020-05-12		290	2572	1835	50019				3		0.57	4.29	27.29	http://www.salute.gov.it/
+South_West_England	South West England	2020-05-12	2020-05-11T14:57:05		7044									27.0		https://www.gov.uk/
+Southampton	Southampton	2020-05-12	2020-05-11T14:57:05		539									2.86		https://www.gov.uk/
+Southend-on-Sea	Southend-on-Sea	2020-05-12	2020-05-11T14:57:05		340									1.25		https://www.gov.uk/
+Spittal_an_der_Drau_District	Spittal an der Drau District	2020-05-12	2020-05-11T20:00:00		43									0.29		https://info.gesundheitsministerium.at/
+Staffordshire	Staffordshire	2020-05-12	2020-05-11T14:57:05		1979									9.71		https://www.gov.uk/
+Stavropol_Krai	Stavropol Krai	2020-05-12	2020-05-11T07:35:00+0000	20	1084	301		34	0	12	-4	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Steyr	Steyr	2020-05-12	2020-05-11T20:00:00		61											https://info.gesundheitsministerium.at/
+Styria	Styria	2020-05-12	2020-05-11T20:00:00	126		1423							0.57		17.57	https://info.gesundheitsministerium.at/
+Suffolk	Suffolk	2020-05-12	2020-05-11T14:57:05		1290									5.43		https://www.gov.uk/
+Surrey	Surrey	2020-05-12	2020-05-11T14:57:05		2759									7.0		https://www.gov.uk/
+Sverdlovsk_Oblast	Sverdlovsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	3	1952	283		108	0	13	-31	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Switzerland	Switzerland	2020-05-12	2020-05-11T11:43:19	1537	30222	26800							8.71	46.29	200.0	https://www.ecdc.europa.eu/
+Tambov_Oblast	Tambov Oblast	2020-05-12	2020-05-11T07:35:00+0000	2	1403	293		91	0	14	0	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tameside	Tameside	2020-05-12	2020-05-11T14:57:05		549									3.29		https://www.gov.uk/
+Tamil_Nadu	Tamil Nadu	2020-05-12	2020-05-11T08:00:00	47	7204	1959		669	3	135	143	-1	2.43	597.29	82.86	https://www.mohfw.gov.in/
+Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-05-12	2020-05-11T15:00:00+0000		902									28.08		http://www.covidmaroc.ma/
+Taranaki	Taranaki	2020-05-12	2020-05-12T01:00:00+0000		16	16		0		0	0				0.29	https://www.health.govt.nz/
+Tatarstan	Tatarstan	2020-05-12	2020-05-11T07:35:00+0000	5	1761	460		90	0	100	5	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tavira	Tavira	2020-05-12	2020-05-11T23:00:00		30			0			0					https://covid19.min-saude.pt/
+Tboung_Khmum_Province	Tboung Khmum Province	2020-05-12	2020-05-12T07:00:00+0000		4			0			0					http://www.cdcmoh.gov.kh/
+Telangana	Telangana	2020-05-12	2020-05-11T08:00:00	30	1196	750		33	0	0	3	-1	0.14	16.29	37.14	https://www.mohfw.gov.in/
+Terras_de_Bouro	Terras de Bouro	2020-05-12	2020-05-11T23:00:00		8			0			0			0.14		https://covid19.min-saude.pt/
+Thurrock	Thurrock	2020-05-12	2020-05-11T14:57:05		300									0.5		https://www.gov.uk/
+Tocantins	Tocantins	2020-05-12	2020-05-11T20:00:00	11	688								0.71	60.14		https://covid.saude.gov.br/
+Tomar	Tomar	2020-05-12	2020-05-11T23:00:00		11			0			0					https://covid19.min-saude.pt/
+Tomsk_Oblast	Tomsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	3	279	56		69	1	0	50	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tondela	Tondela	2020-05-12	2020-05-11T23:00:00		13			0			0			-0.14		https://covid19.min-saude.pt/
+Torbay	Torbay	2020-05-12	2020-05-11T14:57:05		210									0.58		https://www.gov.uk/
+Torre_de_Moncorvo	Torre de Moncorvo	2020-05-12	2020-05-11T23:00:00		23			0			0					https://covid19.min-saude.pt/
+Torres_Novas	Torres Novas	2020-05-12	2020-05-11T23:00:00		13			0			0			0.14		https://covid19.min-saude.pt/
+Torres_Vedras	Torres Vedras	2020-05-12	2020-05-11T23:00:00		31			0			0			0.71		https://covid19.min-saude.pt/
+Trafford	Trafford	2020-05-12	2020-05-11T14:57:05		687									3.0		https://www.gov.uk/
+Trancoso,_Portugal	Trancoso, Portugal	2020-05-12	2020-05-11T23:00:00		18			0			0					https://covid19.min-saude.pt/
+Trentino	Trentino	2020-05-12		443	4297	3119	53398				2		1.43	5.14	47.43	http://www.salute.gov.it/
+Tripura	Tripura	2020-05-12	2020-05-11T08:00:00	0	150	2		16	0	0	0	0		19.14		https://www.mohfw.gov.in/
+Trofa	Trofa	2020-05-12	2020-05-11T23:00:00		142			0			0			0.43		https://covid19.min-saude.pt/
+Troms_og_Finnmark	Troms og Finnmark	2020-05-12	2020-05-11T11:00:00		251									0.71		https://www.fhi.no/
+Tula_Oblast	Tula Oblast	2020-05-12	2020-05-11T07:35:00+0000	12	1881	324		86	0	33	-3	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tulln_District	Tulln District	2020-05-12	2020-05-11T20:00:00		171									0.14		https://info.gesundheitsministerium.at/
+Turkey	Turkey	2020-05-12		3841	139771	95780	1403320						45.86	1468.57	3213.57	https://covid19.saglik.gov.tr/
+Turkistan_Region	Turkistan Region	2020-05-12		1	186	89										https://www.coronavirus2020.kz/
+Tuscany	Tuscany	2020-05-12		950	9787	4764	179469				13		8.71	22.29	173.14	http://www.salute.gov.it/
+Tuva	Tuva	2020-05-12	2020-05-11T07:35:00+0000	0	93	29		12	0	0	-9	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tver_Oblast	Tver Oblast	2020-05-12	2020-05-11T07:35:00+0000	10	898	344		31	0	28	-14	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tyrol_(state)	Tyrol (state)	2020-05-12	2020-05-11T20:00:00	100		3317							-0.43		10.43	https://info.gesundheitsministerium.at/
+Tyumen_Oblast	Tyumen Oblast	2020-05-12	2020-05-11T07:35:00+0000	5	832	300		29	0	7	-44	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Udmurtia	Udmurtia	2020-05-12	2020-05-11T07:35:00+0000	12	389	129		19	1	0	1	1				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ulyanovsk_Oblast	Ulyanovsk Oblast	2020-05-12	2020-05-11T07:35:00+0000	4	848	152		41	0	7	-1	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Umbria	Umbria	2020-05-12		71	1412	1233	47474				1		0.14	1.71	11.29	http://www.salute.gov.it/
+United_Arab_Emirates	United Arab Emirates	2020-05-12		201	18878	5381							9.14	592.57	345.0	https://covid19.ncema.gov.ae/
+Upper_Austria	Upper Austria	2020-05-12	2020-05-11T20:00:00	53		2169							0.14		7.71	https://info.gesundheitsministerium.at/
+Uttar_Pradesh	Uttar Pradesh	2020-05-12	2020-05-11T08:00:00	74	3467	1653		94	0	154	-65	-8	4.14	103.57	127.86	https://www.mohfw.gov.in/
+Uttarakhand	Uttarakhand	2020-05-12	2020-05-11T08:00:00	1	68	46		1	0	0	-3	0		1.14	1.0	https://www.mohfw.gov.in/
+Vagos	Vagos	2020-05-12	2020-05-11T23:00:00		20			0			0					https://covid19.min-saude.pt/
+Vale_de_Cambra	Vale de Cambra	2020-05-12	2020-05-11T23:00:00		150			0			0			2.0		https://covid19.min-saude.pt/
+Valongo	Valongo	2020-05-12	2020-05-11T23:00:00		737			0			0			1.14		https://covid19.min-saude.pt/
+Vaud	Vaud	2020-05-12	2020-05-10T22:00:00+0000	389	5375			12	0		12	0	1.71	7.29		https://www.bag.admin.ch/
+Velas	Velas	2020-05-12	2020-05-11T23:00:00		5			0			0					https://covid19.min-saude.pt/
+Vendas_Novas	Vendas Novas	2020-05-12	2020-05-11T23:00:00		8			0			-1			0.29		https://covid19.min-saude.pt/
+Veneto	Veneto	2020-05-12		1666	18741	11615	445905				19		17.29	48.43	267.71	http://www.salute.gov.it/
+Vestfold_og_Telemark	Vestfold og Telemark	2020-05-12	2020-05-11T11:00:00		279									0.29		https://www.fhi.no/
+Vestland	Vestland	2020-05-12	2020-05-11T11:00:00		877									0.86		https://www.fhi.no/
+Viana_do_Castelo	Viana do Castelo	2020-05-12	2020-05-11T23:00:00		174			0			0			1.57		https://covid19.min-saude.pt/
+Vieira_do_Minho	Vieira do Minho	2020-05-12	2020-05-11T23:00:00		34			0			0			0.43		https://covid19.min-saude.pt/
+Vienna	Vienna	2020-05-12	2020-05-11T20:00:00	144		2061							1.29		22.71	https://info.gesundheitsministerium.at/
+Vietnam	Vietnam	2020-05-12		0	288	249								2.43	2.43	https://ncov.moh.gov.vn/
+Viken_(county)	Viken (county)	2020-05-12	2020-05-11T11:00:00		2180									10.14		https://www.fhi.no/
+Vila_Flor	Vila Flor	2020-05-12	2020-05-11T23:00:00		3			0			0					https://covid19.min-saude.pt/
+Vila_Franca_de_Xira	Vila Franca de Xira	2020-05-12	2020-05-11T23:00:00		258			0			-1			6.0		https://covid19.min-saude.pt/
+Vila_Nova_de_Cerveira	Vila Nova de Cerveira	2020-05-12	2020-05-11T23:00:00		7			0			0					https://covid19.min-saude.pt/
+Vila_Nova_de_Gaia	Vila Nova de Gaia	2020-05-12	2020-05-11T23:00:00		1455			0			-2			4.29		https://covid19.min-saude.pt/
+Vila_Nova_de_Poiares	Vila Nova de Poiares	2020-05-12	2020-05-11T23:00:00		5			0			0			0.14		https://covid19.min-saude.pt/
+Vila_Pouca_de_Aguiar	Vila Pouca de Aguiar	2020-05-12	2020-05-11T23:00:00		4			0			0			0.14		https://covid19.min-saude.pt/
+Vila_Real	Vila Real	2020-05-12	2020-05-11T23:00:00		150			0			0			0.14		https://covid19.min-saude.pt/
+Vila_Verde	Vila Verde	2020-05-12	2020-05-11T23:00:00		214			0			0			6.57		https://covid19.min-saude.pt/
+Vila_do_Conde	Vila do Conde	2020-05-12	2020-05-11T23:00:00		279			0			0			2.71		https://covid19.min-saude.pt/
+Villach	Villach	2020-05-12	2020-05-11T20:00:00		22											https://info.gesundheitsministerium.at/
+Vimioso	Vimioso	2020-05-12	2020-05-11T23:00:00		10			0			0			0.29		https://covid19.min-saude.pt/
+Vinhais	Vinhais	2020-05-12	2020-05-11T23:00:00		28			0			0					https://covid19.min-saude.pt/
+Viseu	Viseu	2020-05-12	2020-05-11T23:00:00		99			0			0			0.57		https://covid19.min-saude.pt/
+Vizela	Vizela	2020-05-12	2020-05-11T23:00:00		101			0			0			0.29		https://covid19.min-saude.pt/
+Vladimir_Oblast	Vladimir Oblast	2020-05-12	2020-05-11T07:35:00+0000	15	1326	100		77	0	0	-6	-2				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Voitsberg_District	Voitsberg District	2020-05-12	2020-05-11T20:00:00		106									0.29		https://info.gesundheitsministerium.at/
+Volgograd_Oblast	Volgograd Oblast	2020-05-12	2020-05-11T07:35:00+0000	12	1061	314		49	0	20	-70	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Vologda_Oblast	Vologda Oblast	2020-05-12	2020-05-11T07:35:00+0000	1	298	104		12	0	6	-7	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Vorarlberg	Vorarlberg	2020-05-12	2020-05-11T20:00:00	18		839									1.57	https://info.gesundheitsministerium.at/
+Voronezh_Oblast	Voronezh Oblast	2020-05-12	2020-05-11T07:35:00+0000	12	899	342		51	0	10	12	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Vouzela	Vouzela	2020-05-12	2020-05-11T23:00:00		8			0			0					https://covid19.min-saude.pt/
+Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-05-12	2020-05-11T20:00:00		71											https://info.gesundheitsministerium.at/
+Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-05-12	2020-05-11T20:00:00		24									0.14		https://info.gesundheitsministerium.at/
+Waikato	Waikato	2020-05-12	2020-05-11T01:00:00+0000	1	188	174		1	0	4	1	0		0.29	3.14	https://www.health.govt.nz/
+Wales	Wales	2020-05-12	2020-05-11T14:57:05	1116	11468								13.29			https://www.gov.uk/
+Warrington	Warrington	2020-05-12	2020-05-11T14:57:05		683									2.29		https://www.gov.uk/
+Warwickshire	Warwickshire	2020-05-12	2020-05-11T14:57:05		1317									6.5		https://www.gov.uk/
+Weiz_District	Weiz District	2020-05-12	2020-05-11T20:00:00		188									3.14		https://info.gesundheitsministerium.at/
+Wels	Wels	2020-05-12	2020-05-11T20:00:00		58											https://info.gesundheitsministerium.at/
+West_Bengal	West Bengal	2020-05-12	2020-05-11T08:00:00	185	1939	417		153	14	45	45	3	21.43	139.43	38.0	https://www.mohfw.gov.in/
+West_Berkshire	West Berkshire	2020-05-12	2020-05-11T14:57:05		344									0.8		https://www.gov.uk/
+West_Coast,_New_Zealand	West Coast, New Zealand	2020-05-12	2020-05-11T01:00:00+0000	1	5	4		0	0	0	0	0				https://www.health.govt.nz/
+West_Kazakhstan_Region	West Kazakhstan Region	2020-05-12			254	101										https://www.coronavirus2020.kz/
+West_Midlands_(region)	West Midlands (region)	2020-05-12	2020-05-11T14:57:05		15000									65.71		https://www.gov.uk/
+West_Sussex	West Sussex	2020-05-12	2020-05-11T14:57:05		1230									1.38		https://www.gov.uk/
+Whanganui	Whanganui	2020-05-12	2020-05-12T01:00:00+0000		9	9		0		0	0					https://www.health.govt.nz/
+Wiener_Neustadt	Wiener Neustadt	2020-05-12	2020-05-11T20:00:00		53									0.71		https://info.gesundheitsministerium.at/
+Wiltshire	Wiltshire	2020-05-12	2020-05-11T14:57:05		491									2.14		https://www.gov.uk/
+Wolfsberg_District	Wolfsberg District	2020-05-12	2020-05-11T20:00:00		43											https://info.gesundheitsministerium.at/
+Wolverhampton	Wolverhampton	2020-05-12	2020-05-11T14:57:05		938									3.75		https://www.gov.uk/
+Worcestershire	Worcestershire	2020-05-12	2020-05-11T14:57:05		1266									6.0		https://www.gov.uk/
+Yakutia	Yakutia	2020-05-12	2020-05-11T07:35:00+0000	4	551	120		41	0	14	8	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2020-05-12	2020-05-11T07:35:00+0000	3	1239	178		62	0	12	-10	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Yaroslavl_Oblast	Yaroslavl Oblast	2020-05-12	2020-05-11T07:35:00+0000	11	1192	198		78	0	36	15	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+York	York	2020-05-12	2020-05-11T14:57:05		402									4.86		https://www.gov.uk/
+Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-05-12	2020-05-11T14:57:05		12366									66.43		https://www.gov.uk/
+Zabaykalsky_Krai	Zabaykalsky Krai	2020-05-12	2020-05-11T07:35:00+0000	0	344	115		39	0	4	6	0				https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Zwettl_District	Zwettl District	2020-05-12	2020-05-11T20:00:00		72											https://info.gesundheitsministerium.at/
