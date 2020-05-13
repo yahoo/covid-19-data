@@ -32,16 +32,44 @@ Provides general information about the regions covered in the dataset, such as g
 | latitude            | xsd:float   | latitude in decimal number format |
 | longitude           | xsd:float   | longitude in decimal number format |
 | population          | xsd:integer | the population residing in the region |
-| stateLabel          | xsd:string  | the English name of the state where the region is located (if applicable) |
-| stateId             | xsd:string  | the region id of the state if applicable |
-| countryLabel        | xsd:string  | the English name of the country where the region is located (if applicable) |
-| countryId           | xsd:string  | the region id of the country if applicable |
+| parentId            | list of xsd:string | a list of parent geopolitical regions for the region, this represents only direct parents as they exist in the dataset and not the full possible hierarchy |
 
 ### by-region-`[DATE]`
 
 Provides detailed case counts of COVID-19 in each region on `[DATE]` in local time for that region. Each entry (row) in the daily file represents a single region. 
 
 Please be aware that different sources release data at different and often unpredictable frequencies. The by-region-`[DATE]` numbers will be updated as sources release data for the given date for their region. In some cases, data for a given region is not released until many days after that calendar date has elapsed everywhere in the world.  As a result, the same by-region-`[DATE]` file may show different aggregate statistics for the same date depending on when the by-region-`[DATE]` is accessed.  Generally speaking, by-region-`[DATE]` data more than one week old is stable.
+
+| Field                   | Type        | Description |
+|-------------------------|-------------|-------------|
+| regionId                | xsd:string  | see _id_ above |
+| label                   | xsd:string  | see above      |
+| totalConfirmed          | xsd:integer | the total amount of confirmed cases of COVID-19 in the region until the given date (aggregate) |
+| totalDeaths             | xsd:integer | the total amount of fatalities from COVID-19 in the region |
+| totalRecoveredCases     | xsd:integer | the total amount of people recovered from COVID-19 in the region (aggregate) |
+| totalTestedCases        | xsd:integer | the total amount of people tested for COVID-19 in the region (aggregate) |
+| numPositiveTests        | xsd:integer | the daily count of people tested positive for COVID-19 |
+| numDeaths               | xsd:integer | the daily count of fatalities as a result of COVID-19 |
+| numRecoveredCases       | xsd:integer | the daily count of people recovered from COVID-19 |
+| diffNumPositiveTests    | xsd:integer | the difference in number of positive cases found between 2 consecutive days |
+| diffNumDeaths           | xsd:integer | the difference in number of deaths between 2 consecutive days |
+| avgWeeklyConfirmedCases | xsd:float   | 7-day moving average of daily new confirmed cases |
+| avgWeeklyDeaths         | xsd:float   | 7-day moving average of daily new deaths |
+| referenceDate           | xsd:date    | the date associated with the COVID-19 data according to the **local** timezone of the region |
+| lastUpdatedDate         | xsd:datetime| last update time of the entry |
+| dataSource              | xsd:anyURI  | the source attribution for the COVID-19 data in the current entry |
+
+### by-region-latest
+
+Provides the latest figures for each region.  
+
+The schema for the latest file is similar to the by-region-`[DATE]` above.
+There are 2 main differences:
+
+* All daily diff, moving average and daily numbers are removed - daily numbers in latest file can be misleading as they are dependant on the time of day at which the data was collected
+* _referenceDate_ - In the daily files, referenceDate always matches the filename, and represents the date in local time for the relevant data reported by the source for that region when that source was last consulted. In the latest file, referenceDate will differ across regions, representing _the latest date_ on which the source for a given region was consulted.
+
+Note that because different regions report at different and often unpredictable frequencies, the latest figures for one region may be many days older than the latest figures for another region.  For this reason, stable by-region-`[DATE]` numbers are required for an accurate comparison of growth rates in different regions.  Generally speaking, by-region-`[DATE]` data more than one week old is stable.
 
 | Field               | Type        | Description |
 |---------------------|-------------|-------------|
@@ -51,21 +79,9 @@ Please be aware that different sources release data at different and often unpre
 | totalDeaths         | xsd:integer | the total amount of fatalities from COVID-19 in the region |
 | totalRecoveredCases | xsd:integer | the total amount of people recovered from COVID-19 in the region (aggregate) |
 | totalTestedCases    | xsd:integer | the total amount of people tested for COVID-19 in the region (aggregate) |
-| numActiveCases      | xsd:integer | the current count of confirmed COVID-19 cases in the region which have yet to recover or otherwise |
-| numDeaths           | xsd:integer | the daily count of fatalities as a result of COVID-19 |
-| numRecoveredCases   | xsd:integer | the daily count of recovered cases |
-| numTests            | xsd:integer | the daily count of people tested for COVID-19 |
 | referenceDate       | xsd:date    | the date associated with the COVID-19 data according to the **local** timezone of the region |
 | lastUpdatedDate     | xsd:datetime| last update time of the entry |
 | dataSource          | xsd:anyURI  | the source attribution for the COVID-19 data in the current entry |
-
-### by-region-latest
-
-Provides the latest figures for each region.  
-
-The schema for the latest file is almost the same as the by-region-`[DATE]` above. The main difference is in _referenceDate_. In the daily files, referenceDate always matches the filename, and represents the date in local time for the relevant data reported by the source for that region when that source was last consulted. In the latest file, referenceDate will differ across regions, representing _the latest date_ on which the source for a given region was consulted.
-
-Note that because different regions report at different and often unpredictable frequencies, the latest figures for one region may be many days older than the latest figures for another region.  For this reason, stable by-region-`[DATE]` numbers are required for an accurate comparison of growth rates in different regions.  Generally speaking, by-region-`[DATE]` data more than one week old is stable.
 
 ## Maintainers
 
