@@ -5,65 +5,485 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 29205,_Columbia,_South_Carolina,_South_Carolina	29205, Columbia, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		24			0			0			0.0		https://www.scdhec.gov/
 29207,_Columbia,_South_Carolina,_South_Carolina	29207, Columbia, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		70			0			-10			2.14		https://www.scdhec.gov/
 29208,_Columbia,_South_Carolina,_South_Carolina	29208, Columbia, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29303,_Spartanburg,_South_Carolina,_South_Carolina	29303, Spartanburg, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		20			0			-1			0.57		https://www.scdhec.gov/
+29306,_Spartanburg,_South_Carolina,_South_Carolina	29306, Spartanburg, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		30			0			0			0.43		https://www.scdhec.gov/
 29307,_Spartanburg,_South_Carolina,_South_Carolina	29307, Spartanburg, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			0			0			0.0		https://www.scdhec.gov/
+29316,_Boiling_Springs,_South_Carolina,_South_Carolina	29316, Boiling Springs, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		34			1			0			0.43		https://www.scdhec.gov/
+29321,_Buffalo,_South_Carolina,_South_Carolina	29321, Buffalo, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29322,_Campobello,_South_Carolina,_South_Carolina	29322, Campobello, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29323,_Chesnee,_South_Carolina,_South_Carolina	29323, Chesnee, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		18			0			0			0.0		https://www.scdhec.gov/
+29325,_Clinton,_South_Carolina,_South_Carolina	29325, Clinton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29330,_Cowpens,_South_Carolina,_South_Carolina	29330, Cowpens, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29332,_Cross_Hill,_South_Carolina,_South_Carolina	29332, Cross Hill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29334,_Duncan,_South_Carolina,_South_Carolina	29334, Duncan, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		22			3			3			1.14		https://www.scdhec.gov/
+29335,_Enoree,_South_Carolina,_South_Carolina	29335, Enoree, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			-0.14		https://www.scdhec.gov/
+29340,_Gaffney,_South_Carolina,_South_Carolina	29340, Gaffney, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		13			0			-1			0.57		https://www.scdhec.gov/
+29341,_Gaffney,_South_Carolina,_South_Carolina	29341, Gaffney, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.14		https://www.scdhec.gov/
+29349,_Inman,_South_Carolina,_South_Carolina	29349, Inman, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		35			0			-2			0.86		https://www.scdhec.gov/
+29351,_Joanna,_South_Carolina,_South_Carolina	29351, Joanna, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29353,_Jonesville,_South_Carolina,_South_Carolina	29353, Jonesville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29355,_Kinards,_South_Carolina,_South_Carolina	29355, Kinards, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29356,_Landrum,_South_Carolina,_South_Carolina	29356, Landrum, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29360,_Laurens,_South_Carolina,_South_Carolina	29360, Laurens, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			1			1			0.57		https://www.scdhec.gov/
+29365,_Lyman,_South_Carolina,_South_Carolina	29365, Lyman, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		22			0			0			0.43		https://www.scdhec.gov/
+29369,_Moore,_South_Carolina,_South_Carolina	29369, Moore, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.14		https://www.scdhec.gov/
+29370,_Mountville,_South_Carolina,_South_Carolina	29370, Mountville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29372,_Pacolet,_South_Carolina,_South_Carolina	29372, Pacolet, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.14		https://www.scdhec.gov/
+29374,_Pauline,_South_Carolina,_South_Carolina	29374, Pauline, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.29		https://www.scdhec.gov/
+29376,_Roebuck,_South_Carolina,_South_Carolina	29376, Roebuck, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		16			1			1			0.43		https://www.scdhec.gov/
+29379,_Union,_South_Carolina,_South_Carolina	29379, Union, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		27			0			-1			0.43		https://www.scdhec.gov/
+29384,_Waterloo,_South_Carolina,_South_Carolina	29384, Waterloo, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29385,_Wellford,_South_Carolina,_South_Carolina	29385, Wellford, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		23			0			0			0.0		https://www.scdhec.gov/
+29388,_Woodruff,_South_Carolina,_South_Carolina	29388, Woodruff, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			1			1			0.14		https://www.scdhec.gov/
 29401,_Charleston,_South_Carolina,_South_Carolina	29401, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		13			0			0			0.29		https://www.scdhec.gov/
 29403,_Charleston,_South_Carolina,_South_Carolina	29403, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		28			0			0			0.0		https://www.scdhec.gov/
-29404,_North_Charleston,_South_Carolina,_South_Carolina	29404, North Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
 29405,_North_Charleston,_South_Carolina,_South_Carolina	29405, North Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		40			1			2			1.29		https://www.scdhec.gov/
+29406,_Charleston,_South_Carolina,_South_Carolina	29406, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		28			0			0			0.14		https://www.scdhec.gov/
 29407,_Charleston,_South_Carolina,_South_Carolina	29407, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		41			0			0			0.43		https://www.scdhec.gov/
+29410,_Hanahan,_South_Carolina,_South_Carolina	29410, Hanahan, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		46			0			0			0.29		https://www.scdhec.gov/
+29412,_Charleston,_South_Carolina,_South_Carolina	29412, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		41			0			0			0.0		https://www.scdhec.gov/
+29414,_Charleston,_South_Carolina,_South_Carolina	29414, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		37			0			0			0.0		https://www.scdhec.gov/
+29418,_North_Charleston,_South_Carolina,_South_Carolina	29418, North Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		28			0			-1			0.29		https://www.scdhec.gov/
+29420,_North_Charleston,_South_Carolina,_South_Carolina	29420, North Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		28			0			0			0.29		https://www.scdhec.gov/
 29424,_Charleston,_South_Carolina,_South_Carolina	29424, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
 29425,_Charleston,_South_Carolina,_South_Carolina	29425, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.29		https://www.scdhec.gov/
+29426,_Adams_Run,_South_Carolina,_South_Carolina	29426, Adams Run, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29429,_Awendaw,_South_Carolina,_South_Carolina	29429, Awendaw, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29431,_Bonneau,_South_Carolina,_South_Carolina	29431, Bonneau, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29432,_Branchville,_South_Carolina,_South_Carolina	29432, Branchville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29435,_Cottageville,_South_Carolina,_South_Carolina	29435, Cottageville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29436,_Cross,_South_Carolina,_South_Carolina	29436, Cross, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29440,_Georgetown,_South_Carolina,_South_Carolina	29440, Georgetown, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		25			0			0			0.57		https://www.scdhec.gov/
+29445,_Goose_Creek,_South_Carolina,_South_Carolina	29445, Goose Creek, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		35			0			0			0.14		https://www.scdhec.gov/
+29448,_Harleyville,_South_Carolina,_South_Carolina	29448, Harleyville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29449,_Hollywood,_South_Carolina,_South_Carolina	29449, Hollywood, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			0			0			0.0		https://www.scdhec.gov/
+29451,_Isle_of_Palms,_South_Carolina,_South_Carolina	29451, Isle of Palms, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29453,_Jamestown,_South_Carolina,_South_Carolina	29453, Jamestown, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29455,_Johns_Island,_South_Carolina,_South_Carolina	29455, Johns Island, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			0			0			0.0		https://www.scdhec.gov/
+29456,_Ladson,_South_Carolina,_South_Carolina	29456, Ladson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		24			-1			-1			0.29		https://www.scdhec.gov/
+29458,_McClellanville,_South_Carolina,_South_Carolina	29458, McClellanville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29461,_Moncks_Corner,_South_Carolina,_South_Carolina	29461, Moncks Corner, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		68			0			0			0.43		https://www.scdhec.gov/
+29464,_Mount_Pleasant,_South_Carolina,_South_Carolina	29464, Mount Pleasant, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		68			0			0			0.0		https://www.scdhec.gov/
+29466,_Mount_Pleasant,_South_Carolina,_South_Carolina	29466, Mount Pleasant, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		45			0			0			0.29		https://www.scdhec.gov/
+29469,_Pinopolis,_South_Carolina,_South_Carolina	29469, Pinopolis, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29470,_Ravenel,_South_Carolina,_South_Carolina	29470, Ravenel, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29471,_Reevesville,_South_Carolina,_South_Carolina	29471, Reevesville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29472,_Ridgeville,_South_Carolina,_South_Carolina	29472, Ridgeville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29474,_Round_O,_South_Carolina,_South_Carolina	29474, Round O, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29477,_St._George,_South_Carolina,_South_Carolina	29477, St. George, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29479,_St._Stephen,_South_Carolina,_South_Carolina	29479, St. Stephen, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			0			-1			0.29		https://www.scdhec.gov/
+29481,_Smoaks,_South_Carolina,_South_Carolina	29481, Smoaks, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29482,_Sullivan%27s_Island,_South_Carolina,_South_Carolina	29482, Sullivan%27s Island, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			0			0			0.14		https://www.scdhec.gov/
+29483,_Summerville,_South_Carolina,_South_Carolina	29483, Summerville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		30			1			1			0.14		https://www.scdhec.gov/
+29485,_Summerville,_South_Carolina,_South_Carolina	29485, Summerville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		37			0			0			0.57		https://www.scdhec.gov/
+29487,_Wadmalaw_Island,_South_Carolina	29487, Wadmalaw Island, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			-1			0.14		https://www.scdhec.gov/
+29488,_Walterboro,_South_Carolina,_South_Carolina	29488, Walterboro, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		20			0			0			0.0		https://www.scdhec.gov/
+29492,_Charleston,_South_Carolina,_South_Carolina	29492, Charleston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			0			0			-0.14		https://www.scdhec.gov/
+29501,_Florence,_South_Carolina,_South_Carolina	29501, Florence, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		131			3			1			3.29		https://www.scdhec.gov/
+29505,_Florence,_South_Carolina,_South_Carolina	29505, Florence, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		59			5			3			2.14		https://www.scdhec.gov/
+29506,_Florence,_South_Carolina,_South_Carolina	29506, Florence, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		76			2			-1			1.57		https://www.scdhec.gov/
+29510,_Andrews,_South_Carolina,_South_Carolina	29510, Andrews, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			0			0			0.0		https://www.scdhec.gov/
+29511,_Aynor,_South_Carolina,_South_Carolina	29511, Aynor, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			1			1			0.14		https://www.scdhec.gov/
+29512,_Bennettsville,_South_Carolina,_South_Carolina	29512, Bennettsville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		44			0			0			0.57		https://www.scdhec.gov/
+29516,_Blenheim,_South_Carolina,_South_Carolina	29516, Blenheim, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.14		https://www.scdhec.gov/
+29518,_Cades,_South_Carolina,_South_Carolina	29518, Cades, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29520,_Cheraw,_South_Carolina,_South_Carolina	29520, Cheraw, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		34			3			0			1.71		https://www.scdhec.gov/
+29525,_Clio,_South_Carolina,_South_Carolina	29525, Clio, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29526,_Conway,_South_Carolina,_South_Carolina	29526, Conway, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		25			1			1			0.43		https://www.scdhec.gov/
+29527,_Conway,_South_Carolina,_South_Carolina	29527, Conway, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		31			0			0			0.0		https://www.scdhec.gov/
+29530,_Coward,_South_Carolina,_South_Carolina	29530, Coward, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29532,_Darlington,_South_Carolina,_South_Carolina	29532, Darlington, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		60			0			-1			2.71		https://www.scdhec.gov/
+29536,_Dillon,_South_Carolina,_South_Carolina	29536, Dillon, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		57			2			0			1.71		https://www.scdhec.gov/
+29540,_Darlington,_South_Carolina,_South_Carolina	29540, Darlington, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		17			0			-1			0.29		https://www.scdhec.gov/
+29541,_Effingham,_South_Carolina,_South_Carolina	29541, Effingham, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		26			0			-1			0.86		https://www.scdhec.gov/
+29544,_Galivants_Ferry,_South_Carolina,_South_Carolina	29544, Galivants Ferry, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29545,_Green_Sea,_South_Carolina,_South_Carolina	29545, Green Sea, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29547,_Hamer,_South_Carolina,_South_Carolina	29547, Hamer, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			0			0.29		https://www.scdhec.gov/
+29550,_Hartsville,_South_Carolina,_South_Carolina	29550, Hartsville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		83			1			1			1.57		https://www.scdhec.gov/
+29554,_Hemingway,_South_Carolina,_South_Carolina	29554, Hemingway, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		28			0			0			0.14		https://www.scdhec.gov/
+29555,_Johnsonville,_South_Carolina,_South_Carolina	29555, Johnsonville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		10			0			0			0.29		https://www.scdhec.gov/
+29556,_Kingstree,_South_Carolina,_South_Carolina	29556, Kingstree, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		88			1			1			6.14		https://www.scdhec.gov/
+29560,_Lake_City,_South_Carolina,_South_Carolina	29560, Lake City, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		42			0			-1			1.86		https://www.scdhec.gov/
+29563,_Lake_View,_South_Carolina,_South_Carolina	29563, Lake View, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			0			-1			0.14		https://www.scdhec.gov/
+29564,_Lane,_South_Carolina,_South_Carolina	29564, Lane, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.14		https://www.scdhec.gov/
+29565,_Latta,_South_Carolina,_South_Carolina	29565, Latta, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		16			5			4			1.14		https://www.scdhec.gov/
+29566,_Little_River,_South_Carolina,_South_Carolina	29566, Little River, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			1			0			0.43		https://www.scdhec.gov/
+29567,_Little_Rock,_South_Carolina,_South_Carolina	29567, Little Rock, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29568,_Longs,_South_Carolina,_South_Carolina	29568, Longs, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			1			0			0.43		https://www.scdhec.gov/
+29569,_Loris,_South_Carolina,_South_Carolina	29569, Loris, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		28			1			0			1.43		https://www.scdhec.gov/
+29570,_McColl,_South_Carolina,_South_Carolina	29570, McColl, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29571,_Marion,_South_Carolina,_South_Carolina	29571, Marion, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		27			0			-3			1.0		https://www.scdhec.gov/
+29572,_Myrtle_Beach,_South_Carolina,_South_Carolina	29572, Myrtle Beach, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29574,_Mullins,_South_Carolina,_South_Carolina	29574, Mullins, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			0			0			0.43		https://www.scdhec.gov/
+29575,_Myrtle_Beach,_South_Carolina,_South_Carolina	29575, Myrtle Beach, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		13			1			1			0.29		https://www.scdhec.gov/
+29576,_Murrells_Inlet,_South_Carolina,_South_Carolina	29576, Murrells Inlet, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		25			0			0			0.14		https://www.scdhec.gov/
 29577,_Myrtle_Beach,_South_Carolina,_South_Carolina	29577, Myrtle Beach, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		25			0			0			0.43		https://www.scdhec.gov/
+29579,_Myrtle_Beach,_South_Carolina,_South_Carolina	29579, Myrtle Beach, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		23			0			-1			0.29		https://www.scdhec.gov/
+29580,_Nesmith,_South_Carolina,_South_Carolina	29580, Nesmith, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29581,_Nichols,_South_Carolina,_South_Carolina	29581, Nichols, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			-1			0.29		https://www.scdhec.gov/
+29582,_North_Myrtle_Beach,_South_Carolina,_South_Carolina	29582, North Myrtle Beach, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			0			0.29		https://www.scdhec.gov/
+29583,_Pamplico,_South_Carolina,_South_Carolina	29583, Pamplico, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.29		https://www.scdhec.gov/
+29584,_Patrick,_South_Carolina,_South_Carolina	29584, Patrick, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29585,_Pawleys_Island,_South_Carolina,_South_Carolina	29585, Pawleys Island, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		13			0			-1			0.14		https://www.scdhec.gov/
+29590,_Salters,_South_Carolina,_South_Carolina	29590, Salters, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			0			0.29		https://www.scdhec.gov/
+29591,_Scranton,_South_Carolina,_South_Carolina	29591, Scranton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		20			0			0			0.57		https://www.scdhec.gov/
+29592,_Sellers,_South_Carolina,_South_Carolina	29592, Sellers, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29593,_Society_Hill,_South_Carolina,_South_Carolina	29593, Society Hill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29596,_Wallace,_South_Carolina,_South_Carolina	29596, Wallace, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.14		https://www.scdhec.gov/
 29601,_Greenville,_South_Carolina,_South_Carolina	29601, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		29			0			0			0.57		https://www.scdhec.gov/
+29605,_Greenville,_South_Carolina,_South_Carolina	29605, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		82			0			-1			1.43		https://www.scdhec.gov/
+29607,_Greenville,_South_Carolina,_South_Carolina	29607, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		51			1			1			0.43		https://www.scdhec.gov/
+29609,_Greenville,_South_Carolina,_South_Carolina	29609, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		91			1			-28			4.71		https://www.scdhec.gov/
+29611,_Greenville,_South_Carolina,_South_Carolina	29611, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		81			3			2			2.0		https://www.scdhec.gov/
+29613,_Greenville,_South_Carolina,_South_Carolina	29613, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29615,_Greenville,_South_Carolina,_South_Carolina	29615, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		50			0			-3			0.86		https://www.scdhec.gov/
+29617,_Greenville,_South_Carolina,_South_Carolina	29617, Greenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		34			0			0			1.0		https://www.scdhec.gov/
+29620,_Abbeville,_South_Carolina,_South_Carolina	29620, Abbeville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		24			0			0			0.14		https://www.scdhec.gov/
+29621,_Anderson,_South_Carolina,_South_Carolina	29621, Anderson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		44			0			-1			0.57		https://www.scdhec.gov/
+29624,_Anderson,_South_Carolina,_South_Carolina	29624, Anderson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29625,_Anderson,_South_Carolina,_South_Carolina	29625, Anderson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		25			-1			-1			0.0		https://www.scdhec.gov/
+29626,_Anderson,_South_Carolina,_South_Carolina	29626, Anderson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			0			0			0.0		https://www.scdhec.gov/
+29627,_Belton,_South_Carolina,_South_Carolina	29627, Belton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.14		https://www.scdhec.gov/
+29628,_Calhoun_Falls,_South_Carolina,_South_Carolina	29628, Calhoun Falls, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29630,_Central,_South_Carolina,_South_Carolina	29630, Central, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
 29631,_Clemson,_South_Carolina,_South_Carolina	29631, Clemson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29634,_Clemson,_South_Carolina,_South_Carolina	29634, Clemson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29638,_Donalds,_South_Carolina,_South_Carolina	29638, Donalds, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29639,_Due_West,_South_Carolina,_South_Carolina	29639, Due West, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29640,_Easley,_South_Carolina,_South_Carolina	29640, Easley, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		20			0			-2			0.43		https://www.scdhec.gov/
+29642,_Easley,_South_Carolina,_South_Carolina	29642, Easley, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		35			4			1			1.71		https://www.scdhec.gov/
+29643,_Fair_Play,_South_Carolina,_South_Carolina	29643, Fair Play, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29644,_Fountain_Inn,_South_Carolina,_South_Carolina	29644, Fountain Inn, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		25			0			-1			0.57		https://www.scdhec.gov/
+29645,_Gray_Court,_South_Carolina,_South_Carolina	29645, Gray Court, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			0			0			0.29		https://www.scdhec.gov/
+29646,_Greenwood,_South_Carolina,_South_Carolina	29646, Greenwood, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		26			0			0			0.57		https://www.scdhec.gov/
+29649,_Greenwood,_South_Carolina,_South_Carolina	29649, Greenwood, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		21			0			0			0.43		https://www.scdhec.gov/
+29650,_Greer,_South_Carolina,_South_Carolina	29650, Greer, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		42			1			0			0.57		https://www.scdhec.gov/
+29651,_Greer,_South_Carolina,_South_Carolina	29651, Greer, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		78			2			-5			1.86		https://www.scdhec.gov/
+29653,_Hodges,_South_Carolina,_South_Carolina	29653, Hodges, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29654,_Honea_Path,_South_Carolina,_South_Carolina	29654, Honea Path, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.29		https://www.scdhec.gov/
+29655,_Iva,_South_Carolina,_South_Carolina	29655, Iva, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			2			2			0.43		https://www.scdhec.gov/
+29657,_Liberty,_South_Carolina,_South_Carolina	29657, Liberty, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29658,_Long_Creek,_South_Carolina,_South_Carolina	29658, Long Creek, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
 29659,_Lowndesville,_South_Carolina,_South_Carolina	29659, Lowndesville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
 29662,_Mauldin,_South_Carolina,_South_Carolina	29662, Mauldin, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		23			0			-1			0.57		https://www.scdhec.gov/
+29664,_Mountain_Rest,_South_Carolina,_South_Carolina	29664, Mountain Rest, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29666,_Ninety_Six,_South_Carolina,_South_Carolina	29666, Ninety Six, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.14		https://www.scdhec.gov/
 29667,_Norris,_South_Carolina,_South_Carolina	29667, Norris, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29669,_Pelzer,_South_Carolina,_South_Carolina	29669, Pelzer, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		19			0			0			0.57		https://www.scdhec.gov/
+29670,_Pendleton,_South_Carolina,_South_Carolina	29670, Pendleton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			0.14		https://www.scdhec.gov/
+29671,_Pickens,_South_Carolina,_South_Carolina	29671, Pickens, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			1			1			0.14		https://www.scdhec.gov/
+29672,_Seneca,_South_Carolina,_South_Carolina	29672, Seneca, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.43		https://www.scdhec.gov/
+29673,_Piedmont,_South_Carolina,_South_Carolina	29673, Piedmont, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		42			1			0			1.0		https://www.scdhec.gov/
+29676,_Salem,_South_Carolina,_South_Carolina	29676, Salem, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.14		https://www.scdhec.gov/
+29678,_Seneca,_South_Carolina,_South_Carolina	29678, Seneca, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.57		https://www.scdhec.gov/
+29680,_Simpsonville,_South_Carolina,_South_Carolina	29680, Simpsonville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		53			0			0			1.29		https://www.scdhec.gov/
+29681,_Simpsonville,_South_Carolina,_South_Carolina	29681, Simpsonville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		64			-1			-2			1.57		https://www.scdhec.gov/
+29682,_Six_Mile,_South_Carolina,_South_Carolina	29682, Six Mile, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29684,_Starr,_South_Carolina,_South_Carolina	29684, Starr, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29686,_Tamassee,_South_Carolina,_South_Carolina	29686, Tamassee, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29687,_Taylors,_South_Carolina,_South_Carolina	29687, Taylors, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		55			0			0			1.14		https://www.scdhec.gov/
 29688,_Tigerville,_South_Carolina,_South_Carolina	29688, Tigerville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29690,_Travelers_Rest,_South_Carolina,_South_Carolina	29690, Travelers Rest, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		16			0			0			0.14		https://www.scdhec.gov/
+29691,_Walhalla,_South_Carolina,_South_Carolina	29691, Walhalla, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29692,_Ware_Shoals,_South_Carolina,_South_Carolina	29692, Ware Shoals, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29693,_Westminster,_South_Carolina,_South_Carolina	29693, Westminster, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			0			0.14		https://www.scdhec.gov/
+29696,_West_Union,_South_Carolina,_South_Carolina	29696, West Union, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29697,_Williamston,_South_Carolina,_South_Carolina	29697, Williamston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			0			-2			0.57		https://www.scdhec.gov/
+29702,_Blacksburg,_South_Carolina,_South_Carolina	29702, Blacksburg, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29704,_Catawba,_South_Carolina,_South_Carolina	29704, Catawba, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29706,_Chester,_South_Carolina,_South_Carolina	29706, Chester, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		17			0			0			0.14		https://www.scdhec.gov/
+29708,_Fort_Mill,_South_Carolina,_South_Carolina	29708, Fort Mill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		23			0			0			0.0		https://www.scdhec.gov/
+29709,_Chesterfield,_South_Carolina,_South_Carolina	29709, Chesterfield, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29710,_Clover,_South_Carolina,_South_Carolina	29710, Clover, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		35			0			0			0.14		https://www.scdhec.gov/
+29712,_Edgemoor,_South_Carolina,_South_Carolina	29712, Edgemoor, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29714,_Fort_Lawn,_South_Carolina,_South_Carolina	29714, Fort Lawn, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			-1			-1			0.14		https://www.scdhec.gov/
+29715,_Fort_Mill,_South_Carolina,_South_Carolina	29715, Fort Mill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		35			0			-1			0.0		https://www.scdhec.gov/
+29717,_Hickory_Grove,_South_Carolina,_South_Carolina	29717, Hickory Grove, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29718,_Jefferson,_South_Carolina,_South_Carolina	29718, Jefferson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			0			0.43		https://www.scdhec.gov/
+29720,_Lancaster,_South_Carolina,_South_Carolina	29720, Lancaster, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		79			5			4			0.71		https://www.scdhec.gov/
+29726,_McConnells,_South_Carolina,_South_Carolina	29726, McConnells, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29727,_Mount_Croghan,_South_Carolina,_South_Carolina	29727, Mount Croghan, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29728,_Pageland,_South_Carolina,_South_Carolina	29728, Pageland, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			1			1			0.57		https://www.scdhec.gov/
+29729,_Richburg,_South_Carolina,_South_Carolina	29729, Richburg, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			0			0.43		https://www.scdhec.gov/
+29730,_Rock_Hill,_South_Carolina,_South_Carolina	29730, Rock Hill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		50			1			1			0.71		https://www.scdhec.gov/
+29732,_Rock_Hill,_South_Carolina,_South_Carolina	29732, Rock Hill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		69			0			-2			1.0		https://www.scdhec.gov/
+29741,_Ruby,_South_Carolina,_South_Carolina	29741, Ruby, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29742,_Sharon,_South_Carolina,_South_Carolina	29742, Sharon, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29743,_Smyrna,_South_Carolina,_South_Carolina	29743, Smyrna, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.14		https://www.scdhec.gov/
+29745,_York,_South_Carolina,_South_Carolina	29745, York, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			0			0			0.14		https://www.scdhec.gov/
+29801,_Aiken,_South_Carolina,_South_Carolina	29801, Aiken, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		18			0			0			0.0		https://www.scdhec.gov/
+29803,_Aiken,_South_Carolina,_South_Carolina	29803, Aiken, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		23			2			2			0.43		https://www.scdhec.gov/
+29805,_Aiken,_South_Carolina,_South_Carolina	29805, Aiken, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29808,_Aiken,_South_Carolina,_South_Carolina	29808, Aiken, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29809,_New_Ellenton,_South_Carolina,_South_Carolina	29809, New Ellenton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29810,_Allendale,_South_Carolina,_South_Carolina	29810, Allendale, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		13			1			0			1.14		https://www.scdhec.gov/
+29812,_Barnwell,_South_Carolina,_South_Carolina	29812, Barnwell, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		15			0			0			0.43		https://www.scdhec.gov/
+29817,_Blackville,_South_Carolina,_South_Carolina	29817, Blackville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		10			0			-1			0.43		https://www.scdhec.gov/
+29819,_Bradley,_South_Carolina,_South_Carolina	29819, Bradley, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29821,_Clarks_Hill,_South_Carolina,_South_Carolina	29821, Clarks Hill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29824,_Edgefield,_South_Carolina,_South_Carolina	29824, Edgefield, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			-1			0.14		https://www.scdhec.gov/
+29827,_Fairfax,_South_Carolina,_South_Carolina	29827, Fairfax, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.43		https://www.scdhec.gov/
+29828,_Gloverville,_South_Carolina,_South_Carolina	29828, Gloverville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29829,_Graniteville,_South_Carolina,_South_Carolina	29829, Graniteville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29831,_Jackson,_South_Carolina,_South_Carolina	29831, Jackson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			-1			0.14		https://www.scdhec.gov/
+29832,_Johnston,_South_Carolina,_South_Carolina	29832, Johnston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		20			0			-2			0.57		https://www.scdhec.gov/
+29835,_McCormick,_South_Carolina,_South_Carolina	29835, McCormick, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		7			0			0			0.14		https://www.scdhec.gov/
+29836,_Martin,_South_Carolina,_South_Carolina	29836, Martin, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29838,_Modoc,_South_Carolina,_South_Carolina	29838, Modoc, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29840,_Mount_Carmel,_South_Carolina,_South_Carolina	29840, Mount Carmel, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29841,_North_Augusta,_South_Carolina,_South_Carolina	29841, North Augusta, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		36			0			-3			0.71		https://www.scdhec.gov/
+29842,_Beech_Island,_South_Carolina,_South_Carolina	29842, Beech Island, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29843,_Olar,_South_Carolina,_South_Carolina	29843, Olar, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29845,_Plum_Branch,_South_Carolina,_South_Carolina	29845, Plum Branch, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29847,_Trenton,_South_Carolina,_South_Carolina	29847, Trenton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29848,_Troy,_South_Carolina,_South_Carolina	29848, Troy, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29849,_Ulmer,_South_Carolina,_South_Carolina	29849, Ulmer, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29851,_Warrenville,_South_Carolina,_South_Carolina	29851, Warrenville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29853,_Williston,_South_Carolina,_South_Carolina	29853, Williston, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			0			0			0.29		https://www.scdhec.gov/
+29856,_Windsor,_South_Carolina,_South_Carolina	29856, Windsor, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29860,_North_Augusta,_South_Carolina,_South_Carolina	29860, North Augusta, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.14		https://www.scdhec.gov/
+29902,_Beaufort,_South_Carolina,_South_Carolina	29902, Beaufort, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		85			1			1			0.14		https://www.scdhec.gov/
+29906,_Beaufort,_South_Carolina,_South_Carolina	29906, Beaufort, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		43			1			1			0.29		https://www.scdhec.gov/
+29910,_Bluffton,_South_Carolina,_South_Carolina	29910, Bluffton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		49			0			0			0.14		https://www.scdhec.gov/
+29911,_Brunson,_South_Carolina,_South_Carolina	29911, Brunson, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29912,_Coosawhatchie,_South_Carolina,_South_Carolina	29912, Coosawhatchie, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29915,_Daufuskie_Island,_South_Carolina	29915, Daufuskie Island, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29918,_Estill,_South_Carolina,_South_Carolina	29918, Estill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		8			0			0			0.14		https://www.scdhec.gov/
+29920,_Saint_Helena_Island_(South_Carolina),_South_Carolina	29920, Saint Helena Island (South Carolina), South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			0			0			0.14		https://www.scdhec.gov/
+29924,_Hampton,_South_Carolina,_South_Carolina	29924, Hampton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		11			1			1			0.14		https://www.scdhec.gov/
 29926,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29926, Hilton Head Island, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		17			0			0			0.0		https://www.scdhec.gov/
+29927,_Hardeeville,_South_Carolina,_South_Carolina	29927, Hardeeville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		6			0			-1			0.14		https://www.scdhec.gov/
 29928,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29928, Hilton Head Island, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		12			1			1			0.0		https://www.scdhec.gov/
+29929,_Islandton,_South_Carolina,_South_Carolina	29929, Islandton, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29932,_Luray,_South_Carolina,_South_Carolina	29932, Luray, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29935,_Port_Royal,_South_Carolina,_South_Carolina	29935, Port Royal, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29936,_Ridgeland,_South_Carolina,_South_Carolina	29936, Ridgeland, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		16			1			0			0.29		https://www.scdhec.gov/
+29940,_Seabrook,_South_Carolina,_South_Carolina	29940, Seabrook, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29941,_Sheldon,_South_Carolina,_South_Carolina	29941, Sheldon, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29944,_Varnville,_South_Carolina,_South_Carolina	29944, Varnville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29945,_Yemassee,_South_Carolina,_South_Carolina	29945, Yemassee, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+46324,_Hammond,_Indiana,_Indiana	46324, Hammond, Indiana, Indiana	2020-05-10	2020-05-10T05:00:00.000Z		8		93	2			2					http://www.dph.illinois.gov/
+53142,_Kenosha,_Wisconsin,_Wisconsin	53142, Kenosha, Wisconsin, Wisconsin	2020-05-10	2020-05-10T05:00:00.000Z		6		116	0			0			-1.0		http://www.dph.illinois.gov/
+60002,_Antioch,_Illinois,_Illinois	60002, Antioch, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		66		468	1			1			1.57		http://www.dph.illinois.gov/
 60004,_Arlington_Heights,_Illinois,_Illinois	60004, Arlington Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		187		1799	5			1			6.86		http://www.dph.illinois.gov/
 60005,_Arlington_Heights,_Illinois,_Illinois	60005, Arlington Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		97		560	2			-3			3.14		http://www.dph.illinois.gov/
+60007,_Elk_Grove_Village,_Illinois,_Illinois	60007, Elk Grove Village, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		137		678	3			-6			4.29		http://www.dph.illinois.gov/
+60008,_Rolling_Meadows,_Illinois,_Illinois	60008, Rolling Meadows, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		166		733	1			-3			6.0		http://www.dph.illinois.gov/
+60010,_Barrington_station,_Illinois	60010, Barrington station, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		58		565	2			0			1.71		http://www.dph.illinois.gov/
+60012,_Crystal_Lake,_Illinois,_Illinois	60012, Crystal Lake, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		62		188	0			-3			1.43		http://www.dph.illinois.gov/
+60013,_Cary,_Illinois,_Illinois	60013, Cary, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		54		317	0			-1			1.43		http://www.dph.illinois.gov/
+60014,_Crystal_Lake,_Illinois,_Illinois	60014, Crystal Lake, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		107		761	2			-4			3.86		http://www.dph.illinois.gov/
+60015,_Deerfield,_Illinois,_Illinois	60015, Deerfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		125		692	2			-4			3.57		http://www.dph.illinois.gov/
 60016,_Des_Plaines,_Illinois,_Illinois	60016, Des Plaines, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		731		2186	9			-6			19.86		http://www.dph.illinois.gov/
+60018,_Des_Plaines,_Illinois,_Illinois	60018, Des Plaines, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		317		1004	5			-1			8.86		http://www.dph.illinois.gov/
+60020,_Fox_Lake,_Illinois,_Illinois	60020, Fox Lake, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		207	0			0			0.43		http://www.dph.illinois.gov/
+60021,_Fox_River_Grove,_Illinois,_Illinois	60021, Fox River Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		79	0			0			0.14		http://www.dph.illinois.gov/
+60022,_Glencoe,_Illinois,_Illinois	60022, Glencoe, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		23		209	0			0			0.0		http://www.dph.illinois.gov/
 60025,_Glenview,_Illinois,_Illinois	60025, Glenview, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		236		1239	5			1			3.86		http://www.dph.illinois.gov/
 60026,_Glenview,_Illinois,_Illinois	60026, Glenview, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		96		422	3			3			1.14		http://www.dph.illinois.gov/
+60030,_Grayslake,_Illinois,_Illinois	60030, Grayslake, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		103		694	1			-4			3.57		http://www.dph.illinois.gov/
+60031,_Gurnee,_Illinois,_Illinois	60031, Gurnee, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		191		954	0			-2			6.14		http://www.dph.illinois.gov/
+60033,_Harvard,_Illinois,_Illinois	60033, Harvard, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		79		304	0			-6			2.29		http://www.dph.illinois.gov/
+60035,_Highland_Park,_Illinois,_Illinois	60035, Highland Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		171		938	0			-4			2.29		http://www.dph.illinois.gov/
+60040,_Highwood,_Illinois,_Illinois	60040, Highwood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		60		181	1			-3			1.86		http://www.dph.illinois.gov/
+60041,_Ingleside,_Illinois,_Illinois	60041, Ingleside, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		25		165	0			0			0.57		http://www.dph.illinois.gov/
+60042,_Island_Lake,_Illinois,_Illinois	60042, Island Lake, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		19		114	0			-1			1.0		http://www.dph.illinois.gov/
+60043,_Kenilworth,_Illinois,_Illinois	60043, Kenilworth, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		14		94	0			0			0.0		http://www.dph.illinois.gov/
+60044,_Lake_Bluff,_Illinois,_Illinois	60044, Lake Bluff, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		64		315	3			3			1.43		http://www.dph.illinois.gov/
+60045,_Lake_Forest,_Illinois,_Illinois	60045, Lake Forest, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		97		549	1			2			0.86		http://www.dph.illinois.gov/
+60046,_Lake_Villa,_Illinois,_Illinois	60046, Lake Villa, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		116		629	0			-5			3.71		http://www.dph.illinois.gov/
+60047,_Lake_Zurich,_Illinois,_Illinois	60047, Lake Zurich, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		114		557	4			-1			3.57		http://www.dph.illinois.gov/
+60048,_Libertyville,_Illinois,_Illinois	60048, Libertyville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		78		500	2			-1			2.0		http://www.dph.illinois.gov/
+60050,_McHenry,_Illinois,_Illinois	60050, McHenry, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		118		613	0			-4			2.29		http://www.dph.illinois.gov/
+60051,_McHenry,_Illinois,_Illinois	60051, McHenry, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		64		417	0			0			2.29		http://www.dph.illinois.gov/
+60053,_Morton_Grove,_Illinois,_Illinois	60053, Morton Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		184		794	1			-2			4.71		http://www.dph.illinois.gov/
+60056,_Mount_Prospect,_Illinois,_Illinois	60056, Mount Prospect, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		369		1372	5			-7			11.43		http://www.dph.illinois.gov/
+60060,_Mundelein,_Illinois,_Illinois	60060, Mundelein, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		249		827	5			5			8.43		http://www.dph.illinois.gov/
+60061,_Vernon_Hills,_Illinois,_Illinois	60061, Vernon Hills, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		104		488	0			-2			2.14		http://www.dph.illinois.gov/
 60062,_Northbrook,_Illinois,_Illinois	60062, Northbrook, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		224		1351	4			0			6.71		http://www.dph.illinois.gov/
 60064,_North_Chicago,_Illinois,_Illinois	60064, North Chicago, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		396		758	3			-16			12.29		http://www.dph.illinois.gov/
+60067,_Palatine,_Illinois,_Illinois	60067, Palatine, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		95		642	0			-3			4.14		http://www.dph.illinois.gov/
+60068,_Park_Ridge,_Illinois,_Illinois	60068, Park Ridge, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		193		901	8			3			3.86		http://www.dph.illinois.gov/
+60069,_Lincolnshire,_Illinois,_Illinois	60069, Lincolnshire, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		45		223	0			0			1.0		http://www.dph.illinois.gov/
+60070,_Prospect_Heights,_Illinois,_Illinois	60070, Prospect Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		123		424	5			4			3.86		http://www.dph.illinois.gov/
+60071,_Richmond,_Illinois,_Illinois	60071, Richmond, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		7		58	0			0			0.14		http://www.dph.illinois.gov/
+60073,_Round_Lake,_Illinois,_Illinois	60073, Round Lake, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		445		1443	8			-28			21.29		http://www.dph.illinois.gov/
 60074,_Palatine,_Illinois,_Illinois	60074, Palatine, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		212		876	4			-4			9.14		http://www.dph.illinois.gov/
 60076,_Skokie,_Illinois,_Illinois	60076, Skokie, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		327		1491	7			4			7.14		http://www.dph.illinois.gov/
 60077,_Skokie,_Illinois,_Illinois	60077, Skokie, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		266		1232	4			-2			5.14		http://www.dph.illinois.gov/
+60081,_Spring_Grove,_Illinois,_Illinois	60081, Spring Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		154	0			-1			0.57		http://www.dph.illinois.gov/
+60083,_Wadsworth,_Illinois,_Illinois	60083, Wadsworth, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		62		233	0			-3			1.0		http://www.dph.illinois.gov/
+60084,_Wauconda,_Illinois,_Illinois	60084, Wauconda, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		107		271	4			2			2.0		http://www.dph.illinois.gov/
 60085,_Waukegan,_Illinois,_Illinois	60085, Waukegan, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		1506		3063	2			-65			46.43		http://www.dph.illinois.gov/
+60087,_Waukegan,_Illinois,_Illinois	60087, Waukegan, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		393		1045	0			-22			13.57		http://www.dph.illinois.gov/
+60089,_Buffalo_Grove,_Illinois,_Illinois	60089, Buffalo Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		144		740	0			-6			3.71		http://www.dph.illinois.gov/
+60090,_Wheeling_station_(Illinois),_Illinois	60090, Wheeling station (Illinois), Illinois	2020-05-10	2020-05-10T05:00:00.000Z		363		1166	5			-4			12.14		http://www.dph.illinois.gov/
+60091,_Wilmette,_Illinois,_Illinois	60091, Wilmette, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		111		801	0			0			0.86		http://www.dph.illinois.gov/
+60093,_Winnetka,_Illinois,_Illinois	60093, Winnetka, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		106		635	0			-1			0.86		http://www.dph.illinois.gov/
+60096,_Winthrop_Harbor,_Illinois,_Illinois	60096, Winthrop Harbor, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		21		118	1			1			0.57		http://www.dph.illinois.gov/
+60097,_Wonder_Lake_(CDP),_Illinois,_Illinois	60097, Wonder Lake (CDP), Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		26		206	1			0			1.0		http://www.dph.illinois.gov/
+60098,_Woodstock,_Illinois,_Illinois	60098, Woodstock, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		204		719	2			-10			7.57		http://www.dph.illinois.gov/
+60099,_Zion,_Illinois,_Illinois	60099, Zion, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		318		937	4			-9			8.57		http://www.dph.illinois.gov/
+60101,_Addison,_Illinois,_Illinois	60101, Addison, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		410		1251	8			-4			13.29		http://www.dph.illinois.gov/
+60102,_Algonquin,_Illinois,_Illinois	60102, Algonquin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		74		480	1			0			1.71		http://www.dph.illinois.gov/
+60103,_Bartlett,_Illinois,_Illinois	60103, Bartlett, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		140		794	4			1			5.0		http://www.dph.illinois.gov/
+60104,_Bellwood_station_(Metra),_Illinois	60104, Bellwood station (Metra), Illinois	2020-05-10	2020-05-10T05:00:00.000Z		284		962	8			3			5.57		http://www.dph.illinois.gov/
 60106,_Bensenville,_Illinois,_Illinois	60106, Bensenville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		313		1046	10			4			9.0		http://www.dph.illinois.gov/
+60107,_Streamwood,_Illinois,_Illinois	60107, Streamwood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		287		1046	10			0			10.71		http://www.dph.illinois.gov/
 60108,_Bloomingdale,_Illinois,_Illinois	60108, Bloomingdale, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		141		1116	3			0			3.86		http://www.dph.illinois.gov/
+60109,_Burlington,_Illinois,_Illinois	60109, Burlington, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		11		268	0			0					http://www.dph.illinois.gov/
+60110,_Carpentersville,_Illinois,_Illinois	60110, Carpentersville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		284		737	14			-1			12.57		http://www.dph.illinois.gov/
+60112,_Cortland,_Illinois,_Illinois	60112, Cortland, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		15		85	0			0			0.0		http://www.dph.illinois.gov/
+60115,_DeKalb,_Illinois,_Illinois	60115, DeKalb, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		64		657	0			-3			2.29		http://www.dph.illinois.gov/
+60119,_Elburn,_Illinois,_Illinois	60119, Elburn, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		175	0			0			0.43		http://www.dph.illinois.gov/
+60120,_Elgin,_Illinois,_Illinois	60120, Elgin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		540		1279	36			-4			33.71		http://www.dph.illinois.gov/
 60123,_Elgin,_Illinois,_Illinois	60123, Elgin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		328		1062	22			4			19.0		http://www.dph.illinois.gov/
+60126,_Elmhurst,_Illinois,_Illinois	60126, Elmhurst, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		163		1122	3			1			2.71		http://www.dph.illinois.gov/
+60130,_Forest_Park,_Illinois,_Illinois	60130, Forest Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		80		588	0			-2			1.57		http://www.dph.illinois.gov/
+60131,_Franklin_Park,_Illinois,_Illinois	60131, Franklin Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		211		777	3			-2			7.57		http://www.dph.illinois.gov/
+60134,_Geneva,_Illinois,_Illinois	60134, Geneva, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		84		428	1			-1			1.14		http://www.dph.illinois.gov/
+60135,_Genoa,_Illinois,_Illinois	60135, Genoa, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		19		125	0			-1			1.14		http://www.dph.illinois.gov/
+60136,_Gilberts,_Illinois,_Illinois	60136, Gilberts, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		28		127	1			0			0.71		http://www.dph.illinois.gov/
+60137,_Glen_Ellyn,_Illinois,_Illinois	60137, Glen Ellyn, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		83		690	0			-1			2.29		http://www.dph.illinois.gov/
+60139,_Glendale_Heights,_Illinois,_Illinois	60139, Glendale Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		312		1079	8			-2			10.71		http://www.dph.illinois.gov/
+60140,_Hampshire,_Illinois,_Illinois	60140, Hampshire, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		46		311	-1			-4			1.86		http://www.dph.illinois.gov/
+60141,_Hines,_Illinois,_Illinois	60141, Hines, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		7		174	0			0			0.14		http://www.dph.illinois.gov/
+60142,_Huntley,_Illinois,_Illinois	60142, Huntley, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		48		512	2			3			1.0		http://www.dph.illinois.gov/
+60143,_Itasca_station,_Illinois	60143, Itasca station, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		95		442	2			-3			2.29		http://www.dph.illinois.gov/
+60148,_Lombard,_Illinois,_Illinois	60148, Lombard, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		164		1105	2			-2			3.71		http://www.dph.illinois.gov/
+60152,_Marengo,_Illinois,_Illinois	60152, Marengo, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		37		197	0			-1			1.57		http://www.dph.illinois.gov/
+60153,_Maywood,_Illinois,_Illinois	60153, Maywood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		295		1203	5			-2			7.14		http://www.dph.illinois.gov/
+60154,_Westchester,_Illinois,_Illinois	60154, Westchester, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		131		738	4			1			3.14		http://www.dph.illinois.gov/
+60157,_Medinah,_Illinois,_Illinois	60157, Medinah, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		44	0			0			0.0		http://www.dph.illinois.gov/
 60160,_Melrose_Park,_Illinois,_Illinois	60160, Melrose Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		398		1256	10			-10			15.43		http://www.dph.illinois.gov/
+60162,_Hillside,_Illinois,_Illinois	60162, Hillside, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		97		400	2			2			2.0		http://www.dph.illinois.gov/
+60163,_Berkeley,_Illinois,_Illinois	60163, Berkeley, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		54		213	0			0			1.14		http://www.dph.illinois.gov/
+60164,_Melrose_Park,_Illinois,_Illinois	60164, Melrose Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		296		1359	6			-17			10.43		http://www.dph.illinois.gov/
+60165,_Stone_Park,_Illinois,_Illinois	60165, Stone Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		111		252	0			-4			4.57		http://www.dph.illinois.gov/
+60171,_River_Grove,_Illinois,_Illinois	60171, River Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		65		375	0			0			1.57		http://www.dph.illinois.gov/
+60172,_Roselle,_Illinois,_Illinois	60172, Roselle, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		137		553	3			2			5.43		http://www.dph.illinois.gov/
 60173,_Schaumburg,_Illinois,_Illinois	60173, Schaumburg, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		44		199	0			-3			2.29		http://www.dph.illinois.gov/
 60174,_St._Charles,_Illinois,_Illinois	60174, St. Charles, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		77		831	4			0			2.71		http://www.dph.illinois.gov/
+60175,_St._Charles,_Illinois,_Illinois	60175, St. Charles, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		40		418	1			0			1.0		http://www.dph.illinois.gov/
+60176,_Schiller_Park,_Illinois,_Illinois	60176, Schiller Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		85		379	2			-2			3.0		http://www.dph.illinois.gov/
+60177,_South_Elgin,_Illinois,_Illinois	60177, South Elgin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		154		467	0			-4			11.43		http://www.dph.illinois.gov/
+60178,_Sycamore,_Illinois,_Illinois	60178, Sycamore, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		299	0			0			0.71		http://www.dph.illinois.gov/
+60181,_Villa_Park,_Illinois,_Illinois	60181, Villa Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		148		702	7			2			4.86		http://www.dph.illinois.gov/
+60185,_West_Chicago,_Illinois,_Illinois	60185, West Chicago, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		335		1074	13			-1			13.86		http://www.dph.illinois.gov/
 60187,_Wheaton,_Illinois,_Illinois	60187, Wheaton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		72		613	0			-4			2.57		http://www.dph.illinois.gov/
 60188,_Carol_Stream,_Illinois,_Illinois	60188, Carol Stream, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		276		1127	4			-4			7.57		http://www.dph.illinois.gov/
+60189,_Wheaton,_Illinois,_Illinois	60189, Wheaton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		55		530	1			1			0.86		http://www.dph.illinois.gov/
+60190,_Winfield,_Illinois,_Illinois	60190, Winfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		23		327	0			-1			1.14		http://www.dph.illinois.gov/
 60191,_Wood_Dale,_Illinois,_Illinois	60191, Wood Dale, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		98		400	2			0			4.43		http://www.dph.illinois.gov/
 60192,_Hoffman_Estates,_Illinois,_Illinois	60192, Hoffman Estates, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		245	1			-1			1.0		http://www.dph.illinois.gov/
 60193,_Schaumburg,_Illinois,_Illinois	60193, Schaumburg, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		128		710	2			-3			3.57		http://www.dph.illinois.gov/
 60194,_Schaumburg,_Illinois,_Illinois	60194, Schaumburg, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		74		401	4			3			2.29		http://www.dph.illinois.gov/
+60195,_Schaumburg,_Illinois,_Illinois	60195, Schaumburg, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		66	0			0			0.0		http://www.dph.illinois.gov/
 60201,_Evanston,_Illinois,_Illinois	60201, Evanston, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		232		1544	10			9			5.71		http://www.dph.illinois.gov/
 60202,_Evanston,_Illinois,_Illinois	60202, Evanston, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		239		1342	7			-1			7.43		http://www.dph.illinois.gov/
-60203,_Skokie,_Illinois,_Illinois	60203, Skokie, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		21		146	0			0			0.14		http://www.dph.illinois.gov/
+60203,_Evanston,_Illinois,_Illinois	60203, Evanston, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		21		146	0			0			0.14		http://www.dph.illinois.gov/
 60301,_Oak_Park,_Illinois,_Illinois	60301, Oak Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		99	0			0			0.14		http://www.dph.illinois.gov/
 60302,_Oak_Park,_Illinois,_Illinois	60302, Oak Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		142		1073	1			-1			2.14		http://www.dph.illinois.gov/
 60304,_Oak_Park,_Illinois,_Illinois	60304, Oak Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		56		522	1			-2			1.14		http://www.dph.illinois.gov/
+60305,_River_Forest,_Illinois,_Illinois	60305, River Forest, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		322	0			0			0.43		http://www.dph.illinois.gov/
+60401,_Beecher,_Illinois,_Illinois	60401, Beecher, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		32		228	0			0			0.29		http://www.dph.illinois.gov/
+60402,_Berwyn,_Illinois,_Illinois	60402, Berwyn, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		818		3087	17			-16			28.29		http://www.dph.illinois.gov/
+60406,_Blue_Island%E2%80%93Vermont_Street_station,_Illinois	60406, Blue Island%E2%80%93Vermont Street station, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		278		1122	6			-1			11.14		http://www.dph.illinois.gov/
+60408,_Braidwood,_Illinois,_Illinois	60408, Braidwood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		104	0			0			0.29		http://www.dph.illinois.gov/
+60409,_Calumet_City,_Illinois,_Illinois	60409, Calumet City, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		384		1818	13			7			9.0		http://www.dph.illinois.gov/
+60410,_Channahon,_Illinois,_Illinois	60410, Channahon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		24		288	0			0			0.43		http://www.dph.illinois.gov/
+60411,_Chicago_Heights,_Illinois,_Illinois	60411, Chicago Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		622		2868	10			-8			15.57		http://www.dph.illinois.gov/
+60415,_Chicago_Ridge,_Illinois,_Illinois	60415, Chicago Ridge, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		137		468	1			0			2.86		http://www.dph.illinois.gov/
+60417,_Crete,_Illinois,_Illinois	60417, Crete, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		106		595	2			2			2.29		http://www.dph.illinois.gov/
+60419,_Dolton,_Illinois,_Illinois	60419, Dolton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		249		1261	1			-1			4.14		http://www.dph.illinois.gov/
+60422,_Flossmoor,_Illinois,_Illinois	60422, Flossmoor, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		65		440	1			1			0.71		http://www.dph.illinois.gov/
+60423,_Frankfort,_Illinois,_Illinois	60423, Frankfort, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		103		676	1			1			2.14		http://www.dph.illinois.gov/
+60425,_Glenwood,_Illinois,_Illinois	60425, Glenwood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		94		591	1			0			2.29		http://www.dph.illinois.gov/
+60426,_Harvey,_Illinois,_Illinois	60426, Harvey, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		310		1547	5			1			7.14		http://www.dph.illinois.gov/
+60429,_Hazel_Crest,_Illinois,_Illinois	60429, Hazel Crest, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		173		1087	5			4			3.0		http://www.dph.illinois.gov/
+60430,_Homewood,_Illinois,_Illinois	60430, Homewood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		206		967	2			2			3.86		http://www.dph.illinois.gov/
 60431,_Joliet,_Illinois,_Illinois	60431, Joliet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		120		834	0			-1			2.0		http://www.dph.illinois.gov/
+60432,_Joliet,_Illinois,_Illinois	60432, Joliet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		171		676	4			-2			7.14		http://www.dph.illinois.gov/
+60433,_Joliet,_Illinois,_Illinois	60433, Joliet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		163		595	4			2			6.43		http://www.dph.illinois.gov/
 60434,_Joliet,_Illinois,_Illinois	60434, Joliet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		133		86	0			0			0.14		http://www.dph.illinois.gov/
 60435,_Joliet,_Illinois,_Illinois	60435, Joliet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		437		2115	4			-8			10.29		http://www.dph.illinois.gov/
+60436,_Joliet,_Illinois,_Illinois	60436, Joliet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		119		708	2			-2			3.14		http://www.dph.illinois.gov/
+60438,_Lansing,_Illinois,_Illinois	60438, Lansing, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		240		1152	3			4			5.0		http://www.dph.illinois.gov/
+60439,_Lemont,_Illinois,_Illinois	60439, Lemont, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		59		506	0			-1			0.71		http://www.dph.illinois.gov/
 60440,_Bolingbrook,_Illinois,_Illinois	60440, Bolingbrook, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		546		2117	6			-5			21.29		http://www.dph.illinois.gov/
+60441,_Lockport,_Illinois,_Illinois	60441, Lockport, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		135		791	0			1			2.29		http://www.dph.illinois.gov/
+60442,_Manhattan,_Illinois,_Illinois	60442, Manhattan, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		208	0			-1			0.86		http://www.dph.illinois.gov/
+60443,_Matteson,_Illinois,_Illinois	60443, Matteson, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		267		1222	1			0			4.0		http://www.dph.illinois.gov/
+60445,_Midlothian,_Illinois,_Illinois	60445, Midlothian, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		101		631	1			-3			2.57		http://www.dph.illinois.gov/
+60446,_Romeoville,_Illinois,_Illinois	60446, Romeoville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		296		1428	7			2			9.86		http://www.dph.illinois.gov/
+60447,_Minooka,_Illinois,_Illinois	60447, Minooka, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		24		317	0			0			0.14		http://www.dph.illinois.gov/
+60448,_Mokena,_Illinois,_Illinois	60448, Mokena, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		92		476	0			0			1.71		http://www.dph.illinois.gov/
+60449,_Monee,_Illinois,_Illinois	60449, Monee, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		57		371	0			-1			1.29		http://www.dph.illinois.gov/
+60450,_Morris,_Illinois,_Illinois	60450, Morris, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		23		289	0			-1			0.57		http://www.dph.illinois.gov/
+60451,_New_Lenox,_Illinois,_Illinois	60451, New Lenox, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		69		570	1			1			1.0		http://www.dph.illinois.gov/
+60452,_Oak_Forest,_Illinois,_Illinois	60452, Oak Forest, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		134		788	3			1			3.0		http://www.dph.illinois.gov/
 60453,_Oak_Lawn,_Illinois,_Illinois	60453, Oak Lawn, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		490		1828	4			-14			16.43		http://www.dph.illinois.gov/
+60455,_Bridgeview,_Illinois,_Illinois	60455, Bridgeview, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		221		889	3			-3			5.14		http://www.dph.illinois.gov/
+60456,_Hometown,_Illinois,_Illinois	60456, Hometown, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		159	1			0			1.71		http://www.dph.illinois.gov/
+60457,_Hickory_Hills,_Illinois,_Illinois	60457, Hickory Hills, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		89		338	1			-2			2.86		http://www.dph.illinois.gov/
+60458,_Justice,_Illinois,_Illinois	60458, Justice, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		82		478	4			1			3.29		http://www.dph.illinois.gov/
+60459,_Burbank,_Illinois,_Illinois	60459, Burbank, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		248		953	3			-3			8.71		http://www.dph.illinois.gov/
+60461,_Olympia_Fields,_Illinois,_Illinois	60461, Olympia Fields, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		46		284	0			0			1.0		http://www.dph.illinois.gov/
 60462,_Orland_Park,_Illinois,_Illinois	60462, Orland Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		183		1022	1			-7			4.29		http://www.dph.illinois.gov/
+60463,_Palos_Heights,_Illinois,_Illinois	60463, Palos Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		146		471	0			-1			5.71		http://www.dph.illinois.gov/
+60464,_Palos_Park,_Illinois,_Illinois	60464, Palos Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		213	0			-1			0.71		http://www.dph.illinois.gov/
+60465,_Palos_Hills,_Illinois,_Illinois	60465, Palos Hills, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		135		508	9			1			5.43		http://www.dph.illinois.gov/
+60466,_Park_Forest_(meteorite),_Illinois	60466, Park Forest (meteorite), Illinois	2020-05-10	2020-05-10T05:00:00.000Z		394		1554	0			-6			6.71		http://www.dph.illinois.gov/
+60467,_Orland_Park,_Illinois,_Illinois	60467, Orland Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		112		579	3			0			1.71		http://www.dph.illinois.gov/
+60468,_Peotone,_Illinois,_Illinois	60468, Peotone, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		20		111	1			1			0.43		http://www.dph.illinois.gov/
+60469,_Posen,_Illinois,_Illinois	60469, Posen, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		36		223	0			0			0.29		http://www.dph.illinois.gov/
+60471,_Richton_Park,_Illinois,_Illinois	60471, Richton Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		162		753	1			-8			3.43		http://www.dph.illinois.gov/
+60472,_Robbins,_Illinois,_Illinois	60472, Robbins, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		49		299	2			2			0.86		http://www.dph.illinois.gov/
+60473,_South_Holland,_Illinois,_Illinois	60473, South Holland, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		277		1362	4			2			5.29		http://www.dph.illinois.gov/
+60475,_Steger,_Illinois,_Illinois	60475, Steger, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		56		344	0			-1			1.0		http://www.dph.illinois.gov/
+60476,_Thornton,_Illinois,_Illinois	60476, Thornton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		14		98	0			0			0.14		http://www.dph.illinois.gov/
+60477,_Tinley_Park,_Illinois,_Illinois	60477, Tinley Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		159		961	2			-2			5.29		http://www.dph.illinois.gov/
+60478,_Country_Club_Hills,_Illinois,_Illinois	60478, Country Club Hills, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		248		1227	6			4			5.57		http://www.dph.illinois.gov/
+60480,_Willow_Springs,_Illinois,_Illinois	60480, Willow Springs, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		149	1			1			0.57		http://www.dph.illinois.gov/
+60481,_Wilmington,_Will_County,_Illinois,_Illinois	60481, Wilmington, Will County, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		211	1			0			0.29		http://www.dph.illinois.gov/
+60482,_Worth,_Illinois,_Illinois	60482, Worth, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		60		304	2			2			2.43		http://www.dph.illinois.gov/
 60490,_Bolingbrook,_Illinois,_Illinois	60490, Bolingbrook, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		105		630	3			0			2.57		http://www.dph.illinois.gov/
+60501,_Summit,_Illinois,_Illinois	60501, Summit, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		165		473	6			7			7.14		http://www.dph.illinois.gov/
 60504,_Aurora,_Illinois,_Illinois	60504, Aurora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		149		739	9			5			5.14		http://www.dph.illinois.gov/
 60505,_Aurora,_Illinois,_Illinois	60505, Aurora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		788		1724	39			-12			43.43		http://www.dph.illinois.gov/
+60506,_Aurora,_Illinois,_Illinois	60506, Aurora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		474		1921	62			45			22.0		http://www.dph.illinois.gov/
+60510,_Batavia,_Illinois,_Illinois	60510, Batavia, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		55		515	1			1			1.57		http://www.dph.illinois.gov/
+60513,_Brookfield,_Illinois,_Illinois	60513, Brookfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		97		753	5			5			2.86		http://www.dph.illinois.gov/
+60514,_Clarendon_Hills,_Illinois,_Illinois	60514, Clarendon Hills, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		29		260	1			1			0.43		http://www.dph.illinois.gov/
 60515,_Downers_Grove,_Illinois,_Illinois	60515, Downers Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		54		480	5			4			1.57		http://www.dph.illinois.gov/
+60516,_Downers_Grove,_Illinois,_Illinois	60516, Downers Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		77		539	2			1			1.71		http://www.dph.illinois.gov/
+60517,_Woodridge,_Illinois,_Illinois	60517, Woodridge, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		137		804	2			-1			3.43		http://www.dph.illinois.gov/
 60521,_Hinsdale,_Illinois,_Illinois	60521, Hinsdale, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		163		621	2			1			6.14		http://www.dph.illinois.gov/
+60523,_Oak_Brook,_Illinois,_Illinois	60523, Oak Brook, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		65		363	1			-2			2.57		http://www.dph.illinois.gov/
+60525,_La_Grange,_Illinois,_Illinois	60525, La Grange, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		183		1191	2			-11			5.14		http://www.dph.illinois.gov/
+60526,_La_Grange_Park,_Illinois,_Illinois	60526, La Grange Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		50		517	0			1			1.57		http://www.dph.illinois.gov/
+60527,_Willowbrook,_DuPage_County,_Illinois,_Illinois	60527, Willowbrook, DuPage County, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		176		1075	3			0			2.14		http://www.dph.illinois.gov/
+60532,_Lisle,_Illinois,_Illinois	60532, Lisle, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		76		499	0			-1			1.43		http://www.dph.illinois.gov/
+60534,_Lyons,_Illinois,_Illinois	60534, Lyons, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		88		404	2			-1			3.14		http://www.dph.illinois.gov/
+60538,_Montgomery,_Illinois,_Illinois	60538, Montgomery, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		138		553	10			-1			5.57		http://www.dph.illinois.gov/
 60540,_Naperville,_Illinois,_Illinois	60540, Naperville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		76		815	1			-1			2.14		http://www.dph.illinois.gov/
+60542,_North_Aurora,_Illinois,_Illinois	60542, North Aurora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		59		404	3			1			2.0		http://www.dph.illinois.gov/
+60543,_Oswego,_Illinois,_Illinois	60543, Oswego, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		136		634	20			16			6.43		http://www.dph.illinois.gov/
+60544,_Plainfield,_Illinois,_Illinois	60544, Plainfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		107		800	2			1			3.14		http://www.dph.illinois.gov/
+60545,_Plano,_Illinois,_Illinois	60545, Plano, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		75		326	5			3			4.14		http://www.dph.illinois.gov/
+60546,_Riverside,_Illinois,_Illinois	60546, Riverside, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		97		663	3			2			2.14		http://www.dph.illinois.gov/
+60548,_Sandwich,_Illinois,_Illinois	60548, Sandwich, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		199	6			3			2.29		http://www.dph.illinois.gov/
+60551,_Sheridan,_Illinois,_Illinois	60551, Sheridan, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		60	0			0			0.0		http://www.dph.illinois.gov/
+60552,_Somonauk,_Illinois,_Illinois	60552, Somonauk, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		70	0			0			0.0		http://www.dph.illinois.gov/
+60554,_Sugar_Grove,_Illinois,_Illinois	60554, Sugar Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		21		194	1			1			0.43		http://www.dph.illinois.gov/
+60555,_Warrenville,_Illinois,_Illinois	60555, Warrenville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		61		321	1			0			1.86		http://www.dph.illinois.gov/
+60558,_Western_Springs,_Illinois,_Illinois	60558, Western Springs, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		24		284	1			-3			0.71		http://www.dph.illinois.gov/
+60559,_Westmont,_Illinois,_Illinois	60559, Westmont, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		201		720	6			-7			6.43		http://www.dph.illinois.gov/
+60560,_Yorkville,_Illinois,_Illinois	60560, Yorkville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		51		343	3			1			1.14		http://www.dph.illinois.gov/
+60561,_Darien,_Illinois,_Illinois	60561, Darien, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		81		607	2			2			0.43		http://www.dph.illinois.gov/
 60563,_Naperville,_Illinois,_Illinois	60563, Naperville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		106		818	1			-3			3.86		http://www.dph.illinois.gov/
+60564,_Naperville,_Illinois,_Illinois	60564, Naperville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		90		734	2			0			2.0		http://www.dph.illinois.gov/
+60565,_Naperville,_Illinois,_Illinois	60565, Naperville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		138		702	22			19			5.0		http://www.dph.illinois.gov/
 60601,_Chicago,_Illinois	60601, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		62		453	0			0			0.86		http://www.dph.illinois.gov/
 60602,_Chicago,_Illinois	60602, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		76	0			0			0.29		http://www.dph.illinois.gov/
 60604,_Chicago,_Illinois	60604, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		13		64	0			-1			0.57		http://www.dph.illinois.gov/
@@ -98,6 +518,7 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 60634,_Chicago,_Illinois	60634, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		888		4153	16			-3			27.0		http://www.dph.illinois.gov/
 60636,_Chicago,_Illinois	60636, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		474		1453	11			3			11.29		http://www.dph.illinois.gov/
 60637,_Chicago,_Illinois	60637, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		407		2593	10			1			9.14		http://www.dph.illinois.gov/
+60638,_Chicago,_Illinois	60638, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		718		2895	-15			-36			20.29		http://www.dph.illinois.gov/
 60639,_Chicago,_Illinois	60639, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		1969		4942	48			-21			77.43		http://www.dph.illinois.gov/
 60640,_Chicago,_Illinois	60640, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		583		2426	3			-14			15.0		http://www.dph.illinois.gov/
 60641,_Chicago,_Illinois	60641, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		812		2907	19			-5			27.43		http://www.dph.illinois.gov/
@@ -117,27 +538,198 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 60659,_Chicago,_Illinois	60659, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		488		1536	9			-4			11.71		http://www.dph.illinois.gov/
 60660,_Chicago,_Illinois	60660, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		280		1166	4			-3			5.57		http://www.dph.illinois.gov/
 60661,_Chicago,_Illinois	60661, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		28		265	0			0			0.29		http://www.dph.illinois.gov/
+60706,_Harwood_Heights,_Illinois,_Illinois	60706, Harwood Heights, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		234		1309	3			-4			7.0		http://www.dph.illinois.gov/
+60707,_Elmwood_Park,_Illinois,_Illinois	60707, Elmwood Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		506		2176	8			-5			14.57		http://www.dph.illinois.gov/
+60712,_Lincolnwood,_Illinois,_Illinois	60712, Lincolnwood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		121		551	1			0			1.43		http://www.dph.illinois.gov/
+60714,_Niles,_Illinois,_Illinois	60714, Niles, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		506		1589	5			-9			18.29		http://www.dph.illinois.gov/
+60803,_Alsip,_Illinois,_Illinois	60803, Alsip, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		158		731	4			2			5.0		http://www.dph.illinois.gov/
+60804,_Cicero,_Illinois,_Illinois	60804, Cicero, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		1719		4681	69			-19			66.57		http://www.dph.illinois.gov/
+60805,_Evergreen_Park,_Illinois,_Illinois	60805, Evergreen Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		176		641	1			-7			3.71		http://www.dph.illinois.gov/
+60827,_Riverdale,_Illinois,_Illinois	60827, Riverdale, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		235		1170	5			3			3.71		http://www.dph.illinois.gov/
+60901,_Kankakee,_Illinois,_Illinois	60901, Kankakee, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		295		1578	19			4			12.14		http://www.dph.illinois.gov/
+60914,_Bourbonnais,_Illinois,_Illinois	60914, Bourbonnais, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		86		735	6			2			3.57		http://www.dph.illinois.gov/
+60915,_Bradley,_Illinois,_Illinois	60915, Bradley, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		33		308	2			2			1.71		http://www.dph.illinois.gov/
+60922,_Chebanse,_Illinois,_Illinois	60922, Chebanse, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		77	0			0			0.43		http://www.dph.illinois.gov/
+60927,_Clifton,_Illinois,_Illinois	60927, Clifton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		39		111	0			-1			4.43		http://www.dph.illinois.gov/
+60950,_Manteno,_Illinois,_Illinois	60950, Manteno, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		51		279	26			26			4.71		http://www.dph.illinois.gov/
+60954,_Momence,_Illinois,_Illinois	60954, Momence, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		252	2			2			0.86		http://www.dph.illinois.gov/
+60955,_Onarga,_Illinois,_Illinois	60955, Onarga, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		32	1			-1					http://www.dph.illinois.gov/
+60964,_St._Anne,_Illinois,_Illinois	60964, St. Anne, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		102	1			0			1.0		http://www.dph.illinois.gov/
+61008,_Belvidere,_Illinois,_Illinois	61008, Belvidere, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		174		567	8			1			7.43		http://www.dph.illinois.gov/
+61016,_Cherry_Valley,_Illinois,_Illinois	61016, Cherry Valley, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		115	0			-1			0.29		http://www.dph.illinois.gov/
+61021,_Dixon,_Illinois,_Illinois	61021, Dixon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		53		523	0			0			5.29		http://www.dph.illinois.gov/
+61064,_Polo,_Illinois,_Illinois	61064, Polo, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		55	0			0			0.29		http://www.dph.illinois.gov/
+61065,_Poplar_Grove,_Illinois,_Illinois	61065, Poplar Grove, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		14		139	0			-1			0.0		http://www.dph.illinois.gov/
+61068,_Rochelle,_Illinois,_Illinois	61068, Rochelle, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		107		771	0			-5			1.43		http://www.dph.illinois.gov/
+61071,_Rock_Falls,_Illinois,_Illinois	61071, Rock Falls, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		25		159	1			1			0.57		http://www.dph.illinois.gov/
+61072,_Rockton,_Illinois,_Illinois	61072, Rockton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		15		131	0			0			1.14		http://www.dph.illinois.gov/
+61073,_Roscoe,_Illinois,_Illinois	61073, Roscoe, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		14		233	0			0			0.57		http://www.dph.illinois.gov/
+61080,_South_Beloit,_Illinois,_Illinois	61080, South Beloit, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		15		113	0			-1			0.57		http://www.dph.illinois.gov/
+61081,_Sterling,_Illinois,_Illinois	61081, Sterling, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		56		264	1			1			0.57		http://www.dph.illinois.gov/
+61084,_Stillman_Valley,_Illinois,_Illinois	61084, Stillman Valley, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		26	0			0			0.0		http://www.dph.illinois.gov/
+61101,_Rockford,_Illinois,_Illinois	61101, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		125		758	15			9			9.0		http://www.dph.illinois.gov/
+61102,_Rockford,_Illinois,_Illinois	61102, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		106		605	2			0			5.71		http://www.dph.illinois.gov/
+61103,_Rockford,_Illinois,_Illinois	61103, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		91		649	6			5			4.57		http://www.dph.illinois.gov/
 61104,_Rockford,_Illinois,_Illinois	61104, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		125		483	6			1			6.14		http://www.dph.illinois.gov/
 61107,_Rockford,_Illinois,_Illinois	61107, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		68		556	1			-6			4.0		http://www.dph.illinois.gov/
+61108,_Rockford,_Illinois,_Illinois	61108, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		128		624	4			-5			5.29		http://www.dph.illinois.gov/
+61109,_Rockford,_Illinois,_Illinois	61109, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		102		606	4			-2			4.29		http://www.dph.illinois.gov/
 61111,_Loves_Park,_Illinois,_Illinois	61111, Loves Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		31		356	2			-1			1.57		http://www.dph.illinois.gov/
+61114,_Rockford,_Illinois,_Illinois	61114, Rockford, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		34		236	0			-1			0.71		http://www.dph.illinois.gov/
+61115,_Machesney_Park,_Illinois,_Illinois	61115, Machesney Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		344	0			-4			1.29		http://www.dph.illinois.gov/
 61201,_Rock_Island,_Illinois,_Illinois	61201, Rock Island, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		137		594	1			-1			4.71		http://www.dph.illinois.gov/
+61235,_Atkinson,_Illinois,_Illinois	61235, Atkinson, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		43	0			0			0.0		http://www.dph.illinois.gov/
+61240,_Coal_Valley,_Illinois,_Illinois	61240, Coal Valley, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		74	2			2			0.29		http://www.dph.illinois.gov/
+61241,_Colona,_Illinois,_Illinois	61241, Colona, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		13		112	0			0			0.0		http://www.dph.illinois.gov/
+61244,_East_Moline,_Illinois,_Illinois	61244, East Moline, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		133		429	1			-1			2.0		http://www.dph.illinois.gov/
+61252,_Fulton,_Illinois,_Illinois	61252, Fulton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		53	0			0			0.0		http://www.dph.illinois.gov/
+61254,_Geneseo,_Illinois,_Illinois	61254, Geneseo, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		7		182	0			0					http://www.dph.illinois.gov/
+61264,_Milan,_Illinois,_Illinois	61264, Milan, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		18		174	1			-1			0.57		http://www.dph.illinois.gov/
 61265,_Moline,_Illinois,_Illinois	61265, Moline, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		162		812	2			-1			3.86		http://www.dph.illinois.gov/
+61270,_Morrison,_Illinois,_Illinois	61270, Morrison, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		82	0			0					http://www.dph.illinois.gov/
+61275,_Port_Byron,_Illinois,_Illinois	61275, Port Byron, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		57	0			0			0.14		http://www.dph.illinois.gov/
+61282,_Silvis,_Illinois,_Illinois	61282, Silvis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		31		139	0			0			0.14		http://www.dph.illinois.gov/
+61341,_Marseilles,_Illinois,_Illinois	61341, Marseilles, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		179	3			-3					http://www.dph.illinois.gov/
+61342,_Mendota,_Illinois,_Illinois	61342, Mendota, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		14		108	0			0			0.0		http://www.dph.illinois.gov/
+61350,_Ottawa,_Illinois,_Illinois	61350, Ottawa, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		269	0			-2					http://www.dph.illinois.gov/
+61356,_Princeton,_Illinois,_Illinois	61356, Princeton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		149	0			1			0.0		http://www.dph.illinois.gov/
+61401,_Galesburg,_Illinois,_Illinois	61401, Galesburg, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		61		772	2			0			2.43		http://www.dph.illinois.gov/
+61410,_Abingdon,_Illinois,_Illinois	61410, Abingdon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		52	0			0					http://www.dph.illinois.gov/
+61443,_Kewanee,_Illinois,_Illinois	61443, Kewanee, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		205	0			1			0.57		http://www.dph.illinois.gov/
+61455,_Macomb,_Illinois,_Illinois	61455, Macomb, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		40		396	0			-1			1.71		http://www.dph.illinois.gov/
+61462,_Monmouth,_Illinois,_Illinois	61462, Monmouth, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		92		331	4			1			2.86		http://www.dph.illinois.gov/
+61525,_Dunlap,_Illinois,_Illinois	61525, Dunlap, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		128	0			0					http://www.dph.illinois.gov/
+61548,_Metamora,_Illinois,_Illinois	61548, Metamora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		141	0			0					http://www.dph.illinois.gov/
+61554,_Pekin,_Illinois,_Illinois	61554, Pekin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		651	0			0			0.71		http://www.dph.illinois.gov/
 61603,_Peoria,_Illinois,_Illinois	61603, Peoria, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		538	1			-1			1.14		http://www.dph.illinois.gov/
+61604,_Peoria,_Illinois,_Illinois	61604, Peoria, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		24		782	-1			-2			0.71		http://www.dph.illinois.gov/
 61605,_Peoria,_Illinois,_Illinois	61605, Peoria, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		401	0			0					http://www.dph.illinois.gov/
+61610,_Creve_Coeur,_Illinois,_Illinois	61610, Creve Coeur, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		85	0			0					http://www.dph.illinois.gov/
+61611,_East_Peoria,_Illinois,_Illinois	61611, East Peoria, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		18		416	0			0			0.14		http://www.dph.illinois.gov/
 61614,_Peoria,_Illinois,_Illinois	61614, Peoria, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		42		567	3			3			1.29		http://www.dph.illinois.gov/
+61615,_Peoria,_Illinois,_Illinois	61615, Peoria, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		18		464	0			0			0.0		http://www.dph.illinois.gov/
 61701,_Bloomington,_Illinois,_Illinois	61701, Bloomington, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		37		943	0			0			0.29		http://www.dph.illinois.gov/
+61704,_Bloomington,_Illinois,_Illinois	61704, Bloomington, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		20		738	1			0			0.29		http://www.dph.illinois.gov/
+61761,_Normal,_Illinois,_Illinois	61761, Normal, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		846	1			0			1.43		http://www.dph.illinois.gov/
+61764,_Pontiac,_Illinois,_Illinois	61764, Pontiac, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		206	0			0			0.0		http://www.dph.illinois.gov/
 61801,_Urbana,_Illinois,_Illinois	61801, Urbana, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		525	0			0			0.57		http://www.dph.illinois.gov/
+61802,_Urbana,_Illinois,_Illinois	61802, Urbana, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		31		650	2			2			1.43		http://www.dph.illinois.gov/
 61820,_Champaign,_Illinois,_Illinois	61820, Champaign, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		37		562	0			0			1.43		http://www.dph.illinois.gov/
 61821,_Champaign,_Illinois,_Illinois	61821, Champaign, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		801	4			4			1.43		http://www.dph.illinois.gov/
+61822,_Champaign,_Illinois,_Illinois	61822, Champaign, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		30		600	0			0			0.29		http://www.dph.illinois.gov/
+61832,_Danville,_Illinois,_Illinois	61832, Danville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		15		436	0			0			0.71		http://www.dph.illinois.gov/
+61853,_Mahomet,_Illinois,_Illinois	61853, Mahomet, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		11		313	0			0			0.29		http://www.dph.illinois.gov/
+61866,_Rantoul,_Illinois,_Illinois	61866, Rantoul, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		71		589	1			-8			6.57		http://www.dph.illinois.gov/
+61874,_Savoy,_Illinois,_Illinois	61874, Savoy, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		195	0			0			0.43		http://www.dph.illinois.gov/
+61910,_Arcola,_Illinois,_Illinois	61910, Arcola, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		64	0			0			0.0		http://www.dph.illinois.gov/
+61920,_Charleston,_Illinois,_Illinois	61920, Charleston, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		189	1			0			0.29		http://www.dph.illinois.gov/
+61938,_Mattoon,_Illinois,_Illinois	61938, Mattoon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		225	0			0			0.0		http://www.dph.illinois.gov/
+61953,_Tuscola,_Illinois,_Illinois	61953, Tuscola, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		118	0			0			0.0		http://www.dph.illinois.gov/
+62002,_Alton,_Illinois,_Illinois	62002, Alton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		67		343	1			-2			2.43		http://www.dph.illinois.gov/
+62010,_Bethalto,_Illinois,_Illinois	62010, Bethalto, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		83	1			1			0.14		http://www.dph.illinois.gov/
+62024,_East_Alton,_Illinois,_Illinois	62024, East Alton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		7		54	0			0			0.0		http://www.dph.illinois.gov/
+62025,_Edwardsville,_Illinois,_Illinois	62025, Edwardsville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		101		458	0			-1			0.71		http://www.dph.illinois.gov/
+62034,_Glen_Carbon,_Illinois,_Illinois	62034, Glen Carbon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		48		162	2			2			0.86		http://www.dph.illinois.gov/
+62035,_Godfrey,_Illinois,_Illinois	62035, Godfrey, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		17		115	2			0			0.86		http://www.dph.illinois.gov/
+62040,_Granite_City,_Illinois,_Illinois	62040, Granite City, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		63		399	1			1			0.71		http://www.dph.illinois.gov/
+62052,_Jerseyville,_Illinois,_Illinois	62052, Jerseyville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		13		67	1			1			0.43		http://www.dph.illinois.gov/
+62056,_Litchfield,_Illinois,_Illinois	62056, Litchfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		150	0			0			0.29		http://www.dph.illinois.gov/
+62060,_Madison,_Illinois,_Illinois	62060, Madison, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		56	1			1			0.86		http://www.dph.illinois.gov/
+62062,_Maryville,_Illinois,_Illinois	62062, Maryville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		152	0			0			0.0		http://www.dph.illinois.gov/
+62069,_Mount_Olive,_Illinois,_Illinois	62069, Mount Olive, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		67	0			0			0.14		http://www.dph.illinois.gov/
+62088,_Staunton,_Illinois,_Illinois	62088, Staunton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		201	0			0			0.0		http://www.dph.illinois.gov/
+62090,_Venice,_Illinois,_Illinois	62090, Venice, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		15	0			0			0.14		http://www.dph.illinois.gov/
+62095,_Wood_River,_Illinois,_Illinois	62095, Wood River, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		11		92	1			1			0.29		http://www.dph.illinois.gov/
 62201,_East_St._Louis,_Illinois,_Illinois	62201, East St. Louis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		57	0			0			-0.14		http://www.dph.illinois.gov/
+62203,_East_St._Louis,_Illinois,_Illinois	62203, East St. Louis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		26		110	2			2			0.86		http://www.dph.illinois.gov/
+62204,_East_St._Louis,_Illinois,_Illinois	62204, East St. Louis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		32		115	0			-1			0.86		http://www.dph.illinois.gov/
+62205,_East_St._Louis,_Illinois,_Illinois	62205, East St. Louis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		125	1			-1			2.14		http://www.dph.illinois.gov/
+62206,_East_St._Louis,_Illinois,_Illinois	62206, East St. Louis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		68		292	1			-4			2.43		http://www.dph.illinois.gov/
+62207,_East_St._Louis,_Illinois,_Illinois	62207, East St. Louis, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		46		121	1			-6			2.86		http://www.dph.illinois.gov/
+62208,_Fairview_Heights_station_(MetroLink),_Illinois	62208, Fairview Heights station (MetroLink), Illinois	2020-05-10	2020-05-10T05:00:00.000Z		40		169	1			0			0.57		http://www.dph.illinois.gov/
+62220,_Belleville,_Illinois,_Illinois	62220, Belleville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		84		191	8			-3			4.43		http://www.dph.illinois.gov/
+62221,_Belleville,_Illinois,_Illinois	62221, Belleville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		60		256	1			-1			2.43		http://www.dph.illinois.gov/
+62223,_Belleville,_Illinois,_Illinois	62223, Belleville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		41		150	2			1			0.86		http://www.dph.illinois.gov/
+62226,_Belleville,_Illinois,_Illinois	62226, Belleville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		93		469	4			-2			2.71		http://www.dph.illinois.gov/
+62230,_Breese,_Illinois,_Illinois	62230, Breese, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		83	0			0			0.0		http://www.dph.illinois.gov/
+62231,_Carlyle,_Illinois,_Illinois	62231, Carlyle, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		64		240	0			-1			1.0		http://www.dph.illinois.gov/
+62232,_Caseyville,_Illinois,_Illinois	62232, Caseyville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		56	1			1			0.43		http://www.dph.illinois.gov/
+62233,_Chester,_Illinois,_Illinois	62233, Chester, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		82		298	1			-4			2.57		http://www.dph.illinois.gov/
+62234,_Collinsville,_Illinois,_Illinois	62234, Collinsville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		38		268	4			2			1.14		http://www.dph.illinois.gov/
+62236,_Columbia,_Illinois,_Illinois	62236, Columbia, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		36		108	0			0			0.29		http://www.dph.illinois.gov/
+62239,_Dupo,_Illinois,_Illinois	62239, Dupo, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		11		35	0			-1			0.43		http://www.dph.illinois.gov/
+62249,_Highland,_Illinois,_Illinois	62249, Highland, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		102	0			0			0.0		http://www.dph.illinois.gov/
+62254,_Lebanon,_Illinois,_Illinois	62254, Lebanon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		19		92	0			0			0.29		http://www.dph.illinois.gov/
+62257,_Marissa,_Illinois,_Illinois	62257, Marissa, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		8		42	0			-1			0.14		http://www.dph.illinois.gov/
+62258,_Mascoutah,_Illinois,_Illinois	62258, Mascoutah, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		14		75	0			0			0.0		http://www.dph.illinois.gov/
+62265,_New_Baden,_Illinois,_Illinois	62265, New Baden, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		158	0			0			0.29		http://www.dph.illinois.gov/
+62269,_O%27Fallon,_Illinois,_Illinois	62269, O%27Fallon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		61		258	0			-4			1.86		http://www.dph.illinois.gov/
+62272,_Percy,_Illinois,_Illinois	62272, Percy, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		44		114	0			0			0.86		http://www.dph.illinois.gov/
+62274,_Pinckneyville,_Illinois,_Illinois	62274, Pinckneyville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		91	0			0			0.29		http://www.dph.illinois.gov/
+62278,_Red_Bud,_Illinois,_Illinois	62278, Red Bud, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		15		95	1			1			0.0		http://www.dph.illinois.gov/
+62285,_Smithton,_Illinois,_Illinois	62285, Smithton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		34	0			0					http://www.dph.illinois.gov/
+62286,_Sparta,_Illinois,_Illinois	62286, Sparta, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		27		190	0			-1			0.57		http://www.dph.illinois.gov/
+62288,_Steeleville,_Illinois,_Illinois	62288, Steeleville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		31		133	1			1			0.71		http://www.dph.illinois.gov/
+62294,_Troy,_Illinois,_Illinois	62294, Troy, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		98	0			0			0.14		http://www.dph.illinois.gov/
+62295,_Valmeyer,_Illinois,_Illinois	62295, Valmeyer, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		7		14	0			0			0.14		http://www.dph.illinois.gov/
+62298,_Waterloo,_Illinois,_Illinois	62298, Waterloo, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		37		156	0			0			0.57		http://www.dph.illinois.gov/
 62301,_Quincy,_Illinois,_Illinois	62301, Quincy, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		20		401	0			-1			0.14		http://www.dph.illinois.gov/
+62305,_Quincy,_Illinois,_Illinois	62305, Quincy, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		15		113	0			0			0.0		http://www.dph.illinois.gov/
+62448,_Newton,_Illinois,_Illinois	62448, Newton, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		37		208	0			0			-0.29		http://www.dph.illinois.gov/
+62454,_Robinson,_Illinois,_Illinois	62454, Robinson, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		7		104	0			0			0.0		http://www.dph.illinois.gov/
+62471,_Vandalia,_Illinois,_Illinois	62471, Vandalia, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		114	0			0			0.14		http://www.dph.illinois.gov/
+62521,_Decatur,_Illinois,_Illinois	62521, Decatur, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		87		601	1			-1			2.0		http://www.dph.illinois.gov/
+62522,_Decatur,_Illinois,_Illinois	62522, Decatur, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		125	1			1			0.43		http://www.dph.illinois.gov/
+62526,_Decatur,_Illinois,_Illinois	62526, Decatur, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		27		287	2			1			0.57		http://www.dph.illinois.gov/
+62565,_Shelbyville,_Illinois,_Illinois	62565, Shelbyville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		62	0			0			0.29		http://www.dph.illinois.gov/
+62568,_Taylorville,_Illinois,_Illinois	62568, Taylorville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		25		229	0			0			0.14		http://www.dph.illinois.gov/
+62618,_Beardstown,_Illinois,_Illinois	62618, Beardstown, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		51		433	0			-3			2.0		http://www.dph.illinois.gov/
+62629,_Chatham,_Illinois,_Illinois	62629, Chatham, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		287	0			0			0.29		http://www.dph.illinois.gov/
+62650,_Jacksonville,_Illinois,_Illinois	62650, Jacksonville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		24		426	0			-2			0.57		http://www.dph.illinois.gov/
+62656,_Lincoln,_Illinois,_Illinois	62656, Lincoln, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		384	0			0			0.29		http://www.dph.illinois.gov/
+62664,_Mason_City,_Illinois,_Illinois	62664, Mason City, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		77	0			0			0.14		http://www.dph.illinois.gov/
+62684,_Sherman,_Illinois,_Illinois	62684, Sherman, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		63		278	0			0			0.71		http://www.dph.illinois.gov/
 62702,_Springfield,_Illinois,_Illinois	62702, Springfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		48		951	0			0			1.57		http://www.dph.illinois.gov/
 62703,_Springfield,_Illinois,_Illinois	62703, Springfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		46		781	1			-3			2.29		http://www.dph.illinois.gov/
 62704,_Springfield,_Illinois,_Illinois	62704, Springfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		33		915	0			-1			1.29		http://www.dph.illinois.gov/
+62707,_Springfield,_Illinois,_Illinois	62707, Springfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		11		176	0			0			0.0		http://www.dph.illinois.gov/
+62801,_Centralia,_Illinois,_Illinois	62801, Centralia, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		50		548	0			0			0.71		http://www.dph.illinois.gov/
+62832,_Du_Quoin,_Illinois,_Illinois	62832, Du Quoin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		16		213	2			2			0.29		http://www.dph.illinois.gov/
+62864,_Mount_Vernon,_Illinois,_Illinois	62864, Mount Vernon, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		83		576	1			-4			1.0		http://www.dph.illinois.gov/
+62901,_Carbondale,_Illinois,_Illinois	62901, Carbondale, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		93		567	3			2			1.86		http://www.dph.illinois.gov/
+62902,_Carbondale,_Illinois,_Illinois	62902, Carbondale, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		77	0			0			0.29		http://www.dph.illinois.gov/
+62906,_Anna,_Illinois,_Illinois	62906, Anna, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		33		243	1			-1			3.71		http://www.dph.illinois.gov/
+62907,_Ava,_Illinois,_Illinois	62907, Ava, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		12		45	0			0			0.29		http://www.dph.illinois.gov/
+62918,_Carterville,_Illinois,_Illinois	62918, Carterville, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		10		165	0			0			0.29		http://www.dph.illinois.gov/
+62920,_Cobden,_Illinois,_Illinois	62920, Cobden, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		20		97	0			0			0.86		http://www.dph.illinois.gov/
+62948,_Herrin,_Illinois,_Illinois	62948, Herrin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		6		213	0			0					http://www.dph.illinois.gov/
+62959,_Marion,_Illinois,_Illinois	62959, Marion, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		23		511	0			0			0.86		http://www.dph.illinois.gov/
+62966,_Murphysboro,_Illinois,_Illinois	62966, Murphysboro, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		41		355	1			1			0.86		http://www.dph.illinois.gov/
+62992,_Ullin,_Illinois,_Illinois	62992, Ullin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		22		62	0			-2			0.86		http://www.dph.illinois.gov/
+29909,_Okatie,_South_Carolina,_South_Carolina	29909, Okatie, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+60133,_Hanover_Park,_Illinois,_Illinois	60133, Hanover Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		371		1167	15			0			14.0		http://www.dph.illinois.gov/
+60156,_Lake_in_the_Hills,_Illinois,_Illinois	60156, Lake in the Hills, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		73		467	2			-1			3.43		http://www.dph.illinois.gov/
+29588,_Myrtle_Beach,_South_Carolina,_South_Carolina	29588, Myrtle Beach, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		34			0			0			0.43		https://www.scdhec.gov/
+60155,_Broadview,_Illinois,_Illinois	60155, Broadview, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		119		383	3			2			3.29		http://www.dph.illinois.gov/
+60491,_Homer_Glen,_Illinois,_Illinois	60491, Homer Glen, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		99		493	1			-2			1.86		http://www.dph.illinois.gov/
 60502,_Aurora,_Illinois,_Illinois	60502, Aurora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		48		344	5			1			1.86		http://www.dph.illinois.gov/
 60503,_Aurora,_Illinois,_Illinois	60503, Aurora, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		35		228	1			0			1.57		http://www.dph.illinois.gov/
+60585,_Plainfield,_Illinois,_Illinois	60585, Plainfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		51		418	0			0			0.86		http://www.dph.illinois.gov/
+60586,_Plainfield,_Illinois,_Illinois	60586, Plainfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		209		1234	1			-7			6.43		http://www.dph.illinois.gov/
+60428,_Markham,_Illinois,_Illinois	60428, Markham, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		151		832	1			-3			1.14		http://www.dph.illinois.gov/
+62711,_Springfield,_Illinois,_Illinois	62711, Springfield, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		18		412	1			1			0.71		http://www.dph.illinois.gov/
+60124,_Elgin,_Illinois,_Illinois	60124, Elgin, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		44		301	0			-4			2.14		http://www.dph.illinois.gov/
 60169,_Hoffman_Estates,_Illinois,_Illinois	60169, Hoffman Estates, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		222		760	10			5			9.86		http://www.dph.illinois.gov/
+60403,_Crest_Hill,_Illinois,_Illinois	60403, Crest Hill, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		116		687	3			-5			4.14		http://www.dph.illinois.gov/
+60404,_Shorewood,_Illinois,_Illinois	60404, Shorewood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		76		570	0			0			2.14		http://www.dph.illinois.gov/
+60487,_Tinley_Park,_Illinois,_Illinois	60487, Tinley Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		95		604	1			-2			2.43		http://www.dph.illinois.gov/
+29707,_Fort_Mill,_South_Carolina,_South_Carolina	29707, Fort Mill, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		22			0			-1			0.29		https://www.scdhec.gov/
 60642,_Chicago,_Illinois	60642, Chicago, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		102		678	3			1			1.43		http://www.dph.illinois.gov/
+61705,_Bloomington,_Illinois,_Illinois	61705, Bloomington, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		9		279	0			-1			0.14		http://www.dph.illinois.gov/
+60484,_University_Park,_Illinois,_Illinois	60484, University Park, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		78		349	1			1			1.57		http://www.dph.illinois.gov/
+60958,_Pembroke_Township,_Kankakee_County,_Illinois,_Illinois	60958, Pembroke Township, Kankakee County, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		18		68	2			2			0.86		http://www.dph.illinois.gov/
+60418,_Crestwood,_Illinois,_Illinois	60418, Crestwood, Illinois, Illinois	2020-05-10	2020-05-10T05:00:00.000Z		66		281	3			1			1.71		http://www.dph.illinois.gov/
+29486,_Summerville,_South_Carolina,_South_Carolina	29486, Summerville, South Carolina, South Carolina	2020-05-10	2020-05-10T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-05-10		0	34			0	0		0	0	0.0	0.14		https://www.scdhec.gov/
 Abrantes	Abrantes	2020-05-10	2020-05-09T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Abruzzo	Abruzzo	2020-05-10		359	3103	1073	48110	17	4	18	9	0	4.14	15.29	39.29	http://www.salute.gov.it/
