@@ -1,47 +1,222 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+53142,_Kenosha,_Wisconsin,_Wisconsin	53142, Kenosha, Wisconsin, Wisconsin	2020-04-29	2020-04-29T05:00:00.000Z		9		71									http://www.dph.illinois.gov/
 53143,_Kenosha,_Wisconsin,_Wisconsin	53143, Kenosha, Wisconsin, Wisconsin	2020-04-29	2020-04-29T05:00:00.000Z		6		41									http://www.dph.illinois.gov/
+60002,_Antioch,_Illinois,_Illinois	60002, Antioch, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		52		333									http://www.dph.illinois.gov/
 60004,_Arlington_Heights,_Illinois,_Illinois	60004, Arlington Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		103		1322									http://www.dph.illinois.gov/
 60005,_Arlington_Heights,_Illinois,_Illinois	60005, Arlington Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		63		370									http://www.dph.illinois.gov/
+60007,_Elk_Grove_Village,_Illinois,_Illinois	60007, Elk Grove Village, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		91		433									http://www.dph.illinois.gov/
+60008,_Rolling_Meadows,_Illinois,_Illinois	60008, Rolling Meadows, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		93		307									http://www.dph.illinois.gov/
+60010,_Barrington_station,_Illinois	60010, Barrington station, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		40		321									http://www.dph.illinois.gov/
+60012,_Crystal_Lake,_Illinois,_Illinois	60012, Crystal Lake, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		44		117									http://www.dph.illinois.gov/
+60013,_Cary,_Illinois,_Illinois	60013, Cary, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		39		190									http://www.dph.illinois.gov/
+60014,_Crystal_Lake,_Illinois,_Illinois	60014, Crystal Lake, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		69		450									http://www.dph.illinois.gov/
+60015,_Deerfield,_Illinois,_Illinois	60015, Deerfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		94		536									http://www.dph.illinois.gov/
 60016,_Des_Plaines,_Illinois,_Illinois	60016, Des Plaines, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		508		1485									http://www.dph.illinois.gov/
+60018,_Des_Plaines,_Illinois,_Illinois	60018, Des Plaines, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		218		676									http://www.dph.illinois.gov/
+60020,_Fox_Lake,_Illinois,_Illinois	60020, Fox Lake, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		124									http://www.dph.illinois.gov/
+60021,_Fox_River_Grove,_Illinois,_Illinois	60021, Fox River Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		58									http://www.dph.illinois.gov/
+60022,_Glencoe,_Illinois,_Illinois	60022, Glencoe, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		21		162									http://www.dph.illinois.gov/
 60025,_Glenview,_Illinois,_Illinois	60025, Glenview, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		183		926									http://www.dph.illinois.gov/
 60026,_Glenview,_Illinois,_Illinois	60026, Glenview, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		81		311									http://www.dph.illinois.gov/
+60030,_Grayslake,_Illinois,_Illinois	60030, Grayslake, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		65		457									http://www.dph.illinois.gov/
+60031,_Gurnee,_Illinois,_Illinois	60031, Gurnee, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		126		604									http://www.dph.illinois.gov/
+60033,_Harvard,_Illinois,_Illinois	60033, Harvard, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		42		158									http://www.dph.illinois.gov/
+60035,_Highland_Park,_Illinois,_Illinois	60035, Highland Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		141		690									http://www.dph.illinois.gov/
+60040,_Highwood,_Illinois,_Illinois	60040, Highwood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		38		108									http://www.dph.illinois.gov/
+60041,_Ingleside,_Illinois,_Illinois	60041, Ingleside, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		101									http://www.dph.illinois.gov/
+60042,_Island_Lake,_Illinois,_Illinois	60042, Island Lake, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		66									http://www.dph.illinois.gov/
+60043,_Kenilworth,_Illinois,_Illinois	60043, Kenilworth, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		71									http://www.dph.illinois.gov/
+60044,_Lake_Bluff,_Illinois,_Illinois	60044, Lake Bluff, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		49		226									http://www.dph.illinois.gov/
+60045,_Lake_Forest,_Illinois,_Illinois	60045, Lake Forest, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		85		396									http://www.dph.illinois.gov/
+60046,_Lake_Villa,_Illinois,_Illinois	60046, Lake Villa, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		71		442									http://www.dph.illinois.gov/
+60047,_Lake_Zurich,_Illinois,_Illinois	60047, Lake Zurich, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		68		332									http://www.dph.illinois.gov/
+60048,_Libertyville,_Illinois,_Illinois	60048, Libertyville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		55		323									http://www.dph.illinois.gov/
+60050,_McHenry,_Illinois,_Illinois	60050, McHenry, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		84		351									http://www.dph.illinois.gov/
+60051,_McHenry,_Illinois,_Illinois	60051, McHenry, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		35		250									http://www.dph.illinois.gov/
+60053,_Morton_Grove,_Illinois,_Illinois	60053, Morton Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		138		581									http://www.dph.illinois.gov/
+60056,_Mount_Prospect,_Illinois,_Illinois	60056, Mount Prospect, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		234		924									http://www.dph.illinois.gov/
+60060,_Mundelein,_Illinois,_Illinois	60060, Mundelein, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		133		477									http://www.dph.illinois.gov/
+60061,_Vernon_Hills,_Illinois,_Illinois	60061, Vernon Hills, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		72		325									http://www.dph.illinois.gov/
 60062,_Northbrook,_Illinois,_Illinois	60062, Northbrook, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		144		853									http://www.dph.illinois.gov/
 60064,_North_Chicago,_Illinois,_Illinois	60064, North Chicago, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		258		493									http://www.dph.illinois.gov/
+60067,_Palatine,_Illinois,_Illinois	60067, Palatine, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		55		425									http://www.dph.illinois.gov/
+60068,_Park_Ridge,_Illinois,_Illinois	60068, Park Ridge, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		153		677									http://www.dph.illinois.gov/
+60069,_Lincolnshire,_Illinois,_Illinois	60069, Lincolnshire, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		30		158									http://www.dph.illinois.gov/
+60070,_Prospect_Heights,_Illinois,_Illinois	60070, Prospect Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		72		269									http://www.dph.illinois.gov/
+60073,_Round_Lake,_Illinois,_Illinois	60073, Round Lake, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		228		800									http://www.dph.illinois.gov/
 60074,_Palatine,_Illinois,_Illinois	60074, Palatine, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		121		478									http://www.dph.illinois.gov/
 60076,_Skokie,_Illinois,_Illinois	60076, Skokie, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		247		1119									http://www.dph.illinois.gov/
 60077,_Skokie,_Illinois,_Illinois	60077, Skokie, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		201		872									http://www.dph.illinois.gov/
+60081,_Spring_Grove,_Illinois,_Illinois	60081, Spring Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		23		95									http://www.dph.illinois.gov/
+60083,_Wadsworth,_Illinois,_Illinois	60083, Wadsworth, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		38		146									http://www.dph.illinois.gov/
+60084,_Wauconda,_Illinois,_Illinois	60084, Wauconda, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		80		163									http://www.dph.illinois.gov/
 60085,_Waukegan,_Illinois,_Illinois	60085, Waukegan, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		931		1751									http://www.dph.illinois.gov/
+60087,_Waukegan,_Illinois,_Illinois	60087, Waukegan, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		243		559									http://www.dph.illinois.gov/
+60089,_Buffalo_Grove,_Illinois,_Illinois	60089, Buffalo Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		105		507									http://www.dph.illinois.gov/
+60090,_Wheeling_station_(Illinois),_Illinois	60090, Wheeling station (Illinois), Illinois	2020-04-29	2020-04-29T05:00:00.000Z		211		724									http://www.dph.illinois.gov/
+60091,_Wilmette,_Illinois,_Illinois	60091, Wilmette, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		94		599									http://www.dph.illinois.gov/
+60093,_Winnetka,_Illinois,_Illinois	60093, Winnetka, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		96		475									http://www.dph.illinois.gov/
+60096,_Winthrop_Harbor,_Illinois,_Illinois	60096, Winthrop Harbor, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		90									http://www.dph.illinois.gov/
+60097,_Wonder_Lake_(CDP),_Illinois,_Illinois	60097, Wonder Lake (CDP), Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		126									http://www.dph.illinois.gov/
+60098,_Woodstock,_Illinois,_Illinois	60098, Woodstock, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		117		401									http://www.dph.illinois.gov/
+60099,_Zion,_Illinois,_Illinois	60099, Zion, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		223		570									http://www.dph.illinois.gov/
+60101,_Addison,_Illinois,_Illinois	60101, Addison, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		256		753									http://www.dph.illinois.gov/
+60102,_Algonquin,_Illinois,_Illinois	60102, Algonquin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		261									http://www.dph.illinois.gov/
+60103,_Bartlett,_Illinois,_Illinois	60103, Bartlett, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		79		445									http://www.dph.illinois.gov/
+60104,_Bellwood_station_(Metra),_Illinois	60104, Bellwood station (Metra), Illinois	2020-04-29	2020-04-29T05:00:00.000Z		208		657									http://www.dph.illinois.gov/
 60106,_Bensenville,_Illinois,_Illinois	60106, Bensenville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		211		728									http://www.dph.illinois.gov/
+60107,_Streamwood,_Illinois,_Illinois	60107, Streamwood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		173		556									http://www.dph.illinois.gov/
 60108,_Bloomingdale,_Illinois,_Illinois	60108, Bloomingdale, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		85		494									http://www.dph.illinois.gov/
+60110,_Carpentersville,_Illinois,_Illinois	60110, Carpentersville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		125		341									http://www.dph.illinois.gov/
+60112,_Cortland,_Illinois,_Illinois	60112, Cortland, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		43									http://www.dph.illinois.gov/
+60115,_DeKalb,_Illinois,_Illinois	60115, DeKalb, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		37		347									http://www.dph.illinois.gov/
+60119,_Elburn,_Illinois,_Illinois	60119, Elburn, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		12		109									http://www.dph.illinois.gov/
+60120,_Elgin,_Illinois,_Illinois	60120, Elgin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		194		493									http://www.dph.illinois.gov/
 60123,_Elgin,_Illinois,_Illinois	60123, Elgin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		141		490									http://www.dph.illinois.gov/
+60126,_Elmhurst,_Illinois,_Illinois	60126, Elmhurst, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		129		722									http://www.dph.illinois.gov/
+60130,_Forest_Park,_Illinois,_Illinois	60130, Forest Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		59		405									http://www.dph.illinois.gov/
+60131,_Franklin_Park,_Illinois,_Illinois	60131, Franklin Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		120		484									http://www.dph.illinois.gov/
+60134,_Geneva,_Illinois,_Illinois	60134, Geneva, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		68		270									http://www.dph.illinois.gov/
+60136,_Gilberts,_Illinois,_Illinois	60136, Gilberts, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		74									http://www.dph.illinois.gov/
+60137,_Glen_Ellyn,_Illinois,_Illinois	60137, Glen Ellyn, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		58		417									http://www.dph.illinois.gov/
+60139,_Glendale_Heights,_Illinois,_Illinois	60139, Glendale Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		191		627									http://www.dph.illinois.gov/
+60140,_Hampshire,_Illinois,_Illinois	60140, Hampshire, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		25		180									http://www.dph.illinois.gov/
+60141,_Hines,_Illinois,_Illinois	60141, Hines, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		131									http://www.dph.illinois.gov/
+60142,_Huntley,_Illinois,_Illinois	60142, Huntley, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		31		249									http://www.dph.illinois.gov/
+60143,_Itasca_station,_Illinois	60143, Itasca station, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		177									http://www.dph.illinois.gov/
+60148,_Lombard,_Illinois,_Illinois	60148, Lombard, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		125		667									http://www.dph.illinois.gov/
+60152,_Marengo,_Illinois,_Illinois	60152, Marengo, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		111									http://www.dph.illinois.gov/
+60153,_Maywood,_Illinois,_Illinois	60153, Maywood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		202		754									http://www.dph.illinois.gov/
+60154,_Westchester,_Illinois,_Illinois	60154, Westchester, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		97		500									http://www.dph.illinois.gov/
 60160,_Melrose_Park,_Illinois,_Illinois	60160, Melrose Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		215		713									http://www.dph.illinois.gov/
+60162,_Hillside,_Illinois,_Illinois	60162, Hillside, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		76		267									http://www.dph.illinois.gov/
+60163,_Berkeley,_Illinois,_Illinois	60163, Berkeley, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		31		127									http://www.dph.illinois.gov/
+60164,_Melrose_Park,_Illinois,_Illinois	60164, Melrose Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		184		807									http://www.dph.illinois.gov/
+60165,_Stone_Park,_Illinois,_Illinois	60165, Stone Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		54		129									http://www.dph.illinois.gov/
+60171,_River_Grove,_Illinois,_Illinois	60171, River Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		50		258									http://www.dph.illinois.gov/
+60172,_Roselle,_Illinois,_Illinois	60172, Roselle, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		54		252									http://www.dph.illinois.gov/
 60173,_Schaumburg,_Illinois,_Illinois	60173, Schaumburg, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		20		124									http://www.dph.illinois.gov/
 60174,_St._Charles,_Illinois,_Illinois	60174, St. Charles, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		43		368									http://www.dph.illinois.gov/
+60175,_St._Charles,_Illinois,_Illinois	60175, St. Charles, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		27		260									http://www.dph.illinois.gov/
+60176,_Schiller_Park,_Illinois,_Illinois	60176, Schiller Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		50		237									http://www.dph.illinois.gov/
+60177,_South_Elgin,_Illinois,_Illinois	60177, South Elgin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		42		223									http://www.dph.illinois.gov/
+60178,_Sycamore,_Illinois,_Illinois	60178, Sycamore, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		180									http://www.dph.illinois.gov/
+60181,_Villa_Park,_Illinois,_Illinois	60181, Villa Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		98		436									http://www.dph.illinois.gov/
+60185,_West_Chicago,_Illinois,_Illinois	60185, West Chicago, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		157		550									http://www.dph.illinois.gov/
 60187,_Wheaton,_Illinois,_Illinois	60187, Wheaton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		41		353									http://www.dph.illinois.gov/
 60188,_Carol_Stream,_Illinois,_Illinois	60188, Carol Stream, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		181		640									http://www.dph.illinois.gov/
+60189,_Wheaton,_Illinois,_Illinois	60189, Wheaton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		311									http://www.dph.illinois.gov/
+60190,_Winfield,_Illinois,_Illinois	60190, Winfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		12		197									http://www.dph.illinois.gov/
 60191,_Wood_Dale,_Illinois,_Illinois	60191, Wood Dale, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		53		238									http://www.dph.illinois.gov/
 60192,_Hoffman_Estates,_Illinois,_Illinois	60192, Hoffman Estates, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		21		161									http://www.dph.illinois.gov/
 60193,_Schaumburg,_Illinois,_Illinois	60193, Schaumburg, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		85		438									http://www.dph.illinois.gov/
 60194,_Schaumburg,_Illinois,_Illinois	60194, Schaumburg, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		48		246									http://www.dph.illinois.gov/
+60195,_Schaumburg,_Illinois,_Illinois	60195, Schaumburg, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		38									http://www.dph.illinois.gov/
 60201,_Evanston,_Illinois,_Illinois	60201, Evanston, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		170		1140									http://www.dph.illinois.gov/
 60202,_Evanston,_Illinois,_Illinois	60202, Evanston, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		156		959									http://www.dph.illinois.gov/
-60203,_Skokie,_Illinois,_Illinois	60203, Skokie, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		111									http://www.dph.illinois.gov/
+60203,_Evanston,_Illinois,_Illinois	60203, Evanston, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		111									http://www.dph.illinois.gov/
 60301,_Oak_Park,_Illinois,_Illinois	60301, Oak Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		75									http://www.dph.illinois.gov/
 60302,_Oak_Park,_Illinois,_Illinois	60302, Oak Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		110		750									http://www.dph.illinois.gov/
 60304,_Oak_Park,_Illinois,_Illinois	60304, Oak Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		366									http://www.dph.illinois.gov/
+60305,_River_Forest,_Illinois,_Illinois	60305, River Forest, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		26		220									http://www.dph.illinois.gov/
+60401,_Beecher,_Illinois,_Illinois	60401, Beecher, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		27		158									http://www.dph.illinois.gov/
+60402,_Berwyn,_Illinois,_Illinois	60402, Berwyn, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		491		1775									http://www.dph.illinois.gov/
+60406,_Blue_Island%E2%80%93Vermont_Street_station,_Illinois	60406, Blue Island%E2%80%93Vermont Street station, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		163		640									http://www.dph.illinois.gov/
+60408,_Braidwood,_Illinois,_Illinois	60408, Braidwood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		71									http://www.dph.illinois.gov/
+60409,_Calumet_City,_Illinois,_Illinois	60409, Calumet City, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		275		1134									http://www.dph.illinois.gov/
+60410,_Channahon,_Illinois,_Illinois	60410, Channahon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		182									http://www.dph.illinois.gov/
+60411,_Chicago_Heights,_Illinois,_Illinois	60411, Chicago Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		441		1871									http://www.dph.illinois.gov/
+60415,_Chicago_Ridge,_Illinois,_Illinois	60415, Chicago Ridge, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		98		326									http://www.dph.illinois.gov/
+60417,_Crete,_Illinois,_Illinois	60417, Crete, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		80		377									http://www.dph.illinois.gov/
+60419,_Dolton,_Illinois,_Illinois	60419, Dolton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		199		812									http://www.dph.illinois.gov/
+60422,_Flossmoor,_Illinois,_Illinois	60422, Flossmoor, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		55		308									http://www.dph.illinois.gov/
+60423,_Frankfort,_Illinois,_Illinois	60423, Frankfort, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		81		473									http://www.dph.illinois.gov/
+60425,_Glenwood,_Illinois,_Illinois	60425, Glenwood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		61		345									http://www.dph.illinois.gov/
+60426,_Harvey,_Illinois,_Illinois	60426, Harvey, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		236		992									http://www.dph.illinois.gov/
+60429,_Hazel_Crest,_Illinois,_Illinois	60429, Hazel Crest, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		128		736									http://www.dph.illinois.gov/
+60430,_Homewood,_Illinois,_Illinois	60430, Homewood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		152		621									http://www.dph.illinois.gov/
 60431,_Joliet,_Illinois,_Illinois	60431, Joliet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		89		590									http://www.dph.illinois.gov/
+60432,_Joliet,_Illinois,_Illinois	60432, Joliet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		95		409									http://www.dph.illinois.gov/
+60433,_Joliet,_Illinois,_Illinois	60433, Joliet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		98		366									http://www.dph.illinois.gov/
 60434,_Joliet,_Illinois,_Illinois	60434, Joliet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		132		66									http://www.dph.illinois.gov/
 60435,_Joliet,_Illinois,_Illinois	60435, Joliet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		319		1398									http://www.dph.illinois.gov/
+60436,_Joliet,_Illinois,_Illinois	60436, Joliet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		69		472									http://www.dph.illinois.gov/
+60438,_Lansing,_Illinois,_Illinois	60438, Lansing, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		175		759									http://www.dph.illinois.gov/
+60439,_Lemont,_Illinois,_Illinois	60439, Lemont, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		48		350									http://www.dph.illinois.gov/
 60440,_Bolingbrook,_Illinois,_Illinois	60440, Bolingbrook, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		287		1329									http://www.dph.illinois.gov/
+60441,_Lockport,_Illinois,_Illinois	60441, Lockport, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		106		552									http://www.dph.illinois.gov/
+60442,_Manhattan,_Illinois,_Illinois	60442, Manhattan, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		21		148									http://www.dph.illinois.gov/
+60443,_Matteson,_Illinois,_Illinois	60443, Matteson, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		209		878									http://www.dph.illinois.gov/
+60445,_Midlothian,_Illinois,_Illinois	60445, Midlothian, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		72		364									http://www.dph.illinois.gov/
+60446,_Romeoville,_Illinois,_Illinois	60446, Romeoville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		190		895									http://www.dph.illinois.gov/
+60447,_Minooka,_Illinois,_Illinois	60447, Minooka, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		231									http://www.dph.illinois.gov/
+60448,_Mokena,_Illinois,_Illinois	60448, Mokena, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		63		320									http://www.dph.illinois.gov/
+60449,_Monee,_Illinois,_Illinois	60449, Monee, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		43		263									http://www.dph.illinois.gov/
+60450,_Morris,_Illinois,_Illinois	60450, Morris, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		185									http://www.dph.illinois.gov/
+60451,_New_Lenox,_Illinois,_Illinois	60451, New Lenox, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		53		408									http://www.dph.illinois.gov/
+60452,_Oak_Forest,_Illinois,_Illinois	60452, Oak Forest, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		87		475									http://www.dph.illinois.gov/
 60453,_Oak_Lawn,_Illinois,_Illinois	60453, Oak Lawn, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		307		1119									http://www.dph.illinois.gov/
+60455,_Bridgeview,_Illinois,_Illinois	60455, Bridgeview, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		168		665									http://www.dph.illinois.gov/
+60456,_Hometown,_Illinois,_Illinois	60456, Hometown, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		19		84									http://www.dph.illinois.gov/
+60457,_Hickory_Hills,_Illinois,_Illinois	60457, Hickory Hills, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		58		203									http://www.dph.illinois.gov/
+60458,_Justice,_Illinois,_Illinois	60458, Justice, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		47		291									http://www.dph.illinois.gov/
+60459,_Burbank,_Illinois,_Illinois	60459, Burbank, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		149		561									http://www.dph.illinois.gov/
+60461,_Olympia_Fields,_Illinois,_Illinois	60461, Olympia Fields, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		38		193									http://www.dph.illinois.gov/
 60462,_Orland_Park,_Illinois,_Illinois	60462, Orland Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		125		651									http://www.dph.illinois.gov/
+60463,_Palos_Heights,_Illinois,_Illinois	60463, Palos Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		89		299									http://www.dph.illinois.gov/
+60464,_Palos_Park,_Illinois,_Illinois	60464, Palos Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		22		137									http://www.dph.illinois.gov/
+60465,_Palos_Hills,_Illinois,_Illinois	60465, Palos Hills, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		80		312									http://www.dph.illinois.gov/
+60466,_Park_Forest_(meteorite),_Illinois	60466, Park Forest (meteorite), Illinois	2020-04-29	2020-04-29T05:00:00.000Z		328		1138									http://www.dph.illinois.gov/
+60467,_Orland_Park,_Illinois,_Illinois	60467, Orland Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		90		401									http://www.dph.illinois.gov/
+60468,_Peotone,_Illinois,_Illinois	60468, Peotone, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		63									http://www.dph.illinois.gov/
+60469,_Posen,_Illinois,_Illinois	60469, Posen, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		29		127									http://www.dph.illinois.gov/
+60471,_Richton_Park,_Illinois,_Illinois	60471, Richton Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		130		547									http://www.dph.illinois.gov/
+60472,_Robbins,_Illinois,_Illinois	60472, Robbins, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		40		206									http://www.dph.illinois.gov/
+60473,_South_Holland,_Illinois,_Illinois	60473, South Holland, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		221		866									http://www.dph.illinois.gov/
+60475,_Steger,_Illinois,_Illinois	60475, Steger, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		222									http://www.dph.illinois.gov/
+60476,_Thornton,_Illinois,_Illinois	60476, Thornton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		10		59									http://www.dph.illinois.gov/
+60477,_Tinley_Park,_Illinois,_Illinois	60477, Tinley Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		109		631									http://www.dph.illinois.gov/
+60478,_Country_Club_Hills,_Illinois,_Illinois	60478, Country Club Hills, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		182		852									http://www.dph.illinois.gov/
+60480,_Willow_Springs,_Illinois,_Illinois	60480, Willow Springs, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		109									http://www.dph.illinois.gov/
+60481,_Wilmington,_Will_County,_Illinois,_Illinois	60481, Wilmington, Will County, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		12		144									http://www.dph.illinois.gov/
+60482,_Worth,_Illinois,_Illinois	60482, Worth, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		32		198									http://www.dph.illinois.gov/
 60490,_Bolingbrook,_Illinois,_Illinois	60490, Bolingbrook, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		76		461									http://www.dph.illinois.gov/
+60501,_Summit,_Illinois,_Illinois	60501, Summit, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		82		266									http://www.dph.illinois.gov/
 60504,_Aurora,_Illinois,_Illinois	60504, Aurora, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		90		411									http://www.dph.illinois.gov/
 60505,_Aurora,_Illinois,_Illinois	60505, Aurora, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		363		736									http://www.dph.illinois.gov/
+60506,_Aurora,_Illinois,_Illinois	60506, Aurora, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		252		1007									http://www.dph.illinois.gov/
+60510,_Batavia,_Illinois,_Illinois	60510, Batavia, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		35		317									http://www.dph.illinois.gov/
+60513,_Brookfield,_Illinois,_Illinois	60513, Brookfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		66		471									http://www.dph.illinois.gov/
+60514,_Clarendon_Hills,_Illinois,_Illinois	60514, Clarendon Hills, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		25		180									http://www.dph.illinois.gov/
 60515,_Downers_Grove,_Illinois,_Illinois	60515, Downers Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		38		288									http://www.dph.illinois.gov/
+60516,_Downers_Grove,_Illinois,_Illinois	60516, Downers Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		52		342									http://www.dph.illinois.gov/
+60517,_Woodridge,_Illinois,_Illinois	60517, Woodridge, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		98		495									http://www.dph.illinois.gov/
 60521,_Hinsdale,_Illinois,_Illinois	60521, Hinsdale, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		64		400									http://www.dph.illinois.gov/
+60523,_Oak_Brook,_Illinois,_Illinois	60523, Oak Brook, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		43		234									http://www.dph.illinois.gov/
+60525,_La_Grange,_Illinois,_Illinois	60525, La Grange, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		116		728									http://www.dph.illinois.gov/
+60526,_La_Grange_Park,_Illinois,_Illinois	60526, La Grange Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		34		301									http://www.dph.illinois.gov/
+60527,_Willowbrook,_DuPage_County,_Illinois,_Illinois	60527, Willowbrook, DuPage County, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		153		721									http://www.dph.illinois.gov/
+60532,_Lisle,_Illinois,_Illinois	60532, Lisle, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		57		314									http://www.dph.illinois.gov/
+60534,_Lyons,_Illinois,_Illinois	60534, Lyons, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		53		212									http://www.dph.illinois.gov/
+60538,_Montgomery,_Illinois,_Illinois	60538, Montgomery, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		74		294									http://www.dph.illinois.gov/
 60540,_Naperville,_Illinois,_Illinois	60540, Naperville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		49		542									http://www.dph.illinois.gov/
+60542,_North_Aurora,_Illinois,_Illinois	60542, North Aurora, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		32		234									http://www.dph.illinois.gov/
+60543,_Oswego,_Illinois,_Illinois	60543, Oswego, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		73		363									http://www.dph.illinois.gov/
+60544,_Plainfield,_Illinois,_Illinois	60544, Plainfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		72		541									http://www.dph.illinois.gov/
+60545,_Plano,_Illinois,_Illinois	60545, Plano, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		29		128									http://www.dph.illinois.gov/
+60546,_Riverside,_Illinois,_Illinois	60546, Riverside, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		70		390									http://www.dph.illinois.gov/
+60548,_Sandwich,_Illinois,_Illinois	60548, Sandwich, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		93									http://www.dph.illinois.gov/
+60551,_Sheridan,_Illinois,_Illinois	60551, Sheridan, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		32									http://www.dph.illinois.gov/
+60552,_Somonauk,_Illinois,_Illinois	60552, Somonauk, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		38									http://www.dph.illinois.gov/
+60554,_Sugar_Grove,_Illinois,_Illinois	60554, Sugar Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		111									http://www.dph.illinois.gov/
+60555,_Warrenville,_Illinois,_Illinois	60555, Warrenville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		41		173									http://www.dph.illinois.gov/
+60558,_Western_Springs,_Illinois,_Illinois	60558, Western Springs, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		185									http://www.dph.illinois.gov/
+60559,_Westmont,_Illinois,_Illinois	60559, Westmont, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		129		422									http://www.dph.illinois.gov/
+60560,_Yorkville,_Illinois,_Illinois	60560, Yorkville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		38		204									http://www.dph.illinois.gov/
+60561,_Darien,_Illinois,_Illinois	60561, Darien, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		67		391									http://www.dph.illinois.gov/
 60563,_Naperville,_Illinois,_Illinois	60563, Naperville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		62		468									http://www.dph.illinois.gov/
+60564,_Naperville,_Illinois,_Illinois	60564, Naperville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		70		471									http://www.dph.illinois.gov/
+60565,_Naperville,_Illinois,_Illinois	60565, Naperville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		91		455									http://www.dph.illinois.gov/
 60601,_Chicago,_Illinois	60601, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		322									http://www.dph.illinois.gov/
 60604,_Chicago,_Illinois	60604, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		33									http://www.dph.illinois.gov/
 60605,_Chicago,_Illinois	60605, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		120		691									http://www.dph.illinois.gov/
@@ -75,6 +250,7 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 60634,_Chicago,_Illinois	60634, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		569		2839									http://www.dph.illinois.gov/
 60636,_Chicago,_Illinois	60636, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		344		932									http://www.dph.illinois.gov/
 60637,_Chicago,_Illinois	60637, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		318		1768									http://www.dph.illinois.gov/
+60638,_Chicago,_Illinois	60638, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		427		1786									http://www.dph.illinois.gov/
 60639,_Chicago,_Illinois	60639, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		1089		2765									http://www.dph.illinois.gov/
 60640,_Chicago,_Illinois	60640, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		425		1613									http://www.dph.illinois.gov/
 60641,_Chicago,_Illinois	60641, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		500		1826									http://www.dph.illinois.gov/
@@ -94,26 +270,167 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 60659,_Chicago,_Illinois	60659, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		353		1039									http://www.dph.illinois.gov/
 60660,_Chicago,_Illinois	60660, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		214		815									http://www.dph.illinois.gov/
 60661,_Chicago,_Illinois	60661, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		23		205									http://www.dph.illinois.gov/
+60706,_Harwood_Heights,_Illinois,_Illinois	60706, Harwood Heights, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		145		751									http://www.dph.illinois.gov/
+60707,_Elmwood_Park,_Illinois,_Illinois	60707, Elmwood Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		296		1420									http://www.dph.illinois.gov/
+60712,_Lincolnwood,_Illinois,_Illinois	60712, Lincolnwood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		96		403									http://www.dph.illinois.gov/
+60714,_Niles,_Illinois,_Illinois	60714, Niles, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		292		811									http://www.dph.illinois.gov/
+60803,_Alsip,_Illinois,_Illinois	60803, Alsip, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		105		486									http://www.dph.illinois.gov/
+60804,_Cicero,_Illinois,_Illinois	60804, Cicero, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		992		2554									http://www.dph.illinois.gov/
+60805,_Evergreen_Park,_Illinois,_Illinois	60805, Evergreen Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		124		414									http://www.dph.illinois.gov/
+60827,_Riverdale,_Illinois,_Illinois	60827, Riverdale, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		181		759									http://www.dph.illinois.gov/
+60901,_Kankakee,_Illinois,_Illinois	60901, Kankakee, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		194		849									http://www.dph.illinois.gov/
+60914,_Bourbonnais,_Illinois,_Illinois	60914, Bourbonnais, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		57		498									http://www.dph.illinois.gov/
+60915,_Bradley,_Illinois,_Illinois	60915, Bradley, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		211									http://www.dph.illinois.gov/
+60950,_Manteno,_Illinois,_Illinois	60950, Manteno, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		200									http://www.dph.illinois.gov/
+60954,_Momence,_Illinois,_Illinois	60954, Momence, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		91									http://www.dph.illinois.gov/
+60964,_St._Anne,_Illinois,_Illinois	60964, St. Anne, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		70									http://www.dph.illinois.gov/
+61008,_Belvidere,_Illinois,_Illinois	61008, Belvidere, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		76		257									http://www.dph.illinois.gov/
+61016,_Cherry_Valley,_Illinois,_Illinois	61016, Cherry Valley, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		12		75									http://www.dph.illinois.gov/
+61021,_Dixon,_Illinois,_Illinois	61021, Dixon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		327									http://www.dph.illinois.gov/
+61065,_Poplar_Grove,_Illinois,_Illinois	61065, Poplar Grove, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		73									http://www.dph.illinois.gov/
+61068,_Rochelle,_Illinois,_Illinois	61068, Rochelle, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		90		660									http://www.dph.illinois.gov/
+61071,_Rock_Falls,_Illinois,_Illinois	61071, Rock Falls, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		90									http://www.dph.illinois.gov/
+61073,_Roscoe,_Illinois,_Illinois	61073, Roscoe, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		103									http://www.dph.illinois.gov/
+61080,_South_Beloit,_Illinois,_Illinois	61080, South Beloit, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		55									http://www.dph.illinois.gov/
+61081,_Sterling,_Illinois,_Illinois	61081, Sterling, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		42		142									http://www.dph.illinois.gov/
+61101,_Rockford,_Illinois,_Illinois	61101, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		35		255									http://www.dph.illinois.gov/
+61102,_Rockford,_Illinois,_Illinois	61102, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		45		197									http://www.dph.illinois.gov/
+61103,_Rockford,_Illinois,_Illinois	61103, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		35		258									http://www.dph.illinois.gov/
 61104,_Rockford,_Illinois,_Illinois	61104, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		43		209									http://www.dph.illinois.gov/
 61107,_Rockford,_Illinois,_Illinois	61107, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		26		249									http://www.dph.illinois.gov/
+61108,_Rockford,_Illinois,_Illinois	61108, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		67		288									http://www.dph.illinois.gov/
+61109,_Rockford,_Illinois,_Illinois	61109, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		50		285									http://www.dph.illinois.gov/
 61111,_Loves_Park,_Illinois,_Illinois	61111, Loves Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		12		174									http://www.dph.illinois.gov/
+61114,_Rockford,_Illinois,_Illinois	61114, Rockford, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		22		113									http://www.dph.illinois.gov/
+61115,_Machesney_Park,_Illinois,_Illinois	61115, Machesney Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		165									http://www.dph.illinois.gov/
 61201,_Rock_Island,_Illinois,_Illinois	61201, Rock Island, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		92		304									http://www.dph.illinois.gov/
+61235,_Atkinson,_Illinois,_Illinois	61235, Atkinson, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		24									http://www.dph.illinois.gov/
+61241,_Colona,_Illinois,_Illinois	61241, Colona, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		83									http://www.dph.illinois.gov/
+61244,_East_Moline,_Illinois,_Illinois	61244, East Moline, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		102		265									http://www.dph.illinois.gov/
+61252,_Fulton,_Illinois,_Illinois	61252, Fulton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		42									http://www.dph.illinois.gov/
+61264,_Milan,_Illinois,_Illinois	61264, Milan, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		82									http://www.dph.illinois.gov/
 61265,_Moline,_Illinois,_Illinois	61265, Moline, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		115		420									http://www.dph.illinois.gov/
+61275,_Port_Byron,_Illinois,_Illinois	61275, Port Byron, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		33									http://www.dph.illinois.gov/
+61282,_Silvis,_Illinois,_Illinois	61282, Silvis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		24		88									http://www.dph.illinois.gov/
+61342,_Mendota,_Illinois,_Illinois	61342, Mendota, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		81									http://www.dph.illinois.gov/
+61356,_Princeton,_Illinois,_Illinois	61356, Princeton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		66									http://www.dph.illinois.gov/
+61401,_Galesburg,_Illinois,_Illinois	61401, Galesburg, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		33		392									http://www.dph.illinois.gov/
+61455,_Macomb,_Illinois,_Illinois	61455, Macomb, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		104									http://www.dph.illinois.gov/
+61462,_Monmouth,_Illinois,_Illinois	61462, Monmouth, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		53		132									http://www.dph.illinois.gov/
+61554,_Pekin,_Illinois,_Illinois	61554, Pekin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		10		260									http://www.dph.illinois.gov/
 61603,_Peoria,_Illinois,_Illinois	61603, Peoria, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		237									http://www.dph.illinois.gov/
+61604,_Peoria,_Illinois,_Illinois	61604, Peoria, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		330									http://www.dph.illinois.gov/
+61611,_East_Peoria,_Illinois,_Illinois	61611, East Peoria, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		206									http://www.dph.illinois.gov/
 61614,_Peoria,_Illinois,_Illinois	61614, Peoria, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		27		257									http://www.dph.illinois.gov/
+61615,_Peoria,_Illinois,_Illinois	61615, Peoria, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		208									http://www.dph.illinois.gov/
 61701,_Bloomington,_Illinois,_Illinois	61701, Bloomington, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		34		679									http://www.dph.illinois.gov/
+61704,_Bloomington,_Illinois,_Illinois	61704, Bloomington, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		522									http://www.dph.illinois.gov/
+61761,_Normal,_Illinois,_Illinois	61761, Normal, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		22		581									http://www.dph.illinois.gov/
+61764,_Pontiac,_Illinois,_Illinois	61764, Pontiac, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		151									http://www.dph.illinois.gov/
 61801,_Urbana,_Illinois,_Illinois	61801, Urbana, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		299									http://www.dph.illinois.gov/
+61802,_Urbana,_Illinois,_Illinois	61802, Urbana, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		20		311									http://www.dph.illinois.gov/
 61820,_Champaign,_Illinois,_Illinois	61820, Champaign, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		10		284									http://www.dph.illinois.gov/
 61821,_Champaign,_Illinois,_Illinois	61821, Champaign, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		437									http://www.dph.illinois.gov/
+61822,_Champaign,_Illinois,_Illinois	61822, Champaign, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		28		360									http://www.dph.illinois.gov/
+61832,_Danville,_Illinois,_Illinois	61832, Danville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		287									http://www.dph.illinois.gov/
+61853,_Mahomet,_Illinois,_Illinois	61853, Mahomet, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		195									http://www.dph.illinois.gov/
+61866,_Rantoul,_Illinois,_Illinois	61866, Rantoul, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		228									http://www.dph.illinois.gov/
+61874,_Savoy,_Illinois,_Illinois	61874, Savoy, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		118									http://www.dph.illinois.gov/
+61910,_Arcola,_Illinois,_Illinois	61910, Arcola, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		43									http://www.dph.illinois.gov/
+61920,_Charleston,_Illinois,_Illinois	61920, Charleston, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		10		126									http://www.dph.illinois.gov/
+61938,_Mattoon,_Illinois,_Illinois	61938, Mattoon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		163									http://www.dph.illinois.gov/
+62002,_Alton,_Illinois,_Illinois	62002, Alton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		46		175									http://www.dph.illinois.gov/
+62010,_Bethalto,_Illinois,_Illinois	62010, Bethalto, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		39									http://www.dph.illinois.gov/
+62024,_East_Alton,_Illinois,_Illinois	62024, East Alton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		26									http://www.dph.illinois.gov/
+62025,_Edwardsville,_Illinois,_Illinois	62025, Edwardsville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		92		346									http://www.dph.illinois.gov/
+62034,_Glen_Carbon,_Illinois,_Illinois	62034, Glen Carbon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		30		66									http://www.dph.illinois.gov/
+62035,_Godfrey,_Illinois,_Illinois	62035, Godfrey, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		59									http://www.dph.illinois.gov/
+62040,_Granite_City,_Illinois,_Illinois	62040, Granite City, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		50		251									http://www.dph.illinois.gov/
+62052,_Jerseyville,_Illinois,_Illinois	62052, Jerseyville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		51									http://www.dph.illinois.gov/
+62056,_Litchfield,_Illinois,_Illinois	62056, Litchfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		109									http://www.dph.illinois.gov/
+62060,_Madison,_Illinois,_Illinois	62060, Madison, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		39									http://www.dph.illinois.gov/
+62069,_Mount_Olive,_Illinois,_Illinois	62069, Mount Olive, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		50									http://www.dph.illinois.gov/
+62088,_Staunton,_Illinois,_Illinois	62088, Staunton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		175									http://www.dph.illinois.gov/
+62090,_Venice,_Illinois,_Illinois	62090, Venice, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		13									http://www.dph.illinois.gov/
+62095,_Wood_River,_Illinois,_Illinois	62095, Wood River, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		60									http://www.dph.illinois.gov/
 62201,_East_St._Louis,_Illinois,_Illinois	62201, East St. Louis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		10		34									http://www.dph.illinois.gov/
+62203,_East_St._Louis,_Illinois,_Illinois	62203, East St. Louis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		40									http://www.dph.illinois.gov/
+62204,_East_St._Louis,_Illinois,_Illinois	62204, East St. Louis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		16		39									http://www.dph.illinois.gov/
+62205,_East_St._Louis,_Illinois,_Illinois	62205, East St. Louis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		17		45									http://www.dph.illinois.gov/
+62206,_East_St._Louis,_Illinois,_Illinois	62206, East St. Louis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		41		207									http://www.dph.illinois.gov/
+62207,_East_St._Louis,_Illinois,_Illinois	62207, East St. Louis, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		25		43									http://www.dph.illinois.gov/
+62208,_Fairview_Heights_station_(MetroLink),_Illinois	62208, Fairview Heights station (MetroLink), Illinois	2020-04-29	2020-04-29T05:00:00.000Z		32		102									http://www.dph.illinois.gov/
+62220,_Belleville,_Illinois,_Illinois	62220, Belleville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		42		117									http://www.dph.illinois.gov/
+62221,_Belleville,_Illinois,_Illinois	62221, Belleville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		35		133									http://www.dph.illinois.gov/
+62223,_Belleville,_Illinois,_Illinois	62223, Belleville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		29		72									http://www.dph.illinois.gov/
+62226,_Belleville,_Illinois,_Illinois	62226, Belleville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		65		346									http://www.dph.illinois.gov/
+62230,_Breese,_Illinois,_Illinois	62230, Breese, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		38									http://www.dph.illinois.gov/
+62231,_Carlyle,_Illinois,_Illinois	62231, Carlyle, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		49		169									http://www.dph.illinois.gov/
+62233,_Chester,_Illinois,_Illinois	62233, Chester, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		55		179									http://www.dph.illinois.gov/
+62234,_Collinsville,_Illinois,_Illinois	62234, Collinsville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		28		134									http://www.dph.illinois.gov/
+62236,_Columbia,_Illinois,_Illinois	62236, Columbia, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		33		85									http://www.dph.illinois.gov/
+62239,_Dupo,_Illinois,_Illinois	62239, Dupo, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		18									http://www.dph.illinois.gov/
+62249,_Highland,_Illinois,_Illinois	62249, Highland, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		10		69									http://www.dph.illinois.gov/
+62254,_Lebanon,_Illinois,_Illinois	62254, Lebanon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		12		55									http://www.dph.illinois.gov/
+62258,_Mascoutah,_Illinois,_Illinois	62258, Mascoutah, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		13		57									http://www.dph.illinois.gov/
+62265,_New_Baden,_Illinois,_Illinois	62265, New Baden, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		29									http://www.dph.illinois.gov/
+62269,_O%27Fallon,_Illinois,_Illinois	62269, O%27Fallon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		40		155									http://www.dph.illinois.gov/
+62272,_Percy,_Illinois,_Illinois	62272, Percy, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		23		39									http://www.dph.illinois.gov/
+62278,_Red_Bud,_Illinois,_Illinois	62278, Red Bud, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		59									http://www.dph.illinois.gov/
+62285,_Smithton,_Illinois,_Illinois	62285, Smithton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		24									http://www.dph.illinois.gov/
+62286,_Sparta,_Illinois,_Illinois	62286, Sparta, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		94									http://www.dph.illinois.gov/
+62288,_Steeleville,_Illinois,_Illinois	62288, Steeleville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		19		67									http://www.dph.illinois.gov/
+62294,_Troy,_Illinois,_Illinois	62294, Troy, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		53									http://www.dph.illinois.gov/
+62295,_Valmeyer,_Illinois,_Illinois	62295, Valmeyer, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		10									http://www.dph.illinois.gov/
+62298,_Waterloo,_Illinois,_Illinois	62298, Waterloo, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		29		85									http://www.dph.illinois.gov/
 62301,_Quincy,_Illinois,_Illinois	62301, Quincy, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		203									http://www.dph.illinois.gov/
+62305,_Quincy,_Illinois,_Illinois	62305, Quincy, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		75									http://www.dph.illinois.gov/
+62448,_Newton,_Illinois,_Illinois	62448, Newton, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		39		164									http://www.dph.illinois.gov/
+62454,_Robinson,_Illinois,_Illinois	62454, Robinson, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		79									http://www.dph.illinois.gov/
+62471,_Vandalia,_Illinois,_Illinois	62471, Vandalia, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		83									http://www.dph.illinois.gov/
+62521,_Decatur,_Illinois,_Illinois	62521, Decatur, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		69		439									http://www.dph.illinois.gov/
+62522,_Decatur,_Illinois,_Illinois	62522, Decatur, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		64									http://www.dph.illinois.gov/
+62526,_Decatur,_Illinois,_Illinois	62526, Decatur, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		161									http://www.dph.illinois.gov/
+62565,_Shelbyville,_Illinois,_Illinois	62565, Shelbyville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		38									http://www.dph.illinois.gov/
+62568,_Taylorville,_Illinois,_Illinois	62568, Taylorville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		25		151									http://www.dph.illinois.gov/
+62618,_Beardstown,_Illinois,_Illinois	62618, Beardstown, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		26		215									http://www.dph.illinois.gov/
+62629,_Chatham,_Illinois,_Illinois	62629, Chatham, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		118									http://www.dph.illinois.gov/
+62650,_Jacksonville,_Illinois,_Illinois	62650, Jacksonville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		197									http://www.dph.illinois.gov/
+62656,_Lincoln,_Illinois,_Illinois	62656, Lincoln, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		217									http://www.dph.illinois.gov/
+62664,_Mason_City,_Illinois,_Illinois	62664, Mason City, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		6		31									http://www.dph.illinois.gov/
+62684,_Sherman,_Illinois,_Illinois	62684, Sherman, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		55		109									http://www.dph.illinois.gov/
 62702,_Springfield,_Illinois,_Illinois	62702, Springfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		33		424									http://www.dph.illinois.gov/
 62703,_Springfield,_Illinois,_Illinois	62703, Springfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		301									http://www.dph.illinois.gov/
 62704,_Springfield,_Illinois,_Illinois	62704, Springfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		18		419									http://www.dph.illinois.gov/
+62707,_Springfield,_Illinois,_Illinois	62707, Springfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		9		89									http://www.dph.illinois.gov/
+62801,_Centralia,_Illinois,_Illinois	62801, Centralia, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		42		347									http://www.dph.illinois.gov/
+62832,_Du_Quoin,_Illinois,_Illinois	62832, Du Quoin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		112									http://www.dph.illinois.gov/
+62864,_Mount_Vernon,_Illinois,_Illinois	62864, Mount Vernon, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		71		400									http://www.dph.illinois.gov/
+62901,_Carbondale,_Illinois,_Illinois	62901, Carbondale, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		55		296									http://www.dph.illinois.gov/
+62918,_Carterville,_Illinois,_Illinois	62918, Carterville, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		7		92									http://www.dph.illinois.gov/
+62959,_Marion,_Illinois,_Illinois	62959, Marion, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		346									http://www.dph.illinois.gov/
+62966,_Murphysboro,_Illinois,_Illinois	62966, Murphysboro, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		15		149									http://www.dph.illinois.gov/
+62992,_Ullin,_Illinois,_Illinois	62992, Ullin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		14		39									http://www.dph.illinois.gov/
+60133,_Hanover_Park,_Illinois,_Illinois	60133, Hanover Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		203		568									http://www.dph.illinois.gov/
+60156,_Lake_in_the_Hills,_Illinois,_Illinois	60156, Lake in the Hills, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		44		261									http://www.dph.illinois.gov/
+60155,_Broadview,_Illinois,_Illinois	60155, Broadview, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		89		271									http://www.dph.illinois.gov/
+60491,_Homer_Glen,_Illinois,_Illinois	60491, Homer Glen, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		77		346									http://www.dph.illinois.gov/
 60502,_Aurora,_Illinois,_Illinois	60502, Aurora, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		32		219									http://www.dph.illinois.gov/
 60503,_Aurora,_Illinois,_Illinois	60503, Aurora, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		20		132									http://www.dph.illinois.gov/
+60585,_Plainfield,_Illinois,_Illinois	60585, Plainfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		41		285									http://www.dph.illinois.gov/
+60586,_Plainfield,_Illinois,_Illinois	60586, Plainfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		143		833									http://www.dph.illinois.gov/
+60428,_Markham,_Illinois,_Illinois	60428, Markham, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		122		560									http://www.dph.illinois.gov/
+62711,_Springfield,_Illinois,_Illinois	62711, Springfield, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		11		153									http://www.dph.illinois.gov/
+60124,_Elgin,_Illinois,_Illinois	60124, Elgin, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		19		158									http://www.dph.illinois.gov/
 60169,_Hoffman_Estates,_Illinois,_Illinois	60169, Hoffman Estates, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		104		406									http://www.dph.illinois.gov/
+60403,_Crest_Hill,_Illinois,_Illinois	60403, Crest Hill, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		71		473									http://www.dph.illinois.gov/
+60404,_Shorewood,_Illinois,_Illinois	60404, Shorewood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		48		354									http://www.dph.illinois.gov/
+60487,_Tinley_Park,_Illinois,_Illinois	60487, Tinley Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		67		401									http://www.dph.illinois.gov/
 60642,_Chicago,_Illinois	60642, Chicago, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		65		465									http://www.dph.illinois.gov/
+61705,_Bloomington,_Illinois,_Illinois	61705, Bloomington, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		203									http://www.dph.illinois.gov/
+60484,_University_Park,_Illinois,_Illinois	60484, University Park, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		60		248									http://www.dph.illinois.gov/
+60958,_Pembroke_Township,_Kankakee_County,_Illinois,_Illinois	60958, Pembroke Township, Kankakee County, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		8		46									http://www.dph.illinois.gov/
+60418,_Crestwood,_Illinois,_Illinois	60418, Crestwood, Illinois, Illinois	2020-04-29	2020-04-29T05:00:00.000Z		47		201									http://www.dph.illinois.gov/
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-04-29		0	29			0	0		0	0	0.0	1.0		https://www.scdhec.gov/
 Abington,_Massachusetts	Abington, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		143											https://www.mass.gov/
 Abrantes	Abrantes	2020-04-29	2020-04-28T23:00:00.000Z		8			0			0			0.14		https://covid19.min-saude.pt/
@@ -140,7 +457,7 @@ Adams_County,_Pennsylvania	Adams County, Pennsylvania	2020-04-29	2020-04-29T16:0
 Adams_County,_Washington	Adams County, Washington	2020-04-29		0	46			0	0		0	0	0.0	0.43		https://coronavirus.wa.gov/
 Adams_County,_Wisconsin	Adams County, Wisconsin	2020-04-29	2020-04-29T06:00:00.000Z	1	4			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Addison_County,_Vermont	Addison County, Vermont	2020-04-29		2	61			0	0		0	0	0.0	0.0		https://www.healthvermont.gov/
-Afghanistan	Afghanistan	2020-04-29	2020-05-14T11:42:23.000Z	60	1827			0	3	3	-124	3	2.86	93.0		https://www.ecdc.europa.eu/
+Afghanistan	Afghanistan	2020-04-29	2020-05-15T11:41:17.000Z	60	1827			0	3	3	-124	3	2.86	93.0		https://www.ecdc.europa.eu/
 Agawam,_Massachusetts	Agawam, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		317											https://www.mass.gov/
 Agder	Agder	2020-04-29	2020-04-29T11:00:00.000Z		324			1			-3			3.0		https://www.fhi.no/
 Agoura_Hills,_California	Agoura Hills, California	2020-04-29	2020-04-29T03:00:00+0000		31			1			1					http://publichealth.lacounty.gov/
@@ -202,7 +519,7 @@ Amite_County,_Mississippi	Amite County, Mississippi	2020-04-29	2020-04-29T05:00:
 Amstetten_District	Amstetten District	2020-04-29	2020-04-29T20:00:00.000Z		293			1			0			1.29		https://info.gesundheitsministerium.at/
 Anadia,_Portugal	Anadia, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		36			0			0			1.86		https://covid19.min-saude.pt/
 Anchorage,_Alaska	Anchorage, Alaska	2020-04-29			179			4			0			2.14		http://www.dhss.alaska.gov/
-Andalusia	Andalusia	2020-04-29	2020-05-14T12:23:49.000Z	1207	11949	5710		32	19	438	-49	-1	18.29	84.43	266.14	https://www.mscbs.gob.es/
+Andalusia	Andalusia	2020-04-29	2020-05-15T10:56:53.000Z	1207	11949	5710		32	19	438	-49	-1	18.29	84.43	266.14	https://www.mscbs.gob.es/
 Andaman_and_Nicobar_Islands	Andaman and Nicobar Islands	2020-04-29	2020-04-28T11:30:00+0000	0	33	11		0	0	0	0	0	0.0	2.43	0.0	https://www.mohfw.gov.in/
 Anderson_County,_Kentucky	Anderson County, Kentucky	2020-04-29		1	8			0	0		0	0	0.0	0.14		https://govstatus.egov.com/
 Anderson_County,_South_Carolina	Anderson County, South Carolina	2020-04-29		6	157			5	0		2	0	0.14	3.14		https://www.scdhec.gov/
@@ -215,16 +532,16 @@ Andrew_County,_Missouri	Andrew County, Missouri	2020-04-29			2			0			0			0.14		h
 Andrews_County,_Texas	Andrews County, Texas	2020-04-29			19			0			0			0.0		https://www.dshs.state.tx.us/
 Androscoggin_County,_Maine	Androscoggin County, Maine	2020-04-29	2020-04-29T16:00:00+0000	2	43	25		1	0	1	1	0	0.14	1.0	0.71	https://www.maine.gov/
 Angelina_County,_Texas	Angelina County, Texas	2020-04-29			49			3			-7			2.71		https://www.dshs.state.tx.us/
-Angola	Angola	2020-04-29	2020-05-14T11:42:23.000Z	2	27			0	0	0	-1	0	0.0	0.43		https://www.ecdc.europa.eu/
-Anguilla	Anguilla	2020-04-29	2020-05-14T11:42:23.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Angola	Angola	2020-04-29	2020-05-15T11:41:17.000Z	2	27			0	0	0	-1	0	0.0	0.43		https://www.ecdc.europa.eu/
+Anguilla	Anguilla	2020-04-29	2020-05-15T11:41:17.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Anne_Arundel_County,_Maryland	Anne Arundel County, Maryland	2020-04-29		75	1662			91	5		64	1	3.71	67.43		https://coronavirus.maryland.gov/
 Anoka_County,_Minnesota	Anoka County, Minnesota	2020-04-29	2020-04-29T00:00:00	8	196			10	0		-8	-3	0.86	13.0		https://www.health.state.mn.us/
 Anson_County,_North_Carolina	Anson County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	0	24			2	0		0	0	0.0	0.86		https://www.ncdhhs.gov/
 Antelope_County,_Nebraska	Antelope County, Nebraska	2020-04-29			2		3	0			0			0.14		http://dhhs.ne.gov/
-Antigua_and_Barbuda	Antigua and Barbuda	2020-04-29	2020-05-14T11:42:23.000Z	3	24			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Antigua_and_Barbuda	Antigua and Barbuda	2020-04-29	2020-05-15T11:41:17.000Z	3	24			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Antofagasta	Antofagasta	2020-04-29	2020-04-28T04:00:00+0000	4	481			24	0		10	0	0.43	27.14		https://www.minsal.cl/
 Antrim_County,_Michigan	Antrim County, Michigan	2020-04-29	2020-04-29T19:00:00+0000		10			1			1			0.14		https://www.michigan.gov/
-Antwerp_Province	Antwerp Province	2020-04-29	2020-04-29		6211			118			-6			97.57		https://epistat.wiv-isp.be/Covid/
+Antwerp_Province	Antwerp Province	2020-04-29	2020-04-29		6214			118			-6			97.57		https://epistat.wiv-isp.be/Covid/
 Aosta_Valley	Aosta Valley	2020-04-29		137	1124	852	7181	5	2	77	-3	0	1.43	4.14	55.0	http://www.salute.gov.it/
 Apache_County,_Arizona	Apache County, Arizona	2020-04-29	2020-04-29T00:00:00.000Z	5	392		1983	12	0		-6	0	0.0	22.43		https://azdhs.gov/
 Appanoose_County,_Iowa	Appanoose County, Iowa	2020-04-29		2	2			0	0		0	0	0.0	0.0		https://idph.iowa.gov/
@@ -232,7 +549,7 @@ Appling_County,_Georgia	Appling County, Georgia	2020-04-29	2020-04-29T22:28:01+0
 Appomattox_County,_Virginia	Appomattox County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	18			1	0		1	0	0.0	1.57		http://www.vdh.virginia.gov/
 Apulia	Apulia	2020-04-29		410	4029	692	60334	49	3	38	27	1	6.86	42.71	28.29	http://www.salute.gov.it/
 Aquinnah,_Massachusetts	Aquinnah, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		0											https://www.mass.gov/
-Aragon	Aragon	2020-04-29	2020-05-14T12:23:49.000Z	739	5091	2291		49	3	102	11	2	8.29	36.86	87.29	https://www.mscbs.gob.es/
+Aragon	Aragon	2020-04-29	2020-05-15T10:56:53.000Z	739	5091	2291		49	3	102	11	2	8.29	36.86	87.29	https://www.mscbs.gob.es/
 Aransas_County,_Texas	Aransas County, Texas	2020-04-29			2			0			0			0.0		https://www.dshs.state.tx.us/
 Arapahoe_County,_Colorado	Arapahoe County, Colorado	2020-04-29		140	2389			77	4		17	-2		96.0		https://covid19.colorado.gov/
 Arcadia,_California	Arcadia, California	2020-04-29	2020-04-29T03:00:00+0000		38			1			0					http://publichealth.lacounty.gov/
@@ -255,7 +572,7 @@ Arouca,_Portugal	Arouca, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		34			3			
 Arruda_dos_Vinhos	Arruda dos Vinhos	2020-04-29	2020-04-28T23:00:00.000Z		5			0			0			0.0		https://covid19.min-saude.pt/
 Artesia,_California	Artesia, California	2020-04-29	2020-04-29T03:00:00+0000		14			1			1					http://publichealth.lacounty.gov/
 Arthur_County,_Nebraska	Arthur County, Nebraska	2020-04-29			0		0	0			0			0.0		http://dhhs.ne.gov/
-Aruba	Aruba	2020-04-29	2020-05-14T11:42:23.000Z	2	100			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Aruba	Aruba	2020-04-29	2020-05-15T11:41:17.000Z	2	100			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Arunachal_Pradesh	Arunachal Pradesh	2020-04-29	2020-04-28T11:30:00+0000	0	1	1		0	0	0	0	0	0.0	0.0	0.0	https://www.mohfw.gov.in/
 Ascension_Parish,_Louisiana	Ascension Parish, Louisiana	2020-04-29		38	587			11	2		9	1	0.71	7.71		http://ldh.la.gov/
 Ashburnham,_Massachusetts	Ashburnham, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		16											https://www.mass.gov/
@@ -269,7 +586,7 @@ Ashtabula_County,_Ohio	Ashtabula County, Ohio	2020-04-29	2020-04-29T18:00:00.000
 Asotin_County,_Washington	Asotin County, Washington	2020-04-29		2	17			0	0		0	-1	0.14	0.43		https://coronavirus.wa.gov/
 Assam	Assam	2020-04-29	2020-04-28T11:30:00+0000	1	38	27		2	0	0	2	0	0.0	0.43	1.14	https://www.mohfw.gov.in/
 Assumption_Parish,_Louisiana	Assumption Parish, Louisiana	2020-04-29		6	178			1	3		-1	3	0.71	3.43		http://ldh.la.gov/
-Asturias	Asturias	2020-04-29	2020-05-14T12:23:49.000Z	273	2306	835		17	7	26	0	2	7.14	9.0	24.29	https://www.mscbs.gob.es/
+Asturias	Asturias	2020-04-29	2020-05-15T10:56:53.000Z	273	2306	835		17	7	26	0	2	7.14	9.0	24.29	https://www.mscbs.gob.es/
 Atacama_Region	Atacama Region	2020-04-29	2020-04-28T04:00:00+0000	0	35			0	0		-6	0	0.0	3.14		https://www.minsal.cl/
 Atascosa_County,_Texas	Atascosa County, Texas	2020-04-29		1	16			0	0		-2	0	0.0	0.29		https://www.dshs.state.tx.us/
 Atchison_County,_Kansas	Atchison County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		9			0			0			0.43		https://www.coronavirus.kdheks.gov
@@ -293,7 +610,7 @@ Australia	Australia	2020-04-29	2020-04-29T15:00:00.000Z	89	6746	5667	544000	19	4
 Australian_Capital_Territory	Australian Capital Territory	2020-04-29	2020-04-28T05:00:00+0000		106			0			0			0.29		https://www.health.gov.au/
 Austria	Austria	2020-04-29	2020-04-29T19:00:00.000Z	555	15364	12779	247754	49	20	199	2	13	8.71	63.57	207.29	https://info.gesundheitsministerium.at/
 Autauga_County,_Alabama	Autauga County, Alabama	2020-04-29		4	43		737	3	0		2	-1	0.29	1.57		https://covid19.alabama.gov/
-Autonomous_Province_of_Kosovo_and_Metohija	Autonomous Province of Kosovo and Metohija	2020-04-29	2020-05-14T11:42:23.000Z	22	790			10	0	0	-7	-1	0.57	26.57		https://www.ecdc.europa.eu/
+Autonomous_Province_of_Kosovo_and_Metohija	Autonomous Province of Kosovo and Metohija	2020-04-29	2020-05-15T11:41:17.000Z	22	790			10	0	0	-7	-1	0.57	26.57		https://www.ecdc.europa.eu/
 Avalon,_California	Avalon, California	2020-04-29	2020-04-29T03:00:00+0000		0			0			0					http://publichealth.lacounty.gov/
 Aveiro,_Portugal	Aveiro, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		273			-5			-5			4.71		https://covid19.min-saude.pt/
 Avery_County,_North_Carolina	Avery County, North Carolina	2020-04-29		0	0			0	0		0	0	0.0	0.0		https://www.ncdhhs.gov/
@@ -315,7 +632,7 @@ Baker_County,_Oregon	Baker County, Oregon	2020-04-29	2020-04-29T15:00:00+0000	0	
 Baldwin_County,_Alabama	Baldwin County, Alabama	2020-04-29		2	173		2561	2	-1		-1	-1	-0.14	5.86		https://covid19.alabama.gov/
 Baldwin_County,_Georgia	Baldwin County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	8	210			8	2		-13	2	0.57	7.86		https://dph.georgia.gov/
 Baldwin_Park,_California	Baldwin Park, California	2020-04-29	2020-04-29T03:00:00+0000		83			6			2					http://publichealth.lacounty.gov/
-Balearic_Islands	Balearic Islands	2020-04-29	2020-05-14T12:23:49.000Z	188	1883	1219		4	3	23	-5	-1	2.86	10.86	24.57	https://www.mscbs.gob.es/
+Balearic_Islands	Balearic Islands	2020-04-29	2020-05-15T10:56:53.000Z	188	1883	1219		4	3	23	-5	-1	2.86	10.86	24.57	https://www.mscbs.gob.es/
 Ballard_County,_Kentucky	Ballard County, Kentucky	2020-04-29		0	9			0	0		-2	0	0.0	0.71		https://govstatus.egov.com/
 Baltimore	Baltimore	2020-04-29		94	2014			37	11		-7	10	5.14	58.86		https://coronavirus.maryland.gov/
 Baltimore_County,_Maryland	Baltimore County, Maryland	2020-04-29		104	2740			109	10		26	3	6.57	104.0		https://coronavirus.maryland.gov/
@@ -326,7 +643,7 @@ Banks_County,_Georgia	Banks County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	
 Banner_County,_Nebraska	Banner County, Nebraska	2020-04-29			0		4	0			0			0.0		http://dhhs.ne.gov/
 Bannock_County,_Idaho	Bannock County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	7			0	0		-2	0	0.0	0.29		https://coronavirus.idaho.gov/
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-04-29	2020-04-29T07:00:00+0000		4			0			0					http://www.cdcmoh.gov.kh/
-Barbados	Barbados	2020-04-29	2020-05-14T11:42:23.000Z	6	80			0	0	0	-1	0	0.14	0.71		https://www.ecdc.europa.eu/
+Barbados	Barbados	2020-04-29	2020-05-15T11:41:17.000Z	6	80			0	0	0	-1	0	0.14	0.71		https://www.ecdc.europa.eu/
 Barber_County,_Kansas	Barber County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		1			0			0			0.0		https://www.coronavirus.kdheks.gov
 Barbour_County,_Alabama	Barbour County, Alabama	2020-04-29		1	37		285	0	1		-2	1	0.14	1.14		https://covid19.alabama.gov/
 Barbour_County,_West_Virginia	Barbour County, West Virginia	2020-04-29	2020-04-29T17:00:00.000Z	1	4			0	0		0	0		0.0		https://dhhr.wv.gov/
@@ -346,7 +663,7 @@ Bartholomew_County,_Indiana	Bartholomew County, Indiana	2020-04-29	2020-04-29T12
 Barton_County,_Kansas	Barton County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		9			0			0			0.14		https://www.coronavirus.kdheks.gov
 Bartow_County,_Georgia	Bartow County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	30	308			10	0		0	-2	0.43	7.0		https://dph.georgia.gov/
 Basilicata	Basilicata	2020-04-29		25	366	147	11331	0	0	11	0	0	0.14	1.71	7.0	http://www.salute.gov.it/
-Basque_Country_(autonomous_community)	Basque Country (autonomous community)	2020-04-29	2020-05-14T12:23:49.000Z	1296	12701	10936		82	22	462	27	3	18.43	86.71	400.0	https://www.mscbs.gob.es/
+Basque_Country_(autonomous_community)	Basque Country (autonomous community)	2020-04-29	2020-05-15T10:56:53.000Z	1296	12701	10936		82	22	462	27	3	18.43	86.71	400.0	https://www.mscbs.gob.es/
 Bastrop_County,_Texas	Bastrop County, Texas	2020-04-29		2	67			8	0		8	0	0.0	2.29		https://www.dshs.state.tx.us/
 Batalha,_Portugal	Batalha, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
 Bates_County,_Missouri	Bates County, Missouri	2020-04-29		1	6			0	0		0	0	0.0	0.0		https://health.mo.gov/
@@ -380,7 +697,7 @@ Beja,_Portugal	Beja, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		10			1			1			
 Belarus	Belarus	2020-04-29	2020-04-29T06:00:00.000Z	84	13181	2072	168986	973	4	79	-772	1	3.71	842.86	186.14	http://stopcovid.belta.by/
 Belchertown,_Massachusetts	Belchertown, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		62											https://www.mass.gov/
 Belgium	Belgium	2020-04-29	2020-04-29T00:00:00.000Z	7501	47859			258	14	14	255	9	177.0	852.86		https://epistat.wiv-isp.be/Covid/
-Belize	Belize	2020-04-29	2020-05-14T11:42:23.000Z	2	18			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Belize	Belize	2020-04-29	2020-05-15T11:41:17.000Z	2	18			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Belknap_County,_New_Hampshire	Belknap County, New Hampshire	2020-04-29	2020-04-29T09:00:00.000Z		33			-1			0			0.71		https://www.nh.gov/
 Bell,_California	Bell, California	2020-04-29	2020-04-29T03:00:00+0000		121			2			0					http://publichealth.lacounty.gov/
 Bell_County,_Texas	Bell County, Texas	2020-04-29		3	180			7	0		-1	0	0.0	5.0		https://www.dshs.state.tx.us/
@@ -393,7 +710,7 @@ Beltrami_County,_Minnesota	Beltrami County, Minnesota	2020-04-29	2020-04-29T00:0
 Ben_Hill_County,_Georgia	Ben Hill County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	0	25			0	0		-1	0	0.0	0.71		https://dph.georgia.gov/
 Benavente,_Portugal	Benavente, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		28			-1			-1			0.14		https://covid19.min-saude.pt/
 Benewah_County,_Idaho	Benewah County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
-Benin	Benin	2020-04-29	2020-05-14T11:42:23.000Z	1	64			0	0	0	0	0	0.0	1.43		https://www.ecdc.europa.eu/
+Benin	Benin	2020-04-29	2020-05-15T11:41:17.000Z	1	64			0	0	0	0	0	0.0	1.43		https://www.ecdc.europa.eu/
 Bennett_County,_South_Dakota	Bennett County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		0	0	11	0		0	0			0.0	0.0	https://doh.sd.gov/
 Bennington_County,_Vermont	Bennington County, Vermont	2020-04-29		1	44			0	0		-4	0	0.0	1.0		https://www.healthvermont.gov/
 Bent_County,_Colorado	Bent County, Colorado	2020-04-29			0			0			0			0.0		https://covid19.colorado.gov/
@@ -423,7 +740,7 @@ Bethel_Census_Area,_Alaska	Bethel Census Area, Alaska	2020-04-29			1			0			0			0
 Beverly,_Massachusetts	Beverly, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		363											https://www.mass.gov/
 Beverly_Hills,_California	Beverly Hills, California	2020-04-29	2020-04-29T03:00:00+0000		106			1			1					http://publichealth.lacounty.gov/
 Bexar_County,_Texas	Bexar County, Texas	2020-04-29		44	1307			32	0		11	-1	0.71	32.43		https://www.dshs.state.tx.us/
-Bhutan	Bhutan	2020-04-29	2020-05-14T11:42:23.000Z	0	7			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Bhutan	Bhutan	2020-04-29	2020-05-15T11:41:17.000Z	0	7			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Bibb_County,_Alabama	Bibb County, Alabama	2020-04-29		0	42		704	0	0		0	0	0.0	1.14		https://covid19.alabama.gov/
 Bibb_County,_Georgia	Bibb County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	9	299			30	1		13	0	0.71	10.71		https://dph.georgia.gov/
 Bienville_Parish,_Louisiana	Bienville Parish, Louisiana	2020-04-29		13	74			1	0		1	0	0.57	0.71		http://ldh.la.gov/
@@ -454,7 +771,7 @@ Bludenz_District	Bludenz District	2020-04-29	2020-04-29T20:00:00.000Z		250			0		
 Blue_Earth_County,_Minnesota	Blue Earth County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	34			1	0		-2	0	0.0	1.14		https://www.health.state.mn.us/
 Boise_County,_Idaho	Boise County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Bolivar_County,_Mississippi	Bolivar County, Mississippi	2020-04-29	2020-04-29T05:00:00+0000	7	101			0	0		0	0	0.14	2.0		https://msdh.ms.gov/
-Bolivia	Bolivia	2020-04-29	2020-05-14T11:42:23.000Z	55	1053			39	2	2	-25	-1	2.57	63.43		https://www.ecdc.europa.eu/
+Bolivia	Bolivia	2020-04-29	2020-05-15T11:41:17.000Z	55	1053			39	2	2	-25	-1	2.57	63.43		https://www.ecdc.europa.eu/
 Bollinger_County,_Missouri	Bollinger County, Missouri	2020-04-29			4			0			0			0.14		https://health.mo.gov/
 Bolton,_Massachusetts	Bolton, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		9											https://www.mass.gov/
 Bombarral	Bombarral	2020-04-29	2020-04-28T23:00:00.000Z		4			0			0			0.14		https://covid19.min-saude.pt/
@@ -483,7 +800,7 @@ Bosque_County,_Texas	Bosque County, Texas	2020-04-29			4			0			0			0.14		https:/
 Bossier_Parish,_Louisiana	Bossier Parish, Louisiana	2020-04-29		15	285			8	1		5	0	0.43	5.57		http://ldh.la.gov/
 Boston	Boston	2020-04-29	2020-04-29T20:00:00.000Z		9284											https://www.mass.gov/
 Botetourt_County,_Virginia	Botetourt County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	3	28			1	0		1	0	0.0	0.43		http://www.vdh.virginia.gov/
-Botswana	Botswana	2020-04-29	2020-05-14T11:42:23.000Z	1	23			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
+Botswana	Botswana	2020-04-29	2020-05-15T11:41:17.000Z	1	23			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
 Boulder_County,_Colorado	Boulder County, Colorado	2020-04-29		39	565			22	6		-6	6		21.14		https://covid19.colorado.gov/
 Boundary_County,_Idaho	Boundary County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Bourbon_County,_Kansas	Bourbon County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		6			0			0			0.0		https://www.coronavirus.kdheks.gov
@@ -528,7 +845,7 @@ Bristol	Bristol	2020-04-29	2020-05-14T13:44:03.000Z		612			8			-4			10.0		https:
 Bristol,_Virginia	Bristol, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	1			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Bristol_County,_Massachusetts	Bristol County, Massachusetts	2020-04-29	2020-04-29T16:00:00.000Z	165	3429			159	10		-43	-8	8.71	217.29		https://www.mass.gov/
 British_Columbia	British Columbia	2020-04-29	2020-04-29T15:00:00.000Z	109	2087	1305	71210	34	4	74	-21	2	2.71	41.71	32.29	https://www.canada.ca/
-British_Virgin_Islands	British Virgin Islands	2020-04-29	2020-05-14T11:42:23.000Z	1	6			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+British_Virgin_Islands	British Virgin Islands	2020-04-29	2020-05-15T11:41:17.000Z	1	6			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Brittany_(administrative_region)	Brittany (administrative region)	2020-04-29		210		809			3	16		0	2.43		15.29	https://www.santepubliquefrance.fr/
 Broadwater_County,_Montana	Broadwater County, Montana	2020-04-29		0	4			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
 Brockton,_Massachusetts	Brockton, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		2735											https://www.mass.gov/
@@ -552,7 +869,7 @@ Brown_County,_Texas	Brown County, Texas	2020-04-29		3	34			0	0		-6	-1	0.29	3.0		
 Brown_County,_Wisconsin	Brown County, Wisconsin	2020-04-29	2020-04-29T06:00:00.000Z	3	971			51	0		-16	-1	0.14	81.29		https://www.dhs.wisconsin.gov/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-04-29	2020-04-29T20:00:00.000Z		77			0			-1			0.29		https://info.gesundheitsministerium.at/
 Brule_County,_South_Dakota	Brule County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		0	0	55	0		0	0			0.0	0.0	https://doh.sd.gov/
-Brunei	Brunei	2020-04-29	2020-05-14T11:42:23.000Z	1	138	124	13263	0	0	0	0	0	0.0	0.0	1.0	https://www.ecdc.europa.eu/
+Brunei	Brunei	2020-04-29	2020-05-15T11:41:17.000Z	1	138	124	13263	0	0	0	0	0	0.0	0.0	1.0	https://www.ecdc.europa.eu/
 Brunswick_County,_North_Carolina	Brunswick County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	2	43			0	0		-3	0	0.0	0.71		https://www.ncdhhs.gov/
 Brunswick_County,_Virginia	Brunswick County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	14			1	0		2	0	0.0	0.29		http://www.vdh.virginia.gov/
 Brussels	Brussels	2020-04-29	2020-04-29		5108			66			25			70.0		https://epistat.wiv-isp.be/Covid/
@@ -581,7 +898,7 @@ Burgenland	Burgenland	2020-04-29	2020-04-29T20:00:00.000Z	10		246			0	4		0	0.57	
 Burke_County,_Georgia	Burke County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	3	84			10	0		13	0	0.0	4.43		https://dph.georgia.gov/
 Burke_County,_North_Carolina	Burke County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	8	93			4	0		3	0	0.0	2.29		https://www.ncdhhs.gov/
 Burke_County,_North_Dakota	Burke County, North Dakota	2020-04-29	2020-04-29T16:00:00+0000		3			0			0			0.14		https://www.health.nd.gov/
-Burkina_Faso	Burkina Faso	2020-04-29	2020-05-14T11:42:23.000Z	42	638			3	0	0	0	0	0.57	5.43		https://www.ecdc.europa.eu/
+Burkina_Faso	Burkina Faso	2020-04-29	2020-05-15T11:41:17.000Z	42	638			3	0	0	0	0	0.57	5.43		https://www.ecdc.europa.eu/
 Burleigh_County,_North_Dakota	Burleigh County, North Dakota	2020-04-29	2020-04-29T16:00:00+0000		76			2			2			1.57		https://www.health.nd.gov/
 Burleson_County,_Texas	Burleson County, Texas	2020-04-29			12			0			-1			0.29		https://www.dshs.state.tx.us/
 Burlington,_Massachusetts	Burlington, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		173											https://www.mass.gov/
@@ -589,7 +906,7 @@ Burlington_County,_New_Jersey	Burlington County, New Jersey	2020-04-29		66	1765	
 Burnet_County,_Texas	Burnet County, Texas	2020-04-29			16			1			1			0.43		https://www.dshs.state.tx.us/
 Burnett_County,_Wisconsin	Burnett County, Wisconsin	2020-04-29	2020-04-29T06:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Burt_County,_Nebraska	Burt County, Nebraska	2020-04-29			2		5	0			0			0.14		http://dhhs.ne.gov/
-Burundi	Burundi	2020-04-29	2020-05-14T11:42:23.000Z	1	15			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
+Burundi	Burundi	2020-04-29	2020-05-15T11:41:17.000Z	1	15			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
 Butler_County,_Alabama	Butler County, Alabama	2020-04-29		1	50		315	5	0		-6	0	0.14	4.71		https://covid19.alabama.gov/
 Butler_County,_Iowa	Butler County, Iowa	2020-04-29		0	8			0	0		0	0	0.0	0.86		https://idph.iowa.gov/
 Butler_County,_Kansas	Butler County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		16			1			0			0.43		https://www.coronavirus.kdheks.gov
@@ -639,7 +956,7 @@ Calhoun_County,_Mississippi	Calhoun County, Mississippi	2020-04-29	2020-04-29T05
 Calhoun_County,_South_Carolina	Calhoun County, South Carolina	2020-04-29		1	6			0	0		0	0	0.0	0.0		https://www.scdhec.gov/
 Calhoun_County,_Texas	Calhoun County, Texas	2020-04-29		3	30			0	0		-1	-1	0.14	1.14		https://www.dshs.state.tx.us/
 Calhoun_County,_West_Virginia	Calhoun County, West Virginia	2020-04-29	2020-04-29T17:00:00.000Z	0	0			0	0		0	0		0.0		https://dhhr.wv.gov/
-California	California	2020-04-29	2020-04-29T00:00:00.000Z	1944	48780			2380	76		1142	-13	73.43	1593.0		https://www.cdph.ca.gov/
+California	California	2020-04-29		1982	48917			2417	95		1079	-13	78.86	1612.57		https://www.cdph.ca.gov/
 Callahan_County,_Texas	Callahan County, Texas	2020-04-29			2			0			-1			0.14		https://www.dshs.state.tx.us/
 Callaway_County,_Missouri	Callaway County, Missouri	2020-04-29		1	21			-1	0		-2	0	0.0	0.0		https://health.mo.gov/
 Calloway_County,_Kentucky	Calloway County, Kentucky	2020-04-29		1	31			0	0		0	0	0.0	1.29		https://govstatus.egov.com/
@@ -657,7 +974,7 @@ Camden_County,_North_Carolina	Camden County, North Carolina	2020-04-29	2020-04-2
 Cameron_County,_Pennsylvania	Cameron County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	0	1		50	0	0		0	0	0.0	0.0		https://www.health.pa.gov/
 Cameron_County,_Texas	Cameron County, Texas	2020-04-29		16	387			11	2		1	2	1.29	11.0		https://www.dshs.state.tx.us/
 Cameron_Parish,_Louisiana	Cameron Parish, Louisiana	2020-04-29		0	3			0	0		0	0	0.0	0.0		http://ldh.la.gov/
-Cameroon	Cameroon	2020-04-29	2020-05-14T11:42:23.000Z	59	1806			185	1	1	185	-1	2.29	91.86		https://www.ecdc.europa.eu/
+Cameroon	Cameroon	2020-04-29	2020-05-15T11:41:17.000Z	59	1806			185	1	1	185	-1	2.29	91.86		https://www.ecdc.europa.eu/
 Caminha	Caminha	2020-04-29	2020-04-28T23:00:00.000Z		14			0			0			0.0		https://covid19.min-saude.pt/
 Camp_County,_Texas	Camp County, Texas	2020-04-29			6			0			0			0.0		https://www.dshs.state.tx.us/
 Campania	Campania	2020-04-29		359	4410	1269	73094	30	1	49	-1	-5	4.57	32.14	58.43	http://www.salute.gov.it/
@@ -668,10 +985,10 @@ Campbell_County,_Virginia	Campbell County, Virginia	2020-04-29	2020-04-29T13:00:
 Campbell_County,_Wyoming	Campbell County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		14			0			0			0.0		https://health.wyo.gov/
 Canada	Canada	2020-04-29	2020-04-29T15:00:00.000Z	2996	51587	20327	779613	347	152	1096	-1189	5	146.0	1629.71	905.86	https://www.canada.ca/
 Canadian_County,_Oklahoma	Canadian County, Oklahoma	2020-04-29	2020-04-29T00:00:00.000Z	3	97	71		1	0	1	-4	0	0.0	2.14	1.71	https://coronavirus.health.ok.gov/
-Canary_Islands	Canary Islands	2020-04-29	2020-05-14T12:23:49.000Z	135	2205	1131		3	1	24	-12	0	2.0	13.14	23.14	https://www.mscbs.gob.es/
+Canary_Islands	Canary Islands	2020-04-29	2020-05-15T10:56:53.000Z	135	2205	1131		3	1	24	-12	0	2.0	13.14	23.14	https://www.mscbs.gob.es/
 Candler_County,_Georgia	Candler County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	0	7			0	0		1	0	0.0	0.0		https://dph.georgia.gov/
 Cannon_County,_Tennessee	Cannon County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z		11	6		0		0	0			0.14	0.29	https://www.tn.gov/
-Cantabria	Cantabria	2020-04-29	2020-05-14T12:23:49.000Z	191	2173	1483		27	0	111	-4	-3	2.57	21.43	90.43	https://www.mscbs.gob.es/
+Cantabria	Cantabria	2020-04-29	2020-05-15T10:56:53.000Z	191	2173	1483		27	0	111	-4	-3	2.57	21.43	90.43	https://www.mscbs.gob.es/
 Cantanhede,_Portugal	Cantanhede, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		50			0			0			1.57		https://covid19.min-saude.pt/
 Canton,_Massachusetts	Canton, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		219											https://www.mass.gov/
 Canton_of_Aargau	Canton of Aargau	2020-04-29	2020-04-16T22:00:00+0000	23	943			0	0		0	0	0.64	18.0		https://www.bag.admin.ch/
@@ -702,11 +1019,11 @@ Canton_of_Z%C3%BCrich	Canton of Zürich	2020-04-29	2020-04-16T22:00:00+0000	90	3
 Canyon_County,_Idaho	Canyon County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	6	234			2	0		-3	0	0.0	4.14		https://coronavirus.idaho.gov/
 Cape_Girardeau_County,_Missouri	Cape Girardeau County, Missouri	2020-04-29		1	49			1	0		1	0	0.0	1.29		https://health.mo.gov/
 Cape_May_County,_New_Jersey	Cape May County, New Jersey	2020-04-29		16	217			0	0		0	0	0.0	0.0		https://www.nj.gov/
-Cape_Verde	Cape Verde	2020-04-29	2020-05-14T11:42:23.000Z	1	113			0	0	0	-7	0	0.0	6.57		https://www.ecdc.europa.eu/
+Cape_Verde	Cape Verde	2020-04-29	2020-05-15T11:41:17.000Z	1	113			0	0	0	-7	0	0.0	6.57		https://www.ecdc.europa.eu/
 Carbon_County,_Montana	Carbon County, Montana	2020-04-29		0	6			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
 Carbon_County,_Pennsylvania	Carbon County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	14	170		1176	1	1		-4	0	0.43	2.29		https://www.health.pa.gov/
 Carbon_County,_Wyoming	Carbon County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		4			0			0			0.0		https://health.wyo.gov/
-Caribbean_Netherlands	Caribbean Netherlands	2020-04-29	2020-05-14T11:42:23.000Z	0	6			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Caribbean_Netherlands	Caribbean Netherlands	2020-04-29	2020-05-15T11:41:17.000Z	0	6			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Caribou_County,_Idaho	Caribou County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	1			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Carinthia	Carinthia	2020-04-29	2020-04-29T20:00:00.000Z	12		378			0	6		0	0.0		6.71	https://info.gesundheitsministerium.at/
 Carlisle,_Massachusetts	Carlisle, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		7											https://www.mass.gov/
@@ -755,14 +1072,14 @@ Cass_County,_Texas	Cass County, Texas	2020-04-29			13			0			0			0.43		https://ww
 Cassia_County,_Idaho	Cassia County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	1	12			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Castelo_Branco,_Portugal	Castelo Branco, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		5			0			0			0.0		https://covid19.min-saude.pt/
 Castelo_de_Paiva	Castelo de Paiva	2020-04-29	2020-04-28T23:00:00.000Z		12			2			2			0.29		https://covid19.min-saude.pt/
-Castile_and_Le%C3%B3n	Castile and León	2020-04-29	2020-05-14T12:23:49.000Z	1752	16885	6569		195	16	121	94	-10	24.29	196.43	113.14	https://www.mscbs.gob.es/
-Castilla%E2%80%93La_Mancha	Castilla–La Mancha	2020-04-29	2020-05-14T12:23:49.000Z	2463	15832	5512		47	27	130	-32	-13	39.29	100.57	133.57	https://www.mscbs.gob.es/
+Castile_and_Le%C3%B3n	Castile and León	2020-04-29	2020-05-15T10:56:53.000Z	1752	16885	6569		195	16	121	94	-10	24.29	196.43	113.14	https://www.mscbs.gob.es/
+Castilla%E2%80%93La_Mancha	Castilla–La Mancha	2020-04-29	2020-05-15T10:56:53.000Z	2463	15832	5512		47	27	130	-32	-13	39.29	100.57	133.57	https://www.mscbs.gob.es/
 Castro_County,_Texas	Castro County, Texas	2020-04-29		1	13			0	0		0	0	0.0	0.14		https://www.dshs.state.tx.us/
 Castro_Daire	Castro Daire	2020-04-29	2020-04-28T23:00:00.000Z		102			-2			-2			0.43		https://covid19.min-saude.pt/
 Castro_Marim	Castro Marim	2020-04-29	2020-04-28T23:00:00.000Z		3			0			0			0.0		https://covid19.min-saude.pt/
 Caswell_County,_North_Carolina	Caswell County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	0	19			1	0		1	0	0.0	1.43		https://www.ncdhhs.gov/
 Catahoula_Parish,_Louisiana	Catahoula Parish, Louisiana	2020-04-29		2	35			10	0		10	0	0.14	1.57		http://ldh.la.gov/
-Catalonia	Catalonia	2020-04-29	2020-05-14T12:23:49.000Z	4975	48916	19615		262	70	555	-234	-27	90.29	574.86	591.14	https://www.mscbs.gob.es/
+Catalonia	Catalonia	2020-04-29	2020-05-15T10:56:53.000Z	4975	48916	19615		262	70	555	-234	-27	90.29	574.86	591.14	https://www.mscbs.gob.es/
 Catawba_County,_North_Carolina	Catawba County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	1	52			1	0		-1	0	0.0	1.29		https://www.ncdhhs.gov/
 Catoosa_County,_Georgia	Catoosa County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	0	46			0	0		0	0	0.0	0.14		https://dph.georgia.gov/
 Catron_County,_New_Mexico	Catron County, New Mexico	2020-04-29		1	1			0	0		0	0	0.14	0.0		https://cv.nmhealth.org
@@ -775,14 +1092,14 @@ Cedar_County,_Missouri	Cedar County, Missouri	2020-04-29			5			0			0			0.0		http
 Cedar_County,_Nebraska	Cedar County, Nebraska	2020-04-29			2		5	0			0			0.29		http://dhhs.ne.gov/
 Celorico_da_Beira	Celorico da Beira	2020-04-29	2020-04-28T23:00:00.000Z		9			0			0			0.0		https://covid19.min-saude.pt/
 Celorico_de_Basto	Celorico de Basto	2020-04-29	2020-04-28T23:00:00.000Z		16			-3			-3			0.43		https://covid19.min-saude.pt/
-Central_African_Republic	Central African Republic	2020-04-29	2020-05-14T11:42:23.000Z	0	50			0	0	0	-31	0	0.0	5.14		https://www.ecdc.europa.eu/
+Central_African_Republic	Central African Republic	2020-04-29	2020-05-15T11:41:17.000Z	0	50			0	0	0	-31	0	0.0	5.14		https://www.ecdc.europa.eu/
 Central_Bedfordshire	Central Bedfordshire	2020-04-29	2020-05-14T13:44:03.000Z		515			7			3			10.0		https://www.gov.uk/
 Centre-Val_de_Loire	Centre-Val de Loire	2020-04-29		383		1170			13	61		10	7.86		27.57	https://www.santepubliquefrance.fr/
 Centre_County,_Pennsylvania	Centre County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	1	95		973	2	0		-4	0	-0.14	2.71		https://www.health.pa.gov/
 Cerritos,_California	Cerritos, California	2020-04-29	2020-04-29T03:00:00+0000		50			1			0					http://publichealth.lacounty.gov/
 Cerro_Gordo_County,_Iowa	Cerro Gordo County, Iowa	2020-04-29		0	14			0	0		0	0	0.0	0.0		https://idph.iowa.gov/
-Ceuta	Ceuta	2020-04-29	2020-05-14T12:23:49.000Z	4	101	126		0	0	12	-1	0	0.0	0.14	7.14	https://www.mscbs.gob.es/
-Chad	Chad	2020-04-29	2020-05-14T11:42:23.000Z	2	52			6	2	2	6	2	0.29	2.57		https://www.ecdc.europa.eu/
+Ceuta	Ceuta	2020-04-29	2020-05-15T10:56:53.000Z	4	101	126		0	0	12	-1	0	0.0	0.14	7.14	https://www.mscbs.gob.es/
+Chad	Chad	2020-04-29	2020-05-15T11:41:17.000Z	2	52			6	2	2	6	2	0.29	2.57		https://www.ecdc.europa.eu/
 Chaffee_County,_Colorado	Chaffee County, Colorado	2020-04-29		15	66			0	2		0	1		1.57		https://covid19.colorado.gov/
 Chambers_County,_Alabama	Chambers County, Alabama	2020-04-29		19	293		954	2	0		0	-1	0.43	3.29		https://covid19.alabama.gov/
 Chambers_County,_Texas	Chambers County, Texas	2020-04-29			41			0			0			0.71		https://www.dshs.state.tx.us/
@@ -985,7 +1302,7 @@ Comal_County,_Texas	Comal County, Texas	2020-04-29		6	52			3	0		2	0	0.0	1.0		htt
 Comanche_County,_Oklahoma	Comanche County, Oklahoma	2020-04-29	2020-04-29T00:00:00.000Z	1	79	57		0	0	1	0	0	0.0	1.14	1.43	https://coronavirus.health.ok.gov/
 Comanche_County,_Texas	Comanche County, Texas	2020-04-29			3			0			0			0.0		https://www.dshs.state.tx.us/
 Commerce,_California	Commerce, California	2020-04-29	2020-04-29T03:00:00+0000		11			0			-1					http://publichealth.lacounty.gov/
-Community_of_Madrid	Community of Madrid	2020-04-29	2020-05-14T12:23:49.000Z	8176	63105	36707		345	71	393	-139	14	70.29	387.86	437.43	https://www.mscbs.gob.es/
+Community_of_Madrid	Community of Madrid	2020-04-29	2020-05-15T10:56:53.000Z	8176	63176	36707		346	71	393	-144	14	70.29	389.43	437.43	https://www.mscbs.gob.es/
 Compton,_California	Compton, California	2020-04-29	2020-04-29T03:00:00+0000		197			7			0					http://publichealth.lacounty.gov/
 Concho_County,_Texas	Concho County, Texas	2020-04-29			1			0			0			0.0		https://www.dshs.state.tx.us/
 Concord,_Massachusetts	Concord, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		117											https://www.mass.gov/
@@ -1098,7 +1415,7 @@ Cumberland_County,_Tennessee	Cumberland County, Tennessee	2020-04-29	2020-04-29T
 Cumberland_County,_Virginia	Cumberland County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	11			0	0		-1	0	0.0	0.14		http://www.vdh.virginia.gov/
 Cumbria	Cumbria	2020-04-29	2020-05-14T13:44:03.000Z		1919			76			48			37.71		https://www.gov.uk/
 Cuming_County,_Nebraska	Cuming County, Nebraska	2020-04-29			5		8	1			1			0.43		http://dhhs.ne.gov/
-Cura%C3%A7ao	Curacao	2020-04-29	2020-05-14T11:42:23.000Z	1	16			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
+Cura%C3%A7ao	Curacao	2020-04-29	2020-05-15T11:41:17.000Z	1	16			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 Currituck_County,_North_Carolina	Currituck County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	0	5			3	0		3	0	0.0	0.43		https://www.ncdhhs.gov/
 Curry_County,_New_Mexico	Curry County, New Mexico	2020-04-29		0	13			0	0		-1	0	0.0	0.43		https://cv.nmhealth.org
 Curry_County,_Oregon	Curry County, Oregon	2020-04-29	2020-04-29T15:00:00+0000	0	4		150	0	0		0	0	0.0	0.0		https://govstatus.egov.com/OR-OHA-COVID-19
@@ -1180,7 +1497,7 @@ Delhi	Delhi	2020-04-29	2020-04-28T11:30:00+0000	54	3108	877		190	0	0	-103	0	1.0	
 Delta_County,_Colorado	Delta County, Colorado	2020-04-29		1	43			9	0		8	0		2.57		https://covid19.colorado.gov/
 Delta_County,_Michigan	Delta County, Michigan	2020-04-29	2020-04-29T19:00:00+0000	2	13			0	0		0	0	0.0	0.14		https://www.michigan.gov/
 Delta_County,_Texas	Delta County, Texas	2020-04-29			1			0			0			0.0		https://www.dshs.state.tx.us/
-Democratic_Republic_of_the_Congo	Democratic Republic of the Congo	2020-04-29	2020-05-14T11:42:23.000Z	30	491			20	0	0	8	-2	0.71	18.86		https://www.ecdc.europa.eu/
+Democratic_Republic_of_the_Congo	Democratic Republic of the Congo	2020-04-29	2020-05-15T11:41:17.000Z	30	491			20	0	0	8	-2	0.71	18.86		https://www.ecdc.europa.eu/
 Denmark	Denmark	2020-04-29	2020-04-29T10:00:00.000Z	443	9008	6366	180062	157	7	245	4	2	8.43	156.57	182.71	https://www.sst.dk/
 Dennis,_Massachusetts	Dennis, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		51											https://www.mass.gov/
 Denton_County,_Texas	Denton County, Texas	2020-04-29		20	738			13	0		1	0	0.29	17.0		https://www.dshs.state.tx.us/
@@ -1218,7 +1535,7 @@ Dodge_County,_Minnesota	Dodge County, Minnesota	2020-04-29	2020-04-29T00:00:00	0
 Dodge_County,_Nebraska	Dodge County, Nebraska	2020-04-29			53		68	3			3			5.0		http://dhhs.ne.gov/
 Dodge_County,_Wisconsin	Dodge County, Wisconsin	2020-04-29	2020-04-29T06:00:00.000Z	1	33			1	0		-1	0	0.0	1.86		https://www.dhs.wisconsin.gov/
 Dolores_County,_Colorado	Dolores County, Colorado	2020-04-29			0			0			0			0.0		https://covid19.colorado.gov/
-Dominica	Dominica	2020-04-29	2020-05-14T11:42:23.000Z	0	16			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Dominica	Dominica	2020-04-29	2020-05-15T11:41:17.000Z	0	16			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Dominican_Republic	Dominican Republic	2020-04-29	2020-04-28T18:00:00.000Z	293	6652	1228	25368	236	4	63	113	0	4.71	193.14	92.43	https://www.msp.gob.do/
 Doniphan_County,_Kansas	Doniphan County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		3			0			0			0.0		https://www.coronavirus.kdheks.gov
 Donley_County,_Texas	Donley County, Texas	2020-04-29			24			0			0			0.0		https://www.dshs.state.tx.us/
@@ -1268,7 +1585,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-04-29	2020-04-29T20:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z		34	17		1		2	0			0.71	0.71	https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-04-29		7	546			6	0		1	0		8.29		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	21	214			12	6		9	6	1.29	4.29		https://dph.georgia.gov/
-Earth	Earth	2020-04-29	2020-05-14T22:39:52.901Z	226158	3120432			68105	6518		-8457	1628	6828.29	78516.57	37418.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-04-29	2020-05-16T00:40:37.223Z	226220	3121258			68203	6518		-8434	1628	6813.57	78553.29	37418.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-04-29		129	1830			43	4		27	3	4.86	32.43		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		127											https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		6											https://www.mass.gov/
@@ -1279,7 +1596,7 @@ East_Longmeadow,_Massachusetts	East Longmeadow, Massachusetts	2020-04-29	2020-04
 East_Midlands	East Midlands	2020-04-29	2020-05-14T13:44:03.000Z		7008			134			-7			139.43		https://www.gov.uk/
 East_Riding_of_Yorkshire	East Riding of Yorkshire	2020-04-29	2020-05-14T13:44:03.000Z		616			34			11			24.71		https://www.gov.uk/
 East_Sussex	East Sussex	2020-04-29	2020-05-14T13:44:03.000Z		581			13			-8			11.0		https://www.gov.uk/
-East_Timor	East Timor	2020-04-29	2020-05-14T11:42:23.000Z	0	24			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+East_Timor	East Timor	2020-04-29	2020-05-15T11:41:17.000Z	0	24			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 East_of_England	East of England	2020-04-29	2020-05-14T13:44:03.000Z		10910			237			2			242.43		https://www.gov.uk/
 Eastham,_Massachusetts	Eastham, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		10											https://www.mass.gov/
 Easthampton,_Massachusetts	Easthampton, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		50											https://www.mass.gov/
@@ -1329,12 +1646,12 @@ Emmons_County,_North_Dakota	Emmons County, North Dakota	2020-04-29	2020-04-29T16
 Emporia,_Virginia	Emporia, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	2	22			2	0		2	0	0.14	1.43		http://www.vdh.virginia.gov/
 England	England	2020-04-29	2020-05-14T13:44:03.000Z	23550					632			-237	617.0			https://www.gov.uk/
 Entroncamento	Entroncamento	2020-04-29	2020-04-28T23:00:00.000Z		6			2			1					https://covid19.min-saude.pt/
-Equatorial_Guinea	Equatorial Guinea	2020-04-29	2020-05-14T11:42:23.000Z	1	315			57	0	0	57	0	0.14	33.71		https://www.ecdc.europa.eu/
+Equatorial_Guinea	Equatorial Guinea	2020-04-29	2020-05-15T11:41:17.000Z	1	315			57	0	0	57	0	0.14	33.71		https://www.ecdc.europa.eu/
 Erath_County,_Texas	Erath County, Texas	2020-04-29		1	12			0	0		0	0	0.0	0.0		https://www.dshs.state.tx.us/
 Erie_County,_New_York	Erie County, New York	2020-04-29	2020-04-29T14:00:00.000Z	207	3196		15219	107	4		39	-4	6.57	137.57		https://coronavirus.health.ny.gov/
 Erie_County,_Ohio	Erie County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	3	54			2	0		-1	0	0.0	1.43		https://coronavirus.ohio.gov/
 Erie_County,_Pennsylvania	Erie County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	2	87		1937	1	0		-4	-2	0.29	3.57		https://www.health.pa.gov/
-Eritrea	Eritrea	2020-04-29	2020-05-14T11:42:23.000Z	0	39			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Eritrea	Eritrea	2020-04-29	2020-05-15T11:41:17.000Z	0	39			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Escambia_County,_Alabama	Escambia County, Alabama	2020-04-29		1	27		491	0	0		-1	0	0.0	1.29		https://covid19.alabama.gov/
 Escambia_County,_Florida	Escambia County, Florida	2020-04-29		11	496			11	0		-4	0	0.14	11.14		https://floridahealthcovid19.gov/
 Esmeralda_County,_Nevada	Esmeralda County, Nevada	2020-04-29	2020-04-29T00:00:00.000Z	0	0	0										https://www.accessesmeralda.com/
@@ -1350,14 +1667,14 @@ Essex_County,_Virginia	Essex County, Virginia	2020-04-29	2020-04-29T13:00:00.000
 Estarreja	Estarreja	2020-04-29	2020-04-28T23:00:00.000Z		63			3			3			1.57		https://covid19.min-saude.pt/
 Estill_County,_Kentucky	Estill County, Kentucky	2020-04-29		0	1											https://govstatus.egov.com/
 Estonia	Estonia	2020-04-29	2020-04-29T11:00:00.000Z	50	1666	236	51185	9	0	-4	-4	0	0.86	15.29	7.43	https://www.terviseamet.ee/
-Eswatini	Swaziland	2020-04-29	2020-05-14T11:42:23.000Z	1	71			6	0	0	0	0	0.0	6.71		https://www.ecdc.europa.eu/
-Ethiopia	Ethiopia	2020-04-29	2020-05-14T11:42:23.000Z	3	126			2	0	0	1	0	0.0	1.71		https://www.ecdc.europa.eu/
+Eswatini	Swaziland	2020-04-29	2020-05-15T11:41:17.000Z	1	71			6	0	0	0	0	0.0	6.71		https://www.ecdc.europa.eu/
+Ethiopia	Ethiopia	2020-04-29	2020-05-15T11:41:17.000Z	3	126			2	0	0	1	0	0.0	1.71		https://www.ecdc.europa.eu/
 Etowah_County,_Alabama	Etowah County, Alabama	2020-04-29		8	139		1794	9	0		5	0	0.0	3.29		https://covid19.alabama.gov/
 Eureka_County,_Nevada	Eureka County, Nevada	2020-04-29	2020-04-29T00:00:00.000Z	0	0	0										http://www.co.eureka.nv.us/
 Evangeline_Parish,_Louisiana	Evangeline Parish, Louisiana	2020-04-29		0	49			3	0		2	0	0.0	0.71		http://ldh.la.gov/
 Evans_County,_Georgia	Evans County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	0	4			0	0		0	0	0.0	0.0		https://dph.georgia.gov/
 Everett,_Massachusetts	Everett, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		1004											https://www.mass.gov/
-Extremadura	Extremadura	2020-04-29	2020-05-14T12:23:49.000Z	446	2785	1887		21	6	90	8	-1	5.57	10.0	92.86	https://www.mscbs.gob.es/
+Extremadura	Extremadura	2020-04-29	2020-05-15T10:56:53.000Z	446	2785	1887		21	6	90	8	-1	5.57	10.0	92.86	https://www.mscbs.gob.es/
 Fafe	Fafe	2020-04-29	2020-04-28T23:00:00.000Z		87			3			-2			3.43		https://covid19.min-saude.pt/
 Fairbanks_North_Star_Borough,_Alaska	Fairbanks North Star Borough, Alaska	2020-04-29			81			0			-1			0.29		http://www.dhss.alaska.gov/
 Fairfax,_Virginia	Fairfax, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	2	27			0	0		0	0	0.14	0.71		http://www.vdh.virginia.gov/
@@ -1366,7 +1683,7 @@ Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-04-29	2020-04-2
 Fairfield_County,_Ohio	Fairfield County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	2	129			8	0		3	0	0.0	3.29		https://coronavirus.ohio.gov/
 Fairfield_County,_South_Carolina	Fairfield County, South Carolina	2020-04-29		2	34			1	0		1	0	0.29	1.14		https://www.scdhec.gov/
 Fairhaven,_Massachusetts	Fairhaven, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		92											https://www.mass.gov/
-Falkland_Islands	Falkland Islands	2020-04-29	2020-05-14T11:42:23.000Z	0	13			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Falkland_Islands	Falkland Islands	2020-04-29	2020-05-15T11:41:17.000Z	0	13			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Fall_River,_Massachusetts	Fall River, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		481											https://www.mass.gov/
 Fall_River_County,_South_Dakota	Fall River County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		1	1	48	0		0	0			0.0	0.0	https://doh.sd.gov/
 Falls_Church,_Virginia	Falls Church, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	2	26			0	0		0	0	0.14	0.29		http://www.vdh.virginia.gov/
@@ -1399,7 +1716,7 @@ Fentress_County,_Tennessee	Fentress County, Tennessee	2020-04-29	2020-04-29T19:0
 Ferry_County,_Washington	Ferry County, Washington	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://coronavirus.wa.gov/
 Figueira_da_Foz	Figueira da Foz	2020-04-29	2020-04-28T23:00:00.000Z		26			3			3			1.29		https://covid19.min-saude.pt/
 Figueira_de_Castelo_Rodrigo	Figueira de Castelo Rodrigo	2020-04-29	2020-04-28T23:00:00.000Z		3			0			0			0.0		https://covid19.min-saude.pt/
-Fiji	Fiji	2020-04-29	2020-05-14T11:42:23.000Z	0	18			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Fiji	Fiji	2020-04-29	2020-05-15T11:41:17.000Z	0	18			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Fillmore_County,_Minnesota	Fillmore County, Minnesota	2020-04-29	2020-04-29T00:00:00	1	12			0	0		0	0	0.14	0.14		https://www.health.state.mn.us/
 Fillmore_County%2C_Nebraska	Fillmore County, Nebraska	2020-04-29			1		4	0			0			0.0		http://dhhs.ne.gov/
 Finland	Finland	2020-04-29	2020-04-29T10:00:00.000Z	206	4906	2800	89800	166	6	0	121	3	8.14	111.0	114.29	https://thl.fi/fi/
@@ -1470,7 +1787,7 @@ Fremont_County,_Colorado	Fremont County, Colorado	2020-04-29			22			0			0			0.43
 Fremont_County,_Idaho	Fremont County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	2			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Fremont_County,_Wyoming	Fremont County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		102			1			-2			7.29		https://health.wyo.gov/
 French_Guiana	French Guiana	2020-04-29		1	125			1	0		-12	0	0.0	4.0		https://www.who.int/
-French_Polynesia	French Polynesia	2020-04-29	2020-05-14T11:42:23.000Z	0	58			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+French_Polynesia	French Polynesia	2020-04-29	2020-05-15T11:41:17.000Z	0	58			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Fresno_County,_California	Fresno County, California	2020-04-29		7	544	202	6981	19	0	13	-2	0	0.0	22.29	10.0	https://www.cdph.ca.gov/
 Frio_County,_Texas	Frio County, Texas	2020-04-29			7			3			2			0.86		https://www.dshs.state.tx.us/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-04-29		285	3010	1498	66769	15	7	20	-3	0	5.57	27.57	33.57	http://www.salute.gov.it/
@@ -1485,12 +1802,12 @@ Fulton_County,_Ohio	Fulton County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	0	21
 Fulton_County,_Pennsylvania	Fulton County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	0	5		86	2	0		2	0	0.0	0.43		https://www.health.pa.gov/
 Funchal	Funchal	2020-04-29	2020-04-28T23:00:00.000Z		29			-1			-1			-0.14		https://covid19.min-saude.pt/
 Furnas_County%2C_Nebraska	Furnas County, Nebraska	2020-04-29			3		3	1			1			0.14		http://dhhs.ne.gov/
-Gabon	Gabon	2020-04-29	2020-05-14T11:42:23.000Z	3	238			27	0	0	-8	0	0.29	11.71		https://www.ecdc.europa.eu/
+Gabon	Gabon	2020-04-29	2020-05-15T11:41:17.000Z	3	238			27	0	0	-8	0	0.29	11.71		https://www.ecdc.europa.eu/
 Gadsden_County,_Florida	Gadsden County, Florida	2020-04-29		0	94			0	0		-7	0	0.0	5.14		https://floridahealthcovid19.gov/
 Gage_County%2C_Nebraska	Gage County, Nebraska	2020-04-29			35		72	2			2			1.0		http://dhhs.ne.gov/
 Gaines_County,_Texas	Gaines County, Texas	2020-04-29			2			0			0			0.0		https://www.dshs.state.tx.us/
 Galax,_Virginia	Galax, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	4			0	0		-1	0	0.0	0.43		http://www.vdh.virginia.gov/
-Galicia_(Spain)	Galicia (Spain)	2020-04-29	2020-05-14T12:23:49.000Z	547	8697	5573		22	0	180	675	-135	24.57	-15.43	556.71	https://www.mscbs.gob.es/
+Galicia_(Spain)	Galicia (Spain)	2020-04-29	2020-05-15T10:56:53.000Z	547	8697	5573		22	0	180	675	-135	24.57	-15.43	556.71	https://www.mscbs.gob.es/
 Gallatin_County,_Illinois	Gallatin County, Illinois	2020-04-29		0	2			0	0		0	0	0.0	0.0		http://www.dph.illinois.gov/
 Gallatin_County,_Kentucky	Gallatin County, Kentucky	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://govstatus.egov.com/
 Gallatin_County,_Montana	Gallatin County, Montana	2020-04-29		1	146			0	0		0	-1	0.14	0.14		https://dphhs.mt.gov/
@@ -1524,7 +1841,7 @@ Georgia_(U.S._state)	Georgia	2020-04-29	2020-04-29T22:28:01+0000	1095	25644		143
 Georgia_(country)	Georgia (country)	2020-04-29		6	539			22	0	0	16	0	0.14	17.0		https://www.who.int/
 Germany	Germany	2020-04-29	2020-04-29T00:00:00.000Z	6115	157641	120400		1304	202	3000	160	39	176.57	1706.71	3000.0	https://www.rki.de/
 Ghana	Ghana	2020-04-29	2020-04-28T00:00:00.000Z	16	1671	188		0	5	0	-121	5	1.0	73.86	12.71	https://www.ghanahealthservice.org/covid19/
-Gibraltar	Gibraltar	2020-04-29	2020-05-14T11:42:23.000Z	0	141			0	0	0	0	0	0.0	1.14		https://www.ecdc.europa.eu/
+Gibraltar	Gibraltar	2020-04-29	2020-05-15T11:41:17.000Z	0	141			0	0	0	0	0	0.0	1.14		https://www.ecdc.europa.eu/
 Gibson_County,_Indiana	Gibson County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	0	6		137	0	0		0	0	0.0	0.14		https://coronavirus.in.gov/
 Gibson_County,_Tennessee	Gibson County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z	1	44	21		3	0	0	3	0	0.0	1.57	0.71	https://www.tn.gov/
 Gila_County,_Arizona	Gila County, Arizona	2020-04-29	2020-04-29T00:00:00.000Z	0	12		607	1	0		1	0	0.0	0.29		https://azdhs.gov/
@@ -1647,26 +1964,26 @@ Grundy_County,_Tennessee	Grundy County, Tennessee	2020-04-29	2020-04-29T19:00:00
 Guadalupe_County,_New_Mexico	Guadalupe County, New Mexico	2020-04-29		0	14			1	0		1	0	0.0	1.71		https://cv.nmhealth.org
 Guadalupe_County,_Texas	Guadalupe County, Texas	2020-04-29			80			11			11			2.43		https://www.dshs.state.tx.us/
 Guadeloupe	Guadeloupe	2020-04-29		11	151			2	0		2	-1	0.14	0.43		https://www.who.int/
-Guam	Guam	2020-04-29	2020-05-14T11:42:23.000Z	5	145			1	0	0	-1	0	0.0	1.29		https://www.ecdc.europa.eu/
+Guam	Guam	2020-04-29	2020-05-15T11:41:17.000Z	5	145			1	0	0	-1	0	0.0	1.29		https://www.ecdc.europa.eu/
 Guarda,_Portugal	Guarda, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		20			0			0			0.29		https://covid19.min-saude.pt/
-Guatemala	Guatemala	2020-04-29	2020-05-14T11:42:23.000Z	16	557			27	1	1	-3	1	1.14	34.43		https://www.ecdc.europa.eu/
+Guatemala	Guatemala	2020-04-29	2020-05-15T11:41:17.000Z	16	557			27	1	1	-3	1	1.14	34.43		https://www.ecdc.europa.eu/
 Guelmim-Oued_Noun	Guelmim-Oued Noun	2020-04-29	2020-04-28T15:00:00+0000		29			0			-6			3.5		http://www.covidmaroc.ma/
-Guernsey	Guernsey	2020-04-29	2020-05-14T11:42:23.000Z	13	247			0	0	0	0	0	0.43	1.14		https://www.ecdc.europa.eu/
+Guernsey	Guernsey	2020-04-29	2020-05-15T11:41:17.000Z	13	247			0	0	0	0	0	0.43	1.14		https://www.ecdc.europa.eu/
 Guernsey_County,_Ohio	Guernsey County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	0	15			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Guilford_County,_North_Carolina	Guilford County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	21	357			39	1		22	-2	1.0	18.71		https://www.ncdhhs.gov/
-Guinea	Guinea	2020-04-29	2020-05-14T11:42:23.000Z	7	1240			77	0	0	8	0	0.14	78.86		https://www.ecdc.europa.eu/
-Guinea-Bissau	Guinea-Bissau	2020-04-29	2020-05-14T11:42:23.000Z	1	73			0	0	0	-20	0	0.14	3.29		https://www.ecdc.europa.eu/
+Guinea	Guinea	2020-04-29	2020-05-15T11:41:17.000Z	7	1240			77	0	0	8	0	0.14	78.86		https://www.ecdc.europa.eu/
+Guinea-Bissau	Guinea-Bissau	2020-04-29	2020-05-15T11:41:17.000Z	1	73			0	0	0	-20	0	0.14	3.29		https://www.ecdc.europa.eu/
 Gujarat	Gujarat	2020-04-29	2020-04-28T11:30:00+0000	162	3548	394		247	11	81	17	-7	12.14	211.71	37.57	https://www.mohfw.gov.in/
 Gulf_County,_Florida	Gulf County, Florida	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://floridahealthcovid19.gov/
 Gunnison_County,_Colorado	Gunnison County, Colorado	2020-04-29		4	161			0	0		-3	0		5.71		https://covid19.colorado.gov/
 Guthrie_County,_Iowa	Guthrie County, Iowa	2020-04-29		0	10			4	0		4	0	0.0	0.86		https://idph.iowa.gov/
-Guyana	Guyana	2020-04-29	2020-05-14T11:42:23.000Z	8	75			1	0	0	1	0	0.14	1.14		https://www.ecdc.europa.eu/
+Guyana	Guyana	2020-04-29	2020-05-15T11:41:17.000Z	8	75			1	0	0	1	0	0.14	1.14		https://www.ecdc.europa.eu/
 Gwinnett_County,_Georgia	Gwinnett County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	55	1720			117	1		34	-3	1.29	63.86		https://dph.georgia.gov/
 Haakon_County,_South_Dakota	Haakon County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		0	0	15	0		0	0			0.0	0.0	https://doh.sd.gov/
 Habersham_County,_Georgia	Habersham County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	7	220			9	0		-27	-4	0.57	12.86		https://dph.georgia.gov/
 Hadley,_Massachusetts	Hadley, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		27											https://www.mass.gov/
 Hainaut_Province	Hainaut Province	2020-04-29	2020-04-29		5644			30			-17			67.43		https://epistat.wiv-isp.be/Covid/
-Haiti	Haiti	2020-04-29	2020-05-14T11:42:23.000Z	6	76			0	0	0	-2	0	0.29	2.57		https://www.ecdc.europa.eu/
+Haiti	Haiti	2020-04-29	2020-05-15T11:41:17.000Z	6	76			0	0	0	-2	0	0.29	2.57		https://www.ecdc.europa.eu/
 Hale_County,_Alabama	Hale County, Alabama	2020-04-29		2	43		259	2	0		2	0	0.14	1.0		https://covid19.alabama.gov/
 Hale_County,_Texas	Hale County, Texas	2020-04-29		4	24			0	0		-5	0	0.0	1.14		https://www.dshs.state.tx.us/
 Halifax,_Massachusetts	Halifax, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		25											https://www.mass.gov/
@@ -1826,7 +2143,7 @@ Holmes_County,_Ohio	Holmes County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	1	5	
 Holt_County,_Missouri	Holt County, Missouri	2020-04-29			1			0			0			0.0		https://health.mo.gov/
 Holt_County,_Nebraska	Holt County, Nebraska	2020-04-29			0		4	0			0			0.0		http://dhhs.ne.gov/
 Holyoke,_Massachusetts	Holyoke, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		596											https://www.mass.gov/
-Honduras	Honduras	2020-04-29	2020-05-14T11:42:23.000Z	66	738			36	5	5	-5	5	2.86	32.57		https://www.ecdc.europa.eu/
+Honduras	Honduras	2020-04-29	2020-05-15T11:41:17.000Z	66	738			36	5	5	-5	5	2.86	32.57		https://www.ecdc.europa.eu/
 Honolulu_County,_Hawaii	Honolulu County, Hawaii	2020-04-29	2020-04-29T22:00:00+0000		399			3			3			1.57		https://health.hawaii.gov/
 Hood_County,_Texas	Hood County, Texas	2020-04-29		3	18			1	1		0	1	0.14	0.43		https://www.dshs.state.tx.us/
 Hood_River_County,_Oregon	Hood River County, Oregon	2020-04-29	2020-04-29T15:00:00+0000	0	6		461	1	0		1	0	0.0	0.29		https://govstatus.egov.com/OR-OHA-COVID-19
@@ -1893,7 +2210,7 @@ Imst_District	Imst District	2020-04-29	2020-04-29T20:00:00.000Z		288			0			-2			
 Independence_County,_Arkansas	Independence County, Arkansas	2020-04-29		0	9	5	174	0	0	0	0	0	0.0	0.14	0.14	https://www.healthy.arkansas.gov/
 India	India	2020-04-29	2020-04-29T17:00:00.000Z	1008	31786	7796		1813	73	770	219	11	50.86	1616.57	548.14	https://www.mohfw.gov.in/
 Indian_River_County,_Florida	Indian River County, Florida	2020-04-29		7	90			0	1		0	0	0.29	0.71		https://floridahealthcovid19.gov/
-Indiana	Indiana	2020-04-29	2020-04-29T12:00:00.000Z	1065	17182		91550	605	63	63	-45	6	57.71	677.71		https://coronavirus.in.gov/
+Indiana	Indiana	2020-04-29		1089	17800		109532	605	63	63	-45	6	37.57	684.71		https://coronavirus.in.gov/
 Indiana_County,_Pennsylvania	Indiana County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	4	63		710	1	0		2	0	0.0	1.0		https://www.health.pa.gov/
 Indonesia	Indonesia	2020-04-29	2020-04-29T00:00:00.000Z	784	9771	1391		260	8	137	-155	-14	21.29	336.14	68.29	https://www.covid19.go.id/
 Ingham_County,_Michigan	Ingham County, Michigan	2020-04-29	2020-04-29T19:00:00+0000	10	446			20	0		7	0	0.43	13.71		https://www.michigan.gov/
@@ -1919,7 +2236,7 @@ Irwindale,_California	Irwindale, California	2020-04-29	2020-04-29T03:00:00+0000	
 Isabella_County,_Michigan	Isabella County, Michigan	2020-04-29	2020-04-29T19:00:00+0000	7	60			1	0		-1	0	0.0	0.86		https://www.michigan.gov/
 Isanti_County,_Minnesota	Isanti County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	6			0	0		0	0	0.0	0.0		https://www.health.state.mn.us/
 Island_County,_Washington	Island County, Washington	2020-04-29		9	168			0	0		-4	0	0.0	1.14		https://coronavirus.wa.gov/
-Isle_of_Man	Isle of Man	2020-04-29	2020-05-14T11:42:23.000Z	21	309			1	3	3	1	3	1.57	0.29		https://www.ecdc.europa.eu/
+Isle_of_Man	Isle of Man	2020-04-29	2020-05-15T11:41:17.000Z	21	309			1	3	3	1	3	1.57	0.29		https://www.ecdc.europa.eu/
 Isle_of_Wight	Isle of Wight	2020-04-29	2020-05-14T13:44:03.000Z		124			8			-1			5.63		https://www.gov.uk/
 Isle_of_Wight_County,_Virginia	Isle of Wight County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	2	96			0	0		-3	0	0.14	1.14		http://www.vdh.virginia.gov/
 Israel	Israel	2020-04-29	2020-04-29T21:00:00.000Z	215	15834	8233		106	6	487	-67	3	3.71	190.86	431.14	https://t.me/s/MOHreport
@@ -1927,7 +2244,7 @@ Issaquena_County,_Mississippi	Issaquena County, Mississippi	2020-04-29	2020-04-2
 Italy	Italy	2020-04-29	2020-04-29T17:00:00.000Z	27682	203591	71252	1313460	2086	382	2311	-5	49	371.0	2323.43	2387.0	http://www.salute.gov.it/
 Itasca_County,_Minnesota	Itasca County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	3			1	0		1	0	0.0	0.14		https://www.health.state.mn.us/
 Itawamba_County,_Mississippi	Itawamba County, Mississippi	2020-04-29	2020-04-29T05:00:00+0000	2	51			0	0		-2	0	0.14	3.43		https://msdh.ms.gov/
-Ivory_Coast	Ivory Coast	2020-04-29	2020-05-14T11:42:23.000Z	14	1183			19	0	0	5	0	0.14	38.14		https://www.ecdc.europa.eu/
+Ivory_Coast	Ivory Coast	2020-04-29	2020-05-15T11:41:17.000Z	14	1183			19	0	0	5	0	0.14	38.14		https://www.ecdc.europa.eu/
 Izard_County,_Arkansas	Izard County, Arkansas	2020-04-29		0	5	3	62	0	0	1	0	0	0.0	0.43	0.14	https://www.healthy.arkansas.gov/
 Jack_County,_Texas	Jack County, Texas	2020-04-29			4			0			0			0.0		https://www.dshs.state.tx.us/
 Jackson_County,_Alabama	Jackson County, Alabama	2020-04-29		2	47		1004	1	0		0	0	0.0	0.71		https://covid19.alabama.gov/
@@ -1954,7 +2271,7 @@ Jackson_County,_Texas	Jackson County, Texas	2020-04-29			6			0			0			0.0		https:
 Jackson_County,_West_Virginia	Jackson County, West Virginia	2020-04-29	2020-04-29T17:00:00.000Z	12	129			0	0		-2	0		3.71		https://dhhr.wv.gov/
 Jackson_County,_Wisconsin	Jackson County, Wisconsin	2020-04-29	2020-04-29T06:00:00.000Z	1	12			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Jackson_Parish,_Louisiana	Jackson Parish, Louisiana	2020-04-29		1	34			4	0		4	-1	0.14	2.57		http://ldh.la.gov/
-Jamaica	Jamaica	2020-04-29	2020-05-14T11:42:23.000Z	7	381			17	0	0	3	0	0.14	21.14		https://www.ecdc.europa.eu/
+Jamaica	Jamaica	2020-04-29	2020-05-15T11:41:17.000Z	7	381			17	0	0	3	0	0.14	21.14		https://www.ecdc.europa.eu/
 James_City_County,_Virginia	James City County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	12	155			0	0		-1	0	0.0	1.29		http://www.vdh.virginia.gov/
 Jammu_and_Kashmir_(state)	Jammu and Kashmir (state)	2020-04-29	2020-04-28T11:30:00+0000	7	546	164		23	1	27	-6	1	0.29	25.43	13.29	https://www.mohfw.gov.in/
 Japan	Japan	2020-04-29	2020-04-29T12:00:00.000Z	389	13852	3374	164255	275	13	187	91	-12	16.0	336.57	190.57	https://www.mhlw.go.jp/
@@ -2001,7 +2318,7 @@ Jennersdorf_District	Jennersdorf District	2020-04-29	2020-04-29T20:00:00.000Z		9
 Jennings_County,_Indiana	Jennings County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	2	74		245	2	0		2	-1	0.14	1.43		https://coronavirus.in.gov/
 Jerauld_County,_South_Dakota	Jerauld County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z	1	6	4	43	0	0	0	0	0		0.29	0.0	https://doh.sd.gov/
 Jerome_County,_Idaho	Jerome County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	2	41			3	0		2	0	0.0	0.71		https://coronavirus.idaho.gov/
-Jersey	Jersey	2020-04-29	2020-05-14T11:42:23.000Z	20	284			1	1	1	-1	1	0.86	4.14		https://www.ecdc.europa.eu/
+Jersey	Jersey	2020-04-29	2020-05-15T11:41:17.000Z	20	284			1	1	1	-1	1	0.86	4.14		https://www.ecdc.europa.eu/
 Jersey_County,_Illinois	Jersey County, Illinois	2020-04-29		1	12			0	0		0	0	0.14	0.29		http://www.dph.illinois.gov/
 Jessamine_County,_Kentucky	Jessamine County, Kentucky	2020-04-29		0	40			3	0		0	0	0.0	1.29		https://govstatus.egov.com/
 Jewell_County,_Kansas	Jewell County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		4			0			0			0.0		https://www.coronavirus.kdheks.gov
@@ -2070,7 +2387,7 @@ Kent_County,_Maryland	Kent County, Maryland	2020-04-29		4	73			0	0		-3	0	0.43	5.
 Kent_County,_Michigan	Kent County, Michigan	2020-04-29	2020-04-29T19:00:00+0000	33	1395			90	0		-115	1	1.14	91.14		https://www.michigan.gov/
 Kenton_County,_Kentucky	Kenton County, Kentucky	2020-04-29		20	248			1	0		-16	-4	0.71	9.86		https://govstatus.egov.com/
 Kentucky	Kentucky	2020-04-29	2020-04-29T17:00:00.000Z	235	4539		54101	164	10		-65	-2	7.14	166.57		https://govstatus.egov.com/
-Kenya	Kenya	2020-04-29	2020-05-14T11:42:23.000Z	14	374			11	0	0	3	0	0.0	11.14		https://www.ecdc.europa.eu/
+Kenya	Kenya	2020-04-29	2020-05-15T11:41:17.000Z	14	374			11	0	0	3	0	0.0	11.14		https://www.ecdc.europa.eu/
 Keokuk_County,_Iowa	Keokuk County, Iowa	2020-04-29		0	2			0	0		0	0	0.0	-0.14		https://idph.iowa.gov/
 Kep_Province	Kep Province	2020-04-29	2020-04-29T07:00:00+0000		4			0			0					http://www.cdcmoh.gov.kh/
 Kerala	Kerala	2020-04-29	2020-04-28T11:30:00+0000	4	482	355		13	0	13	2	0	0.14	10.57	9.14	https://www.mohfw.gov.in/
@@ -2123,7 +2440,7 @@ Kossuth_County,_Iowa	Kossuth County, Iowa	2020-04-29		0	1			0	0		0	0	0.0	0.0		ht
 Krems_an_der_Donau	Krems an der Donau	2020-04-29	2020-04-29T20:00:00.000Z		40			2			2			0.43		https://info.gesundheitsministerium.at/
 Kufstein_District	Kufstein District	2020-04-29	2020-04-29T20:00:00.000Z		515			2			2			1.0		https://info.gesundheitsministerium.at/
 Kuwait	Kuwait	2020-04-29	2020-04-29T00:00:00.000Z	24	3740	1389		300	1	213	148	0	1.57	213.14	135.14	https://corona.e.gov.kw/
-Kyrgyzstan	Kyrgyzstan	2020-04-29	2020-05-14T11:42:23.000Z	8	729			21	0	0	8	0	0.14	16.71		https://www.ecdc.europa.eu/
+Kyrgyzstan	Kyrgyzstan	2020-04-29	2020-05-15T11:41:17.000Z	8	729			21	0	0	8	0	0.14	16.71		https://www.ecdc.europa.eu/
 LaGrange_County,_Indiana	LaGrange County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	2	24		140	0	0		-1	0	0.14	0.86		https://coronavirus.in.gov/
 LaPorte_County,_Indiana	LaPorte County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	5	209		1162	10	0		3	0	0.0	9.29		https://coronavirus.in.gov/
 LaRue_County,_Kentucky	LaRue County, Kentucky	2020-04-29		0	5			0	0		0	0	0.0	0.0		https://govstatus.egov.com/
@@ -2186,7 +2503,7 @@ Lane_County,_Oregon	Lane County, Oregon	2020-04-29	2020-04-29T15:00:00+0000	2	50
 Lanesborough,_Massachusetts	Lanesborough, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		5											https://www.mass.gov/
 Langlade_County,_Wisconsin	Langlade County, Wisconsin	2020-04-29	2020-04-29T06:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Lanier_County,_Georgia	Lanier County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	1	8			0	0		0	0	0.0	0.14		https://dph.georgia.gov/
-Laos	Laos	2020-04-29	2020-05-14T11:42:23.000Z	0	19			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Laos	Laos	2020-04-29	2020-05-15T11:41:17.000Z	0	19			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Lapeer_County,_Michigan	Lapeer County, Michigan	2020-04-29	2020-04-29T19:00:00+0000	25	167			1	1		-1	1	0.29	1.86		https://www.michigan.gov/
 Laramie_County,_Wyoming	Laramie County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		96			4			1			2.57		https://health.wyo.gov/
 Larimer_County,_Colorado	Larimer County, Colorado	2020-04-29		19	348			14	0		1	0		11.71		https://covid19.colorado.gov/
@@ -2266,14 +2583,14 @@ Lexington,_Massachusetts	Lexington, Massachusetts	2020-04-29	2020-04-29T20:00:00
 Lexington,_Virginia	Lexington, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	3			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Lexington_County,_South_Carolina	Lexington County, South Carolina	2020-04-29		14	358			11	2		-2	2	0.71	10.29		https://www.scdhec.gov/
 Leyden,_Massachusetts	Leyden, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		0											https://www.mass.gov/
-Liberia	Liberia	2020-04-29	2020-05-14T11:42:23.000Z	16	141			8	0	0	-1	-4	1.14	5.71		https://www.ecdc.europa.eu/
+Liberia	Liberia	2020-04-29	2020-05-15T11:41:17.000Z	16	141			8	0	0	-1	-4	1.14	5.71		https://www.ecdc.europa.eu/
 Liberty_County,_Florida	Liberty County, Florida	2020-04-29		0	3			1	0		1	0	0.0	0.14		https://floridahealthcovid19.gov/
 Liberty_County,_Georgia	Liberty County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	0	36			-1	0		-3	0	0.0	0.29		https://dph.georgia.gov/
 Liberty_County,_Montana	Liberty County, Montana	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
 Liberty_County,_Texas	Liberty County, Texas	2020-04-29			41			2			1			0.57		https://www.dshs.state.tx.us/
-Libya	Libya	2020-04-29	2020-05-14T11:42:23.000Z	2	61			0	0	0	0	0	0.14	0.29		https://www.ecdc.europa.eu/
+Libya	Libya	2020-04-29	2020-05-15T11:41:17.000Z	2	61			0	0	0	0	0	0.14	0.29		https://www.ecdc.europa.eu/
 Licking_County,_Ohio	Licking County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	5	115			1	0		-3	0	0.14	1.71		https://coronavirus.ohio.gov/
-Liechtenstein	Liechtenstein	2020-04-29	2020-05-14T11:42:23.000Z	1	83			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Liechtenstein	Liechtenstein	2020-04-29	2020-05-15T11:41:17.000Z	1	83			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Lienz_District	Lienz District	2020-04-29	2020-04-29T20:00:00.000Z		150			0			1			0.43		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-04-29	2020-04-29T20:00:00.000Z		86			0			0			0.29		https://info.gesundheitsministerium.at/
 Lightship_Nantucket	Lightship Nantucket	2020-04-29	2020-04-29T16:00:00.000Z		11			0			-1			0.29		https://www.mass.gov/
@@ -2425,7 +2742,7 @@ Macon_County,_Missouri	Macon County, Missouri	2020-04-29			2			0			0			0.0		http
 Macon_County,_North_Carolina	Macon County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	1	2			0	0		0	0	0.0	0.0		https://www.ncdhhs.gov/
 Macon_County,_Tennessee	Macon County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z	3	39	19		0	0	1	0	0	0.0	0.57	0.43	https://www.tn.gov/
 Macoupin_County,_Illinois	Macoupin County, Illinois	2020-04-29		0	30			0	0		0	0	0.0	0.86		http://www.dph.illinois.gov/
-Madagascar	Madagascar	2020-04-29	2020-05-14T11:42:23.000Z	0	128			0	0	0	0	0	0.0	1.0		https://www.ecdc.europa.eu/
+Madagascar	Madagascar	2020-04-29	2020-05-15T11:41:17.000Z	0	128			0	0	0	0	0	0.0	1.0		https://www.ecdc.europa.eu/
 Madalena,_Azores	Madalena, Azores	2020-04-29	2020-04-28T23:00:00.000Z		5			0			0			0.0		https://covid19.min-saude.pt/
 Madera_County,_California	Madera County, California	2020-04-29	2020-04-29T16:00:00.000Z	2	46	28	1010	1	0	0	0	0	0.0	1.29	0.43	https://www.maderacounty.com/
 Madhya_Pradesh	Madhya Pradesh	2020-04-29	2020-04-28T11:30:00+0000	113	2368	361		200	7	59	128	0	5.29	118.29	33.43	https://www.mohfw.gov.in/
@@ -2458,12 +2775,12 @@ Mahoning_County,_Ohio	Mahoning County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	
 Maia,_Portugal	Maia, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		836			10			10			13.43		https://covid19.min-saude.pt/
 Maine	Maine	2020-04-29	2020-04-29T16:00:00+0000	52	1056	615		16	1	30	-1	1	1.86	21.29	22.86	https://www.maine.gov/
 Major_County,_Oklahoma	Major County, Oklahoma	2020-04-29	2020-04-29T00:00:00.000Z	1	3	1		0	0	0	-1	0	0.0	0.14	0.0	https://coronavirus.health.ok.gov/
-Malawi	Malawi	2020-04-29	2020-05-14T11:42:23.000Z	3	36			0	0	0	-2	0	0.14	2.57		https://www.ecdc.europa.eu/
+Malawi	Malawi	2020-04-29	2020-05-15T11:41:17.000Z	3	36			0	0	0	-2	0	0.14	2.57		https://www.ecdc.europa.eu/
 Malaysia	Malaysia	2020-04-29	2020-04-29T17:00:00.000Z	100	5945	4087	146799	94	0	55	63	-1	1.0	59.0	90.71	http://www.moh.gov.my/
 Malden,_Massachusetts	Malden, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		751											https://www.mass.gov/
 Maldives	Maldives	2020-04-29		0	256			11	0	0	-20	0	0.0	24.43		https://www.who.int/
 Malheur_County,_Oregon	Malheur County, Oregon	2020-04-29	2020-04-29T15:00:00+0000	0	7		248	0	0		0	0	0.0	0.29		https://govstatus.egov.com/OR-OHA-COVID-19
-Mali	Mali	2020-04-29	2020-05-14T11:42:23.000Z	24	424			16	1	1	-3	1	1.43	23.71		https://www.ecdc.europa.eu/
+Mali	Mali	2020-04-29	2020-05-15T11:41:17.000Z	24	424			16	1	1	-3	1	1.43	23.71		https://www.ecdc.europa.eu/
 Malibu,_California	Malibu, California	2020-04-29	2020-04-29T03:00:00+0000		30			2			2					http://publichealth.lacounty.gov/
 Malta	Malta	2020-04-29	2020-04-28T12:46:00.000Z	4	463	339		5	0	36	-3	0	0.14	2.71	24.86	https://deputyprimeminister.gov.mt/
 Manassas,_Virginia	Manassas, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	3	196			21	1		11	1	0.43	12.29		http://www.vdh.virginia.gov/
@@ -2555,7 +2872,7 @@ Mattapoisett,_Massachusetts	Mattapoisett, Massachusetts	2020-04-29	2020-04-29T20
 Mattersburg_District	Mattersburg District	2020-04-29	2020-04-29T20:00:00.000Z		46			0			0			0.43		https://info.gesundheitsministerium.at/
 Maui_County,_Hawaii	Maui County, Hawaii	2020-04-29	2020-04-29T22:00:00+0000		115			0			-2			0.71		https://health.hawaii.gov/
 Maule_Region	Maule Region	2020-04-29	2020-04-28T04:00:00+0000	12	384			21	0		12	-1	0.29	9.71		https://www.minsal.cl/
-Mauritania	Mauritania	2020-04-29	2020-05-14T11:42:23.000Z	1	7			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Mauritania	Mauritania	2020-04-29	2020-05-15T11:41:17.000Z	1	7			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Mauritius	Mauritius	2020-04-29	2020-04-29T00:00:00.000Z	10	332	306		-2	0	4	-2	-1	0.14	0.43	6.43	http://www.covid19.mu/
 Maury_County,_Tennessee	Maury County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z		42	33		2		0	3			1.14	0.43	https://www.tn.gov/
 Maverick_County,_Texas	Maverick County, Texas	2020-04-29			16			0			0			0.14		https://www.dshs.state.tx.us/
@@ -2610,7 +2927,7 @@ Meeker_County,_Minnesota	Meeker County, Minnesota	2020-04-29	2020-04-29T00:00:00
 Meghalaya	Meghalaya	2020-04-29	2020-04-28T11:30:00+0000	1	12	0		0	0	0	0	0	0.0	0.14	0.0	https://www.mohfw.gov.in/
 Meigs_County,_Ohio	Meigs County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	0	2			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Meigs_County,_Tennessee	Meigs County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z		8	3		2		0	2			0.43	0.14	https://www.tn.gov/
-Melilla	Melilla	2020-04-29	2020-05-14T12:23:49.000Z	2	114	96		0	0	1	0	0	0.0	1.14	5.86	https://www.mscbs.gob.es/
+Melilla	Melilla	2020-04-29	2020-05-15T10:56:53.000Z	2	114	96		0	0	1	0	0	0.0	1.14	5.86	https://www.mscbs.gob.es/
 Melk_District	Melk District	2020-04-29	2020-04-29T20:00:00.000Z		168			0			0			0.14		https://info.gesundheitsministerium.at/
 Mellette_County,_South_Dakota	Mellette County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		0	0	11	0		0	0			0.0	0.0	https://doh.sd.gov/
 Melrose,_Massachusetts	Melrose, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		157											https://www.mass.gov/
@@ -2651,7 +2968,7 @@ Metropolitan_Borough_of_Stockport	Metropolitan Borough of Stockport	2020-04-29	2
 Metropolitan_Borough_of_Walsall	Metropolitan Borough of Walsall	2020-04-29	2020-05-14T13:44:03.000Z		986			10			-18			23.57		https://www.gov.uk/
 Metropolitan_Borough_of_Wigan	Metropolitan Borough of Wigan	2020-04-29	2020-05-14T13:44:03.000Z		846			13			-14			21.57		https://www.gov.uk/
 Metropolitan_Borough_of_Wirral	Metropolitan Borough of Wirral	2020-04-29	2020-05-14T13:44:03.000Z		1019			15			-1			16.86		https://www.gov.uk/
-Mexico	Mexico	2020-04-29	2020-05-14T11:42:23.000Z	1569	16752			0	135	135	-1225	52	85.57	886.86		https://www.ecdc.europa.eu/
+Mexico	Mexico	2020-04-29	2020-05-15T11:41:17.000Z	1569	16752			0	135	135	-1225	52	85.57	886.86		https://www.ecdc.europa.eu/
 Miami-Dade_County,_Florida	Miami-Dade County, Florida	2020-04-29		338	11927			96	14		-165	-8	14.0	253.43		https://floridahealthcovid19.gov/
 Miami_County,_Indiana	Miami County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	0	100		390	4	0		1	0	0.0	10.43		https://coronavirus.in.gov/
 Miami_County,_Kansas	Miami County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		5			0			0			0.14		https://www.coronavirus.kdheks.gov
@@ -2716,8 +3033,8 @@ Moimenta_da_Beira	Moimenta da Beira	2020-04-29	2020-04-28T23:00:00.000Z		10			-1
 Moita	Moita	2020-04-29	2020-04-28T23:00:00.000Z		65			4			4			0.57		https://covid19.min-saude.pt/
 Moldova	Moldova	2020-04-29	2020-04-29T10:00:00.000Z	111	3771	1114	38804	133	5	139	-24	-1	5.29	141.86	79.14	https://ansp.md/
 Molise	Molise	2020-04-29		21	297	83	5910	0	0	2	-1	0	0.29	1.86	3.29	http://www.salute.gov.it/
-Monaco	Monaco	2020-04-29	2020-05-14T11:42:23.000Z	4	95			0	0	0	-1	0	0.14	0.14		https://www.ecdc.europa.eu/
-Mongolia	Mongolia	2020-04-29	2020-05-14T11:42:23.000Z	0	38			0	0	0	0	0	0.0	0.43		https://www.ecdc.europa.eu/
+Monaco	Monaco	2020-04-29	2020-05-15T11:41:17.000Z	4	95			0	0	0	-1	0	0.14	0.14		https://www.ecdc.europa.eu/
+Mongolia	Mongolia	2020-04-29	2020-05-15T11:41:17.000Z	0	38			0	0	0	0	0	0.0	0.43		https://www.ecdc.europa.eu/
 Moniteau_County,_Missouri	Moniteau County, Missouri	2020-04-29			40			0			0			1.14		https://health.mo.gov/
 Monmouth_County,_New_Jersey	Monmouth County, New Jersey	2020-04-29		244	4947			0	0		0	0	0.0	0.0		https://www.nj.gov/
 Mono_County,_California	Mono County, California	2020-04-29	2020-04-29T00:00:00.000Z	1	26		234	0	0		0	0	0.0	0.29		https://coronavirus.monocounty.ca.gov/
@@ -2749,7 +3066,7 @@ Montcalm_County,_Michigan	Montcalm County, Michigan	2020-04-29	2020-04-29T19:00:
 Montebello,_California	Montebello, California	2020-04-29	2020-04-29T03:00:00+0000		126			7			2					http://publichealth.lacounty.gov/
 Montemor-o-Novo	Montemor-o-Novo	2020-04-29	2020-04-28T23:00:00.000Z		7			2			2					https://covid19.min-saude.pt/
 Montemor-o-Velho	Montemor-o-Velho	2020-04-29	2020-04-28T23:00:00.000Z		15			-1			-1			-0.14		https://covid19.min-saude.pt/
-Montenegro	Montenegro	2020-04-29	2020-05-14T11:42:23.000Z	7	321			0	0	0	0	0	0.29	1.14		https://www.ecdc.europa.eu/
+Montenegro	Montenegro	2020-04-29	2020-05-15T11:41:17.000Z	7	321			0	0	0	0	0	0.29	1.14		https://www.ecdc.europa.eu/
 Monterey,_Massachusetts	Monterey, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		0											https://www.mass.gov/
 Monterey_County,_California	Monterey County, California	2020-04-29	2020-04-28T23:59:00.000Z	5	206	43	3239	15	0	1	9	-1	0.14	7.43	2.14	https://www.co.monterey.ca.us/
 Monterey_Park,_California	Monterey Park, California	2020-04-29	2020-04-29T03:00:00+0000		72			7			6					http://publichealth.lacounty.gov/
@@ -2776,7 +3093,7 @@ Montijo,_Portugal	Montijo, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		46			2	
 Montmorency_County,_Michigan	Montmorency County, Michigan	2020-04-29	2020-04-29T19:00:00+0000		5			0			0			-0.14		https://www.michigan.gov/
 Montour_County,_Pennsylvania	Montour County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	0	47		3002	0	0		1	0	0.0	0.0		https://www.health.pa.gov/
 Montrose_County,_Colorado	Montrose County, Colorado	2020-04-29		11	96			2	0		0	-1		2.0		https://covid19.colorado.gov/
-Montserrat	Montserrat	2020-04-29	2020-05-14T11:42:23.000Z	1	11			0	0	0	0	0	0.14	0.0		https://www.ecdc.europa.eu/
+Montserrat	Montserrat	2020-04-29	2020-05-15T11:41:17.000Z	1	11			0	0	0	0	0	0.14	0.0		https://www.ecdc.europa.eu/
 Moody_County,_South_Dakota	Moody County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		5	1	95	2		0	2			0.43	0.0	https://doh.sd.gov/
 Moore_County,_North_Carolina	Moore County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	2	71			2	0		1	0	0.0	0.57		https://www.ncdhhs.gov/
 Moore_County,_Tennessee	Moore County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z		3	1		0		0	0			0.0		https://www.tn.gov/
@@ -2810,7 +3127,7 @@ Mount_Washington,_Massachusetts	Mount Washington, Massachusetts	2020-04-29	2020-
 Mountrail_County,_North_Dakota	Mountrail County, North Dakota	2020-04-29	2020-04-29T16:00:00+0000		35			0			-1			0.57		https://www.health.nd.gov/
 Moura,_Portugal	Moura, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		46			7			2			2.43		https://covid19.min-saude.pt/
 Mower_County,_Minnesota	Mower County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	28			0	0		0	0	0.0	0.14		https://www.health.state.mn.us/
-Mozambique	Mozambique	2020-04-29	2020-05-14T11:42:23.000Z	0	76			0	0	0	0	0	0.0	5.29		https://www.ecdc.europa.eu/
+Mozambique	Mozambique	2020-04-29	2020-05-15T11:41:17.000Z	0	76			0	0	0	0	0	0.0	5.29		https://www.ecdc.europa.eu/
 Muhlenberg_County,_Kentucky	Muhlenberg County, Kentucky	2020-04-29		4	116			2	0		-1	0	0.29	6.0		https://govstatus.egov.com/
 Multnomah_County,_Oregon	Multnomah County, Oregon	2020-04-29	2020-04-29T15:00:00+0000	42	696		12616	19	2		6	-1	1.86	18.57		https://govstatus.egov.com/OR-OHA-COVID-19
 Murau_District	Murau District	2020-04-29	2020-04-29T20:00:00.000Z		7			0			0			0.29		https://info.gesundheitsministerium.at/
@@ -2825,10 +3142,10 @@ Muskegon_County,_Michigan	Muskegon County, Michigan	2020-04-29	2020-04-29T19:00:
 Muskingum_County,_Ohio	Muskingum County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	0	10			0	0		1	0	0.0	0.14		https://coronavirus.ohio.gov/
 Muskogee_County,_Oklahoma	Muskogee County, Oklahoma	2020-04-29	2020-04-29T00:00:00.000Z	5	26	20		0	1	0	0	1	0.29	0.0	0.29	https://coronavirus.health.ok.gov/
 Musselshell_County,_Montana	Musselshell County, Montana	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
-Myanmar	Myanmar	2020-04-29	2020-05-14T11:42:23.000Z	5	150			4	0	0	4	0	0.0	4.14		https://www.ecdc.europa.eu/
+Myanmar	Myanmar	2020-04-29	2020-05-15T11:41:17.000Z	5	150			4	0	0	4	0	0.0	4.14		https://www.ecdc.europa.eu/
 Nacogdoches_County,_Texas	Nacogdoches County, Texas	2020-04-29		6	141			0	0		-16	0	0.0	6.14		https://www.dshs.state.tx.us/
 Nahant,_Massachusetts	Nahant, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		29											https://www.mass.gov/
-Namibia	Namibia	2020-04-29	2020-05-14T11:42:23.000Z	0	16			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Namibia	Namibia	2020-04-29	2020-05-15T11:41:17.000Z	0	16			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Namur_Province	Namur Province	2020-04-29	2020-04-29		1893			35			4			35.14		https://epistat.wiv-isp.be/Covid/
 Nance_County,_Nebraska	Nance County, Nebraska	2020-04-29			1		2	0			0			0.0		http://dhhs.ne.gov/
 Napa_County,_California	Napa County, California	2020-04-29		2	68	30	1305	1	0	0	-2	0	0.0	1.43	1.14	https://www.cdph.ca.gov/
@@ -2840,7 +3157,7 @@ Natchitoches_Parish,_Louisiana	Natchitoches Parish, Louisiana	2020-04-29		4	79		
 Natick,_Massachusetts	Natick, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		280											https://www.mass.gov/
 Natrona_County,_Wyoming	Natrona County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		39			0			0			0.14		https://health.wyo.gov/
 Navajo_County,_Arizona	Navajo County, Arizona	2020-04-29	2020-04-29T00:00:00.000Z	18	682		2451	17	0		-20	0	0.86	22.14		https://azdhs.gov/
-Navarre	Navarre	2020-04-29	2020-05-14T12:23:49.000Z	451	4815	2113		21	3	31	-14	-13	6.0	34.0	95.43	https://www.mscbs.gob.es/
+Navarre	Navarre	2020-04-29	2020-05-15T10:56:53.000Z	451	4815	2113		21	3	31	-14	-13	6.0	34.0	95.43	https://www.mscbs.gob.es/
 Navarro_County,_Texas	Navarro County, Texas	2020-04-29		2	30			2	0		2	0	0.0	0.86		https://www.dshs.state.tx.us/
 Nebraska	Nebraska	2020-04-29	2020-04-29T17:45:00.000Z	68	3784		25498	410	13		394	14	4.29	283.29		http://dhhs.ne.gov/
 Needham,_Massachusetts	Needham, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		217											https://www.mass.gov/
@@ -2893,12 +3210,12 @@ Newton_County,_Missouri	Newton County, Missouri	2020-04-29		1	10			0	0		0	0	0.0	
 Newton_County,_Texas	Newton County, Texas	2020-04-29			2			0			0			0.0		https://www.dshs.state.tx.us/
 Nez_Perce_County,_Idaho	Nez Perce County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	16	51			1	0		1	-1	0.43	2.29		https://coronavirus.idaho.gov/
 Niagara_County,_New_York	Niagara County, New York	2020-04-29	2020-04-29T14:00:00.000Z	21	401		2390	15	0		7	0	0.29	19.0		https://coronavirus.health.ny.gov/
-Nicaragua	Nicaragua	2020-04-29	2020-05-14T11:42:23.000Z	3	13			0	0	0	0	0	0.14	0.43		https://www.ecdc.europa.eu/
+Nicaragua	Nicaragua	2020-04-29	2020-05-15T11:41:17.000Z	3	13			0	0	0	0	0	0.14	0.43		https://www.ecdc.europa.eu/
 Nicholas_County,_Kentucky	Nicholas County, Kentucky	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://govstatus.egov.com/
 Nicholas_County,_West_Virginia	Nicholas County, West Virginia	2020-04-29	2020-04-29T17:00:00.000Z	0	6			0	0		0	0		0.29		https://dhhr.wv.gov/
 Nicollet_County,_Minnesota	Nicollet County, Minnesota	2020-04-29	2020-04-29T00:00:00	2	9			0	0		0	0	0.0	0.14		https://www.health.state.mn.us/
-Niger	Niger	2020-04-29	2020-05-14T11:42:23.000Z	31	709			8	2	2	3	2	1.57	7.43		https://www.ecdc.europa.eu/
-Nigeria	Nigeria	2020-04-29	2020-05-14T11:42:23.000Z	44	1532			195	4	4	131	4	2.71	107.14		https://www.ecdc.europa.eu/
+Niger	Niger	2020-04-29	2020-05-15T11:41:17.000Z	31	709			8	2	2	3	2	1.57	7.43		https://www.ecdc.europa.eu/
+Nigeria	Nigeria	2020-04-29	2020-05-15T11:41:17.000Z	44	1532			195	4	4	131	4	2.71	107.14		https://www.ecdc.europa.eu/
 Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-04-29		0	13			0	0		0	0	0.0	0.0		https://ncov.moh.gov.vn/
 Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-04-29		0	2			0	0		0	0	0.0	0.0		https://ncov.moh.gov.vn/
 Niobrara_County,_Wyoming	Niobrara County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		1			0			0			0.0		https://health.wyo.gov/
@@ -2925,7 +3242,7 @@ North_Carolina	North Carolina	2020-04-29		354	9947			379	12		-47	-24	16.0	389.57
 North_Dakota	North Dakota	2020-04-29	2020-04-29T16:00:00+0000	19	1033	437	25536	42	0	28	-7	0	0.71	50.57	29.71	https://www.health.nd.gov/
 North_East_England	North East England	2020-04-29	2020-05-14T13:44:03.000Z		7870			213			-12			177.14		https://www.gov.uk/
 North_Lincolnshire	North Lincolnshire	2020-04-29	2020-05-14T13:44:03.000Z		361			7			-6			13.43		https://www.gov.uk/
-North_Macedonia	Republic of Macedonia	2020-04-29	2020-05-14T11:42:23.000Z	71	1421			22	6	6	9	2	2.29	27.14		https://www.ecdc.europa.eu/
+North_Macedonia	Republic of Macedonia	2020-04-29	2020-05-15T11:41:17.000Z	71	1421			22	6	6	9	2	2.29	27.14		https://www.ecdc.europa.eu/
 North_Reading,_Massachusetts	North Reading, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		141											https://www.mass.gov/
 North_Somerset	North Somerset	2020-04-29	2020-05-14T13:44:03.000Z		241			8			-4			6.71		https://www.gov.uk/
 North_Tyneside	North Tyneside	2020-04-29	2020-05-14T13:44:03.000Z		468			7			4			5.71		https://www.gov.uk/
@@ -2939,7 +3256,7 @@ Northamptonshire	Northamptonshire	2020-04-29	2020-05-14T13:44:03.000Z		1050			15
 Northborough,_Massachusetts	Northborough, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		130											https://www.mass.gov/
 Northbridge,_Massachusetts	Northbridge, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		117											https://www.mass.gov/
 Northern_Ireland	Northern Ireland	2020-04-29	2020-05-14T13:44:03.000Z	329					20			10	15.57			https://www.gov.uk/
-Northern_Mariana_Islands	Northern Mariana Islands	2020-04-29	2020-05-14T11:42:23.000Z	2	14			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Northern_Mariana_Islands	Northern Mariana Islands	2020-04-29	2020-05-15T11:41:17.000Z	2	14			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Northern_Territory	Northern Territory	2020-04-29	2020-04-28T05:00:00+0000		27			0			0			0.0		https://www.health.gov.au/
 Northfield,_Massachusetts	Northfield, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		0											https://www.mass.gov/
 Northland_Region	Northland Region	2020-04-29	2020-04-28T01:00:00+0000		28	22		0		5	0			0.14	1.14	https://www.health.govt.nz/
@@ -3077,8 +3394,8 @@ Pamlico_County,_North_Carolina	Pamlico County, North Carolina	2020-04-29	2020-04
 Panama	Panama	2020-04-29	2020-04-29T00:00:00.000Z	176	6200	484	28795	179	9	29	-63	7	5.0	197.0	36.14	http://minsa.gob.pa/coronavirus-covid19
 Panola_County,_Mississippi	Panola County, Mississippi	2020-04-29	2020-04-29T05:00:00+0000	2	38			0	0		0	0	0.0	0.14		https://msdh.ms.gov/
 Panola_County,_Texas	Panola County, Texas	2020-04-29		1	80			0	0		-2	0	0.0	4.43		https://www.dshs.state.tx.us/
-Papua_New_Guinea	Papua New Guinea	2020-04-29	2020-05-14T11:42:23.000Z	0	8			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
-Paraguay	Paraguay	2020-04-29	2020-05-14T11:42:23.000Z	9	239			9	0	0	7	0	0.0	3.71		https://www.ecdc.europa.eu/
+Papua_New_Guinea	Papua New Guinea	2020-04-29	2020-05-15T11:41:17.000Z	0	8			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Paraguay	Paraguay	2020-04-29	2020-05-15T11:41:17.000Z	9	239			9	0	0	7	0	0.0	3.71		https://www.ecdc.europa.eu/
 Paramount,_California	Paramount, California	2020-04-29	2020-04-29T03:00:00+0000		122			4			3					http://publichealth.lacounty.gov/
 Paredes,_Portugal	Paredes, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		287			13			13			7.29		https://covid19.min-saude.pt/
 Paredes_de_Coura	Paredes de Coura	2020-04-29	2020-04-28T23:00:00.000Z		7			0			0			0.0		https://covid19.min-saude.pt/
@@ -3338,7 +3655,7 @@ Red_Willow_County,_Nebraska	Red Willow County, Nebraska	2020-04-29			2		3	0			0	
 Redcar_and_Cleveland	Redcar and Cleveland	2020-04-29	2020-05-14T13:44:03.000Z		320			7			-2			7.43		https://www.gov.uk/
 Redondo_Beach,_California	Redondo Beach, California	2020-04-29	2020-04-29T03:00:00+0000		106			3			2					http://publichealth.lacounty.gov/
 Redwood_County,_Minnesota	Redwood County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	1			0	0		0	0	0.0	0.0		https://www.health.state.mn.us/
-Region_of_Murcia	Region of Murcia	2020-04-29	2020-05-14T12:23:49.000Z	130	1486	1202		6	0	49	1	0	0.86	3.71	62.29	https://www.mscbs.gob.es/
+Region_of_Murcia	Region of Murcia	2020-04-29	2020-05-15T10:56:53.000Z	130	1486	1202		6	0	49	1	0	0.86	3.71	62.29	https://www.mscbs.gob.es/
 Reguengos_de_Monsaraz	Reguengos de Monsaraz	2020-04-29	2020-04-28T23:00:00.000Z		5			0			0			-0.29		https://covid19.min-saude.pt/
 Rehoboth,_Massachusetts	Rehoboth, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		32											https://www.mass.gov/
 Reno_County,_Kansas	Reno County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		32			6			6			2.43		https://www.coronavirus.kdheks.gov
@@ -3347,7 +3664,7 @@ Renville_County,_Minnesota	Renville County, Minnesota	2020-04-29	2020-04-29T00:0
 Republic_County,_Kansas	Republic County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		4			0			0			0.0		https://www.coronavirus.kdheks.gov
 Republic_of_Ireland	Republic of Ireland	2020-04-29	2020-04-29T18:00:00.000Z	1190	20253			376	31	31	147	-28	60.14	511.71		https://www.gov.ie/
 North_Macedonia	Republic of Macedonia	2020-04-29	2020-04-28T00:00:00.000Z	73	1442	627	16050	21	5	38	-1	0	2.43	26.14	50.71	http://zdravstvo.gov.mk/
-Republic_of_the_Congo	Republic of the Congo	2020-04-29	2020-05-14T11:42:23.000Z	8	207			0	0	0	-7	0	0.29	6.0		https://www.ecdc.europa.eu/
+Republic_of_the_Congo	Republic of the Congo	2020-04-29	2020-05-15T11:41:17.000Z	8	207			0	0	0	-7	0	0.29	6.0		https://www.ecdc.europa.eu/
 Resende,_Portugal	Resende, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		58			-9			-9			-0.29		https://covid19.min-saude.pt/
 Reutte_District	Reutte District	2020-04-29	2020-04-29T20:00:00.000Z		56			0			1			-0.14		https://info.gesundheitsministerium.at/
 Revere,_Massachusetts	Revere, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		1123											https://www.mass.gov/
@@ -3442,7 +3759,7 @@ Rutherford_County,_North_Carolina	Rutherford County, North Carolina	2020-04-29	2
 Rutherford_County,_Tennessee	Rutherford County, Tennessee	2020-04-29	2020-04-29T19:00:00.000Z	11	448	198		14	1	10	3	0	0.57	14.71	4.86	https://www.tn.gov/
 Rutland,_Massachusetts	Rutland, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		28											https://www.mass.gov/
 Rutland_County,_Vermont	Rutland County, Vermont	2020-04-29		1	44			0	0		0	0	0.0	0.0		https://www.healthvermont.gov/
-Rwanda	Rwanda	2020-04-29	2020-05-14T11:42:23.000Z	0	212			5	0	0	-11	0	0.0	8.86		https://www.ecdc.europa.eu/
+Rwanda	Rwanda	2020-04-29	2020-05-15T11:41:17.000Z	0	212			5	0	0	-11	0	0.0	8.86		https://www.ecdc.europa.eu/
 R%C3%A9union	Réunion	2020-04-29		0	417			0	0		-1	0	0.0	1.0		https://www.who.int/
 Sabine_County,_Texas	Sabine County, Texas	2020-04-29			1			0			0			0.0		https://www.dshs.state.tx.us/
 Sabine_Parish,_Louisiana	Sabine Parish, Louisiana	2020-04-29		1	16			0	0		-3	-1	0.14	0.29		http://ldh.la.gov/
@@ -3452,10 +3769,10 @@ Sagadahoc_County,_Maine	Sagadahoc County, Maine	2020-04-29	2020-04-29T16:00:00+0
 Saginaw_County,_Michigan	Saginaw County, Michigan	2020-04-29	2020-04-29T19:00:00+0000	56	632			23	4		0	-1	3.0	22.57		https://www.michigan.gov/
 Saguache_County,_Colorado	Saguache County, Colorado	2020-04-29			4			1			1			0.14		https://covid19.colorado.gov/
 Saint_Barth%C3%A9lemy	Saint Barthélemy	2020-04-29		0	6			0	0		0	0	0.0	0.0		https://www.who.int/
-Saint_Kitts_and_Nevis	Saint Kitts and Nevis	2020-04-29	2020-05-14T11:42:23.000Z	0	15			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Saint_Kitts_and_Nevis	Saint Kitts and Nevis	2020-04-29	2020-05-15T11:41:17.000Z	0	15			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Saint_Lucia	Saint Lucia	2020-04-29		0	17			2	0	0	2	0	0.0	0.29		https://www.who.int/
 Saint_Pierre_and_Miquelon	Saint Pierre and Miquelon	2020-04-29		0	1			0	0		0	0	0.0	0.0		https://www.who.int/
-Saint_Vincent_and_the_Grenadines	Saint Vincent and the Grenadines	2020-04-29	2020-05-14T11:42:23.000Z	0	16			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
+Saint_Vincent_and_the_Grenadines	Saint Vincent and the Grenadines	2020-04-29	2020-05-15T11:41:17.000Z	0	16			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
 Salem,_Massachusetts	Salem, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		369											https://www.mass.gov/
 Salem,_Virginia	Salem, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	16			4	0		3	0	0.0	1.43		http://www.vdh.virginia.gov/
 Salem_County,_New_Jersey	Salem County, New Jersey	2020-04-29		5	127			0	0		0	0	0.0	0.0		https://www.nj.gov/
@@ -3487,7 +3804,7 @@ San_Juan_County,_Utah	San Juan County, Utah	2020-04-29	2020-04-29T19:00:00+0000	
 San_Juan_County,_Washington	San Juan County, Washington	2020-04-29		0	14			0	0		0	0	0.0	0.0		https://coronavirus.wa.gov/
 San_Luis_Obispo,_California	San Luis Obispo, California	2020-04-29	2020-04-29T12:30:00.000Z	1	181	135		8	0	0	4	0	0.0	5.57	2.43	https://www.emergencyslo.org/
 San_Luis_Obispo,_California	San Luis Obispo, California	2020-04-29		1	181			9	0		3	0	0.0	5.57		https://www.cdph.ca.gov/
-San_Marino	San Marino	2020-04-29	2020-05-14T11:42:23.000Z	41	553			15	0	0	15	0	0.14	11.0		https://www.ecdc.europa.eu/
+San_Marino	San Marino	2020-04-29	2020-05-15T11:41:17.000Z	41	553			15	0	0	15	0	0.14	11.0		https://www.ecdc.europa.eu/
 San_Marino,_California	San Marino, California	2020-04-29	2020-04-29T03:00:00+0000		11			0			0					http://publichealth.lacounty.gov/
 San_Mateo_County,_California	San Mateo County, California	2020-04-29		50	1170		12483	41	2		4	0	1.57	30.29		https://www.cdph.ca.gov/
 San_Miguel_County,_Colorado	San Miguel County, Colorado	2020-04-29			19			0			0			0.29		https://covid19.colorado.gov/
@@ -3579,7 +3896,7 @@ Sevier_County%2C_Tennessee	Sevier County, Tennessee	2020-04-29	2020-04-29T19:00:
 Sevier_County,_Utah	Sevier County, Utah	2020-04-29	2020-04-29T00:00:00.000Z	0	5	2		0	0	0	0	0	0.0	0.0	0.29	https://centralutahpublichealth.org/
 Seward_County,_Kansas	Seward County, Kansas	2020-04-29	2020-04-29T16:00:00.000Z		460			38			-35			53.71		https://www.coronavirus.kdheks.gov
 Seward_County,_Nebraska	Seward County, Nebraska	2020-04-29			7		118	0			0			0.43		http://dhhs.ne.gov/
-Seychelles	Seychelles	2020-04-29	2020-05-14T11:42:23.000Z	0	11			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Seychelles	Seychelles	2020-04-29	2020-05-15T11:41:17.000Z	0	11			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Sharkey_County,_Mississippi	Sharkey County, Mississippi	2020-04-29	2020-04-29T05:00:00+0000	0	5			0	0		0	0	0.0	0.29		https://msdh.ms.gov/
 Sharon,_Massachusetts	Sharon, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		91											https://www.mass.gov/
 Sharp_County,_Arkansas	Sharp County, Arkansas	2020-04-29		0	6	3	51	3	0	1	3	0	0.0	0.57	0.14	https://www.healthy.arkansas.gov/
@@ -3619,7 +3936,7 @@ Sicily	Sicily	2020-04-29		232	3140	763	75360	20	0	18	-15	-1	3.43	36.71	53.57	htt
 Siem_Reap_Province	Siem Reap Province	2020-04-29	2020-04-29T07:00:00+0000		7			0			0					http://www.cdcmoh.gov.kh/
 Sierra_County,_California	Sierra County, California	2020-04-29	2020-04-29T11:00:00.000Z	0	0		15	0	0		0	0	0.0	0.0		http://sierracounty.ca.gov/
 Sierra_County,_New_Mexico	Sierra County, New Mexico	2020-04-29		0	1			1	0		1	0	0.0	0.14		https://cv.nmhealth.org
-Sierra_Leone	Sierra Leone	2020-04-29	2020-05-14T11:42:23.000Z	4	104			5	0	0	-1	0	0.57	7.71		https://www.ecdc.europa.eu/
+Sierra_Leone	Sierra Leone	2020-04-29	2020-05-15T11:41:17.000Z	4	104			5	0	0	-1	0	0.57	7.71		https://www.ecdc.europa.eu/
 Sierra_Madre,_California	Sierra Madre, California	2020-04-29	2020-04-29T03:00:00+0000		5			0			0					http://publichealth.lacounty.gov/
 Signal_Hill,_California	Signal Hill, California	2020-04-29	2020-04-29T03:00:00+0000		7			0			0					http://publichealth.lacounty.gov/
 Silver_Bow_County,_Montana	Silver Bow County, Montana	2020-04-29		0	11			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
@@ -3627,7 +3944,7 @@ Silves,_Portugal	Silves, Portugal	2020-04-29	2020-04-28T23:00:00.000Z		22			1			
 Simpson_County,_Kentucky	Simpson County, Kentucky	2020-04-29		2	27			3	0		3	0	0.0	0.71		https://govstatus.egov.com/
 Simpson_County,_Mississippi	Simpson County, Mississippi	2020-04-29	2020-04-29T05:00:00+0000	0	45			2	0		-1	0	0.0	1.86		https://msdh.ms.gov/
 Singapore	Singapore	2020-04-29	2020-04-28	14	14951	1128	121774	400	0	33	-527	-2	0.43	832.29	41.29	https://www.moh.gov.sg/covid-19
-Sint_Maarten	Sint Maarten	2020-04-29	2020-05-14T11:42:23.000Z	13	75			0	0	0	-1	0	0.29	0.57		https://www.ecdc.europa.eu/
+Sint_Maarten	Sint Maarten	2020-04-29	2020-05-15T11:41:17.000Z	13	75			0	0	0	-1	0	0.29	0.57		https://www.ecdc.europa.eu/
 Sintra	Sintra	2020-04-29	2020-04-28T23:00:00.000Z		577			9			3			10.0		https://covid19.min-saude.pt/
 Sioux_County,_Iowa	Sioux County, Iowa	2020-04-29		0	8			0	0		-1	0	0.0	0.14		https://idph.iowa.gov/
 Sioux_County,_Nebraska	Sioux County, Nebraska	2020-04-29			0		0	0			0			0.0		http://dhhs.ne.gov/
@@ -3668,9 +3985,9 @@ South_El_Monte,_California	South El Monte, California	2020-04-29	2020-04-29T03:0
 South_Gate,_California	South Gate, California	2020-04-29	2020-04-29T03:00:00+0000		233			7			0					http://publichealth.lacounty.gov/
 South_Gloucestershire	South Gloucestershire	2020-04-29	2020-05-14T13:44:03.000Z		345			2			1			4.86		https://www.gov.uk/
 South_Hadley,_Massachusetts	South Hadley, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		51											https://www.mass.gov/
-South_Korea	South Korea	2020-04-29	2020-05-14T11:42:23.000Z	246	10761			9	2	2	-5	1	1.14	9.57		https://www.ecdc.europa.eu/
+South_Korea	South Korea	2020-04-29	2020-05-15T11:41:17.000Z	246	10761			9	2	2	-5	1	1.14	9.57		https://www.ecdc.europa.eu/
 South_Pasadena,_California	South Pasadena, California	2020-04-29	2020-04-29T03:00:00+0000		74			6			-1					http://publichealth.lacounty.gov/
-South_Sudan	South Sudan	2020-04-29	2020-05-14T11:42:23.000Z	0	34			28	0	0	28	0	0.0	4.29		https://www.ecdc.europa.eu/
+South_Sudan	South Sudan	2020-04-29	2020-05-15T11:41:17.000Z	0	34			28	0	0	28	0	0.0	4.29		https://www.ecdc.europa.eu/
 South_Tyneside	South Tyneside	2020-04-29	2020-05-14T13:44:03.000Z		562			13			-7			17.43		https://www.gov.uk/
 South_Tyrol	South Tyrol	2020-04-29		274	2507	1388	40218	9	2	72	7	0	2.57	13.0	105.71	http://www.salute.gov.it/
 South_West_England	South West England	2020-04-29	2020-05-14T13:44:03.000Z		6383			130			17			116.57		https://www.gov.uk/
@@ -3682,7 +3999,7 @@ Southbridge,_Massachusetts	Southbridge, Massachusetts	2020-04-29	2020-04-29T20:0
 Southeast_Fairbanks_Census_Area,_Alaska	Southeast Fairbanks Census Area, Alaska	2020-04-29			1			0			0			0.0		http://www.dhss.alaska.gov/
 Southend-on-Sea	Southend-on-Sea	2020-04-29	2020-05-14T13:44:03.000Z		301			4			3			3.29		https://www.gov.uk/
 Southwick,_Massachusetts	Southwick, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		39											https://www.mass.gov/
-Spain	Spain	2020-04-29	2020-05-14T12:23:49.000Z	24543	215293	112050		2144	453	3103	836	-179	403.71	986.29	3733.57	https://www.mscbs.gob.es/
+Spain	Spain	2020-04-29	2020-05-15T10:56:53.000Z	24543	215364	112050		2144	453	3103	836	-179	403.71	996.43	3733.57	https://www.mscbs.gob.es/
 Spalding_County,_Georgia	Spalding County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	9	205			7	1		1	1	0.14	9.86		https://dph.georgia.gov/
 Spartanburg_County,_South_Carolina	Spartanburg County, South Carolina	2020-04-29		9	262			4	1		1	1	0.29	5.0		https://www.scdhec.gov/
 Spencer,_Massachusetts	Spencer, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		23											https://www.mass.gov/
@@ -3733,7 +4050,7 @@ Stark_County,_North_Dakota	Stark County, North Dakota	2020-04-29	2020-04-29T16:0
 Stark_County,_Ohio	Stark County, Ohio	2020-04-29	2020-04-29T18:00:00.000Z	39	333			9	3		-3	2	1.57	9.57		https://coronavirus.ohio.gov/
 Starke_County,_Indiana	Starke County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	1	16		189	1	0		1	0	0.0	0.71		https://coronavirus.in.gov/
 Starr_County,_Texas	Starr County, Texas	2020-04-29			9			1			0			0.29		https://www.dshs.state.tx.us/
-State_of_Palestine	State of Palestine	2020-04-29	2020-05-14T11:42:23.000Z	2	495			0	0	0	0	0	0.0	22.86		https://www.ecdc.europa.eu/
+State_of_Palestine	State of Palestine	2020-04-29	2020-05-15T11:41:17.000Z	2	495			0	0	0	0	0	0.0	22.86		https://www.ecdc.europa.eu/
 Staten_Island	Staten Island	2020-04-29	2020-04-29T14:00:00.000Z	556	11660		32645	144	7		51	-1	9.14	187.86		https://coronavirus.health.ny.gov/
 Staunton,_Virginia	Staunton, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	0	12			1	0		0	0	0.0	0.29		http://www.vdh.virginia.gov/
 Ste._Genevieve_County,_Missouri	Ste. Genevieve County, Missouri	2020-04-29		1	7			0	0		0	0	0.0	0.0		https://health.mo.gov/
@@ -3793,7 +4110,7 @@ Sumter_County,_Georgia	Sumter County, Georgia	2020-04-29	2020-04-29T22:28:01+000
 Sumter_County,_South_Carolina	Sumter County, South Carolina	2020-04-29		11	223			3	4		-2	3	0.71	2.43		https://www.scdhec.gov/
 Sunderland,_Massachusetts	Sunderland, Massachusetts	2020-04-29	2020-04-29T20:00:00.000Z		9											https://www.mass.gov/
 Sunflower_County,_Mississippi	Sunflower County, Mississippi	2020-04-29	2020-04-29T05:00:00+0000	2	53			1	0		1	0	0.0	0.43		https://msdh.ms.gov/
-Suriname	Suriname	2020-04-29	2020-05-14T11:42:23.000Z	1	10			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Suriname	Suriname	2020-04-29	2020-05-15T11:41:17.000Z	1	10			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Surrey	Surrey	2020-04-29	2020-05-14T13:44:03.000Z		2595			28			-4			33.29		https://www.gov.uk/
 Surry_County,_North_Carolina	Surry County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	0	13			1	0		1	0	0.0	0.14		https://www.ncdhhs.gov/
 Surry_County,_Virginia	Surry County, Virginia	2020-04-29	2020-04-29T13:00:00.000Z	1	4			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
@@ -3811,9 +4128,9 @@ Sweden	Sweden	2020-04-29	2020-04-29T14:00:00.000Z	2462	20302			681	81	81	-14	1	4
 Sweetwater_County,_Wyoming	Sweetwater County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		10			0			0			0.0		https://health.wyo.gov/
 Swift_County,_Minnesota	Swift County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	2			0	0		-1	0	0.0	0.14		https://www.health.state.mn.us/
 Swisher_County,_Texas	Swisher County, Texas	2020-04-29			9			0			0			0.43		https://www.dshs.state.tx.us/
-Switzerland	Switzerland	2020-04-29	2020-05-14T11:42:23.000Z	1379	29181	23100		147	27	500	44	11	-18.43	158.57	457.14	https://www.ecdc.europa.eu/
+Switzerland	Switzerland	2020-04-29	2020-05-15T11:41:17.000Z	1379	29181	23100		147	27	500	44	11	-18.43	158.57	457.14	https://www.ecdc.europa.eu/
 Switzerland_County,_Indiana	Switzerland County, Indiana	2020-04-29	2020-04-29T12:00:00.000Z	0	15		123	0	0		-1	0	0.0	0.29		https://coronavirus.in.gov/
-Syria	Syria	2020-04-29	2020-05-14T11:42:23.000Z	3	43			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Syria	Syria	2020-04-29	2020-05-15T11:41:17.000Z	3	43			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Taiwan	Taiwan	2020-04-29	2020-04-29T15:30:00.000Z	6	429	311	62368	0	0	4	0	0	0.0	0.43	10.71	https://www.cdc.gov.tw/
 Talbot_County,_Georgia	Talbot County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	1	24			2	0		1	0	0.0	0.43		https://dph.georgia.gov/
 Talbot_County,_Maryland	Talbot County, Maryland	2020-04-29		1	34			0	0		0	0	0.0	1.57		https://coronavirus.maryland.gov/
@@ -3826,7 +4143,7 @@ Tamil_Nadu	Tamil Nadu	2020-04-29	2020-04-28T11:30:00+0000	24	1937	1101		52	0	81	
 Taney_County,_Missouri	Taney County, Missouri	2020-04-29		1	11			0	0		-1	0	0.0	0.29		https://health.mo.gov/
 Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-04-29	2020-04-28T15:00:00+0000		544			0			-15			14.75		http://www.covidmaroc.ma/
 Tangipahoa_Parish,_Louisiana	Tangipahoa Parish, Louisiana	2020-04-29		21	549			9	0		4	0	0.43	7.86		http://ldh.la.gov/
-Tanzania	Tanzania	2020-04-29	2020-05-14T11:42:23.000Z	10	306			6	0	0	6	0	0.0	7.29		https://www.ecdc.europa.eu/
+Tanzania	Tanzania	2020-04-29	2020-05-15T11:41:17.000Z	10	306			6	0	0	6	0	0.0	7.29		https://www.ecdc.europa.eu/
 Taos_County,_New_Mexico	Taos County, New Mexico	2020-04-29		0	17			0	0		0	0	0.0	0.14		https://cv.nmhealth.org
 Taranaki	Taranaki	2020-04-29	2020-04-28T01:00:00+0000		16	12		0		0	-1			0.29	0.14	https://www.health.govt.nz/
 Tarapac%C3%A1_Region	Tarapacá Region	2020-04-29	2020-04-28T04:00:00+0000	1	169			5	0		-3	0	0.14	9.29		https://www.minsal.cl/
@@ -3866,9 +4183,9 @@ Texas_County,_Oklahoma	Texas County, Oklahoma	2020-04-29	2020-04-29T00:00:00.000
 Thailand	Thailand	2020-04-29	2020-04-29T23:34:00.000Z	54	2947	2665		9	0	13	2	-2	0.71	17.29	44.71	http://covid19.ddc.moph.go.th/
 Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-04-29		0	3			0	0		0	0	0.0	0.0		https://ncov.moh.gov.vn/
 Thayer_County,_Nebraska	Thayer County, Nebraska	2020-04-29			0		7	0			0			0.0		http://dhhs.ne.gov/
-The_Bahamas	The Bahamas	2020-04-29	2020-05-14T11:42:23.000Z	11	80			0	0	0	0	0	0.29	2.14		https://www.ecdc.europa.eu/
+The_Bahamas	The Bahamas	2020-04-29	2020-05-15T11:41:17.000Z	11	80			0	0	0	0	0	0.29	2.14		https://www.ecdc.europa.eu/
 The_Bronx	The Bronx	2020-04-29	2020-04-29T14:00:00.000Z	2628	36600		87254	606	48		168	8	52.86	818.86		https://coronavirus.health.ny.gov/
-The_Gambia	The Gambia	2020-04-29	2020-05-14T11:42:23.000Z	1	10			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+The_Gambia	The Gambia	2020-04-29	2020-05-15T11:41:17.000Z	1	10			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Thomas_County,_Georgia	Thomas County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	19	178			5	2		-9	1	0.71	4.29		https://dph.georgia.gov/
 Thomas_County,_Nebraska	Thomas County, Nebraska	2020-04-29			0		0	0			0			0.0		http://dhhs.ne.gov/
 Thurrock	Thurrock	2020-04-29	2020-05-14T13:44:03.000Z		283			5			3			3.29		https://www.gov.uk/
@@ -3892,7 +4209,7 @@ Tocantins	Tocantins	2020-04-29	2020-04-29T20:00:00.000Z	3	116			37	1		25	1	0.29	
 Todd_County,_Kentucky	Todd County, Kentucky	2020-04-29		0	12			0	0		-1	0	0.0	0.43		https://govstatus.egov.com/
 Todd_County,_Minnesota	Todd County, Minnesota	2020-04-29	2020-04-29T00:00:00	0	7			3	0		2	0	0.0	0.57		https://www.health.state.mn.us/
 Todd_County,_South_Dakota	Todd County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		1	1	49	0		0	0			0.0	0.0	https://doh.sd.gov/
-Togo	Togo	2020-04-29	2020-05-14T11:42:23.000Z	6	99			0	0	0	-1	0	0.0	1.86		https://www.ecdc.europa.eu/
+Togo	Togo	2020-04-29	2020-05-15T11:41:17.000Z	6	99			0	0	0	-1	0	0.0	1.86		https://www.ecdc.europa.eu/
 Tolland_County,_Connecticut	Tolland County, Connecticut	2020-04-29	2020-04-29T15:00:00.000Z	36	427			5	1		2	1	0.57	13.71		https://portal.ct.gov/
 Tom_Green_County,_Texas	Tom Green County, Texas	2020-04-29		1	44			0	0		0	0	0.0	0.43		https://www.dshs.state.tx.us/
 Tomar	Tomar	2020-04-29	2020-04-28T23:00:00.000Z		11			0			0			0.29		https://covid19.min-saude.pt/
@@ -3919,7 +4236,7 @@ Trentino	Trentino	2020-04-29		416	4069	2190	35008	44	4	142	14	-1	5.0	60.43	114.1
 Treutlen_County,_Georgia	Treutlen County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	0	3			0	0		-1	0	0.0	0.14		https://dph.georgia.gov/
 Trigg_County,_Kentucky	Trigg County, Kentucky	2020-04-29		0	9			1	0		-2	0	0.0	0.71		https://govstatus.egov.com/
 Trimble_County,_Kentucky	Trimble County, Kentucky	2020-04-29		0	3			0	0		0	0	0.0	0.14		https://govstatus.egov.com/
-Trinidad_and_Tobago	Trinidad and Tobago	2020-04-29	2020-05-14T11:42:23.000Z	8	116			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Trinidad_and_Tobago	Trinidad and Tobago	2020-04-29	2020-05-15T11:41:17.000Z	8	116			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Trinity_County,_California	Trinity County, California	2020-04-29	2020-04-29T13:33:00.000Z	0	0			0	0		0	0	0.0	0.0		https://www.trinitycounty.org/
 Trinity_County,_Texas	Trinity County, Texas	2020-04-29			8			0			0			0.14		https://www.dshs.state.tx.us/
 Tripp_County,_South_Dakota	Tripp County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		0	0	54	0		0	0			0.0		https://doh.sd.gov/
@@ -3939,7 +4256,7 @@ Tunica_County,_Mississippi	Tunica County, Mississippi	2020-04-29	2020-04-29T05:0
 Tunisia	Tunisia	2020-04-29	2020-04-29T00:00:00.000Z	39	980	294	22062	5	1	15	-3	0	0.14	10.14	14.86	https://covid-19.tn/
 Tuolumne_County,_California	Tuolumne County, California	2020-04-29	2020-04-29T00:00:00.000Z	0	4		567	0	0		0	0	0.0	0.29		https://www.tuolumnecounty.ca.gov/
 Turkey	Turkey	2020-04-29	2020-04-29T00:00:00.000Z	3081	117589	44040	991612	2936	89	5231	544	-3	100.71	2702.14	3937.57	https://covid19.saglik.gov.tr/
-Turks_and_Caicos_Islands	Turks and Caicos Islands	2020-04-29	2020-05-14T11:42:23.000Z	1	12			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Turks_and_Caicos_Islands	Turks and Caicos Islands	2020-04-29	2020-05-15T11:41:17.000Z	1	12			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Turner_County,_Georgia	Turner County, Georgia	2020-04-29	2020-04-29T22:28:01+0000	8	67			1	0		-1	0	0.43	1.14		https://dph.georgia.gov/
 Turner_County,_South_Dakota	Turner County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		15	7	159	0		2	0			0.77		https://doh.sd.gov/
 Tuscaloosa_County,_Alabama	Tuscaloosa County, Alabama	2020-04-29		1	202		3419	3	1		-1	1	0.0	5.29		https://covid19.alabama.gov/
@@ -3954,7 +4271,7 @@ Tyngsborough,_Massachusetts	Tyngsborough, Massachusetts	2020-04-29	2020-04-29T20
 Tyrol_(state)	Tyrol (state)	2020-04-29	2020-04-29T20:00:00.000Z	102		3151			0	81		-2	1.0		40.29	https://info.gesundheitsministerium.at/
 Tyrrell_County,_North_Carolina	Tyrrell County, North Carolina	2020-04-29	2020-04-29T15:00:00+0000	0	4			0	0		0	0	0.0	0.0		https://www.ncdhhs.gov/
 T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-04-29		0	3			0	0		0	0	0.0	0.0		https://ncov.moh.gov.vn/
-Uganda	Uganda	2020-04-29	2020-05-14T11:42:23.000Z	0	79			0	0	0	0	0	0.0	3.0		https://www.ecdc.europa.eu/
+Uganda	Uganda	2020-04-29	2020-05-15T11:41:17.000Z	0	79			0	0	0	0	0	0.0	3.0		https://www.ecdc.europa.eu/
 Uinta_County,_Wyoming	Uinta County, Wyoming	2020-04-29	2020-04-29T06:00:00+0000		6			0			0			0.0		https://health.wyo.gov/
 Uintah_County,_Utah	Uintah County, Utah	2020-04-29	2020-04-29T16:30:00.000Z		6	5		0		1	0			0.0	0.57	https://tricountyhealth.com/
 Ukraine	Ukraine	2020-04-29	2020-04-29T09:00:00.000Z	250	9866	1103		456	19	111	55	19	10.86	467.71	97.0	https://moz.gov.ua/
@@ -3982,7 +4299,7 @@ Union_County,_Tennessee	Union County, Tennessee	2020-04-29	2020-04-29T19:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-04-29		6	114			6	0		1	0	0.14	4.14		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-04-29		89	11380	2181		541	7	91	51	1	6.14	517.86	105.43	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-04-29	2020-04-29T09:30:00.000Z	26097	165221			4076	765	765	0	0	1142.43	4532.29		https://www.gov.uk/
-United_States	United States	2020-04-29	2020-05-14T22:38:08.771Z	60487	1036596			26916	2110		2651	741	2605.57	29039.43	6156.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-04-29	2020-05-16T01:42:08.941Z	60549	1037351			27013	2110		2679	741	2590.86	29066.0	6156.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-04-29		4	62			3	0	0	3	-1	0.14	1.14		https://www.who.int/
 Upper_Austria	Upper Austria	2020-04-29	2020-04-29T20:00:00.000Z	51		2051			0	11		-2	1.14		15.29	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2020-04-29			13			0			0			0.14		https://www.dshs.state.tx.us/
@@ -4001,7 +4318,7 @@ Vagos	Vagos	2020-04-29	2020-04-28T23:00:00.000Z		18			0			0			0.29		https://covi
 Val_Verde_County,_Texas	Val Verde County, Texas	2020-04-29			12			0			0			0.0		https://www.dshs.state.tx.us/
 Vale_de_Cambra	Vale de Cambra	2020-04-29	2020-04-28T23:00:00.000Z		131			29			29			6.86		https://covid19.min-saude.pt/
 Valencia_County,_New_Mexico	Valencia County, New Mexico	2020-04-29		0	44			2	0		2	0	0.0	1.29		https://cv.nmhealth.org
-Valencian_Community	Valencian Community	2020-04-29	2020-05-14T12:23:49.000Z	1236	10331	6886		95	18	287	63	0	16.0	66.0	214.0	https://www.mscbs.gob.es/
+Valencian_Community	Valencian Community	2020-04-29	2020-05-15T10:56:53.000Z	1236	10331	6886		95	18	287	63	0	16.0	66.0	214.0	https://www.mscbs.gob.es/
 Valley_County,_Idaho	Valley County, Idaho	2020-04-29	2020-04-29T17:00:00.000Z	0	2			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Valley_County,_Nebraska	Valley County, Nebraska	2020-04-29			1		2	0			0			0.14		http://dhhs.ne.gov/
 Valongo	Valongo	2020-04-29	2020-04-28T23:00:00.000Z		699			-1			-1			14.57		https://covid19.min-saude.pt/
@@ -4020,7 +4337,7 @@ Velas	Velas	2020-04-29	2020-04-28T23:00:00.000Z		5			-1			-1			-0.14		https://co
 Venango_County,_Pennsylvania	Venango County, Pennsylvania	2020-04-29	2020-04-29T16:00:00+0000	0	7		252	0	0		0	0	0.0	0.14		https://www.health.pa.gov/
 Vendas_Novas	Vendas Novas	2020-04-29	2020-04-28T23:00:00.000Z		6			-1			-1					https://covid19.min-saude.pt/
 Veneto	Veneto	2020-04-29		1437	17825	8019	337656	117	29	320	-12	-35	36.57	155.29	350.43	http://www.salute.gov.it/
-Venezuela	Venezuela	2020-04-29	2020-05-14T11:42:23.000Z	10	329			0	0	0	-4	0	0.0	5.86		https://www.ecdc.europa.eu/
+Venezuela	Venezuela	2020-04-29	2020-05-15T11:41:17.000Z	10	329			0	0	0	-4	0	0.0	5.86		https://www.ecdc.europa.eu/
 Ventura_County,_California	Ventura County, California	2020-04-29		18	530	366	9784	13	1	10	9	1	0.57	9.29	17.57	https://www.cdph.ca.gov/
 Vermilion_County,_Illinois	Vermilion County, Illinois	2020-04-29		1	16			0	1		-2	1	0.14	0.86		http://www.dph.illinois.gov/
 Vermilion_Parish,_Louisiana	Vermilion Parish, Louisiana	2020-04-29		1	35			0	0		0	0	0.0	0.29		http://ldh.la.gov/
@@ -4365,11 +4682,11 @@ Yukon	Yukon	2020-04-29	2020-04-29T15:00:00.000Z	0	11	8	973	0	0	0	0	0	0.0	0.0	0.0
 Yukon%E2%80%93Koyukuk_Census_Area,_Alaska	Yukon–Koyukuk Census Area, Alaska	2020-04-29			1			0			0			0.0		http://www.dhss.alaska.gov/
 Yuma_County,_Arizona	Yuma County, Arizona	2020-04-29	2020-04-29T00:00:00.000Z		65		802	5			-2			5.29		https://azdhs.gov/
 Yuma_County,_Colorado	Yuma County, Colorado	2020-04-29			8			1			0			0.57		https://covid19.colorado.gov/
-Zambia	Zambia	2020-04-29	2020-05-14T11:42:23.000Z	3	95			6	0	0	5	0	0.0	3.57		https://www.ecdc.europa.eu/
+Zambia	Zambia	2020-04-29	2020-05-15T11:41:17.000Z	3	95			6	0	0	5	0	0.0	3.57		https://www.ecdc.europa.eu/
 Zapata_County,_Texas	Zapata County, Texas	2020-04-29			7			0			0			0.0		https://www.dshs.state.tx.us/
 Zavala_County,_Texas	Zavala County, Texas	2020-04-29			1			0			0			0.0		https://www.dshs.state.tx.us/
 Ziebach_County,_South_Dakota	Ziebach County, South Dakota	2020-04-29	2020-04-29T10:26:49.000Z		0	0	3	0		0	0			0.0		https://doh.sd.gov/
-Zimbabwe	Zimbabwe	2020-04-29	2020-05-14T11:42:23.000Z	4	32			0	0	0	-1	0	0.14	0.57		https://www.ecdc.europa.eu/
+Zimbabwe	Zimbabwe	2020-04-29	2020-05-15T11:41:17.000Z	4	32			0	0	0	-1	0	0.14	0.57		https://www.ecdc.europa.eu/
 Zwettl_District	Zwettl District	2020-04-29	2020-04-29T20:00:00.000Z		71			0			0			0.43		https://info.gesundheitsministerium.at/
 %C3%8Ele-de-France	Île-de-France	2020-04-29		5938		17140			151	660		54	102.71		408.86	https://www.santepubliquefrance.fr/
 %C3%91uble_Region	Ñuble Region	2020-04-29	2020-04-28T04:00:00+0000	14	747			6	0		-4	0	0.14	7.57		https://www.minsal.cl/
