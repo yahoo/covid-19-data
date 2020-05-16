@@ -1,29 +1,46 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Antofagasta_Region	Antofagasta Region	2020-05-17	2020-05-15T04:00:00+0000	12	1331								0.29	54.86		https://www.minsal.cl/
-Araucan%C3%ADa_Region	Araucanía Region	2020-05-17	2020-05-15T04:00:00+0000	43	1564								1.0	20.86		https://www.minsal.cl/
-Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-17	2020-05-15T04:00:00+0000	7	368								0.14	4.43		https://www.minsal.cl/
-Atacama_Region	Atacama Region	2020-05-17	2020-05-15T04:00:00+0000	0	143								0.0	3.71		https://www.minsal.cl/
+Antofagasta_Region	Antofagasta Region	2020-05-17	2020-05-16T04:00:00+0000	12	1429			98	0		44	-1	0.29	68.86		https://www.minsal.cl/
+Araucan%C3%ADa_Region	Araucanía Region	2020-05-17	2020-05-16T04:00:00+0000	43	1587			23	0		-5	-2	1.0	24.14		https://www.minsal.cl/
+Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-17	2020-05-16T04:00:00+0000	7	377			9	0		4	0	0.14	5.71		https://www.minsal.cl/
+Atacama_Region	Atacama Region	2020-05-17	2020-05-16T04:00:00+0000	0	146			3	0		0	0	0.0	4.14		https://www.minsal.cl/
 Auckland_Region	Auckland Region	2020-05-17	2020-05-16T01:00:00+0000		178	171		0		0	0			0.0	1.29	https://www.health.govt.nz/
-Ays%C3%A9n_Region	Aysén Region	2020-05-17	2020-05-15T04:00:00+0000	0	8								0.0	0.0		https://www.minsal.cl/
+Ays%C3%A9n_Region	Aysén Region	2020-05-17	2020-05-16T04:00:00+0000	0	8			0	0		0	0	0.0	0.0		https://www.minsal.cl/
 Bay_of_Plenty	Bay of Plenty	2020-05-17	2020-05-16T01:00:00+0000		47	47		0		0	0			0.0	0.0	https://www.health.govt.nz/
-Biob%C3%ADo_Region	Biobío Region	2020-05-17	2020-05-15T04:00:00+0000	9	1036								0.14	22.0		https://www.minsal.cl/
-Chile	Chile	2020-05-17	2020-05-15T04:00:00+0000	394	39542	16614	341512						11.71	1525.14	500.29	https://www.minsal.cl/
-Coquimbo_Region	Coquimbo Region	2020-05-17	2020-05-15T04:00:00+0000	1	180								0.14	7.29		https://www.minsal.cl/
-Earth	Earth	2020-05-17	2020-05-16T16:39:36.469Z	306874	4526174								3590.57	68069.71	35190.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Biob%C3%ADo_Region	Biobío Region	2020-05-17	2020-05-16T04:00:00+0000	9	1074			38	0		-3	0	0.14	27.43		https://www.minsal.cl/
+Chile	Chile	2020-05-17	2020-05-16T04:00:00+0000	421	41428	18014	341512	1886	27	1400	-616	1	15.57	1794.57	700.29	https://www.minsal.cl/
+Coquimbo_Region	Coquimbo Region	2020-05-17	2020-05-16T04:00:00+0000	2	187			7	1		-8	1	0.29	8.29		https://www.minsal.cl/
+Earth	Earth	2020-05-17	2020-05-16T17:38:48.513Z	306867	4529973								3589.57	68612.43	35264.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Hawke%27s_Bay_Region	Hawke's Bay Region	2020-05-17	2020-05-16T01:00:00+0000		44	39		0		1	0			0.0	0.57	https://www.health.govt.nz/
-Los_Lagos_Region	Los Lagos Region	2020-05-17	2020-05-15T04:00:00+0000	11	641								0.14	11.71		https://www.minsal.cl/
-Los_R%C3%ADos_Region	Los Ríos Region	2020-05-17	2020-05-15T04:00:00+0000	6	219								0.14	1.86		https://www.minsal.cl/
-Magallanes_Region	Magallanes Region	2020-05-17	2020-05-15T04:00:00+0000	16	937								0.71	8.0		https://www.minsal.cl/
-Maule_Region	Maule Region	2020-05-17	2020-05-15T04:00:00+0000	14	540								0.0	15.43		https://www.minsal.cl/
+Los_Lagos_Region	Los Lagos Region	2020-05-17	2020-05-16T04:00:00+0000	11	644			3	0		-5	0	0.14	12.14		https://www.minsal.cl/
+Los_R%C3%ADos_Region	Los Ríos Region	2020-05-17	2020-05-16T04:00:00+0000	6	219			0	0		-5	0	0.14	1.86		https://www.minsal.cl/
+Magallanes_Region	Magallanes Region	2020-05-17	2020-05-16T04:00:00+0000	16	952			15	0		13	0	0.71	10.14		https://www.minsal.cl/
+Maule_Region	Maule Region	2020-05-17	2020-05-16T04:00:00+0000	14	551			11	0		-10	0	0.0	17.0		https://www.minsal.cl/
 New_Zealand	New Zealand	2020-05-17	2020-05-16T09:00:00.000Z	21	1498	1428	223937						0.0	0.57	8.14	https://www.health.govt.nz/
 Northland_Region	Northland Region	2020-05-17	2020-05-16T01:00:00+0000		28	28		0		0	0			0.0	0.14	https://www.health.govt.nz/
-O%27Higgins_Region	O'Higgins Region	2020-05-17	2020-05-15T04:00:00+0000	5	323								0.29	20.14		https://www.minsal.cl/
-O%27Higgins_Region	O'Higgins Region	2020-05-17	2020-05-15T04:00:00+0000	5	323								0.29	20.14		https://www.minsal.cl/
-Santiago_Metropolitan_Region	Santiago Metropolitan Region	2020-05-17	2020-05-15T04:00:00+0000	221	29276								8.29	1474.14		https://www.minsal.cl/
+O%27Higgins_Region	O'Higgins Region	2020-05-17	2020-05-16T04:00:00+0000	5	329			6	0		-22	-1	0.29	21.0		https://www.minsal.cl/
+O%27Higgins_Region	O'Higgins Region	2020-05-17	2020-05-16T04:00:00+0000	5	329			6	0		-22	-1	0.29	21.0		https://www.minsal.cl/
+Phnom_Penh	Phnom Penh	2020-05-17	2020-05-17T07:00:00+0000		28			0			0			0.0		http://www.cdcmoh.gov.kh/
+Preah_Vihear_Province	Preah Vihear Province	2020-05-17	2020-05-17T07:00:00+0000		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-05-17		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-05-17		0	8	5							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Santiago_Metropolitan_Region	Santiago Metropolitan Region	2020-05-17	2020-05-16T04:00:00+0000	246	30794			1518	25		-542	6	11.86	1691.0		https://www.minsal.cl/
+Siem_Reap_Province	Siem Reap Province	2020-05-17	2020-05-17T07:00:00+0000		7			0			0			0.0		http://www.cdcmoh.gov.kh/
+Singapore	Singapore	2020-05-17	2020-05-16T04:00:00+0000	22	45237	8342	246254	18346	1	1094	17553	1	0.29	3253.86	863.71	https://www.moh.gov.sg/covid-19
 Taranaki	Taranaki	2020-05-17	2020-05-16T01:00:00+0000		16	16		0		0	0			0.0	0.0	https://www.health.govt.nz/
-Tarapac%C3%A1_Region	Tarapacá Region	2020-05-17	2020-05-15T04:00:00+0000	2	779								0.14	42.0		https://www.minsal.cl/
-Valpara%C3%ADso_Region	Valparaíso Region	2020-05-17	2020-05-15T04:00:00+0000	27	1312								1.14	62.0		https://www.minsal.cl/
+Tarapac%C3%A1_Region	Tarapacá Region	2020-05-17	2020-05-16T04:00:00+0000	2	845			66	0		-31	-1	0.14	51.43		https://www.minsal.cl/
+Tboung_Khmum_Province	Tboung Khmum Province	2020-05-17	2020-05-17T07:00:00+0000		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-05-17		0	3	3							0.0	0.0	0.14	https://ncov.moh.gov.vn/
+Th%C3%A1i_B%C3%ACnh_Province	Thái Bình Province	2020-05-17		0	27	1							0.0	3.57	0.14	https://ncov.moh.gov.vn/
+Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-05-17		0	1	1							0.0	0.0	0.14	https://ncov.moh.gov.vn/
+Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-05-17		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-05-17		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-05-17		0	4	3							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Valpara%C3%ADso_Region	Valparaíso Region	2020-05-17	2020-05-16T04:00:00+0000	28	1365			53	1		-46	-1	1.29	69.57		https://www.minsal.cl/
+Vietnam	Vietnam	2020-05-17		0	318	260							0.0	4.29	2.71	https://ncov.moh.gov.vn/
+V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-05-17		0	19	19							0.0	0.0	0.14	https://ncov.moh.gov.vn/
 Waikato	Waikato	2020-05-17	2020-05-16T01:00:00+0000	1	188	181		0	0	0	0	0	0.0	0.14	1.57	https://www.health.govt.nz/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-05-17	2020-05-16T01:00:00+0000	1	5	4		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Whanganui	Whanganui	2020-05-17	2020-05-16T01:00:00+0000		9	9		0		0	0			0.0	0.0	https://www.health.govt.nz/
-%C3%91uble_Region	Ñuble Region	2020-05-17	2020-05-15T04:00:00+0000	20	885								0.29	12.0		https://www.minsal.cl/
+%C3%91uble_Region	Ñuble Region	2020-05-17	2020-05-16T04:00:00+0000	20	921			36	0		0	0	0.29	17.14		https://www.minsal.cl/
+%C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-05-17		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-05-17		0	5	4							0.0	0.14	0.0	https://ncov.moh.gov.vn/
