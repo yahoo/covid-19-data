@@ -1,7 +1,7 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-04-16		0	10			0			-1			0.43		https://www.scdhec.gov/
 Abrantes	Abrantes	2020-04-16	2020-04-15T23:00:00.000Z		5			1			1					https://covid19.min-saude.pt/
-Abruzzo	Abruzzo	2020-04-16		243	2346	253	23786	72	3	29	43	-5	7.0	59.29	11.71	http://www.salute.gov.it/
+Abruzzo	Abruzzo	2020-04-16		243	2346	253	23786	72	3	29	72	-5	7.0	59.29	11.71	http://www.salute.gov.it/
 Acadia_Parish,_Louisiana	Acadia Parish, Louisiana	2020-04-16		6	108			3	1		2	1	0.43	2.71		http://ldh.la.gov/
 Accomack_County,_Virginia	Accomack County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		19			4			4			1.14		http://www.vdh.virginia.gov/
 Acre_(state)	Acre (state)	2020-04-16	2020-04-16T20:30:00.000Z	3	101			0	0		0	0				https://covid.saude.gov.br/
@@ -86,13 +86,13 @@ Andrew_County,_Missouri	Andrew County, Missouri	2020-04-16			1			0			0			0.06		h
 Andrews_County,_Texas	Andrews County, Texas	2020-04-16			19			6			6			1.29		https://www.dshs.state.tx.us/
 Androscoggin_County,_Maine	Androscoggin County, Maine	2020-04-16	2020-04-16T15:45:00+0000	1	32	13		1	0	1	-1	0		1.14	0.86	https://www.maine.gov/
 Angelina_County,_Texas	Angelina County, Texas	2020-04-16			20			3			3			0.71		https://www.dshs.state.tx.us/
-Angola	Angola	2020-04-16	2020-05-15T11:41:17.000Z	2	19			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
-Anguilla	Anguilla	2020-04-16	2020-05-15T11:41:17.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Angola	Angola	2020-04-16	2020-05-16T11:41:18.000Z	2	19			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Anguilla	Anguilla	2020-04-16	2020-05-16T11:41:18.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Anne_Arundel_County,_Maryland	Anne Arundel County, Maryland	2020-04-16		29	896			51	4		-11	11	2.43	55.86		https://coronavirus.maryland.gov/
 Anoka_County,_Minnesota	Anoka County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	79			3	0		-1	0	0.0	3.71		https://www.health.state.mn.us/
 Anson_County,_North_Carolina	Anson County, North Carolina	2020-04-16		0	14			2			1			0.71		https://www.ncdhhs.gov/
 Antelope_County,_Nebraska	Antelope County, Nebraska	2020-04-16			1			0			0			0.0		http://dhhs.ne.gov/
-Antigua_and_Barbuda	Antigua and Barbuda	2020-04-16	2020-05-15T11:41:17.000Z	2	23			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
+Antigua_and_Barbuda	Antigua and Barbuda	2020-04-16	2020-05-16T11:41:18.000Z	2	23			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
 Antrim_County,_Michigan	Antrim County, Michigan	2020-04-16	2020-04-16T19:00:00+0000		9			0			-1			0.43		https://www.michigan.gov/
 Antwerp_Province	Antwerp Province	2020-04-16	2020-04-16		4854			211			36			147.71		https://epistat.wiv-isp.be/Covid/
 Aosta_Valley	Aosta Valley	2020-04-16		122	971	331	4159	13	1	42	2	-2	2.43	14.71	25.29	http://www.salute.gov.it/
@@ -149,7 +149,8 @@ Australia	Australia	2020-04-16	2020-04-16T15:00:00.000Z	63	6468		380000	21	2	2	-
 Australian_Capital_Territory	Australian Capital Territory	2020-04-16	2020-04-15T05:00:00+0000		103			0			0			0.64		https://www.health.gov.au/
 Austria	Austria	2020-04-16	2020-04-16T21:00:00.000Z	363	14475	8986	162816	140	9	888	34	-7	12.86	175.86		https://info.gesundheitsministerium.at/
 Autauga_County,_Alabama	Autauga County, Alabama	2020-04-16		2	25			1	1		0	1	0.14	1.14		https://covid19.alabama.gov/
-Autonomous_Province_of_Kosovo_and_Metohija	Autonomous Province of Kosovo and Metohija	2020-04-16	2020-05-15T11:41:17.000Z	9	423			36	1	1	26	1	0.57	34.14		https://www.ecdc.europa.eu/
+Autonomous_Province_of_Kosovo_and_Metohija	Autonomous Province of Kosovo and Metohija	2020-04-16	2020-05-16T11:41:18.000Z	9	423			36	1	1	26	1	0.57	34.14		https://www.ecdc.europa.eu/
+Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-04-16		927		3460			42	143		-7	34.57		136.0	https://www.santepubliquefrance.fr/
 Aveiro,_Portugal	Aveiro, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		227			24			-9					https://covid19.min-saude.pt/
 Avery_County,_North_Carolina	Avery County, North Carolina	2020-04-16		0	0											https://www.ncdhhs.gov/
 Avoyelles_Parish,_Louisiana	Avoyelles Parish, Louisiana	2020-04-16		3	66			2	0		3	-1	0.29	1.43		http://ldh.la.gov/
@@ -174,7 +175,7 @@ Banks_County,_Georgia	Banks County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	
 Banner_County,_Nebraska	Banner County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
 Bannock_County,_Idaho	Bannock County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	0	5			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Baraga_County,_Michigan	Baraga County, Michigan	2020-04-16	2020-04-16T19:00:00+0000		1											https://www.michigan.gov/
-Barbados	Barbados	2020-04-16	2020-05-15T11:41:17.000Z	5	75			2	0	0	1	-1	0.29	1.71		https://www.ecdc.europa.eu/
+Barbados	Barbados	2020-04-16	2020-05-16T11:41:18.000Z	5	75			2	0	0	1	-1	0.29	1.71		https://www.ecdc.europa.eu/
 Barber_County,_Kansas	Barber County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		1			0			0			0.0		https://www.coronavirus.kdheks.gov
 Barbour_County,_Alabama	Barbour County, Alabama	2020-04-16		0	14			1			-1			1.0		https://covid19.alabama.gov/
 Barbour_County,_West_Virginia	Barbour County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		4			0			0			0.0		https://dhhr.wv.gov/
@@ -218,9 +219,9 @@ Bedford_County,_Tennessee	Bedford County, Tennessee	2020-04-16	2020-04-16T19:00:
 Bedford_County,_Virginia	Bedford County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		16			0			0			0.57		http://www.vdh.virginia.gov/
 Bee_County,_Texas	Bee County, Texas	2020-04-16			3			0			0			0.29		https://www.dshs.state.tx.us/
 Beja,_Portugal	Beja, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		9			0			-1					https://covid19.min-saude.pt/
-Belarus	Belarus	2020-04-16	2020-05-15T11:41:17.000Z	36	3728		76198	447	3	3	85	-1	3.29	380.29		https://www.ecdc.europa.eu/
+Belarus	Belarus	2020-04-16	2020-05-16T11:41:18.000Z	36	3728		76198	447	3	3	85	-1	3.29	380.29		https://www.ecdc.europa.eu/
 Belgium	Belgium	2020-04-16	2020-04-16T00:00:00.000Z	4857	34809			1236	283	283	-1218	29	333.43	1403.71		https://epistat.wiv-isp.be/Covid/
-Belize	Belize	2020-04-16	2020-05-15T11:41:17.000Z	2	18			0	0	0	0	0	0.14	1.29		https://www.ecdc.europa.eu/
+Belize	Belize	2020-04-16	2020-05-16T11:41:18.000Z	2	18			0	0	0	0	0	0.14	1.29		https://www.ecdc.europa.eu/
 Belknap_County,_New_Hampshire	Belknap County, New Hampshire	2020-04-16	2020-04-16T09:00:00.000Z		24			0			0			0.43		https://www.nh.gov/
 Bell_County,_Texas	Bell County, Texas	2020-04-16		3	115			5	0		2	0	0.14	5.86		https://www.dshs.state.tx.us/
 Belmont_County,_Ohio	Belmont County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	3	59			1	0		0	0	0.29	3.29		https://coronavirus.ohio.gov/
@@ -228,7 +229,7 @@ Beltrami_County,_Minnesota	Beltrami County, Minnesota	2020-04-16	2020-04-16T00:0
 Ben_Hill_County,_Georgia	Ben Hill County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	10			0	0		0	0	0.0	0.43		https://dph.georgia.gov/
 Benavente,_Portugal	Benavente, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		27			-2			-2					https://covid19.min-saude.pt/
 Benewah_County,_Idaho	Benewah County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
-Benin	Benin	2020-04-16	2020-05-15T11:41:17.000Z	1	35			0	0	0	0	0	0.0	1.29		https://www.ecdc.europa.eu/
+Benin	Benin	2020-04-16	2020-05-16T11:41:18.000Z	1	35			0	0	0	0	0	0.0	1.29		https://www.ecdc.europa.eu/
 Bennington_County,_Vermont	Bennington County, Vermont	2020-04-16	2020-04-16T09:20:00.000Z	1	33			1	0		1	0	0.0	0.29		https://www.healthvermont.gov/
 Bent_County,_Colorado	Bent County, Colorado	2020-04-16			0											https://covid19.colorado.gov/
 Benton_County,_Arkansas	Benton County, Arkansas	2020-04-16		0	61	36		-1		2	-3			2.0	1.71	https://www.healthy.arkansas.gov/
@@ -245,14 +246,14 @@ Berkeley_County,_South_Carolina	Berkeley County, South Carolina	2020-04-16		2	11
 Berkeley_County,_West_Virginia	Berkeley County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		102			1			0			2.86		https://dhhr.wv.gov/
 Berks_County,_Pennsylvania	Berks County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000	31	1419		4725	84	3		-4	2	3.29	114.71		https://www.health.pa.gov/
 Berkshire_County,_Massachusetts	Berkshire County, Massachusetts	2020-04-16	2020-04-16T16:00:00.000Z		382			12			2			11.14		https://www.mass.gov/
-Bermuda	Bermuda	2020-04-16	2020-05-15T11:41:17.000Z	5	81			24	0	0	24	-1	0.29	6.0		https://www.ecdc.europa.eu/
+Bermuda	Bermuda	2020-04-16	2020-05-16T11:41:18.000Z	5	81			24	0	0	24	-1	0.29	6.0		https://www.ecdc.europa.eu/
 Bernalillo_County,_New_Mexico	Bernalillo County, New Mexico	2020-04-16		18	491			36	2		36	2	0.86	17.43		https://cv.nmhealth.org
 Berrien_County,_Georgia	Berrien County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	10			2	0		2	0	0.0	0.57		https://dph.georgia.gov/
 Berrien_County,_Michigan	Berrien County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	7	133			10	0		-2	-2	0.71	7.57		https://www.michigan.gov/
 Bertie_County,_North_Carolina	Bertie County, North Carolina	2020-04-16		1	17			1	0		0	0	0.0	0.86		https://www.ncdhhs.gov/
 Bethel_Census_Area,_Alaska	Bethel Census Area, Alaska	2020-04-16			1			0			0			0.0		http://www.dhss.alaska.gov/
 Bexar_County,_Texas	Bexar County, Texas	2020-04-16		37	890			75	4		54	4	2.43	48.0		https://www.dshs.state.tx.us/
-Bhutan	Bhutan	2020-04-16	2020-05-15T11:41:17.000Z	0	5			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Bhutan	Bhutan	2020-04-16	2020-05-16T11:41:18.000Z	0	5			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Bibb_County,_Alabama	Bibb County, Alabama	2020-04-16		0	24			6			5			1.86		https://covid19.alabama.gov/
 Bibb_County,_Georgia	Bibb County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	1	179			84	0		80	0	0.0	17.57		https://dph.georgia.gov/
 Bienville_Parish,_Louisiana	Bienville Parish, Louisiana	2020-04-16		8	45			3	1		-2	0	1.0	3.0		http://ldh.la.gov/
@@ -278,7 +279,7 @@ Blount_County,_Tennessee	Blount County, Tennessee	2020-04-16	2020-04-16T19:00:00
 Blue_Earth_County,_Minnesota	Blue Earth County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	22			-1	0		-2	0	0.0	0.0		https://www.health.state.mn.us/
 Boise_County,_Idaho	Boise County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Bolivar_County,_Mississippi	Bolivar County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000	5	74			4	0		3	-1	0.29	2.43		https://msdh.ms.gov/
-Bolivia	Bolivia	2020-04-16	2020-05-15T11:41:17.000Z	29	441			44	1	1	1	1	1.57	25.29		https://www.ecdc.europa.eu/
+Bolivia	Bolivia	2020-04-16	2020-05-16T11:41:18.000Z	29	441			44	1	1	1	1	1.57	25.29		https://www.ecdc.europa.eu/
 Bollinger_County,_Missouri	Bollinger County, Missouri	2020-04-16			3			0			0			0.12		https://health.mo.gov/
 Bombarral	Bombarral	2020-04-16	2020-04-15T23:00:00.000Z		3			0			0					https://covid19.min-saude.pt/
 Bon_Homme_County,_South_Dakota	Bon Homme County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		4			0		3	0			0.14		https://doh.sd.gov/
@@ -304,7 +305,7 @@ Bosnia_and_Herzegovina	Bosnia and Herzegovina	2020-04-16	2020-04-16T18:05:00.000
 Bosque_County,_Texas	Bosque County, Texas	2020-04-16			1			0			0					https://www.dshs.state.tx.us/
 Bossier_Parish,_Louisiana	Bossier Parish, Louisiana	2020-04-16		11	220			9	0		5	-1	0.57	7.0		http://ldh.la.gov/
 Botetourt_County,_Virginia	Botetourt County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		23			0			0			0.71		http://www.vdh.virginia.gov/
-Botswana	Botswana	2020-04-16	2020-05-15T11:41:17.000Z	1	13			0	0	0	0	0	0.0	0.86		https://www.ecdc.europa.eu/
+Botswana	Botswana	2020-04-16	2020-05-16T11:41:18.000Z	1	13			0	0	0	0	0	0.0	0.86		https://www.ecdc.europa.eu/
 Boulder_County,_Colorado	Boulder County, Colorado	2020-04-16			312			12			5			13.57		https://covid19.colorado.gov/
 Boundary_County,_Idaho	Boundary County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Bourbon_County,_Kansas	Bourbon County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		7			0			0			0.0		https://www.coronavirus.kdheks.gov
@@ -334,7 +335,7 @@ Bristol	Bristol	2020-04-16	2020-05-14T13:44:03.000Z		447			28			6			20.14		https
 Bristol,_Virginia	Bristol, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		1			0			0			0.0		http://www.vdh.virginia.gov/
 Bristol_County,_Massachusetts	Bristol County, Massachusetts	2020-04-16	2020-04-16T16:00:00.000Z		1605			97			24			87.29		https://www.mass.gov/
 British_Columbia	British Columbia	2020-04-16	2020-04-16T15:00:00.000Z	75	1561			0	0		-71	-6				https://www.canada.ca/
-British_Virgin_Islands	British Virgin Islands	2020-04-16	2020-05-15T11:41:17.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+British_Virgin_Islands	British Virgin Islands	2020-04-16	2020-05-16T11:41:18.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Brittany_(administrative_region)	Brittany (administrative region)	2020-04-16		166		576			7	36		-3	8.14		25.57	https://www.santepubliquefrance.fr/
 Broadwater_County,_Montana	Broadwater County, Montana	2020-04-16		0	4			0			0			0.0		https://dphhs.mt.gov/
 Brooke_County,_West_Virginia	Brooke County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		3			0			0			0.14		https://dhhr.wv.gov/
@@ -353,7 +354,7 @@ Brown_County,_Ohio	Brown County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	1	8			
 Brown_County,_South_Dakota	Brown County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		15			0		10	-1			0.14		https://doh.sd.gov/
 Brown_County,_Texas	Brown County, Texas	2020-04-16		1	12			1	0		1	0		0.57		https://www.dshs.state.tx.us/
 Brown_County,_Wisconsin	Brown County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	1	139			25	0		8	0	0.14	12.71		https://www.dhs.wisconsin.gov/
-Brunei	Brunei	2020-04-16	2020-05-15T11:41:17.000Z	1	136	108	10826	0	0	1	0	0	0.0	0.14	2.43	https://www.ecdc.europa.eu/
+Brunei	Brunei	2020-04-16	2020-05-16T11:41:18.000Z	1	136	108	10826	0	0	1	0	0	0.0	0.14	2.43	https://www.ecdc.europa.eu/
 Brunswick_County,_North_Carolina	Brunswick County, North Carolina	2020-04-16		2	36			1	1		1	1	0.14	1.14		https://www.ncdhhs.gov/
 Brunswick_County,_Virginia	Brunswick County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		10			1			1			1.29		http://www.vdh.virginia.gov/
 Brussels	Brussels	2020-04-16	2020-04-16		4014			191			55			122.29		https://epistat.wiv-isp.be/Covid/
@@ -377,14 +378,14 @@ Bureau_County,_Illinois	Bureau County, Illinois	2020-04-16		0	7			0			-1			0.43	
 Burke_County,_Georgia	Burke County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	2	35			7	0		7	0	0.14	2.0		https://dph.georgia.gov/
 Burke_County,_North_Carolina	Burke County, North Carolina	2020-04-16		5	59			0	1		0	0	0.43	2.43		https://www.ncdhhs.gov/
 Burke_County,_North_Dakota	Burke County, North Dakota	2020-04-16	2020-04-16T16:00:00+0000		2			0			0			0.0		https://www.health.nd.gov/
-Burkina_Faso	Burkina Faso	2020-04-16	2020-05-15T11:41:17.000Z	32	542			14	2	2	1	0	1.29	18.29		https://www.ecdc.europa.eu/
+Burkina_Faso	Burkina Faso	2020-04-16	2020-05-16T11:41:18.000Z	32	542			14	2	2	1	0	1.29	18.29		https://www.ecdc.europa.eu/
 Burleigh_County,_North_Dakota	Burleigh County, North Dakota	2020-04-16	2020-04-16T16:00:00+0000		54			2			2			1.14		https://www.health.nd.gov/
 Burleson_County,_Texas	Burleson County, Texas	2020-04-16			8			0			-2			0.43		https://www.dshs.state.tx.us/
 Burlington_County,_New_Jersey	Burlington County, New Jersey	2020-04-16		52	1326			65	7		11	-10	4.43	63.29		https://www.nj.gov/
 Burnet_County,_Texas	Burnet County, Texas	2020-04-16			7			0			-1			0.29		https://www.dshs.state.tx.us/
 Burnett_County,_Wisconsin	Burnett County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Burt_County,_Nebraska	Burt County, Nebraska	2020-04-16			1			0			0			0.0		http://dhhs.ne.gov/
-Burundi	Burundi	2020-04-16	2020-05-15T11:41:17.000Z	1	5			0	0	0	0	-1	0.14	0.29		https://www.ecdc.europa.eu/
+Burundi	Burundi	2020-04-16	2020-05-16T11:41:18.000Z	1	5			0	0	0	0	-1	0.14	0.29		https://www.ecdc.europa.eu/
 Butler_County,_Alabama	Butler County, Alabama	2020-04-16		0	11			1			-1			1.14		https://covid19.alabama.gov/
 Butler_County,_Iowa	Butler County, Iowa	2020-04-16		0	1			0			0			0.05		https://idph.iowa.gov/
 Butler_County,_Kansas	Butler County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		10			0			-1			0.29		https://www.coronavirus.kdheks.gov
@@ -440,7 +441,7 @@ Camden_County,_North_Carolina	Camden County, North Carolina	2020-04-16		0	0					
 Cameron_County,_Pennsylvania	Cameron County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		1		20	0			0			0.0		https://www.health.pa.gov/
 Cameron_County,_Texas	Cameron County, Texas	2020-04-16		3	254			15	0		-8	0	0.29	19.43		https://www.dshs.state.tx.us/
 Cameron_Parish,_Louisiana	Cameron Parish, Louisiana	2020-04-16		0	2			0			0			0.14		http://ldh.la.gov/
-Cameroon	Cameroon	2020-04-16	2020-05-15T11:41:17.000Z	17	855			0	0	0	-35	-5	1.0	17.86		https://www.ecdc.europa.eu/
+Cameroon	Cameroon	2020-04-16	2020-05-16T11:41:18.000Z	17	855			0	0	0	-35	-5	1.0	17.86		https://www.ecdc.europa.eu/
 Caminha	Caminha	2020-04-16	2020-04-15T23:00:00.000Z		11			0			-1					https://covid19.min-saude.pt/
 Camp_County,_Texas	Camp County, Texas	2020-04-16			6			1			1			0.43		https://www.dshs.state.tx.us/
 Campania	Campania	2020-04-16		286	3887	483	41296	80	8	41	42	-10	8.43	77.57	34.14	http://www.salute.gov.it/
@@ -457,11 +458,11 @@ Cantanhede,_Portugal	Cantanhede, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		3
 Canyon_County,_Idaho	Canyon County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	5	179			0	0		-12	0	0.14	5.71		https://coronavirus.idaho.gov/
 Cape_Girardeau_County,_Missouri	Cape Girardeau County, Missouri	2020-04-16		1	33			2	0		1	0	0.0	1.29		https://health.mo.gov/
 Cape_May_County,_New_Jersey	Cape May County, New Jersey	2020-04-16		10	186			8	0		-1	0	1.0	11.0		https://www.nj.gov/
-Cape_Verde	Cape Verde	2020-04-16	2020-05-15T11:41:17.000Z	1	55			44	0	0	43	0	0.0	6.86		https://www.ecdc.europa.eu/
+Cape_Verde	Cape Verde	2020-04-16	2020-05-16T11:41:18.000Z	1	55			44	0	0	43	0	0.0	6.86		https://www.ecdc.europa.eu/
 Carbon_County,_Montana	Carbon County, Montana	2020-04-16		0	6			0			0			0.43		https://dphhs.mt.gov/
 Carbon_County,_Pennsylvania	Carbon County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000	6	113		818	1	0		-8	-3	0.57	4.29		https://www.health.pa.gov/
 Carbon_County,_Wyoming	Carbon County, Wyoming	2020-04-16	2020-04-16T06:00:00+0000		4			0			0			0.0		https://health.wyo.gov/
-Caribbean_Netherlands	Caribbean Netherlands	2020-04-16	2020-05-15T11:41:17.000Z	0	4			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
+Caribbean_Netherlands	Caribbean Netherlands	2020-04-16	2020-05-16T11:41:18.000Z	0	4			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 Caribou_County,_Idaho	Caribou County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	0	1			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Carlton_County,_Minnesota	Carlton County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	29			2	0		1	0	0.0	2.0		https://www.health.state.mn.us/
 Caroline_County,_Maryland	Caroline County, Maryland	2020-04-16		0	23			1			0			1.57		https://coronavirus.maryland.gov/
@@ -512,7 +513,7 @@ Catawba_County,_North_Carolina	Catawba County, North Carolina	2020-04-16		1	37		
 Catoosa_County,_Georgia	Catoosa County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	18			1	0		-1	0	0.0	1.14		https://dph.georgia.gov/
 Catron_County,_New_Mexico	Catron County, New Mexico	2020-04-16		0	1			0			0			0.0		https://cv.nmhealth.org
 Cattaraugus_County,_New_York	Cattaraugus County, New York	2020-04-16	2020-04-16T14:00:00.000Z	1	32		408	0	1		0	2	0.14	2.0		https://coronavirus.health.ny.gov/
-Cayman_Islands	Cayman Islands	2020-04-16	2020-05-15T11:41:17.000Z	1	60			6	0	0	6	0	0.0	2.14		https://www.ecdc.europa.eu/
+Cayman_Islands	Cayman Islands	2020-04-16	2020-05-16T11:41:18.000Z	1	60			6	0	0	6	0	0.0	2.14		https://www.ecdc.europa.eu/
 Cayuga_County,_New_York	Cayuga County, New York	2020-04-16	2020-04-16T14:00:00.000Z	2	36		587	0	0		-3	0	0.14	1.29		https://coronavirus.health.ny.gov/
 Cecil_County,_Maryland	Cecil County, Maryland	2020-04-16		2	101			11	0		6	0	0.14	6.71		https://coronavirus.maryland.gov/
 Cedar_County,_Iowa	Cedar County, Iowa	2020-04-16		0	23			1			0			0.57		https://idph.iowa.gov/
@@ -520,13 +521,13 @@ Cedar_County,_Missouri	Cedar County, Missouri	2020-04-16			5			0			0			0.0		http
 Cedar_County,_Nebraska	Cedar County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
 Celorico_da_Beira	Celorico da Beira	2020-04-16	2020-04-15T23:00:00.000Z		7			0			0					https://covid19.min-saude.pt/
 Celorico_de_Basto	Celorico de Basto	2020-04-16	2020-04-15T23:00:00.000Z		11			2			2					https://covid19.min-saude.pt/
-Central_African_Republic	Central African Republic	2020-04-16	2020-05-15T11:41:17.000Z	0	11			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Central_African_Republic	Central African Republic	2020-04-16	2020-05-16T11:41:18.000Z	0	11			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Central_Bedfordshire	Central Bedfordshire	2020-04-16	2020-05-14T13:44:03.000Z		366			7			-6			13.57		https://www.gov.uk/
 Centre-Val_de_Loire	Centre-Val de Loire	2020-04-16		252		770			7	83		-11	12.57		42.29	https://www.santepubliquefrance.fr/
 Centre_County,_Pennsylvania	Centre County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		73		635	1			-1			2.0		https://www.health.pa.gov/
 Cerro_Gordo_County,_Iowa	Cerro Gordo County, Iowa	2020-04-16		0	14			0			0			0.14		https://idph.iowa.gov/
 Ceuta	Ceuta	2020-04-16	2020-05-15T10:56:53.000Z	4	98	44		0	0	3	0	0	0.0	1.0	4.57	https://www.mscbs.gob.es/
-Chad	Chad	2020-04-16	2020-05-15T11:41:17.000Z	0	27			4	0	0	4	0	0.0	2.43		https://www.ecdc.europa.eu/
+Chad	Chad	2020-04-16	2020-05-16T11:41:18.000Z	0	27			4	0	0	4	0	0.0	2.43		https://www.ecdc.europa.eu/
 Chaffee_County,_Colorado	Chaffee County, Colorado	2020-04-16			35			4			1			1.29		https://covid19.colorado.gov/
 Chambers_County,_Alabama	Chambers County, Alabama	2020-04-16		11	234			9	1		0	-1	0.43	10.43		https://covid19.alabama.gov/
 Chambers_County,_Texas	Chambers County, Texas	2020-04-16			33			2			0			1.57		https://www.dshs.state.tx.us/
@@ -812,7 +813,7 @@ Cumberland_County,_Tennessee	Cumberland County, Tennessee	2020-04-16	2020-04-16T
 Cumberland_County,_Virginia	Cumberland County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		7			-1			-1			0.14		http://www.vdh.virginia.gov/
 Cumbria	Cumbria	2020-04-16	2020-05-14T13:44:03.000Z		1465			37			1			38.29		https://www.gov.uk/
 Cuming_County,_Nebraska	Cuming County, Nebraska	2020-04-16			2			0			0			0.0		http://dhhs.ne.gov/
-Cura%C3%A7ao	Curacao	2020-04-16	2020-05-15T11:41:17.000Z	1	14			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Cura%C3%A7ao	Curacao	2020-04-16	2020-05-16T11:41:18.000Z	1	14			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Currituck_County,_North_Carolina	Currituck County, North Carolina	2020-04-16		0	2			0			1			-0.14		https://www.ncdhhs.gov/
 Curry_County,_New_Mexico	Curry County, New Mexico	2020-04-16		0	10			0			0			0.14		https://cv.nmhealth.org
 Curry_County,_Oregon	Curry County, Oregon	2020-04-16	2020-04-16T15:00:00+0000	0	3		104	0	0		0	0	0.0	0.0		https://govstatus.egov.com/OR-OHA-COVID-19
@@ -884,7 +885,7 @@ Delhi	Delhi	2020-04-16		32	1578	42		17	2	12	-34	0				https://www.mohfw.gov.in/
 Delta_County,_Colorado	Delta County, Colorado	2020-04-16			13			1			1			1.0		https://covid19.colorado.gov/
 Delta_County,_Michigan	Delta County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	1	10			1	0		1	0	0.0	0.14		https://www.michigan.gov/
 Delta_County,_Texas	Delta County, Texas	2020-04-16			1			0			0			0.0		https://www.dshs.state.tx.us/
-Democratic_Republic_of_the_Congo	Democratic Republic of the Congo	2020-04-16	2020-05-15T11:41:17.000Z	22	267			13	1	1	0	0	0.29	8.57		https://www.ecdc.europa.eu/
+Democratic_Republic_of_the_Congo	Democratic Republic of the Congo	2020-04-16	2020-05-16T11:41:18.000Z	22	267			13	1	1	0	0	0.29	8.57		https://www.ecdc.europa.eu/
 Denmark	Denmark	2020-04-16	2020-04-16T16:00:00.000Z	309	6879	2748	82380	198	10	0	28	-4	10.29	177.71	144.57	https://www.sst.dk/
 Denton_County,_Texas	Denton County, Texas	2020-04-16		14	547			26	0		12	-1	1.0	21.29		https://www.dshs.state.tx.us/
 Denver	Denver	2020-04-16			1549			81			15			74.0		https://covid19.colorado.gov/
@@ -917,7 +918,7 @@ Dodge_County,_Minnesota	Dodge County, Minnesota	2020-04-16	2020-04-16T00:00:00	0
 Dodge_County,_Nebraska	Dodge County, Nebraska	2020-04-16			12			0			0			0.71		http://dhhs.ne.gov/
 Dodge_County,_Wisconsin	Dodge County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	1	19			0	0		0	0	0.14	0.43		https://www.dhs.wisconsin.gov/
 Dolores_County,_Colorado	Dolores County, Colorado	2020-04-16			0											https://covid19.colorado.gov/
-Dominica	Dominica	2020-04-16	2020-05-15T11:41:17.000Z	0	16			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Dominica	Dominica	2020-04-16	2020-05-16T11:41:18.000Z	0	16			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Dominican_Republic	Dominican Republic	2020-04-16	2020-04-15T18:00:00.000Z	196	3755	215	12229	141	6	7	-187	0	11.14	200.86	19.29	https://www.msp.gob.do/
 Doniphan_County,_Kansas	Doniphan County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		1			0			0			0.0		https://www.coronavirus.kdheks.gov
 Donley_County,_Texas	Donley County, Texas	2020-04-16			23			1			1			1.29		https://www.dshs.state.tx.us/
@@ -957,7 +958,7 @@ Duval_County,_Texas	Duval County, Texas	2020-04-16			1			0			0					https://www.d
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z		24	8		0		0	-2			1.43		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-04-16			479			-1			-13			12.14		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	8	148			7	2		3	2	0.43	6.14		https://dph.georgia.gov/
-Earth	Earth	2020-04-16	2020-05-16T00:40:29.164Z	141219	2108681			73101	10520		-13627	2916	6570.86	76211.14	26789.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-04-16	2020-05-17T00:39:06.848Z	141219	2108679			73101	10520		-13626	2916	6570.86	76210.86	26789.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-04-16		66	1389			64	4		34	0	4.29	55.57		http://ldh.la.gov/
 East_Carroll_Parish,_Louisiana	East Carroll Parish, Louisiana	2020-04-16		0	1			0			0			0.0		http://ldh.la.gov/
 East_Feliciana_Parish,_Louisiana	East Feliciana Parish, Louisiana	2020-04-16		7	84			3	0		-1	-3	0.71	3.57		http://ldh.la.gov/
@@ -1006,12 +1007,12 @@ Emmet_County,_Michigan	Emmet County, Michigan	2020-04-16	2020-04-16T19:00:00+000
 Emmons_County,_North_Dakota	Emmons County, North Dakota	2020-04-16	2020-04-16T16:00:00+0000		1			0			0			0.0		https://www.health.nd.gov/
 Emporia,_Virginia	Emporia, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		7			0			1			0.29		http://www.vdh.virginia.gov/
 England	England	2020-04-16	2020-05-14T13:44:03.000Z	14610					907			175	818.86			https://www.gov.uk/
-Equatorial_Guinea	Equatorial Guinea	2020-04-16	2020-05-15T11:41:17.000Z	0	51			10	0	0	-10	0	0.0	4.71		https://www.ecdc.europa.eu/
+Equatorial_Guinea	Equatorial Guinea	2020-04-16	2020-05-16T11:41:18.000Z	0	51			10	0	0	-10	0	0.0	4.71		https://www.ecdc.europa.eu/
 Erath_County,_Texas	Erath County, Texas	2020-04-16		1	12			0	0		0	0	0.0	0.29		https://www.dshs.state.tx.us/
 Erie_County,_New_York	Erie County, New York	2020-04-16	2020-04-16T18:00:00.000Z	109	1850		7672	0	5		-182	-5	9.0	63.0		https://coronavirus.health.ny.gov/
 Erie_County,_Ohio	Erie County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	1	19			3	0		1	0	0.0	1.29		https://coronavirus.ohio.gov/
 Erie_County,_Pennsylvania	Erie County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		46		1214	4			3			2.0		https://www.health.pa.gov/
-Eritrea	Eritrea	2020-04-16	2020-05-15T11:41:17.000Z	0	35			0	0	0	-1	0	0.0	0.29		https://www.ecdc.europa.eu/
+Eritrea	Eritrea	2020-04-16	2020-05-16T11:41:18.000Z	0	35			0	0	0	-1	0	0.0	0.29		https://www.ecdc.europa.eu/
 Escambia_County,_Alabama	Escambia County, Alabama	2020-04-16		0	12			1			0			1.0		https://covid19.alabama.gov/
 Escambia_County,_Florida	Escambia County, Florida	2020-04-16		4	277			16	0		2	0	0.14	12.14		https://floridahealthcovid19.gov/
 Espinho,_Portugal	Espinho, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		51			6			6					https://covid19.min-saude.pt/
@@ -1024,8 +1025,8 @@ Essex_County,_Vermont	Essex County, Vermont	2020-04-16	2020-04-16T09:20:00.000Z	
 Essex_County,_Virginia	Essex County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		2			2			2			0.29		http://www.vdh.virginia.gov/
 Estarreja	Estarreja	2020-04-16	2020-04-15T23:00:00.000Z		48			0			0					https://covid19.min-saude.pt/
 Estonia	Estonia	2020-04-16	2020-04-16T11:45:00.000Z	36	1434	133	36024	34	4	16	7	1	1.71	32.43	8.71	https://www.terviseamet.ee/
-Eswatini	Swaziland	2020-04-16	2020-05-15T11:41:17.000Z	0	16			1	0	0	1	0	0.0	0.57		https://www.ecdc.europa.eu/
-Ethiopia	Ethiopia	2020-04-16	2020-05-15T11:41:17.000Z	3	85			3	0	0	-5	0	0.14	4.29		https://www.ecdc.europa.eu/
+Eswatini	Swaziland	2020-04-16	2020-05-16T11:41:18.000Z	0	16			1	0	0	1	0	0.0	0.57		https://www.ecdc.europa.eu/
+Ethiopia	Ethiopia	2020-04-16	2020-05-16T11:41:18.000Z	3	85			3	0	0	-5	0	0.14	4.29		https://www.ecdc.europa.eu/
 Etowah_County,_Alabama	Etowah County, Alabama	2020-04-16		8	87			8	0		7	-2	0.57	4.86		https://covid19.alabama.gov/
 Evangeline_Parish,_Louisiana	Evangeline Parish, Louisiana	2020-04-16		0	41			1			0			1.43		http://ldh.la.gov/
 Evans_County,_Georgia	Evans County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	2			0	0		0	0				https://dph.georgia.gov/
@@ -1037,7 +1038,7 @@ Fairfax_County,_Virginia	Fairfax County, Virginia	2020-04-16	2020-04-16T10:00:00
 Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-04-16	2020-04-16T16:30:00.000Z	406	6816			336	41		69	-37	32.57	276.29		https://portal.ct.gov/
 Fairfield_County,_Ohio	Fairfield County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	2	96			4	1		2	1	0.29	4.0		https://coronavirus.ohio.gov/
 Fairfield_County,_South_Carolina	Fairfield County, South Carolina	2020-04-16		0	25			1			1			1.14		https://www.scdhec.gov/
-Falkland_Islands	Falkland Islands	2020-04-16	2020-05-15T11:41:17.000Z	0	11			0	0	0	0	0	0.0	0.86		https://www.ecdc.europa.eu/
+Falkland_Islands	Falkland Islands	2020-04-16	2020-05-16T11:41:18.000Z	0	11			0	0	0	0	0	0.0	0.86		https://www.ecdc.europa.eu/
 Fall_River_County,_South_Dakota	Fall River County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		1			0		1	0			0.0		https://doh.sd.gov/
 Falls_Church,_Virginia	Falls Church, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		0			0			2			0.0		http://www.vdh.virginia.gov/
 Falls_County,_Texas	Falls County, Texas	2020-04-16			1			0			0			0.0		https://www.dshs.state.tx.us/
@@ -1045,7 +1046,7 @@ Fannin_County,_Georgia	Fannin County, Georgia	2020-04-16	2020-04-16T22:28:21+000
 Fannin_County,_Texas	Fannin County, Texas	2020-04-16			5			0			0			0.14		https://www.dshs.state.tx.us/
 Faribault_County,_Minnesota	Faribault County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	4			0	0		0	0	0.0	0.0		https://www.health.state.mn.us/
 Faro,_Portugal	Faro, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		54			1			0					https://covid19.min-saude.pt/
-Faroe_Islands	Faroe Islands	2020-04-16	2020-05-15T11:41:17.000Z	0	184			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Faroe_Islands	Faroe Islands	2020-04-16	2020-05-16T11:41:18.000Z	0	184			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Faulk_County,_South_Dakota	Faulk County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		1			0		1	0			0.0		https://doh.sd.gov/
 Faulkner_County,_Arkansas	Faulkner County, Arkansas	2020-04-16		2	59	32		1	0	2	1	0	0.14	0.43	1.57	https://www.healthy.arkansas.gov/
 Fauquier_County,_Virginia	Fauquier County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		32			3			2			1.71		http://www.vdh.virginia.gov/
@@ -1065,14 +1066,14 @@ Fentress_County,_Tennessee	Fentress County, Tennessee	2020-04-16	2020-04-16T19:0
 Ferry_County,_Washington	Ferry County, Washington	2020-04-16		0	1			0			0			0.0		https://coronavirus.wa.gov/
 Figueira_da_Foz	Figueira da Foz	2020-04-16	2020-04-15T23:00:00.000Z		17			3			3					https://covid19.min-saude.pt/
 Figueira_de_Castelo_Rodrigo	Figueira de Castelo Rodrigo	2020-04-16	2020-04-15T23:00:00.000Z		3			0			0					https://covid19.min-saude.pt/
-Fiji	Fiji	2020-04-16	2020-05-15T11:41:17.000Z	0	16			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Fiji	Fiji	2020-04-16	2020-05-16T11:41:18.000Z	0	16			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Fillmore_County,_Minnesota	Fillmore County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	10			0	0		0	0	0.0	0.0		https://www.health.state.mn.us/
 Fillmore_County%2C_Nebraska	Fillmore County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
 Finland	Finland	2020-04-16	2020-04-16T17:55:00.000Z	75	3369	1700	49700	132	8	8	56	3	4.71	109.14		https://thl.fi/fi/
 Finney_County,_Kansas	Finney County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		19			2			1			1.0		https://www.coronavirus.kdheks.gov
 Flagler_County,_Florida	Flagler County, Florida	2020-04-16		2	50			4	0		3	0	0.14	1.29		https://floridahealthcovid19.gov/
 Flathead_County,_Montana	Flathead County, Montana	2020-04-16		1	37			0	0		-1	0		0.86		https://dphhs.mt.gov/
-Flemish_Brabant	Flemish Brabant	2020-04-16	2020-04-16		3915			126			17			127.71		https://epistat.wiv-isp.be/Covid/
+Flemish_Brabant	Flemish Brabant	2020-04-16	2020-04-16		3917			126			16			128.0		https://epistat.wiv-isp.be/Covid/
 Florence_County,_South_Carolina	Florence County, South Carolina	2020-04-16		7	103			16	0		11	0	0.29	7.14		https://www.scdhec.gov/
 Florence_County,_Wisconsin	Florence County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	0	2			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Florida	Florida	2020-04-16		668	23340			821	54		-70	11	42.43	930.57		https://floridahealthcovid19.gov/
@@ -1127,7 +1128,7 @@ Fremont_County,_Colorado	Fremont County, Colorado	2020-04-16			9			0			-1			0.57
 Fremont_County,_Idaho	Fremont County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	0	2			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Fremont_County,_Wyoming	Fremont County, Wyoming	2020-04-16	2020-04-16T06:00:00+0000		43			1			1			0.5		https://health.wyo.gov/
 French_Guiana	French Guiana	2020-04-16		0	96			1	0		-6	0	0.0	1.86		https://www.who.int/
-French_Polynesia	French Polynesia	2020-04-16	2020-05-15T11:41:17.000Z	0	55			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
+French_Polynesia	French Polynesia	2020-04-16	2020-05-16T11:41:18.000Z	0	55			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
 Fresno_County,_California	Fresno County, California	2020-04-16		7	289	70	4285	24	0	8	3	-2	0.57	17.71		https://www.cdph.ca.gov/
 Frio_County,_Texas	Frio County, Texas	2020-04-16			1			0			0			0.0		https://www.dshs.state.tx.us/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-04-16		217	2616	1069	35766	72	5	131	48	-1	6.57	45.29	47.29	http://www.salute.gov.it/
@@ -1141,7 +1142,7 @@ Fulton_County,_Ohio	Fulton County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	0	10
 Fulton_County,_Pennsylvania	Fulton County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		2		52	0			0			0.14		https://www.health.pa.gov/
 Funchal	Funchal	2020-04-16	2020-04-15T23:00:00.000Z		27			0			0					https://covid19.min-saude.pt/
 Furnas_County%2C_Nebraska	Furnas County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
-Gabon	Gabon	2020-04-16	2020-05-15T11:41:17.000Z	1	87			7	0	0	-16	0	0.0	7.71		https://www.ecdc.europa.eu/
+Gabon	Gabon	2020-04-16	2020-05-16T11:41:18.000Z	1	87			7	0	0	-16	0	0.0	7.71		https://www.ecdc.europa.eu/
 Gadsden_County,_Florida	Gadsden County, Florida	2020-04-16		0	44			4			2			4.57		https://floridahealthcovid19.gov/
 Gage_County%2C_Nebraska	Gage County, Nebraska	2020-04-16			26			0			0			0.29		http://dhhs.ne.gov/
 Gaines_County,_Texas	Gaines County, Texas	2020-04-16			2			0			0			0.14		https://www.dshs.state.tx.us/
@@ -1175,7 +1176,7 @@ Georgia_(U.S._state)	Georgia	2020-04-16	2020-04-16T22:28:21+0000	617	16368		6793
 Georgia_(country)	Georgia (country)	2020-04-16		3	370			34	0	0	4	0	0.0	20.0		https://www.who.int/
 Germany	Germany	2020-04-16	2020-04-16T00:00:00.000Z	3569	130450	77000		2866	315	4400	380	30	208.86	3178.29		https://www.rki.de/
 Ghana	Ghana	2020-04-16	2020-04-15T23:00:00.000Z	8	641	17	50719	5	0	0	5	0	0.29	46.86	2.0	https://www.ghanahealthservice.org/covid19/
-Gibraltar	Gibraltar	2020-04-16	2020-05-15T11:41:17.000Z	0	131			2	0	0	2	0	0.0	1.57		https://www.ecdc.europa.eu/
+Gibraltar	Gibraltar	2020-04-16	2020-05-16T11:41:18.000Z	0	131			2	0	0	2	0	0.0	1.57		https://www.ecdc.europa.eu/
 Gibson_County,_Indiana	Gibson County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	0	4		34	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Gibson_County,_Tennessee	Gibson County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z		25	13		1		1	-2			1.29		https://www.tn.gov/
 Gila_County,_Arizona	Gila County, Arizona	2020-04-16	2020-04-16T00:00:00.000Z	0	5		374	2	0		2	0		0.29		https://azdhs.gov/
@@ -1262,7 +1263,7 @@ Greene_County,_Ohio	Greene County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	1	33
 Greene_County,_Pennsylvania	Greene County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		24		310	1			1			0.43		https://www.health.pa.gov/
 Greene_County,_Tennessee	Greene County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z	2	29	23		1	0	4	0	0	0.14	1.0		https://www.tn.gov/
 Greene_County,_Virginia	Greene County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		5			0			0			0.14		http://www.vdh.virginia.gov/
-Greenland	Greenland	2020-04-16	2020-05-15T11:41:17.000Z	0	11			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Greenland	Greenland	2020-04-16	2020-05-16T11:41:18.000Z	0	11			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Greenlee_County,_Arizona	Greenlee County, Arizona	2020-04-16	2020-04-16T00:00:00.000Z	0	2		60	0	0		0	0		0.14		https://azdhs.gov/
 Greensville_County,_Virginia	Greensville County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		16			0			-1			1.43		http://www.vdh.virginia.gov/
 Greenville_County,_South_Carolina	Greenville County, South Carolina	2020-04-16		11	436			36	0		9	-1	1.14	26.0		https://www.scdhec.gov/
@@ -1270,7 +1271,7 @@ Greenwood_County,_Kansas	Greenwood County, Kansas	2020-04-16	2020-04-16T10:00:00
 Greenwood_County,_South_Carolina	Greenwood County, South Carolina	2020-04-16		0	31			12			11			2.29		https://www.scdhec.gov/
 Greer_County,_Oklahoma	Greer County, Oklahoma	2020-04-16	2020-04-16T12:00:00+0000	4	50			0	0		-1	0	0.0	1.86		https://coronavirus.health.ok.gov/
 Gregg_County,_Texas	Gregg County, Texas	2020-04-16			48			2			1			1.86		https://www.dshs.state.tx.us/
-Grenada	Grenada	2020-04-16	2020-05-15T11:41:17.000Z	0	14			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
+Grenada	Grenada	2020-04-16	2020-05-16T11:41:18.000Z	0	14			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 Grenada_County,_Mississippi	Grenada County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000		14			0			-1			0.57		https://msdh.ms.gov/
 Grimes_County,_Texas	Grimes County, Texas	2020-04-16		1	9			2			2			0.57		https://www.dshs.state.tx.us/
 Grundy_County,_Illinois	Grundy County, Illinois	2020-04-16		0	24			0			0			1.57		http://www.dph.illinois.gov/
@@ -1279,24 +1280,24 @@ Grundy_County,_Tennessee	Grundy County, Tennessee	2020-04-16	2020-04-16T19:00:00
 Guadalupe_County,_New_Mexico	Guadalupe County, New Mexico	2020-04-16		0	0			0			0			0.0		https://cv.nmhealth.org
 Guadalupe_County,_Texas	Guadalupe County, Texas	2020-04-16			53			3			3			1.0		https://www.dshs.state.tx.us/
 Guadeloupe	Guadeloupe	2020-04-16		8	145			0	0		0	0	0.0	0.57		https://www.who.int/
-Guam	Guam	2020-04-16	2020-05-15T11:41:17.000Z	5	135			0	0	0	-1	0	0.14	1.43		https://www.ecdc.europa.eu/
+Guam	Guam	2020-04-16	2020-05-16T11:41:18.000Z	5	135			0	0	0	-1	0	0.14	1.43		https://www.ecdc.europa.eu/
 Guarda,_Portugal	Guarda, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		17			1			1					https://covid19.min-saude.pt/
-Guatemala	Guatemala	2020-04-16	2020-05-15T11:41:17.000Z	5	196			16	0	0	3	0	0.29	14.43		https://www.ecdc.europa.eu/
+Guatemala	Guatemala	2020-04-16	2020-05-16T11:41:18.000Z	5	196			16	0	0	3	0	0.29	14.43		https://www.ecdc.europa.eu/
 Guelmim-Oued_Noun	Guelmim-Oued Noun	2020-04-16	2020-04-15T17:00:00+0000		1			0			0					http://www.covidmaroc.ma/
-Guernsey	Guernsey	2020-04-16	2020-05-15T11:41:17.000Z	7	223			0	0	0	-4	-1	0.29	6.0		https://www.ecdc.europa.eu/
+Guernsey	Guernsey	2020-04-16	2020-05-16T11:41:18.000Z	7	223			0	0	0	-4	-1	0.29	6.0		https://www.ecdc.europa.eu/
 Guernsey_County,_Ohio	Guernsey County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	0	10			0	0		-3	0	0.0	0.86		https://coronavirus.ohio.gov/
 Guilford_County,_North_Carolina	Guilford County, North Carolina	2020-04-16		10	154			5	0		-7	0	0.29	4.14		https://www.ncdhhs.gov/
-Guinea	Guinea	2020-04-16	2020-05-15T11:41:17.000Z	1	404			41	1	1	-3	1	0.14	34.29		https://www.ecdc.europa.eu/
-Guinea-Bissau	Guinea-Bissau	2020-04-16	2020-05-15T11:41:17.000Z	0	43			3	0	0	2	0	0.0	1.43		https://www.ecdc.europa.eu/
+Guinea	Guinea	2020-04-16	2020-05-16T11:41:18.000Z	1	404			41	1	1	-3	1	0.14	34.29		https://www.ecdc.europa.eu/
+Guinea-Bissau	Guinea-Bissau	2020-04-16	2020-05-16T11:41:18.000Z	0	43			3	0	0	2	0	0.0	1.43		https://www.ecdc.europa.eu/
 Gujarat	Gujarat	2020-04-16		36	871	64		176	6	5	98	2				https://www.mohfw.gov.in/
 Gulf_County,_Florida	Gulf County, Florida	2020-04-16		0	1			0			0			0.0		https://floridahealthcovid19.gov/
 Gunnison_County,_Colorado	Gunnison County, Colorado	2020-04-16			111			7			2			1.71		https://covid19.colorado.gov/
 Guthrie_County,_Iowa	Guthrie County, Iowa	2020-04-16		0	3			0			-2			0.14		https://idph.iowa.gov/
-Guyana	Guyana	2020-04-16	2020-05-15T11:41:17.000Z	6	55			7	0	0	6	0	0.0	2.57		https://www.ecdc.europa.eu/
+Guyana	Guyana	2020-04-16	2020-05-16T11:41:18.000Z	6	55			7	0	0	6	0	0.0	2.57		https://www.ecdc.europa.eu/
 Gwinnett_County,_Georgia	Gwinnett County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	32	917			65	3		28	3	2.14	42.71		https://dph.georgia.gov/
 Habersham_County,_Georgia	Habersham County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	2	57			28	1		27	1	0.29	6.57		https://dph.georgia.gov/
 Hainaut_Province	Hainaut Province	2020-04-16	2020-04-16		4158			213			70			130.43		https://epistat.wiv-isp.be/Covid/
-Haiti	Haiti	2020-04-16	2020-05-15T11:41:17.000Z	3	41			0	0	0	-1	0	0.14	1.57		https://www.ecdc.europa.eu/
+Haiti	Haiti	2020-04-16	2020-05-16T11:41:18.000Z	3	41			0	0	0	-1	0	0.14	1.57		https://www.ecdc.europa.eu/
 Hale_County,_Alabama	Hale County, Alabama	2020-04-16		0	22			3			1			2.14		https://covid19.alabama.gov/
 Hale_County,_Texas	Hale County, Texas	2020-04-16		2	11			0	0		0	0	0.14	0.29		https://www.dshs.state.tx.us/
 Halifax_County,_North_Carolina	Halifax County, North Carolina	2020-04-16		0	26			1			1			1.57		https://www.ncdhhs.gov/
@@ -1420,7 +1421,7 @@ Holmes_County,_Mississippi	Holmes County, Mississippi	2020-04-16	2020-04-16T05:0
 Holmes_County,_Ohio	Holmes County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	0	3			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Holt_County,_Missouri	Holt County, Missouri	2020-04-16			1			0			0			0.05		https://health.mo.gov/
 Holt_County,_Nebraska	Holt County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
-Honduras	Honduras	2020-04-16	2020-05-15T11:41:17.000Z	35	426			7	4	4	-5	-1	1.71	11.86		https://www.ecdc.europa.eu/
+Honduras	Honduras	2020-04-16	2020-05-16T11:41:18.000Z	35	426			7	4	4	-5	-1	1.71	11.86		https://www.ecdc.europa.eu/
 Honolulu_County,_Hawaii	Honolulu County, Hawaii	2020-04-16	2020-04-16T22:00:00+0000		373			4			-7			5.57		https://health.hawaii.gov/
 Hood_County,_Texas	Hood County, Texas	2020-04-16		1	15			0	0		0	0	0.0	0.57		https://www.dshs.state.tx.us/
 Hood_River_County,_Oregon	Hood River County, Oregon	2020-04-16	2020-04-16T15:00:00+0000	0	4		333	0	0		0	0	0.0	0.14		https://govstatus.egov.com/OR-OHA-COVID-19
@@ -1471,7 +1472,7 @@ Imperial_County,_California	Imperial County, California	2020-04-16		3	132	40	101
 Independence_County,_Arkansas	Independence County, Arkansas	2020-04-16		0	6	4		0		0	0			0.14	0.0	https://www.healthy.arkansas.gov/
 India	India	2020-04-16	2020-04-16T17:00:00.000Z	420	12758	1514		826	37	171	-291	-1	35.86	984.71	148.14	https://www.mohfw.gov.in/
 Indian_River_County,_Florida	Indian River County, Florida	2020-04-16		2	83			5	1		4	1		2.14		https://floridahealthcovid19.gov/
-Indiana	Indiana	2020-04-16		596	10095		66009	611	41	41	30	4	32.0	458.71		https://coronavirus.in.gov/
+Indiana	Indiana	2020-04-16		596	10093		66011	611	41	41	31	4	32.0	458.43		https://coronavirus.in.gov/
 Indiana_County,_Pennsylvania	Indiana County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000	2	44		419	1	1		1	1		3.29		https://www.health.pa.gov/
 Indonesia	Indonesia	2020-04-16	2020-04-16T16:05:00.000Z	496	5516	548		380	10	102	83	-50	30.86	317.57	42.29	https://www.covid19.go.id/
 Ingham_County,_Michigan	Ingham County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	6	278			8	1		1	0	0.43	8.0		https://www.michigan.gov/
@@ -1493,14 +1494,14 @@ Irwin_County,_Georgia	Irwin County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	
 Isabella_County,_Michigan	Isabella County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	5	45			2	1		1	1	0.43	2.43		https://www.michigan.gov/
 Isanti_County,_Minnesota	Isanti County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	4			0	0		0	0	0.0	0.0		https://www.health.state.mn.us/
 Island_County,_Washington	Island County, Washington	2020-04-16		8	159			0	0		-3	-1	0.14	1.43		https://coronavirus.wa.gov/
-Isle_of_Man	Isle of Man	2020-04-16	2020-05-15T11:41:17.000Z	2	254			12	0	0	12	0	0.14	13.71		https://www.ecdc.europa.eu/
+Isle_of_Man	Isle of Man	2020-04-16	2020-05-16T11:41:18.000Z	2	254			12	0	0	12	0	0.14	13.71		https://www.ecdc.europa.eu/
 Isle_of_Wight	Isle of Wight	2020-04-16	2020-05-14T13:44:03.000Z		68			8			4			3.0		https://www.gov.uk/
 Isle_of_Wight_County,_Virginia	Isle of Wight County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		63			3			3			5.57		http://www.vdh.virginia.gov/
 Israel	Israel	2020-04-16	2020-04-16T20:20:00.000Z	142	12758	2818		558	7	509	404	0	8.0	398.57	258.14	https://t.me/s/MOHreport
 Italy	Italy	2020-04-16	2020-04-16T18:00:00.000Z	22170	168941	40164	1178403	3786	578	2072	1119	-26	555.86	3616.43	1670.57	http://www.salute.gov.it/
 Itasca_County,_Minnesota	Itasca County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	2			0	0		0	0	0.0	0.0		https://www.health.state.mn.us/
 Itawamba_County,_Mississippi	Itawamba County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000		13			2			0			0.86		https://msdh.ms.gov/
-Ivory_Coast	Ivory Coast	2020-04-16	2020-05-15T11:41:17.000Z	6	654			16	0	0	4	0	0.43	38.57		https://www.ecdc.europa.eu/
+Ivory_Coast	Ivory Coast	2020-04-16	2020-05-16T11:41:18.000Z	6	654			16	0	0	4	0	0.43	38.57		https://www.ecdc.europa.eu/
 Izard_County,_Arkansas	Izard County, Arkansas	2020-04-16		0	2	1		0		0	0			0.14	0.0	https://www.healthy.arkansas.gov/
 Jack_County,_Texas	Jack County, Texas	2020-04-16			3			0			-1			0.29		https://www.dshs.state.tx.us/
 Jackson_County,_Alabama	Jackson County, Alabama	2020-04-16		2	32			1	0		-1	0	0.14	1.43		https://covid19.alabama.gov/
@@ -1525,7 +1526,7 @@ Jackson_County,_Texas	Jackson County, Texas	2020-04-16			4			0			0			0.0		https:
 Jackson_County,_West_Virginia	Jackson County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		34			0			-3			2.0		https://dhhr.wv.gov/
 Jackson_County,_Wisconsin	Jackson County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	1	11			1	0		1	0	0.14	0.57		https://www.dhs.wisconsin.gov/
 Jackson_Parish,_Louisiana	Jackson Parish, Louisiana	2020-04-16		0	12			1			-1			0.71		http://ldh.la.gov/
-Jamaica	Jamaica	2020-04-16	2020-05-15T11:41:17.000Z	5	125			20	0	0	-12	-1	0.14	8.86		https://www.ecdc.europa.eu/
+Jamaica	Jamaica	2020-04-16	2020-05-16T11:41:18.000Z	5	125			20	0	0	-12	-1	0.14	8.86		https://www.ecdc.europa.eu/
 James_City_County,_Virginia	James City County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		135			3			-1			1.71		http://www.vdh.virginia.gov/
 Jammu_and_Kashmir_(state)	Jammu and Kashmir (state)	2020-04-16		4	300	36		22	0	6	14	0				https://www.mohfw.gov.in/
 Japan	Japan	2020-04-16	2020-04-16T12:00:00.000Z	136	8582	935	100703	482	17	34	27	7	7.29	544.86	35.71	https://www.mhlw.go.jp/
@@ -1570,7 +1571,7 @@ Jenkins_County,_Georgia	Jenkins County, Georgia	2020-04-16	2020-04-16T22:28:21+0
 Jennings_County,_Indiana	Jennings County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	0	63		155	3	0		1	0	0.0	2.57		https://coronavirus.in.gov/
 Jerauld_County,_South_Dakota	Jerauld County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		4			1		2	1			0.43		https://doh.sd.gov/
 Jerome_County,_Idaho	Jerome County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	2	35			2	0		-1	0	0.0	1.57		https://coronavirus.idaho.gov/
-Jersey	Jersey	2020-04-16	2020-05-15T11:41:17.000Z	6	217			0	2	2	0	2	0.43	6.71		https://www.ecdc.europa.eu/
+Jersey	Jersey	2020-04-16	2020-05-16T11:41:18.000Z	6	217			0	2	2	0	2	0.43	6.71		https://www.ecdc.europa.eu/
 Jersey_County,_Illinois	Jersey County, Illinois	2020-04-16		0	8			0			-2			0.43		http://www.dph.illinois.gov/
 Jewell_County,_Kansas	Jewell County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		3			0			0			0.14		https://www.coronavirus.kdheks.gov
 Jharkhand	Jharkhand	2020-04-16		2	28	0		1	0	0	-2	0				https://www.mohfw.gov.in/
@@ -1630,7 +1631,7 @@ Kent_County,_Delaware	Kent County, Delaware	2020-04-16		9	352			7	1		-9	0		19.71
 Kent_County,_Maryland	Kent County, Maryland	2020-04-16		1	11			0			0			0.29		https://coronavirus.maryland.gov/
 Kent_County,_Michigan	Kent County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	17	385			31	1		2	-1	1.14	21.71		https://www.michigan.gov/
 Kentucky	Kentucky	2020-04-16	2020-04-16T17:00:00.000Z	129	2429		29747	138	7		57	0	8.0	154.71		https://govstatus.egov.com/
-Kenya	Kenya	2020-04-16	2020-05-15T11:41:17.000Z	10	225			9	1	1	1	1	0.57	6.57		https://www.ecdc.europa.eu/
+Kenya	Kenya	2020-04-16	2020-05-16T11:41:18.000Z	10	225			9	1	1	1	1	0.57	6.57		https://www.ecdc.europa.eu/
 Keokuk_County,_Iowa	Keokuk County, Iowa	2020-04-16		0	2			0			0			0.09		https://idph.iowa.gov/
 Kerala	Kerala	2020-04-16		3	388	218		1	0	7	-7	0				https://www.mohfw.gov.in/
 Kern_County,_California	Kern County, California	2020-04-16		3	587	203		25	0		-13	0	0.0	35.71		https://www.cdph.ca.gov/
@@ -1670,7 +1671,7 @@ Kootenai_County,_Idaho	Kootenai County, Idaho	2020-04-16	2020-04-16T17:00:00.000
 Kosciusko_County,_Indiana	Kosciusko County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	1	21		335	2	0		2	0	0.0	0.71		https://coronavirus.in.gov/
 Kossuth_County,_Iowa	Kossuth County, Iowa	2020-04-16		0	1			0			0			0.0		https://idph.iowa.gov/
 Kuwait	Kuwait	2020-04-16	2020-04-16T00:00:00.000Z	3	1524	225		119	0	19	69	-1	0.29	87.71	16.29	https://corona.e.gov.kw/
-Kyrgyzstan	Kyrgyzstan	2020-04-16	2020-05-15T11:41:17.000Z	5	466			17	0	0	-2	0	0.14	26.57		https://www.ecdc.europa.eu/
+Kyrgyzstan	Kyrgyzstan	2020-04-16	2020-05-16T11:41:18.000Z	5	466			17	0	0	-2	0	0.14	26.57		https://www.ecdc.europa.eu/
 LaGrange_County,_Indiana	LaGrange County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	1	15		69	1	0		0	0	0.0	1.14		https://coronavirus.in.gov/
 LaPorte_County,_Indiana	LaPorte County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	5	112		697	70	1		64	0	0.29	11.71		https://coronavirus.in.gov/
 LaSalle_County,_Illinois	LaSalle County, Illinois	2020-04-16		1	25			1	0		0	0	0.0	1.14		http://www.dph.illinois.gov/
@@ -1720,7 +1721,7 @@ Lane_County,_Kansas	Lane County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		0		
 Lane_County,_Oregon	Lane County, Oregon	2020-04-16	2020-04-16T15:00:00+0000	1	45		1720	1	0		-1	0	0.0	1.71		https://govstatus.egov.com/OR-OHA-COVID-19
 Langlade_County,_Wisconsin	Langlade County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Lanier_County,_Georgia	Lanier County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	1	6			1	0		1	0	0.14	0.14		https://dph.georgia.gov/
-Laos	Laos	2020-04-16	2020-05-15T11:41:17.000Z	0	19			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
+Laos	Laos	2020-04-16	2020-05-16T11:41:18.000Z	0	19			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
 Lapeer_County,_Michigan	Lapeer County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	13	131			6	3		-2	2	1.14	7.71		https://www.michigan.gov/
 Laramie_County,_Wyoming	Laramie County, Wyoming	2020-04-16	2020-04-16T06:00:00+0000		67			3			1			2.2		https://health.wyo.gov/
 Larimer_County,_Colorado	Larimer County, Colorado	2020-04-16			217			15			11			6.14		https://covid19.colorado.gov/
@@ -1784,14 +1785,14 @@ Lewis_County,_West_Virginia	Lewis County, West Virginia	2020-04-16	2020-04-16T10
 Lewis_and_Clark_County,_Montana	Lewis and Clark County, Montana	2020-04-16		0	16			0			0			0.0		https://dphhs.mt.gov/
 Lexington,_Virginia	Lexington, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		3			0			0			0.0		http://www.vdh.virginia.gov/
 Lexington_County,_South_Carolina	Lexington County, South Carolina	2020-04-16		8	267			49	0		39	0	0.29	15.14		https://www.scdhec.gov/
-Liberia	Liberia	2020-04-16	2020-05-15T11:41:17.000Z	6	59			0	0	0	0	0	0.29	4.0		https://www.ecdc.europa.eu/
+Liberia	Liberia	2020-04-16	2020-05-16T11:41:18.000Z	6	59			0	0	0	0	0	0.29	4.0		https://www.ecdc.europa.eu/
 Liberty_County,_Florida	Liberty County, Florida	2020-04-16		0	2			0			0					https://floridahealthcovid19.gov/
 Liberty_County,_Georgia	Liberty County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	26			0	0		-5	0	0.0	1.71		https://dph.georgia.gov/
 Liberty_County,_Montana	Liberty County, Montana	2020-04-16		0	1			0			0			0.0		https://dphhs.mt.gov/
 Liberty_County,_Texas	Liberty County, Texas	2020-04-16			25			2			-1			1.43		https://www.dshs.state.tx.us/
-Libya	Libya	2020-04-16	2020-05-15T11:41:17.000Z	1	48			13	0	0	4	0	0.0	3.86		https://www.ecdc.europa.eu/
+Libya	Libya	2020-04-16	2020-05-16T11:41:18.000Z	1	48			13	0	0	4	0	0.0	3.86		https://www.ecdc.europa.eu/
 Licking_County,_Ohio	Licking County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	4	92			4	1		2	1	0.14	2.0		https://coronavirus.ohio.gov/
-Liechtenstein	Liechtenstein	2020-04-16	2020-05-15T11:41:17.000Z	1	81			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
+Liechtenstein	Liechtenstein	2020-04-16	2020-05-16T11:41:18.000Z	1	81			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 Lightship_Nantucket	Lightship Nantucket	2020-04-16	2020-04-16T16:00:00.000Z		9			0			0			0.0		https://www.mass.gov/
 Liguria	Liguria	2020-04-16		828	6039	1774	26945	103	21	109	-25	7	20.86	145.57	98.43	http://www.salute.gov.it/
 Limburg_(Belgium)	Limburg (Belgium)	2020-04-16	2020-04-16		4593			126			30			131.43		https://epistat.wiv-isp.be/Covid/
@@ -1835,7 +1836,7 @@ Livingston_County,_Michigan	Livingston County, Michigan	2020-04-16	2020-04-16T19
 Livingston_County,_Missouri	Livingston County, Missouri	2020-04-16			2			0			0			0.06		https://health.mo.gov/
 Livingston_County,_New_York	Livingston County, New York	2020-04-16	2020-04-16T14:00:00.000Z	1	32		373	0	0		-1	0	0.0	0.43		https://coronavirus.health.ny.gov/
 Livingston_Parish,_Louisiana	Livingston Parish, Louisiana	2020-04-16		5	136			3	0		-1	-1	0.57	4.71		http://ldh.la.gov/
-Li%C3%A8ge_Province	Liège Province	2020-04-16	2020-04-16		4737			132			-319			186.57		https://epistat.wiv-isp.be/Covid/
+Li%C3%A8ge_Province	Liège Province	2020-04-16	2020-04-16		4736			132			-318			186.43		https://epistat.wiv-isp.be/Covid/
 Llano_County,_Texas	Llano County, Texas	2020-04-16			3			0			0			0.0		https://www.dshs.state.tx.us/
 Logan_County,_Arkansas	Logan County, Arkansas	2020-04-16		0	2	1		0			0			0.14		https://www.healthy.arkansas.gov/
 Logan_County,_Colorado	Logan County, Colorado	2020-04-16			17			4			4			0.57		https://covid19.colorado.gov/
@@ -1919,7 +1920,7 @@ Macon_County,_Missouri	Macon County, Missouri	2020-04-16			2			0			0			0.06		htt
 Macon_County,_North_Carolina	Macon County, North Carolina	2020-04-16		1	2			0	0		0	0	0.0	0.0		https://www.ncdhhs.gov/
 Macon_County,_Tennessee	Macon County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z	3	30	8		1	0	0	-1	-1	0.29	1.71		https://www.tn.gov/
 Macoupin_County,_Illinois	Macoupin County, Illinois	2020-04-16		0	18			1			0			0.86		http://www.dph.illinois.gov/
-Madagascar	Madagascar	2020-04-16	2020-05-15T11:41:17.000Z	0	110			0	0	0	-4	0	0.0	2.43		https://www.ecdc.europa.eu/
+Madagascar	Madagascar	2020-04-16	2020-05-16T11:41:18.000Z	0	110			0	0	0	-4	0	0.0	2.43		https://www.ecdc.europa.eu/
 Madalena,_Azores	Madalena, Azores	2020-04-16	2020-04-15T23:00:00.000Z		5			0			0					https://covid19.min-saude.pt/
 Madera_County,_California	Madera County, California	2020-04-16		2	34	20		1	0	1	1	0	0.0	0.57		https://www.cdph.ca.gov/
 Madhya_Pradesh	Madhya Pradesh	2020-04-16		53	1120	64		133	0	0	-124	-3				https://www.mohfw.gov.in/
@@ -1950,12 +1951,12 @@ Mahoning_County,_Ohio	Mahoning County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	
 Maia,_Portugal	Maia, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		686			14			-13					https://covid19.min-saude.pt/
 Maine	Maine	2020-04-16	2020-04-16T15:45:00+0000	27	796	333		26	3	28	-10	-1	1.57	33.71	18.71	https://www.maine.gov/
 Major_County,_Oklahoma	Major County, Oklahoma	2020-04-16	2020-04-16T12:00:00+0000	1	2			0	0		0	0	0.14	0.14		https://coronavirus.health.ok.gov/
-Malawi	Malawi	2020-04-16	2020-05-15T11:41:17.000Z	2	16			0	0	0	0	0	0.14	1.14		https://www.ecdc.europa.eu/
+Malawi	Malawi	2020-04-16	2020-05-16T11:41:18.000Z	2	16			0	0	0	0	0	0.14	1.14		https://www.ecdc.europa.eu/
 Malaysia	Malaysia	2020-04-16	2020-04-16T17:00:00.000Z	84	5182	2766		110	1	119	25	-4	2.43	136.29	165.43	http://www.moh.gov.my/
 Maldives	Maldives	2020-04-16		0	23			2	0	0	1	0	0.0	0.57		https://www.who.int/
 Malheur_County,_Oregon	Malheur County, Oregon	2020-04-16	2020-04-16T15:00:00+0000	0	5		168	1	0		1	0	0.0	0.43		https://govstatus.egov.com/OR-OHA-COVID-19
-Mali	Mali	2020-04-16	2020-05-15T11:41:17.000Z	13	148			4	0	0	-17	-3	0.86	12.71		https://www.ecdc.europa.eu/
-Malta	Malta	2020-04-16	2020-05-15T11:41:17.000Z	3	408	82		9	0	38	3	0	0.14	10.14	9.43	https://www.ecdc.europa.eu/
+Mali	Mali	2020-04-16	2020-05-16T11:41:18.000Z	13	148			4	0	0	-17	-3	0.86	12.71		https://www.ecdc.europa.eu/
+Malta	Malta	2020-04-16	2020-05-16T11:41:18.000Z	3	408	82		9	0	38	3	0	0.14	10.14	9.43	https://www.ecdc.europa.eu/
 Manassas,_Virginia	Manassas, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		62			9			5			5.29		http://www.vdh.virginia.gov/
 Manassas_Park,_Virginia	Manassas Park, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		16			2			1			1.57		http://www.vdh.virginia.gov/
 Manatee_County,_Florida	Manatee County, Florida	2020-04-16		20	309			32	1		16	1	1.29	18.57		https://floridahealthcovid19.gov/
@@ -2028,7 +2029,7 @@ Mato_Grosso	Mato Grosso	2020-04-16	2020-04-16T20:30:00.000Z	4	151			0	0		0	0				
 Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-04-16	2020-04-16T20:30:00.000Z	4	121			0	0		0	0				https://covid.saude.gov.br/
 Matosinhos	Matosinhos	2020-04-16	2020-04-15T23:00:00.000Z		824			26			-4					https://covid19.min-saude.pt/
 Maui_County,_Hawaii	Maui County, Hawaii	2020-04-16	2020-04-16T22:00:00+0000		95			3			-1			5.43		https://health.hawaii.gov/
-Mauritania	Mauritania	2020-04-16	2020-05-15T11:41:17.000Z	1	7			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Mauritania	Mauritania	2020-04-16	2020-05-16T11:41:18.000Z	1	7			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Mauritius	Mauritius	2020-04-16	2020-04-16T00:00:00.000Z	9	324	81		0	0	16	0	0	0.29	5.71	8.29	http://www.covid19.mu/
 Maury_County,_Tennessee	Maury County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z		33	24		0		2	0			0.29		https://www.tn.gov/
 Maverick_County,_Texas	Maverick County, Texas	2020-04-16			10			0			0			0.43		https://www.dshs.state.tx.us/
@@ -2156,7 +2157,7 @@ Moimenta_da_Beira	Moimenta da Beira	2020-04-16	2020-04-15T23:00:00.000Z		9			2		
 Moita	Moita	2020-04-16	2020-04-15T23:00:00.000Z		56			2			1					https://covid19.min-saude.pt/
 Moldova	Moldova	2020-04-16	2020-04-16T11:15:00.000Z	51	2049	235	39873	0	6	64	-115	2	3.14	108.57	26.43	https://ansp.md/
 Molise	Molise	2020-04-16		16	263	44	2967	0	1	2	-6	1	0.43	4.14	1.71	http://www.salute.gov.it/
-Monaco	Monaco	2020-04-16	2020-05-15T11:41:17.000Z	3	93			0	1	1	0	1	0.14	1.71		https://www.ecdc.europa.eu/
+Monaco	Monaco	2020-04-16	2020-05-16T11:41:18.000Z	3	93			0	1	1	0	1	0.14	1.71		https://www.ecdc.europa.eu/
 Mongolia	Mongolia	2020-04-16		0	31			1	0	0	1	0	0.0	2.14		https://www.who.int/
 Moniteau_County,_Missouri	Moniteau County, Missouri	2020-04-16			12			6			4			0.59		https://health.mo.gov/
 Monmouth_County,_New_Jersey	Monmouth County, New Jersey	2020-04-16		190	4299			177	23		58	1	13.14	150.14		https://www.nj.gov/
@@ -2181,7 +2182,7 @@ Montague_County,_Texas	Montague County, Texas	2020-04-16			5			0			0			0.57		htt
 Montana	Montana	2020-04-16		7	415			11	0		6	0		11.86		https://dphhs.mt.gov/
 Montcalm_County,_Michigan	Montcalm County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	1	23			0	0		0	0	0.0	0.57		https://www.michigan.gov/
 Montemor-o-Velho	Montemor-o-Velho	2020-04-16	2020-04-15T23:00:00.000Z		15			1			1					https://covid19.min-saude.pt/
-Montenegro	Montenegro	2020-04-16	2020-05-15T11:41:17.000Z	4	288			0	0	0	-14	-1	0.29	5.57		https://www.ecdc.europa.eu/
+Montenegro	Montenegro	2020-04-16	2020-05-16T11:41:18.000Z	4	288			0	0	0	-14	-1	0.29	5.57		https://www.ecdc.europa.eu/
 Monterey_County,_California	Monterey County, California	2020-04-16		3	116	22	2132	10	0	4	4	0	0.0	6.57		https://www.cdph.ca.gov/
 Montezuma_County,_Colorado	Montezuma County, Colorado	2020-04-16			13			1			1			0.71		https://covid19.colorado.gov/
 Montgomery_County,_Alabama	Montgomery County, Alabama	2020-04-16		5	201			18	0		-4	-4	0.57	15.86		https://covid19.alabama.gov/
@@ -2205,7 +2206,7 @@ Montijo,_Portugal	Montijo, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		40			1	
 Montmorency_County,_Michigan	Montmorency County, Michigan	2020-04-16	2020-04-16T19:00:00+0000		2			1			1					https://www.michigan.gov/
 Montour_County,_Pennsylvania	Montour County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		48		2799	4			4			3.29		https://www.health.pa.gov/
 Montrose_County,_Colorado	Montrose County, Colorado	2020-04-16			69			4			2			4.43		https://covid19.colorado.gov/
-Montserrat	Montserrat	2020-04-16	2020-05-15T11:41:17.000Z	0	11			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
+Montserrat	Montserrat	2020-04-16	2020-05-16T11:41:18.000Z	0	11			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 Moody_County,_South_Dakota	Moody County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		1					0						https://doh.sd.gov/
 Moore_County,_North_Carolina	Moore County, North Carolina	2020-04-16		0	67			1			1			1.43		https://www.ncdhhs.gov/
 Moore_County,_Tennessee	Moore County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z		1			0			-1			0.14		https://www.tn.gov/
@@ -2236,7 +2237,7 @@ Moultrie_County,_Illinois	Moultrie County, Illinois	2020-04-16		0	2			0			0			0.
 Mountrail_County,_North_Dakota	Mountrail County, North Dakota	2020-04-16	2020-04-16T16:00:00+0000		29			0			-2			1.29		https://www.health.nd.gov/
 Moura,_Portugal	Moura, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		28			1			1					https://covid19.min-saude.pt/
 Mower_County,_Minnesota	Mower County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	25			0	0		-2	0	0.0	0.71		https://www.health.state.mn.us/
-Mozambique	Mozambique	2020-04-16	2020-05-15T11:41:17.000Z	0	29			1	0	0	0	0	0.0	1.71		https://www.ecdc.europa.eu/
+Mozambique	Mozambique	2020-04-16	2020-05-16T11:41:18.000Z	0	29			1	0	0	0	0	0.0	1.71		https://www.ecdc.europa.eu/
 Multnomah_County,_Oregon	Multnomah County, Oregon	2020-04-16	2020-04-16T15:00:00+0000	26	448		8141	18	4		8	2	1.86	20.86		https://govstatus.egov.com/OR-OHA-COVID-19
 Murray_County,_Georgia	Murray County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	17			0	0		-1	0	0.0	0.71		https://dph.georgia.gov/
 Murray_County,_Minnesota	Murray County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	2			1	0		1	0	0.0	0.14		https://www.health.state.mn.us/
@@ -2250,7 +2251,7 @@ Muskogee_County,_Oklahoma	Muskogee County, Oklahoma	2020-04-16	2020-04-16T12:00:
 Musselshell_County,_Montana	Musselshell County, Montana	2020-04-16		0	3			2			2			0.29		https://dphhs.mt.gov/
 Myanmar	Myanmar	2020-04-16		4	85			11	0	0	-1	0	0.14	9.0		https://www.who.int/
 Nacogdoches_County,_Texas	Nacogdoches County, Texas	2020-04-16		6	69			5	0		-3	-4	0.57	6.29		https://www.dshs.state.tx.us/
-Namibia	Namibia	2020-04-16	2020-05-15T11:41:17.000Z	0	16			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Namibia	Namibia	2020-04-16	2020-05-16T11:41:18.000Z	0	16			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Namur_Province	Namur Province	2020-04-16	2020-04-16		1362			59			-59			52.29		https://epistat.wiv-isp.be/Covid/
 Nance_County,_Nebraska	Nance County, Nebraska	2020-04-16			1											http://dhhs.ne.gov/
 Napa_County,_California	Napa County, California	2020-04-16		2	44		925	6	0		6	0	0.0	2.29		https://www.cdph.ca.gov/
@@ -2269,7 +2270,7 @@ Nelson_County,_Virginia	Nelson County, Virginia	2020-04-16	2020-04-16T10:00:00.0
 Nemaha_County,_Kansas	Nemaha County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		0			0			0			0.0		https://www.coronavirus.kdheks.gov
 Nemaha_County,_Nebraska	Nemaha County, Nebraska	2020-04-16			1			0			0			0.0		http://dhhs.ne.gov/
 Neosho_County,_Kansas	Neosho County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		2			0			0			0.14		https://www.coronavirus.kdheks.gov
-Nepal	Nepal	2020-04-16	2020-05-15T11:41:17.000Z	0	16			0	0	0	0	0	0.0	1.0		https://www.ecdc.europa.eu/
+Nepal	Nepal	2020-04-16	2020-05-16T11:41:18.000Z	0	16			0	0	0	0	0	0.0	1.0		https://www.ecdc.europa.eu/
 Neshoba_County,_Mississippi	Neshoba County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000	1	39			4	0		2	0		3.14		https://msdh.ms.gov/
 Ness_County,_Kansas	Ness County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		0			0			0			0.0		https://www.coronavirus.kdheks.gov
 Netherlands	Netherlands	2020-04-16	2020-04-16T14:55:00.000Z	3315	29214			1061	189	189	327	67	131.29	1064.57		https://www.rivm.nl/
@@ -2289,7 +2290,7 @@ New_Mexico	New Mexico	2020-04-16		44	1597		33394	113	8		36	8	3.86	86.86		https:/
 New_Orleans	New Orleans	2020-04-16		302	5847			78	15		27	4	11.14	86.43		http://ldh.la.gov/
 New_South_Wales	New South Wales	2020-04-16	2020-04-15T05:00:00+0000		2886			16			9					https://www.health.gov.au/
 New_York_(state)	New York (state)	2020-04-16	2020-04-16T00:00:00.000Z	12192	222284		550579	8505	606		-3066	-146	732.14	7396.0		https://coronavirus.health.ny.gov
-New_York_City	New York City	2020-04-16	2020-05-16T01:40:16.025Z	8893	123146		18626	0	438		-12681	-112	534.71	4394.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+New_York_City	New York City	2020-04-16	2020-05-17T00:36:19.774Z	8893	123146		18626	0	438		-12681	-112	534.71	4394.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 New_Zealand	New Zealand	2020-04-16	2020-04-16T09:00:00.000Z	9	1084	770	70160	6	0	42	0	0	1.14	13.14	64.71	https://www.health.govt.nz/
 Newaygo_County,_Michigan	Newaygo County, Michigan	2020-04-16	2020-04-16T19:00:00+0000		7			0			0			0.57		https://www.michigan.gov/
 Newberry_County,_South_Carolina	Newberry County, South Carolina	2020-04-16		1	22			6	0		5	0	0.0	1.57		https://www.scdhec.gov/
@@ -2304,11 +2305,11 @@ Newton_County,_Missouri	Newton County, Missouri	2020-04-16			9			0			0			0.29		h
 Newton_County,_Texas	Newton County, Texas	2020-04-16			2			0			0			0.14		https://www.dshs.state.tx.us/
 Nez_Perce_County,_Idaho	Nez Perce County, Idaho	2020-04-16	2020-04-16T17:00:00.000Z	10	22			2	0		2	-1	0.71	0.43		https://coronavirus.idaho.gov/
 Niagara_County,_New_York	Niagara County, New York	2020-04-16	2020-04-16T14:00:00.000Z	12	216		1112	0	2		-19	2	1.71	8.57		https://coronavirus.health.ny.gov/
-Nicaragua	Nicaragua	2020-04-16	2020-05-15T11:41:17.000Z	1	9			0	0	0	0	0	0.0	0.43		https://www.ecdc.europa.eu/
+Nicaragua	Nicaragua	2020-04-16	2020-05-16T11:41:18.000Z	1	9			0	0	0	0	0	0.0	0.43		https://www.ecdc.europa.eu/
 Nicholas_County,_West_Virginia	Nicholas County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		3			0			-1			0.14		https://dhhr.wv.gov/
 Nicollet_County,_Minnesota	Nicollet County, Minnesota	2020-04-16	2020-04-16T00:00:00	1	7			0	0		0	0	0.14	0.29		https://www.health.state.mn.us/
-Niger	Niger	2020-04-16	2020-05-15T11:41:17.000Z	14	584			14	0	0	-8	-1	0.43	34.57		https://www.ecdc.europa.eu/
-Nigeria	Nigeria	2020-04-16	2020-05-15T11:41:17.000Z	12	407			34	1	1	4	0	0.86	18.71		https://www.ecdc.europa.eu/
+Niger	Niger	2020-04-16	2020-05-16T11:41:18.000Z	14	584			14	0	0	-8	-1	0.43	34.57		https://www.ecdc.europa.eu/
+Nigeria	Nigeria	2020-04-16	2020-05-16T11:41:18.000Z	12	407			34	1	1	4	0	0.86	18.71		https://www.ecdc.europa.eu/
 Niobrara_County,_Wyoming	Niobrara County, Wyoming	2020-04-16	2020-04-16T06:00:00+0000		1			0			0					https://health.wyo.gov/
 Noble_County,_Indiana	Noble County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	1	27		125	2	0		-6	0	0.0	2.0		https://coronavirus.in.gov/
 Noble_County,_Ohio	Noble County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	0	3			0	0		-1	0	0.0	0.29		https://coronavirus.ohio.gov/
@@ -2326,7 +2327,7 @@ North_Dakota	North Dakota	2020-04-16	2020-04-16T16:00:00+0000	9	393	163	11704	28
 North_East_England	North East England	2020-04-16	2020-05-14T13:44:03.000Z		5369			191			-34			229.57		https://www.gov.uk/
 North_East_Lincolnshire	North East Lincolnshire	2020-04-16	2020-05-14T13:44:03.000Z		91			1			-5			3.25		https://www.gov.uk/
 North_Lincolnshire	North Lincolnshire	2020-04-16	2020-05-14T13:44:03.000Z		180			12			-4			11.14		https://www.gov.uk/
-North_Macedonia	Republic of Macedonia	2020-04-16	2020-05-15T11:41:17.000Z	45	974			66	1	1	12	-5	2.14	51.0		https://www.ecdc.europa.eu/
+North_Macedonia	Republic of Macedonia	2020-04-16	2020-05-16T11:41:18.000Z	45	974			66	1	1	12	-5	2.14	51.0		https://www.ecdc.europa.eu/
 North_Somerset	North Somerset	2020-04-16	2020-05-14T13:44:03.000Z		148			3			-6			4.86		https://www.gov.uk/
 North_Tyneside	North Tyneside	2020-04-16	2020-05-14T13:44:03.000Z		367			10			-1			11.0		https://www.gov.uk/
 North_West_England	North West England	2020-04-16	2020-05-14T13:44:03.000Z		14564			581			-3			585.57		https://www.gov.uk/
@@ -2336,7 +2337,7 @@ Northampton_County,_Pennsylvania	Northampton County, Pennsylvania	2020-04-16	202
 Northampton_County,_Virginia	Northampton County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		4			0			0			0.29		http://www.vdh.virginia.gov/
 Northamptonshire	Northamptonshire	2020-04-16	2020-05-14T13:44:03.000Z		868			27			-2			26.71		https://www.gov.uk/
 Northern_Ireland	Northern Ireland	2020-04-16	2020-05-14T13:44:03.000Z	140					6			-4	8.86			https://www.gov.uk/
-Northern_Mariana_Islands	Northern Mariana Islands	2020-04-16	2020-05-15T11:41:17.000Z	2	13			0	0	0	-2	0	0.0	0.29		https://www.ecdc.europa.eu/
+Northern_Mariana_Islands	Northern Mariana Islands	2020-04-16	2020-05-16T11:41:18.000Z	2	13			0	0	0	-2	0	0.0	0.29		https://www.ecdc.europa.eu/
 Northern_Territory	Northern Territory	2020-04-16	2020-04-15T05:00:00+0000		27			0			0			0.09		https://www.health.gov.au/
 Northland_Region	Northland Region	2020-04-16	2020-04-14T21:00:00+0000		26			0			-1					https://www.health.govt.nz/
 Northumberland	Northumberland	2020-04-16	2020-05-14T13:44:03.000Z		556			17			-2			28.29		https://www.gov.uk/
@@ -2452,8 +2453,8 @@ Pamlico_County,_North_Carolina	Pamlico County, North Carolina	2020-04-16		0	6			
 Panama	Panama	2020-04-16	2020-04-16T18:00:00.000Z	103	3751	75	16854	177	8	3	75	7	5.71	174.71	8.43	http://minsa.gob.pa/coronavirus-covid19
 Panola_County,_Mississippi	Panola County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000	2	27			1	0		1	0	0.14	0.86		https://msdh.ms.gov/
 Panola_County,_Texas	Panola County, Texas	2020-04-16		1	32			10	0		8	0	0.0	3.57		https://www.dshs.state.tx.us/
-Papua_New_Guinea	Papua New Guinea	2020-04-16	2020-05-15T11:41:17.000Z	0	2			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
-Paraguay	Paraguay	2020-04-16	2020-05-15T11:41:17.000Z	8	174			13	0	0	11	-1	0.43	7.14		https://www.ecdc.europa.eu/
+Papua_New_Guinea	Papua New Guinea	2020-04-16	2020-05-16T11:41:18.000Z	0	2			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Paraguay	Paraguay	2020-04-16	2020-05-16T11:41:18.000Z	8	174			13	0	0	11	-1	0.43	7.14		https://www.ecdc.europa.eu/
 Paredes,_Portugal	Paredes, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		184			10			2					https://covid19.min-saude.pt/
 Paredes_de_Coura	Paredes de Coura	2020-04-16	2020-04-15T23:00:00.000Z		6			0			0					https://covid19.min-saude.pt/
 Park_County,_Colorado	Park County, Colorado	2020-04-16			6			0			0			0.14		https://covid19.colorado.gov/
@@ -2680,7 +2681,7 @@ Renville_County,_Minnesota	Renville County, Minnesota	2020-04-16	2020-04-16T00:0
 Republic_County,_Kansas	Republic County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		4			0			0			0.14		https://www.coronavirus.kdheks.gov
 Republic_of_Ireland	Republic of Ireland	2020-04-16	2020-04-16T11:00:00.000Z	486	13271			724	38	38	-344	-3	31.86	956.71		https://www.gov.ie/
 North_Macedonia	Republic of Macedonia	2020-04-16	2020-04-14T00:00:00.000Z	45	974	98	9762	66	1	12	66	1	2.14	44.43	8.71	http://zdravstvo.gov.mk/
-Republic_of_the_Congo	Republic of the Congo	2020-04-16	2020-05-15T11:41:17.000Z	5	117			43	0	0	43	0	0.0	8.14		https://www.ecdc.europa.eu/
+Republic_of_the_Congo	Republic of the Congo	2020-04-16	2020-05-16T11:41:18.000Z	5	117			43	0	0	43	0	0.0	8.14		https://www.ecdc.europa.eu/
 Resende,_Portugal	Resende, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		57			3			2					https://covid19.min-saude.pt/
 Reynolds_County,_Missouri	Reynolds County, Missouri	2020-04-16			2			0			0			0.0		https://health.mo.gov/
 Rhea_County,_Tennessee	Rhea County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z		0			0			0			0.0		https://www.tn.gov/
@@ -2760,7 +2761,7 @@ Rutherford_County,_North_Carolina	Rutherford County, North Carolina	2020-04-16		
 Rutherford_County,_Tennessee	Rutherford County, Tennessee	2020-04-16	2020-04-16T19:00:00.000Z	6	271	124		2	0	17	-14	0	0.0	9.71		https://www.tn.gov/
 Rutland	Rutland	2020-04-16	2020-05-14T13:44:03.000Z		13			1			0			0.44		https://www.gov.uk/
 Rutland_County,_Vermont	Rutland County, Vermont	2020-04-16	2020-04-16T09:20:00.000Z	1	41			2	1		2	1	0.14	1.0		https://www.healthvermont.gov/
-Rwanda	Rwanda	2020-04-16	2020-05-15T11:41:17.000Z	0	136			2	0	0	-5	0	0.0	3.71		https://www.ecdc.europa.eu/
+Rwanda	Rwanda	2020-04-16	2020-05-16T11:41:18.000Z	0	136			2	0	0	-5	0	0.0	3.71		https://www.ecdc.europa.eu/
 R%C3%A9union	Réunion	2020-04-16		0	390			0	0		0	0	0.0	4.0		https://www.who.int/
 Sabine_County,_Texas	Sabine County, Texas	2020-04-16			1											https://www.dshs.state.tx.us/
 Sabine_Parish,_Louisiana	Sabine Parish, Louisiana	2020-04-16		0	11			1			1			0.43		http://ldh.la.gov/
@@ -2770,10 +2771,10 @@ Sagadahoc_County,_Maine	Sagadahoc County, Maine	2020-04-16	2020-04-16T15:45:00+0
 Saginaw_County,_Michigan	Saginaw County, Michigan	2020-04-16	2020-04-16T19:00:00+0000	20	349			36	1		25	-1	1.86	20.57		https://www.michigan.gov/
 Saguache_County,_Colorado	Saguache County, Colorado	2020-04-16			3			0			0			0.0		https://covid19.colorado.gov/
 Saint_Barth%C3%A9lemy	Saint Barthélemy	2020-04-16		0	6			0	0		0	0	0.0	0.0		https://www.who.int/
-Saint_Kitts_and_Nevis	Saint Kitts and Nevis	2020-04-16	2020-05-15T11:41:17.000Z	0	14			0	0	0	-2	0	0.0	0.43		https://www.ecdc.europa.eu/
-Saint_Lucia	Saint Lucia	2020-04-16	2020-05-15T11:41:17.000Z	0	15			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Saint_Kitts_and_Nevis	Saint Kitts and Nevis	2020-04-16	2020-05-16T11:41:18.000Z	0	14			0	0	0	-2	0	0.0	0.43		https://www.ecdc.europa.eu/
+Saint_Lucia	Saint Lucia	2020-04-16	2020-05-16T11:41:18.000Z	0	15			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Saint_Pierre_and_Miquelon	Saint Pierre and Miquelon	2020-04-16		0	1			0	0		0	0	0.0	0.0		https://www.who.int/
-Saint_Vincent_and_the_Grenadines	Saint Vincent and the Grenadines	2020-04-16	2020-05-15T11:41:17.000Z	0	12			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
+Saint_Vincent_and_the_Grenadines	Saint Vincent and the Grenadines	2020-04-16	2020-05-16T11:41:18.000Z	0	12			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
 Salem,_Virginia	Salem, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		4			1			1			0.43		http://www.vdh.virginia.gov/
 Salem_County,_New_Jersey	Salem County, New Jersey	2020-04-16		4	95			11	0		0	0	0.14	7.43		https://www.nj.gov/
 Saline_County,_Arkansas	Saline County, Arkansas	2020-04-16		1	36	13		2	0	2	1	0	0.0	0.71	1.0	https://www.healthy.arkansas.gov/
@@ -2878,7 +2879,7 @@ Sevier_County%2C_Tennessee	Sevier County, Tennessee	2020-04-16	2020-04-16T19:00:
 Sevier_County,_Utah	Sevier County, Utah	2020-04-16	2020-04-16T00:00:00.000Z	0	4			2	0		0	0	0.0	0.57		https://centralutahpublichealth.org/
 Seward_County,_Kansas	Seward County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		10			3			2			1.0		https://www.coronavirus.kdheks.gov
 Seward_County,_Nebraska	Seward County, Nebraska	2020-04-16			1			0			0			0.0		http://dhhs.ne.gov/
-Seychelles	Seychelles	2020-04-16	2020-05-15T11:41:17.000Z	0	11			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Seychelles	Seychelles	2020-04-16	2020-05-16T11:41:18.000Z	0	11			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Sharkey_County,_Mississippi	Sharkey County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000		3			0			0			0.0		https://msdh.ms.gov/
 Sharp_County,_Arkansas	Sharp County, Arkansas	2020-04-16		0	2	1		0		0	0			0.0		https://www.healthy.arkansas.gov/
 Shasta_County,_California	Shasta County, California	2020-04-16	2020-04-16T18:00:00.000Z	3	26	13		1	0	0	1	0	0.0	0.29		https://www.co.shasta.ca.us/
@@ -2910,13 +2911,13 @@ Sibley_County,_Minnesota	Sibley County, Minnesota	2020-04-16	2020-04-16T00:00:00
 Sicily	Sicily	2020-04-16		187	2579	284	42405	44	6	11	10	0	7.0	49.57	18.86	http://www.salute.gov.it/
 Sierra_County,_California	Sierra County, California	2020-04-16	2020-04-16T10:00:00.000Z	0	0		13	0	0		0	0	0.0	0.0		http://sierracounty.ca.gov/
 Sierra_County,_New_Mexico	Sierra County, New Mexico	2020-04-16		0	0			0			0			0.0		https://cv.nmhealth.org
-Sierra_Leone	Sierra Leone	2020-04-16	2020-05-15T11:41:17.000Z	0	13			2	0	0	2	0	0.0	0.86		https://www.ecdc.europa.eu/
+Sierra_Leone	Sierra Leone	2020-04-16	2020-05-16T11:41:18.000Z	0	13			2	0	0	2	0	0.0	0.86		https://www.ecdc.europa.eu/
 Silver_Bow_County,_Montana	Silver Bow County, Montana	2020-04-16		0	11			0			0			0.0		https://dphhs.mt.gov/
 Silves,_Portugal	Silves, Portugal	2020-04-16	2020-04-15T23:00:00.000Z		21			0			-1					https://covid19.min-saude.pt/
 Simpson_County,_Mississippi	Simpson County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000		13			1			-4			1.0		https://msdh.ms.gov/
 Sines	Sines	2020-04-16	2020-04-15T23:00:00.000Z		4			0			0					https://covid19.min-saude.pt/
 Singapore	Singapore	2020-04-16	2020-04-15	10	3699	653	72680	447	0	42	113	-1	0.57	296.57		https://www.moh.gov.sg/covid-19
-Sint_Maarten	Sint Maarten	2020-04-16	2020-05-15T11:41:17.000Z	9	57			4	0	0	3	0	0.14	2.0		https://www.ecdc.europa.eu/
+Sint_Maarten	Sint Maarten	2020-04-16	2020-05-16T11:41:18.000Z	9	57			4	0	0	3	0	0.14	2.0		https://www.ecdc.europa.eu/
 Sintra	Sintra	2020-04-16	2020-04-15T23:00:00.000Z		437			16			-1					https://covid19.min-saude.pt/
 Sioux_County,_Iowa	Sioux County, Iowa	2020-04-16		0	7			0			0			0.0		https://idph.iowa.gov/
 Sioux_County,_Nebraska	Sioux County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
@@ -2937,7 +2938,7 @@ Snohomish_County,_Washington	Snohomish County, Washington	2020-04-16		81	1972			
 Snyder_County,_Pennsylvania	Snyder County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000	1	24		126	0	0		0	0	0.0	2.14		https://www.health.pa.gov/
 Socorro_County,_New_Mexico	Socorro County, New Mexico	2020-04-16		0	20			6			6			1.57		https://cv.nmhealth.org
 Solano_County,_California	Solano County, California	2020-04-16		2	162		2169	9	0		-4	0	0.0	6.29		https://www.cdph.ca.gov/
-Somalia	Somalia	2020-04-16	2020-05-15T11:41:17.000Z	5	80			20	3	3	20	3	0.57	9.71		https://www.ecdc.europa.eu/
+Somalia	Somalia	2020-04-16	2020-05-16T11:41:18.000Z	5	80			20	3	3	20	3	0.57	9.71		https://www.ecdc.europa.eu/
 Somerset	Somerset	2020-04-16	2020-05-14T13:44:03.000Z		314			31			13			17.86		https://www.gov.uk/
 Somerset_County,_Maine	Somerset County, Maine	2020-04-16	2020-04-16T15:45:00+0000		14	3		1		1	-1			1.29	0.29	https://www.maine.gov/
 Somerset_County,_Maryland	Somerset County, Maryland	2020-04-16		0	6			1			1			0.29		https://coronavirus.maryland.gov/
@@ -2952,8 +2953,8 @@ South_Carolina	South Carolina	2020-04-16		109	3931			279	4		176	-5	6.0	162.71		h
 South_Dakota	South Dakota	2020-04-16	2020-04-16T17:30:00+0000	7	1311	373		143	1	44	-37	1	0.14	123.43	30.29	https://doh.sd.gov/
 South_East_England	South East England	2020-04-16	2020-05-14T13:44:03.000Z		12771			613			-26			527.71		https://www.gov.uk/
 South_Gloucestershire	South Gloucestershire	2020-04-16	2020-05-14T13:44:03.000Z		257			6			-13			7.29		https://www.gov.uk/
-South_Korea	South Korea	2020-04-16	2020-05-15T11:41:17.000Z	229	10613			22	4	4	-5	1	3.57	27.14		https://www.ecdc.europa.eu/
-South_Sudan	South Sudan	2020-04-16	2020-05-15T11:41:17.000Z	0	4			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
+South_Korea	South Korea	2020-04-16	2020-05-16T11:41:18.000Z	229	10613			22	4	4	-5	1	3.57	27.14		https://www.ecdc.europa.eu/
+South_Sudan	South Sudan	2020-04-16	2020-05-16T11:41:18.000Z	0	4			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 South_Tyneside	South Tyneside	2020-04-16	2020-05-14T13:44:03.000Z		334			30			8			19.14		https://www.gov.uk/
 South_Tyrol	South Tyrol	2020-04-16		225	2267	449	26416	43	2	24	3	-7	5.43	52.0	6.86	http://www.salute.gov.it/
 South_West_England	South West England	2020-04-16	2020-05-14T13:44:03.000Z		4555			239			29			201.71		https://www.gov.uk/
@@ -3033,7 +3034,7 @@ Story_County,_Iowa	Story County, Iowa	2020-04-16		0	16			5			5			0.64		https://i
 Strafford_County,_New_Hampshire	Strafford County, New Hampshire	2020-04-16	2020-04-16T09:00:00.000Z		76			7			7			4.0		https://www.nh.gov/
 Stutsman_County,_North_Dakota	Stutsman County, North Dakota	2020-04-16	2020-04-16T16:00:00+0000		1			0			0			0.0		https://www.health.nd.gov/
 Sublette_County,_Wyoming	Sublette County, Wyoming	2020-04-16	2020-04-16T06:00:00+0000		1			0			0			0.0		https://health.wyo.gov/
-Sudan	Sudan	2020-04-16	2020-05-15T11:41:17.000Z	5	32			0	0	0	-3	-1	0.43	2.57		https://www.ecdc.europa.eu/
+Sudan	Sudan	2020-04-16	2020-05-16T11:41:18.000Z	5	32			0	0	0	-3	-1	0.43	2.57		https://www.ecdc.europa.eu/
 Suffolk	Suffolk	2020-04-16	2020-05-14T13:44:03.000Z		656			52			16			30.57		https://www.gov.uk/
 Suffolk,_Virginia	Suffolk, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		65			6			4			4.86		http://www.vdh.virginia.gov/
 Suffolk_County,_Massachusetts	Suffolk County, Massachusetts	2020-04-16	2020-04-16T16:00:00.000Z		6820			541			134			397.0		https://www.mass.gov/
@@ -3055,7 +3056,7 @@ Sumter_County,_Florida	Sumter County, Florida	2020-04-16		11	117			3	0		2	-2	0.5
 Sumter_County,_Georgia	Sumter County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	14	292			19	2		15	2	0.71	14.0		https://dph.georgia.gov/
 Sumter_County,_South_Carolina	Sumter County, South Carolina	2020-04-16		5	168			7	0		2	-1	0.29	6.0		https://www.scdhec.gov/
 Sunflower_County,_Mississippi	Sunflower County, Mississippi	2020-04-16	2020-04-16T05:00:00+0000	2	43			1	0		0	0	0.14	1.57		https://msdh.ms.gov/
-Suriname	Suriname	2020-04-16	2020-05-15T11:41:17.000Z	1	10			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Suriname	Suriname	2020-04-16	2020-05-16T11:41:18.000Z	1	10			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Surrey	Surrey	2020-04-16	2020-05-14T13:44:03.000Z		2032			71			-40			80.57		https://www.gov.uk/
 Surry_County,_North_Carolina	Surry County, North Carolina	2020-04-16		0	11			1			1			0.14		https://www.ncdhhs.gov/
 Surry_County,_Virginia	Surry County, Virginia	2020-04-16	2020-04-16T10:00:00.000Z		3			0			0			0.0		http://www.vdh.virginia.gov/
@@ -3072,7 +3073,7 @@ Swift_County,_Minnesota	Swift County, Minnesota	2020-04-16	2020-04-16T00:00:00	0
 Swisher_County,_Texas	Swisher County, Texas	2020-04-16			4			0			0			0.29		https://www.dshs.state.tx.us/
 Switzerland	Switzerland	2020-04-16	2020-04-16T00:00:00.000Z	1281	26587	15900		251	73	73	-149	31	47.57	363.0	757.14	https://www.bag.admin.ch/
 Switzerland_County,_Indiana	Switzerland County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	0	12		57	0	0		0	0	0.0	-0.14		https://coronavirus.in.gov/
-Syria	Syria	2020-04-16	2020-05-15T11:41:17.000Z	2	33			4	0	0	0	0	0.0	2.0		https://www.ecdc.europa.eu/
+Syria	Syria	2020-04-16	2020-05-16T11:41:18.000Z	2	33			4	0	0	0	0	0.0	2.0		https://www.ecdc.europa.eu/
 Taiwan	Taiwan	2020-04-16	2020-04-16T00:30:00.000Z	6	395	155	51603	0	0	18	-2	0	0.14	2.14	10.71	https://www.cdc.gov.tw/
 Talbot_County,_Georgia	Talbot County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	1	15			3	0		1	0	0.0	1.0		https://dph.georgia.gov/
 Talbot_County,_Maryland	Talbot County, Maryland	2020-04-16		1	14			0	0		2	0	0.0	0.14		https://coronavirus.maryland.gov/
@@ -3085,7 +3086,7 @@ Tamil_Nadu	Tamil Nadu	2020-04-16		14	1242	118		38	2	37	7	1				https://www.mohfw.
 Taney_County,_Missouri	Taney County, Missouri	2020-04-16		1	8			0	0		-1	0		0.35		https://health.mo.gov/
 Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-04-16	2020-04-15T17:00:00+0000		169			0			0					http://www.covidmaroc.ma/
 Tangipahoa_Parish,_Louisiana	Tangipahoa Parish, Louisiana	2020-04-16		16	422			4	1		-23	-3	1.57	19.86		http://ldh.la.gov/
-Tanzania	Tanzania	2020-04-16	2020-05-15T11:41:17.000Z	4	88			35	1	1	31	1	0.43	9.0		https://www.ecdc.europa.eu/
+Tanzania	Tanzania	2020-04-16	2020-05-16T11:41:18.000Z	4	88			35	1	1	31	1	0.43	9.0		https://www.ecdc.europa.eu/
 Taos_County,_New_Mexico	Taos County, New Mexico	2020-04-16		0	15			0			0			0.0		https://cv.nmhealth.org
 Taranaki	Taranaki	2020-04-16	2020-04-14T21:00:00+0000		14			0			0					https://www.health.govt.nz/
 Tarrant_County,_Texas	Tarrant County, Texas	2020-04-16		30	990			61	1		8	-3	1.57	57.43		https://www.dshs.state.tx.us/
@@ -3117,9 +3118,9 @@ Texas	Texas	2020-04-16		393	16455			963	29		95	-17	27.71	889.29		https://www.dsh
 Texas_County,_Oklahoma	Texas County, Oklahoma	2020-04-16	2020-04-16T12:00:00+0000	1	9			0	0		-3	-1	0.14	0.86		https://coronavirus.health.ok.gov/
 Thailand	Thailand	2020-04-16	2020-04-16T11:37:00.000Z	46	2672	1593		29	3	96	-1	1	2.0	35.57	93.29	http://covid19.ddc.moph.go.th/
 Thayer_County,_Nebraska	Thayer County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
-The_Bahamas	The Bahamas	2020-04-16	2020-05-15T11:41:17.000Z	8	53			4	0	0	4	0	0.14	1.86		https://www.ecdc.europa.eu/
+The_Bahamas	The Bahamas	2020-04-16	2020-05-16T11:41:18.000Z	8	53			4	0	0	4	0	0.14	1.86		https://www.ecdc.europa.eu/
 The_Bronx	The Bronx	2020-04-16	2020-04-16T14:00:00.000Z	1845	25932		51053	0	74		-2666	-41	114.14	967.43		https://coronavirus.health.ny.gov/
-The_Gambia	The Gambia	2020-04-16	2020-05-15T11:41:17.000Z	1	9			0	0	0	0	0	0.0	0.71		https://www.ecdc.europa.eu/
+The_Gambia	The Gambia	2020-04-16	2020-05-16T11:41:18.000Z	1	9			0	0	0	0	0	0.0	0.71		https://www.ecdc.europa.eu/
 Thomas_County,_Georgia	Thomas County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	14	112			20	5		17	1	1.57	5.71		https://dph.georgia.gov/
 Thomas_County,_Kansas	Thomas County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		0			0			0			0.0		https://www.coronavirus.kdheks.gov
 Thomas_County,_Nebraska	Thomas County, Nebraska	2020-04-16			0											http://dhhs.ne.gov/
@@ -3140,7 +3141,7 @@ Titus_County,_Texas	Titus County, Texas	2020-04-16			8			0			-1			0.57		https://
 Tocantins	Tocantins	2020-04-16	2020-04-16T20:30:00.000Z	1	26			0	0		0	0				https://covid.saude.gov.br/
 Todd_County,_Minnesota	Todd County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	2			0	0		0	0		0.07		https://www.health.state.mn.us/
 Todd_County,_South_Dakota	Todd County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		1			0		1	0			0.0		https://doh.sd.gov/
-Togo	Togo	2020-04-16	2020-05-15T11:41:17.000Z	3	81			4	0	0	4	0	0.0	1.57		https://www.ecdc.europa.eu/
+Togo	Togo	2020-04-16	2020-05-16T11:41:18.000Z	3	81			4	0	0	4	0	0.0	1.57		https://www.ecdc.europa.eu/
 Tolland_County,_Connecticut	Tolland County, Connecticut	2020-04-16	2020-04-16T16:30:00.000Z	22	241			25	0		10	-4	1.29	13.71		https://portal.ct.gov/
 Tom_Green_County,_Texas	Tom Green County, Texas	2020-04-16		1	40			1	0		1	0		2.14		https://www.dshs.state.tx.us/
 Tomar	Tomar	2020-04-16	2020-04-15T23:00:00.000Z		10			0			-1					https://covid19.min-saude.pt/
@@ -3164,7 +3165,7 @@ Trego_County,_Kansas	Trego County, Kansas	2020-04-16	2020-04-16T10:00:00.000Z		0
 Trempealeau_County,_Wisconsin	Trempealeau County, Wisconsin	2020-04-16	2020-04-16T06:00:00.000Z	0	1			0	0		0	0	0.0	0.0		https://www.dhs.wisconsin.gov/
 Trentino	Trentino	2020-04-16		322	3294	885	20773	74	4	87	-5	-4	7.71	83.71	60.43	http://www.salute.gov.it/
 Treutlen_County,_Georgia	Treutlen County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	0	1			0	0		0	0	0.0	0.0		https://dph.georgia.gov/
-Trinidad_and_Tobago	Trinidad and Tobago	2020-04-16	2020-05-15T11:41:17.000Z	8	114			0	0	0	-1	0	0.0	0.71		https://www.ecdc.europa.eu/
+Trinidad_and_Tobago	Trinidad and Tobago	2020-04-16	2020-05-16T11:41:18.000Z	8	114			0	0	0	-1	0	0.0	0.71		https://www.ecdc.europa.eu/
 Trinity_County,_California	Trinity County, California	2020-04-16	2020-04-16T10:12:00.000Z	0	0			0	0		0	0	0.0	0.0		https://www.trinitycounty.org/
 Trinity_County,_Texas	Trinity County, Texas	2020-04-16			7			3			3			0.57		https://www.dshs.state.tx.us/
 Trofa	Trofa	2020-04-16	2020-04-15T23:00:00.000Z		97			6			1					https://covid19.min-saude.pt/
@@ -3179,7 +3180,7 @@ Tunica_County,_Mississippi	Tunica County, Mississippi	2020-04-16	2020-04-16T05:0
 Tunisia	Tunisia	2020-04-16	2020-04-16T10:00:00.000Z	36	780	43	13137	33	1	0	12	1	1.57	19.57	2.57	https://covid-19.tn/
 Tuolumne_County,_California	Tuolumne County, California	2020-04-16	2020-04-16T00:00:00.000Z	0	2		405	0	0		0	0	0.0	0.14		https://www.tuolumnecounty.ca.gov/
 Turkey	Turkey	2020-04-16	2020-04-16T00:00:00.000Z	1643	74193	7089	518143	4801	115	1415	520	8	105.0	4558.71	706.71	https://covid19.saglik.gov.tr/
-Turks_and_Caicos_Islands	Turks and Caicos Islands	2020-04-16	2020-05-15T11:41:17.000Z	1	11			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
+Turks_and_Caicos_Islands	Turks and Caicos Islands	2020-04-16	2020-05-16T11:41:18.000Z	1	11			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
 Turner_County,_Georgia	Turner County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	1	49			8	0		8	0	0.14	3.43		https://dph.georgia.gov/
 Turner_County,_South_Dakota	Turner County, South Dakota	2020-04-16	2020-04-16T17:30:00+0000		5			0		2	0			0.0		https://doh.sd.gov/
 Tuscaloosa_County,_Alabama	Tuscaloosa County, Alabama	2020-04-16		0	132			3			-4			6.57		https://covid19.alabama.gov/
@@ -3191,7 +3192,7 @@ Twin_Falls_County,_Idaho	Twin Falls County, Idaho	2020-04-16	2020-04-16T17:00:00
 Tyler_County,_Texas	Tyler County, Texas	2020-04-16			4			1			0			0.43		https://www.dshs.state.tx.us/
 Tyler_County,_West_Virginia	Tyler County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		3			0			0			0.14		https://dhhr.wv.gov/
 Tyrrell_County,_North_Carolina	Tyrrell County, North Carolina	2020-04-16		0	4			1			0					https://www.ncdhhs.gov/
-Uganda	Uganda	2020-04-16	2020-05-15T11:41:17.000Z	0	55			0	0	0	-1	0	0.0	0.29		https://www.ecdc.europa.eu/
+Uganda	Uganda	2020-04-16	2020-05-16T11:41:18.000Z	0	55			0	0	0	-1	0	0.0	0.29		https://www.ecdc.europa.eu/
 Uinta_County,_Wyoming	Uinta County, Wyoming	2020-04-16	2020-04-16T06:00:00+0000		4			0			0			0.1		https://health.wyo.gov/
 Uintah_County,_Utah	Uintah County, Utah	2020-04-16	2020-04-16T16:30:00.000Z		6			0			0			0.14		https://tricountyhealth.com/
 Ukraine	Ukraine	2020-04-16		115	4162	186		398	18	43	6	13	8.29	324.29	20.14	https://www.who.int/
@@ -3218,8 +3219,8 @@ Union_County,_Tennessee	Union County, Tennessee	2020-04-16	2020-04-16T19:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-04-16		4	67			11	0		5	0	0.14	4.0		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-04-16	2020-04-16	33	5365	1034		432	5	101	20	2	3.0	386.57		https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-04-16	2020-04-16T14:44:00.000Z	13729	103093			4617	842	842	14	-202	821.57	5005.86		https://www.gov.uk/
-United_States	United States	2020-04-16	2020-05-16T01:42:08.735Z	30525	668224			23108	4928		-15037	2520	1972.0	27753.0	4138.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
-United_States_Virgin_Islands	United States Virgin Islands	2020-04-16	2020-05-15T11:41:17.000Z	1	51			0	0	0	0	0	0.0	0.71		https://www.ecdc.europa.eu/
+United_States	United States	2020-04-16	2020-05-17T00:37:44.643Z	30525	668222			23108	4928		-15036	2520	1972.0	27752.71	4138.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States_Virgin_Islands	United States Virgin Islands	2020-04-16	2020-05-16T11:41:18.000Z	1	51			0	0	0	0	0	0.0	0.71		https://www.ecdc.europa.eu/
 Upshur_County,_Texas	Upshur County, Texas	2020-04-16			9			0			0			0.43		https://www.dshs.state.tx.us/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-04-16	2020-04-16T10:00:00.000Z		3			0			0			0.14		https://dhhr.wv.gov/
 Upson_County,_Georgia	Upson County, Georgia	2020-04-16	2020-04-16T22:28:21+0000	6	143			8	1		1	1	0.86	14.43		https://dph.georgia.gov/
@@ -3246,11 +3247,11 @@ Van_Wert_County,_Ohio	Van Wert County, Ohio	2020-04-16	2020-04-16T14:00:00.000Z	
 Van_Zandt_County,_Texas	Van Zandt County, Texas	2020-04-16		1	11			1	0		1	0	0.0	0.57		https://www.dshs.state.tx.us/
 Vance_County,_North_Carolina	Vance County, North Carolina	2020-04-16		1	25			2	0		0	0		1.29		https://www.ncdhhs.gov/
 Vanderburgh_County,_Indiana	Vanderburgh County, Indiana	2020-04-16	2020-04-16T12:00:00.000Z	1	71		1005	6	0		1	0	0.0	3.14		https://coronavirus.in.gov/
-Vatican_City	Vatican City	2020-04-16	2020-05-15T11:41:17.000Z	0	8			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Vatican_City	Vatican City	2020-04-16	2020-05-16T11:41:18.000Z	0	8			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Velas	Velas	2020-04-16	2020-04-15T23:00:00.000Z		6			0			0					https://covid19.min-saude.pt/
 Venango_County,_Pennsylvania	Venango County, Pennsylvania	2020-04-16	2020-04-16T16:00:00+0000		6		177	0			0			0.14		https://www.health.pa.gov/
 Veneto	Veneto	2020-04-16		981	14990	3209	224549	366	41	314	174	7	32.14	293.86	211.57	http://www.salute.gov.it/
-Venezuela	Venezuela	2020-04-16	2020-05-15T11:41:17.000Z	9	197			4	0	0	0	0	0.14	4.29		https://www.ecdc.europa.eu/
+Venezuela	Venezuela	2020-04-16	2020-05-16T11:41:18.000Z	9	197			4	0	0	0	0	0.14	4.29		https://www.ecdc.europa.eu/
 Ventura_County,_California	Ventura County, California	2020-04-16	2020-04-16T14:00:00.000Z	13	384	191	6823	19	0	25	4	0	0.86	15.71		https://www.vcemergency.com/
 Vermilion_County,_Illinois	Vermilion County, Illinois	2020-04-16		0	8			0			0			0.43		http://www.dph.illinois.gov/
 Vermilion_Parish,_Louisiana	Vermilion Parish, Louisiana	2020-04-16		1	28			1	0		1	0	0.0	0.86		http://ldh.la.gov/
@@ -3407,7 +3408,7 @@ West_Berkshire	West Berkshire	2020-04-16	2020-05-14T13:44:03.000Z		224			17			8	
 West_Carroll_Parish,_Louisiana	West Carroll Parish, Louisiana	2020-04-16		0	4			0			0			0.43		http://ldh.la.gov/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-04-16	2020-04-14T21:00:00+0000		5			0			0					https://www.health.govt.nz/
 West_Feliciana_Parish,_Louisiana	West Feliciana Parish, Louisiana	2020-04-16		0	55			8			7			2.43		http://ldh.la.gov/
-West_Flanders	West Flanders	2020-04-16	2020-04-16		4352			183			70			154.57		https://epistat.wiv-isp.be/Covid/
+West_Flanders	West Flanders	2020-04-16	2020-04-16		4355			183			70			154.29		https://epistat.wiv-isp.be/Covid/
 West_Midlands_(region)	West Midlands (region)	2020-04-16	2020-05-14T13:44:03.000Z		9448			389			13			328.14		https://www.gov.uk/
 West_Sussex	West Sussex	2020-04-16	2020-05-14T13:44:03.000Z		837			49			15			32.86		https://www.gov.uk/
 West_Virginia	West Virginia	2020-04-16	2020-04-16T14:00:00.000Z	13	723			21	1		-41	-1		32.63		https://dhhr.wv.gov/
@@ -3513,7 +3514,7 @@ Yazoo_County,_Mississippi	Yazoo County, Mississippi	2020-04-16	2020-04-16T05:00:
 Yell_County,_Arkansas	Yell County, Arkansas	2020-04-16		0	1	0		0			0			0.0		https://www.healthy.arkansas.gov/
 Yellow_Medicine_County,_Minnesota	Yellow Medicine County, Minnesota	2020-04-16	2020-04-16T00:00:00	0	3			0	0		0	0	0.0	0.14		https://www.health.state.mn.us/
 Yellowstone_County,_Montana	Yellowstone County, Montana	2020-04-16		0	67			3			2			2.71		https://dphhs.mt.gov/
-Yemen	Yemen	2020-04-16	2020-05-15T11:41:17.000Z	0	1			0	0	0	0	0				https://www.ecdc.europa.eu/
+Yemen	Yemen	2020-04-16	2020-05-16T11:41:18.000Z	0	1			0	0	0	0	0				https://www.ecdc.europa.eu/
 Yolo_County,_California	Yolo County, California	2020-04-16	2020-04-16T17:00:00.000Z	7	125		1230	9	0		-5	-3	0.57	7.71		https://www.yolocounty.org/
 York	York	2020-04-16	2020-05-14T13:44:03.000Z		170			10			3			7.14		https://www.gov.uk/
 York_County,_Maine	York County, Maine	2020-04-16	2020-04-16T15:45:00+0000	6	164	70		8	2	5	4	2	0.57	4.57	3.71	https://www.maine.gov/
@@ -3528,7 +3529,7 @@ Yukon	Yukon	2020-04-16	2020-04-16T15:00:00.000Z	0	8			0	0		0	0				https://www.ca
 Yukon%E2%80%93Koyukuk_Census_Area,_Alaska	Yukon–Koyukuk Census Area, Alaska	2020-04-16			1			0			0			0.0		http://www.dhss.alaska.gov/
 Yuma_County,_Arizona	Yuma County, Arizona	2020-04-16	2020-04-16T00:00:00.000Z		21		553	3			2			0.86		https://azdhs.gov/
 Yuma_County,_Colorado	Yuma County, Colorado	2020-04-16			2			0			0			0.0		https://covid19.colorado.gov/
-Zambia	Zambia	2020-04-16	2020-05-15T11:41:17.000Z	2	48			3	0	0	3	0	0.14	1.29		https://www.ecdc.europa.eu/
+Zambia	Zambia	2020-04-16	2020-05-16T11:41:18.000Z	2	48			3	0	0	3	0	0.14	1.29		https://www.ecdc.europa.eu/
 Zapata_County,_Texas	Zapata County, Texas	2020-04-16			4			0			-1			0.14		https://www.dshs.state.tx.us/
-Zimbabwe	Zimbabwe	2020-04-16	2020-05-15T11:41:17.000Z	3	23			5	0	0	4	0	0.0	1.71		https://www.ecdc.europa.eu/
+Zimbabwe	Zimbabwe	2020-04-16	2020-05-16T11:41:18.000Z	3	23			5	0	0	4	0	0.0	1.71		https://www.ecdc.europa.eu/
 %C3%8Ele-de-France	Île-de-France	2020-04-16		4319		11279			179	735		-24	182.71		522.71	https://www.santepubliquefrance.fr/
