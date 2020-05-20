@@ -1,29 +1,88 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Antofagasta_Region	Antofagasta Region	2020-05-21	2020-05-19T04:00:00.000Z	16	1648								0.71	61.71		https://www.minsal.cl/
-Araucan%C3%ADa_Region	Araucanía Region	2020-05-21	2020-05-19T04:00:00.000Z	44	1666								0.71	24.43		https://www.minsal.cl/
-Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-21	2020-05-19T04:00:00.000Z	7	422								0.0	9.0		https://www.minsal.cl/
-Atacama_Region	Atacama Region	2020-05-21	2020-05-19T04:00:00.000Z	0	158								0.0	2.71		https://www.minsal.cl/
+Antofagasta_Region	Antofagasta Region	2020-05-21	2020-05-20T04:00:00.000Z	17	1731			83	1		24	-1	0.86	73.57		https://www.minsal.cl/
+Araucan%C3%ADa_Region	Araucanía Region	2020-05-21	2020-05-20T04:00:00.000Z	44	1680			14	0		-13	0	0.71	26.43		https://www.minsal.cl/
+Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-05-21	2020-05-20T04:00:00.000Z	7	424			2	0		-22	0	0.0	9.29		https://www.minsal.cl/
+Atacama_Region	Atacama Region	2020-05-21	2020-05-20T04:00:00.000Z	0	163			5	0		4	0	0.0	3.43		https://www.minsal.cl/
 Auckland_Region	Auckland Region	2020-05-21	2020-05-20T01:00:00.000Z		177	173								-0.14	0.29	https://www.health.govt.nz/
-Ays%C3%A9n_Region	Aysén Region	2020-05-21	2020-05-19T04:00:00.000Z	0	8								0.0	0.0		https://www.minsal.cl/
+Ays%C3%A9n_Region	Aysén Region	2020-05-21	2020-05-20T04:00:00.000Z	0	8			0	0		0	0	0.0	0.0		https://www.minsal.cl/
+B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-05-21		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-05-21		0	21	3							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Banteay_Meanchey_Province	Banteay Meanchey Province	2020-05-21	2020-05-21T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Battambang_Province	Battambang Province	2020-05-21	2020-05-21T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bay_of_Plenty	Bay of Plenty	2020-05-21	2020-05-20T01:00:00.000Z		47	47								0.0	0.0	https://www.health.govt.nz/
-Biob%C3%ADo_Region	Biobío Region	2020-05-21	2020-05-19T04:00:00.000Z	9	1172								0.0	28.14		https://www.minsal.cl/
-Chile	Chile	2020-05-21	2020-05-19T04:00:00.000Z	509	49579	21507							20.14	1791.29	836.0	https://www.minsal.cl/
-Coquimbo_Region	Coquimbo Region	2020-05-21	2020-05-19T04:00:00.000Z	2	239								0.14	12.29		https://www.minsal.cl/
-Earth	Earth	2020-05-21	2020-05-20T17:35:04.419Z	322521	4871456								3036.29	69087.71	19068.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+B%E1%BA%BFn_Tre_Province	Bến Tre Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%C3%ACnh_Thu%E1%BA%ADn_Province	Bình Thuận Province	2020-05-21		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Biob%C3%ADo_Region	Biobío Region	2020-05-21	2020-05-20T04:00:00.000Z	9	1224			52	0		24	0	0.0	35.57		https://www.minsal.cl/
+Cambodia	Cambodia	2020-05-21	2020-05-21T07:00:00.000Z	0	122	122		0	0	0	0	0	0.0	0.0	0.14	http://www.cdcmoh.gov.kh/
+C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-05-21		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Chile	Chile	2020-05-21	2020-05-20T04:00:00.000Z	544	53617	22504		4038	35	997	518	4	25.14	2368.14	978.43	https://www.minsal.cl/
+Coquimbo_Region	Coquimbo Region	2020-05-21	2020-05-20T04:00:00.000Z	2	263			24	0		-3	0	0.14	15.71		https://www.minsal.cl/
+Da_Nang	Da Nang	2020-05-21		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-05-21		0	5	4							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Earth	Earth	2020-05-21	2020-05-20T20:12:14.707Z	324569	4890576								3328.86	71819.14	19921.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Kazakhstan_Region	East Kazakhstan Region	2020-05-21		1	58	28							0.0	0.43	1.14	https://www.coronavirus2020.kz/
+H%C3%A0_Giang_Province	Hà Giang Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+H%C3%A0_Nam_Province	Hà Nam Province	2020-05-21		0	4	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+H%C3%A0_T%C4%A9nh_Province	Hà Tĩnh Province	2020-05-21		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+H%E1%BA%A3i_D%C6%B0%C6%A1ng_Province	Hải Dương Province	2020-05-21		0	2	1							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Hanoi	Hanoi	2020-05-21		0	114	110							0.0	0.29	0.29	https://ncov.moh.gov.vn/
 Hawke%27s_Bay_Region	Hawke's Bay Region	2020-05-21	2020-05-20T01:00:00.000Z		44	39								0.0	0.43	https://www.health.govt.nz/
-Los_Lagos_Region	Los Lagos Region	2020-05-21	2020-05-19T04:00:00.000Z	12	656								0.14	4.0		https://www.minsal.cl/
-Los_R%C3%ADos_Region	Los Ríos Region	2020-05-21	2020-05-19T04:00:00.000Z	6	229								0.0	2.43		https://www.minsal.cl/
-Magallanes_Region	Magallanes Region	2020-05-21	2020-05-19T04:00:00.000Z	17	972								0.14	7.29		https://www.minsal.cl/
-Maule_Region	Maule Region	2020-05-21	2020-05-19T04:00:00.000Z	14	640								0.0	22.14		https://www.minsal.cl/
+Ho_Chi_Minh_City	Ho Chi Minh City	2020-05-21		0	58	54							0.0	0.29	0.14	https://ncov.moh.gov.vn/
+H%C6%B0ng_Y%C3%AAn_Province	Hưng Yên Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Jambyl_Region	Jambyl Region	2020-05-21		1	217	154							0.0	2.57	7.71	https://www.coronavirus2020.kz/
+Kampong_Cham_Province	Kampong Cham Province	2020-05-21	2020-05-21T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kampong_Chhnang_Province	Kampong Chhnang Province	2020-05-21	2020-05-21T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kampot_Province	Kampot Province	2020-05-21	2020-05-21T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kandal_Province	Kandal Province	2020-05-21	2020-05-21T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Karaganda_Region	Karaganda Region	2020-05-21		3	287	163							0.0	11.86	4.86	https://www.coronavirus2020.kz/
+Kazakhstan	Kazakhstan	2020-05-21		35	6969	3734							0.29	199.71	171.86	https://www.coronavirus2020.kz/
+Kep_Province	Kep Province	2020-05-21	2020-05-21T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kh%C3%A1nh_H%C3%B2a_Province	Khánh Hòa Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Koh_Kong_Province	Koh Kong Province	2020-05-21	2020-05-21T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kostanay_Region	Kostanay Region	2020-05-21		1	110	50							0.0	6.0	2.0	https://www.coronavirus2020.kz/
+Kyzylorda_Region	Kyzylorda Region	2020-05-21			255	216								3.43	4.71	https://www.coronavirus2020.kz/
+Lai_Ch%C3%A2u_Province	Lai Châu Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+L%C3%A0o_Cai_Province	Lào Cai Province	2020-05-21		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Los_Lagos_Region	Los Lagos Region	2020-05-21	2020-05-20T04:00:00.000Z	12	666			10	0		6	-1	0.14	5.43		https://www.minsal.cl/
+Los_R%C3%ADos_Region	Los Ríos Region	2020-05-21	2020-05-20T04:00:00.000Z	6	247			18	0		13	0	0.0	5.0		https://www.minsal.cl/
+Magallanes_Region	Magallanes Region	2020-05-21	2020-05-20T04:00:00.000Z	18	977			5	1		4	0	0.29	8.0		https://www.minsal.cl/
+Malaysia	Malaysia	2020-05-21	2020-05-20T09:30:00.000Z	114	7009	5706							0.29	27.14	50.71	http://www.moh.gov.my/
+Mangystau_Region	Mangystau Region	2020-05-21		1	163	70							0.0	3.57	5.57	https://www.coronavirus2020.kz/
+Maule_Region	Maule Region	2020-05-21	2020-05-20T04:00:00.000Z	14	680			40	0		2	0	0.0	27.86		https://www.minsal.cl/
 New_Zealand	New Zealand	2020-05-21	2020-05-20T01:00:00.000Z	21	1503	1447	238745						0.0	0.86	5.14	https://www.health.govt.nz/
+Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-05-21		0	13	13							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-05-21		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+North_Kazakhstan_Region	North Kazakhstan Region	2020-05-21			39	29								0.43	0.0	https://www.coronavirus2020.kz/
 Northland_Region	Northland Region	2020-05-21	2020-05-20T01:00:00.000Z		28	28								0.0	0.0	https://www.health.govt.nz/
-%C3%91uble_Region	Ñuble Region	2020-05-21	2020-05-19T04:00:00.000Z	21	988								0.29	21.29		https://www.minsal.cl/
-O%27Higgins_Region	O'Higgins Region	2020-05-21	2020-05-19T04:00:00.000Z	7	442								0.43	27.71		https://www.minsal.cl/
-O%27Higgins_Region	O'Higgins Region	2020-05-21	2020-05-19T04:00:00.000Z	7	442								0.43	27.71		https://www.minsal.cl/
-Santiago_Metropolitan_Region	Santiago Metropolitan Region	2020-05-21	2020-05-19T04:00:00.000Z	318	37591								19.14	1803.71		https://www.minsal.cl/
+%C3%91uble_Region	Ñuble Region	2020-05-21	2020-05-20T04:00:00.000Z	21	1011			23	0		20	0	0.29	24.57		https://www.minsal.cl/
+Nur-Sultan	Nur-Sultan	2020-05-21		5	1319	633							0.29	24.43	16.43	https://www.coronavirus2020.kz/
+O%27Higgins_Region	O'Higgins Region	2020-05-21	2020-05-20T04:00:00.000Z	7	455			13	0		-11	-1	0.43	29.57		https://www.minsal.cl/
+O%27Higgins_Region	O'Higgins Region	2020-05-21	2020-05-20T04:00:00.000Z	7	455			13	0		-11	-1	0.43	29.57		https://www.minsal.cl/
+Pavlodar_Region	Pavlodar Region	2020-05-21		2	167	141							0.0	1.71	4.71	https://www.coronavirus2020.kz/
+Phnom_Penh	Phnom Penh	2020-05-21	2020-05-21T07:00:00.000Z		28			0			0			0.0		http://www.cdcmoh.gov.kh/
+Preah_Vihear_Province	Preah Vihear Province	2020-05-21	2020-05-21T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-05-21		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-05-21		0	8	5							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Santiago_Metropolitan_Region	Santiago Metropolitan Region	2020-05-21	2020-05-20T04:00:00.000Z	348	41179			3588	30		448	6	23.43	2316.29		https://www.minsal.cl/
+Shymkent	Shymkent	2020-05-21		6	485	209							0.0	33.57	6.14	https://www.coronavirus2020.kz/
+Siem_Reap_Province	Siem Reap Province	2020-05-21	2020-05-21T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
+Singapore	Singapore	2020-05-21	2020-05-20T04:00:00.000Z	22	29364	11207	294414	570	0	842	570	0	0.14	574.0	914.0	https://www.moh.gov.sg/covid-19
 Taranaki	Taranaki	2020-05-21	2020-05-20T01:00:00.000Z		16	16								0.0	0.0	https://www.health.govt.nz/
-Tarapac%C3%A1_Region	Tarapacá Region	2020-05-21	2020-05-19T04:00:00.000Z	4	1109								0.43	70.57		https://www.minsal.cl/
-Valpara%C3%ADso_Region	Valparaíso Region	2020-05-21	2020-05-19T04:00:00.000Z	32	1639								1.14	73.71		https://www.minsal.cl/
+Tarapac%C3%A1_Region	Tarapacá Region	2020-05-21	2020-05-20T04:00:00.000Z	4	1139			30	0		-23	0	0.43	74.86		https://www.minsal.cl/
+T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-05-21		0	4	3							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Tboung_Khmum_Province	Tboung Khmum Province	2020-05-21	2020-05-21T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Th%C3%A1i_B%C3%ACnh_Province	Thái Bình Province	2020-05-21		0	29	2							0.0	3.86	0.14	https://ncov.moh.gov.vn/
+Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-05-21		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-05-21		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-05-21		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-05-21		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Turkistan_Region	Turkistan Region	2020-05-21		1	245	157							0.0	7.0	5.14	https://www.coronavirus2020.kz/
+Valpara%C3%ADso_Region	Valparaíso Region	2020-05-21	2020-05-20T04:00:00.000Z	35	1770			131	3		45	1	1.57	92.43		https://www.minsal.cl/
+Vietnam	Vietnam	2020-05-21		0	324	264							0.0	5.14	0.57	https://ncov.moh.gov.vn/
+V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-05-21		0	19	19							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Waikato	Waikato	2020-05-21	2020-05-20T01:00:00.000Z	1	188	186							0.0	0.0	0.71	https://www.health.govt.nz/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-05-21	2020-05-20T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
+West_Kazakhstan_Region	West Kazakhstan Region	2020-05-21			339	189								9.57	8.43	https://www.coronavirus2020.kz/
 Whanganui	Whanganui	2020-05-21	2020-05-20T01:00:00.000Z		9	9								0.0	0.0	https://www.health.govt.nz/
