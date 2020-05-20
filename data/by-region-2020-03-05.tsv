@@ -1,7 +1,7 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Abruzzo	Abruzzo	2020-03-05		0	8	0	96	1	0	0	0	0	0.0	1.0	0.0	http://www.salute.gov.it/
 Afghanistan	Afghanistan	2020-03-05		0	1			0	0		0	0	0.0	0.0		https://www.who.int/
-Algeria	Algeria	2020-03-05	2020-05-18T11:41:12.000Z	0	12			0	0	0	-7	0	0.0	1.57		https://www.ecdc.europa.eu/
+Algeria	Algeria	2020-03-05	2020-05-19T11:41:27.000Z	0	12			0	0	0	-7	0	0.0	1.57		https://www.ecdc.europa.eu/
 Andalusia	Andalusia	2020-03-05	2020-05-18T18:55:09.000Z		21			9			9			2.14		https://www.mscbs.gob.es/
 Andorra	Andorra	2020-03-05		0	1			0	0		0	0				https://www.who.int/
 Antwerp_Province	Antwerp Province	2020-03-05	2020-03-05		24			11			5					https://epistat.wiv-isp.be/Covid/
@@ -14,21 +14,21 @@ Asturias	Asturias	2020-03-05	2020-05-18T18:55:09.000Z		5			1			0			0.71		https:/
 Australia	Australia	2020-03-05		2	57			16	1	1	8	1	0.29	4.86		https://www.who.int/
 Austria	Austria	2020-03-05		0	37			8	0	0	3	0	0.0	4.71		https://www.who.int/
 Azerbaijan	Azerbaijan	2020-03-05		0	3			0	0		0	0	0.0	0.43		https://www.who.int/
-Bahrain	Bahrain	2020-03-05	2020-05-18T11:41:12.000Z	0	52			3	0	0	3	0	0.0	2.71		https://www.ecdc.europa.eu/
+Bahrain	Bahrain	2020-03-05	2020-05-19T11:41:27.000Z	0	52			3	0	0	3	0	0.0	2.71		https://www.ecdc.europa.eu/
 Balearic_Islands	Balearic Islands	2020-03-05	2020-05-18T18:55:09.000Z		6			0			-1			0.71		https://www.mscbs.gob.es/
 Basilicata	Basilicata	2020-03-05		0	1	0	54	0	0	0	0	0	0.0	0.14	0.0	http://www.salute.gov.it/
 Basque_Country_(autonomous_community)	Basque Country (autonomous community)	2020-03-05	2020-05-18T18:55:09.000Z		45			28			28			6.43		https://www.mscbs.gob.es/
-Belarus	Belarus	2020-03-05	2020-05-18T11:41:12.000Z	0	6			0	0	0	-5	0	0.0	0.86		https://www.ecdc.europa.eu/
+Belarus	Belarus	2020-03-05	2020-05-19T11:41:27.000Z	0	6			0	0	0	-5	0	0.0	0.86		https://www.ecdc.europa.eu/
 Belgium	Belgium	2020-03-05		0	50			27	0	0	12	0	0.0	7.0		https://www.who.int/
-Birmingham	Birmingham	2020-03-05			3											https://www.gov.uk/
-Borough_of_Wokingham	Borough of Wokingham	2020-03-05			3											https://www.gov.uk/
+Birmingham	Birmingham	2020-03-05			3			1			0					https://www.gov.uk/
+Borough_of_Wokingham	Borough of Wokingham	2020-03-05			3			1			0					https://www.gov.uk/
 Bosnia_and_Herzegovina	Bosnia and Herzegovina	2020-03-05		0	2											https://www.who.int/
-Bournemouth,_Christchurch_and_Poole	Bournemouth, Christchurch and Poole	2020-03-05			2											https://www.gov.uk/
+Bournemouth,_Christchurch_and_Poole	Bournemouth, Christchurch and Poole	2020-03-05			2			2								https://www.gov.uk/
 Brazil	Brazil	2020-03-05		0	8			1	0	0	-3	0	0.0	1.0		https://www.who.int/
 Brussels	Brussels	2020-03-05	2020-03-05		19			2			-3					https://epistat.wiv-isp.be/Covid/
 Calabria	Calabria	2020-03-05		0	2	0	53	1	0	0	1	0	0.0	0.29	0.0	http://www.salute.gov.it/
 Cambodia	Cambodia	2020-03-05		0	1			0	0		0	0	0.0	0.0		https://www.who.int/
-Cambs,_Germany	Cambs, Germany	2020-03-05			2											https://www.gov.uk/
+Cambs,_Germany	Cambs, Germany	2020-03-05			2			1			0					https://www.gov.uk/
 Campania	Campania	2020-03-05		0	45	0	471	14	0	0	13	0	0.0	6.0	0.0	http://www.salute.gov.it/
 Canada	Canada	2020-03-05		0	49			4	0	0	-11	0	0.0	5.0		https://www.who.int/
 Canary_Islands	Canary Islands	2020-03-05	2020-05-18T18:55:09.000Z		11			3			2			0.71		https://www.mscbs.gob.es/
@@ -42,7 +42,7 @@ China	China	2020-03-05		3015	80565			143	31	31	23	-6	38.29	276.43		https://www.w
 City_of_Westminster	City of Westminster	2020-03-05			4			1			0					https://www.gov.uk/
 Colombia	Colombia	2020-03-05		0	1											https://www.who.int/
 Community_of_Madrid	Community of Madrid	2020-03-05	2020-05-18T18:55:09.000Z		311			112			55			43.0		https://www.mscbs.gob.es/
-Cornwall	Cornwall	2020-03-05			3			1			1					https://www.gov.uk/
+Cornwall	Cornwall	2020-03-05			3			1			0					https://www.gov.uk/
 County_Carlow	County Carlow	2020-03-05			0			0			0					https://www.gov.ie/
 County_Cavan	County Cavan	2020-03-05			0			0			0					https://www.gov.ie/
 County_Clare	County Clare	2020-03-05			0			0			0					https://www.gov.ie/
@@ -69,21 +69,21 @@ County_Waterford	County Waterford	2020-03-05			0			0			0					https://www.gov.ie/
 County_Westmeath	County Westmeath	2020-03-05			0			0			0					https://www.gov.ie/
 County_Wexford	County Wexford	2020-03-05			0			0			0					https://www.gov.ie/
 County_Wicklow	County Wicklow	2020-03-05			0			0			0					https://www.gov.ie/
-Coventry	Coventry	2020-03-05			1											https://www.gov.uk/
+Coventry	Coventry	2020-03-05			1			1								https://www.gov.uk/
 Croatia	Croatia	2020-03-05		0	10			1	0		1	0	0.0	1.0		https://www.who.int/
-Cumbria	Cumbria	2020-03-05			4											https://www.gov.uk/
+Cumbria	Cumbria	2020-03-05			4			2			0					https://www.gov.uk/
 Czech_Republic	Czech Republic	2020-03-05		0	12			7	0	0	7	0	0.0	1.71		https://www.who.int/
 Denmark	Denmark	2020-03-05		0	18			8	0	0	6	0	0.0	2.43		https://www.who.int/
 Devon	Devon	2020-03-05			15			1			-2					https://www.gov.uk/
 Dominican_Republic	Dominican Republic	2020-03-05		0	1			0	0		0	0	0.0	0.14		https://www.who.int/
-Earth	Earth	2020-03-05	2020-05-19T01:39:20.946Z	3337	97008			2868	80		619	-4	76.71	2128.86		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-03-05	2020-05-19T23:41:35.740Z	3337	97008			2868	80		619	-4	76.71	2128.86		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Flanders	East Flanders	2020-03-05	2020-03-05		17			9			6					https://epistat.wiv-isp.be/Covid/
 East_Midlands	East Midlands	2020-03-05			20			3			1			2.43		https://www.gov.uk/
 East_of_England	East of England	2020-03-05			20			1			-6					https://www.gov.uk/
 Ecuador	Ecuador	2020-03-05		0	13			0	0	0	-6	0	0.0	1.86		https://www.who.int/
 Egypt	Egypt	2020-03-05		0	3			1	0		1	0	0.0	0.29		https://www.who.int/
 Emilia-Romagna	Emilia-Romagna	2020-03-05		30	698	10	2884	154	8	4	30	4	4.14	85.86	1.43	http://www.salute.gov.it/
-England	England	2020-03-05			273			47			-2			33.43		https://www.gov.uk/
+England	England	2020-03-05			272			47			-2			33.29		https://www.gov.uk/
 Estonia	Estonia	2020-03-05		0	3			1	0		1	0	0.0	0.29		https://www.who.int/
 Extremadura	Extremadura	2020-03-05	2020-05-18T18:55:09.000Z		6			0			0			0.86		https://www.mscbs.gob.es/
 Faroe_Islands	Faroe Islands	2020-03-05		0	1											https://www.who.int/
@@ -95,49 +95,49 @@ Galicia_(Spain)	Galicia (Spain)	2020-03-05	2020-05-18T18:55:09.000Z		3			2			2		
 Georgia_(country)	Georgia (country)	2020-03-05		0	9			0	0	0	-6	0	0.0	1.0		https://www.who.int/
 Germany	Germany	2020-03-05		0	400			138	0	0	72	0	0.0	53.43		https://www.who.int/
 Gibraltar	Gibraltar	2020-03-05		0	1			0	0		0	0				https://www.who.int/
-Greater_London	Greater London	2020-03-05			74			14			-4			9.14		https://www.gov.uk/
+Greater_London	Greater London	2020-03-05			73			14			-4			9.14		https://www.gov.uk/
 Greece	Greece	2020-03-05		0	32			23	0	0	21	0	0.0	4.14		https://www.who.int/
 Hainaut_Province	Hainaut Province	2020-03-05	2020-03-05		17			10			4					https://epistat.wiv-isp.be/Covid/
-Hampshire	Hampshire	2020-03-05			3			1			1					https://www.gov.uk/
-Hungary	Hungary	2020-03-05	2020-05-18T11:41:12.000Z	0	2			0	0	0	0	0				https://www.ecdc.europa.eu/
-Iceland	Iceland	2020-03-05	2020-05-18T11:41:12.000Z	0	26			0	0	0	-10	0	0.0	3.71		https://www.ecdc.europa.eu/
+Hampshire	Hampshire	2020-03-05			3			1			0					https://www.gov.uk/
+Hungary	Hungary	2020-03-05	2020-05-19T11:41:27.000Z	0	2			0	0	0	0	0				https://www.ecdc.europa.eu/
+Iceland	Iceland	2020-03-05	2020-05-19T11:41:27.000Z	0	26			0	0	0	-10	0	0.0	3.71		https://www.ecdc.europa.eu/
 India	India	2020-03-05		0	29			2	0	0	-20	0	0.0	3.71		https://www.who.int/
 Indiana	Indiana	2020-03-05		0	0		13	0	0		0	0				https://coronavirus.in.gov/
 Indonesia	Indonesia	2020-03-05		0	2			0	0		0	0	0.0	0.29		https://www.who.int/
 Iran	Iran	2020-03-05		107	3513			591	15	15	5	4	11.57	466.86		https://www.who.int/
 Iraq	Iraq	2020-03-05		2	36			0	0	0	-5	0	0.29	4.29		https://www.who.int/
-Israel	Israel	2020-03-05	2020-05-18T11:41:12.000Z	0	15			0	0	0	-3	0	0.0	1.71		https://www.ecdc.europa.eu/
+Israel	Israel	2020-03-05	2020-05-19T11:41:27.000Z	0	15			0	0	0	-3	0	0.0	1.71		https://www.ecdc.europa.eu/
 Italy	Italy	2020-03-05		148	3858	414	32362	769	27	138	182	-1	18.71	458.29	52.71	http://www.salute.gov.it/
 Japan	Japan	2020-03-05		6	349			62	0	0	59	0	0.29	23.14		https://www.who.int/
 Jordan	Jordan	2020-03-05		0	1			0	0		0	0				https://www.who.int/
-Kent	Kent	2020-03-05			5											https://www.gov.uk/
+Kent	Kent	2020-03-05			4			2			1					https://www.gov.uk/
 Kuwait	Kuwait	2020-03-05		0	58			2	0		2	0	0.0	2.14		https://www.who.int/
-Lancashire	Lancashire	2020-03-05			4											https://www.gov.uk/
+Lancashire	Lancashire	2020-03-05			4			2			0					https://www.gov.uk/
 Latvia	Latvia	2020-03-05		0	1			0	0		0	0				https://www.who.int/
 Lazio	Lazio	2020-03-05		0	44	3	1175	14	0	0	-2	0	0.0	5.86	0.0	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-03-05		0	16			3	0		3	0	0.0	1.86		https://www.who.int/
-Leicestershire	Leicestershire	2020-03-05			3											https://www.gov.uk/
-Liechtenstein	Liechtenstein	2020-03-05	2020-05-18T11:41:12.000Z	0	1				0							https://www.ecdc.europa.eu/
+Leicestershire	Leicestershire	2020-03-05			3			1			0					https://www.gov.uk/
+Liechtenstein	Liechtenstein	2020-03-05	2020-05-19T11:41:27.000Z	0	1				0							https://www.ecdc.europa.eu/
+Li%C3%A8ge_Province	Liège Province	2020-03-05	2020-03-05		21			6			1					https://epistat.wiv-isp.be/Covid/
 Liguria	Liguria	2020-03-05		3	28	4	146	2	2	0	0	2	0.43	1.29	0.57	http://www.salute.gov.it/
 Limburg_(Belgium)	Limburg (Belgium)	2020-03-05	2020-03-05		21			8			-1					https://epistat.wiv-isp.be/Covid/
 Lithuania	Lithuania	2020-03-05		0	1			0	0		0	0	0.0	0.14		https://www.who.int/
-Li%C3%A8ge_Province	Liège Province	2020-03-05	2020-03-05		21			6			1					https://epistat.wiv-isp.be/Covid/
 Lombardy	Lombardy	2020-03-05		98	2251	376	12354	431	25	126	131	7	12.0	264.0	48.0	http://www.salute.gov.it/
-London_Borough_of_Barnet	London Borough of Barnet	2020-03-05			8			1			1					https://www.gov.uk/
+London_Borough_of_Barnet	London Borough of Barnet	2020-03-05			7			1			-3					https://www.gov.uk/
 London_Borough_of_Ealing	London Borough of Ealing	2020-03-05			6			1			0					https://www.gov.uk/
-London_Borough_of_Hillingdon	London Borough of Hillingdon	2020-03-05			4			2			2					https://www.gov.uk/
-London_Borough_of_Southwark	London Borough of Southwark	2020-03-05			6			1			1					https://www.gov.uk/
-London_Borough_of_Tower_Hamlets	London Borough of Tower Hamlets	2020-03-05			3			1			1					https://www.gov.uk/
-London_Borough_of_Waltham_Forest	London Borough of Waltham Forest	2020-03-05			1											https://www.gov.uk/
+London_Borough_of_Hillingdon	London Borough of Hillingdon	2020-03-05			4			2			1					https://www.gov.uk/
+London_Borough_of_Southwark	London Borough of Southwark	2020-03-05			6			1			0					https://www.gov.uk/
+London_Borough_of_Tower_Hamlets	London Borough of Tower Hamlets	2020-03-05			3			1			-1					https://www.gov.uk/
+London_Borough_of_Waltham_Forest	London Borough of Waltham Forest	2020-03-05			1			1								https://www.gov.uk/
 Luxembourg	Luxembourg	2020-03-05		0	1			0	0		0	0	0.0	0.14		https://www.who.int/
 Malaysia	Malaysia	2020-03-05		0	55			19	0	0	19	0	0.0	4.43		https://www.who.int/
 Manchester	Manchester	2020-03-05			4			2			1					https://www.gov.uk/
 Marche	Marche	2020-03-05		4	124	0	413	40	0	0	17	-2	0.57	17.29	0.0	http://www.salute.gov.it/
 Melilla	Melilla	2020-03-05	2020-05-18T18:55:09.000Z		0			0			0			0.0		https://www.mscbs.gob.es/
-Metropolitan_Borough_of_Bolton	Metropolitan Borough of Bolton	2020-03-05			2											https://www.gov.uk/
-Metropolitan_Borough_of_Oldham	Metropolitan Borough of Oldham	2020-03-05			2											https://www.gov.uk/
-Metropolitan_Borough_of_Stockport	Metropolitan Borough of Stockport	2020-03-05			2											https://www.gov.uk/
-Metropolitan_Borough_of_Wigan	Metropolitan Borough of Wigan	2020-03-05			4											https://www.gov.uk/
+Metropolitan_Borough_of_Bolton	Metropolitan Borough of Bolton	2020-03-05			2			1			0					https://www.gov.uk/
+Metropolitan_Borough_of_Oldham	Metropolitan Borough of Oldham	2020-03-05			2			1			0					https://www.gov.uk/
+Metropolitan_Borough_of_Stockport	Metropolitan Borough of Stockport	2020-03-05			2			1			0					https://www.gov.uk/
+Metropolitan_Borough_of_Wigan	Metropolitan Borough of Wigan	2020-03-05			4			1			-1					https://www.gov.uk/
 Mexico	Mexico	2020-03-05		0	5			0	0		0	0	0.0	0.43		https://www.who.int/
 Molise	Molise	2020-03-05		0	7	0	24	4	0	0	4	0	0.0	1.0	0.0	http://www.salute.gov.it/
 Monaco	Monaco	2020-03-05		0	1			0	0		0	0	0.0	0.14		https://www.who.int/
@@ -146,16 +146,16 @@ Namur_Province	Namur Province	2020-03-05	2020-03-05		3			1			0					https://epist
 Navarre	Navarre	2020-03-05	2020-05-18T18:55:09.000Z		3			0			0			0.43		https://www.mscbs.gob.es/
 Nepal	Nepal	2020-03-05		0	1			0	0		0	0	0.0	0.0		https://www.who.int/
 Netherlands	Netherlands	2020-03-05		0	82			44	0	0	34	0	0.0	11.57		https://www.who.int/
-New_Zealand	New Zealand	2020-03-05	2020-05-18T11:41:12.000Z	0	3			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
-Newcastle_upon_Tyne	Newcastle upon Tyne	2020-03-05			3			1			1					https://www.gov.uk/
+New_Zealand	New Zealand	2020-03-05	2020-05-19T11:41:27.000Z	0	3			1	0	0	1	0	0.0	0.43		https://www.ecdc.europa.eu/
+Newcastle_upon_Tyne	Newcastle upon Tyne	2020-03-05			3			1			0					https://www.gov.uk/
 Nigeria	Nigeria	2020-03-05		0	1			0	0		0	0	0.0	0.14		https://www.who.int/
-North_East_England	North East England	2020-03-05			4			2			2					https://www.gov.uk/
+North_East_England	North East England	2020-03-05			4			2			1					https://www.gov.uk/
 North_Macedonia	Republic of Macedonia	2020-03-05		0	1			0	0		0	0	0.0	0.0		https://www.who.int/
-North_Tyneside	North Tyneside	2020-03-05			1											https://www.gov.uk/
+North_Tyneside	North Tyneside	2020-03-05			1			1								https://www.gov.uk/
 North_West_England	North West England	2020-03-05			34			10			8					https://www.gov.uk/
-Northamptonshire	Northamptonshire	2020-03-05			3											https://www.gov.uk/
-Norway	Norway	2020-03-05	2020-05-18T11:41:12.000Z	0	56			23	0	0	23	0	0.0	7.43		https://www.ecdc.europa.eu/
-Nottingham	Nottingham	2020-03-05			2											https://www.gov.uk/
+Northamptonshire	Northamptonshire	2020-03-05			3			1			0					https://www.gov.uk/
+Norway	Norway	2020-03-05	2020-05-19T11:41:27.000Z	0	56			23	0	0	23	0	0.0	7.43		https://www.ecdc.europa.eu/
+Nottingham	Nottingham	2020-03-05			2			1			0					https://www.gov.uk/
 Oman	Oman	2020-03-05		0	16			1	0	0	-2	0	0.0	1.43		https://www.who.int/
 Pakistan	Pakistan	2020-03-05		0	5			0	0		0	0	0.0	0.43		https://www.who.int/
 Philippines	Philippines	2020-03-05		1	3			0	0		0	0	0.0	0.0		https://www.who.int/
@@ -166,8 +166,8 @@ Qatar	Qatar	2020-03-05		0	8			0	0		0	0	0.0	1.14		https://www.who.int/
 Region_of_Murcia	Region of Murcia	2020-03-05	2020-05-18T18:55:09.000Z		0			0			0			0.0		https://www.mscbs.gob.es/
 Republic_of_Ireland	Republic of Ireland	2020-03-05		0	14			12	0	0	12	0	0.0	2.0		https://www.who.int/
 Romania	Romania	2020-03-05		0	6			2	0		2	0	0.0	0.71		https://www.who.int/
-Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-03-05			16			6			6					https://www.gov.uk/
-Russia	Russia	2020-03-05	2020-05-18T11:41:12.000Z	0	4			0	0	0	-1	0	0.0	0.29		https://www.ecdc.europa.eu/
+Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-03-05			16			6			2					https://www.gov.uk/
+Russia	Russia	2020-03-05	2020-05-19T11:41:27.000Z	0	4			0	0	0	-1	0	0.0	0.29		https://www.ecdc.europa.eu/
 Saint_Barth%C3%A9lemy	Saint Barthélemy	2020-03-05		0	1			0	0		0	0				https://www.who.int/
 San_Marino	San Marino	2020-03-05		0	21			5	0	0	-3	0	0.0	3.0		https://www.who.int/
 Sardinia	Sardinia	2020-03-05		0	2	0	50	0	0	0	-1	0	0.0	0.29	0.0	http://www.salute.gov.it/
@@ -179,7 +179,7 @@ Singapore	Singapore	2020-03-05		0	117			7	0	0	7	0	0.0	3.0		https://www.who.int/
 Slovenia	Slovenia	2020-03-05		0	5			4	0	0	4	0				https://www.who.int/
 South_Africa	South Africa	2020-03-05		0	1											https://www.who.int/
 South_East_England	South East England	2020-03-05			38			4			-3			3.11		https://www.gov.uk/
-South_Korea	South Korea	2020-03-05	2020-05-18T11:41:12.000Z	35	5766			438	3	3	-78	-1	3.14	571.43		https://www.ecdc.europa.eu/
+South_Korea	South Korea	2020-03-05	2020-05-19T11:41:27.000Z	35	5766			438	3	3	-78	-1	3.14	571.43		https://www.ecdc.europa.eu/
 South_Tyrol	South Tyrol	2020-03-05		0	1	0	20	0	0	0	0	0	0.0	0.0	0.0	http://www.salute.gov.it/
 South_West_England	South West England	2020-03-05			33			4			-2					https://www.gov.uk/
 Spain	Spain	2020-03-05	2020-05-18T18:55:09.000Z	0	534	0		183	1	0	102	1	0.0	71.14	0.0	https://www.mscbs.gob.es/
@@ -188,20 +188,20 @@ Staffordshire	Staffordshire	2020-03-05			4			1			0					https://www.gov.uk/
 State_of_Palestine	State of Palestine	2020-03-05		0	7											https://www.who.int/
 Sweden	Sweden	2020-03-05		0	61			26	0	0	15	0	0.0	7.71		https://www.who.int/
 Switzerland	Switzerland	2020-03-05		1	86			29	0	0	9	0	0.14	11.43		https://www.who.int/
-Thailand	Thailand	2020-03-05	2020-05-18T11:41:12.000Z	1	47			4	0	0	4	0	0.14	1.0		https://www.ecdc.europa.eu/
+Thailand	Thailand	2020-03-05	2020-05-19T11:41:27.000Z	1	47			4	0	0	4	0	0.14	1.0		https://www.ecdc.europa.eu/
 Trentino	Trentino	2020-03-05		0	7	0	122	2	0	0	1	0	0.0	1.0	0.0	http://www.salute.gov.it/
 Tunisia	Tunisia	2020-03-05		0	1			0	0		0	0				https://www.who.int/
 Tuscany	Tuscany	2020-03-05		0	61	1	776	23	0	0	4	0	0.0	8.43	0.14	http://www.salute.gov.it/
 Ukraine	Ukraine	2020-03-05		0	1			0	0		0	0				https://www.who.int/
 Umbria	Umbria	2020-03-05		0	9	0	88	0	0	0	-1	0	0.0	1.29	0.0	http://www.salute.gov.it/
-United_Kingdom	United Kingdom	2020-03-05	2020-05-18T11:41:12.000Z	0	85			34	0	0	23	0	0.0	10.29		https://www.ecdc.europa.eu/
+United_Kingdom	United Kingdom	2020-03-05	2020-05-19T11:41:27.000Z	0	85			34	0	0	23	0	0.0	10.29		https://www.ecdc.europa.eu/
 United_States	United States	2020-03-05		11	213			65	2		46	-1	1.57	21.57		https://www.who.int/
 Valencian_Community	Valencian Community	2020-03-05	2020-05-18T18:55:09.000Z		30			11			11			3.14		https://www.mscbs.gob.es/
 Veneto	Veneto	2020-03-05		10	407	17	11949	47	4	8	-6	1	1.14	42.29	2.43	http://www.salute.gov.it/
 Vietnam	Vietnam	2020-03-05		0	16			0	0		0	0	0.0	0.0		https://www.who.int/
 Walloon_Brabant	Walloon Brabant	2020-03-05	2020-03-05		8			3			2					https://epistat.wiv-isp.be/Covid/
-Warwickshire	Warwickshire	2020-03-05			7			2			2					https://www.gov.uk/
+Warwickshire	Warwickshire	2020-03-05			7			2			0					https://www.gov.uk/
 West_Flanders	West Flanders	2020-03-05	2020-03-05		21			14			13					https://epistat.wiv-isp.be/Covid/
 West_Midlands_(region)	West Midlands (region)	2020-03-05			18			6			3					https://www.gov.uk/
-Wolverhampton	Wolverhampton	2020-03-05			1											https://www.gov.uk/
+Wolverhampton	Wolverhampton	2020-03-05			1			1								https://www.gov.uk/
 Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-03-05			19			2			0			0.55		https://www.gov.uk/
