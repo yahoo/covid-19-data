@@ -1,20 +1,391 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+29001,_Alcolu,_South_Carolina,_South_Carolina	29001, Alcolu, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29003,_Bamberg,_South_Carolina,_South_Carolina	29003, Bamberg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			0			0.29		https://www.scdhec.gov/
+29009,_Bethune,_South_Carolina,_South_Carolina	29009, Bethune, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			-2			0.43		https://www.scdhec.gov/
+29010,_Bishopville,_South_Carolina,_South_Carolina	29010, Bishopville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		162			0			-6			2.86		https://www.scdhec.gov/
+29016,_Blythewood,_South_Carolina,_South_Carolina	29016, Blythewood, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		59			0			0			0.43		https://www.scdhec.gov/
+29018,_Bowman,_South_Carolina,_South_Carolina	29018, Bowman, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29020,_Camden_station_(South_Carolina),_South_Carolina	29020, Camden station (South Carolina), South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		141			0			-2			0.71		https://www.scdhec.gov/
+29030,_Cameron,_South_Carolina,_South_Carolina	29030, Cameron, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29031,_Carlisle,_South_Carolina,_South_Carolina	29031, Carlisle, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29033,_Cayce,_South_Carolina,_South_Carolina	29033, Cayce, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.29		https://www.scdhec.gov/
+29036,_Chapin,_South_Carolina,_South_Carolina	29036, Chapin, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		57			0			0			0.29		https://www.scdhec.gov/
+29039,_Cordova,_South_Carolina,_South_Carolina	29039, Cordova, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29040,_Dalzell,_South_Carolina,_South_Carolina	29040, Dalzell, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29042,_Denmark,_South_Carolina,_South_Carolina	29042, Denmark, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.14		https://www.scdhec.gov/
+29044,_Eastover,_South_Carolina,_South_Carolina	29044, Eastover, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		15			0			0			0.0		https://www.scdhec.gov/
+29045,_Elgin,_Kershaw_County,_South_Carolina,_South_Carolina	29045, Elgin, Kershaw County, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		97			0			-4			3.14		https://www.scdhec.gov/
+29047,_Elloree,_South_Carolina,_South_Carolina	29047, Elloree, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29048,_Eutawville,_South_Carolina,_South_Carolina	29048, Eutawville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29052,_Gadsden,_South_Carolina,_South_Carolina	29052, Gadsden, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29053,_Gaston,_South_Carolina,_South_Carolina	29053, Gaston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		45			0			-3			0.71		https://www.scdhec.gov/
+29054,_Gilbert,_South_Carolina,_South_Carolina	29054, Gilbert, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29055,_Great_Falls,_South_Carolina,_South_Carolina	29055, Great Falls, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			-1			0.43		https://www.scdhec.gov/
+29056,_Greeleyville,_South_Carolina,_South_Carolina	29056, Greeleyville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			-1			0.14		https://www.scdhec.gov/
+29058,_Heath_Springs,_South_Carolina,_South_Carolina	29058, Heath Springs, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29059,_Holly_Hill,_South_Carolina,_South_Carolina	29059, Holly Hill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29061,_Hopkins,_South_Carolina,_South_Carolina	29061, Hopkins, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		41			0			0			0.86		https://www.scdhec.gov/
+29063,_Irmo,_South_Carolina,_South_Carolina	29063, Irmo, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		59			0			-1			0.57		https://www.scdhec.gov/
+29065,_Jenkinsville,_South_Carolina,_South_Carolina	29065, Jenkinsville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29067,_Kershaw,_South_Carolina,_South_Carolina	29067, Kershaw, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29069,_Lamar,_South_Carolina,_South_Carolina	29069, Lamar, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			0			0.29		https://www.scdhec.gov/
+29072,_Lexington,_South_Carolina,_South_Carolina	29072, Lexington, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		99			0			0			1.14		https://www.scdhec.gov/
+29073,_Lexington,_South_Carolina,_South_Carolina	29073, Lexington, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		71			0			-2			0.86		https://www.scdhec.gov/
+29075,_Little_Mountain,_South_Carolina,_South_Carolina	29075, Little Mountain, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29078,_Lugoff,_South_Carolina,_South_Carolina	29078, Lugoff, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		54			0			-2			0.43		https://www.scdhec.gov/
+29080,_Lynchburg,_South_Carolina,_South_Carolina	29080, Lynchburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		20			0			0			0.29		https://www.scdhec.gov/
+29081,_Ehrhardt,_South_Carolina,_South_Carolina	29081, Ehrhardt, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29082,_Lodge,_South_Carolina,_South_Carolina	29082, Lodge, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29101,_McBee,_South_Carolina,_South_Carolina	29101, McBee, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			-1			0.29		https://www.scdhec.gov/
+29102,_Manning,_South_Carolina,_South_Carolina	29102, Manning, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		186			0			0			0.57		https://www.scdhec.gov/
+29104,_Mayesville,_South_Carolina,_South_Carolina	29104, Mayesville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			-1			0.29		https://www.scdhec.gov/
+29105,_Monetta,_South_Carolina,_South_Carolina	29105, Monetta, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29107,_Neeses,_South_Carolina,_South_Carolina	29107, Neeses, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29108,_Newberry,_South_Carolina,_South_Carolina	29108, Newberry, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			0			1.86		https://www.scdhec.gov/
+29112,_North,_South_Carolina,_South_Carolina	29112, North, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.0		https://www.scdhec.gov/
+29113,_Norway,_South_Carolina,_South_Carolina	29113, Norway, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29114,_Olanta,_South_Carolina,_South_Carolina	29114, Olanta, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.14		https://www.scdhec.gov/
+29115,_Orangeburg,_South_Carolina,_South_Carolina	29115, Orangeburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		37			0			-6			1.71		https://www.scdhec.gov/
+29117,_Orangeburg,_South_Carolina,_South_Carolina	29117, Orangeburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29118,_Orangeburg,_South_Carolina,_South_Carolina	29118, Orangeburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		21			0			-5			1.14		https://www.scdhec.gov/
+29123,_Pelion,_South_Carolina,_South_Carolina	29123, Pelion, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29125,_Pinewood,_South_Carolina,_South_Carolina	29125, Pinewood, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29126,_Pomaria,_South_Carolina,_South_Carolina	29126, Pomaria, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29127,_Prosperity,_South_Carolina,_South_Carolina	29127, Prosperity, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29128,_Rembert,_South_Carolina,_South_Carolina	29128, Rembert, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		31			0			-1			0.43		https://www.scdhec.gov/
+29129,_Ridge_Spring,_South_Carolina,_South_Carolina	29129, Ridge Spring, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.0		https://www.scdhec.gov/
+29130,_Ridgeway,_South_Carolina,_South_Carolina	29130, Ridgeway, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		112			0			-2			3.71		https://www.scdhec.gov/
+29133,_Rowesville,_South_Carolina,_South_Carolina	29133, Rowesville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29135,_St._Matthews,_South_Carolina,_South_Carolina	29135, St. Matthews, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.0		https://www.scdhec.gov/
+29137,_Salley,_South_Carolina,_South_Carolina	29137, Salley, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29138,_Saluda,_South_Carolina,_South_Carolina	29138, Saluda, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		124			0			-2			1.57		https://www.scdhec.gov/
+29142,_Santee,_South_Carolina,_South_Carolina	29142, Santee, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			-1			0.14		https://www.scdhec.gov/
+29145,_Silverstreet,_South_Carolina,_South_Carolina	29145, Silverstreet, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29146,_Springfield,_South_Carolina,_South_Carolina	29146, Springfield, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29148,_Summerton,_South_Carolina,_South_Carolina	29148, Summerton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		71			0			0			0.57		https://www.scdhec.gov/
+29150,_Sumter,_South_Carolina,_South_Carolina	29150, Sumter, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		113			0			-1			1.71		https://www.scdhec.gov/
+29152,_Shaw_Air_Force_Base,_South_Carolina	29152, Shaw Air Force Base, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29153,_Sumter,_South_Carolina,_South_Carolina	29153, Sumter, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		50			0			-1			0.57		https://www.scdhec.gov/
+29154,_Sumter,_South_Carolina,_South_Carolina	29154, Sumter, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		103			0			-2			0.43		https://www.scdhec.gov/
+29160,_Swansea,_South_Carolina,_South_Carolina	29160, Swansea, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		19			0			-1			0.43		https://www.scdhec.gov/
+29161,_Timmonsville,_South_Carolina,_South_Carolina	29161, Timmonsville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		36			0			-1			0.29		https://www.scdhec.gov/
+29162,_Turbeville,_South_Carolina,_South_Carolina	29162, Turbeville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29163,_Vance,_South_Carolina,_South_Carolina	29163, Vance, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.14		https://www.scdhec.gov/
+29164,_Wagener,_South_Carolina,_South_Carolina	29164, Wagener, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			0			0.14		https://www.scdhec.gov/
+29166,_Ward,_South_Carolina,_South_Carolina	29166, Ward, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29168,_Wedgefield,_South_Carolina,_South_Carolina	29168, Wedgefield, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29169,_West_Columbia,_South_Carolina,_South_Carolina	29169, West Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		85			0			-1			0.57		https://www.scdhec.gov/
+29170,_West_Columbia,_South_Carolina,_South_Carolina	29170, West Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		34			0			0			0.43		https://www.scdhec.gov/
+29172,_West_Columbia,_South_Carolina,_South_Carolina	29172, West Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		24			0			-1			0.43		https://www.scdhec.gov/
+29175,_Westville,_South_Carolina,_South_Carolina	29175, Westville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29178,_Whitmire,_South_Carolina,_South_Carolina	29178, Whitmire, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29180,_Winnsboro,_South_Carolina,_South_Carolina	29180, Winnsboro, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		35			0			-1			1.14		https://www.scdhec.gov/
+29201,_Columbia,_South_Carolina,_South_Carolina	29201, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		37			0			-2			0.57		https://www.scdhec.gov/
+29203,_Columbia,_South_Carolina,_South_Carolina	29203, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		150			0			-3			1.43		https://www.scdhec.gov/
+29204,_Columbia,_South_Carolina,_South_Carolina	29204, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		61			0			0			0.43		https://www.scdhec.gov/
+29205,_Columbia,_South_Carolina,_South_Carolina	29205, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		32			0			-1			0.57		https://www.scdhec.gov/
+29206,_Columbia,_South_Carolina,_South_Carolina	29206, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		32			0			1			0.14		https://www.scdhec.gov/
+29207,_Columbia,_South_Carolina,_South_Carolina	29207, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		103			0			-3			1.57		https://www.scdhec.gov/
+29208,_Columbia,_South_Carolina,_South_Carolina	29208, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29209,_Columbia,_South_Carolina,_South_Carolina	29209, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		84			0			0			0.57		https://www.scdhec.gov/
+29210,_Columbia,_South_Carolina,_South_Carolina	29210, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		133			0			-3			1.71		https://www.scdhec.gov/
+29212,_Columbia,_South_Carolina,_South_Carolina	29212, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		47			0			-1			0.57		https://www.scdhec.gov/
+29223,_Columbia,_South_Carolina,_South_Carolina	29223, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		265			0			-2			4.14		https://www.scdhec.gov/
+29229,_Columbia,_South_Carolina,_South_Carolina	29229, Columbia, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		202			0			-3			2.57		https://www.scdhec.gov/
+29301,_Spartanburg,_South_Carolina,_South_Carolina	29301, Spartanburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		38			0			-1			1.14		https://www.scdhec.gov/
+29302,_Spartanburg,_South_Carolina,_South_Carolina	29302, Spartanburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		18			0			0			0.14		https://www.scdhec.gov/
+29303,_Spartanburg,_South_Carolina,_South_Carolina	29303, Spartanburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		28			0			-2			0.71		https://www.scdhec.gov/
+29306,_Spartanburg,_South_Carolina,_South_Carolina	29306, Spartanburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		35			0			0			0.29		https://www.scdhec.gov/
+29307,_Spartanburg,_South_Carolina,_South_Carolina	29307, Spartanburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		17			0			0			0.29		https://www.scdhec.gov/
+29316,_Boiling_Springs,_South_Carolina,_South_Carolina	29316, Boiling Springs, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		39			0			0			0.29		https://www.scdhec.gov/
+29321,_Buffalo,_South_Carolina,_South_Carolina	29321, Buffalo, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29322,_Campobello,_South_Carolina,_South_Carolina	29322, Campobello, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.71		https://www.scdhec.gov/
+29323,_Chesnee,_South_Carolina,_South_Carolina	29323, Chesnee, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29325,_Clinton,_South_Carolina,_South_Carolina	29325, Clinton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29330,_Cowpens,_South_Carolina,_South_Carolina	29330, Cowpens, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			-1			0.14		https://www.scdhec.gov/
+29332,_Cross_Hill,_South_Carolina,_South_Carolina	29332, Cross Hill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29334,_Duncan,_South_Carolina,_South_Carolina	29334, Duncan, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29335,_Enoree,_South_Carolina,_South_Carolina	29335, Enoree, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29340,_Gaffney,_South_Carolina,_South_Carolina	29340, Gaffney, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29341,_Gaffney,_South_Carolina,_South_Carolina	29341, Gaffney, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.29		https://www.scdhec.gov/
+29349,_Inman,_South_Carolina,_South_Carolina	29349, Inman, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		55			0			-7			1.57		https://www.scdhec.gov/
+29351,_Joanna,_South_Carolina,_South_Carolina	29351, Joanna, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29353,_Jonesville,_South_Carolina,_South_Carolina	29353, Jonesville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29355,_Kinards,_South_Carolina,_South_Carolina	29355, Kinards, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29356,_Landrum,_South_Carolina,_South_Carolina	29356, Landrum, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			-1			0.14		https://www.scdhec.gov/
+29360,_Laurens,_South_Carolina,_South_Carolina	29360, Laurens, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		17			0			0			0.0		https://www.scdhec.gov/
+29365,_Lyman,_South_Carolina,_South_Carolina	29365, Lyman, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		27			0			0			0.29		https://www.scdhec.gov/
+29369,_Moore,_South_Carolina,_South_Carolina	29369, Moore, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.14		https://www.scdhec.gov/
+29370,_Mountville,_South_Carolina,_South_Carolina	29370, Mountville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29372,_Pacolet,_South_Carolina,_South_Carolina	29372, Pacolet, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.14		https://www.scdhec.gov/
+29374,_Pauline,_South_Carolina,_South_Carolina	29374, Pauline, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29376,_Roebuck,_South_Carolina,_South_Carolina	29376, Roebuck, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.0		https://www.scdhec.gov/
+29379,_Union,_South_Carolina,_South_Carolina	29379, Union, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		28			0			0			0.0		https://www.scdhec.gov/
+29384,_Waterloo,_South_Carolina,_South_Carolina	29384, Waterloo, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29385,_Wellford,_South_Carolina,_South_Carolina	29385, Wellford, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		33			0			0			0.29		https://www.scdhec.gov/
+29388,_Woodruff,_South_Carolina,_South_Carolina	29388, Woodruff, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		21			0			-1			0.71		https://www.scdhec.gov/
+29401,_Charleston,_South_Carolina,_South_Carolina	29401, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.43		https://www.scdhec.gov/
+29403,_Charleston,_South_Carolina,_South_Carolina	29403, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		32			0			0			0.14		https://www.scdhec.gov/
+29405,_North_Charleston,_South_Carolina,_South_Carolina	29405, North Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		42			0			0			0.14		https://www.scdhec.gov/
+29406,_Charleston,_South_Carolina,_South_Carolina	29406, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		34			0			-2			0.57		https://www.scdhec.gov/
+29407,_Charleston,_South_Carolina,_South_Carolina	29407, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		45			0			0			0.29		https://www.scdhec.gov/
+29410,_Hanahan,_South_Carolina,_South_Carolina	29410, Hanahan, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		51			0			0			0.14		https://www.scdhec.gov/
+29412,_Charleston,_South_Carolina,_South_Carolina	29412, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		45			0			0			0.14		https://www.scdhec.gov/
+29414,_Charleston,_South_Carolina,_South_Carolina	29414, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		42			0			-1			0.29		https://www.scdhec.gov/
+29418,_North_Charleston,_South_Carolina,_South_Carolina	29418, North Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		41			0			-1			1.71		https://www.scdhec.gov/
+29420,_North_Charleston,_South_Carolina,_South_Carolina	29420, North Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		31			0			0			0.14		https://www.scdhec.gov/
+29424,_Charleston,_South_Carolina,_South_Carolina	29424, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29425,_Charleston,_South_Carolina,_South_Carolina	29425, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		20			0			-2			1.0		https://www.scdhec.gov/
+29426,_Adams_Run,_South_Carolina,_South_Carolina	29426, Adams Run, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29429,_Awendaw,_South_Carolina,_South_Carolina	29429, Awendaw, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29431,_Bonneau,_South_Carolina,_South_Carolina	29431, Bonneau, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29432,_Branchville,_South_Carolina,_South_Carolina	29432, Branchville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29435,_Cottageville,_South_Carolina,_South_Carolina	29435, Cottageville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.14		https://www.scdhec.gov/
+29436,_Cross,_South_Carolina,_South_Carolina	29436, Cross, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29440,_Georgetown,_South_Carolina,_South_Carolina	29440, Georgetown, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		30			0			-2			0.57		https://www.scdhec.gov/
+29445,_Goose_Creek,_South_Carolina,_South_Carolina	29445, Goose Creek, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		41			0			-1			0.43		https://www.scdhec.gov/
+29448,_Harleyville,_South_Carolina,_South_Carolina	29448, Harleyville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29449,_Hollywood,_South_Carolina,_South_Carolina	29449, Hollywood, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29451,_Isle_of_Palms,_South_Carolina,_South_Carolina	29451, Isle of Palms, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.0		https://www.scdhec.gov/
+29453,_Jamestown,_South_Carolina,_South_Carolina	29453, Jamestown, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29455,_Johns_Island,_South_Carolina,_South_Carolina	29455, Johns Island, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		17			0			0			0.29		https://www.scdhec.gov/
+29456,_Ladson,_South_Carolina,_South_Carolina	29456, Ladson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		30			0			-2			0.71		https://www.scdhec.gov/
+29458,_McClellanville,_South_Carolina,_South_Carolina	29458, McClellanville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29461,_Moncks_Corner,_South_Carolina,_South_Carolina	29461, Moncks Corner, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		74			0			-1			0.43		https://www.scdhec.gov/
+29464,_Mount_Pleasant,_South_Carolina,_South_Carolina	29464, Mount Pleasant, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		68			0			0			0.14		https://www.scdhec.gov/
+29466,_Mount_Pleasant,_South_Carolina,_South_Carolina	29466, Mount Pleasant, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		47			0			0			0.29		https://www.scdhec.gov/
+29469,_Pinopolis,_South_Carolina,_South_Carolina	29469, Pinopolis, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29470,_Ravenel,_South_Carolina,_South_Carolina	29470, Ravenel, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.14		https://www.scdhec.gov/
+29471,_Reevesville,_South_Carolina,_South_Carolina	29471, Reevesville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29472,_Ridgeville,_South_Carolina,_South_Carolina	29472, Ridgeville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29474,_Round_O,_South_Carolina,_South_Carolina	29474, Round O, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29477,_St._George,_South_Carolina,_South_Carolina	29477, St. George, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29479,_St._Stephen,_South_Carolina,_South_Carolina	29479, St. Stephen, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.14		https://www.scdhec.gov/
+29481,_Smoaks,_South_Carolina,_South_Carolina	29481, Smoaks, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			-1			0.43		https://www.scdhec.gov/
+29482,_Sullivan%27s_Island,_South_Carolina,_South_Carolina	29482, Sullivan%27s Island, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			0			0.14		https://www.scdhec.gov/
+29483,_Summerville,_South_Carolina,_South_Carolina	29483, Summerville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		48			0			-6			2.0		https://www.scdhec.gov/
+29485,_Summerville,_South_Carolina,_South_Carolina	29485, Summerville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		42			0			-2			0.57		https://www.scdhec.gov/
+29487,_Wadmalaw_Island,_South_Carolina	29487, Wadmalaw Island, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29488,_Walterboro,_South_Carolina,_South_Carolina	29488, Walterboro, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		49			0			-1			1.57		https://www.scdhec.gov/
+29492,_Charleston,_South_Carolina,_South_Carolina	29492, Charleston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29501,_Florence,_South_Carolina,_South_Carolina	29501, Florence, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		182			0			-2			3.0		https://www.scdhec.gov/
+29505,_Florence,_South_Carolina,_South_Carolina	29505, Florence, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		91			0			-1			1.43		https://www.scdhec.gov/
+29506,_Florence,_South_Carolina,_South_Carolina	29506, Florence, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		98			0			-2			1.57		https://www.scdhec.gov/
+29510,_Andrews,_South_Carolina,_South_Carolina	29510, Andrews, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29511,_Aynor,_South_Carolina,_South_Carolina	29511, Aynor, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			-1			0.14		https://www.scdhec.gov/
+29512,_Bennettsville,_South_Carolina,_South_Carolina	29512, Bennettsville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		86			0			-15			4.14		https://www.scdhec.gov/
+29516,_Blenheim,_South_Carolina,_South_Carolina	29516, Blenheim, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29518,_Cades,_South_Carolina,_South_Carolina	29518, Cades, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			-1			0.14		https://www.scdhec.gov/
+29520,_Cheraw,_South_Carolina,_South_Carolina	29520, Cheraw, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		72			0			-9			3.29		https://www.scdhec.gov/
+29525,_Clio,_South_Carolina,_South_Carolina	29525, Clio, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			-1			0.14		https://www.scdhec.gov/
+29526,_Conway,_South_Carolina,_South_Carolina	29526, Conway, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		38			0			0			1.14		https://www.scdhec.gov/
+29527,_Conway,_South_Carolina,_South_Carolina	29527, Conway, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		39			0			-1			0.86		https://www.scdhec.gov/
+29530,_Coward,_South_Carolina,_South_Carolina	29530, Coward, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29532,_Darlington,_South_Carolina,_South_Carolina	29532, Darlington, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		114			0			-2			2.57		https://www.scdhec.gov/
+29536,_Dillon,_South_Carolina,_South_Carolina	29536, Dillon, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		87			0			-1			1.43		https://www.scdhec.gov/
+29540,_Darlington,_South_Carolina,_South_Carolina	29540, Darlington, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		19			0			0			0.14		https://www.scdhec.gov/
+29541,_Effingham,_South_Carolina,_South_Carolina	29541, Effingham, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		38			0			-3			0.86		https://www.scdhec.gov/
+29544,_Galivants_Ferry,_South_Carolina,_South_Carolina	29544, Galivants Ferry, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29545,_Green_Sea,_South_Carolina,_South_Carolina	29545, Green Sea, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.29		https://www.scdhec.gov/
+29547,_Hamer,_South_Carolina,_South_Carolina	29547, Hamer, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.57		https://www.scdhec.gov/
+29550,_Hartsville,_South_Carolina,_South_Carolina	29550, Hartsville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		95			0			-1			0.71		https://www.scdhec.gov/
+29554,_Hemingway,_South_Carolina,_South_Carolina	29554, Hemingway, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		35			0			-1			0.71		https://www.scdhec.gov/
+29555,_Johnsonville,_South_Carolina,_South_Carolina	29555, Johnsonville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29556,_Kingstree,_South_Carolina,_South_Carolina	29556, Kingstree, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		133			0			-5			2.71		https://www.scdhec.gov/
+29560,_Lake_City,_South_Carolina,_South_Carolina	29560, Lake City, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		59			0			-5			1.0		https://www.scdhec.gov/
+29563,_Lake_View,_South_Carolina,_South_Carolina	29563, Lake View, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		15			0			0			0.14		https://www.scdhec.gov/
+29564,_Lane,_South_Carolina,_South_Carolina	29564, Lane, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			-1			0.14		https://www.scdhec.gov/
+29565,_Latta,_South_Carolina,_South_Carolina	29565, Latta, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		27			0			0			0.29		https://www.scdhec.gov/
+29566,_Little_River,_South_Carolina,_South_Carolina	29566, Little River, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.14		https://www.scdhec.gov/
+29567,_Little_Rock,_South_Carolina,_South_Carolina	29567, Little Rock, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29568,_Longs,_South_Carolina,_South_Carolina	29568, Longs, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			0			0.14		https://www.scdhec.gov/
+29569,_Loris,_South_Carolina,_South_Carolina	29569, Loris, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		72			0			-7			5.29		https://www.scdhec.gov/
+29570,_McColl,_South_Carolina,_South_Carolina	29570, McColl, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			-3			0.57		https://www.scdhec.gov/
+29571,_Marion,_South_Carolina,_South_Carolina	29571, Marion, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		37			0			-2			0.86		https://www.scdhec.gov/
+29572,_Myrtle_Beach,_South_Carolina,_South_Carolina	29572, Myrtle Beach, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29574,_Mullins,_South_Carolina,_South_Carolina	29574, Mullins, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		20			0			0			0.57		https://www.scdhec.gov/
+29575,_Myrtle_Beach,_South_Carolina,_South_Carolina	29575, Myrtle Beach, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.29		https://www.scdhec.gov/
+29576,_Murrells_Inlet,_South_Carolina,_South_Carolina	29576, Murrells Inlet, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		26			0			0			0.14		https://www.scdhec.gov/
+29577,_Myrtle_Beach,_South_Carolina,_South_Carolina	29577, Myrtle Beach, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		30			0			1			0.0		https://www.scdhec.gov/
+29579,_Myrtle_Beach,_South_Carolina,_South_Carolina	29579, Myrtle Beach, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		28			0			-1			0.71		https://www.scdhec.gov/
+29580,_Nesmith,_South_Carolina,_South_Carolina	29580, Nesmith, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.14		https://www.scdhec.gov/
+29581,_Nichols,_South_Carolina,_South_Carolina	29581, Nichols, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			-1			0.86		https://www.scdhec.gov/
+29582,_North_Myrtle_Beach,_South_Carolina,_South_Carolina	29582, North Myrtle Beach, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29583,_Pamplico,_South_Carolina,_South_Carolina	29583, Pamplico, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		21			0			0			0.29		https://www.scdhec.gov/
+29584,_Patrick,_South_Carolina,_South_Carolina	29584, Patrick, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29585,_Pawleys_Island,_South_Carolina,_South_Carolina	29585, Pawleys Island, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29590,_Salters,_South_Carolina,_South_Carolina	29590, Salters, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			0			0.14		https://www.scdhec.gov/
+29591,_Scranton,_South_Carolina,_South_Carolina	29591, Scranton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		29			0			0			0.43		https://www.scdhec.gov/
+29592,_Sellers,_South_Carolina,_South_Carolina	29592, Sellers, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29593,_Society_Hill,_South_Carolina,_South_Carolina	29593, Society Hill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.14		https://www.scdhec.gov/
+29596,_Wallace,_South_Carolina,_South_Carolina	29596, Wallace, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.29		https://www.scdhec.gov/
+29601,_Greenville,_South_Carolina,_South_Carolina	29601, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		37			0			-2			0.43		https://www.scdhec.gov/
+29605,_Greenville,_South_Carolina,_South_Carolina	29605, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		105			0			-3			1.86		https://www.scdhec.gov/
+29607,_Greenville,_South_Carolina,_South_Carolina	29607, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		66			0			-2			1.57		https://www.scdhec.gov/
+29609,_Greenville,_South_Carolina,_South_Carolina	29609, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		108			0			-3			1.29		https://www.scdhec.gov/
+29611,_Greenville,_South_Carolina,_South_Carolina	29611, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		134			0			-7			3.57		https://www.scdhec.gov/
+29613,_Greenville,_South_Carolina,_South_Carolina	29613, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29615,_Greenville,_South_Carolina,_South_Carolina	29615, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		61			0			-6			0.86		https://www.scdhec.gov/
+29617,_Greenville,_South_Carolina,_South_Carolina	29617, Greenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		88			0			-2			2.86		https://www.scdhec.gov/
+29620,_Abbeville,_South_Carolina,_South_Carolina	29620, Abbeville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			0			0.14		https://www.scdhec.gov/
+29621,_Anderson,_South_Carolina,_South_Carolina	29621, Anderson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		57			0			0			1.14		https://www.scdhec.gov/
+29624,_Anderson,_South_Carolina,_South_Carolina	29624, Anderson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			0			0.43		https://www.scdhec.gov/
+29625,_Anderson,_South_Carolina,_South_Carolina	29625, Anderson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		29			0			0			0.43		https://www.scdhec.gov/
+29626,_Anderson,_South_Carolina,_South_Carolina	29626, Anderson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.29		https://www.scdhec.gov/
+29627,_Belton,_South_Carolina,_South_Carolina	29627, Belton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29628,_Calhoun_Falls,_South_Carolina,_South_Carolina	29628, Calhoun Falls, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29630,_Central,_South_Carolina,_South_Carolina	29630, Central, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			-2			0.29		https://www.scdhec.gov/
+29631,_Clemson,_South_Carolina,_South_Carolina	29631, Clemson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29634,_Clemson,_South_Carolina,_South_Carolina	29634, Clemson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29638,_Donalds,_South_Carolina,_South_Carolina	29638, Donalds, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29639,_Due_West,_South_Carolina,_South_Carolina	29639, Due West, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29640,_Easley,_South_Carolina,_South_Carolina	29640, Easley, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		40			0			-1			1.57		https://www.scdhec.gov/
+29642,_Easley,_South_Carolina,_South_Carolina	29642, Easley, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		50			0			0			0.86		https://www.scdhec.gov/
+29643,_Fair_Play,_South_Carolina,_South_Carolina	29643, Fair Play, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29644,_Fountain_Inn,_South_Carolina,_South_Carolina	29644, Fountain Inn, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		30			0			0			0.43		https://www.scdhec.gov/
+29645,_Gray_Court,_South_Carolina,_South_Carolina	29645, Gray Court, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		17			0			0			0.14		https://www.scdhec.gov/
+29646,_Greenwood,_South_Carolina,_South_Carolina	29646, Greenwood, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		35			0			-2			0.86		https://www.scdhec.gov/
+29649,_Greenwood,_South_Carolina,_South_Carolina	29649, Greenwood, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		28			0			0			0.71		https://www.scdhec.gov/
+29650,_Greer,_South_Carolina,_South_Carolina	29650, Greer, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		50			0			-2			0.57		https://www.scdhec.gov/
+29651,_Greer,_South_Carolina,_South_Carolina	29651, Greer, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		97			0			0			0.43		https://www.scdhec.gov/
+29653,_Hodges,_South_Carolina,_South_Carolina	29653, Hodges, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			-1			0.14		https://www.scdhec.gov/
+29654,_Honea_Path,_South_Carolina,_South_Carolina	29654, Honea Path, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			0			0.0		https://www.scdhec.gov/
+29655,_Iva,_South_Carolina,_South_Carolina	29655, Iva, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29657,_Liberty,_South_Carolina,_South_Carolina	29657, Liberty, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29658,_Long_Creek,_South_Carolina,_South_Carolina	29658, Long Creek, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29659,_Lowndesville,_South_Carolina,_South_Carolina	29659, Lowndesville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29662,_Mauldin,_South_Carolina,_South_Carolina	29662, Mauldin, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			0			0.29		https://www.scdhec.gov/
+29664,_Mountain_Rest,_South_Carolina,_South_Carolina	29664, Mountain Rest, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29666,_Ninety_Six,_South_Carolina,_South_Carolina	29666, Ninety Six, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			0			0.29		https://www.scdhec.gov/
+29667,_Norris,_South_Carolina,_South_Carolina	29667, Norris, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29669,_Pelzer,_South_Carolina,_South_Carolina	29669, Pelzer, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			0			0.14		https://www.scdhec.gov/
+29670,_Pendleton,_South_Carolina,_South_Carolina	29670, Pendleton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.14		https://www.scdhec.gov/
+29671,_Pickens,_South_Carolina,_South_Carolina	29671, Pickens, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			-1			0.29		https://www.scdhec.gov/
+29672,_Seneca,_South_Carolina,_South_Carolina	29672, Seneca, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.14		https://www.scdhec.gov/
+29673,_Piedmont,_South_Carolina,_South_Carolina	29673, Piedmont, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		51			0			0			0.29		https://www.scdhec.gov/
+29676,_Salem,_South_Carolina,_South_Carolina	29676, Salem, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			-1			0.0		https://www.scdhec.gov/
+29678,_Seneca,_South_Carolina,_South_Carolina	29678, Seneca, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		15			0			0			0.0		https://www.scdhec.gov/
+29680,_Simpsonville,_South_Carolina,_South_Carolina	29680, Simpsonville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		67			0			-1			1.14		https://www.scdhec.gov/
+29681,_Simpsonville,_South_Carolina,_South_Carolina	29681, Simpsonville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		84			0			-1			1.29		https://www.scdhec.gov/
+29682,_Six_Mile,_South_Carolina,_South_Carolina	29682, Six Mile, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29684,_Starr,_South_Carolina,_South_Carolina	29684, Starr, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29686,_Tamassee,_South_Carolina,_South_Carolina	29686, Tamassee, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29687,_Taylors,_South_Carolina,_South_Carolina	29687, Taylors, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		80			0			-3			1.71		https://www.scdhec.gov/
+29688,_Tigerville,_South_Carolina,_South_Carolina	29688, Tigerville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29690,_Travelers_Rest,_South_Carolina,_South_Carolina	29690, Travelers Rest, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		31			0			-1			1.0		https://www.scdhec.gov/
+29691,_Walhalla,_South_Carolina,_South_Carolina	29691, Walhalla, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29692,_Ware_Shoals,_South_Carolina,_South_Carolina	29692, Ware Shoals, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.0		https://www.scdhec.gov/
+29693,_Westminster,_South_Carolina,_South_Carolina	29693, Westminster, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.14		https://www.scdhec.gov/
+29696,_West_Union,_South_Carolina,_South_Carolina	29696, West Union, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.14		https://www.scdhec.gov/
+29697,_Williamston,_South_Carolina,_South_Carolina	29697, Williamston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29702,_Blacksburg,_South_Carolina,_South_Carolina	29702, Blacksburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			-1			0.29		https://www.scdhec.gov/
+29704,_Catawba,_South_Carolina,_South_Carolina	29704, Catawba, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		3			0			0			0.14		https://www.scdhec.gov/
+29706,_Chester,_South_Carolina,_South_Carolina	29706, Chester, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		19			0			0			-0.14		https://www.scdhec.gov/
+29708,_Fort_Mill,_South_Carolina,_South_Carolina	29708, Fort Mill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		37			0			-1			1.29		https://www.scdhec.gov/
+29709,_Chesterfield,_South_Carolina,_South_Carolina	29709, Chesterfield, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.43		https://www.scdhec.gov/
+29710,_Clover,_South_Carolina,_South_Carolina	29710, Clover, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		45			0			0			0.86		https://www.scdhec.gov/
+29712,_Edgemoor,_South_Carolina,_South_Carolina	29712, Edgemoor, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.14		https://www.scdhec.gov/
+29714,_Fort_Lawn,_South_Carolina,_South_Carolina	29714, Fort Lawn, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		8			0			-1			0.14		https://www.scdhec.gov/
+29715,_Fort_Mill,_South_Carolina,_South_Carolina	29715, Fort Mill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		43			0			-1			0.71		https://www.scdhec.gov/
+29717,_Hickory_Grove,_South_Carolina,_South_Carolina	29717, Hickory Grove, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29718,_Jefferson,_South_Carolina,_South_Carolina	29718, Jefferson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.0		https://www.scdhec.gov/
+29720,_Lancaster,_South_Carolina,_South_Carolina	29720, Lancaster, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		85			0			-1			1.43		https://www.scdhec.gov/
+29726,_McConnells,_South_Carolina,_South_Carolina	29726, McConnells, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29727,_Mount_Croghan,_South_Carolina,_South_Carolina	29727, Mount Croghan, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29728,_Pageland,_South_Carolina,_South_Carolina	29728, Pageland, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		18			0			-1			0.43		https://www.scdhec.gov/
+29729,_Richburg,_South_Carolina,_South_Carolina	29729, Richburg, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29730,_Rock_Hill,_South_Carolina,_South_Carolina	29730, Rock Hill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		68			0			-1			0.71		https://www.scdhec.gov/
+29732,_Rock_Hill,_South_Carolina,_South_Carolina	29732, Rock Hill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		113			0			-6			2.43		https://www.scdhec.gov/
+29741,_Ruby,_South_Carolina,_South_Carolina	29741, Ruby, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29742,_Sharon,_South_Carolina,_South_Carolina	29742, Sharon, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29743,_Smyrna,_South_Carolina,_South_Carolina	29743, Smyrna, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29745,_York,_South_Carolina,_South_Carolina	29745, York, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		20			0			-1			0.43		https://www.scdhec.gov/
+29801,_Aiken,_South_Carolina,_South_Carolina	29801, Aiken, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		28			0			-2			0.57		https://www.scdhec.gov/
+29803,_Aiken,_South_Carolina,_South_Carolina	29803, Aiken, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		32			0			0			0.29		https://www.scdhec.gov/
+29805,_Aiken,_South_Carolina,_South_Carolina	29805, Aiken, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29808,_Aiken,_South_Carolina,_South_Carolina	29808, Aiken, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29809,_New_Ellenton,_South_Carolina,_South_Carolina	29809, New Ellenton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29810,_Allendale,_South_Carolina,_South_Carolina	29810, Allendale, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			0			0.29		https://www.scdhec.gov/
+29812,_Barnwell,_South_Carolina,_South_Carolina	29812, Barnwell, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		20			0			-1			0.14		https://www.scdhec.gov/
+29817,_Blackville,_South_Carolina,_South_Carolina	29817, Blackville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		14			0			-1			0.29		https://www.scdhec.gov/
+29819,_Bradley,_South_Carolina,_South_Carolina	29819, Bradley, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29821,_Clarks_Hill,_South_Carolina,_South_Carolina	29821, Clarks Hill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29824,_Edgefield,_South_Carolina,_South_Carolina	29824, Edgefield, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.14		https://www.scdhec.gov/
+29827,_Fairfax,_South_Carolina,_South_Carolina	29827, Fairfax, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.14		https://www.scdhec.gov/
+29828,_Gloverville,_South_Carolina,_South_Carolina	29828, Gloverville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29829,_Graniteville,_South_Carolina,_South_Carolina	29829, Graniteville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.57		https://www.scdhec.gov/
+29831,_Jackson,_South_Carolina,_South_Carolina	29831, Jackson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29832,_Johnston,_South_Carolina,_South_Carolina	29832, Johnston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		25			0			-1			0.29		https://www.scdhec.gov/
+29835,_McCormick,_South_Carolina,_South_Carolina	29835, McCormick, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		7			0			0			0.0		https://www.scdhec.gov/
+29836,_Martin,_South_Carolina,_South_Carolina	29836, Martin, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29838,_Modoc,_South_Carolina,_South_Carolina	29838, Modoc, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.14		https://www.scdhec.gov/
+29840,_Mount_Carmel,_South_Carolina,_South_Carolina	29840, Mount Carmel, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29841,_North_Augusta,_South_Carolina,_South_Carolina	29841, North Augusta, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		47			0			0			0.43		https://www.scdhec.gov/
+29842,_Beech_Island,_South_Carolina,_South_Carolina	29842, Beech Island, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29843,_Olar,_South_Carolina,_South_Carolina	29843, Olar, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29845,_Plum_Branch,_South_Carolina,_South_Carolina	29845, Plum Branch, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29847,_Trenton,_South_Carolina,_South_Carolina	29847, Trenton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29848,_Troy,_South_Carolina,_South_Carolina	29848, Troy, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29849,_Ulmer,_South_Carolina,_South_Carolina	29849, Ulmer, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		0			0			0			0.0		https://www.scdhec.gov/
+29851,_Warrenville,_South_Carolina,_South_Carolina	29851, Warrenville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			-1			0.14		https://www.scdhec.gov/
+29853,_Williston,_South_Carolina,_South_Carolina	29853, Williston, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29856,_Windsor,_South_Carolina,_South_Carolina	29856, Windsor, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29860,_North_Augusta,_South_Carolina,_South_Carolina	29860, North Augusta, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		17			0			0			0.29		https://www.scdhec.gov/
+29902,_Beaufort,_South_Carolina,_South_Carolina	29902, Beaufort, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		98			0			-6			1.0		https://www.scdhec.gov/
+29906,_Beaufort,_South_Carolina,_South_Carolina	29906, Beaufort, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		54			0			-3			0.86		https://www.scdhec.gov/
+29910,_Bluffton,_South_Carolina,_South_Carolina	29910, Bluffton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		67			0			-8			2.57		https://www.scdhec.gov/
+29911,_Brunson,_South_Carolina,_South_Carolina	29911, Brunson, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29912,_Coosawhatchie,_South_Carolina,_South_Carolina	29912, Coosawhatchie, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29915,_Daufuskie_Island,_South_Carolina	29915, Daufuskie Island, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29918,_Estill,_South_Carolina,_South_Carolina	29918, Estill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		9			0			0			0.0		https://www.scdhec.gov/
+29920,_Saint_Helena_Island_(South_Carolina),_South_Carolina	29920, Saint Helena Island (South Carolina), South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		15			0			0			0.0		https://www.scdhec.gov/
+29924,_Hampton,_South_Carolina,_South_Carolina	29924, Hampton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29926,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29926, Hilton Head Island, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		22			0			-1			0.43		https://www.scdhec.gov/
+29927,_Hardeeville,_South_Carolina,_South_Carolina	29927, Hardeeville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			-5			0.86		https://www.scdhec.gov/
+29928,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29928, Hilton Head Island, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		13			0			0			0.14		https://www.scdhec.gov/
+29929,_Islandton,_South_Carolina,_South_Carolina	29929, Islandton, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29932,_Luray,_South_Carolina,_South_Carolina	29932, Luray, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29935,_Port_Royal,_South_Carolina,_South_Carolina	29935, Port Royal, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		11			0			-1			0.14		https://www.scdhec.gov/
+29936,_Ridgeland,_South_Carolina,_South_Carolina	29936, Ridgeland, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		18			0			-1			0.29		https://www.scdhec.gov/
+29940,_Seabrook,_South_Carolina,_South_Carolina	29940, Seabrook, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29941,_Sheldon,_South_Carolina,_South_Carolina	29941, Sheldon, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29944,_Varnville,_South_Carolina,_South_Carolina	29944, Varnville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		6			0			0			0.14		https://www.scdhec.gov/
+29945,_Yemassee,_South_Carolina,_South_Carolina	29945, Yemassee, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		5			0			-1			0.14		https://www.scdhec.gov/
+29909,_Okatie,_South_Carolina,_South_Carolina	29909, Okatie, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		16			0			-1			0.29		https://www.scdhec.gov/
+29588,_Myrtle_Beach,_South_Carolina,_South_Carolina	29588, Myrtle Beach, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		38			0			-2			0.29		https://www.scdhec.gov/
+29707,_Fort_Mill,_South_Carolina,_South_Carolina	29707, Fort Mill, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		28			0			0			0.14		https://www.scdhec.gov/
+29486,_Summerville,_South_Carolina,_South_Carolina	29486, Summerville, South Carolina, South Carolina	2020-05-24	2020-05-24T04:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+Abington,_Massachusetts	Abington, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		219									4.14		https://www.mass.gov/
 Abrantes	Abrantes	2020-05-24	2020-05-23T23:00:00.000Z		9			0			0			0.14		https://covid19.min-saude.pt/
 Abruzzo	Abruzzo	2020-05-24		394	3221	1659	65290				1		1.29	5.0	40.0	http://www.salute.gov.it/
+Accomack_County,_Virginia	Accomack County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	11	722								0.29	4.86		http://www.vdh.virginia.gov/
 Acre_(state)	Acre (state)	2020-05-24	2020-05-24T02:00:00.000Z	87	3867								3.86	267.14		https://covid.saude.gov.br/
+Acton,_Massachusetts	Acton, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		138									2.57		https://www.mass.gov/
+Acushnet,_Massachusetts	Acushnet, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		73									2.0		https://www.mass.gov/
+Adams_County,_Ohio	Adams County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	1	8								0.14	0.0		https://coronavirus.ohio.gov/
+Adams,_Massachusetts	Adams, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		35									0.29		https://www.mass.gov/
 Adygea	Adygea	2020-05-24	2020-05-23T07:35:00.000Z	9	622	290		31			0		0.14	32.0	9.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Agawam,_Massachusetts	Agawam, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		423									2.71		https://www.mass.gov/
 Agder	Agder	2020-05-24	2020-05-23T11:00:00.000Z		338									0.29		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-05-24		4	145	97							0.0	2.86	0.14	https://www.coronavirus2020.kz/
-Aktobe_Region	Aktobe Region	2020-05-24			252	168								3.43	3.0	https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2020-05-24			270	168								6.0	3.0	https://www.coronavirus2020.kz/
 Alagoas	Alagoas	2020-05-24	2020-05-24T02:00:00.000Z	301	5630								13.0	259.14		https://covid.saude.gov.br/
+Albany_County,_New_York	Albany County, New York	2020-05-24	2020-05-23T14:00:00.000Z	95	1770		20888						0.71	27.29		https://coronavirus.health.ny.gov/
+Albemarle_County,_Virginia	Albemarle County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	5	143								0.14	0.71		http://www.vdh.virginia.gov/
 Albergaria-a-Velha	Albergaria-a-Velha	2020-05-24	2020-05-23T23:00:00.000Z		87			0			0			0.0		https://covid19.min-saude.pt/
+Alberta	Alberta	2020-05-24	2020-05-23T15:00:00.000Z	135	6818	5869	212724						1.14	24.86	59.43	https://www.canada.ca/
 Albufeira	Albufeira	2020-05-24	2020-05-23T23:00:00.000Z		75			0			0			0.14		https://covid19.min-saude.pt/
 Alcanena	Alcanena	2020-05-24	2020-05-23T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Alcochete	Alcochete	2020-05-24	2020-05-23T23:00:00.000Z		23			0			0			0.29		https://covid19.min-saude.pt/
 Alenquer,_Portugal	Alenquer, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		68			0			-1			2.71		https://covid19.min-saude.pt/
+Alexandria,_Virginia	Alexandria, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	38	1703								0.57	32.43		http://www.vdh.virginia.gov/
+Alford,_Massachusetts	Alford, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		0									0.0		https://www.mass.gov/
+Allegany_County,_New_York	Allegany County, New York	2020-05-24	2020-05-23T14:00:00.000Z	2	44		1352						0.0	0.0		https://coronavirus.health.ny.gov/
+Alleghany_County,_Virginia	Alleghany County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	2	13								0.29	0.86		http://www.vdh.virginia.gov/
+Allen_County,_Ohio	Allen County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	31	184								0.14	2.43		https://coronavirus.ohio.gov/
 Almada	Almada	2020-05-24	2020-05-23T23:00:00.000Z		334			0			-4			5.14		https://covid19.min-saude.pt/
-Almaty	Almaty	2020-05-24		10	2067	1197							0.14	37.86	41.0	https://www.coronavirus2020.kz/
-Almaty_Region	Almaty Region	2020-05-24			278	168								10.29	5.14	https://www.coronavirus2020.kz/
+Almaty	Almaty	2020-05-24		10	2164	1197							0.14	51.71	41.0	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2020-05-24			284	168								11.14	5.14	https://www.coronavirus2020.kz/
 Almeida,_Portugal	Almeida, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
 Almeirim	Almeirim	2020-05-24	2020-05-23T23:00:00.000Z		18			0			-1			0.29		https://covid19.min-saude.pt/
 Altai_Krai	Altai Krai	2020-05-24	2020-05-23T07:35:00.000Z	7	1254	620		69			0		0.57	47.0	22.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -23,70 +394,148 @@ Amadora	Amadora	2020-05-24	2020-05-23T23:00:00.000Z		640			0			-23			15.0		https
 Amarante,_Portugal	Amarante, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		94			0			-1			0.14		https://covid19.min-saude.pt/
 Amares	Amares	2020-05-24	2020-05-23T23:00:00.000Z		78			0			0			0.86		https://covid19.min-saude.pt/
 Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-05-24	2020-05-24T02:00:00.000Z	1744	28802								47.29	1210.57		https://covid.saude.gov.br/
+Amelia_County,_Virginia	Amelia County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	1	22								0.0	0.57		http://www.vdh.virginia.gov/
+Amesbury,_Massachusetts	Amesbury, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		154									0.0		https://www.mass.gov/
+Amherst_County,_Virginia	Amherst County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	25								0.0	0.0		http://www.vdh.virginia.gov/
+Amherst,_Massachusetts	Amherst, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		85									1.29		https://www.mass.gov/
 Amstetten_District	Amstetten District	2020-05-24	2020-05-23T20:00:00.000Z		301									0.43		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-05-24	2020-05-23T07:35:00.000Z	1	340	95		23			0		0.0	16.86	6.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Anadia,_Portugal	Anadia, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		43			0			0			0.0		https://covid19.min-saude.pt/
 Andaman_and_Nicobar_Islands	Andaman and Nicobar Islands	2020-05-24	2020-05-23T08:00:00.000Z	0	33	33							0.0	0.0	0.0	https://www.mohfw.gov.in/
 Andhra_Pradesh	Andhra Pradesh	2020-05-24	2020-05-23T08:00:00.000Z	55	2709	1763							0.86	50.57	58.57	https://www.mohfw.gov.in/
+Andover,_Massachusetts	Andover, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		263									3.43		https://www.mass.gov/
 Aosta_Valley	Aosta Valley	2020-05-24		143	1177	999	13828				0		0.0	0.57	5.29	http://www.salute.gov.it/
+Appomattox_County,_Virginia	Appomattox County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	26								0.0	0.43		http://www.vdh.virginia.gov/
 Apulia	Apulia	2020-05-24		486	4448	2157	101738				8		2.29	9.86	37.86	http://www.salute.gov.it/
+Aquinnah,_Massachusetts	Aquinnah, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		0									0.0		https://www.mass.gov/
 Arcos_de_Valdevez	Arcos de Valdevez	2020-05-24	2020-05-23T23:00:00.000Z		73			0			0			0.29		https://covid19.min-saude.pt/
 Arganil	Arganil	2020-05-24	2020-05-23T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-05-24	2020-05-23T07:35:00.000Z	4	925	407		37			0		0.14	33.86	20.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Arlington_County,_Virginia	Arlington County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	95	1804								2.86	30.57		http://www.vdh.virginia.gov/
+Arlington,_Massachusetts	Arlington, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		279									2.57		https://www.mass.gov/
 Arouca,_Portugal	Arouca, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		40			0			0			0.14		https://covid19.min-saude.pt/
 Arruda_dos_Vinhos	Arruda dos Vinhos	2020-05-24	2020-05-23T23:00:00.000Z		12			0			0			0.14		https://covid19.min-saude.pt/
 Arunachal_Pradesh	Arunachal Pradesh	2020-05-24	2020-05-23T08:00:00.000Z	0	1	1							0.0	0.0	0.0	https://www.mohfw.gov.in/
+Ashburnham,_Massachusetts	Ashburnham, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		26									0.43		https://www.mass.gov/
+Ashby,_Massachusetts	Ashby, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		14									0.14		https://www.mass.gov/
+Ashfield,_Massachusetts	Ashfield, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
+Ashland_County,_Ohio	Ashland County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	0	17								0.0	0.29		https://coronavirus.ohio.gov/
+Ashland,_Massachusetts	Ashland, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		214									5.0		https://www.mass.gov/
+Ashtabula_County,_Ohio	Ashtabula County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	31	274								0.71	6.0		https://coronavirus.ohio.gov/
 Assam	Assam	2020-05-24	2020-05-23T08:00:00.000Z	4	259	54							0.29	23.86	1.86	https://www.mohfw.gov.in/
 Astrakhan_Oblast	Astrakhan Oblast	2020-05-24	2020-05-23T07:35:00.000Z	8	1298	646		51			0		0.14	38.43	38.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Atyrau_Region	Atyrau Region	2020-05-24			857	224								45.14	8.43	https://www.coronavirus2020.kz/
+Athens_County,_Ohio	Athens County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	1	13								0.0	0.71		https://coronavirus.ohio.gov/
+Athol,_Massachusetts	Athol, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		46									0.0		https://www.mass.gov/
+Attleboro,_Massachusetts	Attleboro, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		577									7.14		https://www.mass.gov/
+Atyrau_Region	Atyrau Region	2020-05-24			879	224								48.29	8.43	https://www.coronavirus2020.kz/
+Auburn,_Massachusetts	Auburn, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		184									3.57		https://www.mass.gov/
 Auckland_Region	Auckland Region	2020-05-24	2020-05-24T01:00:00.000Z		178	175		0		0	0			0.0	0.14	https://www.health.govt.nz/
-Austria	Austria	2020-05-24	2020-05-23T20:00:00.000Z	607	16428	15037	396363						1.57	36.0	67.71	https://info.gesundheitsministerium.at/
+Auglaize_County,_Ohio	Auglaize County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	3	58								0.0	0.57		https://coronavirus.ohio.gov/
+Augusta_County,_Virginia	Augusta County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	1	89								0.0	0.71		http://www.vdh.virginia.gov/
+Austria	Austria	2020-05-24	2020-05-23T20:00:00.000Z	607	16429	15037	396363						1.57	36.14	67.71	https://info.gesundheitsministerium.at/
 Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-05-24		1623		6598							8.43		51.29	https://www.santepubliquefrance.fr/
 Aveiro,_Portugal	Aveiro, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		334			0			-2			1.43		https://covid19.min-saude.pt/
+Avon,_Massachusetts	Avon, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		67									0.86		https://www.mass.gov/
+Ayer,_Massachusetts	Ayer, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		65									2.29		https://www.mass.gov/
 Azambuja	Azambuja	2020-05-24	2020-05-23T23:00:00.000Z		58			0			0			0.29		https://covid19.min-saude.pt/
 B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-05-24		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-05-24		0	21	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-05-24		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Baden_District,_Austria	Baden District, Austria	2020-05-24	2020-05-23T20:00:00.000Z		160									1.14		https://info.gesundheitsministerium.at/
+Baden-W%C3%BCrttemberg	Baden-Württemberg	2020-05-24	2020-05-24	1697	34399	0										https://www.rki.de/
 Bahia	Bahia	2020-05-24	2020-05-24T02:00:00.000Z	413	13000								16.86	651.0		https://covid.saude.gov.br/
 Bahrain	Bahrain	2020-05-24	2020-05-24T00:00:00.000Z	13	8802	4465	276552	28	0	3	-332	0	0.14	263.71	222.14	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-05-24	2020-05-24T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
 Barcelos,_Portugal	Barcelos, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		296			0			-1			1.57		https://covid19.min-saude.pt/
+Barnstable_County,_Massachusetts	Barnstable County, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z	107	1264								2.0	16.29		https://www.mass.gov/
+Barnstable,_Massachusetts	Barnstable, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		293									3.71		https://www.mass.gov/
+Barre,_Massachusetts	Barre, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		47									0.57		https://www.mass.gov/
 Barreiro,_Portugal	Barreiro, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		188			0			0			3.14		https://covid19.min-saude.pt/
 Bashkortostan	Bashkortostan	2020-05-24	2020-05-23T07:35:00.000Z	18	2602	793		88			0		0.14	77.29	27.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Basilicata	Basilicata	2020-05-24		27	398	330	25511				4		0.0	0.86	9.86	http://www.salute.gov.it/
 Batalha,_Portugal	Batalha, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Bath_County,_Virginia	Bath County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	0								0.0	0.0		http://www.vdh.virginia.gov/
 Battambang_Province	Battambang Province	2020-05-24	2020-05-24T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
+Bavaria	Bavaria	2020-05-24	2020-05-24	2377	46206	0										https://www.rki.de/
 Bay_of_Plenty	Bay of Plenty	2020-05-24	2020-05-24T01:00:00.000Z		47	47		0		0	0			0.0	0.0	https://www.health.govt.nz/
+Becket,_Massachusetts	Becket, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		12									0.0		https://www.mass.gov/
+Bedford_County,_Virginia	Bedford County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	2	41								0.14	0.14		http://www.vdh.virginia.gov/
+Bedford,_Massachusetts	Bedford, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		232									2.57		https://www.mass.gov/
 Beja,_Portugal	Beja, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		14			0			0			0.0		https://covid19.min-saude.pt/
 Belarus	Belarus	2020-05-24	2020-05-23T03:00:00.000Z	194	35244	13528	434618						4.14	799.14	513.71	http://stopcovid.belta.by/
+Belchertown,_Massachusetts	Belchertown, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		88									1.29		https://www.mass.gov/
 Belgium	Belgium	2020-05-24	2020-05-22T00:00:00.000Z	9237	56810								26.43	218.57		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-05-24	2020-05-23T07:35:00.000Z	12	1654	583		73			0		0.43	61.71	31.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Bellingham,_Massachusetts	Bellingham, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		112									0.71		https://www.mass.gov/
+Belmont_County,_Ohio	Belmont County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	12	381								0.57	7.57		https://coronavirus.ohio.gov/
+Belmont,_Massachusetts	Belmont, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		210									2.57		https://www.mass.gov/
 B%E1%BA%BFn_Tre_Province	Bến Tre Province	2020-05-24		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Benavente,_Portugal	Benavente, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		34			0			-1			0.29		https://covid19.min-saude.pt/
 B%C3%A9ni_Mellal-Kh%C3%A9nifra	Béni Mellal-Khénifra	2020-05-24	2020-05-23T15:00:00.000Z		113									0.14		http://www.covidmaroc.ma/
+Berkley,_Massachusetts	Berkley, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		52									1.43		https://www.mass.gov/
+Berkshire_County,_Massachusetts	Berkshire County, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z	38	515								0.14	2.57		https://www.mass.gov/
+Berlin	Berlin	2020-05-24	2020-05-24	191	6637	0										https://www.rki.de/
+Berlin,_Massachusetts	Berlin, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		20									0.29		https://www.mass.gov/
+Bernardston,_Massachusetts	Bernardston, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		6									0.0		https://www.mass.gov/
+Beverly,_Massachusetts	Beverly, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		542									5.86		https://www.mass.gov/
 Bihar	Bihar	2020-05-24	2020-05-23T08:00:00.000Z	11	2177	629							0.57	142.57	25.14	https://www.mohfw.gov.in/
+Billerica,_Massachusetts	Billerica, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		486									4.29		https://www.mass.gov/
 B%C3%ACnh_Thu%E1%BA%ADn_Province	Bình Thuận Province	2020-05-24		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Blackstone,_Massachusetts	Blackstone, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		40									0.57		https://www.mass.gov/
+Bland_County,_Virginia	Bland County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	0								0.0	0.0		http://www.vdh.virginia.gov/
+Blandford,_Massachusetts	Blandford, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
 Bludenz_District	Bludenz District	2020-05-24	2020-05-23T20:00:00.000Z		256									0.0		https://info.gesundheitsministerium.at/
+Bolton,_Massachusetts	Bolton, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		12									0.14		https://www.mass.gov/
 Bombarral	Bombarral	2020-05-24	2020-05-23T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Boston	Boston	2020-05-24	2020-05-23T20:00:00.000Z		12629									154.0		https://www.mass.gov/
+Botetourt_County,_Virginia	Botetourt County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	4	31								0.14	0.0		http://www.vdh.virginia.gov/
 Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-05-24		988		3176							4.14		28.43	https://www.santepubliquefrance.fr/
+Bourne,_Massachusetts	Bourne, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		144									1.57		https://www.mass.gov/
+Boxborough,_Massachusetts	Boxborough, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		23									0.14		https://www.mass.gov/
+Boxford,_Massachusetts	Boxford, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		35									0.0		https://www.mass.gov/
+Boylston,_Massachusetts	Boylston, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		18									0.71		https://www.mass.gov/
 Braga	Braga	2020-05-24	2020-05-23T23:00:00.000Z		1206			0			-7			7.57		https://covid19.min-saude.pt/
+Braintree,_Massachusetts	Braintree, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		754									4.29		https://www.mass.gov/
+Brandenburg	Brandenburg	2020-05-24	2020-05-24	154	3214	0										https://www.rki.de/
 Braunau_am_Inn_District	Braunau am Inn District	2020-05-24	2020-05-23T20:00:00.000Z		130									0.57		https://info.gesundheitsministerium.at/
 Brazil	Brazil	2020-05-24	2020-05-24T02:00:00.000Z	22013	347398				965			0	842.14	15188.29		https://covid.saude.gov.br/
+Bremen_(state)	Bremen (state)	2020-05-24	2020-05-24	41	1299	0										https://www.rki.de/
+Brewster,_Massachusetts	Brewster, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		92									0.14		https://www.mass.gov/
+Bridgewater,_Massachusetts	Bridgewater, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		328									3.71		https://www.mass.gov/
+Brimfield,_Massachusetts	Brimfield, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
+Bristol_County,_Massachusetts	Bristol County, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z	362	6426								6.0	79.43		https://www.mass.gov/
+Bristol,_Virginia	Bristol, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	4								0.0	0.14		http://www.vdh.virginia.gov/
+British_Columbia	British Columbia	2020-05-24	2020-05-23T15:00:00.000Z	157	2517	2057	111546						2.29	12.71	17.86	https://www.canada.ca/
 Brittany_(administrative_region)	Brittany (administrative region)	2020-05-24		242		1091							0.86		7.57	https://www.santepubliquefrance.fr/
+Brockton,_Massachusetts	Brockton, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3773									49.14		https://www.mass.gov/
+Brookfield,_Massachusetts	Brookfield, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		15									0.43		https://www.mass.gov/
+Brookline,_Massachusetts	Brookline, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		343									3.14		https://www.mass.gov/
+Brooklyn	Brooklyn	2020-05-24	2020-05-23T14:00:00.000Z	4805	53902		214069						16.57	229.14		https://coronavirus.health.ny.gov/
+Broome_County,_New_York	Broome County, New York	2020-05-24	2020-05-23T14:00:00.000Z	41	485		10630						0.86	10.14		https://coronavirus.health.ny.gov/
+Brown_County,_Ohio	Brown County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	1	24								0.0	0.29		https://coronavirus.ohio.gov/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-05-24	2020-05-23T20:00:00.000Z		105									1.43		https://info.gesundheitsministerium.at/
+Brunswick_County,_Virginia	Brunswick County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	1	21								0.0	0.14		http://www.vdh.virginia.gov/
 Bryansk_Oblast	Bryansk Oblast	2020-05-24	2020-05-23T07:35:00.000Z	31	2840	1416		103			0		0.14	94.57	59.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Buchanan_County,_Virginia	Buchanan County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	18								0.0	0.29		http://www.vdh.virginia.gov/
+Buckingham_County,_Virginia	Buckingham County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	2	443								0.0	4.57		http://www.vdh.virginia.gov/
+Buckland,_Massachusetts	Buckland, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		8									0.14		https://www.mass.gov/
+Buena_Vista,_Virginia	Buena Vista, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	12								0.0	0.57		http://www.vdh.virginia.gov/
 Burgenland	Burgenland	2020-05-24	2020-05-23T20:00:00.000Z	11		318							0.0		1.0	https://info.gesundheitsministerium.at/
+Burlington,_Massachusetts	Burlington, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		231									2.14		https://www.mass.gov/
 Buryatia	Buryatia	2020-05-24	2020-05-23T07:35:00.000Z	6	1124	514		34			0		0.0	33.14	27.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Butler_County,_Ohio	Butler County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	25	750								1.29	22.71		https://coronavirus.ohio.gov/
 Cabeceiras_de_Basto	Cabeceiras de Basto	2020-05-24	2020-05-23T23:00:00.000Z		17			0			-1			0.29		https://covid19.min-saude.pt/
 Cadaval	Cadaval	2020-05-24	2020-05-23T23:00:00.000Z		9			0			0			0.0		https://covid19.min-saude.pt/
 Calabria	Calabria	2020-05-24		96	1157	773	61892				0		0.14	0.86	19.86	http://www.salute.gov.it/
 Caldas_da_Rainha	Caldas da Rainha	2020-05-24	2020-05-23T23:00:00.000Z		25			0			0			0.0		https://covid19.min-saude.pt/
 Calheta,_Madeira	Calheta, Madeira	2020-05-24	2020-05-23T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
 Cambodia	Cambodia	2020-05-24	2020-05-24T07:00:00.000Z	0	124	122		0	0	0	-1	0	0.0	0.29	0.0	http://www.cdcmoh.gov.kh/
+Cambridge,_Massachusetts	Cambridge, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		889									2.29		https://www.mass.gov/
 Caminha	Caminha	2020-05-24	2020-05-23T23:00:00.000Z		19			0			0			0.14		https://covid19.min-saude.pt/
 Campania	Campania	2020-05-24		404	4744	3067	166692				11		1.14	8.57	67.86	http://www.salute.gov.it/
+Campbell_County,_Virginia	Campbell County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	1	13								0.0	0.0		http://www.vdh.virginia.gov/
 C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-05-24		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Canada	Canada	2020-05-24	2020-05-23T15:00:00.000Z	6355	83610	43318	1431987						81.86	945.57	681.14	https://www.canada.ca/
 Cantanhede,_Portugal	Cantanhede, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		68			0			0			0.29		https://covid19.min-saude.pt/
 Canton_of_Aargau	Canton of Aargau	2020-05-24	2020-05-23T22:00:00.000Z	44	1194			0	0		0	0	0.14	2.43		https://www.bag.admin.ch/
 Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-05-24	2020-05-23T22:00:00.000Z	3	99			0	0		0	0	0.0	0.0		https://www.bag.admin.ch/
@@ -113,31 +562,80 @@ Canton_of_Uri	Canton of Uri	2020-05-24	2020-05-23T22:00:00.000Z	7	93			0	0		0	0	
 Canton_of_Valais	Canton of Valais	2020-05-24	2020-05-23T22:00:00.000Z	151	1933			0	0		0	0	0.29	2.0		https://www.bag.admin.ch/
 Canton_of_Zug	Canton of Zug	2020-05-24	2020-05-23T22:00:00.000Z	8	199			0	0		0	0	0.0	0.14		https://www.bag.admin.ch/
 Canton_of_Z%C3%BCrich	Canton of Zürich	2020-05-24	2020-05-23T22:00:00.000Z	128	3592			0	0		0	0	0.14	2.0		https://www.bag.admin.ch/
+Canton,_Massachusetts	Canton, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		266									1.86		https://www.mass.gov/
 Carinthia	Carinthia	2020-05-24	2020-05-23T20:00:00.000Z	13		395							0.0		0.71	https://info.gesundheitsministerium.at/
+Carlisle,_Massachusetts	Carlisle, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		12									0.29		https://www.mass.gov/
+Caroline_County,_Virginia	Caroline County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	2	46								0.0	0.57		http://www.vdh.virginia.gov/
 Carregal_do_Sal	Carregal do Sal	2020-05-24	2020-05-23T23:00:00.000Z		11			0			0			0.0		https://covid19.min-saude.pt/
+Carroll_County,_Ohio	Carroll County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	2	28								0.0	0.43		https://coronavirus.ohio.gov/
+Carroll_County,_Virginia	Carroll County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	1	66								0.14	2.57		http://www.vdh.virginia.gov/
 Cartaxo	Cartaxo	2020-05-24	2020-05-23T23:00:00.000Z		54			0			-1			0.57		https://covid19.min-saude.pt/
+Carver,_Massachusetts	Carver, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		49									0.29		https://www.mass.gov/
 Casablanca-Settat	Casablanca-Settat	2020-05-24	2020-05-23T15:00:00.000Z		2385									49.43		http://www.covidmaroc.ma/
 Cascais	Cascais	2020-05-24	2020-05-23T23:00:00.000Z		500			0			-2			3.57		https://covid19.min-saude.pt/
 Castelo_Branco,_Portugal	Castelo Branco, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		7			0			-1			0.29		https://covid19.min-saude.pt/
 Castelo_de_Paiva	Castelo de Paiva	2020-05-24	2020-05-23T23:00:00.000Z		20			0			0			0.14		https://covid19.min-saude.pt/
 Castro_Daire	Castro Daire	2020-05-24	2020-05-23T23:00:00.000Z		104			0			0			0.0		https://covid19.min-saude.pt/
 Castro_Marim	Castro Marim	2020-05-24	2020-05-23T23:00:00.000Z		3			0			0			0.0		https://covid19.min-saude.pt/
+Cattaraugus_County,_New_York	Cattaraugus County, New York	2020-05-24	2020-05-23T14:00:00.000Z	2	78		3079						0.0	1.86		https://coronavirus.health.ny.gov/
+Cayuga_County,_New_York	Cayuga County, New York	2020-05-24	2020-05-23T14:00:00.000Z	2	76		2936						0.0	1.86		https://coronavirus.health.ny.gov/
 Celorico_da_Beira	Celorico da Beira	2020-05-24	2020-05-23T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Celorico_de_Basto	Celorico de Basto	2020-05-24	2020-05-23T23:00:00.000Z		22			0			1			-0.14		https://covid19.min-saude.pt/
 Centre-Val_de_Loire	Centre-Val de Loire	2020-05-24		495		1666							3.14		12.14	https://www.santepubliquefrance.fr/
+Champaign_County,_Ohio	Champaign County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	1	26								0.0	0.43		https://coronavirus.ohio.gov/
 Chamusca	Chamusca	2020-05-24	2020-05-23T23:00:00.000Z		9			0			0			0.0		https://covid19.min-saude.pt/
 Chandigarh	Chandigarh	2020-05-24	2020-05-23T08:00:00.000Z	3	218	178							0.0	3.86	18.14	https://www.mohfw.gov.in/
+Charlemont,_Massachusetts	Charlemont, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
+Charles_City_County,_Virginia	Charles City County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	1	27								0.0	0.71		http://www.vdh.virginia.gov/
+Charlotte_County,_Virginia	Charlotte County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	19								0.0	1.14		http://www.vdh.virginia.gov/
+Charlottesville,_Virginia	Charlottesville, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	3	74								0.14	0.43		http://www.vdh.virginia.gov/
+Charlton,_Massachusetts	Charlton, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		60									1.29		https://www.mass.gov/
+Chatham,_Massachusetts	Chatham, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		12									0.0		https://www.mass.gov/
+Chautauqua_County,_New_York	Chautauqua County, New York	2020-05-24	2020-05-23T14:00:00.000Z	2	72		3262						0.0	3.43		https://coronavirus.health.ny.gov/
 Chaves,_Portugal	Chaves, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		26			0			0			0.0		https://covid19.min-saude.pt/
 Chechnya	Chechnya	2020-05-24	2020-05-23T07:35:00.000Z	12	1066	659		20			0		0.43	17.57	11.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chelmsford,_Massachusetts	Chelmsford, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		302									1.57		https://www.mass.gov/
+Chelsea,_Massachusetts	Chelsea, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		2598									26.57		https://www.mass.gov/
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-05-24	2020-05-23T07:35:00.000Z	11	2073	754		80			0		0.71	71.29	30.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chemung_County,_New_York	Chemung County, New York	2020-05-24	2020-05-23T14:00:00.000Z	2	136		4768						0.0	0.29		https://coronavirus.health.ny.gov/
+Chenango_County,_New_York	Chenango County, New York	2020-05-24	2020-05-23T14:00:00.000Z	5	118		2598						0.29	0.14		https://coronavirus.health.ny.gov/
+Chesapeake,_Virginia	Chesapeake, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	13	426								0.43	6.0		http://www.vdh.virginia.gov/
+Cheshire,_Massachusetts	Cheshire, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
+Chester,_Massachusetts	Chester, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
+Chesterfield_County,_Virginia	Chesterfield County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	29	1193								0.0	29.29		http://www.vdh.virginia.gov/
+Chesterfield,_Massachusetts	Chesterfield, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
 Chhattisgarh	Chhattisgarh	2020-05-24	2020-05-23T08:00:00.000Z	0	172	62							0.0	15.0	0.86	https://www.mohfw.gov.in/
+Chicopee,_Massachusetts	Chicopee, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		373									5.86		https://www.mass.gov/
+Chilmark,_Massachusetts	Chilmark, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-05-24	2020-05-23T07:35:00.000Z	1	58	30		2			0		0.14	0.29	1.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-05-24	2020-05-23T07:35:00.000Z	9	2195	686		91			0		0.14	70.71	24.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Clark_County,_Ohio	Clark County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	6	195								0.43	8.0		https://coronavirus.ohio.gov/
+Clarke_County,_Virginia	Clarke County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	21								0.0	0.29		http://www.vdh.virginia.gov/
+Clarksburg,_Massachusetts	Clarksburg, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		7									0.0		https://www.mass.gov/
+Clermont_County,_Ohio	Clermont County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	5	177								0.14	3.57		https://coronavirus.ohio.gov/
+Clinton_County,_New_York	Clinton County, New York	2020-05-24	2020-05-23T14:00:00.000Z	4	95		2464						0.0	0.43		https://coronavirus.health.ny.gov/
+Clinton_County,_Ohio	Clinton County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	0	43								0.0	0.57		https://coronavirus.ohio.gov/
+Clinton,_Massachusetts	Clinton, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		174									3.0		https://www.mass.gov/
+Cohasset,_Massachusetts	Cohasset, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		21									0.0		https://www.mass.gov/
 Coimbra	Coimbra	2020-05-24	2020-05-23T23:00:00.000Z		574			0			0			1.0		https://covid19.min-saude.pt/
+Colonial_Heights,_Virginia	Colonial Heights, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	8	83								0.14	1.0		http://www.vdh.virginia.gov/
+Colrain,_Massachusetts	Colrain, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
+Columbia_County,_New_York	Columbia County, New York	2020-05-24	2020-05-23T14:00:00.000Z	37	359		3260						0.71	2.71		https://coronavirus.health.ny.gov/
+Columbiana_County,_Ohio	Columbiana County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	50	477								1.0	8.14		https://coronavirus.ohio.gov/
+Concord,_Massachusetts	Concord, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		160									1.14		https://www.mass.gov/
 Condeixa-a-Nova	Condeixa-a-Nova	2020-05-24	2020-05-23T23:00:00.000Z		154			0			0			1.43		https://covid19.min-saude.pt/
+Connecticut	Connecticut	2020-05-24	2020-05-23T15:00:00.000Z	3675	40022		208367						38.14	371.86		https://portal.ct.gov/
+Conway,_Massachusetts	Conway, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
 Corsica	Corsica	2020-05-24		57		218							0.14		1.0	https://www.santepubliquefrance.fr/
+Cortland_County,_New_York	Cortland County, New York	2020-05-24	2020-05-23T14:00:00.000Z	1	38		2763						0.0	0.57		https://coronavirus.health.ny.gov/
 Coruche	Coruche	2020-05-24	2020-05-23T23:00:00.000Z		41			0			-1			0.29		https://covid19.min-saude.pt/
+Coshocton_County,_Ohio	Coshocton County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	0	24								0.0	0.71		https://coronavirus.ohio.gov/
+Covington,_Virginia	Covington, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	3								0.0	0.14		http://www.vdh.virginia.gov/
+Craig_County,_Virginia	Craig County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	5								0.0	0.14		http://www.vdh.virginia.gov/
+Crawford_County,_Ohio	Crawford County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	3	104								0.14	1.43		https://coronavirus.ohio.gov/
 Cuba,_Portugal	Cuba, Portugal	2020-05-24	2020-05-23T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Culpeper_County,_Virginia	Culpeper County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	5	574								0.0	28.57		http://www.vdh.virginia.gov/
+Cumberland_County,_Virginia	Cumberland County, Virginia	2020-05-24	2020-05-23T13:00:00.000Z	0	26								0.0	0.43		http://www.vdh.virginia.gov/
 Cummington,_Massachusetts	Cummington, Massachusetts	2020-05-24	2020-05-23T20:00:00.000Z		3									0.0		https://www.mass.gov/
 Cuyahoga_County,_Ohio	Cuyahoga County, Ohio	2020-05-24	2020-05-23T18:00:00.000Z	207	3851								4.86	75.71		https://coronavirus.ohio.gov/
 Czech_Republic	Czech Republic	2020-05-24	2020-05-23T22:30:00.000Z	314	8890	6044	394499						2.29	61.43	87.0	https://onemocneni-aktualne.mzcr.cz/
