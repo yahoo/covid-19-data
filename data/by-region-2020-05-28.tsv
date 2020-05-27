@@ -1,7 +1,19 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Auckland_Region	Auckland Region	2020-05-28	2020-05-27T01:00:00.000Z		178	175								0.14	0.14	https://www.health.govt.nz/
+B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-05-28		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-05-28		0	21	7							0.0	0.0	0.57	https://ncov.moh.gov.vn/
+B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-05-28		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Banteay_Meanchey_Province	Banteay Meanchey Province	2020-05-28	2020-05-28T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Battambang_Province	Battambang Province	2020-05-28	2020-05-28T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bay_of_Plenty	Bay of Plenty	2020-05-28	2020-05-27T01:00:00.000Z		47	47								0.0	0.0	https://www.health.govt.nz/
-Earth	Earth	2020-05-28	2020-05-27T18:28:54.223Z	353172	5566125								3014.57	75200.71	53584.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+B%E1%BA%BFn_Tre_Province	Bến Tre Province	2020-05-28		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%C3%ACnh_Thu%E1%BA%ADn_Province	Bình Thuận Province	2020-05-28		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Cambodia	Cambodia	2020-05-28	2020-05-28T07:00:00.000Z	0	124	122		0	0	0	0	0	0.0	0.29	0.0	http://www.cdcmoh.gov.kh/
+C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-05-28		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Da_Nang	Da Nang	2020-05-28		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-05-28		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-05-28		0	5	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Earth	Earth	2020-05-28	2020-05-27T19:08:39.214Z	353609	5574639								3077.0	76417.0	53636.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 H%C3%A0_Giang_Province	Hà Giang Province	2020-05-28		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 H%C3%A0_Nam_Province	Hà Nam Province	2020-05-28		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 H%C3%A0_T%C4%A9nh_Province	Hà Tĩnh Province	2020-05-28		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -20,14 +32,19 @@ Kh%C3%A1nh_H%C3%B2a_Province	Khánh Hòa Province	2020-05-28		0	1	1							0.0	0.
 Koh_Kong_Province	Koh Kong Province	2020-05-28	2020-05-28T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Lai_Ch%C3%A2u_Province	Lai Châu Province	2020-05-28		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 L%C3%A0o_Cai_Province	Lào Cai Province	2020-05-28		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Mangystau_Region	Mangystau Region	2020-05-28		1	176	114							0.0	1.71	6.14	https://www.coronavirus2020.kz/
 New_Zealand	New Zealand	2020-05-28	2020-05-27T01:00:00.000Z	21	1504	1462	267435						0.0	0.14	1.43	https://www.health.govt.nz/
 Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-05-28		0	13	13							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-05-28		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+North_Kazakhstan_Region	North Kazakhstan Region	2020-05-28			49	33								1.43	0.57	https://www.coronavirus2020.kz/
 Northland_Region	Northland Region	2020-05-28	2020-05-27T01:00:00.000Z		28	28								0.0	0.0	https://www.health.govt.nz/
+Nur-Sultan	Nur-Sultan	2020-05-28		6	1764	1001							0.14	51.57	48.14	https://www.coronavirus2020.kz/
+Pavlodar_Region	Pavlodar Region	2020-05-28		2	191	148							0.0	2.14	1.0	https://www.coronavirus2020.kz/
 Phnom_Penh	Phnom Penh	2020-05-28	2020-05-28T07:00:00.000Z		30			0			0			0.29		http://www.cdcmoh.gov.kh/
 Preah_Vihear_Province	Preah Vihear Province	2020-05-28	2020-05-28T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-05-28		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-05-28		0	8	8							0.0	0.0	0.43	https://ncov.moh.gov.vn/
+Shymkent	Shymkent	2020-05-28		6	713	232							0.0	29.29	3.0	https://www.coronavirus2020.kz/
 Siem_Reap_Province	Siem Reap Province	2020-05-28	2020-05-28T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2020-05-28	2020-05-27T04:00:00.000Z	23	32876	17276	334691						0.0	437.71	737.0	https://www.moh.gov.sg/covid-19
 Taranaki	Taranaki	2020-05-28	2020-05-27T01:00:00.000Z		16	16								0.0	0.0	https://www.health.govt.nz/
@@ -38,8 +55,10 @@ Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-05-28		0	1	1							0.
 Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-05-28		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-05-28		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-05-28		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Turkistan_Region	Turkistan Region	2020-05-28		1	337	189							0.0	12.86	3.71	https://www.coronavirus2020.kz/
 Vietnam	Vietnam	2020-05-28		0	327	278							0.0	0.43	1.71	https://ncov.moh.gov.vn/
 V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-05-28		0	19	19							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Waikato	Waikato	2020-05-28	2020-05-27T01:00:00.000Z	1	188	186							0.0	0.0	0.0	https://www.health.govt.nz/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-05-28	2020-05-27T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
+West_Kazakhstan_Region	West Kazakhstan Region	2020-05-28			472	264								17.14	7.71	https://www.coronavirus2020.kz/
 Whanganui	Whanganui	2020-05-28	2020-05-27T01:00:00.000Z		9	9								0.0	0.0	https://www.health.govt.nz/
