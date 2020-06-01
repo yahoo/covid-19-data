@@ -838,6 +838,7 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 73075,_Pauls_Valley,_Oklahoma,_Oklahoma	73075, Pauls Valley, Oklahoma, Oklahoma	2020-05-24		0	8	8		0	0	0	0	0	0.0	0.0	0.14	https://www.southernnevadahealthdistrict.org/
 73077,_Perry,_Oklahoma,_Oklahoma	73077, Perry, Oklahoma, Oklahoma	2020-05-24		0	3	3		0	0	0	0	0	0.0	0.0	0.0	https://www.southernnevadahealthdistrict.org/
 73078,_Piedmont,_Oklahoma,_Oklahoma	73078, Piedmont, Oklahoma, Oklahoma	2020-05-24		0	13	12		0	0	0	0	0	0.0	0.14	0.0	https://www.southernnevadahealthdistrict.org/
+73080,_Purcell,_Oklahoma,_Oklahoma	73080, Purcell, Oklahoma, Oklahoma	2020-05-24		1	71	57		1	0	0	-1	0	0.0	1.71	0.57	https://www.southernnevadahealthdistrict.org/
 73082,_Rush_Springs,_Oklahoma,_Oklahoma	73082, Rush Springs, Oklahoma, Oklahoma	2020-05-24		0	2	2		0	0	0	0	0	0.0	0.0	0.0	https://www.southernnevadahealthdistrict.org/
 73084,_Spencer,_Oklahoma,_Oklahoma	73084, Spencer, Oklahoma, Oklahoma	2020-05-24		0	13	12		0	0	0	0	0	0.0	0.0	0.71	https://www.southernnevadahealthdistrict.org/
 73086,_Sulphur,_Oklahoma,_Oklahoma	73086, Sulphur, Oklahoma, Oklahoma	2020-05-24		0	2	2		0	0	0	0	0	0.0	0.0	0.0	https://www.southernnevadahealthdistrict.org/
@@ -1489,7 +1490,7 @@ Benton_County,_Indiana	Benton County, Indiana	2020-05-24		0	24		257	0	0		0	0	0.0
 Benton_County,_Iowa	Benton County, Iowa	2020-05-24		1	37			0	0		0	0	0.0	0.14		https://idph.iowa.gov/
 Benton_County,_Minnesota	Benton County, Minnesota	2020-05-24	2020-05-24T16:00:00.000Z	2	166			5	0		2	0	0.0	5.0		https://www.health.state.mn.us/
 Benton_County,_Mississippi	Benton County, Mississippi	2020-05-24	2020-05-24T05:00:00.000Z	0	14			0	0		-1	0	0.0	0.14		https://msdh.ms.gov/
-Benton_County%2C_Missouri	Benton County, Missouri	2020-05-24		0	10			0	0		0	0	0.0	0.29		https://health.mo.gov/
+Benton_County,_Missouri	Benton County, Missouri	2020-05-24		0	10			0	0		0	0	0.0	0.29		https://health.mo.gov/
 Benton_County,_Oregon	Benton County, Oregon	2020-05-24	2020-05-24T19:01:00.000Z	5	55		3573	0	0		0	0	0.0	0.57		https://govstatus.egov.com/OR-OHA-COVID-19
 Benton_County,_Tennessee	Benton County, Tennessee	2020-05-24	2020-05-24T19:00:00.000Z	1	7	5		0	0	0	0	0	0.0	0.14	0.0	https://www.tn.gov/
 Benton_County,_Washington	Benton County, Washington	2020-05-24		59	696			22	0		22	0	0.57	9.0		https://coronavirus.wa.gov/
@@ -2093,7 +2094,7 @@ Concordia_Parish,_Louisiana	Concordia Parish, Louisiana	2020-05-24		5	69			0	0		
 Condeixa-a-Nova	Condeixa-a-Nova	2020-05-24	2020-05-23T23:00:00.000Z		154			0			0			1.43		https://covid19.min-saude.pt/
 Conecuh_County,_Alabama	Conecuh County, Alabama	2020-05-24		1	25		288	0	0		-1	0	0.14	1.0		https://covid19.alabama.gov/
 Conejos_County,_Colorado	Conejos County, Colorado	2020-05-24			1			0			0			0.0		https://covid19.colorado.gov/
-Connecticut	Connecticut	2020-05-24	2020-05-24T15:00:00.000Z	3693	40468		214136	446	18		64	-20	40.71	435.57		https://portal.ct.gov/
+Connecticut	Connecticut	2020-05-24		3742	40873		221726	405	49		-41	31	41.86	393.86		https://portal.ct.gov/
 Contra_Costa_County,_California	Contra Costa County, California	2020-05-24		36	1325		29667	23	0		-7	0	0.43	24.29		https://www.cdph.ca.gov/
 Converse_County,_Wyoming	Converse County, Wyoming	2020-05-24	2020-05-24T06:00:00.000Z		14			0			0			0.0		https://health.wyo.gov/
 Conway_County,_Arkansas	Conway County, Arkansas	2020-05-24		1	14	12	537	0	0	0	0	0	0.0	0.0	0.0	https://www.healthy.arkansas.gov/
@@ -2350,7 +2351,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-05-24	2020-05-24T20:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-05-24	2020-05-24T19:00:00.000Z		48	41		0		1	-2			0.57	0.86	https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-05-24		8	581			1	0		-2	0	0.0	1.57		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-05-24	2020-05-25T00:42:40.000Z	29	234			-2	0		-4	0	0.14	0.14		https://dph.georgia.gov/
-Earth	Earth	2020-05-24	2020-06-01T03:38:17.516Z	344178	5343056			97571	3989		-2603	-701	4371.14	97317.71	60812.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-05-24	2020-06-01T08:11:05.422Z	344178	5343056			97571	3989		-2603	-701	4371.14	97317.71	60812.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-05-24		229	3386			4	2		-59	0	2.43	50.29		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-05-24	2020-05-24T20:00:00.000Z		172			0			0			2.14		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-05-24	2020-05-24T20:00:00.000Z		9			0			0			0.29		https://www.mass.gov/
@@ -2451,7 +2452,7 @@ Fafe	Fafe	2020-05-24	2020-05-23T23:00:00.000Z		121			1			1			2.29		https://covid
 Fairbanks_North_Star_Borough,_Alaska	Fairbanks North Star Borough, Alaska	2020-05-24			85			0			0			0.0		http://www.dhss.alaska.gov/
 Fairfax_County,_Virginia	Fairfax County, Virginia	2020-05-24		327	8989			44	1		-167	-4	6.43	192.29		http://www.vdh.virginia.gov/
 Fairfax,_Virginia	Fairfax, Virginia	2020-05-24		3	52			0	0		-1	1	0.0	0.71		http://www.vdh.virginia.gov/
-Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-05-24	2020-05-24T15:00:00.000Z	1215	15114			125	7		25	-6	9.86	123.71		https://portal.ct.gov/
+Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-05-24		1221	15213			99	6		-26	-1	9.71	110.57		https://portal.ct.gov/
 Fairfield_County,_Ohio	Fairfield County, Ohio	2020-05-24	2020-05-24T18:00:00.000Z	3	240			7	0		3	0	0.0	5.0		https://coronavirus.ohio.gov/
 Fairfield_County,_South_Carolina	Fairfield County, South Carolina	2020-05-24		9	159			1	0		-2	0	0.14	5.29		https://www.scdhec.gov/
 Fairhaven,_Massachusetts	Fairhaven, Massachusetts	2020-05-24	2020-05-24T20:00:00.000Z		183			0			0			3.57		https://www.mass.gov/
@@ -5232,7 +5233,7 @@ Union_County,_Tennessee	Union County, Tennessee	2020-05-24	2020-05-24T19:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-05-24		17	287			0	1		0	1	0.43	6.43		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-05-24		245	29485	15056		1593	3	1258	1593	-1	3.57	875.29	934.86	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-05-24	2020-05-24T09:07:00.000Z	36793	259559			2409	118	118	-550	-164	308.14	2322.29		https://www.gov.uk/
-United_States	United States	2020-05-24	2020-06-01T07:40:25.422Z	97414	1639024			22200	1080		1080	-225	1257.29	22311.86	13495.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-05-24	2020-06-01T08:10:33.976Z	97414	1639024			22200	1080		1080	-225	1257.29	22311.86	13495.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-05-24	2020-05-31T11:41:13.000Z	6	69			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Upper_Austria	Upper Austria	2020-05-24	2020-05-24T20:00:00.000Z	56		2203			0	1		0	0.14		2.29	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2020-05-24		0	18	15		0	0	0	0	0	0.0	0.0	0.14	https://www.dshs.state.tx.us/
