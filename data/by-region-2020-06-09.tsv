@@ -1,10 +1,12 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Auckland_Region	Auckland Region	2020-06-09	2020-06-08T01:00:00.000Z		178	178								0.0	0.14	https://www.health.govt.nz/
 Bay_of_Plenty	Bay of Plenty	2020-06-09	2020-06-08T01:00:00.000Z		47	47								0.0	0.0	https://www.health.govt.nz/
-Earth	Earth	2020-06-09	2020-06-08T17:09:14.929Z	402369	6978081								3266.43	94938.86	64086.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-06-09	2020-06-08T19:19:28.637Z	402603	6984133								3299.86	95803.43	64779.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Hawke%27s_Bay_Region	Hawke's Bay Region	2020-06-09	2020-06-08T01:00:00.000Z		44	44								0.0	0.0	https://www.health.govt.nz/
+Malaysia	Malaysia	2020-06-09	2020-06-08T09:00:00.000Z	117	8329	6694							0.29	67.43	41.43	http://www.moh.gov.my/
 New_Zealand	New Zealand	2020-06-09	2020-06-08T01:00:00.000Z	22	1504	1482	294848						0.0	0.0	0.14	https://www.health.govt.nz/
 Northland_Region	Northland Region	2020-06-09	2020-06-08T01:00:00.000Z		28	28								0.0	0.0	https://www.health.govt.nz/
+Singapore	Singapore	2020-06-09	2020-06-08T04:00:00.000Z	25	38296	25368	408495						0.14	351.43	313.29	https://www.moh.gov.sg/covid-19
 Taranaki	Taranaki	2020-06-09	2020-06-08T01:00:00.000Z		16	16								0.0	0.0	https://www.health.govt.nz/
 Waikato	Waikato	2020-06-09	2020-06-08T01:00:00.000Z	1	188	187							0.0	0.0	0.0	https://www.health.govt.nz/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-06-09	2020-06-08T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
