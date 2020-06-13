@@ -820,7 +820,7 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-06-12		0	62			-1	0		-4	0	0.0	2.14		https://www.scdhec.gov/
 Abington,_Massachusetts	Abington, Massachusetts	2020-06-12	2020-06-12T20:00:00.000Z		232		1524	0			0			0.29		https://www.mass.gov/
 Abrantes	Abrantes	2020-06-12	2020-06-11T23:00:00.000Z		23			0			0			0.43		https://covid19.min-saude.pt/
-Abruzzo	Abruzzo	2020-06-12		453	3271	2290	88739				4		5.43	2.0	16.86	http://www.salute.gov.it/
+Abruzzo	Abruzzo	2020-06-12		453	3271	2290	88739	4	0	15	3	0	5.43	2.0	16.86	http://www.salute.gov.it/
 Acadia_Parish,_Louisiana	Acadia Parish, Louisiana	2020-06-12		31	535			6	0		-3	-2	0.71	9.71		http://ldh.la.gov/
 Accomack_County,_Virginia	Accomack County, Virginia	2020-06-12		13	987			3	0		3	0	0.14	2.57		http://www.vdh.virginia.gov/
 Acre_(state)	Acre (state)	2020-06-12	2020-06-12T22:00:00.000Z	254	9295			204	9		-141	1	8.43	285.71		https://covid.saude.gov.br/
@@ -834,7 +834,7 @@ Adair_County,_Oklahoma	Adair County, Oklahoma	2020-06-12		4	95	86							0.0	0.29
 Adams_County,_Colorado	Adams County, Colorado	2020-06-12		143	3698			35	0		15	0	1.14	26.14		https://covid19.colorado.gov/
 Adams_County,_Idaho	Adams County, Idaho	2020-06-12	2020-06-12T17:00:00.000Z	0	4			1	0		1	0	0.0	0.14		https://coronavirus.idaho.gov/
 Adams_County,_Illinois	Adams County, Illinois	2020-06-12		1	45			0	0		0	0	0.0	0.14		http://www.dph.illinois.gov/
-Adams_County,_Indiana	Adams County, Indiana	2020-06-12		1	24		583						0.0	0.14		https://coronavirus.in.gov/
+Adams_County,_Indiana	Adams County, Indiana	2020-06-12		1	24		583	0	0		0	0	0.0	0.14		https://coronavirus.in.gov/
 Adams_County,_Iowa	Adams County, Iowa	2020-06-12	2020-06-12T00:00:00.000Z	0	7	4	178	0	0	0	0	0	0.0	0.0	0.0	https://idph.iowa.gov
 Adams_County,_Mississippi	Adams County, Mississippi	2020-06-12	2020-06-12T05:00:00.000Z	17	225			3	0		3	0	0.14	3.0		https://msdh.ms.gov/
 Adams_County,_Nebraska	Adams County, Nebraska	2020-06-12			278		348	1			1			0.43		http://dhhs.ne.gov/
@@ -857,7 +857,7 @@ Alabama	Alabama	2020-06-12		764	23333		286008	859	14		11	3	13.14	608.57		https:/
 Alachua_County,_Florida	Alachua County, Florida	2020-06-12		10	506		28121	63	1		32	0	0.29	16.29		https://floridahealthcovid19.gov/
 Alagoas	Alagoas	2020-06-12	2020-06-12T22:00:00.000Z	701	20031			831	20		-193	-1	19.71	847.29		https://covid.saude.gov.br/
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2020-06-12		31	641			60	8		23	8	1.57	30.57		https://www.ncdhhs.gov/
-Alameda_County,_California	Alameda County, California	2020-06-12		110	4073								0.86	48.43		https://www.cdph.ca.gov/
+Alameda_County,_California	Alameda County, California	2020-06-12		110	4167			94	0		48	0	0.86	61.86		https://www.cdph.ca.gov/
 Alamosa_County,_Colorado	Alamosa County, Colorado	2020-06-12		3	114			2	0		-3	0	0.14	3.86		https://covid19.colorado.gov/
 Alaska	Alaska	2020-06-12		12	625	403		15	1	6	-2	1	0.29	14.43	3.29	http://www.dhss.alaska.gov/
 Albania	Albania	2020-06-12	2020-06-12T00:00:00.000Z	36	1416	1034	17618	31	1	33	-13	0	0.43	29.14	17.71	https://coronavirus.al/statistika/
@@ -887,7 +887,7 @@ Allegany_County,_New_York	Allegany County, New York	2020-06-12	2020-06-12T14:00:
 Alleghany_County,_North_Carolina	Alleghany County, North Carolina	2020-06-12		0	30			0	0		0	0	0.0	0.86		https://www.ncdhhs.gov/
 Alleghany_County,_Virginia	Alleghany County, Virginia	2020-06-12		2	27			1	0		1	0	0.0	0.43		http://www.vdh.virginia.gov/
 Allegheny_County,_Pennsylvania	Allegheny County, Pennsylvania	2020-06-12		169	2027		38174	0	0		0	0	0.14	7.71		https://www.health.pa.gov/
-Allen_County,_Indiana	Allen County, Indiana	2020-06-12		79	2127		16907						1.14	45.29		https://coronavirus.in.gov/
+Allen_County,_Indiana	Allen County, Indiana	2020-06-12		79	2127		16907	38	1		-37	0	1.14	45.29		https://coronavirus.in.gov/
 Allen_County,_Kentucky	Allen County, Kentucky	2020-06-12		3	127			4	0		1	0	0.0	3.57		https://govstatus.egov.com/
 Allen_County,_Ohio	Allen County, Ohio	2020-06-12	2020-06-12T18:00:00.000Z	34	232			-1	0		-5	0	0.14	1.57		https://coronavirus.ohio.gov/
 Allen_Parish,_Louisiana	Allen Parish, Louisiana	2020-06-12		10	193			4	0		4	0	0.0	1.0		http://ldh.la.gov/
@@ -898,7 +898,7 @@ Almaty_Region	Almaty Region	2020-06-12			490	328		20		19	7			11.0	8.71	https://w
 Almeida,_Portugal	Almeida, Portugal	2020-06-12	2020-06-11T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
 Almeirim	Almeirim	2020-06-12	2020-06-11T23:00:00.000Z		21			0			0			0.0		https://covid19.min-saude.pt/
 Alpena_County,_Michigan	Alpena County, Michigan	2020-06-12	2020-06-12T16:00:00.000Z	12	113			10	2		9	1	0.43	2.43		https://www.michigan.gov/
-Alpine_County,_California	Alpine County, California	2020-06-12		0	1								0.0	0.0		https://www.cdph.ca.gov/
+Alpine_County,_California	Alpine County, California	2020-06-12		0	1			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov/
 Amador_County,_California	Amador County, California	2020-06-12	2020-06-12T07:00:00.000Z	0	10	10	1426	0	0	0	0	0	0.0	0.0	0.14	https://www.amadorgov.org/
 Amadora	Amadora	2020-06-12	2020-06-11T23:00:00.000Z		1186			34			13			27.71		https://covid19.min-saude.pt/
 Amarante,_Portugal	Amarante, Portugal	2020-06-12	2020-06-11T23:00:00.000Z		102			0			0			0.43		https://covid19.min-saude.pt/
@@ -1993,7 +1993,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-06-12	2020-06-12T20:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-06-12	2020-06-12T19:00:00.000Z		73	49		0		0	-2			2.0	0.57	https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-06-12		8	621			4	0		2	0	0.0	2.57		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-06-12	2020-06-12T18:50:05.000Z	31	254			0	0		-1	0	-0.14	1.0		https://dph.georgia.gov/
-Earth	Earth	2020-06-12	2020-06-13T13:06:13.714Z	424407	7565988			144060	4762		9783	-477	4245.57	124948.43	99950.57	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-06-12	2020-06-13T15:02:01.779Z	424407	7565988			144060	4762		9783	-477	4245.57	124948.43	99950.57	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-06-12		256	4150			62	2		28	2	0.86	39.43		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-06-12	2020-06-12T20:00:00.000Z		176		1250	0			0			0.29		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-06-12	2020-06-12T20:00:00.000Z		14		100	0			0			0.57		https://www.mass.gov/
@@ -4862,7 +4862,7 @@ Union_County,_Tennessee	Union County, Tennessee	2020-06-12	2020-06-12T19:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-06-12		20	385			2	0		-6	0	0.0	6.0		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-06-12		287	41499	25946		513	2	712	34	1	1.86	551.0	801.29	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-06-12	2020-06-12T08:05:00.000Z	41481	292950			1541	202	202	275	51	174.29	1377.0		https://www.gov.uk/
-United_States	United States	2020-06-12	2020-06-13T14:09:18.721Z	114065	2036541			28447	896		6971	-22	775.57	20801.57	8912.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-06-12	2020-06-13T15:01:36.624Z	114065	2036541			28447	896		6971	-22	775.57	20801.57	8912.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-06-12	2020-06-13T11:41:10.000Z	6	72			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Upper_Austria	Upper Austria	2020-06-12	2020-06-12T20:00:00.000Z	58		2232			0	0		0	0.0		0.86	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2020-06-12		0	35	19		0	0	0	0	0	0.0	0.71	0.29	https://www.dshs.state.tx.us/
