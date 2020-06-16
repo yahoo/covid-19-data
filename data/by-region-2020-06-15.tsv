@@ -820,7 +820,7 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-06-15		0	70			3	0		-1	0	0.0	1.71		https://www.scdhec.gov/
 Abington,_Massachusetts	Abington, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		232		1524	0			0			0.29		https://www.mass.gov/
 Abrantes	Abrantes	2020-06-15	2020-06-14T23:00:00.000Z		23			0			0			0.0		https://covid19.min-saude.pt/
-Abruzzo	Abruzzo	2020-06-15		456	3279	2337	91700				0		5.43	2.0	17.43	http://www.salute.gov.it/
+Abruzzo	Abruzzo	2020-06-15		456	3279	2337	91700	0	0	25	-4	-2	5.43	2.0	17.43	http://www.salute.gov.it/
 Acadia_Parish,_Louisiana	Acadia Parish, Louisiana	2020-06-15		31	597			14	0		8	0	0.29	12.0		http://ldh.la.gov/
 Accomack_County,_Virginia	Accomack County, Virginia	2020-06-15		14	996			3	0		-1	0	0.14	1.86		http://www.vdh.virginia.gov/
 Acre_(state)	Acre (state)	2020-06-15	2020-06-15T22:00:00.000Z	265	9771			129	6		21	3	7.0	233.14		https://covid.saude.gov.br/
@@ -834,7 +834,7 @@ Adair_County,_Oklahoma	Adair County, Oklahoma	2020-06-15		4	96	87							0.0	0.29
 Adams_County,_Colorado	Adams County, Colorado	2020-06-15		144	3759			16	0		2	0	0.86	22.0		https://covid19.colorado.gov/
 Adams_County,_Idaho	Adams County, Idaho	2020-06-15	2020-06-15T17:00:00.000Z	0	6			2	0		2	0	0.0	0.43		https://coronavirus.idaho.gov/
 Adams_County,_Illinois	Adams County, Illinois	2020-06-15		1	46			1	0		1	0	0.0	0.14		http://www.dph.illinois.gov/
-Adams_County,_Indiana	Adams County, Indiana	2020-06-15		1	27		874						0.0	0.71		https://coronavirus.in.gov/
+Adams_County,_Indiana	Adams County, Indiana	2020-06-15		1	27		874	1	0		0	0	0.0	0.71		https://coronavirus.in.gov/
 Adams_County,_Iowa	Adams County, Iowa	2020-06-15	2020-06-15T00:00:00.000Z	0	7	5	198	0	0	0	0	0	0.0	0.0	0.14	https://idph.iowa.gov
 Adams_County,_Mississippi	Adams County, Mississippi	2020-06-15	2020-06-15T05:00:00.000Z	17	226			1	0		1	0	0.0	0.57		https://msdh.ms.gov/
 Adams_County,_Nebraska	Adams County, Nebraska	2020-06-15			278		350	0			0			0.29		http://dhhs.ne.gov/
@@ -858,7 +858,7 @@ Alabama	Alabama	2020-06-15		769	25892		302294	657	1		-357	1	7.86	757.43		https:/
 Alachua_County,_Florida	Alachua County, Florida	2020-06-15		10	551		30013	10	0		0	0	0.29	21.71		https://floridahealthcovid19.gov/
 Alagoas	Alagoas	2020-06-15	2020-06-15T22:00:00.000Z	768	22962			763	24		-549	3	23.0	1013.29		https://covid.saude.gov.br/
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2020-06-15		34	778			36	1		-6	0	1.57	40.57		https://www.ncdhhs.gov/
-Alameda_County,_California	Alameda County, California	2020-06-15		112	4271								0.29	47.71		https://www.cdph.ca.gov/
+Alameda_County,_California	Alameda County, California	2020-06-15		112	4323			52	0		-23	-2	0.29	55.14		https://www.cdph.ca.gov/
 Alamosa_County,_Colorado	Alamosa County, Colorado	2020-06-15		3	127			9	0		7	0	0.14	4.57		https://covid19.colorado.gov/
 Alaska	Alaska	2020-06-15		12	664	417		3	0	6	-4	0	0.29	14.43	4.71	http://www.dhss.alaska.gov/
 Albania	Albania	2020-06-15	2020-06-15T00:00:00.000Z	36	1590	1055	18569	69	0	11	12	0	0.29	46.71	15.71	https://coronavirus.al/statistika/
@@ -889,7 +889,7 @@ Allegany_County,_New_York	Allegany County, New York	2020-06-15	2020-06-15T14:00:
 Alleghany_County,_North_Carolina	Alleghany County, North Carolina	2020-06-15		0	30			0	0		0	0	0.0	0.14		https://www.ncdhhs.gov/
 Alleghany_County,_Virginia	Alleghany County, Virginia	2020-06-15		2	28			0	0		0	0	0.0	0.29		http://www.vdh.virginia.gov/
 Allegheny_County,_Pennsylvania	Allegheny County, Pennsylvania	2020-06-15		169	2027		38174	0	0		0	0	0.14	5.43		https://www.health.pa.gov/
-Allen_County,_Indiana	Allen County, Indiana	2020-06-15		85	2224		18297						1.14	46.86		https://coronavirus.in.gov/
+Allen_County,_Indiana	Allen County, Indiana	2020-06-15		85	2224		18297	29	5		2	5	1.14	46.86		https://coronavirus.in.gov/
 Allen_County,_Kansas	Allen County, Kansas	2020-06-15	2020-06-15T16:00:00.000Z		1									0.02		https://www.coronavirus.kdheks.gov
 Allen_County,_Kentucky	Allen County, Kentucky	2020-06-15		3	135			3	0		3	0	0.0	4.29		https://govstatus.egov.com/
 Allen_County,_Ohio	Allen County, Ohio	2020-06-15	2020-06-15T18:00:00.000Z	36	241			1	1		-1	1	0.29	2.43		https://coronavirus.ohio.gov/
@@ -901,7 +901,7 @@ Almaty_Region	Almaty Region	2020-06-15			515	357		8		29	1			10.57	10.0	https://w
 Almeida,_Portugal	Almeida, Portugal	2020-06-15	2020-06-14T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
 Almeirim	Almeirim	2020-06-15	2020-06-14T23:00:00.000Z		21			0			0			0.0		https://covid19.min-saude.pt/
 Alpena_County,_Michigan	Alpena County, Michigan	2020-06-15	2020-06-15T16:00:00.000Z	11	114			0	0		0	0	0.29	2.14		https://www.michigan.gov/
-Alpine_County,_California	Alpine County, California	2020-06-15		0	1	1	16						0.0	0.0	0.0	https://www.cdph.ca.gov/
+Alpine_County,_California	Alpine County, California	2020-06-15		0	1	1	16	0	0	0	0	0	0.0	0.0	0.0	https://www.cdph.ca.gov/
 Altai_Krai	Altai Krai	2020-06-15	2020-06-15T07:45:00.000Z	19	2867	1715		72	0	48	3	0	0.71	68.14	86.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2020-06-15	2020-06-15T07:45:00.000Z	0	275	135		19	0	7	6	0	0.0	13.57	4.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Amador_County,_California	Amador County, California	2020-06-15	2020-06-15T07:00:00.000Z	0	11	10	1503	1	0	0	1	0	0.0	0.14	0.0	https://www.amadorgov.org/
@@ -940,12 +940,12 @@ Antelope_County,_Nebraska	Antelope County, Nebraska	2020-06-15			8		10	0			0			0
 Antigua_and_Barbuda	Antigua and Barbuda	2020-06-15	2020-06-16T11:41:23.000Z	3	26			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Antofagasta_Region	Antofagasta Region	2020-06-15	2020-06-15T04:00:00.000Z	72	4556			270	0		22	-5	3.86	187.29		https://www.minsal.cl/
 Antrim_County,_Michigan	Antrim County, Michigan	2020-06-15	2020-06-15T16:00:00.000Z	0	14			0	0		0	0	0.0	0.29		https://www.michigan.gov/
-Aosta_Valley	Aosta Valley	2020-06-15		144	1191	1035	16650				0		0.0	0.0	-0.57	http://www.salute.gov.it/
+Aosta_Valley	Aosta Valley	2020-06-15		144	1191	1035	16650	0	0	-5	0	0	0.0	0.0	-0.57	http://www.salute.gov.it/
 Apache_County,_Arizona	Apache County, Arizona	2020-06-15	2020-06-15T00:00:00.000Z	56	1975		6364	3	0	0	-2	0	1.0	34.71		https://azdhs.gov/
 Appanoose_County,_Iowa	Appanoose County, Iowa	2020-06-15	2020-06-15T00:00:00.000Z	3	17	11	603	1	0	0	1	0	0.0	0.0	0.0	https://idph.iowa.gov
 Appling_County,_Georgia	Appling County, Georgia	2020-06-15	2020-06-15T18:50:04.000Z	13	204			-1	0		-2	0	0.0	2.14		https://dph.georgia.gov/
 Appomattox_County,_Virginia	Appomattox County, Virginia	2020-06-15		0	34			0	0		0	0	0.0	0.14		http://www.vdh.virginia.gov/
-Apulia	Apulia	2020-06-15		534	4516	3572	148627				1		1.29	0.57	40.43	http://www.salute.gov.it/
+Apulia	Apulia	2020-06-15		534	4516	3572	148627	1	2	7	1	2	1.29	0.57	40.43	http://www.salute.gov.it/
 Aquinnah,_Massachusetts	Aquinnah, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		0		20	0			0			0.0		https://www.mass.gov/
 Aransas_County,_Texas	Aransas County, Texas	2020-06-15		0	6	4		0	0	0	0	0	0.0	0.14	0.0	https://www.dshs.state.tx.us/
 Arapahoe_County,_Colorado	Arapahoe County, Colorado	2020-06-15		335	4818			15	0		0	0	1.29	22.14		https://covid19.colorado.gov/
@@ -1012,7 +1012,7 @@ Australia	Australia	2020-06-15	2020-06-15T15:00:00.000Z	102	7335	6851	1828149	15
 Austria	Austria	2020-06-15	2020-06-15T20:00:00.000Z	656	17094	16066	527670	26	0	7	9	-2	1.43	29.29	32.43	https://info.gesundheitsministerium.at/
 Autauga_County,_Alabama	Autauga County, Alabama	2020-06-15		6	364		3200	7	0		-19	0	0.14	13.14		https://covid19.alabama.gov/
 Autonomous_Province_of_Kosovo_and_Metohija	Autonomous Province of Kosovo and Metohija	2020-06-15	2020-06-16T11:41:23.000Z	32	1437			0	0	0	-111	-1	0.29	42.14		https://www.ecdc.europa.eu/
-Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-06-15		1720		7495							2.29		27.14	https://www.santepubliquefrance.fr/
+Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-06-15		1720		7495			2	30		2	2.29		27.14	https://www.santepubliquefrance.fr/
 Avalon,_California	Avalon, California	2020-06-15	2020-06-15T03:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://publichealth.lacounty.gov/
 Aveiro,_Portugal	Aveiro, Portugal	2020-06-15	2020-06-14T23:00:00.000Z		353			0			0			0.0		https://covid19.min-saude.pt/
 Avery_County,_North_Carolina	Avery County, North Carolina	2020-06-15		0	6			0	0		0	0	0.0	0.29		https://www.ncdhhs.gov/
@@ -1066,12 +1066,12 @@ Barron_County,_Wisconsin	Barron County, Wisconsin	2020-06-15	2020-06-15T06:00:00
 Barrow_County,_Georgia	Barrow County, Georgia	2020-06-15	2020-06-15T18:50:04.000Z	23	388			6	0		6	0	0.43	5.0		https://dph.georgia.gov/
 Barry_County,_Michigan	Barry County, Michigan	2020-06-15	2020-06-15T16:00:00.000Z	2	91			0	0		0	0	0.0	3.14		https://www.michigan.gov/
 Barry_County,_Missouri	Barry County, Missouri	2020-06-15		0	14			4	0		4	0	0.0	0.71		https://health.mo.gov/
-Bartholomew_County,_Indiana	Bartholomew County, Indiana	2020-06-15		41	554		2969						0.14	2.57		https://coronavirus.in.gov/
+Bartholomew_County,_Indiana	Bartholomew County, Indiana	2020-06-15		41	554		2969	3	0		1	0	0.14	2.57		https://coronavirus.in.gov/
 Barton_County,_Kansas	Barton County, Kansas	2020-06-15	2020-06-15T16:00:00.000Z		48			1			1			0.29		https://www.coronavirus.kdheks.gov
 Barton_County,_Missouri	Barton County, Missouri	2020-06-15		0	7											https://health.mo.gov/
 Bartow_County,_Georgia	Bartow County, Georgia	2020-06-15	2020-06-15T18:50:04.000Z	39	548			5	0		4	0	0.0	3.57		https://dph.georgia.gov/
 Bashkortostan	Bashkortostan	2020-06-15	2020-06-15T07:45:00.000Z	18	4547	1874		61	0	21	-7	0	0.0	75.71	60.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Basilicata	Basilicata	2020-06-15		27	401	363	35233				0		0.0	0.29	0.57	http://www.salute.gov.it/
+Basilicata	Basilicata	2020-06-15		27	401	363	35233	0	0	0	0	0	0.0	0.29	0.57	http://www.salute.gov.it/
 Bastrop_County,_Texas	Bastrop County, Texas	2020-06-15		4	295	118		0	0	0	-2	0	0.14	5.71	3.0	https://www.dshs.state.tx.us/
 Batalha,_Portugal	Batalha, Portugal	2020-06-15	2020-06-14T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Bates_County,_Missouri	Bates County, Missouri	2020-06-15		1	12			0	0		0	0	0.0	0.0		https://health.mo.gov/
@@ -1128,7 +1128,7 @@ Bennington_County,_Vermont	Bennington County, Vermont	2020-06-15		1	67			0	0		0	
 Benson_County,_North_Dakota	Benson County, North Dakota	2020-06-15			3	2	1001	0		0	0			0.14	0.14	https://www.health.nd.gov/
 Bent_County,_Colorado	Bent County, Colorado	2020-06-15			3			0			0			0.0		https://covid19.colorado.gov/
 Benton_County,_Arkansas	Benton County, Arkansas	2020-06-15		8	1480	864	23646	74	1	50	30	1	0.57	67.0	52.0	https://www.healthy.arkansas.gov/
-Benton_County,_Indiana	Benton County, Indiana	2020-06-15		0	37		404						0.0	0.57		https://coronavirus.in.gov/
+Benton_County,_Indiana	Benton County, Indiana	2020-06-15		0	37		404	0	0		0	0	0.0	0.57		https://coronavirus.in.gov/
 Benton_County,_Iowa	Benton County, Iowa	2020-06-15	2020-06-15T00:00:00.000Z	1	46	37	1428	0	0	1	0	0	0.0	0.14	0.57	https://idph.iowa.gov
 Benton_County,_Minnesota	Benton County, Minnesota	2020-06-15	2020-06-15T16:00:00.000Z	3	193			0	0		-3	0	0.0	0.71		https://www.health.state.mn.us/
 Benton_County,_Mississippi	Benton County, Mississippi	2020-06-15	2020-06-15T05:00:00.000Z	0	17			0	0		0	0	0.0	0.14		https://msdh.ms.gov/
@@ -1169,7 +1169,7 @@ Biob%C3%ADo_Region	Biobío Region	2020-06-15	2020-06-15T04:00:00.000Z	19	3460			
 Birmingham	Birmingham	2020-06-15			3315			0			0			2.86		https://www.gov.uk/
 Black_Hawk_County,_Iowa	Black Hawk County, Iowa	2020-06-15	2020-06-15T00:00:00.000Z	53	1834	1088	11879	1	0	0	-6	0	0.43	4.71	6.86	https://idph.iowa.gov
 Blackburn_with_Darwen	Blackburn with Darwen	2020-06-15			420			0			0			0.53		https://www.gov.uk/
-Blackford_County,_Indiana	Blackford County, Indiana	2020-06-15		2	29		557						0.0	0.0		https://coronavirus.in.gov/
+Blackford_County,_Indiana	Blackford County, Indiana	2020-06-15		2	29		557	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Blackpool	Blackpool	2020-06-15			676			0			0			1.2		https://www.gov.uk/
 Blackstone,_Massachusetts	Blackstone, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		45		615	0			0			0.14		https://www.mass.gov/
 Bladen_County,_North_Carolina	Bladen County, North Carolina	2020-06-15		2	196			2	0		-4	0	0.0	4.43		https://www.ncdhhs.gov/
@@ -1196,7 +1196,7 @@ Bonner_County,_Idaho	Bonner County, Idaho	2020-06-15	2020-06-15T17:00:00.000Z	0	
 Bonneville_County,_Idaho	Bonneville County, Idaho	2020-06-15	2020-06-15T17:00:00.000Z	1	56			4	1		4	1	0.14	1.71		https://coronavirus.idaho.gov/
 Boone_County,_Arkansas	Boone County, Arkansas	2020-06-15		0	10	6	1378	1	0	0	1	0	0.0	0.43	0.14	https://www.healthy.arkansas.gov/
 Boone_County,_Illinois	Boone County, Illinois	2020-06-15		19	525			1	0		-3	0	0.14	2.71		http://www.dph.illinois.gov/
-Boone_County,_Indiana	Boone County, Indiana	2020-06-15		38	386		3621						0.29	7.71		https://coronavirus.in.gov/
+Boone_County,_Indiana	Boone County, Indiana	2020-06-15		38	386		3621	26	1		24	1	0.29	7.71		https://coronavirus.in.gov/
 Boone_County,_Iowa	Boone County, Iowa	2020-06-15	2020-06-15T00:00:00.000Z	0	101	45	2000	1	0	1	-4	0	0.0	3.29	0.43	https://idph.iowa.gov
 Boone_County,_Kentucky	Boone County, Kentucky	2020-06-15		21	541			2	0		2	0	0.43	2.71		https://govstatus.egov.com/
 Boone_County,_Missouri	Boone County, Missouri	2020-06-15		2	215			7	0		7	0	0.14	3.14		https://health.mo.gov/
@@ -1221,7 +1221,7 @@ Boulder_County,_Colorado	Boulder County, Colorado	2020-06-15		70	1088			18	0		13
 Boundary_County,_Idaho	Boundary County, Idaho	2020-06-15	2020-06-15T17:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Bourbon_County,_Kansas	Bourbon County, Kansas	2020-06-15	2020-06-15T16:00:00.000Z		8			0			0			0.0		https://www.coronavirus.kdheks.gov
 Bourbon_County,_Kentucky	Bourbon County, Kentucky	2020-06-15		1	25			1	0		1	0	0.0	1.29		https://govstatus.egov.com/
-Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-06-15		1032		3741							1.29		19.14	https://www.santepubliquefrance.fr/
+Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-06-15		1032		3741			0	2		0	1.29		19.14	https://www.santepubliquefrance.fr/
 Bourne,_Massachusetts	Bourne, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		152		1525	0			0			0.14		https://www.mass.gov/
 Bournemouth,_Christchurch_and_Poole	Bournemouth, Christchurch and Poole	2020-06-15			487			0			0			0.33		https://www.gov.uk/
 Bowie_County,_Texas	Bowie County, Texas	2020-06-15		7	372	223		-1	0	55	-4	0	0.14	5.14	12.86	https://www.dshs.state.tx.us/
@@ -1267,7 +1267,7 @@ Bristol,_Rhode_Island	Bristol, Rhode Island	2020-06-15	2020-06-15T00:00:00.000Z	
 Bristol,_Virginia	Bristol, Virginia	2020-06-15		0	4			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 British_Columbia	British Columbia	2020-06-15	2020-06-15T15:00:00.000Z	168	2745	2395	143524	36	0	41	36	0	0.14	12.29	12.29	https://www.canada.ca/
 British_Virgin_Islands	British Virgin Islands	2020-06-15	2020-06-16T11:41:23.000Z	1	8			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
-Brittany_(administrative_region)	Brittany (administrative region)	2020-06-15		257		1221							0.29		4.57	https://www.santepubliquefrance.fr/
+Brittany_(administrative_region)	Brittany (administrative region)	2020-06-15		257		1221			0	1		-1	0.29		4.57	https://www.santepubliquefrance.fr/
 Broadwater_County,_Montana	Broadwater County, Montana	2020-06-15		0	4			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
 Brockton,_Massachusetts	Brockton, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		4136		15396	0			0			10.29		https://www.mass.gov/
 Brooke_County,_West_Virginia	Brooke County, West Virginia	2020-06-15	2020-06-15T17:00:00.000Z	0	5	5	1451	1	0	0	1	0	0.0	0.14	0.0	https://dhhr.wv.gov/
@@ -1280,7 +1280,7 @@ Brooks_County,_Texas	Brooks County, Texas	2020-06-15		0	2	1		0	0	0	-1	0	0.0	0.14
 Broome_County,_New_York	Broome County, New York	2020-06-15	2020-06-15T14:00:00.000Z	56	655		28257	4	0		0	0	0.29	4.43		https://coronavirus.health.ny.gov/
 Broomfield,_Colorado	Broomfield, Colorado	2020-06-15		28	265			1	0		1	0	0.14	1.29		https://covid19.colorado.gov/
 Brown_County,_Illinois	Brown County, Illinois	2020-06-15		0	10			0	0		0	0	0.0	0.0		http://www.dph.illinois.gov/
-Brown_County,_Indiana	Brown County, Indiana	2020-06-15		1	36		305						0.0	0.29		https://coronavirus.in.gov/
+Brown_County,_Indiana	Brown County, Indiana	2020-06-15		1	36		305	0	0		0	0	0.0	0.29		https://coronavirus.in.gov/
 Brown_County,_Kansas	Brown County, Kansas	2020-06-15	2020-06-15T16:00:00.000Z		10			0			0			0.14		https://www.coronavirus.kdheks.gov
 Brown_County,_Minnesota	Brown County, Minnesota	2020-06-15	2020-06-15T16:00:00.000Z	2	19			0	0		0	0	0.0	0.29		https://www.health.state.mn.us/
 Brown_County,_Nebraska	Brown County, Nebraska	2020-06-15			0		1	0			0			0.0		http://dhhs.ne.gov/
@@ -1988,7 +1988,7 @@ Duval_County,_Texas	Duval County, Texas	2020-06-15		0	5	5		0	0	0	0	0	0.0	0.0	0.0
 Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		106		1354	0			0			0.57		https://www.mass.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-06-15		8	626			1	0		-1	0	0.0	2.29		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-06-15	2020-06-15T18:50:04.000Z	31	255			0	0		0	0	0.0	0.86		https://dph.georgia.gov/
-Earth	Earth	2020-06-15	2020-06-16T13:13:14.490Z	435023	7943782			117197	3129		-6682	-1070	4291.0	130255.14	93186.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-06-15	2020-06-16T14:04:24.989Z	435023	7943782			117197	3129		-6682	-1070	4291.0	130255.14	93186.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-06-15		259	4284			58	1		29	-1	1.0	45.86		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		176		1250	0			0			0.29		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-06-15	2020-06-15T20:00:00.000Z		14		100	0			0			0.57		https://www.mass.gov/
@@ -4844,7 +4844,7 @@ Union_County,_South_Dakota	Union County, South Dakota	2020-06-15	2020-06-15T17:0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-06-15		20	422			11	0		9	0	0.0	10.43		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-06-15		289	42294	27462		0	1	0	-304	0	1.14	416.86	741.0	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-06-15	2020-06-15T08:12:00.000Z	41736	296857			1056	38	38	-458	2	162.71	1351.14		https://www.gov.uk/
-United_States	United States	2020-06-15	2020-06-16T13:12:43.637Z	115428	2102030			17561	296		-2648	-471	735.14	22047.86	9995.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-06-15	2020-06-16T14:03:50.453Z	115428	2102030			17561	296		-2648	-471	735.14	22047.86	9995.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-06-15	2020-06-16T11:41:23.000Z	6	73			1	0	0	1	0	0.0	0.29		https://www.ecdc.europa.eu/
 Upper_Austria	Upper Austria	2020-06-15	2020-06-15T20:00:00.000Z	58		2234			0	1		0	0.0		0.57	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2020-06-15		0	38	24		1	0	0	1	0	0.0	1.0	0.86	https://www.dshs.state.tx.us/
