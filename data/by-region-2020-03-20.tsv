@@ -123,7 +123,7 @@ Chesterfield_County,_Virginia	Chesterfield County, Virginia	2020-03-20		0	5			-1
 Chile	Chile	2020-03-20		1	434			0	0	0	-92	0	0.14	53.29		https://www.who.int/
 China	China	2020-03-20		3261	81416			116	4	4	-10	-4	11.57	60.71		https://www.who.int/
 Chippewa_County,_Michigan	Chippewa County, Michigan	2020-03-20	2020-06-17T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
-City_of_Bradford	City of Bradford	2020-03-20			14			2			0					https://www.gov.uk/
+City_of_Bradford	City of Bradford	2020-03-20			15			2			0			0.48		https://www.gov.uk/
 City_of_Leeds	City of Leeds	2020-03-20			35			7			1			2.67		https://www.gov.uk/
 City_of_London	City of London	2020-03-20			5											https://www.gov.uk/
 City_of_Salford	City of Salford	2020-03-20			30			9			2			2.9		https://www.gov.uk/
@@ -195,7 +195,7 @@ Dinwiddie_County,_Virginia	Dinwiddie County, Virginia	2020-03-20		0	0			0	0		0	0
 Djibouti	Djibouti	2020-03-20	2020-06-19T11:42:36.000Z	0	1			0	0	0	0	0				https://www.ecdc.europa.eu/
 Dominican_Republic	Dominican Republic	2020-03-20		2	72			0	0	0	-38	0	0.29	9.57		https://www.who.int/
 Dorset	Dorset	2020-03-20			16			3			1			1.5		https://www.gov.uk/
-Earth	Earth	2020-03-20	2020-06-21T00:02:54.075Z	11452	283456			35557	1043		9045	101	866.14	19881.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-03-20	2020-06-21T18:06:01.061Z	11452	283456			35557	1043		9045	101	866.14	19881.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Flanders	East Flanders	2020-03-20	2020-03-20		439			74			15			41.86		https://epistat.wiv-isp.be/Covid/
 East_Midlands	East Midlands	2020-03-20			399			53			-13			40.0		https://www.gov.uk/
 East_of_England	East of England	2020-03-20			430			69			13			44.43		https://www.gov.uk/
@@ -208,7 +208,7 @@ El_Salvador	El Salvador	2020-03-20	2020-06-19T11:42:36.000Z	0	1			0	0	0	0	0				h
 Emilia-Romagna	Emilia-Romagna	2020-03-20		640	5968	239	20753	754	109	62	65	36	62.71	529.29	26.86	http://www.salute.gov.it/
 Emmet_County,_Michigan	Emmet County, Michigan	2020-03-20	2020-06-17T16:00:00.000Z	0	6			1	0	0	1	0	0.0	0.86		https://www.michigan.gov/
 Emporia,_Virginia	Emporia, Virginia	2020-03-20		0	0			0	0		0	0				http://www.vdh.virginia.gov/
-England	England	2020-03-20		186	6822			1081	32		150	-10	25.14	694.43		https://www.gov.uk/
+England	England	2020-03-20		186	6823			1080	32		149	-10	25.14	694.57		https://www.gov.uk/
 Equatorial_Guinea	Equatorial Guinea	2020-03-20	2020-06-19T11:42:36.000Z	0	4			0	0	0	-1	0				https://www.ecdc.europa.eu/
 Essex	Essex	2020-03-20			89			15			5			8.57		https://www.gov.uk/
 Essex_County,_Virginia	Essex County, Virginia	2020-03-20		0	0			0	0		0	0				http://www.vdh.virginia.gov/
@@ -254,7 +254,7 @@ Grand_Est	Grand Est	2020-03-20		183		284			35	97		7				https://www.santepublique
 Grand_Traverse_County,_Michigan	Grand Traverse County, Michigan	2020-03-20	2020-06-17T16:00:00.000Z	0	3			0	0	0	0	0	0.0	0.29		https://www.michigan.gov/
 Gratiot_County,_Michigan	Gratiot County, Michigan	2020-03-20	2020-06-17T16:00:00.000Z	0	2			0	0	0	0	0	0.0	0.14		https://www.michigan.gov/
 Grayson_County,_Virginia	Grayson County, Virginia	2020-03-20		0	0			0	0		0	0				http://www.vdh.virginia.gov/
-Greater_London	Greater London	2020-03-20			2734			426			93			281.86		https://www.gov.uk/
+Greater_London	Greater London	2020-03-20			2733			426			93			281.86		https://www.gov.uk/
 Greece	Greece	2020-03-20		8	495			77	0	0	77	0	1.0	51.71		https://www.who.int/
 Greene_County,_Virginia	Greene County, Virginia	2020-03-20		0	0			0	0		0	0				http://www.vdh.virginia.gov/
 Greenland	Greenland	2020-03-20	2020-06-19T11:42:36.000Z	0	2			0	0	0	0	0				https://www.ecdc.europa.eu/
@@ -355,7 +355,7 @@ London_Borough_of_Barnet	London Borough of Barnet	2020-03-20			132			21			-5			1
 London_Borough_of_Bexley	London Borough of Bexley	2020-03-20			51			9			4			4.86		https://www.gov.uk/
 London_Borough_of_Brent	London Borough of Brent	2020-03-20			145			21			-1			16.14		https://www.gov.uk/
 London_Borough_of_Bromley	London Borough of Bromley	2020-03-20			85			18			12			9.29		https://www.gov.uk/
-London_Borough_of_Camden	London Borough of Camden	2020-03-20			62			6			1			4.57		https://www.gov.uk/
+London_Borough_of_Camden	London Borough of Camden	2020-03-20			61			6			1			4.57		https://www.gov.uk/
 London_Borough_of_Croydon	London Borough of Croydon	2020-03-20			123			25			16			14.86		https://www.gov.uk/
 London_Borough_of_Ealing	London Borough of Ealing	2020-03-20			114			16			-2			12.14		https://www.gov.uk/
 London_Borough_of_Enfield	London Borough of Enfield	2020-03-20			86			20			5			9.29		https://www.gov.uk/
@@ -639,7 +639,7 @@ Ukraine	Ukraine	2020-03-20		3	26			7	0	0	4	-2	0.29	3.29		https://www.who.int/
 Umbria	Umbria	2020-03-20		7	395	4	2303	61	5	0	-26	5	0.86	45.57	0.29	http://www.salute.gov.it/
 United_Arab_Emirates	United Arab Emirates	2020-03-20	2020-06-19T11:42:36.000Z	0	140			27	0	0	27	0	0.0	7.33		https://www.ecdc.europa.eu/
 United_Kingdom	United Kingdom	2020-03-20	2020-06-19T11:42:36.000Z	158	3277			647	43	43	-33	9	21.29	383.86		https://www.ecdc.europa.eu/
-United_States	United States	2020-03-20	2020-06-21T02:08:11.171Z	131	21258			5737	0		1363	-42	12.86	2797.14		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-03-20	2020-06-21T18:05:25.813Z	131	21258			5737	0		1363	-42	12.86	2797.14		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-03-20		0	6			3	0		3	0	0.0	0.71		https://www.who.int/
 Uruguay	Uruguay	2020-03-20	2020-06-19T11:42:36.000Z	0	94			0	0	0	-15	0				https://www.ecdc.europa.eu/
 Uzbekistan	Uzbekistan	2020-03-20		0	33			10	0	0	3	0				https://www.who.int/
@@ -678,6 +678,6 @@ Worcestershire	Worcestershire	2020-03-20			57			14			5			5.38		https://www.gov.u
 Wythe_County,_Virginia	Wythe County, Virginia	2020-03-20		0	0			0	0		0	0				http://www.vdh.virginia.gov/
 York	York	2020-03-20			12			1			-1			0.56		https://www.gov.uk/
 York_County,_Virginia	York County, Virginia	2020-03-20		1	3			2	0		2	0				http://www.vdh.virginia.gov/
-Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-03-20			331			59			4			34.43		https://www.gov.uk/
+Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-03-20			332			59			4			34.43		https://www.gov.uk/
 Zambia	Zambia	2020-03-20	2020-06-19T11:42:36.000Z	0	2			0	0	0	0	0				https://www.ecdc.europa.eu/
 Zimbabwe	Zimbabwe	2020-03-20		0	1											https://www.who.int/
