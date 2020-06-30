@@ -1,18 +1,82 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Auckland_Region	Auckland Region	2020-07-01	2020-06-30T01:00:00.000Z		178	178								-0.14	0.0	https://www.health.govt.nz/
+B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-07-01		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-07-01		0	21	21							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-07-01		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Banteay_Meanchey_Province	Banteay Meanchey Province	2020-07-01	2020-07-01T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
+Battambang_Province	Battambang Province	2020-07-01	2020-07-01T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bay_of_Plenty	Bay of Plenty	2020-07-01	2020-06-30T01:00:00.000Z		47	47								0.0	0.0	https://www.health.govt.nz/
-Earth	Earth	2020-07-01	2020-06-30T17:07:51.071Z	505790	10273950								3549.29	133564.0	81168.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+B%E1%BA%BFn_Tre_Province	Bến Tre Province	2020-07-01		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+B%C3%ACnh_Thu%E1%BA%ADn_Province	Bình Thuận Province	2020-07-01		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Cambodia	Cambodia	2020-07-01	2020-07-01T07:00:00.000Z	0	141	130		0	0	0	0	0	0.0	1.57	0.43	http://www.cdcmoh.gov.kh/
+C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-07-01		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Chandigarh	Chandigarh	2020-07-01	2020-06-30T08:00:00.000Z	6	435	349							0.0	2.43	3.86	https://www.mohfw.gov.in/
+Chhattisgarh	Chhattisgarh	2020-07-01	2020-06-30T08:00:00.000Z	13	2761	2173							0.14	57.0	88.57	https://www.mohfw.gov.in/
+Da_Nang	Da Nang	2020-07-01		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Delhi	Delhi	2020-07-01	2020-06-30T08:00:00.000Z	2680	85161	56235							54.14	2651.29	2417.43	https://www.mohfw.gov.in/
+%C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-07-01		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-07-01		0	6	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Earth	Earth	2020-07-01	2020-06-30T20:15:04.074Z	504682	10288945								3391.0	135706.14	83318.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Kazakhstan_Region	East Kazakhstan Region	2020-07-01		4	793	192							0.43	40.86	2.86	https://www.coronavirus2020.kz/
+Goa	Goa	2020-07-01	2020-06-30T08:00:00.000Z	3	1198	478							0.29	41.29	39.0	https://www.mohfw.gov.in/
+Gujarat	Gujarat	2020-07-01	2020-06-30T08:00:00.000Z	1827	31938	23240							16.71	509.57	389.57	https://www.mohfw.gov.in/
+H%C3%A0_Giang_Province	Hà Giang Province	2020-07-01		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+H%C3%A0_Nam_Province	Hà Nam Province	2020-07-01		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+H%C3%A0_T%C4%A9nh_Province	Hà Tĩnh Province	2020-07-01		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+H%E1%BA%A3i_D%C6%B0%C6%A1ng_Province	Hải Dương Province	2020-07-01		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Hanoi	Hanoi	2020-07-01		0	121	117							0.0	0.0	0.43	https://ncov.moh.gov.vn/
+Haryana	Haryana	2020-07-01	2020-06-30T08:00:00.000Z	232	14210	9502							7.71	384.29	429.14	https://www.mohfw.gov.in/
 Hawke%27s_Bay_Region	Hawke's Bay Region	2020-07-01	2020-06-30T01:00:00.000Z		44	44								0.0	0.0	https://www.health.govt.nz/
+Himachal_Pradesh	Himachal Pradesh	2020-07-01	2020-06-30T08:00:00.000Z	9	942	556							0.14	23.86	16.14	https://www.mohfw.gov.in/
+Ho_Chi_Minh_City	Ho Chi Minh City	2020-07-01		0	62	59							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+H%C6%B0ng_Y%C3%AAn_Province	Hưng Yên Province	2020-07-01		0	5	3							0.0	0.29	0.29	https://ncov.moh.gov.vn/
+India	India	2020-07-01	2020-06-30T08:00:00.000Z	16893	566840	334822							345.29	15808.14	10876.71	https://www.mohfw.gov.in/
+Jambyl_Region	Jambyl Region	2020-07-01		1	693	468							0.0	9.57	6.29	https://www.coronavirus2020.kz/
+Jharkhand	Jharkhand	2020-07-01	2020-06-30T08:00:00.000Z	15	2426	1845							0.57	34.43	46.43	https://www.mohfw.gov.in/
+Kampong_Cham_Province	Kampong Cham Province	2020-07-01	2020-07-01T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kampong_Chhnang_Province	Kampong Chhnang Province	2020-07-01	2020-07-01T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kampot_Province	Kampot Province	2020-07-01	2020-07-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kandal_Province	Kandal Province	2020-07-01	2020-07-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Karaganda_Region	Karaganda Region	2020-07-01		14	2268	1199							0.57	39.29	27.43	https://www.coronavirus2020.kz/
+Karnataka	Karnataka	2020-07-01	2020-06-30T08:00:00.000Z	226	14295	7683							10.86	653.43	239.86	https://www.mohfw.gov.in/
+Kazakhstan	Kazakhstan	2020-07-01		188	21819	13008							7.71	436.29	160.86	https://www.coronavirus2020.kz/
+Kep_Province	Kep Province	2020-07-01	2020-07-01T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kerala	Kerala	2020-07-01	2020-06-30T08:00:00.000Z	22	4189	2152							0.0	105.43	49.0	https://www.mohfw.gov.in/
+Kh%C3%A1nh_H%C3%B2a_Province	Khánh Hòa Province	2020-07-01		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Koh_Kong_Province	Koh Kong Province	2020-07-01	2020-07-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kostanay_Region	Kostanay Region	2020-07-01		3	498	232							0.0	18.43	3.86	https://www.coronavirus2020.kz/
+Kyzylorda_Region	Kyzylorda Region	2020-07-01		2	664	649							0.0	11.43	14.14	https://www.coronavirus2020.kz/
+Ladakh	Ladakh	2020-07-01	2020-06-30T08:00:00.000Z	1	964	616							0.0	4.57	66.86	https://www.mohfw.gov.in/
+Lai_Ch%C3%A2u_Province	Lai Châu Province	2020-07-01		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+L%C3%A0o_Cai_Province	Lào Cai Province	2020-07-01		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Madhya_Pradesh	Madhya Pradesh	2020-07-01	2020-06-30T08:00:00.000Z	564	13370	10199							5.57	158.43	123.43	https://www.mohfw.gov.in/
+Maharashtra	Maharashtra	2020-07-01	2020-06-30T08:00:00.000Z	7610	169883	88960							154.14	4410.43	2761.29	https://www.mohfw.gov.in/
+Malaysia	Malaysia	2020-07-01	2020-06-30T09:00:00.000Z	121	8639	8354							0.0	6.14	17.57	http://www.moh.gov.my/
+Mangystau_Region	Mangystau Region	2020-07-01		3	484	385							0.14	5.0	5.86	https://www.coronavirus2020.kz/
+Manipur	Manipur	2020-07-01	2020-06-30T08:00:00.000Z	0	1227	494							0.0	43.71	33.71	https://www.mohfw.gov.in/
+Meghalaya	Meghalaya	2020-07-01	2020-06-30T08:00:00.000Z	1	47	42							0.0	0.14	0.71	https://www.mohfw.gov.in/
+Mizoram	Mizoram	2020-07-01	2020-06-30T08:00:00.000Z	0	148	55							0.0	0.86	6.57	https://www.mohfw.gov.in/
+Nagaland	Nagaland	2020-07-01	2020-06-30T08:00:00.000Z	0	434	168							0.0	14.86	3.86	https://www.mohfw.gov.in/
 New_Zealand	New Zealand	2020-07-01	2020-06-30T01:00:00.000Z	22	1528	1484	397470						0.0	1.71	0.14	https://www.health.govt.nz/
 Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-07-01		0	13	13							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-07-01		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+North_Kazakhstan_Region	North Kazakhstan Region	2020-07-01		2	400	59								18.43	0.0	https://www.coronavirus2020.kz/
 Northland_Region	Northland Region	2020-07-01	2020-06-30T01:00:00.000Z		28	28								0.0	0.0	https://www.health.govt.nz/
+Nur-Sultan	Nur-Sultan	2020-07-01		61	3845	2721							3.29	51.57	20.57	https://www.coronavirus2020.kz/
+Odisha	Odisha	2020-07-01	2020-06-30T08:00:00.000Z	23	6859	4946							0.86	198.43	136.86	https://www.mohfw.gov.in/
+Pavlodar_Region	Pavlodar Region	2020-07-01		13	740	370							0.0	29.29	12.0	https://www.coronavirus2020.kz/
 Phnom_Penh	Phnom Penh	2020-07-01	2020-07-01T07:00:00.000Z		46			0			0			1.57		http://www.cdcmoh.gov.kh/
 Preah_Vihear_Province	Preah Vihear Province	2020-07-01	2020-07-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Puducherry	Puducherry	2020-07-01	2020-06-30T08:00:00.000Z	10	619	221							0.14	31.0	8.0	https://www.mohfw.gov.in/
+Punjab,_India	Punjab, India	2020-07-01	2020-06-30T08:00:00.000Z	138	5418	3764							4.71	145.86	102.43	https://www.mohfw.gov.in/
 Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-07-01		0	5	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-07-01		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Rajasthan	Rajasthan	2020-07-01	2020-06-30T08:00:00.000Z	405	17660	13618							5.71	290.43	200.71	https://www.mohfw.gov.in/
+Shymkent	Shymkent	2020-07-01		15	1647	686							0.29	34.71	7.71	https://www.coronavirus2020.kz/
 Siem_Reap_Province	Siem Reap Province	2020-07-01	2020-07-01T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2020-07-01	2020-06-30T04:00:00.000Z	26	43907	38500	684359	246	0	515	44	0	0.0	210.71	357.86	https://www.moh.gov.sg/covid-19
+Sri_Lanka	Sri Lanka	2020-07-01	2020-06-30T14:34:00.000Z	11	2047	1711							0.0	6.57	21.29	https://hpb.health.gov.lk/
+Tamil_Nadu	Tamil Nadu	2020-07-01	2020-06-30T08:00:00.000Z	1141	86224	47749							44.0	3088.71	1772.86	https://www.mohfw.gov.in/
 Taranaki	Taranaki	2020-07-01	2020-06-30T01:00:00.000Z		16	16								0.0	0.0	https://www.health.govt.nz/
 T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-07-01		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Tboung_Khmum_Province	Tboung Khmum Province	2020-07-01	2020-07-01T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -21,8 +85,14 @@ Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-07-01		0	1	1							0.
 Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-07-01		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-07-01		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-07-01		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Tripura	Tripura	2020-07-01	2020-06-30T08:00:00.000Z	1	1380	1085							0.0	17.29	39.71	https://www.mohfw.gov.in/
+Turkistan_Region	Turkistan Region	2020-07-01		9	846	356							0.14	27.57	6.29	https://www.coronavirus2020.kz/
+Uttar_Pradesh	Uttar Pradesh	2020-07-01	2020-06-30T08:00:00.000Z	672	22828	15506							12.0	562.14	484.29	https://www.mohfw.gov.in/
+Uttarakhand	Uttarakhand	2020-07-01	2020-06-30T08:00:00.000Z	39	2831	2111							1.29	42.29	72.71	https://www.mohfw.gov.in/
 Vietnam	Vietnam	2020-07-01		0	355	335							0.0	0.43	0.86	https://ncov.moh.gov.vn/
 V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-07-01		0	19	19							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Waikato	Waikato	2020-07-01	2020-06-30T01:00:00.000Z	1	188	187							0.0	0.0	0.0	https://www.health.govt.nz/
+West_Bengal	West Bengal	2020-07-01	2020-06-30T08:00:00.000Z	653	17907	11719							10.43	454.14	357.29	https://www.mohfw.gov.in/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-07-01	2020-06-30T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
+West_Kazakhstan_Region	West Kazakhstan Region	2020-07-01		10	1462	893							0.57	34.43	8.29	https://www.coronavirus2020.kz/
 Whanganui	Whanganui	2020-07-01	2020-06-30T01:00:00.000Z		9	9								0.0	0.0	https://www.health.govt.nz/
