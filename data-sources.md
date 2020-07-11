@@ -40,6 +40,7 @@
 | Iceland | <https://www.covid.is/> |
 | India | <https://www.mohfw.gov.in/> |
 | Indonesia | <https://www.covid19.go.id/> |
+| Iran | <https://behdasht.gov.ir/> |
 | Israel | <https://t.me/s/MOHreport> |
 | Italy | <http://www.salute.gov.it/> |
 | Japan | <https://www.mhlw.go.jp/> |
