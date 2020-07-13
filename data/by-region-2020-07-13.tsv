@@ -318,7 +318,7 @@ Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-07-13	2020-07-12T07:45:00.0
 Netherlands	Netherlands	2020-07-13	2020-07-11T22:00:00.000Z	6137	51022								2.71	65.14		https://www.rivm.nl/
 Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-07-13	2020-07-12T20:00:00.000Z		225									0.29		https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2020-07-13	2020-07-12T20:00:00.000Z		59									0.14		https://info.gesundheitsministerium.at/
-New_Zealand	New Zealand	2020-07-13	2020-07-12T01:00:00.000Z	22	1544	1497	428600						0.0	1.43	1.0	https://www.health.govt.nz/
+New_Zealand	New Zealand	2020-07-13	2020-07-13T01:00:00.000Z	22	1544	1497	429643	0	0	0	-1	0	0.0	1.43	1.0	https://www.health.govt.nz/
 Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-07-13		0	13	13							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-07-13		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-07-13	2020-07-12T07:45:00.000Z	293	20129	14184		222			0		3.57	186.14	267.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -326,7 +326,7 @@ Nordeste,_Azores	Nordeste, Azores	2020-07-13	2020-07-12T23:00:00.000Z		32			0			
 Nordland	Nordland	2020-07-13	2020-07-12T11:00:00.000Z		128									0.0		https://www.fhi.no/
 Normandy	Normandy	2020-07-13		435		1696							0.14		3.14	https://www.santepubliquefrance.fr/
 North_Kazakhstan_Region	North Kazakhstan Region	2020-07-13		6	1653	755							0.57	36.29	43.29	https://www.coronavirus2020.kz/
-Northland_Region	Northland Region	2020-07-13	2020-07-12T01:00:00.000Z		28	28								0.0	0.0	https://www.health.govt.nz/
+Northland_Region	Northland Region	2020-07-13	2020-07-13T01:00:00.000Z		28	28		0		0	0			0.0	0.0	https://www.health.govt.nz/
 Norway	Norway	2020-07-13	2020-07-12T11:00:00.000Z	252	8965		372389						0.14	5.0		https://www.fhi.no/
 Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-07-13		422		2203							0.14		1.71	https://www.santepubliquefrance.fr/
 Novgorod_Oblast	Novgorod Oblast	2020-07-13	2020-07-12T07:45:00.000Z	52	3376	1542		39			0		3.43	33.43	81.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -360,6 +360,7 @@ Peniche,_Portugal	Peniche, Portugal	2020-07-13	2020-07-12T23:00:00.000Z		47			0	
 Penza_Oblast	Penza Oblast	2020-07-13	2020-07-12T07:45:00.000Z	65	5733	5146		34			0		2.14	45.0	31.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Perg_District	Perg District	2020-07-13	2020-07-12T20:00:00.000Z		310									1.57		https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2020-07-13	2020-07-12T07:45:00.000Z	96	4403	3340		61			0		1.57	55.14	56.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Pernambuco	Pernambuco	2020-07-13	2020-07-12T22:00:00.000Z	5595	72470								61.71	975.43		https://covid.saude.gov.br/
 Philippines	Philippines	2020-07-13	2020-07-11T00:00:00.000Z	1372	54222	14037	870162						9.86	1127.0	264.57	http://www.doh.gov.ph/2019-nCoV
 Phnom_Penh	Phnom Penh	2020-07-13	2020-07-13T07:00:00.000Z		61			0			-15			2.14		http://www.cdcmoh.gov.kh/
 Piedmont	Piedmont	2020-07-13		4111	31498	26329	449118				4		1.0	9.86	30.29	http://www.salute.gov.it/
@@ -391,9 +392,13 @@ Republic_of_Karelia	Republic of Karelia	2020-07-13	2020-07-12T07:45:00.000Z	3	17
 Resende,_Portugal	Resende, Portugal	2020-07-13	2020-07-12T23:00:00.000Z		65			0			0			0.0		https://covid19.min-saude.pt/
 Reutte_District	Reutte District	2020-07-13	2020-07-12T20:00:00.000Z		57									0.0		https://info.gesundheitsministerium.at/
 Ribeira_de_Pena	Ribeira de Pena	2020-07-13	2020-07-12T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Rio_de_Janeiro_(state)	Rio de Janeiro (state)	2020-07-13	2020-07-12T22:00:00.000Z	11415	129684								102.43	1115.0		https://covid.saude.gov.br/
+Rio_Grande_do_Norte	Rio Grande do Norte	2020-07-13	2020-07-12T22:00:00.000Z	1394	39421								20.86	633.86		https://covid.saude.gov.br/
+Rio_Grande_do_Sul	Rio Grande do Sul	2020-07-13	2020-07-12T22:00:00.000Z	962	39240								29.0	977.0		https://covid.saude.gov.br/
 Rio_Maior	Rio Maior	2020-07-13	2020-07-12T23:00:00.000Z		28			0			0			0.0		https://covid19.min-saude.pt/
 Rogaland	Rogaland	2020-07-13	2020-07-12T11:00:00.000Z		444									0.0		https://www.fhi.no/
 Rohrbach_District	Rohrbach District	2020-07-13	2020-07-12T20:00:00.000Z		159									0.57		https://info.gesundheitsministerium.at/
+Roraima	Roraima	2020-07-13	2020-07-12T22:00:00.000Z	396	22225								3.57	468.14		https://covid.saude.gov.br/
 Rostov_Oblast	Rostov Oblast	2020-07-13	2020-07-12T07:45:00.000Z	163	10726	8073		98			0		3.14	80.0	172.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Russia	Russia	2020-07-13	2020-07-12T07:45:00.000Z	11335	727162	501061	23000000	6615	130	3615	0	0	148.43	5614.29	6676.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Ryazan_Oblast	Ryazan Oblast	2020-07-13	2020-07-12T07:45:00.000Z	21	5656	4522		35			0		0.0	31.86	85.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -404,6 +409,7 @@ Salvaterra_de_Magos	Salvaterra de Magos	2020-07-13	2020-07-12T23:00:00.000Z		20	
 Salzburg	Salzburg	2020-07-13	2020-07-12T20:00:00.000Z		163									1.57		https://info.gesundheitsministerium.at/
 Salzburg_(state)	Salzburg (state)	2020-07-13	2020-07-12T20:00:00.000Z	37		1219							0.0		1.0	https://info.gesundheitsministerium.at/
 Samara_Oblast	Samara Oblast	2020-07-13	2020-07-12T07:45:00.000Z	64	5882	3596		78			0		0.86	69.0	67.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Santa_Catarina_(state)	Santa Catarina (state)	2020-07-13	2020-07-12T22:00:00.000Z	497	43031								13.0	1315.57		https://covid.saude.gov.br/
 Santa_Cruz,_Madeira	Santa Cruz, Madeira	2020-07-13	2020-07-12T23:00:00.000Z		5			0			0			0.0		https://covid19.min-saude.pt/
 Santa_Maria_da_Feira	Santa Maria da Feira	2020-07-13	2020-07-12T23:00:00.000Z		518			0			0			0.0		https://covid19.min-saude.pt/
 Santo_Tirso	Santo Tirso	2020-07-13	2020-07-12T23:00:00.000Z		403			0			0			0.0		https://covid19.min-saude.pt/
@@ -413,6 +419,7 @@ Scheibbs_District	Scheibbs District	2020-07-13	2020-07-12T20:00:00.000Z		104				
 Schwaz_District	Schwaz District	2020-07-13	2020-07-12T20:00:00.000Z		357									0.29		https://info.gesundheitsministerium.at/
 Seia	Seia	2020-07-13	2020-07-12T23:00:00.000Z		13			0			0			0.0		https://covid19.min-saude.pt/
 Seixal	Seixal	2020-07-13	2020-07-12T23:00:00.000Z		643			0			0			0.0		https://covid19.min-saude.pt/
+Sergipe	Sergipe	2020-07-13	2020-07-12T22:00:00.000Z	984	37631								22.57	987.57		https://covid.saude.gov.br/
 Sernancelhe	Sernancelhe	2020-07-13	2020-07-12T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Serpa	Serpa	2020-07-13	2020-07-12T23:00:00.000Z		14			0			0			0.0		https://covid19.min-saude.pt/
 Sesimbra	Sesimbra	2020-07-13	2020-07-12T23:00:00.000Z		65			0			0			0.0		https://covid19.min-saude.pt/
@@ -437,7 +444,7 @@ Switzerland	Switzerland	2020-07-13	2020-07-12T22:00:00.000Z	1968	32856	29600		0	
 Tambov_Oblast	Tambov Oblast	2020-07-13	2020-07-12T07:45:00.000Z	19	5239	3698		40			0		0.0	35.86	67.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tamil_Nadu	Tamil Nadu	2020-07-13	2020-07-12T08:00:00.000Z	1898	134226	85915							55.43	3296.43	3305.29	https://www.mohfw.gov.in/
 Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-07-13	2020-07-12T17:00:00.000Z		3092									60.0		http://www.covidmaroc.ma/
-Taranaki	Taranaki	2020-07-13	2020-07-12T01:00:00.000Z		16	16								0.0	0.0	https://www.health.govt.nz/
+Taranaki	Taranaki	2020-07-13	2020-07-13T01:00:00.000Z		16	16		0		0	0			0.0	0.0	https://www.health.govt.nz/
 Tatarstan	Tatarstan	2020-07-13	2020-07-12T07:45:00.000Z	15	4997	3916		33			0		0.29	30.0	20.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tavira	Tavira	2020-07-13	2020-07-12T23:00:00.000Z		36			0			0			0.0		https://covid19.min-saude.pt/
 T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-07-13		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -447,6 +454,7 @@ Th%C3%A1i_B%C3%ACnh_Province	Thái Bình Province	2020-07-13		0	30	30							0.0	
 Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-07-13		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-07-13		0	17	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-07-13		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Tocantins	Tocantins	2020-07-13	2020-07-12T22:00:00.000Z	255	15132								4.43	356.0		https://covid.saude.gov.br/
 Tomar	Tomar	2020-07-13	2020-07-12T23:00:00.000Z		16			0			0			0.0		https://covid19.min-saude.pt/
 Tomsk_Oblast	Tomsk Oblast	2020-07-13	2020-07-12T07:45:00.000Z	23	2974	1673		59			0		0.43	52.29	38.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tondela	Tondela	2020-07-13	2020-07-12T23:00:00.000Z		14			0			0			0.0		https://covid19.min-saude.pt/
@@ -513,13 +521,13 @@ Voronezh_Oblast	Voronezh Oblast	2020-07-13	2020-07-12T07:45:00.000Z	63	9280	6545
 Vouzela	Vouzela	2020-07-13	2020-07-12T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-07-13	2020-07-12T20:00:00.000Z		73									0.0		https://info.gesundheitsministerium.at/
 Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-07-13	2020-07-12T20:00:00.000Z		25									0.0		https://info.gesundheitsministerium.at/
-Waikato	Waikato	2020-07-13	2020-07-12T01:00:00.000Z	1	188	187							0.0	0.0	0.0	https://www.health.govt.nz/
+Waikato	Waikato	2020-07-13	2020-07-13T01:00:00.000Z	1	188	187		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Weiz_District	Weiz District	2020-07-13	2020-07-12T20:00:00.000Z		201									0.0		https://info.gesundheitsministerium.at/
 Wels	Wels	2020-07-13	2020-07-12T20:00:00.000Z		107									3.0		https://info.gesundheitsministerium.at/
 West_Bengal	West Bengal	2020-07-13	2020-07-12T08:00:00.000Z	906	28453	17959							21.29	903.86	464.0	https://www.mohfw.gov.in/
-West_Coast,_New_Zealand	West Coast, New Zealand	2020-07-13	2020-07-12T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
+West_Coast,_New_Zealand	West Coast, New Zealand	2020-07-13	2020-07-13T01:00:00.000Z	1	5	4		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 West_Kazakhstan_Region	West Kazakhstan Region	2020-07-13		22	3891	3045							1.71	85.14	265.71	https://www.coronavirus2020.kz/
-Whanganui	Whanganui	2020-07-13	2020-07-12T01:00:00.000Z		9	9								0.0	0.0	https://www.health.govt.nz/
+Whanganui	Whanganui	2020-07-13	2020-07-13T01:00:00.000Z		9	9		0		0	0			0.0	0.0	https://www.health.govt.nz/
 Wiener_Neustadt	Wiener Neustadt	2020-07-13	2020-07-12T20:00:00.000Z		63									0.29		https://info.gesundheitsministerium.at/
 Wolfsberg_District	Wolfsberg District	2020-07-13	2020-07-12T20:00:00.000Z		48									0.0		https://info.gesundheitsministerium.at/
 Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2020-07-13	2020-07-12T07:45:00.000Z	56	7954	3028		212			0		1.57	171.71	53.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
