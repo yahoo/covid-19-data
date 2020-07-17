@@ -1552,7 +1552,7 @@ Arganil	CityTown|CountyAdminArea	736375	Arganil	Arganil				-8.05363	40.21924	138
 Argentina	Country	23424747	Argentina	Argentina	AR			-63.5848	-37.0907	44494502	Earth
 Arica_y_Parinacota_Region	StateAdminArea	56043702	Arica y Parinacota Region	Arica_y_Parinacota_Region				-69.6417	-18.36454	428594	Chile
 Arizona	StateAdminArea	2347561	Arizona	Arizona		US-AZ		-111.66473	34.29302	7278717	United_States
-Arkansas	StateAdminArea	2347562	Arkansas	Arkansas				-92.43864	34.89978	3017804	United_States
+Arkansas	StateAdminArea	2347562	Arkansas	Arkansas		US-AR		-92.43864	34.89978	3017804	United_States
 Arkansas_County,_Arkansas	CountyAdminArea	12587595	Arkansas County, Arkansas	Arkansas_County,_Arkansas			05001	-91.38188	34.24459	20749	Arkansas
 Arkhangelsk_Oblast	StateAdminArea|CountyAdminArea	20070508	Arkhangelsk Oblast	Arkhangelsk_Oblast				43.2006	63.5753	1294993	Russia
 Arlington_County,_Virginia	CityTown|CountyAdminArea	12590311	Arlington County, Virginia	Arlington_County,_Virginia			51013	-77.10219	38.88091	236842	Virginia
@@ -1955,7 +1955,7 @@ Brookfield,_Illinois	CityTown	2369840	Brookfield, Illinois	Brookfield,_Illinois	
 Brookfield,_Massachusetts	CityTown	2369838	Brookfield, Massachusetts	Brookfield,_Massachusetts				-72.1018	42.215	3390	Worcester_County,_Massachusetts
 Brookings_County,_South_Dakota	CountyAdminArea	12589850	Brookings County, South Dakota	Brookings_County,_South_Dakota			46011	-96.79072	44.3696	35077	South_Dakota
 Brookline,_Massachusetts	CityTown	2369930	Brookline, Massachusetts	Brookline,_Massachusetts				-71.12047	42.33347	58732	Norfolk_County,_Massachusetts
-Brooklyn	CityTown|CountyAdminArea	12589335	Brooklyn	Brooklyn				-73.94888	40.65507	2559903	New_York_(state)
+Brooklyn	CityTown|CountyAdminArea	12589335	Brooklyn	Brooklyn			36047	-73.94888	40.65507	2559903	New_York_City
 Brooks_County,_Georgia	CountyAdminArea	12587883	Brooks County, Georgia	Brooks_County,_Georgia			13027	-83.54518	30.85806	16450	Georgia_(U.S._state)
 Brooks_County,_Texas	CountyAdminArea	12590030	Brooks County, Texas	Brooks_County,_Texas			48047	-98.26102	27.02314	7976	Texas
 Broome_County,_New_York	CountyAdminArea	12589315	Broome County, New York	Broome_County,_New_York			36007	-75.74457	42.20674	200536	New_York_(state)
@@ -2208,7 +2208,7 @@ Castro_Daire	CityTown|CountyAdminArea	739176	Castro Daire	Castro_Daire				-7.934
 Castro_Marim	CityTown		Castro Marim	Castro_Marim				-7.45	37.216667		
 Caswell_County,_North_Carolina	CountyAdminArea	12589390	Caswell County, North Carolina	Caswell_County,_North_Carolina			37033	-79.3348	36.39203	23501	North_Carolina
 Catahoula_Parish,_Louisiana	CountyAdminArea	12588608	Catahoula Parish, Louisiana	Catahoula_Parish,_Louisiana				-91.91692	31.59588	9494	Louisiana
-Catalonia	StateAdminArea		Catalonia	Catalonia				1.466667	41.816666	7522596	Spain
+Catalonia	StateAdminArea|Country	12578034	Catalonia	Catalonia				1.74161	41.69216	7522596	Spain
 Catawba_County,_North_Carolina	CountyAdminArea	12589391	Catawba County, North Carolina	Catawba_County,_North_Carolina			37035	-81.22933	35.6886	159551	North_Carolina
 Catawba,_South_Carolina	CityTown	2376250	Catawba, South Carolina	Catawba,_South_Carolina				-80.906	34.84644		York_County,_South_Carolina
 Catoosa_County,_Georgia	CountyAdminArea	12587892	Catoosa County, Georgia	Catoosa_County,_Georgia			13047	-85.12246	34.8776	67580	Georgia_(U.S._state)
@@ -2481,7 +2481,7 @@ Collin_County,_Texas	CountyAdminArea	12590049	Collin County, Texas	Collin_County
 Collingsworth_County,_Texas	CountyAdminArea	12590050	Collingsworth County, Texas	Collingsworth_County,_Texas			48087	-100.27048	34.96502	3206	Texas
 Collinsville,_Illinois	CityTown|CountyAdminArea	2383219	Collinsville, Illinois	Collinsville,_Illinois				-89.98597	38.6698	25893	Madison_County,_Illinois
 Collinsville,_Oklahoma	CityTown|CountyAdminArea	2383218	Collinsville, Oklahoma	Collinsville,_Oklahoma				-95.83915	36.36516	5606	Tulsa_County,_Oklahoma
-Colombia	CityTown|Country	368446	Republic of New Granada	Colombia	CO			-75.77813	4.11641	7284	Huila_Department
+Colombia	Country	23424787	Colombia	Colombia	CO			-72.95853	4.11641	49648685	Earth
 Colona,_Illinois	CityTown|CountyAdminArea	2383268	Colona, Illinois	Colona,_Illinois				-90.35777	41.46712	5199	Henry_County,_Illinois
 Colonial_Heights,_Virginia	CityTown|CountyAdminArea	2383323	Colonial Heights, Virginia	Colonial_Heights,_Virginia				-77.39721	37.26554	17796	Virginia
 Colony,_Oklahoma	CityTown	2383402	Colony, Oklahoma	Colony,_Oklahoma				-98.67126	35.34871	151	Washita_County,_Oklahoma
@@ -2646,7 +2646,7 @@ Cullman_County,_Alabama	CountyAdminArea	12587508	Cullman County, Alabama	Cullman
 Culpeper_County,_Virginia	CountyAdminArea	12590336	Culpeper County, Virginia	Culpeper_County,_Virginia			51047	-77.92537	38.5037	52605	Virginia
 Culver_City,_California	CityTown|CountyAdminArea	2388174	Culver City, California	Culver_City,_California				-118.39709	34.00583	38883	Los_Angeles_County,_California
 Cumberland_County,_Illinois	CountyAdminArea	12588095	Cumberland County, Illinois	Cumberland_County,_Illinois			17035	-88.23944	39.27497	11253	Illinois
-Cumberland_County,_Kentucky	CountyAdminArea	12588504	Cumberland County, Kentucky	Cumberland_County,_Kentucky				-85.40843	36.7783	7147	Kentucky
+Cumberland_County,_Kentucky	CountyAdminArea	12588504	Cumberland County, Kentucky	Cumberland_County,_Kentucky			21057	-85.40843	36.7783	7147	Kentucky
 Cumberland_County,_Maine	CountyAdminArea	12588662	Cumberland County, Maine	Cumberland_County,_Maine			23005	-70.36201	43.84908	295003	Maine
 Cumberland_County,_New_Jersey	CountyAdminArea	12589263	Cumberland County, New Jersey	Cumberland_County,_New_Jersey			34011	-75.13535	39.37286	149527	New_Jersey
 Cumberland_County,_North_Carolina	CountyAdminArea	12589399	Cumberland County, North Carolina	Cumberland_County,_North_Carolina			37051	-78.80379	35.05078	335509	North_Carolina
@@ -2864,7 +2864,7 @@ Duplin_County,_North_Carolina	CountyAdminArea	12589404	Duplin County, North Caro
 Dupo,_Illinois	CityTown	2394623	Dupo, Illinois	Dupo,_Illinois				-90.21129	38.51518	4138	St._Clair_County,_Illinois
 Durant,_Oklahoma	CityTown|CountyAdminArea	2394681	Durant, Oklahoma	Durant,_Oklahoma				-96.39393	33.99573	16161	Bryan_County,_Oklahoma
 Durham_County,_North_Carolina	CountyAdminArea	12589405	Durham County, North Carolina	Durham_County,_North_Carolina			37063	-78.85773	36.05134	321488	North_Carolina
-Dutchess_County,_New_York	CountyAdminArea	12589325	Dutchess County, New York	Dutchess_County,_New_York				-73.74398	41.7599	294218	New_York_(state)
+Dutchess_County,_New_York	CountyAdminArea	12589325	Dutchess County, New York	Dutchess_County,_New_York			36027	-73.74398	41.7599	294218	New_York_(state)
 Duval_County,_Florida	CountyAdminArea	12587818	Duval County, Florida	Duval_County,_Florida			12031	-81.71451	30.3453	957755	Florida
 Duval_County,_Texas	CountyAdminArea	12590072	Duval County, Texas	Duval_County,_Texas			48131	-98.51776	27.66017	13120	Texas
 Duxbury,_Massachusetts	CityTown		Duxbury, Massachusetts	Duxbury,_Massachusetts				-70.672775	42.041668	15572	Massachusetts
@@ -2872,7 +2872,7 @@ Dyer_County,_Tennessee	CountyAdminArea	12589934	Dyer County, Tennessee	Dyer_Coun
 Eagle_County,_Colorado	CountyAdminArea	12587746	Eagle County, Colorado	Eagle_County,_Colorado			08037	-106.64475	39.63723	55127	Colorado
 Earlsboro,_Oklahoma	CityTown	2395206	Earlsboro, Oklahoma	Earlsboro,_Oklahoma				-96.80522	35.26791	660	Pottawatomie_County,_Oklahoma
 Early_County,_Georgia	CountyAdminArea	12587918	Early County, Georgia	Early_County,_Georgia			13099	-84.87142	31.29562	12354	Georgia_(U.S._state)
-Earth	AstronomicalObject		Earth	Earth						7594000000	
+Earth	AstronomicalObject|Supername	1	Earth	Earth						7594000000	
 Easley,_South_Carolina	CityTown|CountyAdminArea	2395251	Easley, South Carolina	Easley,_South_Carolina				-82.58459	34.81886	20026	Pickens_County,_South_Carolina
 East_Alton,_Illinois	CityTown	2395281	East Alton, Illinois	East_Alton,_Illinois				-90.10696	38.88401	6830	Madison_County,_Illinois
 East_Baton_Rouge_Parish,_Louisiana	CountyAdminArea	12588612	East Baton Rouge Parish, Louisiana	East_Baton_Rouge_Parish,_Louisiana				-91.08032	30.5159	440059	Louisiana
@@ -3059,7 +3059,7 @@ F%C3%A8s-Mekn%C3%A8s	StateAdminArea		Fès-Meknès	F%C3%A8s-Mekn%C3%A8s				-5.0	3
 Figueir%C3%B3_dos_Vinhos	CityTown|CountyAdminArea		Figueiró dos Vinhos	Figueir%C3%B3_dos_Vinhos				-8.266667	39.9		
 Figueira_da_Foz	CityTown	741069	Figueira da Foz	Figueira_da_Foz				-8.8592	40.14843	61885	
 Figueira_de_Castelo_Rodrigo	CityTown	741070	Figueira de Castelo Rodrigo	Figueira_de_Castelo_Rodrigo				-6.96292	40.89574	8050	Portugal
-Fiji	Country	23424813	Fiji	Fiji	FJ			177.9734	-17.79099	883483	Earth
+Fiji	Country|Island	23424813	Fiji	Fiji	FJ			177.9734	-17.79099	883483	Earth
 Fillmore_County,_Minnesota	CountyAdminArea	12588819	Fillmore County, Minnesota	Fillmore_County,_Minnesota			27045	-92.08989	43.67436	21122	Minnesota
 Fillmore_County,_Nebraska	CountyAdminArea	12589167	Fillmore County, Nebraska	Fillmore_County,_Nebraska			31059	-97.59664	40.52457	6634	Nebraska
 Fingerville,_South_Carolina	CityTown|CountyAdminArea	2403429	Fingerville, South Carolina	Fingerville,_South_Carolina				-82.0004	35.13507	5417	Spartanburg_County,_South_Carolina
@@ -3075,7 +3075,7 @@ Fletcher,_Oklahoma	CityTown	2404322	Fletcher, Oklahoma	Fletcher,_Oklahoma				-98
 Florence_County,_South_Carolina	CountyAdminArea	12589820	Florence County, South Carolina	Florence_County,_South_Carolina			45041	-79.69254	34.04155	138293	South_Carolina
 Florence_County,_Wisconsin	CountyAdminArea	12590552	Florence County, Wisconsin	Florence_County,_Wisconsin			55037	-88.37124	45.86709	5088	Wisconsin
 Florence,_South_Carolina	CityTown|CountyAdminArea	2404517	Florence, South Carolina	Florence,_South_Carolina				-79.76906	34.19363	37056	Florence_County,_South_Carolina
-Florida	StateAdminArea	2347568	Florida	Florida				-82.47139	28.63187	21477737	United_States
+Florida	StateAdminArea	2347568	Florida	Florida		US-FL		-82.47139	28.63187	21477737	United_States
 Florida,_Massachusetts	CityTown|CountyAdminArea	2404564	Florida, Massachusetts	Florida,_Massachusetts				-73.01113	42.66711	752	Berkshire_County,_Massachusetts
 Flossmoor,_Illinois	CityTown	2404599	Flossmoor, Illinois	Flossmoor,_Illinois				-87.68502	41.53904	9464	Cook_County,_Illinois
 Floyd_County,_Georgia	CountyAdminArea	12587926	Floyd County, Georgia	Floyd_County,_Georgia			13115	-85.23364	34.33322	98498	Georgia_(U.S._state)
@@ -3439,7 +3439,7 @@ Hall_County,_Georgia	CountyAdminArea	12587938	Hall County, Georgia	Hall_County,_
 Hall_County,_Nebraska	CountyAdminArea	12589177	Hall County, Nebraska	Hall_County,_Nebraska			31079	-98.50214	40.87248	61353	Nebraska
 Hall_County,_Texas	CountyAdminArea	12590102	Hall County, Texas	Hall_County,_Texas			48191	-100.68083	34.53063	3782	Texas
 Hamblen_County,_Tennessee	CountyAdminArea	12589943	Hamblen County, Tennessee	Hamblen_County,_Tennessee			47063	-83.27531	36.21314	64934	Tennessee
-Hamburg	StateAdminArea|CityTown	656958	Hamburg	Hamburg				9.99245	53.55334	1899160	Germany
+Hamburg	StateAdminArea|CityTown|CountyAdminArea	656958	Hamburg	Hamburg				9.99245	53.55334	1899160	Germany
 Hamer,_South_Carolina	CityTown	2416547	Hamer, South Carolina	Hamer,_South_Carolina				-79.32184	34.48638	5367	Dillon_County,_South_Carolina
 Hamilton_County,_Florida	CountyAdminArea	12587826	Hamilton County, Florida	Hamilton_County,_Florida			12047	-82.9777	30.47583	14428	Florida
 Hamilton_County,_Illinois	CountyAdminArea	12588110	Hamilton County, Illinois	Hamilton_County,_Illinois			17065	-88.53848	38.08149	8621	Illinois
@@ -3725,14 +3725,14 @@ Idaho	StateAdminArea	2347571	Idaho	Idaho		US-ID		-114.65945	44.38899	1787065	Uni
 Idaho_County,_Idaho	CountyAdminArea	12588058	Idaho County, Idaho	Idaho_County,_Idaho			16049	-115.55719	45.88922	16667	Idaho
 %C3%8Ele-de-France	StateAdminArea	7153319	Île-de-France	%C3%8Ele-de-France				2.50261	48.68081	12213364	France
 %C3%8Dlhavo	CityTown	742199	Ílhavo	%C3%8Dlhavo				-8.66812	40.60105	33034	Portugal
-Illinois	StateAdminArea	2347572	Illinois	Illinois				-89.19884	40.06446	12671821	United_States
+Illinois	StateAdminArea	2347572	Illinois	Illinois		US-IL		-89.19884	40.06446	12671821	United_States
 Imperial_County,_California	CountyAdminArea	12587682	Imperial County, California	Imperial_County,_California			06025	-115.28453	33.02605	181215	California
 Imst_District	CountyAdminArea	12591748	Imst District	Imst_District				10.85348	47.07995	57734	Tyrol_(state)
 Independence_County,_Arkansas	CountyAdminArea	12587626	Independence County, Arkansas	Independence_County,_Arkansas			05063	-91.53434	35.73463	37825	Arkansas
 India	Country	23424848	India	India	IN			82.79476	21.7866	1352617328	Earth
 Indiahoma,_Oklahoma	CityTown	2426758	Indiahoma, Oklahoma	Indiahoma,_Oklahoma				-98.7522	34.62031	353	Comanche_County,_Oklahoma
 Indian_River_County,_Florida	CountyAdminArea	12587833	Indian River County, Florida	Indian_River_County,_Florida			12061	-80.60124	27.70903	159923	Florida
-Indiana	StateAdminArea	2347573	Indiana	Indiana				-86.27552	39.90805	6732219	United_States
+Indiana	StateAdminArea	2347573	Indiana	Indiana		US-IN		-86.27552	39.90805	6732219	United_States
 Indiana_County,_Pennsylvania	CountyAdminArea	12589759	Indiana County, Pennsylvania	Indiana_County,_Pennsylvania			42063	-79.12943	40.64005	89605	Pennsylvania
 Indonesia	Country	23424846	Indonesia	Indonesia	ID			113.9174	0.10974	267663435	Earth
 Ingham_County,_Michigan	CountyAdminArea	12588746	Ingham County, Michigan	Ingham_County,_Michigan			26065	-84.37191	42.5993	292406	Michigan
@@ -3967,7 +3967,7 @@ Kent_County,_Michigan	CountyAdminArea	12588754	Kent County, Michigan	Kent_County
 Kent_County,_Rhode_Island	CountyAdminArea	12589796	Kent County, Rhode Island	Kent_County,_Rhode_Island			44003	-71.57275	41.6839	167090	Rhode_Island
 Kent_County,_Texas	CountyAdminArea	12590138	Kent County, Texas	Kent_County,_Texas			48263	-100.77815	33.18095	859	Texas
 Kenton_County,_Kentucky	CountyAdminArea	12588534	Kenton County, Kentucky	Kenton_County,_Kentucky			21117	-84.52056	38.94481	166998	Kentucky
-Kentucky	StateAdminArea	2347576	Kentucky	Kentucky				-85.2876	37.52728	4467673	United_States
+Kentucky	StateAdminArea	2347576	Kentucky	Kentucky		US-KY		-85.2876	37.52728	4467673	United_States
 Kenya	Country	23424863	Kenya	Kenya	KE			37.90395	-0.02435	51393010	Earth
 Keokuk_County,_Iowa	CountyAdminArea	12588325	Keokuk County, Iowa	Keokuk_County,_Iowa			19107	-92.17834	41.33637	11400	Iowa
 Kep_Province	StateAdminArea|CityTown|CountyAdminArea	1028484	Kep Province	Kep_Province				104.3209	10.53903	41798	Cambodia
@@ -4314,7 +4314,7 @@ Little_River,_South_Carolina	CityTown|CountyAdminArea	2440328	Little River, Sout
 Little_Rock,_South_Carolina	CityTown	2440350	Little Rock, South Carolina	Little_Rock,_South_Carolina				-79.40448	34.47629	627	Dillon_County,_South_Carolina
 Littleton,_Massachusetts	CityTown	2440486	Littleton, Massachusetts	Littleton,_Massachusetts				-71.48915	42.53507	8924	Middlesex_County,_Massachusetts
 Live_Oak_County,_Texas	CountyAdminArea	12590155	Live Oak County, Texas	Live_Oak_County,_Texas			48297	-98.07188	28.42157	12309	Texas
-Liverpool	StateAdminArea|CityTown|TertiaryAdminArea	26734	Liverpool	Liverpool				-2.97843	53.41009	756486	North_West_England
+Liverpool	StateAdminArea|CityTown|TertiaryAdminArea|CountyAdminArea	26734	Liverpool	Liverpool				-2.97843	53.41009	756486	North_West_England
 Livingston_County,_Illinois	CountyAdminArea	12588130	Livingston County, Illinois	Livingston_County,_Illinois			17105	-88.5832	40.86539	39678	Illinois
 Livingston_County,_Kentucky	CountyAdminArea	12588545	Livingston County, Kentucky	Livingston_County,_Kentucky			21139	-88.38089	37.20342	9804	Kentucky
 Livingston_County,_Michigan	CountyAdminArea	12588760	Livingston County, Michigan	Livingston_County,_Michigan			26093	-83.91147	42.60357	191995	Michigan
@@ -4382,6 +4382,7 @@ Los_Alamitos,_California	CityTown|CountyAdminArea	2442037	Los Alamitos, Californ
 Los_Alamos_County,_New_Mexico	CountyAdminArea	12589294	Los Alamos County, New Mexico	Los_Alamos_County,_New_Mexico			35028	-106.29559	35.86382	19369	New_Mexico
 Los_Altos_Hills,_California	CityTown|CountyAdminArea	2442045	Los Altos Hills, California	Los_Altos_Hills,_California				-122.13929	37.36789	8360	Santa_Clara_County,_California
 Los_Altos,_California	CityTown|CountyAdminArea	2442043	Los Altos, California	Los_Altos,_California				-122.09656	37.36844	28976	Santa_Clara_County,_California
+Los_Angeles	CityTown|CountyAdminArea	2442047	Los Angeles	Los_Angeles				-118.245	34.0535	3834340	Los_Angeles_County,_California
 Los_Angeles_County,_California	CountyAdminArea	12587688	Los Angeles County, California	Los_Angeles_County,_California			06037	-118.2955	34.26351	9519338	California
 Los_Gatos,_California	CityTown|CountyAdminArea	2442121	Los Gatos, California	Los_Gatos,_California				-121.95702	37.23127	29413	Santa_Clara_County,_California
 Los_Lagos_Region	StateAdminArea	2345026	Los Lagos Region	Los_Lagos_Region				-72.12151	-41.66953	823204	Chile
@@ -4504,13 +4505,13 @@ Manassas_Park,_Virginia	CityTown|CountyAdminArea	2444628	Manassas Park, Virginia
 Manassas,_Virginia	CityTown|CountyAdminArea	12590381	Manassas, Virginia	Manassas,_Virginia				-77.48719	38.74363	41085	Virginia
 Manatee_County,_Florida	CountyAdminArea	12587843	Manatee County, Florida	Manatee_County,_Florida			12081	-82.40026	27.42721	403253	Florida
 Manawat%C5%AB-Whanganui	StateAdminArea	15021764	Manawatū-Whanganui	Manawat%C5%AB-Whanganui				175.55833	-39.74895	232500	New_Zealand
-Manchester	CityTown|TertiaryAdminArea	28218	Manchester	Manchester				-2.23341	53.4423	541300	Greater_Manchester
+Manchester	CityTown|TertiaryAdminArea|CountyAdminArea	28218	Manchester	Manchester				-2.23341	53.4423	541300	Greater_Manchester
 Manchester-by-the-Sea,_Massachusetts	CityTown	2444698	Manchester-by-the-Sea, Massachusetts	Manchester-by-the-Sea,_Massachusetts				-70.76838	42.58234	5228	Essex_County,_Massachusetts
 Manchester,_New_Hampshire	CityTown|CountyAdminArea	2444674	Manchester, New Hampshire	Manchester,_New_Hampshire				-71.46309	42.99117	109565	Hillsborough_County,_New_Hampshire
 Mangualde	CityTown|CountyAdminArea	743108	Mangualde	Mangualde				-7.75476	40.60438	21496	Portugal
 Mangum,_Oklahoma	CityTown|CountyAdminArea	2444753	Mangum, Oklahoma	Mangum,_Oklahoma				-99.50373	34.87859	2924	Greer_County,_Oklahoma
 Mangystau_Region	StateAdminArea		Mangystau Region	Mangystau_Region				52.0	43.86667	596706	
-Manhattan	CityTown|CountyAdminArea	12589342	Manhattan	Manhattan				-73.96644	40.79086	1628706	New_York_(state)
+Manhattan	CityTown|CountyAdminArea	12589342	Manhattan	Manhattan				-73.96644	40.79086	1628706	New_York_City
 Manhattan_Beach,_California	CityTown|CountyAdminArea	2444777	Manhattan Beach, California	Manhattan_Beach,_California				-118.3974	33.88945	36536	Los_Angeles_County,_California
 Manhattan,_Illinois	CityTown	2444760	Manhattan, Illinois	Manhattan,_Illinois				-87.98147	41.42922	7051	Will_County,_Illinois
 Manipur	StateAdminArea	2345751	Manipur	Manipur				93.85573	24.76383	2855794	India
@@ -4858,7 +4859,7 @@ Monson,_Massachusetts	CityTown	2453090	Monson, Massachusetts	Monson,_Massachuset
 Montague_County,_Texas	CountyAdminArea	12590175	Montague County, Texas	Montague_County,_Texas			48337	-97.73463	33.7135	19818	Texas
 Montague,_Massachusetts	CityTown	2453105	Montague, Massachusetts	Montague,_Massachusetts				-72.55544	42.6095	8489	Franklin_County,_Massachusetts
 Montalegre	CityTown|CountyAdminArea	743740	Montalegre	Montalegre				-7.78889	41.82506	15187	Portugal
-Montana	StateAdminArea	2347585	Montana	Montana				-109.64506	47.03349	909453	United_States
+Montana	StateAdminArea	2347585	Montana	Montana		US-MT		-109.64506	47.03349	909453	United_States
 Montcalm_County,_Michigan	CountyAdminArea	12588772	Montcalm County, Michigan	Montcalm_County,_Michigan			26117	-85.19915	43.29356	63888	Michigan
 Monte_Sereno,_California	CityTown|CountyAdminArea	2453211	Monte Sereno, California	Monte_Sereno,_California				-121.98818	37.24038	3557	Santa_Clara_County,_California
 Montebello,_California	CityTown|CountyAdminArea	2453226	Montebello, California	Montebello,_California				-118.11078	34.01528	62500	Los_Angeles_County,_California
@@ -5008,7 +5009,7 @@ Ness_County,_Kansas	CountyAdminArea	12588438	Ness County, Kansas	Ness_County,_Ka
 Netherlands	Country	23424909	Netherlands	Netherlands	NL			5.32986	52.1082	17231624	Earth
 Neunkirchen_District,_Austria	CountyAdminArea	12591686	Neunkirchen District, Austria	Neunkirchen_District,_Austria				15.91022	47.66406	86383	Lower_Austria
 Neusiedl_am_See_District	CountyAdminArea	12591655	Neusiedl am See District	Neusiedl_am_See_District				16.9282	47.90009	55491	Burgenland
-Nevada	StateAdminArea	2347587	Nevada	Nevada				-116.65543	39.35649	3080156	United_States
+Nevada	StateAdminArea	2347587	Nevada	Nevada		US-NV		-116.65543	39.35649	3080156	United_States
 Nevada_County,_Arkansas	CountyAdminArea	12587644	Nevada County, Arkansas	Nevada_County,_Arkansas			05099	-93.29405	33.70066	9955	Arkansas
 Nevada_County,_California	CountyAdminArea	12587698	Nevada County, California	Nevada_County,_California			06057	-121.00972	39.26606	99755	California
 New_Ashford,_Massachusetts	CityTown|CountyAdminArea	2457992	New Ashford, Massachusetts	New_Ashford,_Massachusetts				-73.22399	42.60866	228	Berkshire_County,_Massachusetts
@@ -5027,13 +5028,13 @@ New_Lenox,_Illinois	CityTown	2458639	New Lenox, Illinois	New_Lenox,_Illinois				
 New_London_County,_Connecticut	CountyAdminArea	12587796	New London County, Connecticut	New_London_County,_Connecticut			09011	-72.12717	41.49572	265206	United_States
 New_Madrid_County,_Missouri	CountyAdminArea	12589037	New Madrid County, Missouri	New_Madrid_County,_Missouri			29143	-89.65015	36.6037	19760	Missouri
 New_Marlborough,_Massachusetts	CityTown	2458730	New Marlborough, Massachusetts	New_Marlborough,_Massachusetts				-73.2398	42.1005	1509	Berkshire_County,_Massachusetts
-New_Mexico	StateAdminArea	2347590	New Mexico	New_Mexico				-106.1084	34.42132	2096829	United_States
+New_Mexico	StateAdminArea	2347590	New Mexico	New_Mexico		US-NM		-106.1084	34.42132	2096829	United_States
 New_Orleans	CityTown|CountyAdminArea	2458833	New Orleans	New_Orleans				-89.93136	30.06887	484674	Louisiana
 New_Salem,_Massachusetts	CityTown|CountyAdminArea	2458950	New Salem, Massachusetts	New_Salem,_Massachusetts				-72.33192	42.50167	990	Franklin_County,_Massachusetts
 New_Shoreham,_Rhode_Island	CityTown	2458985	New Shoreham, Rhode Island	New_Shoreham,_Rhode_Island				-71.57337	41.17749	1051	Washington_County,_Rhode_Island
 New_South_Wales	StateAdminArea	2344700	New South Wales	New_South_Wales				147.00789	-32.16584	8128984	Australia
-New_York_(state)	StateAdminArea	2347591	New York (state)	New_York_(state)				-76.50167	42.85535	19453561	United_States
-New_York_City	CityTown		New York City	New_York_City							United_States
+New_York_(state)	StateAdminArea	2347591	New York (state)	New_York_(state)		US-NY		-76.50167	42.85535	19453561	United_States
+New_York_City	CityTown	2459115	New York City	New_York_City				-74.00712	40.71455	8274527	New_York_(state)
 New_Zealand	Country|Island	23424916	New Zealand	New_Zealand	NZ			170.37099	-43.58678	4841000	Earth
 Newalla,_Oklahoma	CityTown	2459252	Newalla, Oklahoma	Newalla,_Oklahoma				-97.15979	35.40609		Oklahoma_City
 Newaygo_County,_Michigan	CountyAdminArea	12588775	Newaygo County, Michigan	Newaygo_County,_Michigan			26123	-85.80092	43.55452	48980	Michigan
@@ -5101,7 +5102,7 @@ North_Brookfield,_Massachusetts	CityTown		North Brookfield, Massachusetts	North_
 North_Carolina	StateAdminArea	2347592	North Carolina	North_Carolina		US-NC		-80.01955	35.21962	8320146	United_States
 North_Charleston,_South_Carolina	CityTown|CountyAdminArea	2460780	North Charleston, South Carolina	North_Charleston,_South_Carolina				-80.03613	32.90554	97471	Charleston_County,_South_Carolina
 North_Chicago,_Illinois	CityTown|CountyAdminArea	2460797	North Chicago, Illinois	North_Chicago,_Illinois				-87.85944	42.31756	35918	Lake_County,_Illinois
-North_Dakota	StateAdminArea	2347593	North Dakota	North_Dakota				-100.46933	47.44626	762062	United_States
+North_Dakota	StateAdminArea	2347593	North Dakota	North_Dakota		US-ND		-100.46933	47.44626	762062	United_States
 North_East_England	StateAdminArea		North East England	North_East_England				-1.8667	55.0	2657909	England
 North_East_Lincolnshire	TertiaryAdminArea|CountyAdminArea	12696142	North East Lincolnshire	North_East_Lincolnshire				-0.11892	53.5395	155200	Yorkshire_and_the_Humber
 North_Kazakhstan_Region	StateAdminArea	20070174	North Kazakhstan Region	North_Kazakhstan_Region				70.03773	53.8329	726000	Hotel_Kazakhstan
@@ -5192,7 +5193,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown|CountyAdminArea	744649	Odivelas	Odivelas				-9.17687	38.79129	38322	Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295	153668	Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	21645	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	51032	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
@@ -5206,7 +5207,7 @@ Okatie,_South_Carolina	CityTown	2464499	Okatie, South Carolina	Okatie,_South_Car
 Okeechobee_County,_Florida	CountyAdminArea	12587849	Okeechobee County, Florida	Okeechobee_County,_Florida			12093	-80.94554	27.30106	42168	Florida
 Okeene,_Oklahoma	CityTown	2464513	Okeene, Oklahoma	Okeene,_Oklahoma				-98.31884	36.11672	1240	Blaine_County,_Oklahoma
 Okfuskee_County,_Oklahoma	CountyAdminArea	12589668	Okfuskee County, Oklahoma	Okfuskee_County,_Oklahoma			40107	-96.30309	35.46451	11993	Oklahoma
-Oklahoma	StateAdminArea	2347595	Oklahoma	Oklahoma				-97.50821	35.58344	3956971	United_States
+Oklahoma	StateAdminArea	2347595	Oklahoma	Oklahoma		US-OK		-97.50821	35.58344	3956971	United_States
 Oklahoma_City	CityTown|CountyAdminArea	2464592	Oklahoma City	Oklahoma_City				-97.51484	35.46618	579999	Oklahoma_County,_Oklahoma
 Oklahoma_County,_Oklahoma	CountyAdminArea	12589669	Oklahoma County, Oklahoma	Oklahoma_County,_Oklahoma			40109	-97.40743	35.55143	797434	Oklahoma
 Okmulgee_County,_Oklahoma	CountyAdminArea	12589670	Okmulgee County, Oklahoma	Okmulgee_County,_Oklahoma			40111	-95.95285	35.61691	39685	Oklahoma
@@ -5548,7 +5549,7 @@ Portim%C3%A3o	CityTown|CountyAdminArea	746194	Portimão	Portim%C3%A3o				-8.5324
 Porto	CityTown|CountyAdminArea	746203	Porto	Porto				-8.61034	41.14938	297506	Portugal
 Porto_de_M%C3%B3s	CityTown|CountyAdminArea	746233	Porto de Mós	Porto_de_M%C3%B3s				-8.81578	39.60303	23231	Portugal
 Porto_Santo_Island	Island		Porto Santo Island	Porto_Santo_Island				-16.33789	33.060406	5483	Portugal
-Portsmouth	CityTown	32452	Portsmouth	Portsmouth				-1.08728	50.80401	238800	Hampshire
+Portsmouth	CityTown|CountyAdminArea	32452	Portsmouth	Portsmouth				-1.08728	50.80401	238800	Hampshire
 Portsmouth,_Rhode_Island	CityTown	2475746	Portsmouth, Rhode Island	Portsmouth,_Rhode_Island				-71.25319	41.58879	17389	Newport_County,_Rhode_Island
 Portsmouth,_Virginia	CityTown|CountyAdminArea	2475747	Portsmouth, Virginia	Portsmouth,_Virginia				-76.35503	36.85764	94398	Virginia
 Portugal	Country	23424925	Portugal	Portugal	PT			-7.84481	39.55792	10366900	Earth
@@ -5876,7 +5877,7 @@ Salters,_South_Carolina	CityTown	2487642	Salters, South Carolina	Salters,_South_
 Saluda_County,_South_Carolina	CountyAdminArea	12589840	Saluda County, South Carolina	Saluda_County,_South_Carolina			45081	-81.74328	34.00118	20473	South_Carolina
 Saluda,_South_Carolina	CityTown	2487672	Saluda, South Carolina	Saluda,_South_Carolina				-81.77157	34.00112	3565	Saluda_County,_South_Carolina
 Salvaterra_de_Magos	CityTown|CountyAdminArea	747706	Salvaterra de Magos	Salvaterra_de_Magos				-8.79142	39.02503	18915	Santar%C3%A9m,_Portugal
-Salzburg	CityTown	547826	Salzburg	Salzburg				13.04337	47.80067	156872	Salzburg_(state)
+Salzburg	CityTown|CountyAdminArea	547826	Salzburg	Salzburg				13.04337	47.80067	156872	Salzburg_(state)
 Salzburg-Umgebung_District	CountyAdminArea	12591721	Salzburg-Umgebung District	Salzburg-Umgebung_District				13.20615	47.83283	140914	Salzburg_(state)
 Salzburg_(state)	StateAdminArea	2344712	Salzburg (state)	Salzburg_(state)				13.29251	47.4923	558479	Austria
 Samara_Oblast	StateAdminArea|CountyAdminArea	12598623	Samara Oblast	Samara_Oblast				50.1968	53.2538		Russia
@@ -6241,7 +6242,7 @@ Starr_County,_Texas	CountyAdminArea	12590220	Starr County, Texas	Starr_County,_T
 Starr,_South_Carolina	CityTown	2499222	Starr, South Carolina	Starr,_South_Carolina				-82.6959	34.37691	195	Anderson_County,_South_Carolina
 Startex,_South_Carolina	CityTown|CountyAdminArea	2499237	Startex, South Carolina	Startex,_South_Carolina				-82.09424	34.93079	859	Spartanburg_County,_South_Carolina
 State_of_Palestine	Country		State of Palestine	State_of_Palestine				35.2	31.883333	5051953	Earth
-Staten_Island	CityTown|CountyAdminArea	12589354	Staten Island	Staten_Island				-74.154	40.5725	476143	New_York_(state)
+Staten_Island	CityTown|CountyAdminArea	12589354	Staten Island	Staten_Island				-74.154	40.5725	476143	New_York_City
 Staunton,_Illinois	CityTown|CountyAdminArea	2499332	Staunton, Illinois	Staunton,_Illinois				-89.78906	39.01232	5143	Macoupin_County,_Illinois
 Staunton,_Virginia	CityTown|CountyAdminArea	2499333	Staunton, Virginia	Staunton,_Virginia				-79.07597	38.15928	23853	Virginia
 Stavropol_Krai	StateAdminArea|CountyAdminArea	2346887	Stavropol Krai	Stavropol_Krai				43.282	44.9481	2735139	Russia
@@ -6326,7 +6327,7 @@ Sumter_County,_South_Carolina	CountyAdminArea	12589842	Sumter County, South Caro
 Sumter,_South_Carolina	CityTown|CountyAdminArea	2501860	Sumter, South Carolina	Sumter,_South_Carolina				-80.39399	33.94026	40524	Sumter_County,_South_Carolina
 Sunderland,_Massachusetts	CityTown|CountyAdminArea	2501996	Sunderland, Massachusetts	Sunderland,_Massachusetts				-72.581	42.4672	3777	Franklin_County,_Massachusetts
 Sunflower_County,_Mississippi	CountyAdminArea	12588950	Sunflower County, Mississippi	Sunflower_County,_Mississippi			28133	-90.60738	33.62861	34369	Mississippi
-Sunnyvale,_California	CityTown	2502265	Sunnyvale, California	Sunnyvale,_California				-122.03825	37.37161	140081	Santa_Clara_County,_California
+Sunnyvale,_California	CityTown|CountyAdminArea	2502265	Sunnyvale, California	Sunnyvale,_California				-122.03825	37.37161	140081	Santa_Clara_County,_California
 Suriname	Country	23424913	Suriname	Suriname	SR			-56.03203	3.91784	575991	Earth
 Surrey	CountyAdminArea	12602176	Surrey	Surrey				-0.39535	51.27172	1080500	South_East_England
 Surry_County,_North_Carolina	CountyAdminArea	12589459	Surry County, North Carolina	Surry_County,_North_Carolina			37171	-80.70687	36.39929	71783	North_Carolina
@@ -6430,7 +6431,7 @@ Thailand	Country	23424960	Thailand	Thailand	TH			101.4925	13.03659	69428524	Eart
 Thanh_H%C3%B3a_Province	StateAdminArea		Thanh Hóa Province	Thanh_H%C3%B3a_Province				105.5	20.0	3640128	Vietnam
 Thayer_County,_Nebraska	CountyAdminArea	12589222	Thayer County, Nebraska	Thayer_County,_Nebraska			31169	-97.59506	40.1763	6055	Nebraska
 The_Bahamas	Country|Island	23424758	The Bahamas	The_Bahamas	BS			-78.08002	24.74142	385640	Earth
-The_Bronx	CityTown|CountyAdminArea	12589314	The Bronx	The_Bronx				-73.85678	40.85715	1418207	New_York_(state)
+The_Bronx	CityTown|CountyAdminArea	12589314	The Bronx	The_Bronx				-73.85678	40.85715	1418207	New_York_City
 The_Gambia	Country	23424821	The Gambia	The_Gambia	GM			-15.31143	13.44541	2280102	Earth
 Thomas_County,_Georgia	CountyAdminArea	12588005	Thomas County, Georgia	Thomas_County,_Georgia			13275	-83.92769	30.86823	44451	Georgia_(U.S._state)
 Thomas_County,_Kansas	CountyAdminArea	12588467	Thomas County, Kansas	Thomas_County,_Kansas			20193	-101.05582	39.3507	8180	Kansas
@@ -6537,7 +6538,7 @@ Tuscany	StateAdminArea	7153345	Tuscany	Tuscany				11.0293	43.4168	3742437	Italy
 Tuscarawas_County,_Ohio	CountyAdminArea	12589605	Tuscarawas County, Ohio	Tuscarawas_County,_Ohio			39157	-81.48847	40.44051	91987	Ohio
 Tuscola_County,_Michigan	CountyAdminArea	12588792	Tuscola County, Michigan	Tuscola_County,_Michigan			26157	-83.40181	43.4751	58266	Michigan
 Tuscola,_Illinois	CityTown|CountyAdminArea	2508931	Tuscola, Illinois	Tuscola,_Illinois				-88.27931	39.80081	4547	Douglas_County,_Illinois
-Tustin,_California	CityTown	2508967	Tustin, California	Tustin,_California				-117.81076	33.73178	75540	Orange_County,_California
+Tustin,_California	CityTown|CountyAdminArea	2508967	Tustin, California	Tustin,_California				-117.81076	33.73178	75540	Orange_County,_California
 Tuttle,_Oklahoma	CityTown|CountyAdminArea	2508979	Tuttle, Oklahoma	Tuttle,_Oklahoma				-97.81771	35.29081	6019	Grady_County,_Oklahoma
 Tuva	StateAdminArea|CountyAdminArea	2346879	Tuva	Tuva				94.0352	51.7353	305510	Russia
 Tver_Oblast	StateAdminArea|CountyAdminArea	12598382	Tver Oblast	Tver_Oblast				35.8906	56.8552		Russia
