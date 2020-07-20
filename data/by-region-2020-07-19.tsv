@@ -814,10 +814,10 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-07-19		1	189								0.0	5.14		https://www.scdhec.gov/
 Abington,_Massachusetts	Abington, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		238		2718	0			0			0.43		https://www.mass.gov/
 Abrantes	Abrantes	2020-07-19	2020-07-18T23:00:00.000Z		29			0			0			0.0		https://covid19.min-saude.pt/
-Abruzzo	Abruzzo	2020-07-19		468	3336	2751	119504				1		0.43	1.14	5.43	http://www.salute.gov.it/
+Abruzzo	Abruzzo	2020-07-19		468	3336	2751	119504	1	0	1	0	0	0.43	1.14	5.43	http://www.salute.gov.it/
 Acadia_Parish,_Louisiana	Acadia Parish, Louisiana	2020-07-19		51	1696								0.86	51.0		http://ldh.la.gov/
 Accomack_County,_Virginia	Accomack County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	15	1052								0.14	1.43		http://www.vdh.virginia.gov/
-Acre_(state)	Acre (state)	2020-07-19	2020-07-18T22:00:00.000Z	457	17202								4.43	144.57		https://covid.saude.gov.br/
+Acre_(state)	Acre (state)	2020-07-19	2020-07-19T22:00:00.000Z	460	17295			93	3		-144	-2	4.86	157.86		https://covid.saude.gov.br/
 Acton,_Massachusetts	Acton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		167		3015	0			0			0.71		https://www.mass.gov/
 Acushnet,_Massachusetts	Acushnet, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		97		1409	0			0			0.57		https://www.mass.gov/
 Ada_County,_Idaho	Ada County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	32	5426								1.0	214.14		https://coronavirus.idaho.gov/
@@ -849,7 +849,7 @@ Akmola_Region	Akmola Region	2020-07-19		24	1949	1363		50	0	0	8	0	0.14	42.29	41.1
 Aktobe_Region	Aktobe Region	2020-07-19		9	2723	1171		23	0	16	-28	0	0.71	86.86	50.0	https://www.coronavirus2020.kz/
 Alabama	Alabama	2020-07-19		1254	65865		584387						23.0	1851.0		https://covid19.alabama.gov/
 Alachua_County,_Florida	Alachua County, Florida	2020-07-19		13	2619		57112						0.14	74.43		https://floridahealthcovid19.gov/
-Alagoas	Alagoas	2020-07-19	2020-07-18T22:00:00.000Z	1381	49583								14.29	607.57		https://covid.saude.gov.br/
+Alagoas	Alagoas	2020-07-19	2020-07-19T22:00:00.000Z	1397	50078			495	16		165	0	16.57	678.29		https://covid.saude.gov.br/
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2020-07-19		39	1684								0.29	36.57		https://www.ncdhhs.gov/
 Alameda_County,_California	Alameda County, California	2020-07-19	2020-07-18T00:00:00.000Z	162	9110								2.0	180.71		http://www.acphd.org/
 Alamosa_County,_Colorado	Alamosa County, Colorado	2020-07-19		7	207								0.14	0.43		https://covid19.colorado.gov/
@@ -872,7 +872,7 @@ Alexandria,_Virginia	Alexandria, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	56
 Alfalfa_County,_Oklahoma	Alfalfa County, Oklahoma	2020-07-19		0	1	1							0.0	0.0	0.0	https://coronavirus.health.ok.gov/
 Alford,_Massachusetts	Alford, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		28	0			0			0.0		https://www.mass.gov/
 Alger_County,_Michigan	Alger County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	4			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
-Algeria	Algeria	2020-07-19	2020-07-18T00:00:00.000Z	1068	22549	16051		535	10		-66	-1	8.14	479.14	329.71	http://covid19.sante.gov.dz/
+Algeria	Algeria	2020-07-19	2020-07-19T00:00:00.000Z	1078	23084	16051		535	10	307	-66	-1	9.57	555.57	329.71	http://covid19.sante.gov.dz/
 Alhambra,_California	Alhambra, California	2020-07-19	2020-07-18T03:00:00.000Z	14	699								0.43	13.71		http://publichealth.lacounty.gov/
 Allamakee_County,_Iowa	Allamakee County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	4	139	120	1717	0	0	0	0	0	0.0	0.14	0.43	https://idph.iowa.gov
 Allegan_County,_Michigan	Allegan County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	7	424			9	0	0	2	0	0.0	7.29		https://www.michigan.gov/
@@ -899,7 +899,7 @@ Amador_County,_California	Amador County, California	2020-07-19	2020-07-17T07:00:
 Amadora	Amadora	2020-07-19	2020-07-18T23:00:00.000Z		1989			0			0			29.86		https://covid19.min-saude.pt/
 Amarante,_Portugal	Amarante, Portugal	2020-07-19	2020-07-18T23:00:00.000Z		102			0			0			0.0		https://covid19.min-saude.pt/
 Amares	Amares	2020-07-19	2020-07-18T23:00:00.000Z		82			0			0			-0.14		https://covid19.min-saude.pt/
-Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-07-19	2020-07-18T22:00:00.000Z	3129	90534								12.86	1001.14		https://covid.saude.gov.br/
+Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-07-19	2020-07-19T22:00:00.000Z	3149	90913			379	20		-1333	9	15.71	1055.29		https://covid.saude.gov.br/
 Amelia_County,_Virginia	Amelia County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	1	60								0.0	1.43		http://www.vdh.virginia.gov/
 Amesbury,_Massachusetts	Amesbury, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		185		2530	0			0			0.57		https://www.mass.gov/
 Amherst_County,_Virginia	Amherst County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	52								0.0	1.71		http://www.vdh.virginia.gov/
@@ -930,12 +930,12 @@ Antelope_County,_Nebraska	Antelope County, Nebraska	2020-07-19		1	16		366						0
 Antigua_and_Barbuda	Antigua and Barbuda	2020-07-19	2020-07-19T11:41:32.000Z	3	76				0			0	0.0	0.29		https://www.ecdc.europa.eu/
 Antofagasta_Region	Antofagasta Region	2020-07-19	2020-07-19T04:00:00.000Z	280	13109	11281		202	1	213	11	-7	8.0	187.14	224.0	https://www.minsal.cl/
 Antrim_County,_Michigan	Antrim County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	29			1	0	0	1	0	0.0	0.57		https://www.michigan.gov/
-Aosta_Valley	Aosta Valley	2020-07-19		146	1196	1047	20190				0		0.0	0.0	0.0	http://www.salute.gov.it/
+Aosta_Valley	Aosta Valley	2020-07-19		146	1196	1047	20190	0	0	-1	0	0	0.0	0.0	0.0	http://www.salute.gov.it/
 Apache_County,_Arizona	Apache County, Arizona	2020-07-19	2020-07-19T15:00:00.000Z	110	2741		10197	6	0	0	-38	-4	0.86	23.14		https://azdhs.gov/
 Appanoose_County,_Iowa	Appanoose County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	3	34	18	1123	1	0	0	0	0	0.0	1.71	0.0	https://idph.iowa.gov
 Appling_County,_Georgia	Appling County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	15	417			6	0		-3	0	0.14	10.57		https://dph.georgia.gov/
 Appomattox_County,_Virginia	Appomattox County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	49								0.0	0.29		http://www.vdh.virginia.gov/
-Apulia	Apulia	2020-07-19		548	4557	3930	215649				7		0.29	2.29	0.86	http://www.salute.gov.it/
+Apulia	Apulia	2020-07-19		548	4557	3930	215649	7	0	0	4	0	0.29	2.29	0.86	http://www.salute.gov.it/
 Aquinnah,_Massachusetts	Aquinnah, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		80	0			0			0.0		https://www.mass.gov/
 Aransas_County,_Texas	Aransas County, Texas	2020-07-19		0	85	36							0.0	4.29	2.0	https://www.dshs.state.tx.us/
 Arapahoe_County,_Colorado	Arapahoe County, Colorado	2020-07-19		351	5990								0.29	49.0		https://covid19.colorado.gov/
@@ -1002,7 +1002,7 @@ Australia	Australia	2020-07-19	2020-07-19T15:00:00.000Z	122	11802	8272	3476463	3
 Austria	Austria	2020-07-19	2020-07-19T20:00:00.000Z	685	19642	17599	748669	81	0	98	-38	0	0.43	113.86	92.43	https://info.gesundheitsministerium.at/
 Autauga_County,_Alabama	Autauga County, Alabama	2020-07-19		20	823		5719						0.71	17.86		https://covid19.alabama.gov/
 Autonomous_Province_of_Kosovo_and_Metohija	Autonomous Province of Kosovo and Metohija	2020-07-19	2020-07-19T11:41:32.000Z	130	5617				6			-6	4.14	128.86		https://www.ecdc.europa.eu/
-Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-07-19		1749		7856							0.29		6.0	https://www.santepubliquefrance.fr/
+Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-07-19		1749		7856			0	0		0	0.29		6.0	https://www.santepubliquefrance.fr/
 Avalon,_California	Avalon, California	2020-07-19	2020-07-18T03:00:00.000Z	0	5								0.0	0.0		http://publichealth.lacounty.gov/
 Aveiro,_Portugal	Aveiro, Portugal	2020-07-19	2020-07-18T23:00:00.000Z		379			0			0			2.0		https://covid19.min-saude.pt/
 Avery_County,_North_Carolina	Avery County, North Carolina	2020-07-19		0	42								0.0	2.29		https://www.ncdhhs.gov/
@@ -1020,7 +1020,7 @@ Baca_County,_Colorado	Baca County, Colorado	2020-07-19			14									0.0		https:/
 Bacon_County,_Georgia	Bacon County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	5	345			6	0		-6	0	0.0	5.86		https://dph.georgia.gov/
 Baden_District,_Austria	Baden District, Austria	2020-07-19	2020-07-19T20:00:00.000Z		213			5			5			1.71		https://info.gesundheitsministerium.at/
 Baden-W%C3%BCrttemberg	Baden-Württemberg	2020-07-19	2020-07-19	1838	36342	0										https://www.rki.de/
-Bahia	Bahia	2020-07-19	2020-07-18T22:00:00.000Z	2793	120238								44.29	2067.86		https://covid.saude.gov.br/
+Bahia	Bahia	2020-07-19	2020-07-19T22:00:00.000Z	2840	122169			1931	47		350	-8	51.0	2343.71		https://covid.saude.gov.br/
 Bahrain	Bahrain	2020-07-19	2020-07-19T00:00:00.000Z	126	36004	31765	717723	531	0	577	142	-3	2.57	504.86	562.43	https://www.moh.gov.bh/COVID19
 Bailey_County,_Texas	Bailey County, Texas	2020-07-19		1	120	88							0.0	1.14	1.29	https://www.dshs.state.tx.us/
 Baker_County,_Florida	Baker County, Florida	2020-07-19		4	232		3612						0.0	10.0		https://floridahealthcovid19.gov/
@@ -1061,7 +1061,7 @@ Barton_County,_Kansas	Barton County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z	
 Barton_County,_Missouri	Barton County, Missouri	2020-07-19		0	48								0.0	2.0		https://health.mo.gov/
 Bartow_County,_Georgia	Bartow County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	46	1138			7	0		-14	0	0.29	25.43		https://dph.georgia.gov/
 Bashkortostan	Bashkortostan	2020-07-19	2020-07-19T07:45:00.000Z	20	6307	4630		58	0	3	3	0	0.14	55.14	90.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Basilicata	Basilicata	2020-07-19		28	408	373	44020				3		0.14	0.29	-0.14	http://www.salute.gov.it/
+Basilicata	Basilicata	2020-07-19		28	408	373	44020	3	1	0	3	1	0.14	0.29	-0.14	http://www.salute.gov.it/
 Bastrop_County,_Texas	Bastrop County, Texas	2020-07-19		12	952	419							0.14	31.14	5.57	https://www.dshs.state.tx.us/
 Batalha,_Portugal	Batalha, Portugal	2020-07-19	2020-07-18T23:00:00.000Z		14			0			0			0.86		https://covid19.min-saude.pt/
 Bates_County,_Missouri	Bates County, Missouri	2020-07-19		1	18								0.0	0.71		https://health.mo.gov/
@@ -1133,7 +1133,7 @@ Berkshire_County,_Massachusetts	Berkshire County, Massachusetts	2020-07-19	2020-
 Berlin	Berlin	2020-07-19	2020-07-19	221	8774	0										https://www.rki.de/
 Berlin,_Massachusetts	Berlin, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		20		429	0			0			0.0		https://www.mass.gov/
 Bermuda	Bermuda	2020-07-19	2020-07-19T11:41:32.000Z	9	153				0			0	0.0	0.43		https://www.ecdc.europa.eu/
-Bernalillo_County,_New_Mexico	Bernalillo County, New Mexico	2020-07-19		100	3679								0.57	86.14		https://cv.nmhealth.org
+Bernalillo_County,_New_Mexico	Bernalillo County, New Mexico	2020-07-19		100	3775								0.57	99.86		https://cv.nmhealth.org
 Bernardston,_Massachusetts	Bernardston, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		7		241	0			0			0.0		https://www.mass.gov/
 Berrien_County,_Georgia	Berrien County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	0	201			1	0		-5	0	0.0	4.0		https://dph.georgia.gov/
 Berrien_County,_Michigan	Berrien County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	61	1114			16	0	0	-4	0	0.14	15.43		https://www.michigan.gov/
@@ -1209,7 +1209,7 @@ Boulder_County,_Colorado	Boulder County, Colorado	2020-07-19		74	1628								0.1
 Boundary_County,_Idaho	Boundary County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	0	10								0.0	0.43		https://coronavirus.idaho.gov/
 Bourbon_County,_Kansas	Bourbon County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		45			0			0			0.86		https://www.coronavirus.kdheks.gov
 Bourbon_County,_Kentucky	Bourbon County, Kentucky	2020-07-19		1	54								0.0	1.43		https://govstatus.egov.com/
-Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-07-19		1061		3965							0.57		3.14	https://www.santepubliquefrance.fr/
+Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-07-19		1061		3965			0	0		0	0.57		3.14	https://www.santepubliquefrance.fr/
 Bourne,_Massachusetts	Bourne, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		159		3001	0			0			0.14		https://www.mass.gov/
 Bournemouth,_Christchurch_and_Poole	Bournemouth, Christchurch and Poole	2020-07-19			821			0			0			0.67		https://www.gov.uk/
 Bowie_County,_Texas	Bowie County, Texas	2020-07-19		17	596	450							0.29	13.14	7.0	https://www.dshs.state.tx.us/
@@ -1235,7 +1235,7 @@ Brandenburg	Brandenburg	2020-07-19	2020-07-19	167	3476	0										https://www.rk
 Brantley_County,_Georgia	Brantley County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	3	171			2	0		-1	0	0.0	4.43		https://dph.georgia.gov/
 Braunau_am_Inn_District	Braunau am Inn District	2020-07-19	2020-07-19T20:00:00.000Z		149			0			0			0.14		https://info.gesundheitsministerium.at/
 Braxton_County,_West_Virginia	Braxton County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	7	4	1156	0	0	0	-1	0	0.0	0.29	0.0	https://dhhr.wv.gov/
-Brazil	Brazil	2020-07-19	2020-07-18T22:00:00.000Z	79488	2098389	1371229			716			-205	1055.43	33386.86	35432.14	https://covid.saude.gov.br/
+Brazil	Brazil	2020-07-19	2020-07-19T22:00:00.000Z	79488	2098389	1371229		23529	716	28867	-5003	-205	1055.43	33386.86	35432.14	https://covid.saude.gov.br/
 Brazoria_County,_Texas	Brazoria County, Texas	2020-07-19		31	4545	2156							0.86	155.29	42.86	https://www.dshs.state.tx.us/
 Brazos_County,_Texas	Brazos County, Texas	2020-07-19		38	3313	2293							0.43	50.29	86.86	https://www.dshs.state.tx.us/
 Breathitt_County,_Kentucky	Breathitt County, Kentucky	2020-07-19		0	16								0.0	0.14		https://govstatus.egov.com/
@@ -1256,7 +1256,7 @@ Bristol,_Rhode_Island	Bristol, Rhode Island	2020-07-19	2020-07-15T00:00:00.000Z	
 Bristol,_Virginia	Bristol, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	21								0.0	1.14		http://www.vdh.virginia.gov/
 British_Columbia	British Columbia	2020-07-19	2020-07-19T15:00:00.000Z	189	3198	2802	197164	0	0	0	0	0	0.29	20.71	17.57	https://www.canada.ca/
 British_Virgin_Islands	British Virgin Islands	2020-07-19	2020-07-19T11:41:32.000Z	1	8				0			0	0.0	0.0		https://www.ecdc.europa.eu/
-Brittany_(administrative_region)	Brittany (administrative region)	2020-07-19		262		1301							0.29		0.86	https://www.santepubliquefrance.fr/
+Brittany_(administrative_region)	Brittany (administrative region)	2020-07-19		262		1301			0	0		0	0.29		0.86	https://www.santepubliquefrance.fr/
 Broadwater_County,_Montana	Broadwater County, Montana	2020-07-19		0	9								0.0	0.0		https://dphhs.mt.gov/
 Brockton,_Massachusetts	Brockton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		4275		25186	0			0			3.0		https://www.mass.gov/
 Brooke_County,_West_Virginia	Brooke County, West Virginia	2020-07-19	2020-07-19T14:00:00.000Z	0	39	17	2403	2	0	1	0	0	0.0	1.86	1.29	https://dhhr.wv.gov/
@@ -1338,7 +1338,7 @@ Cadaval	Cadaval	2020-07-19	2020-07-18T23:00:00.000Z		25			0			0			0.14		https://
 Caddo_County,_Oklahoma	Caddo County, Oklahoma	2020-07-19		11	225	188							0.0	2.71	1.14	https://coronavirus.health.ok.gov/
 Caddo_Parish,_Louisiana	Caddo Parish, Louisiana	2020-07-19		257	4965								1.43	91.71		http://ldh.la.gov/
 Calabasas,_California	Calabasas, California	2020-07-19	2020-07-18T03:00:00.000Z	11	169								0.0	2.57		http://publichealth.lacounty.gov/
-Calabria	Calabria	2020-07-19		97	1239	1070	110485				1		0.0	3.29	1.14	http://www.salute.gov.it/
+Calabria	Calabria	2020-07-19		97	1239	1070	110485	1	0	4	-6	0	0.0	3.29	1.14	http://www.salute.gov.it/
 Calaveras_County,_California	Calaveras County, California	2020-07-19	2020-07-18	0	89	34	3692	2	0	0	2	0	0.0	3.14	1.86	https://www.cdph.ca.gov
 Calcasieu_Parish,_Louisiana	Calcasieu Parish, Louisiana	2020-07-19		80	4231								1.29	157.71		http://ldh.la.gov/
 Caldas_da_Rainha	Caldas da Rainha	2020-07-19	2020-07-18T23:00:00.000Z		116			0			0			5.29		https://covid19.min-saude.pt/
@@ -1382,7 +1382,7 @@ Cameron_Parish,_Louisiana	Cameron Parish, Louisiana	2020-07-19		0	123								0.0
 Cameroon	Cameroon	2020-07-19	2020-07-19T11:41:32.000Z	373	16157				0			0	2.0	177.29		https://www.ecdc.europa.eu/
 Caminha	Caminha	2020-07-19	2020-07-18T23:00:00.000Z		19			0			0			0.0		https://covid19.min-saude.pt/
 Camp_County,_Texas	Camp County, Texas	2020-07-19		2	163	122							0.0	3.71	1.29	https://www.dshs.state.tx.us/
-Campania	Campania	2020-07-19		433	4827	4100	312260				9		0.14	7.86	0.86	http://www.salute.gov.it/
+Campania	Campania	2020-07-19		433	4827	4100	312260	9	0	2	-6	0	0.14	7.86	0.86	http://www.salute.gov.it/
 Campbell_County,_Kentucky	Campbell County, Kentucky	2020-07-19		13	373								0.0	6.14		https://govstatus.egov.com/
 Campbell_County,_South_Dakota	Campbell County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	1	1	76	0	0	0	0	0	0.0	0.0	0.0	https://doh.sd.gov/
 Campbell_County,_Virginia	Campbell County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	1	77								0.0	1.71		http://www.vdh.virginia.gov/
@@ -1491,7 +1491,7 @@ Central_African_Republic	Central African Republic	2020-07-19	2020-07-19T11:41:32
 Central_Bedfordshire	Central Bedfordshire	2020-07-19			1253			0			0			2.43		https://www.gov.uk/
 Central_Falls,_Rhode_Island	Central Falls, Rhode Island	2020-07-19	2020-07-15T00:00:00.000Z		950		4513							3.86		https://health.ri.gov/
 Centre_County,_Pennsylvania	Centre County, Pennsylvania	2020-07-19		9	279		6748						0.14	5.14		https://www.health.pa.gov/
-Centre-Val_de_Loire	Centre-Val de Loire	2020-07-19		555		2054							0.29		8.57	https://www.santepubliquefrance.fr/
+Centre-Val_de_Loire	Centre-Val de Loire	2020-07-19		555		2054			0	0		0	0.29		8.57	https://www.santepubliquefrance.fr/
 Cerritos,_California	Cerritos, California	2020-07-19	2020-07-18T03:00:00.000Z	7	356								0.0	8.0		http://publichealth.lacounty.gov/
 Cerro_Gordo_County,_Iowa	Cerro Gordo County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	12	431	102	6320	35	0	0	28	-1	1.57	19.29	5.29	https://idph.iowa.gov
 Chad	Chad	2020-07-19	2020-07-19T11:41:32.000Z	75	889				0			0	0.14	2.14		https://www.ecdc.europa.eu/
@@ -1583,7 +1583,7 @@ Christian_County,_Missouri	Christian County, Missouri	2020-07-19		1	118								0
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-07-19	2020-07-19T07:45:00.000Z	1	146	143		0	0	0	0	0	0.0	0.29	0.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Churchill_County,_Nevada	Churchill County, Nevada	2020-07-19	2020-07-15T00:00:00.000Z	1	32	14	3314						0.0	0.71	0.71	http://www.churchillcounty.org/
 Chuvashia	Chuvashia	2020-07-19	2020-07-19T07:45:00.000Z	49	6216	3364		52	1	30	-2	1	0.43	55.14	25.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Cibola_County,_New_Mexico	Cibola County, New Mexico	2020-07-19		15	259								0.14	1.43		https://cv.nmhealth.org
+Cibola_County,_New_Mexico	Cibola County, New Mexico	2020-07-19		15	262								0.14	1.86		https://cv.nmhealth.org
 Cimarron_County,_Oklahoma	Cimarron County, Oklahoma	2020-07-19		0	1	1							0.0	0.0	0.0	https://coronavirus.health.ok.gov/
 Citrus_County,_Florida	Citrus County, Florida	2020-07-19		17	796		14167						0.43	35.71		https://floridahealthcovid19.gov/
 City_of_Bradford	City of Bradford	2020-07-19			4574			3			0			21.43		https://www.gov.uk/
@@ -1725,7 +1725,7 @@ Coosa_County,_Alabama	Coosa County, Alabama	2020-07-19		1	71		671						0.0	0.71	
 Copiah_County,_Mississippi	Copiah County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	20	731			4	1		-10	0	0.57	8.71		https://msdh.ms.gov/
 Coquimbo_Region	Coquimbo Region	2020-07-19	2020-07-19T04:00:00.000Z	53	4792	3875		158	1	103	-90	-2	2.86	98.43	79.14	https://www.minsal.cl/
 Cornwall	Cornwall	2020-07-19			902			0			0			0.69		https://www.gov.uk/
-Corsica	Corsica	2020-07-19		59		247							0.0		0.0	https://www.santepubliquefrance.fr/
+Corsica	Corsica	2020-07-19		59		247			0	0		0	0.0		0.0	https://www.santepubliquefrance.fr/
 Corson_County,_South_Dakota	Corson County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	22	18	248	0	0	0	0	0	0.0	0.29	0.14	https://doh.sd.gov/
 Cortland_County,_New_York	Cortland County, New York	2020-07-19	2020-07-19T14:00:00.000Z	1	69		11660	1	0		0	0	0.0	1.57		https://coronavirus.health.ny.gov/
 Coruche	Coruche	2020-07-19	2020-07-18T23:00:00.000Z		54			0			0			0.43		https://covid19.min-saude.pt/
@@ -1795,7 +1795,7 @@ Cuming_County,_Nebraska	Cuming County, Nebraska	2020-07-19		0	40		830						0.0	0
 Cummington,_Massachusetts	Cummington, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		113	0			0			0.0		https://www.mass.gov/
 Cura%C3%A7ao	Curaçao	2020-07-19		1	28				0			0	0.0	0.43		https://www.who.int/
 Currituck_County,_North_Carolina	Currituck County, North Carolina	2020-07-19		0	48								0.0	3.43		https://www.ncdhhs.gov/
-Curry_County,_New_Mexico	Curry County, New Mexico	2020-07-19		1	301								0.0	7.14		https://cv.nmhealth.org
+Curry_County,_New_Mexico	Curry County, New Mexico	2020-07-19		1	302								0.0	7.29		https://cv.nmhealth.org
 Curry_County,_Oregon	Curry County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	0	9		843						0.0	0.0		https://govstatus.egov.com/OR-OHA-COVID-19
 Custer_County,_Colorado	Custer County, Colorado	2020-07-19			8									0.71		https://covid19.colorado.gov/
 Custer_County,_Idaho	Custer County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	0	6								0.0	0.0		https://coronavirus.idaho.gov/
@@ -1913,7 +1913,7 @@ Dodge_County,_Wisconsin	Dodge County, Wisconsin	2020-07-19	2020-07-19T06:00:00.0
 Dolores_County,_Colorado	Dolores County, Colorado	2020-07-19			2									0.29		https://covid19.colorado.gov/
 Dominica	Dominica	2020-07-19	2020-07-19T11:41:32.000Z	0	18				0			0	0.0	0.0		https://www.ecdc.europa.eu/
 Dominican_Republic	Dominican Republic	2020-07-19	2020-07-18T00:00:00.000Z	971	51519	24607	209252	1406	29		0	0	10.57	998.14	449.71	https://www.msp.gob.do/
-Do%C3%B1a_Ana_County,_New_Mexico	Doña Ana County, New Mexico	2020-07-19		13	1688								0.29	40.57		https://cv.nmhealth.org
+Do%C3%B1a_Ana_County,_New_Mexico	Doña Ana County, New Mexico	2020-07-19		13	1717								0.29	44.71		https://cv.nmhealth.org
 %C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-07-19		0	1	1		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-07-19		0	6	6		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Doniphan_County,_Kansas	Doniphan County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		28			0			0			0.14		https://www.coronavirus.kdheks.gov
@@ -1960,7 +1960,7 @@ Duval_County,_Texas	Duval County, Texas	2020-07-19		0	97	56							0.0	2.43	3.43	
 Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		117		2525	0			0			0.14		https://www.mass.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-07-19		9	831								0.14	9.71		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	31	327			0	0		-1	0	0.0	3.0		https://dph.georgia.gov/
-Earth	Earth	2020-07-19	2020-07-19T22:15:01.543Z	600175	14314160			164521	4786		-70995	-2662	5116.71	216626.14	145915.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-07-19	2020-07-19T23:12:40.998Z	600238	14315533			165894	4786		-69622	-2662	5125.71	216822.29	146122.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-07-19		288	8366								1.29	180.86		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		181		2121	0			0			0.0		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		13		251	0			0			0.0		https://www.mass.gov/
@@ -1984,7 +1984,7 @@ Eau_Claire_County,_Wisconsin	Eau Claire County, Wisconsin	2020-07-19	2020-07-19T
 Echols_County,_Georgia	Echols County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	0	208			2	0		1	0	0.0	1.57		https://dph.georgia.gov/
 Ector_County,_Texas	Ector County, Texas	2020-07-19		27	1575	1053							1.86	48.57	36.71	https://www.dshs.state.tx.us/
 Ecuador	Ecuador	2020-07-19		5282	73382	5900	202649		32			-11	33.57	787.43	0.0	https://www.salud.gob.ec/
-Eddy_County,_New_Mexico	Eddy County, New Mexico	2020-07-19		1	173								0.0	4.71		https://cv.nmhealth.org
+Eddy_County,_New_Mexico	Eddy County, New Mexico	2020-07-19		2	181								0.14	5.86		https://cv.nmhealth.org
 Eddy_County,_North_Dakota	Eddy County, North Dakota	2020-07-19		0	5	5	518						0.0	0.0	0.0	https://www.health.nd.gov/
 Edgar_County,_Illinois	Edgar County, Illinois	2020-07-19		0	21		1540						0.0	0.29		http://www.dph.illinois.gov/
 Edgartown,_Massachusetts	Edgartown, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		9		1361	0			0			0.14		https://www.mass.gov/
@@ -1999,7 +1999,7 @@ Eferding_District	Eferding District	2020-07-19	2020-07-19T20:00:00.000Z		69			0	
 Effingham_County,_Georgia	Effingham County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	1	400			7	0		-6	0	0.0	16.57		https://dph.georgia.gov/
 Effingham_County,_Illinois	Effingham County, Illinois	2020-07-19		1	42		3707						0.0	1.57		http://www.dph.illinois.gov/
 Egremont,_Massachusetts	Egremont, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		5		99	0			0			0.0		https://www.mass.gov/
-Egypt	Egypt	2020-07-19	2020-07-18T22:10:00.000Z	4251	87172	27868		698	63		0	0	56.14	728.86	492.71	https://www.care.gov.eg/
+Egypt	Egypt	2020-07-19	2020-07-19T16:22:00.000Z	4302	87775	28380		603	51	512	-95	-12	63.43	815.0	565.86	https://www.care.gov.eg/
 Eisenstadt	Eisenstadt	2020-07-19	2020-07-19T20:00:00.000Z		24			4			6			0.71		https://info.gesundheitsministerium.at/
 El_Dorado_County,_California	El Dorado County, California	2020-07-19	2020-07-17T16:45:00.000Z	0	394	220	15320						0.0	12.43	8.0	https://www.edcgov.us/
 El_Monte,_California	El Monte, California	2020-07-19	2020-07-18T03:00:00.000Z	76	2458								2.71	51.86		http://publichealth.lacounty.gov/
@@ -2022,7 +2022,7 @@ Elmore_County,_Idaho	Elmore County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	2	
 Elvas	Elvas	2020-07-19	2020-07-18T23:00:00.000Z		15			0			0			0.57		https://covid19.min-saude.pt/
 Emanuel_County,_Georgia	Emanuel County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	3	259			3	0		-16	0	0.0	6.86		https://dph.georgia.gov/
 Emery_County,_Utah	Emery County, Utah	2020-07-19	2020-07-18T00:00:00.000Z		11	10								0.14	0.14	https://www.seuhealth.com/
-Emilia-Romagna	Emilia-Romagna	2020-07-19		4274	29178	23638	576284				51		0.71	34.0	21.0	http://www.salute.gov.it/
+Emilia-Romagna	Emilia-Romagna	2020-07-19		4274	29178	23638	576284	51	0	19	11	-1	0.71	34.0	21.0	http://www.salute.gov.it/
 Emmet_County,_Iowa	Emmet County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	0	113	71	1226	3	0	1	3	0	0.0	2.29	1.14	https://idph.iowa.gov
 Emmet_County,_Michigan	Emmet County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	2	45			0	0	0	0	0	0.0	0.86		https://www.michigan.gov/
 Emmons_County,_North_Dakota	Emmons County, North Dakota	2020-07-19		1	8	3	472						0.0	0.57	0.0	https://www.health.nd.gov/
@@ -2091,7 +2091,7 @@ Fayette_County,_Ohio	Fayette County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	0	
 Fayette_County,_Pennsylvania	Fayette County, Pennsylvania	2020-07-19		4	262		7494						0.0	9.43		https://www.health.pa.gov/
 Fayette_County,_Texas	Fayette County, Texas	2020-07-19		4	206	84							0.14	7.14	2.57	https://www.dshs.state.tx.us/
 Fayette_County,_West_Virginia	Fayette County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	4	101	55	6863	-1	0	0	-5	0	0.0	2.86	0.29	https://dhhr.wv.gov/
-Federal_District_(Brazil)	Federal District (Brazil)	2020-07-19	2020-07-18T22:00:00.000Z	1075	81163								24.71	1493.0		https://covid.saude.gov.br/
+Federal_District_(Brazil)	Federal District (Brazil)	2020-07-19	2020-07-19T22:00:00.000Z	1085	82412			1249	10		-514	-5	26.14	1671.43		https://covid.saude.gov.br/
 Feldkirch_District	Feldkirch District	2020-07-19	2020-07-19T20:00:00.000Z		218			1			1			0.29		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-07-19	2020-07-19T20:00:00.000Z		15			0			0			0.0		https://info.gesundheitsministerium.at/
 Felgueiras	Felgueiras	2020-07-19	2020-07-18T23:00:00.000Z		422			0			0			0.29		https://covid19.min-saude.pt/
@@ -2134,7 +2134,7 @@ Foster_County,_North_Dakota	Foster County, North Dakota	2020-07-19		0	3	3	389			
 Foster,_Rhode_Island	Foster, Rhode Island	2020-07-19	2020-07-15T00:00:00.000Z		22		510							-0.14		https://health.ri.gov/
 Foxborough,_Massachusetts	Foxborough, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		117		3063	0			0			0.14		https://www.mass.gov/
 Framingham,_Massachusetts	Framingham, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		1756		12822	0			0			1.57		https://www.mass.gov/
-France	France	2020-07-19	2020-07-18T00:00:00.000Z	30152	174674	79244			0			-14	21.14	560.29	122.29	https://www.santepubliquefrance.fr/
+France	France	2020-07-19	2020-07-18T00:00:00.000Z	30152	174674	79244		0	0	0	0	-14	21.14	560.29	122.29	https://www.santepubliquefrance.fr/
 Franklin_County,_Alabama	Franklin County, Alabama	2020-07-19		16	1020		4591						0.0	11.71		https://covid19.alabama.gov/
 Franklin_County,_Arkansas	Franklin County, Arkansas	2020-07-19		1	37	30	1817						0.0	1.0	1.14	https://www.healthy.arkansas.gov/
 Franklin_County,_Florida	Franklin County, Florida	2020-07-19		0	56		1999						0.0	3.29		https://floridahealthcovid19.gov/
@@ -2173,7 +2173,7 @@ Fremont_County,_Wyoming	Fremont County, Wyoming	2020-07-19	2020-07-19T21:00:00.0
 French_Polynesia	French Polynesia	2020-07-19	2020-07-19T11:41:32.000Z	0	62				0			0	0.0	0.0		https://www.ecdc.europa.eu/
 Fresno_County,_California	Fresno County, California	2020-07-19	2020-07-18	100	10381	2332	93404					0	1.71	299.86	65.86	https://www.cdph.ca.gov
 Frio_County,_Texas	Frio County, Texas	2020-07-19		1	349	155							0.14	1.86	1.29	https://www.dshs.state.tx.us/
-Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-07-19		345	3352	2911	226187				2		0.0	2.43	0.0	http://www.salute.gov.it/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-07-19		345	3352	2911	226187	2	0	5	-2	0	0.0	2.43	0.0	http://www.salute.gov.it/
 Frontier_County,_Nebraska	Frontier County, Nebraska	2020-07-19		0	2		151						0.0	0.0		http://dhhs.ne.gov/
 Fulton_County,_Arkansas	Fulton County, Arkansas	2020-07-19		0	20	16	1098						0.0	0.29	0.43	https://www.healthy.arkansas.gov/
 Fulton_County,_Georgia	Fulton County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	339	13117			245	0		-43	-4	2.14	360.29		https://dph.georgia.gov/
@@ -2276,7 +2276,7 @@ Graham_County,_North_Carolina	Graham County, North Carolina	2020-07-19		0	10				
 Granby,_Massachusetts	Granby, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		32		622	0			0			0.14		https://www.mass.gov/
 Grand_County,_Colorado	Grand County, Colorado	2020-07-19		1	35								0.0	1.0		https://covid19.colorado.gov/
 Grand_County,_Utah	Grand County, Utah	2020-07-19	2020-07-18T00:00:00.000Z		29	21								0.43	0.43	https://www.seuhealth.com/
-Grand_Est	Grand Est	2020-07-19		3599		12473							2.0		9.29	https://www.santepubliquefrance.fr/
+Grand_Est	Grand Est	2020-07-19		3599		12473			0	0		0	2.0		9.29	https://www.santepubliquefrance.fr/
 Grand_Forks_County,_North_Dakota	Grand Forks County, North Dakota	2020-07-19		4	509	423	11639						0.0	8.86	5.0	https://www.health.nd.gov/
 Grand_Isle_County,_Vermont	Grand Isle County, Vermont	2020-07-19		0	13			0			0		0.0	0.0		https://www.healthvermont.gov/
 Grand_Traverse_County,_Michigan	Grand Traverse County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	5	123			0	0	0	-5	0	0.0	4.71		https://www.michigan.gov/
@@ -2286,7 +2286,7 @@ Grant_County,_Kansas	Grant County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		6
 Grant_County,_Kentucky	Grant County, Kentucky	2020-07-19		5	75								0.0	1.14		https://govstatus.egov.com/
 Grant_County,_Minnesota	Grant County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	1	33			0	0		-1	0	0.14	0.14		https://www.health.state.mn.us/
 Grant_County,_Nebraska	Grant County, Nebraska	2020-07-19		0	0		45						0.0	0.0		http://dhhs.ne.gov/
-Grant_County,_New_Mexico	Grant County, New Mexico	2020-07-19		0	47								0.0	2.0		https://cv.nmhealth.org
+Grant_County,_New_Mexico	Grant County, New Mexico	2020-07-19		0	49								0.0	2.29		https://cv.nmhealth.org
 Grant_County,_North_Dakota	Grant County, North Dakota	2020-07-19		0	4	3	253						0.0	0.14	0.0	https://www.health.nd.gov/
 Grant_County,_Oklahoma	Grant County, Oklahoma	2020-07-19		0	4	2							0.0	0.29	0.0	https://coronavirus.health.ok.gov/
 Grant_County,_Oregon	Grant County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	0	1		436						0.0	0.0		https://govstatus.egov.com/OR-OHA-COVID-19
@@ -2455,7 +2455,7 @@ Haryana	Haryana	2020-07-19	2020-07-19T08:00:00.000Z	344	25547	19318		750	17	600	
 Haskell_County,_Oklahoma	Haskell County, Oklahoma	2020-07-19		0	21	15							0.0	0.71	0.57	https://coronavirus.health.ok.gov/
 Haskell_County,_Texas	Haskell County, Texas	2020-07-19		0	24	8							0.0	2.57	0.43	https://www.dshs.state.tx.us/
 Hatfield,_Massachusetts	Hatfield, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		18		417	0			0			0.14		https://www.mass.gov/
-Hauts-de-France	Hauts-de-France	2020-07-19		1888		6739							1.71		16.43	https://www.santepubliquefrance.fr/
+Hauts-de-France	Hauts-de-France	2020-07-19		1888		6739			0	0		0	1.71		16.43	https://www.santepubliquefrance.fr/
 Haverhill,_Massachusetts	Haverhill, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		1250		12463	0			0			0.43		https://www.mass.gov/
 Hawaii	Hawaii	2020-07-19	2020-07-18T22:00:00.000Z	24	1354	1019		20			0		0.71	19.14	18.43	https://health.hawaii.gov
 Hawaii_County,_Hawaii	Hawaii County, Hawaii	2020-07-19	2020-07-18T22:00:00.000Z		111									1.43		https://health.hawaii.gov/
@@ -2588,7 +2588,7 @@ Iceland	Iceland	2020-07-19	2020-07-19T11:00:00.000Z	10	1930	1907	113204	8	0	5	2	
 Ida_County,_Iowa	Ida County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	0	24	21	781	0	0	0	0	0	0.0	0.14	0.0	https://idph.iowa.gov
 Idaho	Idaho	2020-07-19	2020-07-18T23:00:00.000Z	119	14302			550			0		2.43	485.71		https://coronavirus.idaho.gov/
 Idaho_County,_Idaho	Idaho County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	0	16								0.0	0.71		https://coronavirus.idaho.gov/
-%C3%8Ele-de-France	Île-de-France	2020-07-19		7520		28572							3.14		28.0	https://www.santepubliquefrance.fr/
+%C3%8Ele-de-France	Île-de-France	2020-07-19		7520		28572			0	0		0	3.14		28.0	https://www.santepubliquefrance.fr/
 Illinois	Illinois	2020-07-19		7295	161575		2244511						15.43	1094.14		http://www.dph.illinois.gov/
 Imperial_County,_California	Imperial County, California	2020-07-19	2020-07-18T11:00:00.000Z	161	8531	7310	41803						3.71	100.57	93.57	http://www.icphd.org/
 Imst_District	Imst District	2020-07-19	2020-07-19T20:00:00.000Z		297			0			0			0.14		https://info.gesundheitsministerium.at/
@@ -2850,7 +2850,7 @@ Kufstein_District	Kufstein District	2020-07-19	2020-07-19T20:00:00.000Z		529			0
 Kurgan_Oblast	Kurgan Oblast	2020-07-19	2020-07-19T07:45:00.000Z	3	1752	837		49	0	20	-1	0	0.14	54.86	27.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kursk_Oblast	Kursk Oblast	2020-07-19	2020-07-19T07:45:00.000Z	49	5861	4132		33	0	0	4	0	0.43	32.43	45.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kusilvak_Census_Area,_Alaska	Kusilvak Census Area, Alaska	2020-07-19			3									0.14		http://www.dhss.alaska.gov/
-Kuwait	Kuwait	2020-07-19		408	59204	49687			3			1	2.57	615.71	725.29	https://corona.e.gov.kw/
+Kuwait	Kuwait	2020-07-19		408	59204	49687		300	3	667	-383	1	2.57	615.71	725.29	https://corona.e.gov.kw/
 Kyrgyzstan	Kyrgyzstan	2020-07-19		923	24984				0			-728	113.0	2050.71		https://www.who.int/
 Kyzylorda_Region	Kyzylorda Region	2020-07-19		7	2211	1471		49	0	36	-47	0	0.57	68.71	37.86	https://www.coronavirus2020.kz/
 La_Ca%C3%B1ada_Flintridge,_California	La Cañada Flintridge, California	2020-07-19	2020-07-18T03:00:00.000Z	6	103								0.0	2.14		http://publichealth.lacounty.gov/
@@ -2943,10 +2943,10 @@ Lawrence_County,_Ohio	Lawrence County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	
 Lawrence_County,_Pennsylvania	Lawrence County, Pennsylvania	2020-07-19		9	226		4209						0.0	7.43		https://www.health.pa.gov/
 Lawrence_County,_South_Dakota	Lawrence County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	22	19	1797	0	0	0	-1	0	0.0	0.29	0.0	https://doh.sd.gov/
 Lawrence,_Massachusetts	Lawrence, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3686		22805	0			0			6.71		https://www.mass.gov/
-Lazio	Lazio	2020-07-19		851	8436	6713	387113				17		1.0	17.43	22.29	http://www.salute.gov.it/
+Lazio	Lazio	2020-07-19		851	8436	6713	387113	17	1	10	-3	0	1.0	17.43	22.29	http://www.salute.gov.it/
 Le_Flore_County,_Oklahoma	Le Flore County, Oklahoma	2020-07-19		1	87	51							0.0	4.29	2.29	https://coronavirus.health.ok.gov/
 Le_Sueur_County,_Minnesota	Le Sueur County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	1	153			3	0		1	0	0.0	3.0		https://www.health.state.mn.us/
-Lea_County,_New_Mexico	Lea County, New Mexico	2020-07-19		0	343								0.0	9.0		https://cv.nmhealth.org
+Lea_County,_New_Mexico	Lea County, New Mexico	2020-07-19		0	378								0.0	14.0		https://cv.nmhealth.org
 Leake_County,_Mississippi	Leake County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	21	677			0	0		-2	-1	0.14	6.14		https://msdh.ms.gov/
 Leavenworth_County,_Kansas	Leavenworth County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		1274			0			0			6.0		https://www.coronavirus.kdheks.gov
 Lebanon	Lebanon	2020-07-19	2020-07-19T17:40:00.000Z	40	2859	1515	213231	84	0	30	9	0	0.57	75.0	13.57	https://corona.ministryinfo.gov.lb/
@@ -3007,7 +3007,7 @@ Liechtenstein	Liechtenstein	2020-07-19	2020-07-19T11:41:32.000Z	1	86				0			0	0.
 Lienz_District	Lienz District	2020-07-19	2020-07-19T20:00:00.000Z		156			0			0			0.14		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-07-19	2020-07-19T20:00:00.000Z		96			0			0			0.86		https://info.gesundheitsministerium.at/
 Lightship_Nantucket	Lightship Nantucket	2020-07-19	2020-07-19T16:00:00.000Z		27			0			-2			0.71		https://www.mass.gov/
-Liguria	Liguria	2020-07-19		1565	10093	8324	171613				23		0.86	8.86	13.0	http://www.salute.gov.it/
+Liguria	Liguria	2020-07-19		1565	10093	8324	171613	23	0	19	5	0	0.86	8.86	13.0	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2020-07-19	2020-07-19T20:00:00.000Z		53			0			0			0.0		https://info.gesundheitsministerium.at/
 Limestone_County,_Alabama	Limestone County, Alabama	2020-07-19		5	844		7635						0.29	29.29		https://covid19.alabama.gov/
 Limestone_County,_Texas	Limestone County, Texas	2020-07-19		1	114	55							0.0	1.71	1.86	https://www.dshs.state.tx.us/
@@ -3023,13 +3023,13 @@ Lincoln_County,_Missouri	Lincoln County, Missouri	2020-07-19		1	153								0.0	4
 Lincoln_County,_Montana	Lincoln County, Montana	2020-07-19		1	45								0.0	4.43		https://dphhs.mt.gov/
 Lincoln_County,_Nebraska	Lincoln County, Nebraska	2020-07-19		2	65		4165						0.0	-0.14		http://dhhs.ne.gov/
 Lincoln_County,_Nevada	Lincoln County, Nevada	2020-07-19	2020-07-18T00:00:00.000Z	0	3	0							0.0	0.14	0.0	https://lincolncountynv.org/
-Lincoln_County,_New_Mexico	Lincoln County, New Mexico	2020-07-19		0	34								0.0	1.43		https://cv.nmhealth.org
+Lincoln_County,_New_Mexico	Lincoln County, New Mexico	2020-07-19		0	36								0.0	1.71		https://cv.nmhealth.org
 Lincoln_County,_North_Carolina	Lincoln County, North Carolina	2020-07-19		2	547								0.0	19.0		https://www.ncdhhs.gov/
 Lincoln_County,_Oklahoma	Lincoln County, Oklahoma	2020-07-19		2	58	39							0.0	2.0	1.29	https://coronavirus.health.ok.gov/
 Lincoln_County,_Oregon	Lincoln County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	7	365		5751						0.29	0.43		https://govstatus.egov.com/OR-OHA-COVID-19
 Lincoln_County,_South_Dakota	Lincoln County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	1	413	375	5756	2	0	5	-3	0	0.0	2.43	3.43	https://doh.sd.gov/
 Lincoln_County,_Washington	Lincoln County, Washington	2020-07-19		0	5								0.0	0.14		https://coronavirus.wa.gov/
-Lincoln_County,_West_Virginia	Lincoln County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	20	8	2095	-1	0	0	-3	0	0.0	1.57	0.0	https://dhhr.wv.gov/
+Lincoln_County,_West_Virginia	Lincoln County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	20	8	2119	-1	0	0	-3	0	0.0	1.57	0.0	https://dhhr.wv.gov/
 Lincoln_County,_Wisconsin	Lincoln County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	0	35			2	0		0	0	0.0	1.86		https://www.dhs.wisconsin.gov/
 Lincoln_County,_Wyoming	Lincoln County, Wyoming	2020-07-19	2020-07-19T21:00:00.000Z	0	42	43		0	0	1	-2	0	0.0	1.14	3.14	https://health.wyo.gov/
 Lincoln_Parish,_Louisiana	Lincoln Parish, Louisiana	2020-07-19		20	505								0.14	9.57		http://ldh.la.gov/
@@ -3067,8 +3067,8 @@ Logan_County,_Nebraska	Logan County, Nebraska	2020-07-19		0	0		60						0.0	0.0		
 Logan_County,_North_Dakota	Logan County, North Dakota	2020-07-19		0	1	1	359						0.0	0.0	0.14	https://www.health.nd.gov/
 Logan_County,_Ohio	Logan County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	1	82			2	0		0	0	0.0	1.57		https://coronavirus.ohio.gov/
 Logan_County,_Oklahoma	Logan County, Oklahoma	2020-07-19		1	120	84							0.0	3.14	3.71	https://coronavirus.health.ok.gov/
-Logan_County,_West_Virginia	Logan County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	45	26	3696	2	0	0	1	0	0.0	0.71	0.14	https://dhhr.wv.gov/
-Lombardy	Lombardy	2020-07-19		16788	95492	71464	1202207				33		5.71	63.29	166.71	http://www.salute.gov.it/
+Logan_County,_West_Virginia	Logan County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	45	26	3737	2	0	0	1	0	0.0	0.71	0.14	https://dhhr.wv.gov/
+Lombardy	Lombardy	2020-07-19		16788	95492	71464	1202207	33	0	48	-55	-10	5.71	63.29	166.71	http://www.salute.gov.it/
 Lomita,_California	Lomita, California	2020-07-19	2020-07-18T03:00:00.000Z	7	149								0.0	5.43		http://publichealth.lacounty.gov/
 London_Borough_of_Barking_and_Dagenham	London Borough of Barking and Dagenham	2020-07-19			721			0			0			0.89		https://www.gov.uk/
 London_Borough_of_Barnet	London Borough of Barnet	2020-07-19			1626			0			0			2.67		https://www.gov.uk/
@@ -3127,7 +3127,7 @@ Lucas_County,_Ohio	Lucas County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	307	34
 Luce_County,_Michigan	Luce County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	3			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Ludlow,_Massachusetts	Ludlow, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		129		2837	0			0			0.43		https://www.mass.gov/
 Lumpkin_County,_Georgia	Lumpkin County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	4	204			1	0		-9	0	0.0	4.86		https://dph.georgia.gov/
-Luna_County,_New_Mexico	Luna County, New Mexico	2020-07-19		3	144								0.0	3.14		https://cv.nmhealth.org
+Luna_County,_New_Mexico	Luna County, New Mexico	2020-07-19		3	145								0.0	3.29		https://cv.nmhealth.org
 Lunenburg_County,_Virginia	Lunenburg County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	42								0.0	0.14		http://www.vdh.virginia.gov/
 Lunenburg,_Massachusetts	Lunenburg, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		66		1482	0			0			0.29		https://www.mass.gov/
 Luton	Luton	2020-07-19			1499			3			0			7.43		https://www.gov.uk/
@@ -3211,7 +3211,7 @@ Mansfield,_Massachusetts	Mansfield, Massachusetts	2020-07-19	2020-07-19T20:00:00
 Manteigas	Manteigas	2020-07-19	2020-07-18T23:00:00.000Z		7			0			0			0.0		https://covid19.min-saude.pt/
 Marathon_County,_Wisconsin	Marathon County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	2	375			12	0		-8	0	0.14	13.86		https://www.dhs.wisconsin.gov/
 Marblehead,_Massachusetts	Marblehead, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		240		3552	0			0			0.43		https://www.mass.gov/
-Marche	Marche	2020-07-19		987	6811	5674	155851				0		0.0	1.0	3.43	http://www.salute.gov.it/
+Marche	Marche	2020-07-19		987	6811	5674	155851	-1	0	4	-4	0	0.0	1.0	3.43	http://www.salute.gov.it/
 Marco_de_Canaveses	Marco de Canaveses	2020-07-19	2020-07-18T23:00:00.000Z		114			0			0			0.29		https://covid19.min-saude.pt/
 Marengo_County,_Alabama	Marengo County, Alabama	2020-07-19		11	419		3278						0.0	9.29		https://covid19.alabama.gov/
 Mari_El	Mari El	2020-07-19	2020-07-19T07:45:00.000Z	31	3493	2948		29	0	0	1	0	0.71	28.14	8.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -3234,7 +3234,7 @@ Marion_County,_Ohio	Marion County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	39	2
 Marion_County,_Oregon	Marion County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	57	2063		24516						0.57	41.86		https://govstatus.egov.com/OR-OHA-COVID-19
 Marion_County,_South_Carolina	Marion County, South Carolina	2020-07-19		11	386								0.29	9.29		https://www.scdhec.gov/
 Marion_County,_Texas	Marion County, Texas	2020-07-19		2	71	27							0.14	4.43	0.29	https://www.dshs.state.tx.us/
-Marion_County,_West_Virginia	Marion County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	2	134	55	7333	4	0	1	-2	0	0.0	3.71	0.86	https://dhhr.wv.gov/
+Marion_County,_West_Virginia	Marion County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	2	134	55	7438	4	0	1	-2	0	0.0	3.71	0.86	https://dhhr.wv.gov/
 Marion,_Massachusetts	Marion, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		13		787	0			0			0.0		https://www.mass.gov/
 Mariposa_County,_California	Mariposa County, California	2020-07-19	2020-07-19T16:10:00.000Z	1	36	30	3127						0.0	0.57	0.71	http://www.mariposacounty.org/
 Marlboro_County,_South_Carolina	Marlboro County, South Carolina	2020-07-19		4	358								0.0	3.43		https://www.scdhec.gov/
@@ -3251,7 +3251,7 @@ Marshall_County,_Minnesota	Marshall County, Minnesota	2020-07-19	2020-07-19T16:0
 Marshall_County,_Mississippi	Marshall County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	4	375			5	0		-31	0	0.14	11.86		https://msdh.ms.gov/
 Marshall_County,_Oklahoma	Marshall County, Oklahoma	2020-07-19		0	50	42							0.0	1.0	1.0	https://coronavirus.health.ok.gov/
 Marshall_County,_South_Dakota	Marshall County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	5	4	356	0	0	0	0	0	0.0	0.0	0.0	https://doh.sd.gov/
-Marshall_County,_West_Virginia	Marshall County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	82	50	3586	2	0	1	-1	0	0.0	2.57	1.57	https://dhhr.wv.gov/
+Marshall_County,_West_Virginia	Marshall County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	82	50	3796	2	0	1	-1	0	0.0	2.57	1.57	https://dhhr.wv.gov/
 Marshfield,_Massachusetts	Marshfield, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		171		3435	0			0			0.29		https://www.mass.gov/
 Martin_County,_Florida	Martin County, Florida	2020-07-19		48	3108		21773						0.86	53.43		https://floridahealthcovid19.gov/
 Martin_County,_Kentucky	Martin County, Kentucky	2020-07-19		0	13								0.0	0.14		https://govstatus.egov.com/
@@ -3266,14 +3266,14 @@ Mason_County,_Kentucky	Mason County, Kentucky	2020-07-19		1	42								0.0	0.43		
 Mason_County,_Michigan	Mason County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	82			1	0	0	1	0	0.0	0.86		https://www.michigan.gov/
 Mason_County,_Texas	Mason County, Texas	2020-07-19		0	38	34							0.0	0.43	0.14	https://www.dshs.state.tx.us/
 Mason_County,_Washington	Mason County, Washington	2020-07-19		1	75								0.0	2.14		https://coronavirus.wa.gov/
-Mason_County,_West_Virginia	Mason County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	27	19	1804	0	0	0	-1	0	0.0	0.43	0.0	https://dhhr.wv.gov/
+Mason_County,_West_Virginia	Mason County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	27	19	1832	0	0	0	-1	0	0.0	0.43	0.0	https://dhhr.wv.gov/
 Massac_County,_Illinois	Massac County, Illinois	2020-07-19		0	19		1296						0.0	0.43		http://www.dph.illinois.gov/
 Massachusetts	Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z	8213	113534		1120048	218	12	12	41	-5	14.71	276.71		https://www.mass.gov/
 Matagorda_County,_Texas	Matagorda County, Texas	2020-07-19		5	452	226							0.0	13.43	21.43	https://www.dshs.state.tx.us/
 Matanuska-Susitna_Borough,_Alaska	Matanuska-Susitna Borough, Alaska	2020-07-19			183									5.29		http://www.dhss.alaska.gov/
 Mathews_County,_Virginia	Mathews County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	8								0.0	0.14		http://www.vdh.virginia.gov/
-Mato_Grosso	Mato Grosso	2020-07-19	2020-07-18T22:00:00.000Z	1305	32707								36.86	613.71		https://covid.saude.gov.br/
-Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-07-19	2020-07-18T22:00:00.000Z	216	16006								7.86	401.29		https://covid.saude.gov.br/
+Mato_Grosso	Mato Grosso	2020-07-19	2020-07-19T22:00:00.000Z	1332	34136			1429	27		1693	-10	40.71	817.86		https://covid.saude.gov.br/
+Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-07-19	2020-07-19T22:00:00.000Z	222	16403			397	6		196	-7	8.71	458.0		https://covid.saude.gov.br/
 Matosinhos	Matosinhos	2020-07-19	2020-07-18T23:00:00.000Z		1304			0			0			1.71		https://covid19.min-saude.pt/
 Mattapoisett,_Massachusetts	Mattapoisett, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		37		785	0			0			0.0		https://www.mass.gov/
 Mattersburg_District	Mattersburg District	2020-07-19	2020-07-19T20:00:00.000Z		65			1			-1			1.0		https://info.gesundheitsministerium.at/
@@ -3296,7 +3296,7 @@ McCurtain_County,_Oklahoma	McCurtain County, Oklahoma	2020-07-19		13	681	543				
 McDonald_County,_Missouri	McDonald County, Missouri	2020-07-19		1	817								0.0	15.71		https://health.mo.gov/
 McDonough_County,_Illinois	McDonough County, Illinois	2020-07-19		15	115		3139						0.0	1.0		http://www.dph.illinois.gov/
 McDowell_County,_North_Carolina	McDowell County, North Carolina	2020-07-19		3	373								0.14	8.0		https://www.ncdhhs.gov/
-McDowell_County,_West_Virginia	McDowell County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	12	6	1560	0	0	0	0	0	0.0	0.43	0.0	https://dhhr.wv.gov/
+McDowell_County,_West_Virginia	McDowell County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	12	6	1581	0	0	0	0	0	0.0	0.43	0.0	https://dhhr.wv.gov/
 McDuffie_County,_Georgia	McDuffie County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	8	197			2	0		-11	0	0.0	5.86		https://dph.georgia.gov/
 McHenry_County,_Illinois	McHenry County, Illinois	2020-07-19		107	2463		32825						0.71	28.14		http://www.dph.illinois.gov/
 McHenry_County,_North_Dakota	McHenry County, North Dakota	2020-07-19		1	11	5	589						0.0	0.29	0.29	https://www.health.nd.gov/
@@ -3305,7 +3305,7 @@ McIntosh_County,_North_Dakota	McIntosh County, North Dakota	2020-07-19		0	9	6	76
 McIntosh_County,_Oklahoma	McIntosh County, Oklahoma	2020-07-19		1	99	83							0.0	1.86	3.43	https://coronavirus.health.ok.gov/
 McKean_County,_Pennsylvania	McKean County, Pennsylvania	2020-07-19		1	25		2658						0.0	0.71		https://www.health.pa.gov/
 McKenzie_County,_North_Dakota	McKenzie County, North Dakota	2020-07-19		0	52	32	1330						0.0	2.71	0.86	https://www.health.nd.gov/
-McKinley_County,_New_Mexico	McKinley County, New Mexico	2020-07-19		198	3743								1.14	15.57		https://cv.nmhealth.org
+McKinley_County,_New_Mexico	McKinley County, New Mexico	2020-07-19		199	3754								1.29	17.14		https://cv.nmhealth.org
 McLean_County,_Illinois	McLean County, Illinois	2020-07-19		15	386		19097						0.0	9.14		http://www.dph.illinois.gov/
 McLean_County,_Kentucky	McLean County, Kentucky	2020-07-19		1	34								0.0	0.86		https://govstatus.egov.com/
 McLean_County,_North_Dakota	McLean County, North Dakota	2020-07-19		0	14	11	1601						0.0	0.43	0.0	https://www.health.nd.gov/
@@ -3350,7 +3350,7 @@ Mercer_County,_New_Jersey	Mercer County, New Jersey	2020-07-19		565	7825								
 Mercer_County,_North_Dakota	Mercer County, North Dakota	2020-07-19		0	12	9	949						0.0	0.43	0.29	https://www.health.nd.gov/
 Mercer_County,_Ohio	Mercer County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	11	345			11	0		-3	0	0.14	6.14		https://coronavirus.ohio.gov/
 Mercer_County,_Pennsylvania	Mercer County, Pennsylvania	2020-07-19		8	231		6342						0.29	8.86		https://www.health.pa.gov/
-Mercer_County,_West_Virginia	Mercer County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	72	29	5712	3	0	0	2	0	0.0	1.43	0.57	https://dhhr.wv.gov/
+Mercer_County,_West_Virginia	Mercer County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	72	29	5762	3	0	0	2	0	0.0	1.43	0.57	https://dhhr.wv.gov/
 Meriwether_County,_Georgia	Meriwether County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	4	282			2	0		-1	0	0.14	4.43		https://dph.georgia.gov/
 Merrick_County,_Nebraska	Merrick County, Nebraska	2020-07-19		0	41		634						0.0	0.29		http://dhhs.ne.gov/
 Merrimac,_Massachusetts	Merrimac, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		35		838	0			0			0.0		https://www.mass.gov/
@@ -3406,12 +3406,12 @@ Mills_County,_Texas	Mills County, Texas	2020-07-19		0	7	1							0.0	0.0	0.0	http
 Millville,_Massachusetts	Millville, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		22		365	0			0			0.14		https://www.mass.gov/
 Milton,_Massachusetts	Milton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		307		4049	0			0			0.29		https://www.mass.gov/
 Milwaukee_County,_Wisconsin	Milwaukee County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	411	15985			353	0		84	-7	1.86	293.86		https://www.dhs.wisconsin.gov/
-Minas_Gerais	Minas Gerais	2020-07-19	2020-07-18T22:00:00.000Z	1964	90875								55.43	2146.29		https://covid.saude.gov.br/
+Minas_Gerais	Minas Gerais	2020-07-19	2020-07-19T22:00:00.000Z	1982	92972			2097	18		-1507	-42	58.0	2445.86		https://covid.saude.gov.br/
 Miner_County,_South_Dakota	Miner County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	10	10	231	0	0	0	0	0	0.0	0.0	0.29	https://doh.sd.gov/
 Mineral_County,_Colorado	Mineral County, Colorado	2020-07-19			17									0.0		https://covid19.colorado.gov/
 Mineral_County,_Nevada	Mineral County, Nevada	2020-07-19	2020-07-18T00:00:00.000Z	0	10	6							0.0	0.57	0.0	http://mineral.nv.gov/
-Mineral_County,_West_Virginia	Mineral County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	3	71	53	3166	0	0	0	-2	0	0.0	0.71	0.29	https://dhhr.wv.gov/
-Mingo_County,_West_Virginia	Mingo County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	2	53	27	2115	3	0	0	1	0	0.0	3.29	1.14	https://dhhr.wv.gov/
+Mineral_County,_West_Virginia	Mineral County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	3	71	53	3218	0	0	0	-2	0	0.0	0.71	0.29	https://dhhr.wv.gov/
+Mingo_County,_West_Virginia	Mingo County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	2	53	27	2145	3	0	0	1	0	0.0	3.29	1.14	https://dhhr.wv.gov/
 Minidoka_County,_Idaho	Minidoka County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	0	271								0.0	5.14		https://coronavirus.idaho.gov/
 Minnehaha_County,_South_Dakota	Minnehaha County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	62	3854	3563	26639	8	1	9	-16	1	0.29	14.0	13.29	https://doh.sd.gov/
 Minnesota	Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	1541	46204	38460	853188	734	3	688	277	-2	5.57	560.43	482.86	https://www.health.state.mn.us/
@@ -3440,7 +3440,7 @@ Mohave_County,_Arizona	Mohave County, Arizona	2020-07-19	2020-07-19T15:00:00.000
 Moimenta_da_Beira	Moimenta da Beira	2020-07-19	2020-07-18T23:00:00.000Z		15			0			0			0.0		https://covid19.min-saude.pt/
 Moita	Moita	2020-07-19	2020-07-18T23:00:00.000Z		365			0			0			6.71		https://covid19.min-saude.pt/
 Moldova	Moldova	2020-07-19	2020-07-19T08:15:00.000Z	684	20980	14376	29983	186	5	193	-114	-4	6.0	228.29	244.14	https://ansp.md/
-Molise	Molise	2020-07-19		23	446	415	25677				0		0.0	0.0	0.71	http://www.salute.gov.it/
+Molise	Molise	2020-07-19		23	446	415	25677	0	0	0	0	0	0.0	0.0	0.71	http://www.salute.gov.it/
 Monaco	Monaco	2020-07-19	2020-07-19T11:41:32.000Z	5	109				0			0	0.0	0.0		https://www.ecdc.europa.eu/
 Monchique	Monchique	2020-07-19	2020-07-18T23:00:00.000Z		14			0			0			0.29		https://covid19.min-saude.pt/
 Mongolia	Mongolia	2020-07-19	2020-07-19T11:41:32.000Z	0	287				0			0	0.0	8.14		https://www.ecdc.europa.eu/
@@ -3448,7 +3448,7 @@ Moniteau_County,_Missouri	Moniteau County, Missouri	2020-07-19		2	71								0.14
 Monmouth_County,_New_Jersey	Monmouth County, New Jersey	2020-07-19		747	9659								1.57	25.29		https://www.nj.gov/
 Mono_County,_California	Mono County, California	2020-07-19	2020-07-18T00:00:00.000Z	1	76		2445						0.0	3.57		https://coronavirus.monocounty.ca.gov/
 Monona_County,_Iowa	Monona County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	0	81	64	1018	2	0	0	2	0	0.0	0.43	1.29	https://idph.iowa.gov
-Monongalia_County,_West_Virginia	Monongalia County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	5	733	347	14389	40	0	20	1	0	0.0	29.71	21.71	https://dhhr.wv.gov/
+Monongalia_County,_West_Virginia	Monongalia County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	5	733	347	15118	40	0	20	1	0	0.0	29.71	21.71	https://dhhr.wv.gov/
 Monroe_County,_Alabama	Monroe County, Alabama	2020-07-19		3	312		2679						0.0	7.43		https://covid19.alabama.gov/
 Monroe_County,_Arkansas	Monroe County, Arkansas	2020-07-19		0	29	22	974						0.0	1.14	1.0	https://www.healthy.arkansas.gov/
 Monroe_County,_Florida	Monroe County, Florida	2020-07-19		6	859		9457						0.0	41.0		https://floridahealthcovid19.gov/
@@ -3462,7 +3462,7 @@ Monroe_County,_Missouri	Monroe County, Missouri	2020-07-19		0	7								0.0	0.29	
 Monroe_County,_New_York	Monroe County, New York	2020-07-19	2020-07-19T14:00:00.000Z	249	4401		182712	18	1		-12	1	0.29	32.0		https://coronavirus.health.ny.gov/
 Monroe_County,_Ohio	Monroe County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	17	89			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Monroe_County,_Pennsylvania	Monroe County, Pennsylvania	2020-07-19		117	1499		14827						0.86	4.0		https://www.health.pa.gov/
-Monroe_County,_West_Virginia	Monroe County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	16	12	1418	0	0	0	-2	0	0.0	0.29	0.0	https://dhhr.wv.gov/
+Monroe_County,_West_Virginia	Monroe County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	16	12	1436	0	0	0	-2	0	0.0	0.29	0.0	https://dhhr.wv.gov/
 Monroe_County,_Wisconsin	Monroe County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	1	161			2	0		-1	0	0.0	3.86		https://www.dhs.wisconsin.gov/
 Monroe,_Massachusetts	Monroe, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		0		11	0			0			0.0		https://www.mass.gov/
 Monrovia,_California	Monrovia, California	2020-07-19	2020-07-18T03:00:00.000Z	31	437								0.29	8.0		http://publichealth.lacounty.gov/
@@ -3516,7 +3516,7 @@ Morgan_County,_Kentucky	Morgan County, Kentucky	2020-07-19		0	22								0.0	1.0	
 Morgan_County,_Missouri	Morgan County, Missouri	2020-07-19		0	31								0.0	0.43		https://health.mo.gov/
 Morgan_County,_Ohio	Morgan County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	0	14			0	0		0	0	0.0	0.43		https://coronavirus.ohio.gov/
 Morgan_County,_Utah	Morgan County, Utah	2020-07-19	2020-07-18T00:00:00.000Z	0	36	19							0.0	0.86	0.43	http://www.webermorganhealth.org/
-Morgan_County,_West_Virginia	Morgan County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	20	20	1473	0	0	0	-1	0	0.0	0.14	0.0	https://dhhr.wv.gov/
+Morgan_County,_West_Virginia	Morgan County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	20	20	1491	0	0	0	-1	0	0.0	0.14	0.0	https://dhhr.wv.gov/
 Morocco	Morocco	2020-07-19	2020-07-19T17:00:00.000Z	273	17236	14921	992090	221	5	301	-68	1	3.29	213.0	376.86	http://www.covidmaroc.ma/
 Morrill_County,_Nebraska	Morrill County, Nebraska	2020-07-19		0	53		389						0.0	0.14		http://dhhs.ne.gov/
 Morris_County,_Kansas	Morris County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		6			0			0			0.14		https://www.coronavirus.kdheks.gov
@@ -3591,7 +3591,7 @@ New_Bedford,_Massachusetts	New Bedford, Massachusetts	2020-07-19	2020-07-19T20:0
 New_Braintree,_Massachusetts	New Braintree, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		86	0			0			0.0		https://www.mass.gov/
 New_Brunswick	New Brunswick	2020-07-19	2020-07-19T15:00:00.000Z	2	168	163	42835	0	0	0	0	0	0.0	0.29	0.0	https://www.canada.ca/
 New_Castle_County,_Delaware	New Castle County, Delaware	2020-07-19	2020-07-19T15:18:00.000Z	250	6070	3183	80415	42	0	0	-5	-1	0.14	44.43	17.57	https://dhss.delaware.gov
-New_Hampshire	New Hampshire	2020-07-19	2020-07-19T13:00:00.000Z	398	6203	5251	167802	15	2	30	-8	1	1.0	21.29	32.0	https://www.nh.gov/
+New_Hampshire	New Hampshire	2020-07-19	2020-07-19T13:00:00.000Z	398	6203	5251	168844	15	2	30	-8	1	1.0	21.29	32.0	https://www.nh.gov/
 New_Hanover_County,_North_Carolina	New Hanover County, North Carolina	2020-07-19		11	1779								0.57	46.86		https://www.ncdhhs.gov/
 New_Haven_County,_Connecticut	New Haven County, Connecticut	2020-07-19	2020-07-19T14:00:00.000Z	1090	12733			0	0		0	0	1.57	28.71		https://portal.ct.gov/
 New_Jersey	New Jersey	2020-07-19		13732	176814		288512						19.71	216.57		https://www.nj.gov/
@@ -3599,7 +3599,7 @@ New_Kent_County,_Virginia	New Kent County, Virginia	2020-07-19	2020-07-19T13:00:
 New_London_County,_Connecticut	New London County, Connecticut	2020-07-19	2020-07-19T14:00:00.000Z	102	1347			0	0		0	0	0.0	3.57		https://portal.ct.gov/
 New_Madrid_County,_Missouri	New Madrid County, Missouri	2020-07-19		1	101								0.0	7.0		https://health.mo.gov/
 New_Marlborough,_Massachusetts	New Marlborough, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		7		103	0			0			0.0		https://www.mass.gov/
-New_Mexico	New Mexico	2020-07-19		569	16736	6736	460664						3.43	244.0	59.14	https://cv.nmhealth.org
+New_Mexico	New Mexico	2020-07-19		571	16971	6764	469215						3.71	277.57	63.14	https://cv.nmhealth.org
 New_Orleans	New Orleans	2020-07-19		545	9265								0.71	85.71		http://ldh.la.gov/
 New_Salem,_Massachusetts	New Salem, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		105	0			0			0.0		https://www.mass.gov/
 New_Shoreham,_Rhode_Island	New Shoreham, Rhode Island	2020-07-19	2020-07-15T00:00:00.000Z		0		154							0.0		https://health.ri.gov/
@@ -3624,7 +3624,7 @@ Nez_Perce_County,_Idaho	Nez Perce County, Idaho	2020-07-19	2020-07-18T17:00:00.0
 Niagara_County,_New_York	Niagara County, New York	2020-07-19	2020-07-19T14:00:00.000Z	86	1382		45059	7	0		3	-1	0.14	6.0		https://coronavirus.health.ny.gov/
 Nicaragua	Nicaragua	2020-07-19	2020-07-19T11:41:32.000Z	99	3147				0			0	1.14	43.0		https://www.ecdc.europa.eu/
 Nicholas_County,_Kentucky	Nicholas County, Kentucky	2020-07-19		0	14								0.0	0.29		https://govstatus.egov.com/
-Nicholas_County,_West_Virginia	Nicholas County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	20	14	2350	0	0	0	-1	0	0.0	0.0	0.71	https://dhhr.wv.gov/
+Nicholas_County,_West_Virginia	Nicholas County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	20	14	2365	0	0	0	-1	0	0.0	0.0	0.71	https://dhhr.wv.gov/
 Nicollet_County,_Minnesota	Nicollet County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	13	225			5	0		3	0	0.14	2.71		https://www.health.state.mn.us/
 Niger	Niger	2020-07-19	2020-07-19T11:41:32.000Z	69	1104				0			0	0.14	0.71		https://www.ecdc.europa.eu/
 Nigeria	Nigeria	2020-07-19	2020-07-19T11:41:32.000Z	778	36107				6			3	7.71	588.57		https://www.ecdc.europa.eu/
@@ -3645,7 +3645,7 @@ Norfolk_County,_Massachusetts	Norfolk County, Massachusetts	2020-07-19	2020-07-1
 Norfolk,_Massachusetts	Norfolk, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		28		2387	0			0			0.14		https://www.mass.gov/
 Norfolk,_Virginia	Norfolk, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	19	2155								0.43	86.71		http://www.vdh.virginia.gov/
 Norman_County,_Minnesota	Norman County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	0	22			0	0		0	0	0.0	0.14		https://www.health.state.mn.us/
-Normandy	Normandy	2020-07-19		439		1718							0.57		2.71	https://www.santepubliquefrance.fr/
+Normandy	Normandy	2020-07-19		439		1718			0	0		0	0.57		2.71	https://www.santepubliquefrance.fr/
 North_Adams,_Massachusetts	North Adams, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		47		1230	0			0			0.14		https://www.mass.gov/
 North_Andover,_Massachusetts	North Andover, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		358		5585	0			0			1.71		https://www.mass.gov/
 North_Attleborough,_Massachusetts	North Attleborough, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		263		3101	0			0			0.71		https://www.mass.gov/
@@ -3685,13 +3685,13 @@ Northwest_Territories	Northwest Territories	2020-07-19	2020-07-19T15:00:00.000Z	
 Norton,_Massachusetts	Norton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		137		2360	0			0			0.29		https://www.mass.gov/
 Norton,_Virginia	Norton, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	4								0.0	0.0		http://www.vdh.virginia.gov/
 Norwalk,_California	Norwalk, California	2020-07-19	2020-07-18T03:00:00.000Z	41	1891								0.86	41.71		http://publichealth.lacounty.gov/
-Norway	Norway	2020-07-19	2020-07-19T11:41:32.000Z	255	9015		397106		0			-1	0.43	7.14		https://www.ecdc.europa.eu/
+Norway	Norway	2020-07-19	2020-07-19T11:41:32.000Z	255	9015		397106	0	0	0	0	-1	0.43	7.14		https://www.ecdc.europa.eu/
 Norwell,_Massachusetts	Norwell, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		123		1473	0			0			0.14		https://www.mass.gov/
 Norwood,_Massachusetts	Norwood, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		584		5801	0			0			0.57		https://www.mass.gov/
 Nottingham	Nottingham	2020-07-19			1192			0			0			1.38		https://www.gov.uk/
 Nottinghamshire	Nottinghamshire	2020-07-19			3008			0			0			3.57		https://www.gov.uk/
 Nottoway_County,_Virginia	Nottoway County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	6	142								0.14	3.14		http://www.vdh.virginia.gov/
-Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-07-19		424		2217							0.29		2.0	https://www.santepubliquefrance.fr/
+Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-07-19		424		2217			0	0		0	0.29		2.0	https://www.santepubliquefrance.fr/
 Nova_Scotia	Nova Scotia	2020-07-19	2020-07-19T15:00:00.000Z	63	1067	1002	60546	0	0	0	0	0	0.0	0.14	0.29	https://www.canada.ca/
 Novgorod_Oblast	Novgorod Oblast	2020-07-19	2020-07-19T07:45:00.000Z	64	3530	1916		20	1	5	-1	1	1.71	22.0	53.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Novosibirsk_Oblast	Novosibirsk Oblast	2020-07-19	2020-07-19T07:45:00.000Z	168	8077	6148		118	5	134	4	2	3.71	114.71	140.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -3711,7 +3711,7 @@ Oakham,_Massachusetts	Oakham, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z	
 Oakland_County,_Michigan	Oakland County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	1114	13398			69	0	0	0	0	0.86	99.71		https://www.michigan.gov/
 Oberpullendorf_District	Oberpullendorf District	2020-07-19	2020-07-19T20:00:00.000Z		26			0			0			0.0		https://info.gesundheitsministerium.at/
 Oberwart_District	Oberwart District	2020-07-19	2020-07-19T20:00:00.000Z		145			0			0			0.14		https://info.gesundheitsministerium.at/
-Occitanie	Occitanie	2020-07-19		513		2926							0.0		1.43	https://www.santepubliquefrance.fr/
+Occitanie	Occitanie	2020-07-19		513		2926			0	0		0	0.0		1.43	https://www.santepubliquefrance.fr/
 Ocean_County,_New_Jersey	Ocean County, New Jersey	2020-07-19		935	9947								1.57	18.14		https://www.nj.gov/
 Oceana_County,_Michigan	Oceana County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	5	436			4	0	0	-6	0	0.0	4.57		https://www.michigan.gov/
 Ochiltree_County,_Texas	Ochiltree County, Texas	2020-07-19		2	62	51							0.0	-0.14	0.0	https://www.dshs.state.tx.us/
@@ -3728,7 +3728,7 @@ Ogle_County,_Illinois	Ogle County, Illinois	2020-07-19		5	338		6258						0.14	3.
 Oglethorpe_County,_Georgia	Oglethorpe County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	7	137			0	0		-6	0	0.0	4.43		https://dph.georgia.gov/
 Ohio	Ohio	2020-07-19	2020-07-19T18:00:00.000Z	3174	74932			1110	42		-432	22	16.57	1334.29		https://coronavirus.ohio.gov/
 Ohio_County,_Kentucky	Ohio County, Kentucky	2020-07-19		1	281								0.14	9.0		https://govstatus.egov.com/
-Ohio_County,_West_Virginia	Ohio County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	3	177	105	12178	3	0	0	3	0	0.14	4.14	1.71	https://dhhr.wv.gov/
+Ohio_County,_West_Virginia	Ohio County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	3	177	105	12460	3	0	0	3	0	0.14	4.14	1.71	https://dhhr.wv.gov/
 Okaloosa_County,_Florida	Okaloosa County, Florida	2020-07-19		15	1813		21222						0.71	75.43		https://floridahealthcovid19.gov/
 Okanogan_County,_Washington	Okanogan County, Washington	2020-07-19		2	323								0.0	17.14		https://coronavirus.wa.gov/
 Okeechobee_County,_Florida	Okeechobee County, Florida	2020-07-19		2	651		5009						0.0	17.71		https://floridahealthcovid19.gov/
@@ -3754,7 +3754,7 @@ Onslow_County,_North_Carolina	Onslow County, North Carolina	2020-07-19		6	558			
 Ontario	Ontario	2020-07-19	2020-07-19T15:00:00.000Z	2748	37440	33294	1779196	0	0	0	-166	-2	4.14	102.43	108.57	https://www.canada.ca/
 Ontario_County,_New_York	Ontario County, New York	2020-07-19	2020-07-19T14:00:00.000Z	27	324		22324	0	0		-5	0	0.14	3.43		https://coronavirus.health.ny.gov/
 Ontonagon_County,_Michigan	Ontonagon County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	1			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
-Orange_County,_California	Orange County, California	2020-07-19	2020-07-18	494	29603	13301	346071	702	25		0	0	10.14	698.29	443.43	https://www.cdph.ca.gov
+Orange_County,_California	Orange County, California	2020-07-19	2020-07-18	494	29603	13581	352457	415	0		-287	-25	10.14	698.29	483.43	https://www.cdph.ca.gov
 Orange_County,_Florida	Orange County, Florida	2020-07-19		120	23259		211478						5.71	751.14		https://floridahealthcovid19.gov/
 Orange_County,_New_York	Orange County, New York	2020-07-19	2020-07-19T14:00:00.000Z	404	10931		89796	10	0		-3	0	0.0	13.71		https://coronavirus.health.ny.gov/
 Orange_County,_North_Carolina	Orange County, North Carolina	2020-07-19		45	1102								0.29	20.14		https://www.ncdhhs.gov/
@@ -3781,7 +3781,7 @@ Oscoda_County,_Michigan	Oscoda County, Michigan	2020-07-19	2020-07-19T16:00:00.0
 Oslo	Oslo	2020-07-19	2020-07-19T11:00:00.000Z		2918			0			0			3.57		https://www.fhi.no/
 Oswego_County,_New_York	Oswego County, New York	2020-07-19	2020-07-19T14:00:00.000Z	3	229		21123	0	0		-2	0	0.0	1.29		https://coronavirus.health.ny.gov/
 Otero_County,_Colorado	Otero County, Colorado	2020-07-19		1	24								0.0	0.14		https://covid19.colorado.gov/
-Otero_County,_New_Mexico	Otero County, New Mexico	2020-07-19		10	100								0.14	3.29		https://cv.nmhealth.org
+Otero_County,_New_Mexico	Otero County, New Mexico	2020-07-19		10	102								0.14	3.57		https://cv.nmhealth.org
 Otis,_Massachusetts	Otis, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		129	0			0			0.0		https://www.mass.gov/
 Otoe_County,_Nebraska	Otoe County, Nebraska	2020-07-19		0	31		1741						0.0	0.57		http://dhhs.ne.gov/
 Otsego_County,_Michigan	Otsego County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	10	127			0	0	0	0	0	0.0	0.29		https://www.michigan.gov/
@@ -3844,7 +3844,7 @@ Pawtucket,_Rhode_Island	Pawtucket, Rhode Island	2020-07-19	2020-07-15T00:00:00.0
 Paxton,_Massachusetts	Paxton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		33		584	0			0			0.0		https://www.mass.gov/
 Payette_County,_Idaho	Payette County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	2	212								0.0	6.57		https://coronavirus.idaho.gov/
 Payne_County,_Oklahoma	Payne County, Oklahoma	2020-07-19		2	526	464							0.14	6.57	9.0	https://coronavirus.health.ok.gov/
-Pays_de_la_Loire	Pays de la Loire	2020-07-19		470		2135							0.0		2.57	https://www.santepubliquefrance.fr/
+Pays_de_la_Loire	Pays de la Loire	2020-07-19		470		2135			0	0		0	0.0		2.57	https://www.santepubliquefrance.fr/
 Peabody,_Massachusetts	Peabody, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		1013		10231	0			0			1.71		https://www.mass.gov/
 Peach_County,_Georgia	Peach County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	10	195			2	0		-7	0	0.0	6.71		https://dph.georgia.gov/
 Pearl_River_County,_Mississippi	Pearl River County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	32	363			8	0		-1	0	0.0	8.57		https://msdh.ms.gov/
@@ -3858,7 +3858,7 @@ Penafiel	Penafiel	2020-07-19	2020-07-18T23:00:00.000Z		189			0			0			0.57		https
 Pend_Oreille_County,_Washington	Pend Oreille County, Washington	2020-07-19		0	18								0.0	1.29		https://coronavirus.wa.gov/
 Pender_County,_North_Carolina	Pender County, North Carolina	2020-07-19		2	473								0.0	15.43		https://www.ncdhhs.gov/
 Pendleton_County,_Kentucky	Pendleton County, Kentucky	2020-07-19		0	26								0.0	0.57		https://govstatus.egov.com/
-Pendleton_County,_West_Virginia	Pendleton County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	19	15	851	0	0	0	-1	0	0.0	0.57	0.14	https://dhhr.wv.gov/
+Pendleton_County,_West_Virginia	Pendleton County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	19	15	860	0	0	0	-1	0	0.0	0.57	0.14	https://dhhr.wv.gov/
 Penela	Penela	2020-07-19	2020-07-18T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Peniche,_Portugal	Peniche, Portugal	2020-07-19	2020-07-18T23:00:00.000Z		50			0			0			0.43		https://covid19.min-saude.pt/
 Pennington_County,_Minnesota	Pennington County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	0	60			2	0		2	0	0.0	0.86		https://www.health.state.mn.us/
@@ -3873,7 +3873,7 @@ Perg_District	Perg District	2020-07-19	2020-07-19T20:00:00.000Z		330			7			5			2
 Perkins_County,_Nebraska	Perkins County, Nebraska	2020-07-19		0	0		120						0.0	0.0		http://dhhs.ne.gov/
 Perkins_County,_South_Dakota	Perkins County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	4	2	119	0	0	1	0	0	0.0	0.43	0.29	https://doh.sd.gov/
 Perm_Krai	Perm Krai	2020-07-19	2020-07-19T07:45:00.000Z	107	4982	3935		89	0	18	-1	-4	1.57	82.71	85.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Pernambuco	Pernambuco	2020-07-19	2020-07-18T22:00:00.000Z	5928	78509								47.57	862.71		https://covid.saude.gov.br/
+Pernambuco	Pernambuco	2020-07-19	2020-07-19T22:00:00.000Z	5984	79452			943	56		-143	-3	55.57	997.43		https://covid.saude.gov.br/
 Perquimans_County,_North_Carolina	Perquimans County, North Carolina	2020-07-19		2	44								0.0	0.71		https://www.ncdhhs.gov/
 Perry_County,_Alabama	Perry County, Alabama	2020-07-19		3	320		2047						0.14	10.0		https://covid19.alabama.gov/
 Perry_County,_Arkansas	Perry County, Arkansas	2020-07-19		0	39	32	1153						0.0	0.71	0.43	https://www.healthy.arkansas.gov/
@@ -3907,7 +3907,7 @@ Pickens_County,_Alabama	Pickens County, Alabama	2020-07-19		7	302		2319						0.1
 Pickens_County,_Georgia	Pickens County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	5	166			4	0		-20	0	0.0	7.29		https://dph.georgia.gov/
 Pickens_County,_South_Carolina	Pickens County, South Carolina	2020-07-19		14	1400								1.0	31.71		https://www.scdhec.gov/
 Pico_Rivera,_California	Pico Rivera, California	2020-07-19	2020-07-18T03:00:00.000Z	48	1465								0.43	27.29		http://publichealth.lacounty.gov/
-Piedmont	Piedmont	2020-07-19		4119	31536	26580	467185				3		1.14	5.43	35.86	http://www.salute.gov.it/
+Piedmont	Piedmont	2020-07-19		4119	31536	26580	467185	3	0	13	0	0	1.14	5.43	35.86	http://www.salute.gov.it/
 Pierce_County,_Georgia	Pierce County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	5	312			3	0		-8	0	0.0	8.0		https://dph.georgia.gov/
 Pierce_County,_Nebraska	Pierce County, Nebraska	2020-07-19		0	14		534						0.0	0.57		http://dhhs.ne.gov/
 Pierce_County,_North_Dakota	Pierce County, North Dakota	2020-07-19		0	8	7	664						0.0	0.0	0.29	https://www.health.nd.gov/
@@ -3941,7 +3941,7 @@ Plaquemines_Parish,_Louisiana	Plaquemines Parish, Louisiana	2020-07-19		18	341		
 Platte_County,_Missouri	Platte County, Missouri	2020-07-19		6	207								0.0	7.57		https://health.mo.gov/
 Platte_County,_Nebraska	Platte County, Nebraska	2020-07-19		3	707		3636						0.0	2.14		http://dhhs.ne.gov/
 Platte_County,_Wyoming	Platte County, Wyoming	2020-07-19	2020-07-19T21:00:00.000Z	0	3	4		0	0	0	0	0	0.0	0.0	0.0	https://health.wyo.gov/
-Pleasants_County,_West_Virginia	Pleasants County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	5	4	511	1	0	0	1	0	0.0	0.14	0.0	https://dhhr.wv.gov/
+Pleasants_County,_West_Virginia	Pleasants County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	5	4	518	1	0	0	1	0	0.0	0.14	0.0	https://dhhr.wv.gov/
 Plumas_County,_California	Plumas County, California	2020-07-19	2020-07-17T13:30:00.000Z	0	23	16							0.0	0.86	0.71	https://www.plumascounty.us/
 Plymouth	Plymouth	2020-07-19			664			0			0			0.44		https://www.gov.uk/
 Plymouth_County,_Iowa	Plymouth County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	6	374	283	3378	4	1	0	2	1	0.14	3.57	0.86	https://idph.iowa.gov
@@ -3949,7 +3949,7 @@ Plymouth_County,_Massachusetts	Plymouth County, Massachusetts	2020-07-19	2020-07
 Plymouth,_Massachusetts	Plymouth, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		606		10235	0			0			-0.57		https://www.mass.gov/
 Plympton,_Massachusetts	Plympton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		11		367	0			0			0.0		https://www.mass.gov/
 Pocahontas_County,_Iowa	Pocahontas County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	1	109	56	1047	1	0	0	1	0	0.0	0.29	0.71	https://idph.iowa.gov
-Pocahontas_County,_West_Virginia	Pocahontas County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	37	37	1094	0	0	0	0	0	0.0	0.14	1.29	https://dhhr.wv.gov/
+Pocahontas_County,_West_Virginia	Pocahontas County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	37	37	1099	0	0	0	0	0	0.0	0.14	1.29	https://dhhr.wv.gov/
 Poinsett_County,_Arkansas	Poinsett County, Arkansas	2020-07-19		3	90	63	2043						0.0	2.14	1.29	https://www.healthy.arkansas.gov/
 Pointe_Coupee_Parish,_Louisiana	Pointe Coupee Parish, Louisiana	2020-07-19		28	499								0.0	17.43		http://ldh.la.gov/
 Poland	Poland	2020-07-19	2020-07-19T10:00:00.000Z	1624	40104	30292		358	6	368	19	-1	7.57	316.14	449.14	https://www.gov.pl/
@@ -4004,7 +4004,7 @@ Preble_County,_Ohio	Preble County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	1	10
 Prentiss_County,_Mississippi	Prentiss County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	6	178			6	0		-11	0	0.29	7.29		https://msdh.ms.gov/
 Presidio_County,_Texas	Presidio County, Texas	2020-07-19		0	28	16							0.0	0.29	0.57	https://www.dshs.state.tx.us/
 Presque_Isle_County,_Michigan	Presque Isle County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	14			0	0	0	0	0	0.0	0.14		https://www.michigan.gov/
-Preston_County,_West_Virginia	Preston County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	2	90	93	4149	1	0	1	2	0	0.0	1.29	2.29	https://dhhr.wv.gov/
+Preston_County,_West_Virginia	Preston County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	2	90	93	4356	1	0	1	2	0	0.0	1.29	2.29	https://dhhr.wv.gov/
 Price_County,_Wisconsin	Price County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	0	12			1	0		-1	0	0.0	0.57		https://www.dhs.wisconsin.gov/
 Primorsky_Krai	Primorsky Krai	2020-07-19	2020-07-19T07:45:00.000Z	63	5548	4158		88	1	53	8	0	0.57	69.14	68.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Prince_Edward_County,_Virginia	Prince Edward County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	6	239								0.0	0.29		http://www.vdh.virginia.gov/
@@ -4014,7 +4014,7 @@ Prince_George%27s_County,_Maryland	Prince George's County, Maryland	2020-07-19		
 Prince_of_Wales%E2%80%93Hyder_Census_Area,_Alaska	Prince of Wales–Hyder Census Area, Alaska	2020-07-19			2									0.0		http://www.dhss.alaska.gov/
 Prince_William_County,_Virginia	Prince William County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	162	8152								0.71	49.0		http://www.vdh.virginia.gov/
 Princeton,_Massachusetts	Princeton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		6		433	0			0			0.0		https://www.mass.gov/
-Provence-Alpes-C%C3%B4te_d%27Azur	Provence-Alpes-Côte d'Azur	2020-07-19		957		5576							0.57		8.0	https://www.santepubliquefrance.fr/
+Provence-Alpes-C%C3%B4te_d%27Azur	Provence-Alpes-Côte d'Azur	2020-07-19		957		5576			0	0		0	0.57		8.0	https://www.santepubliquefrance.fr/
 Providence,_Rhode_Island	Providence, Rhode Island	2020-07-19	2020-07-15T00:00:00.000Z		6056		33752							30.86		https://health.ri.gov/
 Provincetown_(CDP),_Massachusetts	Provincetown, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		22		871	0			0			0.0		https://www.mass.gov/
 Prowers_County,_Colorado	Prowers County, Colorado	2020-07-19			44									1.14		https://covid19.colorado.gov/
@@ -4036,7 +4036,7 @@ Putnam_County,_Illinois	Putnam County, Illinois	2020-07-19		0	2		353						0.0	0.
 Putnam_County,_Missouri	Putnam County, Missouri	2020-07-19		0	4								0.0	0.14		https://health.mo.gov/
 Putnam_County,_New_York	Putnam County, New York	2020-07-19	2020-07-19T14:00:00.000Z	63	1391		23186	1	0		-3	0	0.0	4.29		https://coronavirus.health.ny.gov/
 Putnam_County,_Ohio	Putnam County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	16	161			4	0		3	-1	0.14	2.71		https://coronavirus.ohio.gov/
-Putnam_County,_West_Virginia	Putnam County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	111	59	4660	3	0	1	-6	0	0.0	3.29	1.14	https://dhhr.wv.gov/
+Putnam_County,_West_Virginia	Putnam County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	111	59	4712	3	0	1	-6	0	0.0	3.29	1.14	https://dhhr.wv.gov/
 Qatar	Qatar	2020-07-19	2020-07-18T21:00:00.000Z	157	106648	103377	441700	340	1	354	-70	0	1.43	435.71	519.14	https://www.moph.gov.qa/
 Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-07-19		0	5	5		0	0	0	0	0	0.0	0.0	0.29	https://ncov.moh.gov.vn/
 Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-07-19		0	10	9		1	0	0	1	0	0.0	0.14	0.0	https://ncov.moh.gov.vn/
@@ -4053,7 +4053,7 @@ Racine_County,_Wisconsin	Racine County, Wisconsin	2020-07-19	2020-07-19T06:00:00
 Radford,_Virginia	Radford, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	21								0.0	0.71		http://www.vdh.virginia.gov/
 Rains_County,_Texas	Rains County, Texas	2020-07-19		1	25	7							0.14	1.29	0.14	https://www.dshs.state.tx.us/
 Rajasthan	Rajasthan	2020-07-19	2020-07-19T08:00:00.000Z	553	28500	21144		711	7	518	96	-1	7.14	678.86	467.86	https://www.mohfw.gov.in/
-Raleigh_County,_West_Virginia	Raleigh County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	92	71	9671	0	0	0	0	0	0.0	2.14	1.57	https://dhhr.wv.gov/
+Raleigh_County,_West_Virginia	Raleigh County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	92	71	9804	0	0	0	0	0	0.0	2.14	1.57	https://dhhr.wv.gov/
 Ralls_County,_Missouri	Ralls County, Missouri	2020-07-19		0	11								0.0	0.14		https://health.mo.gov/
 Ramsey_County,_Minnesota	Ramsey County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	248	5687			102	1		51	0	2.14	61.57		https://www.health.state.mn.us/
 Ramsey_County,_North_Dakota	Ramsey County, North Dakota	2020-07-19		1	25	18	2174						0.0	0.71	1.43	https://www.health.nd.gov/
@@ -4065,7 +4065,7 @@ Randolph_County,_Georgia	Randolph County, Georgia	2020-07-19	2020-07-19T18:50:06
 Randolph_County,_Illinois	Randolph County, Illinois	2020-07-19		7	363		4594						0.0	6.86		http://www.dph.illinois.gov/
 Randolph_County,_Missouri	Randolph County, Missouri	2020-07-19		1	21								0.14	0.57		https://health.mo.gov/
 Randolph_County,_North_Carolina	Randolph County, North Carolina	2020-07-19		34	1719								0.29	34.86		https://www.ncdhhs.gov/
-Randolph_County,_West_Virginia	Randolph County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	196	179	6274	0	0	1	0	0	0.0	1.29	1.86	https://dhhr.wv.gov/
+Randolph_County,_West_Virginia	Randolph County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	196	179	6339	0	0	1	0	0	0.0	1.29	1.86	https://dhhr.wv.gov/
 Randolph,_Massachusetts	Randolph, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		967		7474	0			0			1.71		https://www.mass.gov/
 Rankin_County,_Mississippi	Rankin County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	22	1415			13	1		-67	1	0.43	41.29		https://msdh.ms.gov/
 Ransom_County,_North_Dakota	Ransom County, North Dakota	2020-07-19		0	23	19	1069						0.0	0.29	0.29	https://www.health.nd.gov/
@@ -4123,23 +4123,23 @@ Richmond,_Rhode_Island	Richmond, Rhode Island	2020-07-19	2020-07-15T00:00:00.000
 Richmond,_Virginia	Richmond, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	36	2563								0.14	21.14		http://www.vdh.virginia.gov/
 Riley_County,_Kansas	Riley County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		360			0			0			6.86		https://www.coronavirus.kdheks.gov
 Ringgold_County,_Iowa	Ringgold County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	1	17	13	623	0	0	0	0	0	0.0	0.14	0.14	https://idph.iowa.gov
-Rio_Arriba_County,_New_Mexico	Rio Arriba County, New Mexico	2020-07-19		1	195								0.0	8.0		https://cv.nmhealth.org
+Rio_Arriba_County,_New_Mexico	Rio Arriba County, New Mexico	2020-07-19		1	199								0.0	8.57		https://cv.nmhealth.org
 Rio_Blanco_County,_Colorado	Rio Blanco County, Colorado	2020-07-19			6									0.0		https://covid19.colorado.gov/
-Rio_de_Janeiro_(state)	Rio de Janeiro (state)	2020-07-19	2020-07-18T22:00:00.000Z	11919	135230								72.0	792.29		https://covid.saude.gov.br/
-Rio_Grande_County,_Colorado	Rio Grande County, Colorado	2020-07-19		2	82								0.0	0.14		https://covid19.colorado.gov/
-Rio_Grande_do_Norte	Rio Grande do Norte	2020-07-19	2020-07-18T22:00:00.000Z	1572	43451								25.43	575.71		https://covid.saude.gov.br/
-Rio_Grande_do_Sul	Rio Grande do Sul	2020-07-19	2020-07-18T22:00:00.000Z	1229	46847								38.14	1086.71		https://covid.saude.gov.br/
+Rio_de_Janeiro_(state)	Rio de Janeiro (state)	2020-07-19	2020-07-19T22:00:00.000Z	12114	138524			3294	195		3294	195	99.86	1262.86		https://covid.saude.gov.br/
+Rio_Grande_County,_Colorado	Rio Grande County, Colorado	2020-07-19		2	84								0.0	0.43		https://covid19.colorado.gov/
+Rio_Grande_do_Norte	Rio Grande do Norte	2020-07-19	2020-07-19T22:00:00.000Z	1577	43766			315	5		-1833	-41	26.14	620.71		https://covid.saude.gov.br/
+Rio_Grande_do_Sul	Rio Grande do Sul	2020-07-19	2020-07-19T22:00:00.000Z	1252	47113			266	23		129	-40	41.43	1124.71		https://covid.saude.gov.br/
 Rio_Maior	Rio Maior	2020-07-19	2020-07-18T23:00:00.000Z		29			0			0			0.14		https://covid19.min-saude.pt/
 Ripley_County,_Missouri	Ripley County, Missouri	2020-07-19		0	27								0.0	1.0		https://health.mo.gov/
-Ritchie_County,_West_Virginia	Ritchie County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	3	2	1507	0	0	0	0	0	0.0	0.14	0.0	https://dhhr.wv.gov/
+Ritchie_County,_West_Virginia	Ritchie County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	3	2	1514	0	0	0	0	0	0.0	0.14	0.0	https://dhhr.wv.gov/
 Riverside_County,_California	Riverside County, California	2020-07-19	2020-07-18	587	30245	10416	307617	606	0	0	-129	-2	7.14	607.29	149.86	https://www.cdph.ca.gov
-Roane_County,_West_Virginia	Roane County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	12	9	1597	0	0	0	0	0	0.0	0.0	0.0	https://dhhr.wv.gov/
+Roane_County,_West_Virginia	Roane County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	1	12	9	1618	0	0	0	0	0	0.0	0.0	0.0	https://dhhr.wv.gov/
 Roanoke_County,_Virginia	Roanoke County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	6	355								0.0	4.43		http://www.vdh.virginia.gov/
 Roanoke,_Virginia	Roanoke, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	10	637								0.0	7.86		http://www.vdh.virginia.gov/
 Roberts_County,_South_Dakota	Roberts County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	62	54	1467	0	0	3	-3	0	0.0	0.71	1.0	https://doh.sd.gov/
 Roberts_County,_Texas	Roberts County, Texas	2020-07-19		0	6	4							0.0	0.0	0.14	https://www.dshs.state.tx.us/
 Robertson_County,_Kentucky	Robertson County, Kentucky	2020-07-19		0	2								0.0	0.14		https://govstatus.egov.com/
-Robertson_County,_Texas	Robertson County, Texas	2020-07-19		0	143	47							0.0	4.43	2.29	https://www.dshs.state.tx.us/
+Robertson_County,_Texas	Robertson County, Texas	2020-07-19		0	155	10							0.0	6.14	-3.0	https://www.dshs.state.tx.us/
 Robeson_County,_North_Carolina	Robeson County, North Carolina	2020-07-19		46	1942								0.43	44.29		https://www.ncdhhs.gov/
 Rochester,_Massachusetts	Rochester, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		38		696	0			0			0.14		https://www.mass.gov/
 Rock_County,_Minnesota	Rock County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	0	42			2	0		-1	0	0.0	1.14		https://www.health.state.mn.us/
@@ -4166,8 +4166,8 @@ Rolling_Hills,_California	Rolling Hills, California	2020-07-19	2020-07-18T03:00:
 Romania	Romania	2020-07-19	2020-07-18T00:00:00.000Z	2026	37458	22617		767	21	129	-122	4	20.29	703.29	153.14	https://datelazi.ro/
 Rooks_County,_Kansas	Rooks County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		10			0			0			0.14		https://www.coronavirus.kdheks.gov
 Roosevelt_County,_Montana	Roosevelt County, Montana	2020-07-19		0	9								0.0	-0.14		https://dphhs.mt.gov/
-Roosevelt_County,_New_Mexico	Roosevelt County, New Mexico	2020-07-19		1	86								0.0	1.0		https://cv.nmhealth.org
-Roraima	Roraima	2020-07-19	2020-07-18T22:00:00.000Z	429	25373								4.71	449.71		https://covid.saude.gov.br/
+Roosevelt_County,_New_Mexico	Roosevelt County, New Mexico	2020-07-19		1	89								0.0	1.43		https://cv.nmhealth.org
+Roraima	Roraima	2020-07-19	2020-07-19T22:00:00.000Z	429	25467			94	0		-272	-4	4.71	463.14		https://covid.saude.gov.br/
 Roscommon_County,_Michigan	Roscommon County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	0	44			1	0	0	1	0	0.0	1.57		https://www.michigan.gov/
 Roseau_County,_Minnesota	Roseau County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	0	31			1	0		2	0	0.0	0.43		https://www.health.state.mn.us/
 Rosebud_County,_Montana	Rosebud County, Montana	2020-07-19		1	16								0.0	0.57		https://dphhs.mt.gov/
@@ -4175,7 +4175,7 @@ Rosemead,_California	Rosemead, California	2020-07-19	2020-07-18T03:00:00.000Z	11
 Ross_County,_Ohio	Ross County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	4	182			9	1		4	1	0.14	4.86		https://coronavirus.ohio.gov/
 Rostov_Oblast	Rostov Oblast	2020-07-19	2020-07-19T07:45:00.000Z	183	11419	8909		103	0	35	1	-5	2.86	99.0	119.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Routt_County,_Colorado	Routt County, Colorado	2020-07-19		6	87								0.0	0.71		https://covid19.colorado.gov/
-Rowan_County,_Kentucky	Rowan County, Kentucky	2020-07-19		0	39								0.0	1.29		https://govstatus.egov.com/
+Rowan_County,_Kentucky	Rowan County, Kentucky	2020-07-19		0	44								0.0	2.0		https://govstatus.egov.com/
 Rowan_County,_North_Carolina	Rowan County, North Carolina	2020-07-19		43	1700								0.0	28.71		https://www.ncdhhs.gov/
 Rowe,_Massachusetts	Rowe, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		0		36	0			0			0.0		https://www.mass.gov/
 Rowley,_Massachusetts	Rowley, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		62		1012	0			0			0.43		https://www.mass.gov/
@@ -4186,11 +4186,11 @@ Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	
 Royalston,_Massachusetts	Royalston, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		140	0			0			0.0		https://www.mass.gov/
 Runnels_County,_Texas	Runnels County, Texas	2020-07-19		0	35	27							0.0	1.57	1.71	https://www.dshs.state.tx.us/
 Rush_County,_Kansas	Rush County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		4			0			0			0.14		https://www.coronavirus.kdheks.gov
-Rusk_County,_Texas	Rusk County, Texas	2020-07-19		3	270	191							0.0	2.43	-1.43	https://www.dshs.state.tx.us/
+Rusk_County,_Texas	Rusk County, Texas	2020-07-19		3	271	196							0.0	2.57	-0.71	https://www.dshs.state.tx.us/
 Rusk_County,_Wisconsin	Rusk County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	1	13			0	0		0	0	0.0	0.29		https://www.dhs.wisconsin.gov/
 Russell_County,_Alabama	Russell County, Alabama	2020-07-19		0	909		5722						0.0	31.86		https://covid19.alabama.gov/
 Russell_County,_Kansas	Russell County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		4			0			0			0.43		https://www.coronavirus.kdheks.gov
-Russell_County,_Kentucky	Russell County, Kentucky	2020-07-19		5	74								0.0	1.71		https://govstatus.egov.com/
+Russell_County,_Kentucky	Russell County, Kentucky	2020-07-19		5	75								0.0	1.86		https://govstatus.egov.com/
 Russell_County,_Virginia	Russell County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	29								0.0	0.86		http://www.vdh.virginia.gov/
 Russell,_Massachusetts	Russell, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		16		177	0			0			0.29		https://www.mass.gov/
 Russia	Russia	2020-07-19	2020-07-19T07:45:00.000Z	12342	771546	550344	24000000	6109	95	3481	-125	-29	143.86	6340.57	7040.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -4201,14 +4201,14 @@ Rutland,_Massachusetts	Rutland, Massachusetts	2020-07-19	2020-07-19T20:00:00.000
 Rwanda	Rwanda	2020-07-19	2020-07-19T11:41:32.000Z	5	1539				1			1	0.14	34.29		https://www.ecdc.europa.eu/
 Ryazan_Oblast	Ryazan Oblast	2020-07-19	2020-07-19T07:45:00.000Z	24	5921	5040		38	1	5	-2	1	0.43	37.86	74.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Saarland	Saarland	2020-07-19	2020-07-19	174	2828	0										https://www.rki.de/
-Sabine_County,_Texas	Sabine County, Texas	2020-07-19		1	35	26							0.0	0.57	2.0	https://www.dshs.state.tx.us/
+Sabine_County,_Texas	Sabine County, Texas	2020-07-19		1	35	27							0.0	0.57	2.14	https://www.dshs.state.tx.us/
 Sabine_Parish,_Louisiana	Sabine Parish, Louisiana	2020-07-19		3	304								0.29	13.43		http://ldh.la.gov/
 Sabrosa	Sabrosa	2020-07-19	2020-07-18T23:00:00.000Z		7			0			0			0.0		https://covid19.min-saude.pt/
 Sac_County,_Iowa	Sac County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	0	73	60	1488	0	0	0	-2	0	0.0	0.71	0.14	https://idph.iowa.gov
 Sacramento_County,_California	Sacramento County, California	2020-07-19	2020-07-18	95	6739	3342	144929					0	1.71	178.57	138.57	https://www.cdph.ca.gov
 Sagadahoc_County,_Maine	Sagadahoc County, Maine	2020-07-19	2020-07-19T14:00:00.000Z	0	34	31		0	0	0	0	0	0.0	0.0	0.0	https://www.maine.gov/
 Saginaw_County,_Michigan	Saginaw County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	125	1563			11	0	0	-30	0	0.14	23.14		https://www.michigan.gov/
-Saguache_County,_Colorado	Saguache County, Colorado	2020-07-19		2	105								0.0	0.29		https://covid19.colorado.gov/
+Saguache_County,_Colorado	Saguache County, Colorado	2020-07-19		2	106								0.0	0.43		https://covid19.colorado.gov/
 Saint_Kitts_and_Nevis	Saint Kitts and Nevis	2020-07-19	2020-07-19T11:41:32.000Z	0	17				0			0	0.0	0.0		https://www.ecdc.europa.eu/
 Saint_Lucia	Saint Lucia	2020-07-19	2020-07-19T11:41:32.000Z	0	23				0			0	0.0	0.14		https://www.ecdc.europa.eu/
 Saint_Petersburg	Saint Petersburg	2020-07-19	2020-07-19T07:45:00.000Z	1781	29346	22313		202	26	101	-36	-1	25.43	253.71	154.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -4237,24 +4237,24 @@ San_Dimas,_California	San Dimas, California	2020-07-19	2020-07-18T03:00:00.000Z	
 San_Fernando,_California	San Fernando, California	2020-07-19	2020-07-18T03:00:00.000Z	12	454								0.0	11.29		http://publichealth.lacounty.gov/
 San_Francisco	San Francisco	2020-07-19	2020-07-18	52	5051	737	208174	84	0	0	-45	-1	0.29	75.57		https://www.cdph.ca.gov
 San_Gabriel,_California	San Gabriel, California	2020-07-19	2020-07-18T03:00:00.000Z	26	338								0.43	4.14		http://publichealth.lacounty.gov/
-San_Jacinto_County,_Texas	San Jacinto County, Texas	2020-07-19		2	128	61							0.0	6.14	4.43	https://www.dshs.state.tx.us/
+San_Jacinto_County,_Texas	San Jacinto County, Texas	2020-07-19		2	130	61							0.0	6.43	4.43	https://www.dshs.state.tx.us/
 San_Joaquin_County,_California	San Joaquin County, California	2020-07-19	2020-07-18	83	8118	3240		193	0	0	87	0	2.14	228.57	68.0	https://www.cdph.ca.gov
 San_Juan_County,_Colorado	San Juan County, Colorado	2020-07-19			2									0.0		https://covid19.colorado.gov/
-San_Juan_County,_New_Mexico	San Juan County, New Mexico	2020-07-19		176	2829								0.71	16.86		https://cv.nmhealth.org
+San_Juan_County,_New_Mexico	San Juan County, New Mexico	2020-07-19		176	2834								0.71	17.57		https://cv.nmhealth.org
 San_Juan_County,_Utah	San Juan County, Utah	2020-07-19	2020-07-19T19:00:00.000Z	19	533			22	0		11	-1	1.14	8.0		https://coronavirus.utah.gov/
 San_Juan_County,_Washington	San Juan County, Washington	2020-07-19		0	24								0.0	0.57		https://coronavirus.wa.gov/
 San_Luis_Obispo,_California	San Luis Obispo, California	2020-07-19	2020-07-18	6	1234			44	0		0	0	0.29	43.43		https://www.cdph.ca.gov
 San_Marino	San Marino	2020-07-19		42	716				0			0	0.0	0.0		https://www.who.int/
 San_Marino,_California	San Marino, California	2020-07-19	2020-07-18T03:00:00.000Z	1	42								0.0	1.14		http://publichealth.lacounty.gov/
 San_Mateo_County,_California	San Mateo County, California	2020-07-19	2020-07-18	114	4488		87801	23	0		-39	0	0.29	76.0		https://www.cdph.ca.gov
-San_Miguel_County,_Colorado	San Miguel County, Colorado	2020-07-19			64									2.14		https://covid19.colorado.gov/
-San_Miguel_County,_New_Mexico	San Miguel County, New Mexico	2020-07-19		0	31								0.0	0.71		https://cv.nmhealth.org
+San_Miguel_County,_Colorado	San Miguel County, Colorado	2020-07-19			66									2.43		https://covid19.colorado.gov/
+San_Miguel_County,_New_Mexico	San Miguel County, New Mexico	2020-07-19		0	32								0.0	0.86		https://cv.nmhealth.org
 San_Patricio_County,_Texas	San Patricio County, Texas	2020-07-19		0	402	243							0.0	13.14	12.43	https://www.dshs.state.tx.us/
-San_Saba_County,_Texas	San Saba County, Texas	2020-07-19		0	10	4							0.0	0.0	0.14	https://www.dshs.state.tx.us/
+San_Saba_County,_Texas	San Saba County, Texas	2020-07-19		0	11	1							0.0	0.14	-0.29	https://www.dshs.state.tx.us/
 Sanborn_County,_South_Dakota	Sanborn County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	12	12	204	0	0	0	0	0	0.0	0.0	0.0	https://doh.sd.gov/
 Sanders_County,_Montana	Sanders County, Montana	2020-07-19		0	4									0.03		https://dphhs.mt.gov/
 Sandisfield,_Massachusetts	Sandisfield, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		177	0			0			0.0		https://www.mass.gov/
-Sandoval_County,_New_Mexico	Sandoval County, New Mexico	2020-07-19		31	905								0.14	9.57		https://cv.nmhealth.org
+Sandoval_County,_New_Mexico	Sandoval County, New Mexico	2020-07-19		31	919								0.14	11.57		https://cv.nmhealth.org
 Sandusky_County,_Ohio	Sandusky County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	15	221			13	0		12	0	0.0	7.43		https://coronavirus.ohio.gov/
 Sandwell	Sandwell	2020-07-19			1720			0			0			9.0		https://www.gov.uk/
 Sandwich,_Massachusetts	Sandwich, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		97		2427	0			0			0.29		https://www.mass.gov/
@@ -4262,13 +4262,13 @@ Sangamon_County,_Illinois	Sangamon County, Illinois	2020-07-19		33	656		42653			
 Sanilac_County,_Michigan	Sanilac County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	6	75			2	0	0	-1	0	0.0	2.57		https://www.michigan.gov/
 Sanpete_County,_Utah	Sanpete County, Utah	2020-07-19	2020-07-18T00:00:00.000Z	0	76	46							0.0	0.71	0.0	https://centralutahpublichealth.org/
 Santa_Barbara_County,_California	Santa Barbara County, California	2020-07-19	2020-07-18	32	5110	4326	60926	109	0	0	-20	0	0.14	118.14	110.14	https://www.cdph.ca.gov
-Santa_Catarina_(state)	Santa Catarina (state)	2020-07-19	2020-07-18T22:00:00.000Z	662	52531								23.57	1357.14		https://covid.saude.gov.br/
+Santa_Catarina_(state)	Santa Catarina (state)	2020-07-19	2020-07-19T22:00:00.000Z	685	53336			805	23		-177	7	26.86	1472.14		https://covid.saude.gov.br/
 Santa_Clara_County,_California	Santa Clara County, California	2020-07-19	2020-07-18T00:00:00.000Z	177	7300		284433						1.57	143.14		https://www.sccgov.org/
 Santa_Clarita,_California	Santa Clarita, California	2020-07-19	2020-07-18T03:00:00.000Z	33	1761								0.29	30.43		http://publichealth.lacounty.gov/
 Santa_Cruz_County,_Arizona	Santa Cruz County, Arizona	2020-07-19	2020-07-19T15:00:00.000Z	39	2305		7793	35	2	2	35	-2	1.43	17.86		https://azdhs.gov/
 Santa_Cruz_County,_California	Santa Cruz County, California	2020-07-19	2020-07-18T07:34:00.000Z	3	772	321							0.0	28.71	2.0	https://www.santacruzhealth.org/
 Santa_Cruz,_Madeira	Santa Cruz, Madeira	2020-07-19	2020-07-18T23:00:00.000Z		6			0			0			0.14		https://covid19.min-saude.pt/
-Santa_Fe_County,_New_Mexico	Santa Fe County, New Mexico	2020-07-19		3	407								0.0	10.0		https://cv.nmhealth.org
+Santa_Fe_County,_New_Mexico	Santa Fe County, New Mexico	2020-07-19		3	417								0.0	11.43		https://cv.nmhealth.org
 Santa_Fe_Springs,_California	Santa Fe Springs, California	2020-07-19	2020-07-18T03:00:00.000Z	2	307								0.14	7.14		http://publichealth.lacounty.gov/
 Santa_Maria_da_Feira	Santa Maria da Feira	2020-07-19	2020-07-18T23:00:00.000Z		581			0			0			9.0		https://covid19.min-saude.pt/
 Santa_Monica,_California	Santa Monica, California	2020-07-19	2020-07-18T03:00:00.000Z	35	547								0.29	6.43		http://publichealth.lacounty.gov/
@@ -4278,10 +4278,10 @@ Santo_Tirso	Santo Tirso	2020-07-19	2020-07-18T23:00:00.000Z		403			0			0			0.0		
 Sarasota_County,_Florida	Sarasota County, Florida	2020-07-19		106	4245		57633						0.86	162.71		https://floridahealthcovid19.gov/
 Saratoga_County,_New_York	Saratoga County, New York	2020-07-19	2020-07-19T14:00:00.000Z	15	637		37738	2	0		-3	0	0.0	5.0		https://coronavirus.health.ny.gov/
 Saratov_Oblast	Saratov Oblast	2020-07-19	2020-07-19T07:45:00.000Z	51	8256	4721		97	0	22	1	-1	0.57	93.71	70.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Sardinia	Sardinia	2020-07-19		134	1379	1233	98250				1		0.0	1.0	0.57	http://www.salute.gov.it/
+Sardinia	Sardinia	2020-07-19		134	1379	1233	98250	1	0	0	0	0	0.0	1.0	0.57	http://www.salute.gov.it/
 Sargent_County,_North_Dakota	Sargent County, North Dakota	2020-07-19		0	8	7	879						0.0	0.0	0.14	https://www.health.nd.gov/
 Sarpy_County,_Nebraska	Sarpy County, Nebraska	2020-07-19		8	1495		21733						0.0	21.0		http://dhhs.ne.gov/
-Saskatchewan	Saskatchewan	2020-07-19	2020-07-19T15:00:00.000Z	15	941	798	69932	0	0	0	-5	0	0.0	18.0	5.86	https://www.canada.ca/
+Saskatchewan	Saskatchewan	2020-07-19	2020-07-19T15:00:00.000Z	15	943	799	71011	2	0	1	-3	0	0.0	18.29	6.0	https://www.canada.ca/
 Saudi_Arabia	Saudi Arabia	2020-07-19	2020-07-19T11:41:32.000Z	2447	248416				40			3	38.0	2705.14		https://www.ecdc.europa.eu/
 Saugus,_Massachusetts	Saugus, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		562		5530	0			0			0.71		https://www.mass.gov/
 Sauk_County,_Wisconsin	Sauk County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	3	218			13	0		9	0	0.0	7.71		https://www.dhs.wisconsin.gov/
@@ -4292,7 +4292,7 @@ Saxony	Saxony	2020-07-19	2020-07-19	225	5488	0										https://www.rki.de/
 Saxony-Anhalt	Saxony-Anhalt	2020-07-19	2020-07-19	62	1946	0										https://www.rki.de/
 Scheibbs_District	Scheibbs District	2020-07-19	2020-07-19T20:00:00.000Z		104			0			0			0.0		https://info.gesundheitsministerium.at/
 Schenectady_County,_New_York	Schenectady County, New York	2020-07-19	2020-07-19T14:00:00.000Z	36	915		35772	5	0		-3	0	0.0	7.29		https://coronavirus.health.ny.gov/
-Schleicher_County,_Texas	Schleicher County, Texas	2020-07-19		1	30	17							0.0	0.86	0.86	https://www.dshs.state.tx.us/
+Schleicher_County,_Texas	Schleicher County, Texas	2020-07-19		1	30	18							0.0	0.86	1.0	https://www.dshs.state.tx.us/
 Schleswig-Holstein	Schleswig-Holstein	2020-07-19	2020-07-19	154	3253	0										https://www.rki.de/
 Schley_County,_Georgia	Schley County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	1	31			0	0		0	0	0.0	0.29		https://dph.georgia.gov/
 Schoharie_County,_New_York	Schoharie County, New York	2020-07-19	2020-07-19T14:00:00.000Z	2	62		3966	0	0		0	0	0.0	0.0		https://coronavirus.health.ny.gov/
@@ -4311,7 +4311,7 @@ Scott_County,_Arkansas	Scott County, Arkansas	2020-07-19		0	19	14	731						0.0	0
 Scott_County,_Illinois	Scott County, Illinois	2020-07-19		0	1		637						0.0	0.0		http://www.dph.illinois.gov/
 Scott_County,_Iowa	Scott County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	10	1287	638	19415	30	0	3	16	0	0.0	31.29	5.71	https://idph.iowa.gov
 Scott_County,_Kansas	Scott County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		19			0			0			0.29		https://www.coronavirus.kdheks.gov
-Scott_County,_Kentucky	Scott County, Kentucky	2020-07-19		0	153								0.0	3.71		https://govstatus.egov.com/
+Scott_County,_Kentucky	Scott County, Kentucky	2020-07-19		0	168								0.0	5.86		https://govstatus.egov.com/
 Scott_County,_Minnesota	Scott County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	7	1010			24	0		15	0	0.43	18.43		https://www.health.state.mn.us/
 Scott_County,_Mississippi	Scott County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	16	873			1	0		-23	0	0.14	7.0		https://msdh.ms.gov/
 Scott_County,_Missouri	Scott County, Missouri	2020-07-19		13	244								0.14	5.29		https://health.mo.gov/
@@ -4321,7 +4321,7 @@ Screven_County,_Georgia	Screven County, Georgia	2020-07-19	2020-07-19T18:50:06.0
 Scurry_County,_Texas	Scurry County, Texas	2020-07-19		1	367	38							0.0	6.57	2.14	https://www.dshs.state.tx.us/
 Searcy_County,_Arkansas	Searcy County, Arkansas	2020-07-19		0	18	15	931						0.0	0.14	0.57	https://www.healthy.arkansas.gov/
 Sebastian_County,_Arkansas	Sebastian County, Arkansas	2020-07-19		9	1102	715	16025						0.29	38.29	28.14	https://www.healthy.arkansas.gov/
-Sedgwick_County,_Colorado	Sedgwick County, Colorado	2020-07-19			5									0.71		https://covid19.colorado.gov/
+Sedgwick_County,_Colorado	Sedgwick County, Colorado	2020-07-19			8									1.14		https://covid19.colorado.gov/
 Sedgwick_County,_Kansas	Sedgwick County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		2790			0			0			102.29		https://www.coronavirus.kdheks.gov
 Seekonk,_Massachusetts	Seekonk, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		86		1419	0			0			0.57		https://www.mass.gov/
 Seia	Seia	2020-07-19	2020-07-18T23:00:00.000Z		19			0			0			0.86		https://covid19.min-saude.pt/
@@ -4334,7 +4334,7 @@ Seneca_County,_Ohio	Seneca County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	2	66
 Senegal	Senegal	2020-07-19	2020-07-18T00:00:00.000Z	163	8669	5859		125	3		0	0	2.14	76.29	59.0	https://covid19.sec.gouv.sn/
 Sequoyah_County,_Oklahoma	Sequoyah County, Oklahoma	2020-07-19		3	83	66							0.0	2.86	2.14	https://coronavirus.health.ok.gov/
 Serbia	Serbia	2020-07-19	2020-07-19T15:00:00.000Z	472	20894		550091	396	11	11	7	2	11.29	362.0		https://covid19.rs/
-Sergipe	Sergipe	2020-07-19	2020-07-18T22:00:00.000Z	1111	43072								18.14	777.29		https://covid.saude.gov.br/
+Sergipe	Sergipe	2020-07-19	2020-07-19T22:00:00.000Z	1125	45243			2171	14		987	-9	20.14	1087.43		https://covid.saude.gov.br/
 Sernancelhe	Sernancelhe	2020-07-19	2020-07-18T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Serpa	Serpa	2020-07-19	2020-07-18T23:00:00.000Z		14			0			0			0.0		https://covid19.min-saude.pt/
 Sesimbra	Sesimbra	2020-07-19	2020-07-18T23:00:00.000Z		81			0			0			2.29		https://covid19.min-saude.pt/
@@ -4359,10 +4359,10 @@ Shelburne,_Massachusetts	Shelburne, Massachusetts	2020-07-19	2020-07-19T20:00:00
 Shelby_County,_Alabama	Shelby County, Alabama	2020-07-19		27	2208		26114						0.29	73.86		https://covid19.alabama.gov/
 Shelby_County,_Illinois	Shelby County, Illinois	2020-07-19		1	29		2377						0.0	1.29		http://www.dph.illinois.gov/
 Shelby_County,_Iowa	Shelby County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	0	125	120	1289	0	0	0	-1	0	0.0	0.86	1.57	https://idph.iowa.gov
-Shelby_County,_Kentucky	Shelby County, Kentucky	2020-07-19		21	598								0.29	4.14		https://govstatus.egov.com/
+Shelby_County,_Kentucky	Shelby County, Kentucky	2020-07-19		21	613								0.29	6.29		https://govstatus.egov.com/
 Shelby_County,_Missouri	Shelby County, Missouri	2020-07-19		0	7								0.0	0.43		https://health.mo.gov/
 Shelby_County,_Ohio	Shelby County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	4	82			1	0		1	0	0.0	1.0		https://coronavirus.ohio.gov/
-Shelby_County,_Texas	Shelby County, Texas	2020-07-19		14	321	274							0.0	3.43	-2.86	https://www.dshs.state.tx.us/
+Shelby_County,_Texas	Shelby County, Texas	2020-07-19		14	321	275							0.0	3.43	-2.71	https://www.dshs.state.tx.us/
 Shenandoah_County,_Virginia	Shenandoah County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	38	645								0.43	4.86		http://www.vdh.virginia.gov/
 Sherborn,_Massachusetts	Sherborn, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		15		474	0			0			0.0		https://www.mass.gov/
 Sherburne_County,_Minnesota	Sherburne County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	5	423			10	0		3	0	0.0	7.71		https://www.health.state.mn.us/
@@ -4375,22 +4375,22 @@ Sherman_County,_Oregon	Sherman County, Oregon	2020-07-19	2020-07-17T19:01:00.000
 Sherman_County,_Texas	Sherman County, Texas	2020-07-19		0	34	30							0.0	0.29	0.0	https://www.dshs.state.tx.us/
 Shiawassee_County,_Michigan	Shiawassee County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	28	295			3	0	0	0	0	0.0	1.43		https://www.michigan.gov/
 Shirley,_Massachusetts	Shirley, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		177		2877	0			0			0.0		https://www.mass.gov/
-Shoshone_County,_Idaho	Shoshone County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	0	21								0.0	1.86		https://coronavirus.idaho.gov/
+Shoshone_County,_Idaho	Shoshone County, Idaho	2020-07-19	2020-07-19T23:00:00.000Z	0	25			4	0		4	0	0.0	2.43		https://coronavirus.idaho.gov/
 Shrewsbury,_Massachusetts	Shrewsbury, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		331		5319	0			0			0.71		https://www.mass.gov/
 Shropshire	Shropshire	2020-07-19			1410			0			0			0.75		https://www.gov.uk/
 Shutesbury,_Massachusetts	Shutesbury, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		163	0			0			0.0		https://www.mass.gov/
 Shymkent	Shymkent	2020-07-19		24	4410	2769		47	0	68	-10	0	0.71	60.57	79.71	https://www.coronavirus2020.kz/
 Sibley_County,_Minnesota	Sibley County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	2	66			2	0		1	0	0.0	1.14		https://www.health.state.mn.us/
-Sicily	Sicily	2020-07-19		283	3142	2697	248851				2		0.0	6.14	0.57	http://www.salute.gov.it/
+Sicily	Sicily	2020-07-19		283	3142	2697	248851	2	0	2	-2	0	0.0	6.14	0.57	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2020-07-19	2020-07-19T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
 Sierra_County,_California	Sierra County, California	2020-07-19	2020-07-18	0	1		397	0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
-Sierra_County,_New_Mexico	Sierra County, New Mexico	2020-07-19		0	19								0.0	0.71		https://cv.nmhealth.org
+Sierra_County,_New_Mexico	Sierra County, New Mexico	2020-07-19		0	20								0.0	0.86		https://cv.nmhealth.org
 Sierra_Leone	Sierra Leone	2020-07-19	2020-07-19T11:41:32.000Z	65	1701				0			-1	0.29	11.86		https://www.ecdc.europa.eu/
 Sierra_Madre,_California	Sierra Madre, California	2020-07-19	2020-07-18T03:00:00.000Z	3	45								0.0	0.29		http://publichealth.lacounty.gov/
 Signal_Hill,_California	Signal Hill, California	2020-07-19	2020-07-18T03:00:00.000Z	0	151								0.0	3.14		http://publichealth.lacounty.gov/
 Silver_Bow_County,_Montana	Silver Bow County, Montana	2020-07-19		0	30								0.0	0.71		https://dphhs.mt.gov/
 Silves,_Portugal	Silves, Portugal	2020-07-19	2020-07-18T23:00:00.000Z		28			0			0			0.29		https://covid19.min-saude.pt/
-Simpson_County,_Kentucky	Simpson County, Kentucky	2020-07-19		4	96								0.14	1.14		https://govstatus.egov.com/
+Simpson_County,_Kentucky	Simpson County, Kentucky	2020-07-19		4	108								0.14	2.86		https://govstatus.egov.com/
 Simpson_County,_Mississippi	Simpson County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	5	522			7	0		-13	-1	0.29	11.29		https://msdh.ms.gov/
 Sines	Sines	2020-07-19	2020-07-18T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Singapore	Singapore	2020-07-19		27	47656	43833	1009532	202	0	256	-125	0	0.14	242.14	221.14	https://www.who.int/
@@ -4414,7 +4414,7 @@ Smolensk_Oblast	Smolensk Oblast	2020-07-19	2020-07-19T07:45:00.000Z	87	5381	3323
 Smyth_County,_Virginia	Smyth County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	1	69								0.0	3.71		http://www.vdh.virginia.gov/
 Snohomish_County,_Washington	Snohomish County, Washington	2020-07-19		182	4307								0.43	48.71		https://coronavirus.wa.gov/
 Snyder_County,_Pennsylvania	Snyder County, Pennsylvania	2020-07-19		2	79		1272						0.0	1.0		https://www.health.pa.gov/
-Socorro_County,_New_Mexico	Socorro County, New Mexico	2020-07-19		5	64								0.0	0.0		https://cv.nmhealth.org
+Socorro_County,_New_Mexico	Socorro County, New Mexico	2020-07-19		5	65								0.0	0.14		https://cv.nmhealth.org
 Solano_County,_California	Solano County, California	2020-07-19	2020-07-17T17:00:00.000Z	31	2554		41498						0.43	68.43		http://www.solanocounty.com/
 Somalia	Somalia	2020-07-19	2020-07-19T11:41:32.000Z	93	3111				0			0	0.14	8.57		https://www.ecdc.europa.eu/
 Somerset	Somerset	2020-07-19			1292			0			0			0.82		https://www.gov.uk/
@@ -4440,7 +4440,7 @@ South_Korea	South Korea	2020-07-19	2020-07-19T11:41:32.000Z	295	13745				1			0	0
 South_Pasadena,_California	South Pasadena, California	2020-07-19	2020-07-18T03:00:00.000Z	23	199								0.0	2.0		http://publichealth.lacounty.gov/
 South_Sudan	South Sudan	2020-07-19		43	2200				0			-2	0.29	8.71		https://www.who.int/
 South_Tyneside	South Tyneside	2020-07-19			949			0			0			0.38		https://www.gov.uk/
-South_Tyrol	South Tyrol	2020-07-19		292	2684	2291	96130				1		0.0	2.57	0.71	http://www.salute.gov.it/
+South_Tyrol	South Tyrol	2020-07-19		292	2684	2291	96130	1	0	1	0	0	0.0	2.57	0.71	http://www.salute.gov.it/
 South_West_England	South West England	2020-07-19			12949			0			0			11.14		https://www.gov.uk/
 Southampton	Southampton	2020-07-19			939			0			0			0.93		https://www.gov.uk/
 Southampton_County,_Virginia	Southampton County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	11	201								0.14	2.86		http://www.vdh.virginia.gov/
@@ -4453,7 +4453,7 @@ Southwick,_Massachusetts	Southwick, Massachusetts	2020-07-19	2020-07-19T20:00:00
 Spain	Spain	2020-07-19	2020-07-17T14:00:00.000Z	28420	260255			628	10	10	0	10	2.0	792.0		https://www.mscbs.gob.es/
 Spalding_County,_Georgia	Spalding County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	33	652			13	0		3	0	0.0	12.43		https://dph.georgia.gov/
 Spartanburg_County,_South_Carolina	Spartanburg County, South Carolina	2020-07-19		62	3038								0.71	82.71		https://www.scdhec.gov/
-Spencer_County,_Kentucky	Spencer County, Kentucky	2020-07-19		0	59								0.0	1.57		https://govstatus.egov.com/
+Spencer_County,_Kentucky	Spencer County, Kentucky	2020-07-19		0	62								0.0	2.0		https://govstatus.egov.com/
 Spencer,_Massachusetts	Spencer, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		52		1491	0			0			-0.14		https://www.mass.gov/
 Spink_County,_South_Dakota	Spink County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	16	13	999	0	0	0	0	0	0.0	0.29	0.14	https://doh.sd.gov/
 Spittal_an_der_Drau_District	Spittal an der Drau District	2020-07-19	2020-07-19T20:00:00.000Z		45			0			0			0.0		https://info.gesundheitsministerium.at/
@@ -4496,7 +4496,7 @@ Stanton_County,_Nebraska	Stanton County, Nebraska	2020-07-19		0	21		271						0.0
 Stark_County,_Illinois	Stark County, Illinois	2020-07-19		0	7		736						0.0	0.14		http://www.dph.illinois.gov/
 Stark_County,_North_Dakota	Stark County, North Dakota	2020-07-19		3	120	96	5886						0.0	3.14	3.43	https://www.health.nd.gov/
 Stark_County,_Ohio	Stark County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	120	1358			17	2		-5	2	0.57	19.0		https://coronavirus.ohio.gov/
-Starr_County,_Texas	Starr County, Texas	2020-07-19		14	1247	526							1.43	42.0	8.57	https://www.dshs.state.tx.us/
+Starr_County,_Texas	Starr County, Texas	2020-07-19		15	1266	527							1.57	44.71	8.71	https://www.dshs.state.tx.us/
 State_of_Palestine	State of Palestine	2020-07-19		62	9587				3			-3	4.29	412.86		https://www.who.int/
 Staten_Island	Staten Island	2020-07-19	2020-07-19T14:00:00.000Z	748	14480		137563	21	0		1	0	0.0	21.57		https://coronavirus.health.ny.gov/
 Staunton,_Virginia	Staunton, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	116								0.0	3.0		http://www.vdh.virginia.gov/
@@ -4546,8 +4546,8 @@ Sullivan_County,_New_Hampshire	Sullivan County, New Hampshire	2020-07-19	2020-07
 Sullivan_County,_New_York	Sullivan County, New York	2020-07-19	2020-07-19T14:00:00.000Z	37	1473		16453	0	1		-4	1	0.14	1.14		https://coronavirus.health.ny.gov/
 Sullivan_County,_Pennsylvania	Sullivan County, Pennsylvania	2020-07-19			10		249							0.0		https://www.health.pa.gov/
 Sully_County,_South_Dakota	Sully County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	1	1	61	0	0	0	0	0	0.0	0.0	0.0	https://doh.sd.gov/
-Summers_County,_West_Virginia	Summers County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	2	2	1371	-1	0	0	-2	0	0.0	0.0	0.0	https://dhhr.wv.gov/
-Summit_County,_Colorado	Summit County, Colorado	2020-07-19		4	304								0.0	1.57		https://covid19.colorado.gov/
+Summers_County,_West_Virginia	Summers County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	2	2	1404	-1	0	0	-2	0	0.0	0.0	0.0	https://dhhr.wv.gov/
+Summit_County,_Colorado	Summit County, Colorado	2020-07-19		4	306								0.0	1.86		https://covid19.colorado.gov/
 Summit_County,_Ohio	Summit County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	211	2597			27	0		-5	0	0.29	35.14		https://coronavirus.ohio.gov/
 Summit_County,_Utah	Summit County, Utah	2020-07-19	2020-07-19T19:00:00.000Z	1	635			15	0		7	0	0.0	7.29		https://coronavirus.utah.gov/
 Sumner_County,_Kansas	Sumner County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		58			0			0			4.57		https://www.coronavirus.kdheks.gov
@@ -4562,7 +4562,7 @@ Surrey	Surrey	2020-07-19			4643			0			0			2.57		https://www.gov.uk/
 Surry_County,_North_Carolina	Surry County, North Carolina	2020-07-19		4	671								0.29	13.0		https://www.ncdhhs.gov/
 Surry_County,_Virginia	Surry County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	1	25								0.0	1.0		http://www.vdh.virginia.gov/
 Susquehanna_County,_Pennsylvania	Susquehanna County, Pennsylvania	2020-07-19		26	195		2452						0.14	0.0		https://www.health.pa.gov/
-Sussex_County,_Delaware	Sussex County, Delaware	2020-07-19	2020-07-19T15:18:00.000Z	178	5304	3080	42959	40	0	0	20	0	0.29	30.14	11.86	https://dhss.delaware.gov
+Sussex_County,_Delaware	Sussex County, Delaware	2020-07-19	2020-07-19T15:17:00.000Z	178	5304	3080	42959	40	0	0	20	0	0.29	30.14	11.86	https://dhss.delaware.gov
 Sussex_County,_New_Jersey	Sussex County, New Jersey	2020-07-19		158	1246								0.14	2.43		https://www.nj.gov/
 Sussex_County,_Virginia	Sussex County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	7	234								0.0	3.14		http://www.vdh.virginia.gov/
 Sutter_County,_California	Sutter County, California	2020-07-19	2020-07-18T17:28:00.000Z	4	502	235	5687						0.0	16.29	8.0	https://www.suttercounty.org/
@@ -4577,7 +4577,7 @@ Sweden	Sweden	2020-07-19	2020-07-19T11:41:32.000Z	5619	77281				0			-26	13.29	34
 Sweet_Grass_County,_Montana	Sweet Grass County, Montana	2020-07-19		0	2									0.02		https://dphhs.mt.gov/
 Sweetwater_County,_Wyoming	Sweetwater County, Wyoming	2020-07-19	2020-07-19T21:00:00.000Z	2	160	136		1	0	0	-7	0	0.29	4.57	4.86	https://health.wyo.gov/
 Swift_County,_Minnesota	Swift County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	1	46			3	0		3	0	0.0	1.86		https://www.health.state.mn.us/
-Swisher_County,_Texas	Swisher County, Texas	2020-07-19		1	64	33							0.0	1.57	0.86	https://www.dshs.state.tx.us/
+Swisher_County,_Texas	Swisher County, Texas	2020-07-19		1	64	34							0.0	1.57	1.0	https://www.dshs.state.tx.us/
 Switzerland	Switzerland	2020-07-19	2020-07-18T22:00:00.000Z	1969	33482	30300		23	0	200	-1	0	0.14	89.43	100.0	https://www.bag.admin.ch/
 Syria	Syria	2020-07-19	2020-07-19T11:41:32.000Z	25	496				0			-3	1.29	14.57		https://www.ecdc.europa.eu/
 Taiwan	Taiwan	2020-07-19	2020-07-19T15:30:00.000Z	7	455	440	79645	1	0	0	1	0	0.0	0.57	0.29	https://www.cdc.gov.tw/
@@ -4599,7 +4599,7 @@ Tanzania	Tanzania	2020-07-19	2020-07-19T11:41:32.000Z	21	509				0			0	0.0	0.0		h
 Taos_County,_New_Mexico	Taos County, New Mexico	2020-07-19		1	69								0.0	2.29		https://cv.nmhealth.org
 Taranaki	Taranaki	2020-07-19	2020-07-19T01:00:00.000Z		16	16		0		0	0			0.0	0.0	https://www.health.govt.nz/
 Tarapac%C3%A1_Region	Tarapacá Region	2020-07-19	2020-07-19T04:00:00.000Z	141	7627	6867		70	1	81	-36	0	4.29	68.57	87.57	https://www.minsal.cl/
-Tarrant_County,_Texas	Tarrant County, Texas	2020-07-19		288	20907	10070							2.86	450.0	314.86	https://www.dshs.state.tx.us/
+Tarrant_County,_Texas	Tarrant County, Texas	2020-07-19		293	21195	10382							3.57	491.14	359.43	https://www.dshs.state.tx.us/
 Tatarstan	Tatarstan	2020-07-19	2020-07-19T07:45:00.000Z	19	5215	4140		29	0	5	0	-1	0.57	31.14	32.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tate_County,_Mississippi	Tate County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	18	460			8	1		3	0	0.71	9.71		https://msdh.ms.gov/
 Tattnall_County,_Georgia	Tattnall County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	0	263			8	0		-12	0	0.0	10.0		https://dph.georgia.gov/
@@ -4609,9 +4609,9 @@ T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-07-19		0	4	4		0	0	0	0	0	0.0	0.0	0
 Taylor_County,_Florida	Taylor County, Florida	2020-07-19		2	206		2253						0.14	10.0		https://floridahealthcovid19.gov/
 Taylor_County,_Georgia	Taylor County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	2	52			1	0		-1	0	0.0	2.29		https://dph.georgia.gov/
 Taylor_County,_Iowa	Taylor County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	0	81	79	745	0	0	0	0	0	0.0	0.0	0.57	https://idph.iowa.gov
-Taylor_County,_Kentucky	Taylor County, Kentucky	2020-07-19		1	67								0.0	2.14		https://govstatus.egov.com/
-Taylor_County,_Texas	Taylor County, Texas	2020-07-19		11	879	396							0.57	24.43	6.71	https://www.dshs.state.tx.us/
-Taylor_County,_West_Virginia	Taylor County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	29	17	3036	0	0	0	-3	0	0.0	0.86	0.14	https://dhhr.wv.gov/
+Taylor_County,_Kentucky	Taylor County, Kentucky	2020-07-19		1	69								0.0	2.43		https://govstatus.egov.com/
+Taylor_County,_Texas	Taylor County, Texas	2020-07-19		11	891	415							0.57	26.14	9.43	https://www.dshs.state.tx.us/
+Taylor_County,_West_Virginia	Taylor County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	29	17	3082	0	0	0	-3	0	0.0	0.86	0.14	https://dhhr.wv.gov/
 Taylor_County,_Wisconsin	Taylor County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	0	32			2	0		1	0	0.0	2.14		https://www.dhs.wisconsin.gov/
 Tazewell_County,_Illinois	Tazewell County, Illinois	2020-07-19		8	221		19254						0.0	6.57		http://www.dph.illinois.gov/
 Tazewell_County,_Virginia	Tazewell County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	0	43								0.0	2.14		http://www.vdh.virginia.gov/
@@ -4619,7 +4619,7 @@ Tboung_Khmum_Province	Tboung Khmum Province	2020-07-19	2020-07-19T07:00:00.000Z	
 Tehama_County,_California	Tehama County, California	2020-07-19	2020-07-18	1	136	116		2	0	0	2	0	0.0	3.57	4.14	https://www.cdph.ca.gov
 Telfair_County,_Georgia	Telfair County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	3	201			0	0		-1	0	0.0	3.43		https://dph.georgia.gov/
 Telford_and_Wrekin	Telford and Wrekin	2020-07-19			618			0			0			1.71		https://www.gov.uk/
-Teller_County,_Colorado	Teller County, Colorado	2020-07-19		2	71								0.0	1.43		https://covid19.colorado.gov/
+Teller_County,_Colorado	Teller County, Colorado	2020-07-19		2	78								0.0	2.43		https://covid19.colorado.gov/
 Temple_City,_California	Temple City, California	2020-07-19	2020-07-18T03:00:00.000Z	34	344								0.14	5.14		http://publichealth.lacounty.gov/
 Templeton,_Massachusetts	Templeton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		124		1378	0			0			0.0		https://www.mass.gov/
 Tennessee	Tennessee	2020-07-19	2020-07-19T19:00:00.000Z	843	78115	44319	1196543	1779	5	613	-738	-18	14.57	2307.86	1209.14	https://www.tn.gov/
@@ -4629,11 +4629,11 @@ Terrebonne_Parish,_Louisiana	Terrebonne Parish, Louisiana	2020-07-19		68	2071			
 Terrell_County,_Georgia	Terrell County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	29	260			0	0		0	0	0.14	1.71		https://dph.georgia.gov/
 Terrell_County,_Texas	Terrell County, Texas	2020-07-19		0	2	2							0.0	0.0	0.14	https://www.dshs.state.tx.us/
 Terry_County,_Texas	Terry County, Texas	2020-07-19		0	64	45							0.0	2.29	3.14	https://www.dshs.state.tx.us/
-Teton_County,_Idaho	Teton County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	0	38								0.0	1.14		https://coronavirus.idaho.gov/
+Teton_County,_Idaho	Teton County, Idaho	2020-07-19	2020-07-19T23:00:00.000Z	0	41			3	0		2	0	0.0	1.57		https://coronavirus.idaho.gov/
 Teton_County,_Montana	Teton County, Montana	2020-07-19		0	15								0.0	0.0		https://dphhs.mt.gov/
 Teton_County,_Wyoming	Teton County, Wyoming	2020-07-19	2020-07-19T21:00:00.000Z	1	172	153		11	0	0	1	0	0.0	6.71	3.14	https://health.wyo.gov/
 Tewksbury,_Massachusetts	Tewksbury, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		597		6955	0			0			1.57		https://www.mass.gov/
-Texas	Texas	2020-07-19		3865	317730	169581	2371709						96.14	8438.86	5277.57	https://www.dshs.state.tx.us/
+Texas	Texas	2020-07-19		3958	325030	172936	2371709						109.43	9481.71	5756.86	https://www.dshs.state.tx.us/
 Texas_County,_Missouri	Texas County, Missouri	2020-07-19		0	16								0.0	0.71		https://health.mo.gov/
 Texas_County,_Oklahoma	Texas County, Oklahoma	2020-07-19		7	1007	993							0.14	0.29	1.14	https://coronavirus.health.ok.gov/
 Th%C3%A1i_B%C3%ACnh_Province	Thái Bình Province	2020-07-19		0	30	30		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -4661,16 +4661,16 @@ Tioga_County,_Pennsylvania	Tioga County, Pennsylvania	2020-07-19		2	32		1726				
 Tippah_County,_Mississippi	Tippah County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	11	190			9	0		8	0	0.0	6.29		https://msdh.ms.gov/
 Tisbury,_Massachusetts	Tisbury, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		10		1796	0			0			0.29		https://www.mass.gov/
 Tishomingo_County,_Mississippi	Tishomingo County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	1	155			4	0		-5	0	0.0	7.0		https://msdh.ms.gov/
-Titus_County,_Texas	Titus County, Texas	2020-07-19		6	971	739							0.0	14.43	8.43	https://www.dshs.state.tx.us/
+Titus_County,_Texas	Titus County, Texas	2020-07-19		6	977	839							0.0	15.29	22.71	https://www.dshs.state.tx.us/
 Tiverton,_Rhode_Island	Tiverton, Rhode Island	2020-07-19	2020-07-15T00:00:00.000Z		92		1706							0.14		https://health.ri.gov/
-Tocantins	Tocantins	2020-07-19	2020-07-18T22:00:00.000Z	288	17209								4.71	296.71		https://covid.saude.gov.br/
-Todd_County,_Kentucky	Todd County, Kentucky	2020-07-19		0	27								0.0	-0.14		https://govstatus.egov.com/
+Tocantins	Tocantins	2020-07-19	2020-07-19T22:00:00.000Z	294	17773			564	6		309	1	5.57	377.29		https://covid.saude.gov.br/
+Todd_County,_Kentucky	Todd County, Kentucky	2020-07-19		0	28								0.0	0.0		https://govstatus.egov.com/
 Todd_County,_Minnesota	Todd County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	2	406			0	0		-1	0	0.0	0.43		https://www.health.state.mn.us/
 Todd_County,_South_Dakota	Todd County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	3	65	56	1774	0	0	2	0	0	0.14	-0.14	0.57	https://doh.sd.gov/
 Togo	Togo	2020-07-19		15	774				0			0	0.0	8.0		https://www.who.int/
 Tolland_County,_Connecticut	Tolland County, Connecticut	2020-07-19	2020-07-19T14:00:00.000Z	65	939			0	0		0	0	0.14	1.57		https://portal.ct.gov/
 Tolland,_Massachusetts	Tolland, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		20	0			0			0.0		https://www.mass.gov/
-Tom_Green_County,_Texas	Tom Green County, Texas	2020-07-19		11	1135	318							1.43	60.29	15.71	https://www.dshs.state.tx.us/
+Tom_Green_County,_Texas	Tom Green County, Texas	2020-07-19		11	1165	350							1.43	64.57	20.29	https://www.dshs.state.tx.us/
 Tomar	Tomar	2020-07-19	2020-07-18T23:00:00.000Z		16			0			0			0.0		https://covid19.min-saude.pt/
 Tompkins_County,_New_York	Tompkins County, New York	2020-07-19	2020-07-19T14:00:00.000Z	0	208		25157	9	0		8	0	0.0	3.14		https://coronavirus.health.ny.gov/
 Tomsk_Oblast	Tomsk Oblast	2020-07-19	2020-07-19T07:45:00.000Z	26	3435	1925		60	0	43	-1	-1	0.43	65.86	36.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -4680,7 +4680,7 @@ Toole_County,_Montana	Toole County, Montana	2020-07-19		6	31								0.0	0.0		htt
 Toombs_County,_Georgia	Toombs County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	6	402			14	1		-2	1	0.14	11.0		https://dph.georgia.gov/
 Topsfield,_Massachusetts	Topsfield, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		116		1065	0			0			0.0		https://www.mass.gov/
 Torbay	Torbay	2020-07-19			275			0			0			0.4		https://www.gov.uk/
-Torrance_County,_New_Mexico	Torrance County, New Mexico	2020-07-19		1	50								0.0	0.14		https://cv.nmhealth.org
+Torrance_County,_New_Mexico	Torrance County, New Mexico	2020-07-19		1	51								0.0	0.29		https://cv.nmhealth.org
 Torrance,_California	Torrance, California	2020-07-19	2020-07-18T03:00:00.000Z	53	846								0.29	15.29		http://publichealth.lacounty.gov/
 Torre_de_Moncorvo	Torre de Moncorvo	2020-07-19	2020-07-18T23:00:00.000Z		21			0			0			-0.29		https://covid19.min-saude.pt/
 Torres_Novas	Torres Novas	2020-07-19	2020-07-18T23:00:00.000Z		28			0			0			0.14		https://covid19.min-saude.pt/
@@ -4694,14 +4694,14 @@ Traill_County,_North_Dakota	Traill County, North Dakota	2020-07-19		0	30	26	1583
 Trancoso,_Portugal	Trancoso, Portugal	2020-07-19	2020-07-18T23:00:00.000Z		20			0			0			0.0		https://covid19.min-saude.pt/
 Transylvania_County,_North_Carolina	Transylvania County, North Carolina	2020-07-19		1	84								0.0	5.14		https://www.ncdhhs.gov/
 Traverse_County,_Minnesota	Traverse County, Minnesota	2020-07-19	2020-07-19T16:00:00.000Z	0	9			0	0		0	0	0.0	0.43		https://www.health.state.mn.us/
-Travis_County,_Texas	Travis County, Texas	2020-07-19		196	17215	13672							4.0	370.43	371.14	https://www.dshs.state.tx.us/
+Travis_County,_Texas	Travis County, Texas	2020-07-19		203	17454	13862							5.0	404.57	398.29	https://www.dshs.state.tx.us/
 Treasure_County,_Montana	Treasure County, Montana	2020-07-19		0	2								0.0	0.0		https://dphhs.mt.gov/
 Trego_County,_Kansas	Trego County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		3			0			0			0.14		https://www.coronavirus.kdheks.gov
 Trempealeau_County,_Wisconsin	Trempealeau County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	1	227			0	1		-8	1	0.14	6.71		https://www.dhs.wisconsin.gov/
-Trentino	Trentino	2020-07-19		405	4885	4464	140877				1		0.0	0.57	2.0	http://www.salute.gov.it/
+Trentino	Trentino	2020-07-19		405	4885	4464	140877	1	0	4	-2	0	0.0	0.57	2.0	http://www.salute.gov.it/
 Treutlen_County,_Georgia	Treutlen County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	2	57			1	0		-2	0	0.14	1.57		https://dph.georgia.gov/
 Trigg_County,_Kentucky	Trigg County, Kentucky	2020-07-19		0	37								0.0	1.14		https://govstatus.egov.com/
-Trimble_County,_Kentucky	Trimble County, Kentucky	2020-07-19		0	20								0.0	0.71		https://govstatus.egov.com/
+Trimble_County,_Kentucky	Trimble County, Kentucky	2020-07-19		0	25								0.0	1.43		https://govstatus.egov.com/
 Trinidad_and_Tobago	Trinidad and Tobago	2020-07-19	2020-07-19T11:41:32.000Z	8	137				0			0	0.0	0.57		https://www.ecdc.europa.eu/
 Trinity_County,_California	Trinity County, California	2020-07-19	2020-07-17T08:15:00.000Z	0	2	2	998						0.0	0.0	0.0	https://www.trinitycounty.org/
 Trinity_County,_Texas	Trinity County, Texas	2020-07-19		0	97	48							0.0	4.0	2.29	https://www.dshs.state.tx.us/
@@ -4712,7 +4712,7 @@ Troms_og_Finnmark	Troms og Finnmark	2020-07-19	2020-07-19T11:00:00.000Z		258			0
 Troup_County,_Georgia	Troup County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	43	1866			9	0		-7	1	0.71	16.57		https://dph.georgia.gov/
 Trumbull_County,_Ohio	Trumbull County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	83	1159			20	1		-2	0	0.71	15.14		https://coronavirus.ohio.gov/
 Truro,_Massachusetts	Truro, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		10		301	0			0			0.0		https://www.mass.gov/
-Tucker_County,_West_Virginia	Tucker County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	7	6	2273	0	0	0	0	0	0.0	0.14	0.0	https://dhhr.wv.gov/
+Tucker_County,_West_Virginia	Tucker County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	7	6	2355	0	0	0	0	0	0.0	0.14	0.0	https://dhhr.wv.gov/
 Tula_Oblast	Tula Oblast	2020-07-19	2020-07-19T07:45:00.000Z	182	7890	6433		45	4	37	-4	1	4.14	55.71	39.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tulare_County,_California	Tulare County, California	2020-07-19	2020-07-18	165	6810	3820						0	1.86	147.14	18.71	https://www.cdph.ca.gov
 Tulln_District	Tulln District	2020-07-19	2020-07-19T20:00:00.000Z		189			0			0			0.43		https://info.gesundheitsministerium.at/
@@ -4720,21 +4720,21 @@ Tulsa_County,_Oklahoma	Tulsa County, Oklahoma	2020-07-19		84	6285	4960							1.2
 Tunica_County,_Mississippi	Tunica County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	3	146			8	0		9	0	0.0	3.0		https://msdh.ms.gov/
 Tunisia	Tunisia	2020-07-19	2020-07-19T00:00:00.000Z	50	1374	1097	83823	26	0	2	14	0	0.0	15.86	3.0	https://covid-19.tn/
 Tuolumne_County,_California	Tuolumne County, California	2020-07-19	2020-07-17T00:00:00.000Z	0	85	65	7041						0.0	1.71	2.43	https://www.tuolumnecounty.ca.gov/
-Turkey	Turkey	2020-07-19		5491	219641	202010	4273377		17			-1	18.29	949.71	1070.71	https://covid19.saglik.gov.tr/
+Turkey	Turkey	2020-07-19		5491	219641	202010	4273377	924	17	997	6	-1	18.29	949.71	1070.71	https://covid19.saglik.gov.tr/
 Turkistan_Region	Turkistan Region	2020-07-19		18	2457	1763		40	0	23	14	0	1.0	33.86	131.57	https://www.coronavirus2020.kz/
 Turks_and_Caicos_Islands	Turks and Caicos Islands	2020-07-19	2020-07-19T11:41:32.000Z	2	75				0			0	0.0	0.57		https://www.ecdc.europa.eu/
 Turner_County,_Georgia	Turner County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	18	214			1	0		-1	0	0.0	3.57		https://dph.georgia.gov/
 Turner_County,_South_Dakota	Turner County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	33	25	803	2	0	0	1	0	0.0	0.57	0.14	https://doh.sd.gov/
 Tuscaloosa_County,_Alabama	Tuscaloosa County, Alabama	2020-07-19		55	3152		29575						0.29	66.0		https://covid19.alabama.gov/
-Tuscany	Tuscany	2020-07-19		1129	10374	8920	390676				16		1.0	7.43	7.29	http://www.salute.gov.it/
+Tuscany	Tuscany	2020-07-19		1129	10374	8920	390676	16	0	5	14	0	1.0	7.43	7.29	http://www.salute.gov.it/
 Tuscarawas_County,_Ohio	Tuscarawas County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	11	682			5	0		-10	0	0.14	10.43		https://coronavirus.ohio.gov/
 Tuscola_County,_Michigan	Tuscola County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	27	251			3	0	0	2	0	0.0	0.57		https://www.michigan.gov/
 Tuva	Tuva	2020-07-19	2020-07-19T07:45:00.000Z	45	5692	2840		40	0	150	2	0	1.86	41.14	115.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tver_Oblast	Tver Oblast	2020-07-19	2020-07-19T07:45:00.000Z	116	4263	3736		26	3	0	0	1	2.57	28.43	63.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Twiggs_County,_Georgia	Twiggs County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	1	55			3	0		2	0	0.0	2.14		https://dph.georgia.gov/
-Twin_Falls_County,_Idaho	Twin Falls County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	25	807								0.0	11.57		https://coronavirus.idaho.gov/
-Tyler_County,_Texas	Tyler County, Texas	2020-07-19		0	48	15							0.0	1.57	0.0	https://www.dshs.state.tx.us/
-Tyler_County,_West_Virginia	Tyler County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	10	8	648	0	0	0	0	0	0.0	0.0	0.43	https://dhhr.wv.gov/
+Twin_Falls_County,_Idaho	Twin Falls County, Idaho	2020-07-19	2020-07-19T23:00:00.000Z	25	813			6	0		-6	0	0.0	12.43		https://coronavirus.idaho.gov/
+Tyler_County,_Texas	Tyler County, Texas	2020-07-19		0	49	15							0.0	1.71	0.0	https://www.dshs.state.tx.us/
+Tyler_County,_West_Virginia	Tyler County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	10	8	663	0	0	0	0	0	0.0	0.0	0.43	https://dhhr.wv.gov/
 Tyngsborough,_Massachusetts	Tyngsborough, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		95		1764	0			0			0.29		https://www.mass.gov/
 Tyringham,_Massachusetts	Tyringham, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		30	0			0			0.0		https://www.mass.gov/
 Tyrol_(state)	Tyrol (state)	2020-07-19	2020-07-19T20:00:00.000Z	101		3476			0	0		0	0.0		3.86	https://info.gesundheitsministerium.at/
@@ -4748,13 +4748,13 @@ Ukraine	Ukraine	2020-07-19	2020-07-19T00:00:00.000Z	1485	58842	30879	877262	731	
 Ulster_County,_New_York	Ulster County, New York	2020-07-19	2020-07-19T14:00:00.000Z	81	1901		48433	1	0		-1	0	0.0	6.0		https://coronavirus.health.ny.gov/
 Ulyanovsk_Oblast	Ulyanovsk Oblast	2020-07-19	2020-07-19T07:45:00.000Z	59	7818	4946		112	0	0	2	0	0.86	109.57	98.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Umatilla_County,_Oregon	Umatilla County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	9	1227		7477						0.29	41.43		https://govstatus.egov.com/OR-OHA-COVID-19
-Umbria	Umbria	2020-07-19		80	1456	1364	111772				0		0.0	0.86	0.43	http://www.salute.gov.it/
+Umbria	Umbria	2020-07-19		80	1456	1364	111772	0	0	2	-2	0	0.0	0.86	0.43	http://www.salute.gov.it/
 Union_County,_Arkansas	Union County, Arkansas	2020-07-19		14	305	244	3787						0.0	4.43	2.57	https://www.healthy.arkansas.gov/
 Union_County,_Florida	Union County, Florida	2020-07-19		3	142		2840						0.14	4.0		https://floridahealthcovid19.gov/
 Union_County,_Georgia	Union County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	4	136			1	0		0	0	0.0	3.86		https://dph.georgia.gov/
 Union_County,_Illinois	Union County, Illinois	2020-07-19		21	231		2824						0.29	2.71		http://www.dph.illinois.gov/
 Union_County,_Iowa	Union County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	1	56	29	1721	2	0	0	2	0	0.14	2.43	0.14	https://idph.iowa.gov
-Union_County,_Kentucky	Union County, Kentucky	2020-07-19		0	34								0.0	0.29		https://govstatus.egov.com/
+Union_County,_Kentucky	Union County, Kentucky	2020-07-19		0	37								0.0	0.71		https://govstatus.egov.com/
 Union_County,_Mississippi	Union County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	11	323			4	0		-8	0	-0.14	9.86		https://msdh.ms.gov/
 Union_County,_New_Jersey	Union County, New Jersey	2020-07-19		1165	16508								0.86	1.0		https://www.nj.gov/
 Union_County,_New_Mexico	Union County, New Mexico	2020-07-19		0	14								0.0	0.86		https://cv.nmhealth.org
@@ -4767,11 +4767,11 @@ Union_County,_South_Dakota	Union County, South Dakota	2020-07-19	2020-07-19T17:0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-07-19		30	499								0.29	3.29		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-07-19	2020-07-19T09:57:00.000Z	339	56922	49269	4508928	211	1	352	-78	-1	0.86	295.43	589.86	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-07-19	2020-07-19T08:26:00.000Z	45300	294792		10009148	726	27	27	-101	-13	68.71	741.29		https://www.gov.uk/
-United_States	United States	2020-07-19	2020-07-19T22:14:26.529Z	137209	3740660				853			-55	739.29	64591.14	16627.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-07-19	2020-07-20T00:17:43.122Z	137307	3750124				853			-55	753.29	65943.14	17827.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-07-19	2020-07-19T11:41:32.000Z	6	297				0			0	0.0	16.57		https://www.ecdc.europa.eu/
 Upper_Austria	Upper Austria	2020-07-19	2020-07-19T20:00:00.000Z	58		2681			0	29		0	0.0		42.29	https://info.gesundheitsministerium.at/
-Upshur_County,_Texas	Upshur County, Texas	2020-07-19		0	121	71							0.0	3.71	3.43	https://www.dshs.state.tx.us/
-Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	31	23	2300	0	0	1	0	0	0.0	0.14	0.86	https://dhhr.wv.gov/
+Upshur_County,_Texas	Upshur County, Texas	2020-07-19		0	123	76							0.0	4.0	4.14	https://www.dshs.state.tx.us/
+Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	31	23	2450	0	0	1	0	0	0.0	0.14	0.86	https://dhhr.wv.gov/
 Upson_County,_Georgia	Upson County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	45	416			9	0		9	0	0.0	4.0		https://dph.georgia.gov/
 Upton_County,_Texas	Upton County, Texas	2020-07-19		0	11	5							0.0	0.14	0.43	https://www.dshs.state.tx.us/
 Upton,_Massachusetts	Upton, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		25		727	0			0			0.14		https://www.mass.gov/
@@ -4780,14 +4780,14 @@ Utah	Utah	2020-07-19	2020-07-19T19:00:00.000Z	243	34117	20915	462822	785	0	494	2
 Utah_County,_Utah	Utah County, Utah	2020-07-19	2020-07-19T19:00:00.000Z	30	6287			139	0		-59	0	0.29	131.14		https://coronavirus.utah.gov/
 Uttar_Pradesh	Uttar Pradesh	2020-07-19	2020-07-19T08:00:00.000Z	1108	47036	28664		1873	24	1030	151	-14	27.86	1706.29	853.57	https://www.mohfw.gov.in/
 Uttarakhand	Uttarakhand	2020-07-19	2020-07-19T08:00:00.000Z	52	4276	3081		174	1	60	54	0	0.86	122.71	51.86	https://www.mohfw.gov.in/
-Uvalde_County,_Texas	Uvalde County, Texas	2020-07-19		4	308	218							0.29	10.14	10.14	https://www.dshs.state.tx.us/
+Uvalde_County,_Texas	Uvalde County, Texas	2020-07-19		4	315	223							0.29	11.14	10.86	https://www.dshs.state.tx.us/
 Uxbridge,_Massachusetts	Uxbridge, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		78		1616	0			0			0.0		https://www.mass.gov/
 Uzbekistan	Uzbekistan	2020-07-19	2020-07-19T11:41:32.000Z	84	16429				4			0	3.71	531.86		https://www.ecdc.europa.eu/
 Vagos	Vagos	2020-07-19	2020-07-18T23:00:00.000Z		36			0			0			0.0		https://covid19.min-saude.pt/
 Val_Verde_County,_Texas	Val Verde County, Texas	2020-07-19		8	657	135							0.71	22.0	5.0	https://www.dshs.state.tx.us/
 Vale_de_Cambra	Vale de Cambra	2020-07-19	2020-07-18T23:00:00.000Z		147			0			0			-1.14		https://covid19.min-saude.pt/
-Valencia_County,_New_Mexico	Valencia County, New Mexico	2020-07-19		2	247								0.0	8.71		https://cv.nmhealth.org
-Valley_County,_Idaho	Valley County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	1	34								0.14	1.43		https://coronavirus.idaho.gov/
+Valencia_County,_New_Mexico	Valencia County, New Mexico	2020-07-19		2	252								0.0	9.43		https://cv.nmhealth.org
+Valley_County,_Idaho	Valley County, Idaho	2020-07-19	2020-07-19T23:00:00.000Z	1	35			1	0		-1	0	0.14	1.57		https://coronavirus.idaho.gov/
 Valley_County,_Montana	Valley County, Montana	2020-07-19		0	5								0.0	0.14		https://dphhs.mt.gov/
 Valley_County,_Nebraska	Valley County, Nebraska	2020-07-19		0	9		363						0.0	0.14		http://dhhs.ne.gov/
 Valongo	Valongo	2020-07-19	2020-07-18T23:00:00.000Z		774			0			0			1.43		https://covid19.min-saude.pt/
@@ -4802,7 +4802,7 @@ Vatican_City	Vatican City	2020-07-19	2020-07-19T11:41:32.000Z	0	12				0			0	0.0	
 Velas	Velas	2020-07-19	2020-07-18T23:00:00.000Z		6			0			0			0.14		https://covid19.min-saude.pt/
 Venango_County,_Pennsylvania	Venango County, Pennsylvania	2020-07-19			51		2281							2.14		https://www.health.pa.gov/
 Vendas_Novas	Vendas Novas	2020-07-19	2020-07-18T23:00:00.000Z		10			0			0			0.14		https://covid19.min-saude.pt/
-Veneto	Veneto	2020-07-19		2050	19607	16990	1117268				48		1.57	30.29	6.0	http://www.salute.gov.it/
+Veneto	Veneto	2020-07-19		2050	19607	16990	1117268	48	1	5	14	-1	1.57	30.29	6.0	http://www.salute.gov.it/
 Venezuela	Venezuela	2020-07-19	2020-07-19T11:41:32.000Z	110	11483				3			0	3.57	329.29		https://www.ecdc.europa.eu/
 Ventura_County,_California	Ventura County, California	2020-07-19	2020-07-18	56	5630	2726	89336	179	0	0	-41	0	0.43	155.0	61.14	https://www.cdph.ca.gov
 Vermilion_County,_Illinois	Vermilion County, Illinois	2020-07-19		2	121		8661						0.0	4.57		http://www.dph.illinois.gov/
@@ -4864,9 +4864,9 @@ Waldo_County,_Maine	Waldo County, Maine	2020-07-19	2020-07-19T14:00:00.000Z	14	6
 Wales,_Massachusetts	Wales, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		149	0			0			0.0		https://www.mass.gov/
 Walker_County,_Alabama	Walker County, Alabama	2020-07-19		50	1237		9143						2.57	23.14		https://covid19.alabama.gov/
 Walker_County,_Georgia	Walker County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	14	410			2	0		-4	0	0.29	5.14		https://dph.georgia.gov/
-Walker_County,_Texas	Walker County, Texas	2020-07-19		28	2568	2007							0.0	47.0	30.86	https://www.dshs.state.tx.us/
+Walker_County,_Texas	Walker County, Texas	2020-07-19		28	2586	2049							0.0	49.57	36.86	https://www.dshs.state.tx.us/
 Walla_Walla_County,_Washington	Walla Walla County, Washington	2020-07-19		3	273								0.0	7.71		https://coronavirus.wa.gov/
-Waller_County,_Texas	Waller County, Texas	2020-07-19		0	286	151							0.0	5.57	10.43	https://www.dshs.state.tx.us/
+Waller_County,_Texas	Waller County, Texas	2020-07-19		0	288	158							0.0	5.86	11.43	https://www.dshs.state.tx.us/
 Wallowa_County,_Oregon	Wallowa County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	0	15		545						0.0	0.29		https://govstatus.egov.com/OR-OHA-COVID-19
 Walnut,_California	Walnut, California	2020-07-19	2020-07-18T03:00:00.000Z	1	160								0.0	2.71		http://publichealth.lacounty.gov/
 Walpole,_Massachusetts	Walpole, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		238		4065	0			0			0.29		https://www.mass.gov/
@@ -4879,14 +4879,14 @@ Walworth_County,_South_Dakota	Walworth County, South Dakota	2020-07-19	2020-07-1
 Walworth_County,_Wisconsin	Walworth County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	18	902			5	0		-34	0	0.0	21.14		https://www.dhs.wisconsin.gov/
 Wapello_County,_Iowa	Wapello County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	31	733	674	4664	7	0	0	7	0	0.0	2.57	0.57	https://idph.iowa.gov
 Ward_County,_North_Dakota	Ward County, North Dakota	2020-07-19		1	102	72	8893						0.0	4.14	1.86	https://www.health.nd.gov/
-Ward_County,_Texas	Ward County, Texas	2020-07-19		1	67	18							0.14	3.0	0.86	https://www.dshs.state.tx.us/
+Ward_County,_Texas	Ward County, Texas	2020-07-19		1	67	19							0.14	3.0	1.0	https://www.dshs.state.tx.us/
 Ware_County,_Georgia	Ware County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	17	844			9	0		-38	0	0.14	29.29		https://dph.georgia.gov/
 Ware,_Massachusetts	Ware, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		33		1115	0			0			0.0		https://www.mass.gov/
 Wareham,_Massachusetts	Wareham, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		216		3412	0			0			0.43		https://www.mass.gov/
 Warren_County,_Georgia	Warren County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	0	44			-1	0		-6	0	0.0	1.86		https://dph.georgia.gov/
 Warren_County,_Illinois	Warren County, Illinois	2020-07-19		0	152		1437						0.0	0.43		http://www.dph.illinois.gov/
 Warren_County,_Iowa	Warren County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	1	400	236	6312	14	0	0	10	0	0.0	10.57	1.0	https://idph.iowa.gov
-Warren_County,_Kentucky	Warren County, Kentucky	2020-07-19		19	1911								0.29	25.43		https://govstatus.egov.com/
+Warren_County,_Kentucky	Warren County, Kentucky	2020-07-19		19	1985								0.29	36.0		https://govstatus.egov.com/
 Warren_County,_Mississippi	Warren County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	22	690			4	0		-11	0	0.14	12.86		https://msdh.ms.gov/
 Warren_County,_Missouri	Warren County, Missouri	2020-07-19		0	85								0.0	4.0		https://health.mo.gov/
 Warren_County,_New_Jersey	Warren County, New Jersey	2020-07-19		154	1276								0.14	1.57		https://www.nj.gov/
@@ -4912,7 +4912,7 @@ Washington_County,_Arkansas	Washington County, Arkansas	2020-07-19		37	5059	4323
 Washington_County,_Colorado	Washington County, Colorado	2020-07-19			46									0.0		https://covid19.colorado.gov/
 Washington_County,_Florida	Washington County, Florida	2020-07-19		13	297		2930						0.0	19.14		https://floridahealthcovid19.gov/
 Washington_County,_Georgia	Washington County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	1	226			5	0		-1	0	0.0	5.43		https://dph.georgia.gov/
-Washington_County,_Idaho	Washington County, Idaho	2020-07-19	2020-07-18T17:00:00.000Z	2	137								0.0	2.14		https://coronavirus.idaho.gov/
+Washington_County,_Idaho	Washington County, Idaho	2020-07-19	2020-07-19T23:00:00.000Z	2	138			1	0		-1	0	0.0	2.29		https://coronavirus.idaho.gov/
 Washington_County,_Illinois	Washington County, Illinois	2020-07-19		0	31		1123						0.0	0.86		http://www.dph.illinois.gov/
 Washington_County,_Iowa	Washington County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	9	260	228	2679	3	0	0	3	0	0.0	1.29	1.43	https://idph.iowa.gov
 Washington_County,_Kansas	Washington County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		2			0			0			0.14		https://www.coronavirus.kdheks.gov
@@ -4929,7 +4929,7 @@ Washington_County,_Ohio	Washington County, Ohio	2020-07-19	2020-07-19T18:00:00.0
 Washington_County,_Oklahoma	Washington County, Oklahoma	2020-07-19		39	490	424							0.0	6.0	6.14	https://coronavirus.health.ok.gov/
 Washington_County,_Oregon	Washington County, Oregon	2020-07-19	2020-07-17T19:01:00.000Z	21	2105		45953						0.14	48.71		https://govstatus.egov.com/OR-OHA-COVID-19
 Washington_County,_Pennsylvania	Washington County, Pennsylvania	2020-07-19		10	559		12626						0.57	16.0		https://www.health.pa.gov/
-Washington_County,_Texas	Washington County, Texas	2020-07-19		33	379	239							0.0	4.29	2.71	https://www.dshs.state.tx.us/
+Washington_County,_Texas	Washington County, Texas	2020-07-19		34	387	143							0.14	5.43	-11.0	https://www.dshs.state.tx.us/
 Washington_County,_Utah	Washington County, Utah	2020-07-19	2020-07-18T00:00:00.000Z		1842									36.29		https://swuhealth.org/covid/
 Washington_County,_Vermont	Washington County, Vermont	2020-07-19		1	45			0			-1		0.0	0.29		https://www.healthvermont.gov/
 Washington_County,_Virginia	Washington County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	4	111								0.0	3.43		http://www.vdh.virginia.gov/
@@ -4938,7 +4938,7 @@ Washington_Parish,_Louisiana	Washington Parish, Louisiana	2020-07-19		51	942				
 Washington,_D.C.	Washington, D.C.	2020-07-19	2020-07-18T04:00:00.000Z	578	11261	1886	147765	67	0	9	-12	-1	1.43	59.14	21.29	https://coronavirus.dc.gov/
 Washington,_Massachusetts	Washington, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		3		42	0			0			0.0		https://www.mass.gov/
 Washita_County,_Oklahoma	Washita County, Oklahoma	2020-07-19		0	12	6							0.0	0.57	0.43	https://coronavirus.health.ok.gov/
-Washoe_County,_Nevada	Washoe County, Nevada	2020-07-19	2020-07-18T14:54:00.000Z	101	4054	2734							1.14	59.86	49.14	https://www.washoecounty.us/
+Washoe_County,_Nevada	Washoe County, Nevada	2020-07-19	2020-07-19T15:33:00.000Z	102	4108	2767		54	1	33	-49	1	1.29	67.57	53.86	https://www.washoecounty.us/
 Washtenaw_County,_Michigan	Washtenaw County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	109	2103			-40	0	0	-99	0	0.14	27.0		https://www.michigan.gov/
 Watauga_County,_North_Carolina	Watauga County, North Carolina	2020-07-19		0	176								0.0	8.0		https://www.ncdhhs.gov/
 Watertown,_Massachusetts	Watertown, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		396		5326	0			0			0.29		https://www.mass.gov/
@@ -4950,7 +4950,7 @@ Wayland,_Massachusetts	Wayland, Massachusetts	2020-07-19	2020-07-19T20:00:00.000
 Wayne_County,_Georgia	Wayne County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	0	336			44	0		-6	0	0.0	25.0		https://dph.georgia.gov/
 Wayne_County,_Illinois	Wayne County, Illinois	2020-07-19		1	25		1443						0.0	0.86		http://www.dph.illinois.gov/
 Wayne_County,_Iowa	Wayne County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	1	11	9	391	0	0	0	0	0	0.14	0.0	0.43	https://idph.iowa.gov
-Wayne_County,_Kentucky	Wayne County, Kentucky	2020-07-19		0	32								0.0	1.71		https://govstatus.egov.com/
+Wayne_County,_Kentucky	Wayne County, Kentucky	2020-07-19		0	35								0.0	2.14		https://govstatus.egov.com/
 Wayne_County,_Michigan	Wayne County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	2780	25136			85	0	0	-51	0	3.14	162.86		https://www.michigan.gov/
 Wayne_County,_Mississippi	Wayne County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	20	622			-1	0		-18	0	0.14	8.14		https://msdh.ms.gov/
 Wayne_County,_Missouri	Wayne County, Missouri	2020-07-19		0	5								0.0	0.0		https://health.mo.gov/
@@ -4960,21 +4960,21 @@ Wayne_County,_North_Carolina	Wayne County, North Carolina	2020-07-19		34	2100			
 Wayne_County,_Ohio	Wayne County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	56	400			1	0		-5	0	0.14	3.86		https://coronavirus.ohio.gov/
 Wayne_County,_Pennsylvania	Wayne County, Pennsylvania	2020-07-19		8	148		3251						0.0	1.0		https://www.health.pa.gov/
 Wayne_County,_Utah	Wayne County, Utah	2020-07-19	2020-07-18T00:00:00.000Z	0	0	0							0.0	0.0	0.0	https://centralutahpublichealth.org/
-Wayne_County,_West_Virginia	Wayne County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	9	149	110	3374	2	0	0	-1	0	0.0	3.71	1.29	https://dhhr.wv.gov/
+Wayne_County,_West_Virginia	Wayne County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	9	149	110	3436	2	0	0	-1	0	0.0	3.71	1.29	https://dhhr.wv.gov/
 Waynesboro,_Virginia	Waynesboro, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	1	142								0.14	2.71		http://www.vdh.virginia.gov/
-Webb_County,_Texas	Webb County, Texas	2020-07-19		59	3677	1019							2.29	136.43	22.14	https://www.dshs.state.tx.us/
+Webb_County,_Texas	Webb County, Texas	2020-07-19		62	3829	1019							2.71	158.14	22.14	https://www.dshs.state.tx.us/
 Weber_County,_Utah	Weber County, Utah	2020-07-19	2020-07-18T00:00:00.000Z	19	1971	828							0.71	55.71	26.71	http://www.webermorganhealth.org/
 Webster_County,_Georgia	Webster County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	2	35			0	0		0	0	0.0	0.57		https://dph.georgia.gov/
 Webster_County,_Iowa	Webster County, Iowa	2020-07-19	2020-07-19T00:00:00.000Z	5	530	196	6103	5	0	0	-60	0	0.0	22.29	5.71	https://idph.iowa.gov
-Webster_County,_Kentucky	Webster County, Kentucky	2020-07-19		0	60								0.0	0.71		https://govstatus.egov.com/
+Webster_County,_Kentucky	Webster County, Kentucky	2020-07-19		0	63								0.0	1.14		https://govstatus.egov.com/
 Webster_County,_Mississippi	Webster County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	11	141			1	0		3	0	0.0	1.0		https://msdh.ms.gov/
 Webster_County,_Missouri	Webster County, Missouri	2020-07-19		1	76								0.0	3.57		https://health.mo.gov/
 Webster_County,_Nebraska	Webster County, Nebraska	2020-07-19		0	9		243						0.0	0.29		http://dhhs.ne.gov/
-Webster_County,_West_Virginia	Webster County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	2	0	798	0	0	0	0	0	0.0	0.14	0.0	https://dhhr.wv.gov/
+Webster_County,_West_Virginia	Webster County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	2	0	801	0	0	0	0	0	0.0	0.14	0.0	https://dhhr.wv.gov/
 Webster_Parish,_Louisiana	Webster Parish, Louisiana	2020-07-19		12	628								0.0	13.29		http://ldh.la.gov/
 Webster,_Massachusetts	Webster, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		263		3261	0			0			0.86		https://www.mass.gov/
 Weiz_District	Weiz District	2020-07-19	2020-07-19T20:00:00.000Z		203			0			-1			0.29		https://info.gesundheitsministerium.at/
-Weld_County,_Colorado	Weld County, Colorado	2020-07-19		139	3189								0.14	27.14		https://covid19.colorado.gov/
+Weld_County,_Colorado	Weld County, Colorado	2020-07-19		139	3210								0.14	30.14		https://covid19.colorado.gov/
 Wellesley,_Massachusetts	Wellesley, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		239		3457	0			0			0.14		https://www.mass.gov/
 Wellfleet,_Massachusetts	Wellfleet, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		5		372	0			0			0.0		https://www.mass.gov/
 Wells_County,_North_Dakota	Wells County, North Dakota	2020-07-19		0	11	11	535						0.0	0.14	0.43	https://www.health.nd.gov/
@@ -5016,11 +5016,11 @@ Weston_County,_Wyoming	Weston County, Wyoming	2020-07-19	2020-07-18T21:00:00.000
 Weston,_Massachusetts	Weston, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		112		1971	0			0			0.14		https://www.mass.gov/
 Westport,_Massachusetts	Westport, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		100		2174	0			0			0.0		https://www.mass.gov/
 Westwood,_Massachusetts	Westwood, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		132		2249	0			0			0.43		https://www.mass.gov/
-Wetzel_County,_West_Virginia	Wetzel County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	42	24	1282	2	0	1	2	0	0.0	0.86	1.71	https://dhhr.wv.gov/
+Wetzel_County,_West_Virginia	Wetzel County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	42	24	1322	2	0	1	2	0	0.0	0.86	1.71	https://dhhr.wv.gov/
 Wexford_County,_Michigan	Wexford County, Michigan	2020-07-19	2020-07-19T16:00:00.000Z	4	53			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Weymouth,_Massachusetts	Weymouth, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		735		9154	0			0			1.29		https://www.mass.gov/
 Whanganui	Whanganui	2020-07-19	2020-07-19T01:00:00.000Z		9	9		0		0	0			0.0	0.0	https://www.health.govt.nz/
-Wharton_County,_Texas	Wharton County, Texas	2020-07-19		1	395	209							0.0	8.0	19.29	https://www.dshs.state.tx.us/
+Wharton_County,_Texas	Wharton County, Texas	2020-07-19		1	403	212							0.0	9.14	19.71	https://www.dshs.state.tx.us/
 Whatcom_County,_Washington	Whatcom County, Washington	2020-07-19		37	772								-0.57	8.86		https://coronavirus.wa.gov/
 Whately,_Massachusetts	Whately, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		5		79	0			0			0.0		https://www.mass.gov/
 Wheatland_County,_Montana	Wheatland County, Montana	2020-07-19		0	2								0.0	0.0		https://dphhs.mt.gov/
@@ -5031,10 +5031,10 @@ Wheeler_County,_Texas	Wheeler County, Texas	2020-07-19		0	26	18							0.0	0.86	0
 White_County,_Arkansas	White County, Arkansas	2020-07-19		2	168	122	5012						0.0	3.86	3.71	https://www.healthy.arkansas.gov/
 White_County,_Georgia	White County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	5	213			3	0		-3	0	0.0	5.86		https://dph.georgia.gov/
 White_County,_Illinois	White County, Illinois	2020-07-19		0	28		1146						0.0	2.57		http://www.dph.illinois.gov/
-White_Pine_County,_Nevada	White Pine County, Nevada	2020-07-19	2020-07-18T00:00:00.000Z	1	10	3							0.14	0.43	0.0	https://www.whitepinecounty.net/
+White_Pine_County,_Nevada	White Pine County, Nevada	2020-07-19	2020-07-19T00:00:00.000Z	1	10	3		0	0	0	0	0	0.14	0.43	0.0	https://www.whitepinecounty.net/
 Whiteside_County,_Illinois	Whiteside County, Illinois	2020-07-19		16	233		5979						0.14	3.0		http://www.dph.illinois.gov/
 Whitfield_County,_Georgia	Whitfield County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	23	2246			67	0		-42	-4	1.14	65.57		https://dph.georgia.gov/
-Whitley_County,_Kentucky	Whitley County, Kentucky	2020-07-19		0	69								0.0	2.14		https://govstatus.egov.com/
+Whitley_County,_Kentucky	Whitley County, Kentucky	2020-07-19		0	71								0.0	2.43		https://govstatus.egov.com/
 Whitman_County,_Washington	Whitman County, Washington	2020-07-19		0	55								0.0	1.43		https://coronavirus.wa.gov/
 Whitman,_Massachusetts	Whitman, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		190		2211	0			0			0.14		https://www.mass.gov/
 Whittier,_California	Whittier, California	2020-07-19	2020-07-18T03:00:00.000Z	14	1253								-0.14	27.57		http://publichealth.lacounty.gov/
@@ -5052,19 +5052,19 @@ Wilkin_County,_Minnesota	Wilkin County, Minnesota	2020-07-19	2020-07-19T16:00:00
 Wilkinson_County,_Georgia	Wilkinson County, Georgia	2020-07-19	2020-07-19T18:50:06.000Z	9	133			1	0		-4	0	0.0	3.0		https://dph.georgia.gov/
 Wilkinson_County,_Mississippi	Wilkinson County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	11	121			0	0		-10	-2	0.29	3.29		https://msdh.ms.gov/
 Will_County,_Illinois	Will County, Illinois	2020-07-19		333	7652		98566						1.0	53.43		http://www.dph.illinois.gov/
-Willacy_County,_Texas	Willacy County, Texas	2020-07-19		3	471	153							0.0	20.86	3.29	https://www.dshs.state.tx.us/
+Willacy_County,_Texas	Willacy County, Texas	2020-07-19		3	473	153							0.0	21.14	3.29	https://www.dshs.state.tx.us/
 Williams_County,_North_Dakota	Williams County, North Dakota	2020-07-19		0	135	65	4220						0.0	9.43	4.29	https://www.health.nd.gov/
 Williams_County,_Ohio	Williams County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	3	90			3	0		3	-1	0.14	2.0		https://coronavirus.ohio.gov/
 Williamsburg_County,_South_Carolina	Williamsburg County, South Carolina	2020-07-19		18	626								0.43	19.86		https://www.scdhec.gov/
 Williamsburg,_Massachusetts	Williamsburg, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		11		494	0			0			0.14		https://www.mass.gov/
 Williamsburg,_Virginia	Williamsburg, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	6	94								0.0	2.29		http://www.vdh.virginia.gov/
 Williamson_County,_Illinois	Williamson County, Illinois	2020-07-19		4	201		8819						0.0	5.71		http://www.dph.illinois.gov/
-Williamson_County,_Texas	Williamson County, Texas	2020-07-19		67	4490	3492							2.14	106.43	360.0	https://www.dshs.state.tx.us/
+Williamson_County,_Texas	Williamson County, Texas	2020-07-19		70	4686	3576							2.57	134.43	372.0	https://www.dshs.state.tx.us/
 Williamstown,_Massachusetts	Williamstown, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		83		1145	0			0			0.14		https://www.mass.gov/
 Wilmington,_Massachusetts	Wilmington, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		337		3529	0			0			0.57		https://www.mass.gov/
 Wilson_County,_Kansas	Wilson County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		5			0			0			0.14		https://www.coronavirus.kdheks.gov
 Wilson_County,_North_Carolina	Wilson County, North Carolina	2020-07-19		28	1128								0.57	29.71		https://www.ncdhhs.gov/
-Wilson_County,_Texas	Wilson County, Texas	2020-07-19		5	344	102							0.0	20.43	0.86	https://www.dshs.state.tx.us/
+Wilson_County,_Texas	Wilson County, Texas	2020-07-19		5	352	102							0.0	21.57	0.86	https://www.dshs.state.tx.us/
 Wiltshire	Wiltshire	2020-07-19			1261			0			0			1.18		https://www.gov.uk/
 Winchendon,_Massachusetts	Winchendon, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		89		1627	0			0			0.0		https://www.mass.gov/
 Winchester,_Massachusetts	Winchester, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		119		3471	0			0			0.0		https://www.mass.gov/
@@ -5073,7 +5073,7 @@ Windham_County,_Connecticut	Windham County, Connecticut	2020-07-19	2020-07-19T14
 Windham_County,_Vermont	Windham County, Vermont	2020-07-19		3	100			1			1		0.0	0.14		https://www.healthvermont.gov/
 Windsor_County,_Vermont	Windsor County, Vermont	2020-07-19		2	65			0			0		0.0	0.43		https://www.healthvermont.gov/
 Windsor,_Massachusetts	Windsor, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		0		77	0			0			0.0		https://www.mass.gov/
-Winkler_County,_Texas	Winkler County, Texas	2020-07-19		0	55	22							0.0	2.14	1.43	https://www.dshs.state.tx.us/
+Winkler_County,_Texas	Winkler County, Texas	2020-07-19		0	55	24							0.0	2.14	1.71	https://www.dshs.state.tx.us/
 Winn_Parish,_Louisiana	Winn Parish, Louisiana	2020-07-19		5	317								0.0	3.86		http://ldh.la.gov/
 Winnebago_County,_Illinois	Winnebago County, Illinois	2020-07-19		108	3342		43163						0.29	24.71		http://www.dph.illinois.gov/
 Winnebago_County,_Wisconsin	Winnebago County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	14	847			14	0		-2	0	0.14	10.86		https://www.dhs.wisconsin.gov/
@@ -5082,7 +5082,7 @@ Winona_County,_Minnesota	Winona County, Minnesota	2020-07-19	2020-07-19T16:00:00
 Winston_County,_Alabama	Winston County, Alabama	2020-07-19		8	343		2972						0.43	6.29		https://covid19.alabama.gov/
 Winston_County,_Mississippi	Winston County, Mississippi	2020-07-19	2020-07-19T05:00:00.000Z	13	348			8	0		4	0	0.29	6.71		https://msdh.ms.gov/
 Winthrop,_Massachusetts	Winthrop, Massachusetts	2020-07-19	2020-07-19T20:00:00.000Z		297		3673	0			0			4.86		https://www.mass.gov/
-Wirt_County,_West_Virginia	Wirt County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	6	5	334	0	0	0	0	0	0.0	0.0	0.14	https://dhhr.wv.gov/
+Wirt_County,_West_Virginia	Wirt County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	6	5	337	0	0	0	0	0	0.0	0.0	0.14	https://dhhr.wv.gov/
 Wisconsin	Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	844	42315			830	1		-148	-9	3.43	838.14		https://www.dhs.wisconsin.gov/
 Wise_County,_Texas	Wise County, Texas	2020-07-19		5	219	166							0.0	5.0	4.43	https://www.dshs.state.tx.us/
 Wise_County,_Virginia	Wise County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	3	52								0.14	1.57		http://www.vdh.virginia.gov/
@@ -5092,11 +5092,11 @@ Wolfsberg_District	Wolfsberg District	2020-07-19	2020-07-19T20:00:00.000Z		50			
 Wolverhampton	Wolverhampton	2020-07-19			1397			0			0			1.38		https://www.gov.uk/
 Wood_County,_Ohio	Wood County, Ohio	2020-07-19	2020-07-19T18:00:00.000Z	53	593			23	1		-3	1	0.29	14.14		https://coronavirus.ohio.gov/
 Wood_County,_Texas	Wood County, Texas	2020-07-19		5	174	95							0.0	7.29	3.43	https://www.dshs.state.tx.us/
-Wood_County,_West_Virginia	Wood County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	3	198	128	8141	5	0	1	4	0	0.14	3.14	5.14	https://dhhr.wv.gov/
+Wood_County,_West_Virginia	Wood County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	3	198	128	8261	5	0	1	4	0	0.14	3.14	5.14	https://dhhr.wv.gov/
 Wood_County,_Wisconsin	Wood County, Wisconsin	2020-07-19	2020-07-19T06:00:00.000Z	1	133			5	0		1	0	0.0	3.71		https://www.dhs.wisconsin.gov/
 Woodbury_County,_Iowa	Woodbury County, Iowa	2020-07-19		46	3454	3143	18854						0.29	16.0	6.29	https://idph.iowa.gov/
 Woodford_County,_Illinois	Woodford County, Illinois	2020-07-19		3	64		3855						0.14	2.29		http://www.dph.illinois.gov/
-Woodford_County,_Kentucky	Woodford County, Kentucky	2020-07-19		0	96								0.0	1.86		https://govstatus.egov.com/
+Woodford_County,_Kentucky	Woodford County, Kentucky	2020-07-19		0	97								0.0	2.0		https://govstatus.egov.com/
 Woodruff_County,_Arkansas	Woodruff County, Arkansas	2020-07-19		0	17	11	875						0.0	0.71	0.57	https://www.healthy.arkansas.gov/
 Woods_County,_Oklahoma	Woods County, Oklahoma	2020-07-19		0	12	8							0.0	0.43	0.29	https://coronavirus.health.ok.gov/
 Woodson_County,_Kansas	Woodson County, Kansas	2020-07-19	2020-07-19T16:00:00.000Z		9			0			0			-0.14		https://www.coronavirus.kdheks.gov
@@ -5120,7 +5120,7 @@ Wyandotte_County,_Kansas	Wyandotte County, Kansas	2020-07-19	2020-07-19T16:00:00
 Wyoming	Wyoming	2020-07-19	2020-07-19T21:00:00.000Z	24	2126	1303		18	0	4	-21	0	0.43	37.71	29.57	https://health.wyo.gov/
 Wyoming_County,_New_York	Wyoming County, New York	2020-07-19	2020-07-19T14:00:00.000Z	5	104		7865	0	0		-1	0	0.0	0.43		https://coronavirus.health.ny.gov/
 Wyoming_County,_Pennsylvania	Wyoming County, Pennsylvania	2020-07-19		7	52		1511						0.0	1.0		https://www.health.pa.gov/
-Wyoming_County,_West_Virginia	Wyoming County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	7	6	1984	0	0	0	0	0	0.0	0.0	0.14	https://dhhr.wv.gov/
+Wyoming_County,_West_Virginia	Wyoming County, West Virginia	2020-07-19	2020-07-19T17:00:00.000Z	0	7	6	2004	0	0	0	0	0	0.0	0.0	0.14	https://dhhr.wv.gov/
 Wythe_County,_Virginia	Wythe County, Virginia	2020-07-19	2020-07-19T13:00:00.000Z	1	69								0.0	1.43		http://www.vdh.virginia.gov/
 Yadkin_County,_North_Carolina	Yadkin County, North Carolina	2020-07-19		6	404								0.14	3.86		https://www.ncdhhs.gov/
 Yakima_County,_Washington	Yakima County, Washington	2020-07-19		193	9040								0.43	131.14		https://coronavirus.wa.gov/
@@ -5151,11 +5151,11 @@ Young_County,_Texas	Young County, Texas	2020-07-19		1	71	54							0.0	2.57	2.43	
 Yuba_County,_California	Yuba County, California	2020-07-19	2020-07-18T17:34:00.000Z	3	257	109	3709						0.0	9.29	4.71	https://www.yuba.org/
 Yukon	Yukon	2020-07-19	2020-07-19T15:00:00.000Z	0	13	11	1391	0	0	0	0	0	0.0	0.29	0.0	https://www.canada.ca/
 Yukon%E2%80%93Koyukuk_Census_Area,_Alaska	Yukon–Koyukuk Census Area, Alaska	2020-07-19			29									2.29		http://www.dhss.alaska.gov/
-Yuma_County,_Colorado	Yuma County, Colorado	2020-07-19			55									0.14		https://covid19.colorado.gov/
+Yuma_County,_Colorado	Yuma County, Colorado	2020-07-19			56									0.29		https://covid19.colorado.gov/
 Zabaykalsky_Krai	Zabaykalsky Krai	2020-07-19	2020-07-19T07:45:00.000Z	47	3897	3137		30	0	29	-2	0	0.29	37.0	61.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Zambia	Zambia	2020-07-19		120	2980				0			-27	11.14	155.0		https://www.who.int/
 Zapata_County,_Texas	Zapata County, Texas	2020-07-19		1	113	55							0.14	5.29	1.86	https://www.dshs.state.tx.us/
-Zavala_County,_Texas	Zavala County, Texas	2020-07-19		0	90	31							0.0	4.29	0.43	https://www.dshs.state.tx.us/
+Zavala_County,_Texas	Zavala County, Texas	2020-07-19		0	95	31							0.0	5.0	0.43	https://www.dshs.state.tx.us/
 Ziebach_County,_South_Dakota	Ziebach County, South Dakota	2020-07-19	2020-07-19T17:00:00.000Z	0	3	1	236	0	0	0	0	0	0.0	0.0	0.0	https://doh.sd.gov/
 Zimbabwe	Zimbabwe	2020-07-19	2020-07-19T11:41:32.000Z	25	1478				1			0	1.0	70.86		https://www.ecdc.europa.eu/
 Zwettl_District	Zwettl District	2020-07-19	2020-07-19T20:00:00.000Z		73			0			0			0.0		https://info.gesundheitsministerium.at/
