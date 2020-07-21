@@ -28,6 +28,9 @@ Provides general information about the regions covered in the dataset, such as g
 | type                | list of xsd:string | a list of type classifications for the region. for example: Country, StateAdminArea, CountyAdminArea, etc... |
 | woeId               | xsd:string  | WhereOnEarth unique identifier for the region |
 | wikiId              | xsd:string  | the main Wikipedia page name of the country, can be used as a unique key |
+| countryCode         | xsd:string  | 2 letter country abbreviation code (ISO 3116) |
+| stateCode           | xsd:string  | 2 letter state abbreviation code (FIPS 5-2) |
+| countyCode          | xsd:string  | US county code (FIPS 6-4) |
 | label               | xsd:string  | the English name of the region |
 | latitude            | xsd:float   | latitude in decimal number format |
 | longitude           | xsd:float   | longitude in decimal number format |
