@@ -1,10 +1,12 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Abrantes	Abrantes	2020-07-22	2020-07-21T23:00:00.000Z		29			0			0			0.0		https://covid19.min-saude.pt/
 Abruzzo	Abruzzo	2020-07-22		470	3344	2758	120227				2		0.43	1.86	2.57	http://www.salute.gov.it/
+Acre_(state)	Acre (state)	2020-07-22	2020-07-21T22:00:00.000Z	469	17700								3.29	146.86		https://covid.saude.gov.br/
 Adygea	Adygea	2020-07-22	2020-07-21T07:45:00.000Z	16	2411	1930		27			0		0.29	17.14	12.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-07-22	2020-07-21T11:00:00.000Z		351									0.0		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-07-22		31	2054	1395							1.0	40.71	31.14	https://www.coronavirus2020.kz/
 Aktobe_Region	Aktobe Region	2020-07-22		18	2753	1172							1.29	29.71	7.86	https://www.coronavirus2020.kz/
+Alagoas	Alagoas	2020-07-22	2020-07-21T22:00:00.000Z	1428	50951								13.86	441.0		https://covid.saude.gov.br/
 Albergaria-a-Velha	Albergaria-a-Velha	2020-07-22	2020-07-21T23:00:00.000Z		91			0			0			0.0		https://covid19.min-saude.pt/
 Albufeira	Albufeira	2020-07-22	2020-07-21T23:00:00.000Z		135			0			0			1.14		https://covid19.min-saude.pt/
 Alcanena	Alcanena	2020-07-22	2020-07-21T23:00:00.000Z		18			0			0			0.14		https://covid19.min-saude.pt/
@@ -20,6 +22,7 @@ Altai_Republic	Altai Republic	2020-07-22	2020-07-21T07:45:00.000Z	1	1304	805		28
 Amadora	Amadora	2020-07-22	2020-07-21T23:00:00.000Z		2090			0			0			14.43		https://covid19.min-saude.pt/
 Amarante,_Portugal	Amarante, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		103			0			0			0.14		https://covid19.min-saude.pt/
 Amares	Amares	2020-07-22	2020-07-21T23:00:00.000Z		82			0			0			0.0		https://covid19.min-saude.pt/
+Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-07-22	2020-07-21T22:00:00.000Z	3169	92164								12.71	745.71		https://covid.saude.gov.br/
 Amstetten_District	Amstetten District	2020-07-22	2020-07-21T20:00:00.000Z		309									0.14		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-07-22	2020-07-21T07:45:00.000Z	33	2451	1562		28			0		0.43	32.0	46.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Anadia,_Portugal	Anadia, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		58			0			0			0.0		https://covid19.min-saude.pt/
@@ -33,55 +36,142 @@ Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	132	79
 Arouca,_Portugal	Arouca, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		55			0			0			0.29		https://covid19.min-saude.pt/
 Arruda_dos_Vinhos	Arruda dos Vinhos	2020-07-22	2020-07-21T23:00:00.000Z		27			0			0			0.14		https://covid19.min-saude.pt/
 Arunachal_Pradesh	Arunachal Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	3	790	285							0.0	46.86	18.86	https://www.mohfw.gov.in/
+Ashfield,_Massachusetts	Ashfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		165							0.0		https://www.mass.gov/
+Ashland_County,_Ohio	Ashland County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	4	103								0.14	2.29		https://coronavirus.ohio.gov/
+Ashland,_Massachusetts	Ashland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		251		2659							0.0		https://www.mass.gov/
+Ashtabula_County,_Ohio	Ashtabula County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	44	480								0.0	3.86		https://coronavirus.ohio.gov/
 Assam	Assam	2020-07-22	2020-07-21T08:00:00.000Z	58	25382	17095							2.57	1082.14	811.29	https://www.mohfw.gov.in/
 Astrakhan_Oblast	Astrakhan Oblast	2020-07-22	2020-07-21T07:45:00.000Z	40	4245	3120		32			0		0.29	33.14	45.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Atyrau_Region	Atyrau Region	2020-07-22		18	9283	5597							0.71	140.86	62.57	https://www.coronavirus2020.kz/
+Athens_County,_Ohio	Athens County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	284								0.0	9.14		https://coronavirus.ohio.gov/
+Athol,_Massachusetts	Athol, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		67		2013							0.0		https://www.mass.gov/
+Attleboro,_Massachusetts	Attleboro, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		671		6519							0.0		https://www.mass.gov/
+Atyrau_Region	Atyrau Region	2020-07-22		18	9392	5597							0.71	156.43	62.57	https://www.coronavirus2020.kz/
+Auburn,_Massachusetts	Auburn, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		217		2612							0.0		https://www.mass.gov/
 Auckland_Region	Auckland Region	2020-07-22	2020-07-22T01:00:00.000Z		178	178		0		0	0			0.0	0.0	https://www.health.govt.nz/
+Auglaize_County,_Ohio	Auglaize County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	5	138								0.14	3.57		https://coronavirus.ohio.gov/
+Augusta_County,_Virginia	Augusta County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	227								0.0	1.29		http://www.vdh.virginia.gov/
 Austria	Austria	2020-07-22	2020-07-21T20:00:00.000Z	686	19866	17704	805600						0.14	100.14	75.57	https://info.gesundheitsministerium.at/
 Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-07-22		1752		7879							0.57		6.57	https://www.santepubliquefrance.fr/
 Aveiro,_Portugal	Aveiro, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		385			0			0			0.86		https://covid19.min-saude.pt/
+Avon,_Massachusetts	Avon, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		76		785							0.0		https://www.mass.gov/
+Ayer,_Massachusetts	Ayer, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		142		3227							0.0		https://www.mass.gov/
 Azambuja	Azambuja	2020-07-22	2020-07-21T23:00:00.000Z		121			0			0			0.57		https://covid19.min-saude.pt/
 B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-07-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-07-22		0	23	21							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Baden_District,_Austria	Baden District, Austria	2020-07-22	2020-07-21T20:00:00.000Z		213									1.43		https://info.gesundheitsministerium.at/
+Baden-W%C3%BCrttemberg	Baden-Württemberg	2020-07-22	2020-07-22	1838	36556	0										https://www.rki.de/
+Bahia	Bahia	2020-07-22	2020-07-21T22:00:00.000Z	2936	126844								42.57	1978.71		https://covid.saude.gov.br/
 Bahrain	Bahrain	2020-07-22	2020-07-22T00:00:00.000Z	129	37316	33455	744694	380	1	490	-134	-1	1.71	462.57	528.86	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-07-22	2020-07-22T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
+Baraga_County,_Michigan	Baraga County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	5				0			0	0.0	0.0		https://www.michigan.gov/
+Barbour_County,_West_Virginia	Barbour County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	26	14	2153						0.0	0.43	0.14	https://dhhr.wv.gov/
 Barcelos,_Portugal	Barcelos, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		310			0			0			0.14		https://covid19.min-saude.pt/
+Barnstable_County,_Massachusetts	Barnstable County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	154	1639								0.29	6.57		https://www.mass.gov/
+Barnstable,_Massachusetts	Barnstable, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		373		6539							0.0		https://www.mass.gov/
+Barre,_Massachusetts	Barre, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		62		760							0.0		https://www.mass.gov/
 Barreiro,_Portugal	Barreiro, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		423			0			0			5.43		https://covid19.min-saude.pt/
+Barrington,_Rhode_Island	Barrington, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		60		1776	0			0			0.0		https://health.ri.gov
+Barry_County,_Michigan	Barry County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	156				0			0	0.0	2.29		https://www.michigan.gov/
 Bashkortostan	Bashkortostan	2020-07-22	2020-07-21T07:45:00.000Z	21	6386	4697		38			0		0.29	44.14	63.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Basilicata	Basilicata	2020-07-22		28	408	373	44528				0		0.14	0.43	0.0	http://www.salute.gov.it/
 Batalha,_Portugal	Batalha, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		15			0			0			0.14		https://covid19.min-saude.pt/
+Bath_County,_Virginia	Bath County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	2								0.0	0.14		http://www.vdh.virginia.gov/
 Battambang_Province	Battambang Province	2020-07-22	2020-07-22T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
+Bavaria	Bavaria	2020-07-22	2020-07-22	2617	49954	0										https://www.rki.de/
+Bay_County,_Michigan	Bay County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	31	484				0			0	0.0	6.0		https://www.michigan.gov/
 Bay_of_Plenty	Bay of Plenty	2020-07-22	2020-07-22T01:00:00.000Z		47	47		0		0	0			0.0	0.0	https://www.health.govt.nz/
+Becket,_Massachusetts	Becket, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		16		190							0.0		https://www.mass.gov/
+Bedford_County,_Virginia	Bedford County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	201								0.0	3.86		http://www.vdh.virginia.gov/
+Bedford,_Massachusetts	Bedford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		259		5863							0.0		https://www.mass.gov/
 Beja,_Portugal	Beja, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		22			0			0			0.14		https://covid19.min-saude.pt/
 Belarus	Belarus	2020-07-22	2020-07-21T03:00:00.000Z	507	66348	58592	1202214						3.86	129.29	316.14	http://stopcovid.belta.by/
-Belgium	Belgium	2020-07-22	2020-07-21T11:42:06.000Z	9805	64094								2.43	174.57		https://www.ecdc.europa.eu/
+Belchertown,_Massachusetts	Belchertown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		107		1713							0.0		https://www.mass.gov/
+Belgium	Belgium	2020-07-22	2020-07-22	9805	64258			164	0		-37	-5	2.43	198.0		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-07-22	2020-07-21T07:45:00.000Z	43	5527	5072		41			0		0.14	36.57	55.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Belknap_County,_New_Hampshire	Belknap County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	4	97								0.14	0.57		https://www.nh.gov/
+Bellingham,_Massachusetts	Bellingham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		138		2066							0.0		https://www.mass.gov/
+Belmont_County,_Ohio	Belmont County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	25	577								0.14	0.71		https://coronavirus.ohio.gov/
+Belmont,_Massachusetts	Belmont, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		232		3551							0.0		https://www.mass.gov/
 B%E1%BA%BFn_Tre_Province	Bến Tre Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Benavente,_Portugal	Benavente, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		115			0			0			0.71		https://covid19.min-saude.pt/
+Benzie_County,_Michigan	Benzie County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1	24				0			0	0.0	1.14		https://www.michigan.gov/
+Berkeley_County,_West_Virginia	Berkeley County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	10	550	485	11730						0.0	2.71	5.57	https://dhhr.wv.gov/
+Berkley,_Massachusetts	Berkley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		71		983							0.0		https://www.mass.gov/
+Berkshire_County,_Massachusetts	Berkshire County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	45	625								0.0	1.43		https://www.mass.gov/
+Berlin	Berlin	2020-07-22	2020-07-22	222	8837	0										https://www.rki.de/
+Berlin,_Massachusetts	Berlin, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		20		429							0.0		https://www.mass.gov/
+Bernardston,_Massachusetts	Bernardston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		241							0.0		https://www.mass.gov/
+Berrien_County,_Michigan	Berrien County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	61	1149				0			0	0.0	15.14		https://www.michigan.gov/
+Beverly,_Massachusetts	Beverly, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		620		6930							0.0		https://www.mass.gov/
 Bihar	Bihar	2020-07-22	2020-07-21T08:00:00.000Z	217	27646	17433							6.14	1194.57	654.86	https://www.mohfw.gov.in/
+Billerica,_Massachusetts	Billerica, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		572		6620							0.0		https://www.mass.gov/
 B%C3%ACnh_Thu%E1%BA%ADn_Province	Bình Thuận Province	2020-07-22		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Blackstone,_Massachusetts	Blackstone, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		55		1120							0.0		https://www.mass.gov/
+Bland_County,_Virginia	Bland County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	7								0.0	0.57		http://www.vdh.virginia.gov/
+Blandford,_Massachusetts	Blandford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		91							0.0		https://www.mass.gov/
 Bludenz_District	Bludenz District	2020-07-22	2020-07-21T20:00:00.000Z		259									0.14		https://info.gesundheitsministerium.at/
+Bolton,_Massachusetts	Bolton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		11		575							0.0		https://www.mass.gov/
 Bombarral	Bombarral	2020-07-22	2020-07-21T23:00:00.000Z		29			0			0			0.0		https://covid19.min-saude.pt/
+Boone_County,_West_Virginia	Boone County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	59	30	2836						0.0	1.86	1.29	https://dhhr.wv.gov/
+Boston	Boston	2020-07-22	2020-07-21T20:00:00.000Z		14316		141184							0.0		https://www.mass.gov/
+Botetourt_County,_Virginia	Botetourt County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	166								0.0	0.71		http://www.vdh.virginia.gov/
 Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-07-22		1061		3994							0.14		5.71	https://www.santepubliquefrance.fr/
+Bourne,_Massachusetts	Bourne, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		159		3001							0.0		https://www.mass.gov/
+Boxborough,_Massachusetts	Boxborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		26		581							0.0		https://www.mass.gov/
+Boxford,_Massachusetts	Boxford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		43		989							0.0		https://www.mass.gov/
+Boylston,_Massachusetts	Boylston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		21		586							0.0		https://www.mass.gov/
 Braga	Braga	2020-07-22	2020-07-21T23:00:00.000Z		1265			0			0			0.71		https://covid19.min-saude.pt/
+Braintree,_Massachusetts	Braintree, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		816		7152							0.0		https://www.mass.gov/
+Branch_County,_Michigan	Branch County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	296				0			0	0.0	1.43		https://www.michigan.gov/
+Brandenburg	Brandenburg	2020-07-22	2020-07-22	167	3497	0										https://www.rki.de/
 Braunau_am_Inn_District	Braunau am Inn District	2020-07-22	2020-07-21T20:00:00.000Z		155									1.0		https://info.gesundheitsministerium.at/
+Braxton_County,_West_Virginia	Braxton County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	7	4	1173						0.0	0.29	0.0	https://dhhr.wv.gov/
+Brazil	Brazil	2020-07-22	2020-07-21T22:00:00.000Z	81487	2159654	1465970			1367			0	874.43	27558.0	30058.0	https://covid.saude.gov.br/
+Bremen_(state)	Bremen (state)	2020-07-22	2020-07-22	55	1725	0										https://www.rki.de/
+Brewster,_Massachusetts	Brewster, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		107		1501							0.0		https://www.mass.gov/
+Bridgewater,_Massachusetts	Bridgewater, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		357		5588							0.0		https://www.mass.gov/
+Brimfield,_Massachusetts	Brimfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		357							0.0		https://www.mass.gov/
+Bristol_County,_Massachusetts	Bristol County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	613	8745								1.43	26.71		https://www.mass.gov/
+Bristol,_Rhode_Island	Bristol, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		148		2627	0			0			0.0		https://health.ri.gov
+Bristol,_Virginia	Bristol, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	25								0.0	1.57		http://www.vdh.virginia.gov/
+British_Columbia	British Columbia	2020-07-22	2020-07-21T15:00:00.000Z	189	3328	2873	202849						0.0	25.57	17.14	https://www.canada.ca/
 Brittany_(administrative_region)	Brittany (administrative region)	2020-07-22		262		1307							0.29		1.57	https://www.santepubliquefrance.fr/
+Brockton,_Massachusetts	Brockton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		4275		25186							0.0		https://www.mass.gov/
+Brooke_County,_West_Virginia	Brooke County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	39	21	2485						0.0	1.0	1.29	https://dhhr.wv.gov/
+Brookfield,_Massachusetts	Brookfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		20		378							0.0		https://www.mass.gov/
+Brookline,_Massachusetts	Brookline, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		403		8039							0.0		https://www.mass.gov/
+Brooklyn	Brooklyn	2020-07-22	2020-07-21T14:00:00.000Z	5032	61568		678811	80			0		1.0	79.43		https://coronavirus.health.ny.gov/
+Broome_County,_New_York	Broome County, New York	2020-07-22	2020-07-21T14:00:00.000Z	66	917		51556	15			0		0.29	9.29		https://coronavirus.health.ny.gov/
+Brown_County,_Ohio	Brown County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	73								0.0	1.29		https://coronavirus.ohio.gov/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-07-22	2020-07-21T20:00:00.000Z		128									0.43		https://info.gesundheitsministerium.at/
+Brunswick_County,_Virginia	Brunswick County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	161								0.0	2.57		http://www.vdh.virginia.gov/
 Bryansk_Oblast	Bryansk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	35	7091	5491		23			0		0.0	26.43	40.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Buchanan_County,_Virginia	Buchanan County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	54								0.0	0.86		http://www.vdh.virginia.gov/
+Buckingham_County,_Virginia	Buckingham County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	587								0.0	1.43		http://www.vdh.virginia.gov/
+Buckland,_Massachusetts	Buckland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		8		43							0.0		https://www.mass.gov/
+Buena_Vista,_Virginia	Buena Vista, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	31								0.0	0.86		http://www.vdh.virginia.gov/
 Burgenland	Burgenland	2020-07-22	2020-07-21T20:00:00.000Z	11		356							0.0		1.29	https://info.gesundheitsministerium.at/
+Burlington,_Massachusetts	Burlington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		268		3762							0.0		https://www.mass.gov/
+Burrillville,_Rhode_Island	Burrillville, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		113		1851	0			0			0.0		https://health.ri.gov
 Buryatia	Buryatia	2020-07-22	2020-07-21T07:45:00.000Z	35	3729	2860		37			0		1.14	35.43	26.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Butler_County,_Ohio	Butler County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	51	2182								0.57	29.57		https://coronavirus.ohio.gov/
 Cabeceiras_de_Basto	Cabeceiras de Basto	2020-07-22	2020-07-21T23:00:00.000Z		21			0			0			0.0		https://covid19.min-saude.pt/
+Cabell_County,_West_Virginia	Cabell County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	2	220	150	21265						0.29	3.29	3.29	https://dhhr.wv.gov/
 Cadaval	Cadaval	2020-07-22	2020-07-21T23:00:00.000Z		25			0			0			0.0		https://covid19.min-saude.pt/
 Calabria	Calabria	2020-07-22		97	1239	1071	111600				0		0.0	3.0	1.29	http://www.salute.gov.it/
 Caldas_da_Rainha	Caldas da Rainha	2020-07-22	2020-07-21T23:00:00.000Z		122			0			0			0.86		https://covid19.min-saude.pt/
 Calheta,_Azores	Calheta, Azores	2020-07-22	2020-07-21T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
 Calheta,_Madeira	Calheta, Madeira	2020-07-22	2020-07-21T23:00:00.000Z		3			0			0			-0.14		https://covid19.min-saude.pt/
+Calhoun_County,_Michigan	Calhoun County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	39	670				0			0	0.0	5.71		https://www.michigan.gov/
+Calhoun_County,_West_Virginia	Calhoun County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	5	4	1019						0.0	0.14	0.14	https://dhhr.wv.gov/
 Cambodia	Cambodia	2020-07-22	2020-07-22T07:00:00.000Z	0	197	140		0	0	0	-26	0	0.0	4.57	1.0	http://www.cdcmoh.gov.kh/
+Cambridge,_Massachusetts	Cambridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		985		26566							0.0		https://www.mass.gov/
 Caminha	Caminha	2020-07-22	2020-07-21T23:00:00.000Z		19			0			0			0.0		https://covid19.min-saude.pt/
 Campania	Campania	2020-07-22		434	4839	4108	314126				6		0.29	7.43	1.71	http://www.salute.gov.it/
+Campbell_County,_Virginia	Campbell County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	84								0.0	1.86		http://www.vdh.virginia.gov/
 C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Canada	Canada	2020-07-22	2020-07-21T15:00:00.000Z	8862	111684	97757	3616728						7.43	409.71	3610.29	https://www.canada.ca/
 Cantanhede,_Portugal	Cantanhede, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		80			0			0			0.57		https://covid19.min-saude.pt/
 Canton_of_Aargau	Canton of Aargau	2020-07-22	2020-07-21T22:00:00.000Z	47	1480			0	0		-19	0	0.0	8.86		https://www.bag.admin.ch/
 Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-07-22	2020-07-21T22:00:00.000Z	3	108			0	0		-1	0	0.0	0.29		https://www.bag.admin.ch/
@@ -106,132 +196,402 @@ Canton_of_Uri	Canton of Uri	2020-07-22	2020-07-21T22:00:00.000Z	7	112			0	0		0	0
 Canton_of_Valais	Canton of Valais	2020-07-22	2020-07-21T22:00:00.000Z	153	2110			0	0		-2	0	0.0	1.86		https://www.bag.admin.ch/
 Canton_of_Zug	Canton of Zug	2020-07-22	2020-07-21T22:00:00.000Z	9	265			0	0		-4	0	0.0	1.43		https://www.bag.admin.ch/
 Canton_of_Z%C3%BCrich	Canton of Zürich	2020-07-22	2020-07-21T22:00:00.000Z	134	4290			0	0		-38	0	0.14	17.86		https://www.bag.admin.ch/
+Canton,_Massachusetts	Canton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		292		4392							0.0		https://www.mass.gov/
 Carinthia	Carinthia	2020-07-22	2020-07-21T20:00:00.000Z	13		421							0.0		0.86	https://info.gesundheitsministerium.at/
+Carlisle,_Massachusetts	Carlisle, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		19		557							0.0		https://www.mass.gov/
+Caroline_County,_Virginia	Caroline County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	161								0.0	2.0		http://www.vdh.virginia.gov/
 Carregal_do_Sal	Carregal do Sal	2020-07-22	2020-07-21T23:00:00.000Z		12			0			0			0.0		https://covid19.min-saude.pt/
+Carroll_County,_New_Hampshire	Carroll County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	0	73								0.0	0.57		https://www.nh.gov/
+Carroll_County,_Ohio	Carroll County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	4	88								0.14	2.29		https://coronavirus.ohio.gov/
+Carroll_County,_Virginia	Carroll County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	10	280								0.0	2.43		http://www.vdh.virginia.gov/
 Cartaxo	Cartaxo	2020-07-22	2020-07-21T23:00:00.000Z		92			0			0			0.29		https://covid19.min-saude.pt/
+Carver,_Massachusetts	Carver, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		61		1549							0.0		https://www.mass.gov/
 Casablanca-Settat	Casablanca-Settat	2020-07-22	2020-07-21T17:00:00.000Z		4306									45.57		http://www.covidmaroc.ma/
 Cascais	Cascais	2020-07-22	2020-07-21T23:00:00.000Z		1302			0			0			12.86		https://covid19.min-saude.pt/
+Cass_County,_Michigan	Cass County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	8	230				0			0	0.29	3.14		https://www.michigan.gov/
 Castelo_Branco,_Portugal	Castelo Branco, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		32			0			0			0.0		https://covid19.min-saude.pt/
 Castelo_de_Paiva	Castelo de Paiva	2020-07-22	2020-07-21T23:00:00.000Z		25			0			0			0.0		https://covid19.min-saude.pt/
 Castro_Daire	Castro Daire	2020-07-22	2020-07-21T23:00:00.000Z		109			0			0			0.0		https://covid19.min-saude.pt/
 Castro_Marim	Castro Marim	2020-07-22	2020-07-21T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Cattaraugus_County,_New_York	Cattaraugus County, New York	2020-07-22	2020-07-21T14:00:00.000Z	6	147		17414	2			0		0.0	0.86		https://coronavirus.health.ny.gov/
+Cayuga_County,_New_York	Cayuga County, New York	2020-07-22	2020-07-21T14:00:00.000Z	2	131		16945	0			0		0.0	0.43		https://coronavirus.health.ny.gov/
 Celorico_da_Beira	Celorico da Beira	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.14		https://covid19.min-saude.pt/
 Celorico_de_Basto	Celorico de Basto	2020-07-22	2020-07-21T23:00:00.000Z		22			0			0			0.14		https://covid19.min-saude.pt/
+Central_Falls,_Rhode_Island	Central Falls, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		950		4513	0			0			0.0		https://health.ri.gov
 Centre-Val_de_Loire	Centre-Val de Loire	2020-07-22		555		2057							0.29		8.57	https://www.santepubliquefrance.fr/
+Champaign_County,_Ohio	Champaign County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	71								0.0	1.43		https://coronavirus.ohio.gov/
 Chamusca	Chamusca	2020-07-22	2020-07-21T23:00:00.000Z		8			0			0			0.0		https://covid19.min-saude.pt/
 Chandigarh	Chandigarh	2020-07-22	2020-07-21T08:00:00.000Z	12	737	518							0.29	19.57	10.29	https://www.mohfw.gov.in/
+Charlemont,_Massachusetts	Charlemont, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		150							0.0		https://www.mass.gov/
+Charles_City_County,_Virginia	Charles City County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	45								0.0	0.43		http://www.vdh.virginia.gov/
+Charlestown,_Rhode_Island	Charlestown, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		30		961	0			0			0.0		https://health.ri.gov
+Charlevoix_County,_Michigan	Charlevoix County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	41				0			0	0.0	-0.14		https://www.michigan.gov/
+Charlotte_County,_Virginia	Charlotte County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	40								0.0	0.29		http://www.vdh.virginia.gov/
+Charlottesville,_Virginia	Charlottesville, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	8	367								0.14	7.0		http://www.vdh.virginia.gov/
+Charlton,_Massachusetts	Charlton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		86		2008							0.0		https://www.mass.gov/
+Chatham,_Massachusetts	Chatham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		20		911							0.0		https://www.mass.gov/
+Chautauqua_County,_New_York	Chautauqua County, New York	2020-07-22	2020-07-21T14:00:00.000Z	3	206		26513	12			0		0.0	2.86		https://coronavirus.health.ny.gov/
 Chaves,_Portugal	Chaves, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		25			0			0			-0.14		https://covid19.min-saude.pt/
+Cheboygan_County,_Michigan	Cheboygan County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	31				0			0	0.0	0.29		https://www.michigan.gov/
 Chechnya	Chechnya	2020-07-22	2020-07-21T07:45:00.000Z	30	1937	1312		10			0		0.29	10.57	5.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chelmsford,_Massachusetts	Chelmsford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		341		6531							0.0		https://www.mass.gov/
+Chelsea,_Massachusetts	Chelsea, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		2977		13627							0.0		https://www.mass.gov/
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	88	9946	5622		130			0		0.0	111.71	58.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chemung_County,_New_York	Chemung County, New York	2020-07-22	2020-07-21T14:00:00.000Z	2	155		20487	0			0		0.0	0.57		https://coronavirus.health.ny.gov/
+Chenango_County,_New_York	Chenango County, New York	2020-07-22	2020-07-21T14:00:00.000Z	6	188		14647	4			0		0.0	1.86		https://coronavirus.health.ny.gov/
+Chesapeake,_Virginia	Chesapeake, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	24	1790								0.14	49.86		http://www.vdh.virginia.gov/
+Cheshire_County,_New_Hampshire	Cheshire County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	2	80								0.0	0.29		https://www.nh.gov/
+Cheshire,_Massachusetts	Cheshire, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		309							0.0		https://www.mass.gov/
+Chester,_Massachusetts	Chester, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		124							0.0		https://www.mass.gov/
+Chesterfield_County,_Virginia	Chesterfield County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	65	3538								0.29	30.57		http://www.vdh.virginia.gov/
+Chesterfield,_Massachusetts	Chesterfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		93							0.0		https://www.mass.gov/
 Chhattisgarh	Chhattisgarh	2020-07-22	2020-07-21T08:00:00.000Z	25	5561	3944							0.71	168.86	95.57	https://www.mohfw.gov.in/
+Chicopee,_Massachusetts	Chicopee, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		469		7541							0.0		https://www.mass.gov/
+Chilmark,_Massachusetts	Chilmark, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		515							0.0		https://www.mass.gov/
+Chippewa_County,_Michigan	Chippewa County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	25				0			0	0.0	0.29		https://www.michigan.gov/
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-07-22	2020-07-21T07:45:00.000Z	1	148	143		0			0		0.0	0.43	0.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-07-22	2020-07-21T07:45:00.000Z	50	6310	3405		46			0		0.43	44.57	21.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Clare_County,_Michigan	Clare County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	3	39				0			0	0.0	0.57		https://www.michigan.gov/
+Clark_County,_Ohio	Clark County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	11	924								0.14	12.0		https://coronavirus.ohio.gov/
+Clarke_County,_Virginia	Clarke County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	64								0.0	0.43		http://www.vdh.virginia.gov/
+Clarksburg,_Massachusetts	Clarksburg, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		119							0.0		https://www.mass.gov/
+Clay_County,_West_Virginia	Clay County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	17	12	994						0.0	0.57	0.43	https://dhhr.wv.gov/
+Clermont_County,_Ohio	Clermont County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	9	643								0.29	13.0		https://coronavirus.ohio.gov/
+Clinton_County,_Michigan	Clinton County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	12	332				0			0	0.0	3.86		https://www.michigan.gov/
+Clinton_County,_New_York	Clinton County, New York	2020-07-22	2020-07-21T14:00:00.000Z	4	114		16134	1			0		0.0	0.43		https://coronavirus.health.ny.gov/
+Clinton_County,_Ohio	Clinton County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	3	111								0.14	2.0		https://coronavirus.ohio.gov/
+Clinton,_Massachusetts	Clinton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		257		2506							0.0		https://www.mass.gov/
+Cohasset,_Massachusetts	Cohasset, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		27		820							0.0		https://www.mass.gov/
 Coimbra	Coimbra	2020-07-22	2020-07-21T23:00:00.000Z		626			0			0			0.71		https://covid19.min-saude.pt/
+Colonial_Heights,_Virginia	Colonial Heights, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	20	167								0.0	0.57		http://www.vdh.virginia.gov/
+Colrain,_Massachusetts	Colrain, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		148							0.0		https://www.mass.gov/
+Columbia_County,_New_York	Columbia County, New York	2020-07-22	2020-07-21T14:00:00.000Z	47	495		15492	3			0		0.0	0.86		https://coronavirus.health.ny.gov/
+Columbiana_County,_Ohio	Columbiana County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	62	1469								0.29	8.29		https://coronavirus.ohio.gov/
+Concord,_Massachusetts	Concord, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		177		4024							0.0		https://www.mass.gov/
 Condeixa-a-Nova	Condeixa-a-Nova	2020-07-22	2020-07-21T23:00:00.000Z		155			0			0			0.0		https://covid19.min-saude.pt/
+Connecticut	Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	4406	48096		660857						3.71	65.71		https://portal.ct.gov/
+Conway,_Massachusetts	Conway, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		220							0.0		https://www.mass.gov/
+Co%C3%B6s_County,_New_Hampshire	Coös County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	0	14								0.0	0.43		https://www.nh.gov/
 Corsica	Corsica	2020-07-22		59		248							0.0		0.14	https://www.santepubliquefrance.fr/
+Cortland_County,_New_York	Cortland County, New York	2020-07-22	2020-07-21T14:00:00.000Z	1	73		11925	4			0		0.0	1.71		https://coronavirus.health.ny.gov/
 Coruche	Coruche	2020-07-22	2020-07-21T23:00:00.000Z		54			0			0			0.0		https://covid19.min-saude.pt/
+Coshocton_County,_Ohio	Coshocton County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	4	166								0.0	1.57		https://coronavirus.ohio.gov/
+Coventry,_Rhode_Island	Coventry, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		226		4162	0			0			0.0		https://health.ri.gov
+Covington,_Virginia	Covington, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	7								0.0	0.29		http://www.vdh.virginia.gov/
+Craig_County,_Virginia	Craig County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	11								0.0	0.29		http://www.vdh.virginia.gov/
+Cranston,_Rhode_Island	Cranston, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		1064		11623	0			0			0.0		https://health.ri.gov
+Crawford_County,_Michigan	Crawford County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	5	87				0			0	0.0	0.43		https://www.michigan.gov/
+Crawford_County,_Ohio	Crawford County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	5	152								0.0	1.71		https://coronavirus.ohio.gov/
 Cuba,_Portugal	Cuba, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		8			0			0			0.43		https://covid19.min-saude.pt/
+Culpeper_County,_Virginia	Culpeper County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	12	909								0.0	5.29		http://www.vdh.virginia.gov/
+Cumberland_County,_Maine	Cumberland County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	68	1963	1670							0.14	8.86	9.0	https://www.maine.gov/
+Cumberland_County,_Virginia	Cumberland County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	60								0.0	-0.14		http://www.vdh.virginia.gov/
+Cumberland,_Rhode_Island	Cumberland, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		316		4103	0			0			0.0		https://health.ri.gov
+Cummington,_Massachusetts	Cummington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		113							0.0		https://www.mass.gov/
+Cuyahoga_County,_Ohio	Cuyahoga County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	431	10828								4.14	149.14		https://coronavirus.ohio.gov/
 Czech_Republic	Czech Republic	2020-07-22	2020-07-21T22:30:00.000Z	360	14324	8918	632395						0.71	129.0	59.0	https://onemocneni-aktualne.mzcr.cz/
 Da_Nang	Da Nang	2020-07-22		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Dagestan	Dagestan	2020-07-22	2020-07-21T07:45:00.000Z	428	8860	7638		41			0		1.29	36.86	88.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Dakhla-Oued_Ed-Dahab	Dakhla-Oued Ed-Dahab	2020-07-22	2020-07-21T17:00:00.000Z		41									2.57		http://www.covidmaroc.ma/
+Dalton,_Massachusetts	Dalton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		16		789							0.0		https://www.mass.gov/
+Danvers,_Massachusetts	Danvers, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		741		7253							0.0		https://www.mass.gov/
+Danville,_Virginia	Danville, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	196								0.14	6.86		http://www.vdh.virginia.gov/
+Darke_County,_Ohio	Darke County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	26	266								0.0	0.57		https://coronavirus.ohio.gov/
+Dartmouth,_Massachusetts	Dartmouth, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		394		5814							0.0		https://www.mass.gov/
+Dedham,_Massachusetts	Dedham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		412		5047							0.0		https://www.mass.gov/
+Deerfield,_Massachusetts	Deerfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		11		623							0.0		https://www.mass.gov/
+Defiance_County,_Ohio	Defiance County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	4	80								0.14	3.14		https://coronavirus.ohio.gov/
+Delaware_County,_New_York	Delaware County, New York	2020-07-22	2020-07-21T14:00:00.000Z	4	93		10148	0			0		0.0	0.14		https://coronavirus.health.ny.gov/
+Delaware_County,_Ohio	Delaware County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	15	959								0.0	21.86		https://coronavirus.ohio.gov/
 Delhi	Delhi	2020-07-22	2020-07-21T08:00:00.000Z	3663	123747	104918							31.0	1200.14	1668.86	https://www.mohfw.gov.in/
+Delta_County,_Michigan	Delta County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	3	52				0			0	0.0	2.14		https://www.michigan.gov/
 Denmark	Denmark	2020-07-22	2020-07-21T12:00:00.000Z	611	13302	12261	1032598						0.14	30.0	11.29	https://www.sst.dk/
+Dennis,_Massachusetts	Dennis, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		95		2026							0.0		https://www.mass.gov/
+Detroit	Detroit	2020-07-22	2020-07-21T16:00:00.000Z	1553	13109				0			0	1.71	56.14		https://www.michigan.gov/
 Deutschlandsberg_District	Deutschlandsberg District	2020-07-22	2020-07-21T20:00:00.000Z		52									0.14		https://info.gesundheitsministerium.at/
+Dickenson_County,_Virginia	Dickenson County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	10								0.0	0.43		http://www.vdh.virginia.gov/
+Dickinson_County,_Michigan	Dickinson County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	35				0			0	0.0	2.0		https://www.michigan.gov/
+Dighton,_Massachusetts	Dighton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		67		985							0.0		https://www.mass.gov/
+Dinwiddie_County,_Virginia	Dinwiddie County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	169								0.0	1.0		http://www.vdh.virginia.gov/
 %C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-07-22		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Dornbirn_District	Dornbirn District	2020-07-22	2020-07-21T20:00:00.000Z		159									0.0		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-07-22	2020-07-22T03:24:51.751Z	611293	14791443								4596.29	195197.29	129823.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
-East_Kazakhstan_Region	East Kazakhstan Region	2020-07-22		5	4250	2435							0.0	124.86	116.71	https://www.coronavirus2020.kz/
+Douglas,_Massachusetts	Douglas, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		49		942							0.0		https://www.mass.gov/
+Dover,_Massachusetts	Dover, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		18		583							0.0		https://www.mass.gov/
+Dracut,_Massachusetts	Dracut, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		479		6473							0.0		https://www.mass.gov/
+Dudley,_Massachusetts	Dudley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		95		1414							0.0		https://www.mass.gov/
+Dukes_County,_Massachusetts	Dukes County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		64									1.0		https://www.mass.gov/
+Dunstable,_Massachusetts	Dunstable, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		10		334							0.0		https://www.mass.gov/
+Dutchess_County,_New_York	Dutchess County, New York	2020-07-22	2020-07-21T14:00:00.000Z	153	4380		80236	4			0		0.14	6.14		https://coronavirus.health.ny.gov/
+Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		117		2525							0.0		https://www.mass.gov/
+Earth	Earth	2020-07-22	2020-07-22T05:15:34.275Z	611298	14793746								4597.0	195526.29	130359.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		181		2121							0.0		https://www.mass.gov/
+East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		13		251							0.0		https://www.mass.gov/
+East_Greenwich,_Rhode_Island	East Greenwich, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		95		2323	0			0			0.0		https://health.ri.gov
+East_Kazakhstan_Region	East Kazakhstan Region	2020-07-22		5	4488	2435							0.0	158.86	116.71	https://www.coronavirus2020.kz/
+East_Longmeadow,_Massachusetts	East Longmeadow, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		275		2577							0.0		https://www.mass.gov/
+East_Providence,_Rhode_Island	East Providence, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		771		6865	0			0			0.0		https://health.ri.gov
+Eastham,_Massachusetts	Eastham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		10		583							0.0		https://www.mass.gov/
+Easthampton,_Massachusetts	Easthampton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		87		2205							0.0		https://www.mass.gov/
+Easton,_Massachusetts	Easton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		278		3552							0.0		https://www.mass.gov/
+Eaton_County,_Michigan	Eaton County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	7	389				0			0	0.0	4.14		https://www.michigan.gov/
+Edgartown,_Massachusetts	Edgartown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		9		1361							0.0		https://www.mass.gov/
 Eferding_District	Eferding District	2020-07-22	2020-07-21T20:00:00.000Z		69									-0.14		https://info.gesundheitsministerium.at/
+Egremont,_Massachusetts	Egremont, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5		99							0.0		https://www.mass.gov/
 Eisenstadt	Eisenstadt	2020-07-22	2020-07-21T20:00:00.000Z		20									0.14		https://info.gesundheitsministerium.at/
 Elvas	Elvas	2020-07-22	2020-07-21T23:00:00.000Z		15			0			0			0.0		https://covid19.min-saude.pt/
 Emilia-Romagna	Emilia-Romagna	2020-07-22		4279	29238	23662	583968				18		1.14	35.57	16.29	http://www.salute.gov.it/
+Emmet_County,_Michigan	Emmet County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	46				0			0	0.0	0.57		https://www.michigan.gov/
+Emporia,_Virginia	Emporia, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	15	152								0.0	0.86		http://www.vdh.virginia.gov/
 Entroncamento	Entroncamento	2020-07-22	2020-07-21T23:00:00.000Z		18			0			0			0.29		https://covid19.min-saude.pt/
+Erie_County,_New_York	Erie County, New York	2020-07-22	2020-07-21T14:00:00.000Z	586	8106		194381	60			0		0.86	30.71		https://coronavirus.health.ny.gov/
+Erie_County,_Ohio	Erie County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	22	380								0.0	9.0		https://coronavirus.ohio.gov/
+Erving,_Massachusetts	Erving, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		6		202							0.0		https://www.mass.gov/
 Espinho,_Portugal	Espinho, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		122			0			0			0.14		https://covid19.min-saude.pt/
 Esposende	Esposende	2020-07-22	2020-07-21T23:00:00.000Z		52			0			0			0.0		https://covid19.min-saude.pt/
+Essex_County,_Massachusetts	Essex County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	1146	16784								1.43	31.43		https://www.mass.gov/
+Essex_County,_New_York	Essex County, New York	2020-07-22	2020-07-21T18:00:00.000Z	0	51		8283	0			0		0.0	0.0		https://coronavirus.health.ny.gov/
+Essex_County,_Virginia	Essex County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	71								0.0	0.71		http://www.vdh.virginia.gov/
+Essex,_Massachusetts	Essex, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		24		442							0.0		https://www.mass.gov/
 Estarreja	Estarreja	2020-07-22	2020-07-21T23:00:00.000Z		107			0			0			0.0		https://covid19.min-saude.pt/
+Everett,_Massachusetts	Everett, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1800		11594							0.0		https://www.mass.gov/
+Exeter,_Rhode_Island	Exeter, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		40		652	0			0			0.0		https://health.ri.gov
 Fafe	Fafe	2020-07-22	2020-07-21T23:00:00.000Z		124			0			0			0.14		https://covid19.min-saude.pt/
+Fairfax_County,_Virginia	Fairfax County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	510	14994								1.14	48.71		http://www.vdh.virginia.gov/
+Fairfax,_Virginia	Fairfax, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	7	73								0.0	-0.14		http://www.vdh.virginia.gov/
+Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	1399	17123								1.71	18.57		https://portal.ct.gov/
+Fairfield_County,_Ohio	Fairfield County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	18	934								0.14	23.0		https://coronavirus.ohio.gov/
+Fairhaven,_Massachusetts	Fairhaven, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		242		3302							0.0		https://www.mass.gov/
+Fall_River,_Massachusetts	Fall River, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1664		18386							0.0		https://www.mass.gov/
+Falls_Church,_Virginia	Falls Church, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	54								-0.14	0.0		http://www.vdh.virginia.gov/
+Falmouth,_Massachusetts	Falmouth, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		206		5955							0.0		https://www.mass.gov/
 Faro,_Portugal	Faro, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		118			0			0			1.71		https://covid19.min-saude.pt/
 Faroe_Islands	Faroe Islands	2020-07-22	2020-07-21T12:00:00.000Z	0	191	188	29522						0.0	0.43	0.0	https://www.sst.dk/
+Fauquier_County,_Virginia	Fauquier County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	8	536								0.0	5.43		http://www.vdh.virginia.gov/
+Fayette_County,_Ohio	Fayette County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	64								0.0	0.86		https://coronavirus.ohio.gov/
+Fayette_County,_West_Virginia	Fayette County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	4	101	59	7146						0.0	1.71	0.86	https://dhhr.wv.gov/
+Federal_District_(Brazil)	Federal District (Brazil)	2020-07-22	2020-07-21T22:00:00.000Z	1158	86076								22.43	1528.14		https://covid.saude.gov.br/
 Feldkirch_District	Feldkirch District	2020-07-22	2020-07-21T20:00:00.000Z		218									0.14		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-07-22	2020-07-21T20:00:00.000Z		15									0.0		https://info.gesundheitsministerium.at/
 Felgueiras	Felgueiras	2020-07-22	2020-07-21T23:00:00.000Z		426			0			0			0.57		https://covid19.min-saude.pt/
 F%C3%A8s-Mekn%C3%A8s	Fès-Meknès	2020-07-22	2020-07-21T17:00:00.000Z		2262									50.0		http://www.covidmaroc.ma/
 Figueira_da_Foz	Figueira da Foz	2020-07-22	2020-07-21T23:00:00.000Z		46			0			0			0.29		https://covid19.min-saude.pt/
+Fitchburg,_Massachusetts	Fitchburg, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		803		8617							0.0		https://www.mass.gov/
+Florida,_Massachusetts	Florida, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		48							0.0		https://www.mass.gov/
+Floyd_County,_Virginia	Floyd County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	28								0.0	0.43		http://www.vdh.virginia.gov/
+Fluvanna_County,_Virginia	Fluvanna County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	8	151								0.0	1.71		http://www.vdh.virginia.gov/
 Fornos_de_Algodres	Fornos de Algodres	2020-07-22	2020-07-21T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Foster,_Rhode_Island	Foster, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		22		510	0			0			0.0		https://health.ri.gov
+Foxborough,_Massachusetts	Foxborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		117		3063							0.0		https://www.mass.gov/
+Framingham,_Massachusetts	Framingham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1756		12822							0.0		https://www.mass.gov/
 France	France	2020-07-22		30165	177338	79734							6.43	576.29	130.57	https://www.santepubliquefrance.fr/
+Franklin_County,_Maine	Franklin County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	1	44	38							0.0	0.43	0.14	https://www.maine.gov/
+Franklin_County,_Massachusetts	Franklin County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	57	390								-0.14	0.71		https://www.mass.gov/
+Franklin_County,_New_York	Franklin County, New York	2020-07-22	2020-07-21T14:00:00.000Z	1	42		10415	2			0		0.14	0.71		https://coronavirus.health.ny.gov/
+Franklin_County,_Ohio	Franklin County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	475	14432								3.71	229.86		https://coronavirus.ohio.gov/
+Franklin_County,_Virginia	Franklin County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	125								0.0	1.43		http://www.vdh.virginia.gov/
+Franklin,_Massachusetts	Franklin, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		139		3562							0.0		https://www.mass.gov/
+Franklin,_Virginia	Franklin, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	96								0.14	2.29		http://www.vdh.virginia.gov/
+Frederick_County,_Virginia	Frederick County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	7	597								0.0	4.57		http://www.vdh.virginia.gov/
+Fredericksburg,_Virginia	Fredericksburg, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	300								0.0	1.71		http://www.vdh.virginia.gov/
+Freetown,_Massachusetts	Freetown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		106		1183							0.0		https://www.mass.gov/
 Freistadt_District	Freistadt District	2020-07-22	2020-07-21T20:00:00.000Z		137									1.0		https://info.gesundheitsministerium.at/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-07-22		345	3358	2914	229633				2		0.0	2.71	1.86	http://www.salute.gov.it/
+Fulton_County,_New_York	Fulton County, New York	2020-07-22	2020-07-21T14:00:00.000Z	26	267		11800	0			0		0.0	0.14		https://coronavirus.health.ny.gov/
+Fulton_County,_Ohio	Fulton County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	96								0.0	3.43		https://coronavirus.ohio.gov/
 Funchal	Funchal	2020-07-22	2020-07-21T23:00:00.000Z		31			0			0			0.0		https://covid19.min-saude.pt/
-Germany	Germany	2020-07-22	2020-07-22	9090	202345	188100		0	0	0	-522	-4	2.71	374.14	300.0	https://www.rki.de/
+Galax,_Virginia	Galax, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	16	305								0.0	1.86		http://www.vdh.virginia.gov/
+Gallia_County,_Ohio	Gallia County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	33								0.0	1.29		https://coronavirus.ohio.gov/
+Gardner,_Massachusetts	Gardner, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		196		5568							0.0		https://www.mass.gov/
+Geauga_County,_Ohio	Geauga County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	43	468								0.14	3.0		https://coronavirus.ohio.gov/
+Genesee_County,_Michigan	Genesee County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	293	3154				0			0	0.29	24.0		https://www.michigan.gov/
+Genesee_County,_New_York	Genesee County, New York	2020-07-22	2020-07-21T14:00:00.000Z	6	258		13457	0			0		0.0	0.57		https://coronavirus.health.ny.gov/
+Georgetown,_Massachusetts	Georgetown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		62		1081							0.0		https://www.mass.gov/
+Germany	Germany	2020-07-22	2020-07-22	9095	202799	188600		454	5	500	-68	1	3.43	439.0	371.43	https://www.rki.de/
+Giles_County,_Virginia	Giles County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	18								0.0	0.0		http://www.vdh.virginia.gov/
+Gill,_Massachusetts	Gill, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		132							0.0		https://www.mass.gov/
+Gilmer_County,_West_Virginia	Gilmer County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	13	13	753						0.0	0.0	0.14	https://dhhr.wv.gov/
+Gladwin_County,_Michigan	Gladwin County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	30				0			0	0.14	0.14		https://www.michigan.gov/
+Glocester,_Rhode_Island	Glocester, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		49		1021	0			0			0.0		https://health.ri.gov
+Gloucester_County,_Virginia	Gloucester County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	109								0.0	4.29		http://www.vdh.virginia.gov/
+Gloucester,_Massachusetts	Gloucester, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		260		4017							0.0		https://www.mass.gov/
 Gmunden_District	Gmunden District	2020-07-22	2020-07-21T20:00:00.000Z		89									0.86		https://info.gesundheitsministerium.at/
 Goa	Goa	2020-07-22	2020-07-21T08:00:00.000Z	23	3853	2361							0.71	157.14	107.71	https://www.mohfw.gov.in/
+Gogebic_County,_Michigan	Gogebic County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1	45				0			0	0.0	3.86		https://www.michigan.gov/
 Gondomar,_Portugal	Gondomar, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		1102			0			0			0.71		https://covid19.min-saude.pt/
+Goochland_County,_Virginia	Goochland County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	141								0.0	0.86		http://www.vdh.virginia.gov/
+Goshen,_Massachusetts	Goshen, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		46							0.0		https://www.mass.gov/
+Gosnold,_Massachusetts	Gosnold, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		0							0.0		https://www.mass.gov/
 Gouveia,_Portugal	Gouveia, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		22			0			0			0.0		https://covid19.min-saude.pt/
+Grafton_County,_New_Hampshire	Grafton County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	1	99								0.0	0.43		https://www.nh.gov/
+Grafton,_Massachusetts	Grafton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		97		2156							0.0		https://www.mass.gov/
+Granby,_Massachusetts	Granby, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		32		622							0.0		https://www.mass.gov/
 Grand_Est	Grand Est	2020-07-22		3601		12524							1.43		11.29	https://www.santepubliquefrance.fr/
+Grand_Traverse_County,_Michigan	Grand Traverse County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	5	134				0			0	0.0	4.29		https://www.michigan.gov/
+Grant_County,_West_Virginia	Grant County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	25	16	1086						0.0	0.71	0.0	https://dhhr.wv.gov/
+Granville,_Massachusetts	Granville, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		13		195							0.0		https://www.mass.gov/
+Gratiot_County,_Michigan	Gratiot County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	15	120				0			0	0.14	1.86		https://www.michigan.gov/
+Grayson_County,_Virginia	Grayson County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	107								0.0	1.71		http://www.vdh.virginia.gov/
 Graz	Graz	2020-07-22	2020-07-21T20:00:00.000Z		564									2.29		https://info.gesundheitsministerium.at/
+Great_Barrington,_Massachusetts	Great Barrington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		73		1584							0.0		https://www.mass.gov/
+Greenbrier_County,_West_Virginia	Greenbrier County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	3	80	66	5676						0.0	0.86	0.86	https://dhhr.wv.gov/
+Greene_County,_New_York	Greene County, New York	2020-07-22	2020-07-21T14:00:00.000Z	13	272		9157	0			0		0.0	0.14		https://coronavirus.health.ny.gov/
+Greene_County,_Ohio	Greene County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	10	485								0.14	14.29		https://coronavirus.ohio.gov/
+Greene_County,_Virginia	Greene County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	100								0.0	1.71		http://www.vdh.virginia.gov/
+Greenfield,_Massachusetts	Greenfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		209		3069							0.0		https://www.mass.gov/
 Greenland	Greenland	2020-07-22	2020-07-21T12:00:00.000Z	0	13	13	5372						0.0	0.0	0.0	https://www.sst.dk/
+Greensville_County,_Virginia	Greensville County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	9	389								0.0	0.71		http://www.vdh.virginia.gov/
 Grieskirchen_District	Grieskirchen District	2020-07-22	2020-07-21T20:00:00.000Z		90									0.43		https://info.gesundheitsministerium.at/
+Groton,_Massachusetts	Groton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		43		1392							0.0		https://www.mass.gov/
+Groveland,_Massachusetts	Groveland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		42		843							0.0		https://www.mass.gov/
 Guarda,_Portugal	Guarda, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		63			0			0			0.71		https://covid19.min-saude.pt/
+Guernsey_County,_Ohio	Guernsey County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	6	89								0.29	0.86		https://coronavirus.ohio.gov/
 Gujarat	Gujarat	2020-07-22	2020-07-21T08:00:00.000Z	2162	49353	35678							13.29	816.57	739.29	https://www.mohfw.gov.in/
 H%C3%A0_Giang_Province	Hà Giang Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 H%C3%A0_Nam_Province	Hà Nam Province	2020-07-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 H%C3%A0_T%C4%A9nh_Province	Hà Tĩnh Province	2020-07-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Hadley,_Massachusetts	Hadley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		44		1330							0.0		https://www.mass.gov/
 H%E1%BA%A3i_D%C6%B0%C6%A1ng_Province	Hải Dương Province	2020-07-22		0	5	4							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Halifax_County,_Virginia	Halifax County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	108								0.0	2.71		http://www.vdh.virginia.gov/
+Halifax,_Massachusetts	Halifax, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		58		1052							0.0		https://www.mass.gov/
+Hamburg	Hamburg	2020-07-22	2020-07-22	261	5244	0										https://www.rki.de/
+Hamilton_County,_New_York	Hamilton County, New York	2020-07-22	2020-07-21T14:00:00.000Z	1	6		1139	0			0		0.0	0.0		https://coronavirus.health.ny.gov/
+Hamilton_County,_Ohio	Hamilton County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	219	8020								1.43	105.86		https://coronavirus.ohio.gov/
+Hampden_County,_Massachusetts	Hampden County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	679	7152								-0.29	13.71		https://www.mass.gov/
+Hampden,_Massachusetts	Hampden, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		98		785							0.0		https://www.mass.gov/
+Hampshire_County,_Massachusetts	Hampshire County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	125	1057								1.0	6.43		https://www.mass.gov/
+Hampshire_County,_West_Virginia	Hampshire County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	51	43	2245						0.0	0.86	0.29	https://dhhr.wv.gov/
+Hampton,_Virginia	Hampton, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	751								0.0	22.71		http://www.vdh.virginia.gov/
+Hancock_County,_Maine	Hancock County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	1	19	17							0.0	0.14	0.29	https://www.maine.gov/
+Hancock_County,_Ohio	Hancock County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	2	140								0.14	6.0		https://coronavirus.ohio.gov/
+Hancock_County,_West_Virginia	Hancock County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	64	40	6051						0.0	2.43	1.0	https://dhhr.wv.gov/
+Hancock,_Massachusetts	Hancock, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		25							0.0		https://www.mass.gov/
 Hanoi	Hanoi	2020-07-22		0	121	121							0.0	0.0	0.14	https://ncov.moh.gov.vn/
+Hanover_County,_Virginia	Hanover County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	30	532								0.0	5.86		http://www.vdh.virginia.gov/
+Hanover,_Massachusetts	Hanover, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		74		1774							0.0		https://www.mass.gov/
+Hanson,_Massachusetts	Hanson, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		109		1519							0.0		https://www.mass.gov/
+Hardin_County,_Ohio	Hardin County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	12	140								0.0	2.0		https://coronavirus.ohio.gov/
+Hardwick,_Massachusetts	Hardwick, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		9		265							0.0		https://www.mass.gov/
+Hardy_County,_West_Virginia	Hardy County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	49	45	1539						0.0	0.29	0.57	https://dhhr.wv.gov/
+Harrison_County,_Ohio	Harrison County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	14								0.0	0.14		https://coronavirus.ohio.gov/
+Harrison_County,_West_Virginia	Harrison County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	142	109	8480						0.0	1.57	4.14	https://dhhr.wv.gov/
+Harrisonburg,_Virginia	Harrisonburg, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	29	1010								0.0	2.0		http://www.vdh.virginia.gov/
+Hartford_County,_Connecticut	Hartford County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	1406	12101								1.14	17.29		https://portal.ct.gov/
+Harvard,_Massachusetts	Harvard, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		18		630							0.0		https://www.mass.gov/
+Harwich,_Massachusetts	Harwich, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		131		2117							0.0		https://www.mass.gov/
 Haryana	Haryana	2020-07-22	2020-07-21T08:00:00.000Z	355	26858	20226							6.14	604.29	448.0	https://www.mohfw.gov.in/
+Hatfield,_Massachusetts	Hatfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		18		417							0.0		https://www.mass.gov/
 Hauts-de-France	Hauts-de-France	2020-07-22		1896		6804							1.57		16.14	https://www.santepubliquefrance.fr/
+Haverhill,_Massachusetts	Haverhill, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1250		12463							0.0		https://www.mass.gov/
 Hawke%27s_Bay_Region	Hawke's Bay Region	2020-07-22	2020-07-22T01:00:00.000Z		44	44		0		0	0			0.0	0.0	https://www.health.govt.nz/
+Hawley,_Massachusetts	Hawley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		17							0.0		https://www.mass.gov/
+Heath,_Massachusetts	Heath, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		36							0.0		https://www.mass.gov/
+Henrico_County,_Virginia	Henrico County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	177	3097								0.29	21.43		http://www.vdh.virginia.gov/
+Henry_County,_Ohio	Henry County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	73								0.0	5.0		https://coronavirus.ohio.gov/
+Henry_County,_Virginia	Henry County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	5	410								0.0	4.14		http://www.vdh.virginia.gov/
+Herkimer_County,_New_York	Herkimer County, New York	2020-07-22	2020-07-21T14:00:00.000Z	3	208		17387	2			0		0.0	1.57		https://coronavirus.health.ny.gov/
 Hermagor_District	Hermagor District	2020-07-22	2020-07-21T20:00:00.000Z		5									0.0		https://info.gesundheitsministerium.at/
+Hesse	Hesse	2020-07-22	2020-07-22	515	11458	0										https://www.rki.de/
+Highland_County,_Ohio	Highland County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	77								0.0	2.71		https://coronavirus.ohio.gov/
+Highland_County,_Virginia	Highland County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	3								0.0	0.0		http://www.vdh.virginia.gov/
+Hillsborough_County,_New_Hampshire	Hillsborough County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	267	3557								0.57	14.57		https://www.nh.gov/
+Hillsdale_County,_Michigan	Hillsdale County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	25	218				0			0	0.0	0.86		https://www.michigan.gov/
 Himachal_Pradesh	Himachal Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	11	1631	1067							0.0	46.0	16.57	https://www.mohfw.gov.in/
+Hingham,_Massachusetts	Hingham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		281		3696							0.0		https://www.mass.gov/
+Hinsdale,_Massachusetts	Hinsdale, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		268							0.0		https://www.mass.gov/
 Ho_Chi_Minh_City	Ho Chi Minh City	2020-07-22		0	62	62							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Hocking_County,_Ohio	Hocking County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	9	95								0.14	0.71		https://coronavirus.ohio.gov/
+Holbrook,_Massachusetts	Holbrook, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		197		1959							0.0		https://www.mass.gov/
+Holden,_Massachusetts	Holden, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		124		2926							0.0		https://www.mass.gov/
 Hollabrunn_District	Hollabrunn District	2020-07-22	2020-07-21T20:00:00.000Z		48									0.43		https://info.gesundheitsministerium.at/
+Holland,_Massachusetts	Holland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		8		206							0.0		https://www.mass.gov/
+Holliston,_Massachusetts	Holliston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		56		1711							0.0		https://www.mass.gov/
+Holmes_County,_Ohio	Holmes County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	5	297								0.0	4.29		https://coronavirus.ohio.gov/
+Holyoke,_Massachusetts	Holyoke, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		942		8793							0.0		https://www.mass.gov/
+Hopedale,_Massachusetts	Hopedale, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		43		955							0.0		https://www.mass.gov/
+Hopewell,_Virginia	Hopewell, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	5	234								0.0	3.14		http://www.vdh.virginia.gov/
+Hopkinton,_Massachusetts	Hopkinton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		131		2327							0.0		https://www.mass.gov/
+Hopkinton,_Rhode_Island	Hopkinton, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		15		843	0			0			0.0		https://health.ri.gov
 Horn_District	Horn District	2020-07-22	2020-07-21T20:00:00.000Z		98									3.71		https://info.gesundheitsministerium.at/
 Horta,_Azores	Horta, Azores	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
+Houghton_County,_Michigan	Houghton County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	37				0			0	0.0	0.86		https://www.michigan.gov/
+Hubbardston,_Massachusetts	Hubbardston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		530							0.0		https://www.mass.gov/
+Hudson,_Massachusetts	Hudson, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		195		2714							0.0		https://www.mass.gov/
+Hull,_Massachusetts	Hull, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		52		1316							0.0		https://www.mass.gov/
 H%C6%B0ng_Y%C3%AAn_Province	Hưng Yên Province	2020-07-22		0	5	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Hungary	Hungary	2020-07-22	2020-07-21T06:12:00.000Z	596	4347	3257	310930						0.14	12.0	18.57	https://koronavirus.gov.hu/
+Huntington,_Massachusetts	Huntington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		14		274							0.0		https://www.mass.gov/
+Huron_County,_Michigan	Huron County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	3	103				0			0	0.0	2.43		https://www.michigan.gov/
+Huron_County,_Ohio	Huron County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	3	309								0.0	5.43		https://coronavirus.ohio.gov/
 %C3%8Ele-de-France	Île-de-France	2020-07-22		7533		28735							2.86		40.57	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2020-07-22	2020-07-21T20:00:00.000Z		297									0.14		https://info.gesundheitsministerium.at/
 India	India	2020-07-22	2020-07-21T08:00:00.000Z	28084	1155191	724578							539.29	31287.14	18935.14	https://www.mohfw.gov.in/
+Ingham_County,_Michigan	Ingham County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	29	1301				0			0	0.0	13.0		https://www.michigan.gov/
 Ingushetia	Ingushetia	2020-07-22	2020-07-21T07:45:00.000Z	71	3459	2607		11			0		0.0	16.43	11.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2020-07-22	2020-07-21T11:00:00.000Z		511									0.29		https://www.fhi.no/
 Innsbruck	Innsbruck	2020-07-22	2020-07-21T20:00:00.000Z		439									0.86		https://info.gesundheitsministerium.at/
+Ionia_County,_Michigan	Ionia County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	5	240				0			0	0.0	2.71		https://www.michigan.gov/
+Iosco_County,_Michigan	Iosco County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	11	123				0			0	0.0	0.14		https://www.michigan.gov/
+Ipswich,_Massachusetts	Ipswich, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		70		2051							0.0		https://www.mass.gov/
 Irkutsk_Oblast	Irkutsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	123	11806	6564		181			0		2.29	160.14	183.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Iron_County,_Michigan	Iron County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1	10				0			0	0.0	0.29		https://www.michigan.gov/
+Isabella_County,_Michigan	Isabella County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	8	185				0			0	0.0	1.57		https://www.michigan.gov/
+Isle_of_Wight_County,_Virginia	Isle of Wight County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	9	283								0.0	6.14		http://www.vdh.virginia.gov/
 Italy	Italy	2020-07-22		35073	244752	197431	6305412				129		10.86	178.0	202.14	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2020-07-22	2020-07-21T07:45:00.000Z	65	6059	4387		61			0		0.86	52.57	53.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Jambyl_Region	Jambyl Region	2020-07-22		7	2957	1365							0.57	87.29	17.29	https://www.coronavirus2020.kz/
+Jackson_County,_Michigan	Jackson County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	32	591				0			0	0.0	4.43		https://www.michigan.gov/
+Jackson_County,_Ohio	Jackson County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	44								0.0	1.57		https://coronavirus.ohio.gov/
+Jackson_County,_West_Virginia	Jackson County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	19	150	131	2519						0.14	0.29	0.43	https://dhhr.wv.gov/
+Jambyl_Region	Jambyl Region	2020-07-22		7	2999	1365							0.57	93.29	17.29	https://www.coronavirus2020.kz/
+James_City_County,_Virginia	James City County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	16	456								0.0	9.71		http://www.vdh.virginia.gov/
+Jamestown,_Rhode_Island	Jamestown, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		17		710	0			0			0.0		https://health.ri.gov
+Jefferson_County,_New_York	Jefferson County, New York	2020-07-22	2020-07-21T18:00:00.000Z	0	112		18555	6			0		0.0	1.71		https://coronavirus.health.ny.gov/
+Jefferson_County,_Ohio	Jefferson County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	2	162								0.0	3.86		https://coronavirus.ohio.gov/
+Jefferson_County,_West_Virginia	Jefferson County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	4	269	251	6417						0.0	1.86	2.29	https://dhhr.wv.gov/
 Jennersdorf_District	Jennersdorf District	2020-07-22	2020-07-21T20:00:00.000Z		10									0.0		https://info.gesundheitsministerium.at/
 Jewish_Autonomous_Oblast	Jewish Autonomous Oblast	2020-07-22	2020-07-21T07:45:00.000Z	7	509	423		2			0		0.14	2.57	2.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jharkhand	Jharkhand	2020-07-22	2020-07-21T08:00:00.000Z	53	5756	2810							2.43	237.86	54.71	https://www.mohfw.gov.in/
+Johnston,_Rhode_Island	Johnston, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		480		4121	0			0			0.0		https://health.ri.gov
 Jordan	Jordan	2020-07-22	2020-07-21T11:42:06.000Z	11	1223	1034	527094						0.14	3.14	2.57	https://www.ecdc.europa.eu/
 Kabardino-Balkaria	Kabardino-Balkaria	2020-07-22	2020-07-21T07:45:00.000Z	64	5823	5315		16			0		0.43	19.57	17.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kalamazoo_County,_Michigan	Kalamazoo County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	74	1351				0			0	0.43	11.86		https://www.michigan.gov/
 Kaliningrad_Oblast	Kaliningrad Oblast	2020-07-22	2020-07-21T07:45:00.000Z	43	2729	2272		11			0		0.14	11.57	63.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kalkaska_County,_Michigan	Kalkaska County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	4	45				0			0	0.14	0.29		https://www.michigan.gov/
 Kalmykia	Kalmykia	2020-07-22	2020-07-21T07:45:00.000Z	34	2371	1495		0			0		1.0	21.57	26.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kaluga_Oblast	Kaluga Oblast	2020-07-22	2020-07-21T07:45:00.000Z	54	6957	5423		34			0		0.29	30.71	52.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kamchatka_Krai	Kamchatka Krai	2020-07-22	2020-07-21T07:45:00.000Z	42	3051	2316		34			0		1.86	30.14	51.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kampong_Cham_Province	Kampong Cham Province	2020-07-22	2020-07-22T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampong_Chhnang_Province	Kampong Chhnang Province	2020-07-22	2020-07-22T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampot_Province	Kampot Province	2020-07-22	2020-07-22T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kanawha_County,_West_Virginia	Kanawha County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	20	539	351	25663						0.0	13.86	5.43	https://dhhr.wv.gov/
 Kandal_Province	Kandal Province	2020-07-22	2020-07-22T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Karachay-Cherkessia	Karachay-Cherkessia	2020-07-22	2020-07-21T07:45:00.000Z	20	4259	2738		25			0		0.0	21.43	27.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Karaganda_Region	Karaganda Region	2020-07-22		81	7226	4504							0.86	111.71	57.14	https://www.coronavirus2020.kz/
+Karaganda_Region	Karaganda Region	2020-07-22		81	7401	4504							0.86	136.71	57.14	https://www.coronavirus2020.kz/
 Karnataka	Karnataka	2020-07-22	2020-07-21T08:00:00.000Z	1403	67420	23795							80.14	3334.71	915.0	https://www.mohfw.gov.in/
-Kazakhstan	Kazakhstan	2020-07-22		585	73468	45376							30.0	1422.0	1052.57	https://www.coronavirus2020.kz/
+Kazakhstan	Kazakhstan	2020-07-22		585	75153	45376							30.0	1662.71	1052.57	https://www.coronavirus2020.kz/
 Kemerovo_Oblast	Kemerovo Oblast	2020-07-22	2020-07-21T07:45:00.000Z	15	2857	1606		61			0		0.14	43.43	40.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kennebec_County,_Maine	Kennebec County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	10	150	130							0.0	0.43	0.0	https://www.maine.gov/
+Kent_County,_Michigan	Kent County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	149	6424				0			0	0.57	51.86		https://www.michigan.gov/
 Kep_Province	Kep Province	2020-07-22	2020-07-22T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kerala	Kerala	2020-07-22	2020-07-21T08:00:00.000Z	43	13274	5616							1.29	620.57	168.29	https://www.mohfw.gov.in/
+Keweenaw_County,_Michigan	Keweenaw County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	2				0			0	0.0	0.0		https://www.michigan.gov/
 Khabarovsk_Krai	Khabarovsk Krai	2020-07-22	2020-07-21T07:45:00.000Z	52	6334	3300		126			0		1.29	99.57	72.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khakassia	Khakassia	2020-07-22	2020-07-21T07:45:00.000Z	27	2649	2139		21			0		1.14	28.43	42.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kh%C3%A1nh_H%C3%B2a_Province	Khánh Hòa Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Khanty-Mansi_Autonomous_Okrug	Khanty-Mansi Autonomous Okrug	2020-07-22	2020-07-21T07:45:00.000Z	106	14442	9447		228			0		1.43	207.0	273.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+King_and_Queen_County,_Virginia	King and Queen County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	32								0.0	0.14		http://www.vdh.virginia.gov/
+King_George_County,_Virginia	King George County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	108								0.0	0.43		http://www.vdh.virginia.gov/
+King_William_County,_Virginia	King William County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	66								0.0	1.0		http://www.vdh.virginia.gov/
+Kingston,_Massachusetts	Kingston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		138		2298							0.0		https://www.mass.gov/
 Kirchdorf_an_der_Krems_District	Kirchdorf an der Krems District	2020-07-22	2020-07-21T20:00:00.000Z		64									0.29		https://info.gesundheitsministerium.at/
 Kirov_Oblast	Kirov Oblast	2020-07-22	2020-07-21T07:45:00.000Z	54	4256	3928		58			0		0.71	46.14	59.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Klagenfurt	Klagenfurt	2020-07-22	2020-07-21T20:00:00.000Z		102									0.29		https://info.gesundheitsministerium.at/
+Knox_County,_Maine	Knox County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	1	25	23							0.0	0.0	0.0	https://www.maine.gov/
+Knox_County,_Ohio	Knox County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	2	89								0.14	4.0		https://coronavirus.ohio.gov/
 Koh_Kong_Province	Koh Kong Province	2020-07-22	2020-07-22T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Komi_Republic	Komi Republic	2020-07-22	2020-07-21T07:45:00.000Z	40	4819	2866		58			0		0.14	57.57	60.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Korneuburg_District	Korneuburg District	2020-07-22	2020-07-21T20:00:00.000Z		187									0.29		https://info.gesundheitsministerium.at/
-Kostanay_Region	Kostanay Region	2020-07-22		3	2017	1066							0.0	45.86	42.0	https://www.coronavirus2020.kz/
+Kostanay_Region	Kostanay Region	2020-07-22		3	2071	1066							0.0	53.57	42.0	https://www.coronavirus2020.kz/
 Kostroma_Oblast	Kostroma Oblast	2020-07-22	2020-07-21T07:45:00.000Z	24	2005	1352		10			0		0.0	17.0	13.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Krasnodar_Krai	Krasnodar Krai	2020-07-22	2020-07-21T07:45:00.000Z	98	7340	6252		78			0		1.29	61.14	53.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Krasnoyarsk_Krai	Krasnoyarsk Krai	2020-07-22	2020-07-21T07:45:00.000Z	276	11655	9118		127			0		5.86	109.43	244.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -240,63 +600,176 @@ Kufstein_District	Kufstein District	2020-07-22	2020-07-21T20:00:00.000Z		530				
 Kurgan_Oblast	Kurgan Oblast	2020-07-22	2020-07-21T07:45:00.000Z	3	1850	917		47			0		0.0	43.43	27.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kursk_Oblast	Kursk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	49	5921	4236		28			0		0.14	26.71	36.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kuwait	Kuwait	2020-07-22		412	60434	50919							1.86	508.14	574.57	https://corona.e.gov.kw/
-Kyzylorda_Region	Kyzylorda Region	2020-07-22		7	2349	1563							0.0	64.29	34.71	https://www.coronavirus2020.kz/
+Kyzylorda_Region	Kyzylorda Region	2020-07-22		7	2464	1563							0.0	80.71	34.71	https://www.coronavirus2020.kz/
 Ladakh	Ladakh	2020-07-22	2020-07-21T08:00:00.000Z	2	1195	1007							0.14	14.57	8.71	https://www.mohfw.gov.in/
 Lagoa,_Azores	Lagoa, Azores	2020-07-22	2020-07-21T23:00:00.000Z		13			0			0			0.0		https://covid19.min-saude.pt/
 Lagos,_Portugal	Lagos, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		101			0			0			0.86		https://covid19.min-saude.pt/
 Lai_Ch%C3%A2u_Province	Lai Châu Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Lake_County,_Michigan	Lake County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	14				0			0	0.0	0.14		https://www.michigan.gov/
+Lake_County,_Ohio	Lake County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	25	823								0.43	23.14		https://coronavirus.ohio.gov/
+Lakeville,_Massachusetts	Lakeville, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		61		1325							0.0		https://www.mass.gov/
 Lamego	Lamego	2020-07-22	2020-07-21T23:00:00.000Z		42			0			0			0.0		https://covid19.min-saude.pt/
+Lancaster_County,_Virginia	Lancaster County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	23								0.0	0.14		http://www.vdh.virginia.gov/
+Lancaster,_Massachusetts	Lancaster, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		101		1144							0.0		https://www.mass.gov/
 Landeck_District	Landeck District	2020-07-22	2020-07-21T20:00:00.000Z		1006									1.0		https://info.gesundheitsministerium.at/
+Lanesborough,_Massachusetts	Lanesborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		8		297							0.0		https://www.mass.gov/
 L%C3%A0o_Cai_Province	Lào Cai Province	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Lapeer_County,_Michigan	Lapeer County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	32	341				0			0	0.0	1.14		https://www.michigan.gov/
+Lawrence_County,_Ohio	Lawrence County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	152								0.0	7.86		https://coronavirus.ohio.gov/
+Lawrence,_Massachusetts	Lawrence, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3686		22805							0.0		https://www.mass.gov/
 Lazio	Lazio	2020-07-22		853	8456	6722	391123				6		0.86	11.43	13.0	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-07-22	2020-07-21T18:22:00.000Z	41	2980	1577	223646						0.43	62.57	17.43	https://corona.ministryinfo.gov.lb/
+Lee_County,_Virginia	Lee County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	44								0.0	2.57		http://www.vdh.virginia.gov/
+Lee,_Massachusetts	Lee, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		19		742							0.0		https://www.mass.gov/
+Leelanau_County,_Michigan	Leelanau County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	55				0			0	0.0	1.14		https://www.michigan.gov/
 Leibnitz_District	Leibnitz District	2020-07-22	2020-07-21T20:00:00.000Z		192									0.43		https://info.gesundheitsministerium.at/
+Leicester,_Massachusetts	Leicester, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		153		1729							0.0		https://www.mass.gov/
 Leiria	Leiria	2020-07-22	2020-07-21T23:00:00.000Z		139			0			0			1.14		https://covid19.min-saude.pt/
+Lenawee_County,_Michigan	Lenawee County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	11	328				0			0	0.0	5.29		https://www.michigan.gov/
 Leningrad_Oblast	Leningrad Oblast	2020-07-22	2020-07-21T07:45:00.000Z	47	5449	4371		44			0		0.71	38.86	11.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Lenox,_Massachusetts	Lenox, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		14		1063							0.0		https://www.mass.gov/
 Leoben_District	Leoben District	2020-07-22	2020-07-21T20:00:00.000Z		32									0.0		https://info.gesundheitsministerium.at/
+Leominster,_Massachusetts	Leominster, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		708		8731							0.0		https://www.mass.gov/
+Leverett,_Massachusetts	Leverett, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		226							0.0		https://www.mass.gov/
+Lewis_County,_New_York	Lewis County, New York	2020-07-22	2020-07-21T14:00:00.000Z	5	33		5456	0			0		0.0	0.14		https://coronavirus.health.ny.gov/
+Lewis_County,_West_Virginia	Lewis County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	2	24	15	3185						0.0	0.14	0.0	https://dhhr.wv.gov/
+Lexington,_Massachusetts	Lexington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		331		4206							0.0		https://www.mass.gov/
+Lexington,_Virginia	Lexington, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	23								0.0	0.29		http://www.vdh.virginia.gov/
+Leyden,_Massachusetts	Leyden, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		16							0.0		https://www.mass.gov/
+Licking_County,_Ohio	Licking County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	16	766								0.43	18.0		https://coronavirus.ohio.gov/
 Lienz_District	Lienz District	2020-07-22	2020-07-21T20:00:00.000Z		156									0.0		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-07-22	2020-07-21T20:00:00.000Z		105									1.57		https://info.gesundheitsministerium.at/
 Liguria	Liguria	2020-07-22		1565	10117	8362	173705				12		0.57	10.71	11.0	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2020-07-22	2020-07-21T20:00:00.000Z		53									0.0		https://info.gesundheitsministerium.at/
+Lincoln_County,_Maine	Lincoln County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	0	31	23							0.0	0.71	0.14	https://www.maine.gov/
+Lincoln_County,_West_Virginia	Lincoln County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	30	8	2197						0.0	2.57	0.0	https://dhhr.wv.gov/
+Lincoln,_Massachusetts	Lincoln, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		41		1140							0.0		https://www.mass.gov/
+Lincoln,_Rhode_Island	Lincoln, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		280		2988	0			0			0.0		https://health.ri.gov
 Linz	Linz	2020-07-22	2020-07-21T20:00:00.000Z		612									10.86		https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	20	4423	3389		13			0		0.14	19.43	47.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lisbon	Lisbon	2020-07-22	2020-07-21T23:00:00.000Z		4240			0			0			22.29		https://covid19.min-saude.pt/
+Litchfield_County,_Connecticut	Litchfield County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	138	1525								0.0	1.14		https://portal.ct.gov/
 Lithuania	Lithuania	2020-07-22	2020-07-21T20:01:00.000Z	80	1949	1601	486224						0.14	9.57	2.71	https://koronastop.lrv.lt
+Little_Compton,_Rhode_Island	Little Compton, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		14		328	0			0			0.0		https://health.ri.gov
+Littleton,_Massachusetts	Littleton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		101		1340							0.0		https://www.mass.gov/
+Livingston_County,_Michigan	Livingston County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	28	676				0			0	0.0	6.71		https://www.michigan.gov/
+Livingston_County,_New_York	Livingston County, New York	2020-07-22	2020-07-21T14:00:00.000Z	4	160		12077	1			0		0.0	1.29		https://coronavirus.health.ny.gov/
+Logan_County,_Ohio	Logan County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	89								0.0	2.0		https://coronavirus.ohio.gov/
+Logan_County,_West_Virginia	Logan County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	49	27	3809						0.0	1.14	0.14	https://dhhr.wv.gov/
 Lombardy	Lombardy	2020-07-22		16797	95582	71775	1212468				34		4.57	49.43	119.86	http://www.salute.gov.it/
+Longmeadow,_Massachusetts	Longmeadow, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		223		2345							0.0		https://www.mass.gov/
+Lorain_County,_Ohio	Lorain County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	75	1351								0.71	17.86		https://coronavirus.ohio.gov/
+Loudoun_County,_Virginia	Loudoun County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	106	4695								0.71	25.14		http://www.vdh.virginia.gov/
 Loures	Loures	2020-07-22	2020-07-21T23:00:00.000Z		2197			0			0			15.57		https://covid19.min-saude.pt/
 Lousada	Lousada	2020-07-22	2020-07-21T23:00:00.000Z		351			0			0			0.29		https://covid19.min-saude.pt/
+Lowell,_Massachusetts	Lowell, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		2958		27126							0.0		https://www.mass.gov/
 Lower_Austria	Lower Austria	2020-07-22	2020-07-21T20:00:00.000Z	107		2904							0.0		3.29	https://info.gesundheitsministerium.at/
+Lower_Saxony	Lower Saxony	2020-07-22	2020-07-22	647	14101	0										https://www.rki.de/
+Lucas_County,_Ohio	Lucas County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	307	3629								0.14	66.71		https://coronavirus.ohio.gov/
+Luce_County,_Michigan	Luce County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	3				0			0	0.0	0.0		https://www.michigan.gov/
+Ludlow,_Massachusetts	Ludlow, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		129		2837							0.0		https://www.mass.gov/
+Lunenburg_County,_Virginia	Lunenburg County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	44								0.0	0.29		http://www.vdh.virginia.gov/
+Lunenburg,_Massachusetts	Lunenburg, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		66		1482							0.0		https://www.mass.gov/
 Luxembourg	Luxembourg	2020-07-22	2020-07-21T11:42:06.000Z	111	5605	4479	357637						0.0	78.43	33.14	https://www.ecdc.europa.eu/
+Lynchburg,_Virginia	Lynchburg, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	270								0.0	10.0		http://www.vdh.virginia.gov/
+Lynn,_Massachusetts	Lynn, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3725		23955							0.0		https://www.mass.gov/
+Lynnfield,_Massachusetts	Lynnfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		98		1842							0.0		https://www.mass.gov/
 Macedo_de_Cavaleiros	Macedo de Cavaleiros	2020-07-22	2020-07-21T23:00:00.000Z		40			0			0			1.43		https://covid19.min-saude.pt/
+Mackinac_County,_Michigan	Mackinac County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	10				0			0	0.0	0.14		https://www.michigan.gov/
+Macomb_County,_Michigan	Macomb County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	936	8504				0			0	1.0	66.71		https://www.michigan.gov/
 Madalena,_Azores	Madalena, Azores	2020-07-22	2020-07-21T23:00:00.000Z		5			0			0			0.0		https://covid19.min-saude.pt/
 Madhya_Pradesh	Madhya Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	738	23310	15684							9.29	615.0	301.29	https://www.mohfw.gov.in/
+Madison_County,_New_York	Madison County, New York	2020-07-22	2020-07-21T14:00:00.000Z	9	387		14408	3			0		0.0	1.57		https://coronavirus.health.ny.gov/
+Madison_County,_Ohio	Madison County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	9	257								0.0	3.43		https://coronavirus.ohio.gov/
+Madison_County,_Virginia	Madison County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	51								0.0	0.43		http://www.vdh.virginia.gov/
 Mafra,_Portugal	Mafra, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		373			0			0			4.57		https://covid19.min-saude.pt/
 Magadan_Oblast	Magadan Oblast	2020-07-22	2020-07-21T07:45:00.000Z	7	1168	773		7			0		0.29	13.43	21.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Maharashtra	Maharashtra	2020-07-22	2020-07-21T08:00:00.000Z	12030	318695	175029							190.71	7290.0	3717.43	https://www.mohfw.gov.in/
+Mahoning_County,_Ohio	Mahoning County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	247	2148								1.14	20.14		https://coronavirus.ohio.gov/
 Maia,_Portugal	Maia, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		957			0			0			1.57		https://covid19.min-saude.pt/
+Maine	Maine	2020-07-22	2020-07-21T14:00:00.000Z	118	3723	3191	150299						0.57	20.71	16.0	https://www.maine.gov/
 Malaysia	Malaysia	2020-07-22	2020-07-21T09:00:00.000Z	123	8815	8562							0.14	11.57	5.14	http://www.moh.gov.my/
+Malden,_Massachusetts	Malden, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1267		11899							0.0		https://www.mass.gov/
+Manassas_Park,_Virginia	Manassas Park, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	7	477								0.14	2.0		http://www.vdh.virginia.gov/
+Manassas,_Virginia	Manassas, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	20	1531								0.14	4.86		http://www.vdh.virginia.gov/
+Manchester-by-the-Sea,_Massachusetts	Manchester-by-the-Sea, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		20		543							0.0		https://www.mass.gov/
 Mangualde	Mangualde	2020-07-22	2020-07-21T23:00:00.000Z		78			0			0			0.0		https://covid19.min-saude.pt/
-Mangystau_Region	Mangystau Region	2020-07-22		23	2348	1618							1.57	33.86	40.29	https://www.coronavirus2020.kz/
+Mangystau_Region	Mangystau Region	2020-07-22		23	2397	1618							1.57	40.86	40.29	https://www.coronavirus2020.kz/
+Manhattan	Manhattan	2020-07-22	2020-07-21T14:00:00.000Z	2077	29867		482789	71			0		0.29	60.71		https://coronavirus.health.ny.gov/
 Manipur	Manipur	2020-07-22	2020-07-21T08:00:00.000Z	0	1925	1307							0.0	36.14	48.14	https://www.mohfw.gov.in/
+Manistee_County,_Michigan	Manistee County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	31				0			0	0.0	0.14		https://www.michigan.gov/
+Manitoba	Manitoba	2020-07-22	2020-07-21T15:00:00.000Z	7	353	318	75868						0.0	4.86	0.0	https://www.canada.ca/
+Mansfield,_Massachusetts	Mansfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		166		2905							0.0		https://www.mass.gov/
 Manteigas	Manteigas	2020-07-22	2020-07-21T23:00:00.000Z		7			0			0			0.0		https://covid19.min-saude.pt/
+Marblehead,_Massachusetts	Marblehead, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		240		3552							0.0		https://www.mass.gov/
 Marche	Marche	2020-07-22		987	6813	5682	157262				2		0.0	1.14	3.0	http://www.salute.gov.it/
 Marco_de_Canaveses	Marco de Canaveses	2020-07-22	2020-07-21T23:00:00.000Z		117			0			0			0.43		https://covid19.min-saude.pt/
 Mari_El	Mari El	2020-07-22	2020-07-21T07:45:00.000Z	31	3548	2976		28			0		0.14	24.0	7.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Marinha_Grande	Marinha Grande	2020-07-22	2020-07-21T23:00:00.000Z		32			0			0			0.57		https://covid19.min-saude.pt/
+Marion_County,_Ohio	Marion County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	40	2794								0.14	5.0		https://coronavirus.ohio.gov/
+Marion_County,_West_Virginia	Marion County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	2	138	64	7627						0.0	3.14	1.71	https://dhhr.wv.gov/
+Marion,_Massachusetts	Marion, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		13		787							0.0		https://www.mass.gov/
+Marlborough,_Massachusetts	Marlborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1000		8120							0.0		https://www.mass.gov/
+Marquette_County,_Michigan	Marquette County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	11	107				0			0	0.0	1.29		https://www.michigan.gov/
 Marrakesh-Safi	Marrakesh-Safi	2020-07-22	2020-07-21T17:00:00.000Z		3014									18.0		http://www.covidmaroc.ma/
+Marshall_County,_West_Virginia	Marshall County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	83	54	3954						0.0	1.71	1.86	https://dhhr.wv.gov/
+Marshfield,_Massachusetts	Marshfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		171		3435							0.0		https://www.mass.gov/
+Martinsville,_Virginia	Martinsville, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	143								0.0	2.86		http://www.vdh.virginia.gov/
+Mashpee,_Massachusetts	Mashpee, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		67		2510							0.0		https://www.mass.gov/
+Mason_County,_Michigan	Mason County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	92				0			0	0.0	1.71		https://www.michigan.gov/
+Mason_County,_West_Virginia	Mason County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	32	19	1923						0.0	0.86	0.0	https://dhhr.wv.gov/
+Massachusetts	Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	8231	114033		1139375	165	17		0	0	11.29	240.86		https://www.mass.gov/
+Mathews_County,_Virginia	Mathews County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	9								0.0	0.29		http://www.vdh.virginia.gov/
 Mato_Grosso	Mato Grosso	2020-07-22	2020-07-21T22:00:00.000Z	1400	37077								32.29	965.43		https://covid.saude.gov.br/
 Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-07-22	2020-07-21T22:00:00.000Z	248	17386								9.29	393.57		https://covid.saude.gov.br/
 Matosinhos	Matosinhos	2020-07-22	2020-07-21T23:00:00.000Z		1313			0			0			1.29		https://covid19.min-saude.pt/
+Mattapoisett,_Massachusetts	Mattapoisett, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		37		785							0.0		https://www.mass.gov/
 Mattersburg_District	Mattersburg District	2020-07-22	2020-07-21T20:00:00.000Z		74									1.86		https://info.gesundheitsministerium.at/
 Mauritius	Mauritius	2020-07-22	2020-07-19T20:00:00.000Z	10	343	332							0.0	0.0	0.14	http://www.covid19.mu/
+Maynard,_Massachusetts	Maynard, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		71		1530							0.0		https://www.mass.gov/
+McDowell_County,_West_Virginia	McDowell County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	11	11	1619						0.0	-0.14	0.71	https://dhhr.wv.gov/
 Mealhada	Mealhada	2020-07-22	2020-07-21T23:00:00.000Z		24			0			0			0.14		https://covid19.min-saude.pt/
+Mecklenburg_County,_Virginia	Mecklenburg County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	30	281								0.14	2.0		http://www.vdh.virginia.gov/
+Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	2020-07-22	2020-07-22	20	811	0										https://www.rki.de/
+Mecosta_County,_Michigan	Mecosta County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	46				0			0	0.0	0.57		https://www.michigan.gov/
+Medfield,_Massachusetts	Medfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		39		1383							0.0		https://www.mass.gov/
+Medford,_Massachusetts	Medford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1047		11557							0.0		https://www.mass.gov/
+Medina_County,_Ohio	Medina County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	32	698								0.0	9.29		https://coronavirus.ohio.gov/
+Medway,_Massachusetts	Medway, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		120		1641							0.0		https://www.mass.gov/
 Meghalaya	Meghalaya	2020-07-22	2020-07-21T08:00:00.000Z	4	466	66							0.29	21.14	0.0	https://www.mohfw.gov.in/
+Meigs_County,_Ohio	Meigs County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	21								0.0	0.86		https://coronavirus.ohio.gov/
 Melk_District	Melk District	2020-07-22	2020-07-21T20:00:00.000Z		181									0.71		https://info.gesundheitsministerium.at/
+Melrose,_Massachusetts	Melrose, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		255		4560							0.0		https://www.mass.gov/
+Mendon,_Massachusetts	Mendon, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		31		642							0.0		https://www.mass.gov/
+Menominee_County,_Michigan	Menominee County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	58				0			0	0.0	1.0		https://www.michigan.gov/
+Mercer_County,_Ohio	Mercer County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	11	368								0.14	8.71		https://coronavirus.ohio.gov/
+Mercer_County,_West_Virginia	Mercer County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	74	30	5863						0.0	1.0	0.29	https://dhhr.wv.gov/
+Merrimac,_Massachusetts	Merrimac, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		35		838							0.0		https://www.mass.gov/
+Merrimack_County,_New_Hampshire	Merrimack County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	20	441								0.14	1.0		https://www.nh.gov/
+Methuen,_Massachusetts	Methuen, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1050		9954							0.0		https://www.mass.gov/
+Miami_County,_Ohio	Miami County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	32	588								0.14	7.43		https://coronavirus.ohio.gov/
+Michigan	Michigan	2020-07-22	2020-07-21T16:00:00.000Z	6381	83059				1			0	7.43	592.29		https://www.michigan.gov/
+Middleborough,_Massachusetts	Middleborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		269		3835							0.0		https://www.mass.gov/
+Middlefield,_Massachusetts	Middlefield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		19							0.0		https://www.mass.gov/
+Middlesex_County,_Connecticut	Middlesex County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	189	1361								0.14	2.14		https://portal.ct.gov/
+Middlesex_County,_Massachusetts	Middlesex County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	1946	25011								2.57	51.29		https://www.mass.gov/
+Middlesex_County,_Virginia	Middlesex County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	20								0.14	0.29		http://www.vdh.virginia.gov/
+Middleton,_Massachusetts	Middleton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		169		1547							0.0		https://www.mass.gov/
+Middletown,_Rhode_Island	Middletown, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		69		2074	0			0			0.0		https://health.ri.gov
+Midland_County,_Michigan	Midland County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	9	236				0			0	0.0	4.86		https://www.michigan.gov/
+Milford,_Massachusetts	Milford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		652		5669							0.0		https://www.mass.gov/
+Millbury,_Massachusetts	Millbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		215		2127							0.0		https://www.mass.gov/
+Millis,_Massachusetts	Millis, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		50		989							0.0		https://www.mass.gov/
+Millville,_Massachusetts	Millville, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		22		365							0.0		https://www.mass.gov/
+Milton,_Massachusetts	Milton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		307		4049							0.0		https://www.mass.gov/
 Minas_Gerais	Minas Gerais	2020-07-22	2020-07-21T22:00:00.000Z	2071	95566								45.57	1936.57		https://covid.saude.gov.br/
+Mineral_County,_West_Virginia	Mineral County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	3	76	56	3278						0.0	1.14	0.43	https://dhhr.wv.gov/
+Mingo_County,_West_Virginia	Mingo County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	2	62	29	2231						0.0	4.0	1.14	https://dhhr.wv.gov/
 Mira,_Portugal	Mira, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		7			0			0			0.14		https://covid19.min-saude.pt/
 Miranda_do_Corvo	Miranda do Corvo	2020-07-22	2020-07-21T23:00:00.000Z		20			0			0			0.14		https://covid19.min-saude.pt/
 Miranda_do_Douro	Miranda do Douro	2020-07-22	2020-07-21T23:00:00.000Z		54			0			0			1.43		https://covid19.min-saude.pt/
 Mirandela	Mirandela	2020-07-22	2020-07-21T23:00:00.000Z		21			0			0			0.14		https://covid19.min-saude.pt/
+Missaukee_County,_Michigan	Missaukee County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1	40				0			0	0.0	0.43		https://www.michigan.gov/
 Mistelbach_District	Mistelbach District	2020-07-22	2020-07-21T20:00:00.000Z		146									0.0		https://info.gesundheitsministerium.at/
 Mizoram	Mizoram	2020-07-22	2020-07-21T08:00:00.000Z	0	297	168							0.0	8.43	1.29	https://www.mohfw.gov.in/
 Mogadouro	Mogadouro	2020-07-22	2020-07-21T23:00:00.000Z		8			0			0			0.14		https://covid19.min-saude.pt/
@@ -304,192 +777,494 @@ Moimenta_da_Beira	Moimenta da Beira	2020-07-22	2020-07-21T23:00:00.000Z		15			0	
 Moita	Moita	2020-07-22	2020-07-21T23:00:00.000Z		406			0			0			5.86		https://covid19.min-saude.pt/
 Molise	Molise	2020-07-22		23	446	415	25908				0		0.0	0.0	0.14	http://www.salute.gov.it/
 Monchique	Monchique	2020-07-22	2020-07-21T23:00:00.000Z		15			0			0			0.14		https://covid19.min-saude.pt/
+Monongalia_County,_West_Virginia	Monongalia County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	5	751	383	15825						0.0	18.14	22.29	https://dhhr.wv.gov/
+Monroe_County,_Michigan	Monroe County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	21	747				0			0	-0.29	7.71		https://www.michigan.gov/
+Monroe_County,_New_York	Monroe County, New York	2020-07-22	2020-07-21T14:00:00.000Z	249	4452		188342	30			0		0.14	24.43		https://coronavirus.health.ny.gov/
+Monroe_County,_Ohio	Monroe County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	17	89								0.0	0.0		https://coronavirus.ohio.gov/
+Monroe_County,_West_Virginia	Monroe County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	16	12	1477						0.0	0.29	0.0	https://dhhr.wv.gov/
+Monroe,_Massachusetts	Monroe, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		11							0.0		https://www.mass.gov/
+Monson,_Massachusetts	Monson, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		42		838							0.0		https://www.mass.gov/
+Montague,_Massachusetts	Montague, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		29		1096							0.0		https://www.mass.gov/
 Montalegre	Montalegre	2020-07-22	2020-07-21T23:00:00.000Z		3			0			0			0.0		https://covid19.min-saude.pt/
+Montcalm_County,_Michigan	Montcalm County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1	157				0			0	0.0	4.0		https://www.michigan.gov/
 Montemor-o-Novo	Montemor-o-Novo	2020-07-22	2020-07-21T23:00:00.000Z		10			0			0			0.0		https://covid19.min-saude.pt/
 Montemor-o-Velho	Montemor-o-Velho	2020-07-22	2020-07-21T23:00:00.000Z		36			0			0			0.86		https://covid19.min-saude.pt/
+Monterey,_Massachusetts	Monterey, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		89							0.0		https://www.mass.gov/
+Montgomery_County,_New_York	Montgomery County, New York	2020-07-22	2020-07-21T14:00:00.000Z	4	144		12925	1			0		0.0	0.43		https://coronavirus.health.ny.gov/
+Montgomery_County,_Ohio	Montgomery County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	49	3083								1.57	51.29		https://coronavirus.ohio.gov/
+Montgomery_County,_Virginia	Montgomery County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	220								0.0	2.71		http://www.vdh.virginia.gov/
+Montgomery,_Massachusetts	Montgomery, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		22							0.0		https://www.mass.gov/
 Montijo,_Portugal	Montijo, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		193			0			0			1.43		https://covid19.min-saude.pt/
+Montmorency_County,_Michigan	Montmorency County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	7				0			0	0.0	0.0		https://www.michigan.gov/
 Mordovia	Mordovia	2020-07-22	2020-07-21T07:45:00.000Z	32	4157	3046		36			0		0.43	31.29	28.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Morgan_County,_Ohio	Morgan County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	15								0.0	0.29		https://coronavirus.ohio.gov/
+Morgan_County,_West_Virginia	Morgan County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	21	21	1510						0.0	0.29	0.14	https://dhhr.wv.gov/
 Morocco	Morocco	2020-07-22	2020-07-21T17:00:00.000Z	280	17742	15389	1029064						3.0	211.43	224.0	http://www.covidmaroc.ma/
+Morrow_County,_Ohio	Morrow County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	136								0.0	0.86		https://coronavirus.ohio.gov/
 Moscow	Moscow	2020-07-22	2020-07-21T07:45:00.000Z	4331	234725	171771		602			0		13.86	493.57	565.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2020-07-22	2020-07-21T07:45:00.000Z	1067	62045	43919		149			0		6.43	140.86	272.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Mount_Washington,_Massachusetts	Mount Washington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		3							0.0		https://www.mass.gov/
 Moura,_Portugal	Moura, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		82			0			0			0.43		https://covid19.min-saude.pt/
 Murau_District	Murau District	2020-07-22	2020-07-21T20:00:00.000Z		9									0.29		https://info.gesundheitsministerium.at/
 Murmansk_Oblast	Murmansk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	55	8616	4471		172			0		2.29	145.57	46.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Murtal_District	Murtal District	2020-07-22	2020-07-21T20:00:00.000Z		41									1.29		https://info.gesundheitsministerium.at/
 Murtosa	Murtosa	2020-07-22	2020-07-21T23:00:00.000Z		23			0			0			0.14		https://covid19.min-saude.pt/
+Muskegon_County,_Michigan	Muskegon County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	55	1046				0			0	0.14	12.57		https://www.michigan.gov/
+Muskingum_County,_Ohio	Muskingum County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	120								0.0	1.43		https://coronavirus.ohio.gov/
 Nagaland	Nagaland	2020-07-22	2020-07-21T08:00:00.000Z	0	1021	484							0.0	17.86	19.71	https://www.mohfw.gov.in/
+Nahant,_Massachusetts	Nahant, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		40		557							0.0		https://www.mass.gov/
+Nantucket	Nantucket	2020-07-22	2020-07-21T20:00:00.000Z		29									0.57		https://www.mass.gov/
+Narragansett,_Rhode_Island	Narragansett, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		50		1456	0			0			0.0		https://health.ri.gov
+Nassau_County,_New_York	Nassau County, New York	2020-07-22	2020-07-21T14:00:00.000Z	2193	42729		411248	51			0		0.29	38.14		https://coronavirus.health.ny.gov/
+Natick,_Massachusetts	Natick, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		421		4916							0.0		https://www.mass.gov/
+Needham,_Massachusetts	Needham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		334		4575							0.0		https://www.mass.gov/
 Nelas	Nelas	2020-07-22	2020-07-21T23:00:00.000Z		22			0			0			0.0		https://covid19.min-saude.pt/
+Nelson_County,_Virginia	Nelson County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	29								0.0	0.29		http://www.vdh.virginia.gov/
 Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-07-22	2020-07-21T07:45:00.000Z	0	260	52		0			0		0.0	0.86	1.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Netherlands	Netherlands	2020-07-22	2020-07-20T22:00:00.000Z	6136	52073								0.0	117.29		https://www.rivm.nl/
 Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-07-22	2020-07-21T20:00:00.000Z		234									0.43		https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2020-07-22	2020-07-21T20:00:00.000Z		61									0.0		https://info.gesundheitsministerium.at/
+New_Ashford,_Massachusetts	New Ashford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		12							0.0		https://www.mass.gov/
+New_Bedford,_Massachusetts	New Bedford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		2167		19795							0.0		https://www.mass.gov/
+New_Braintree,_Massachusetts	New Braintree, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		86							0.0		https://www.mass.gov/
+New_Brunswick	New Brunswick	2020-07-22	2020-07-21T15:00:00.000Z	2	170	163	43535						0.0	0.29	0.0	https://www.canada.ca/
+New_Hampshire	New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	400	6262	5316	171149						0.86	21.29	27.29	https://www.nh.gov/
+New_Haven_County,_Connecticut	New Haven County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	1092	12794								0.57	21.57		https://portal.ct.gov/
+New_Kent_County,_Virginia	New Kent County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	94								0.0	2.57		http://www.vdh.virginia.gov/
+New_London_County,_Connecticut	New London County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	102	1357								0.0	2.57		https://portal.ct.gov/
+New_Marlborough,_Massachusetts	New Marlborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		103							0.0		https://www.mass.gov/
+New_Salem,_Massachusetts	New Salem, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		105							0.0		https://www.mass.gov/
+New_Shoreham,_Rhode_Island	New Shoreham, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		0		154	0			0			0.0		https://health.ri.gov
+New_York_(state)	New York (state)	2020-07-22	2020-07-21T00:00:00.000Z	32218	408181		5230981	855			0		14.71	596.43		https://coronavirus.health.ny.gov/
+New_York_City	New York City	2020-07-22	2020-07-22T05:14:46.293Z	16264	222094		2349556	0	0		-391	0	3.29	301.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 New_Zealand	New Zealand	2020-07-22	2020-07-22T01:00:00.000Z	22	1555	1506	446367	0	0	0	-1	0	0.0	1.14	1.14	https://www.health.govt.nz/
+Newaygo_County,_Michigan	Newaygo County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	230				0			0	0.0	3.71		https://www.michigan.gov/
+Newbury,_Massachusetts	Newbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		14		854							0.0		https://www.mass.gov/
+Newburyport,_Massachusetts	Newburyport, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		101		3153							0.0		https://www.mass.gov/
+Newfoundland_and_Labrador	Newfoundland and Labrador	2020-07-22	2020-07-21T15:00:00.000Z	3	263	259	22356						0.0	0.14	0.14	https://www.canada.ca/
+Newport_News,_Virginia	Newport News, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	14	1237								0.57	48.14		http://www.vdh.virginia.gov/
+Newport,_Rhode_Island	Newport, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		116		2926	0			0			0.0		https://health.ri.gov
+Newton,_Massachusetts	Newton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		776		14730							0.0		https://www.mass.gov/
+Niagara_County,_New_York	Niagara County, New York	2020-07-22	2020-07-21T14:00:00.000Z	87	1388		45908	4			0		0.29	4.57		https://coronavirus.health.ny.gov/
+Nicholas_County,_West_Virginia	Nicholas County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	22	14	2417						0.0	0.43	0.43	https://dhhr.wv.gov/
 Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-07-22		0	21	13							0.0	1.14	0.0	https://ncov.moh.gov.vn/
 Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-07-22	2020-07-21T07:45:00.000Z	346	22010	16238		196			0		4.86	178.14	173.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Noble_County,_Ohio	Noble County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	16								0.0	0.29		https://coronavirus.ohio.gov/
 Nordeste,_Azores	Nordeste, Azores	2020-07-22	2020-07-21T23:00:00.000Z		32			0			0			0.0		https://covid19.min-saude.pt/
 Nordland	Nordland	2020-07-22	2020-07-21T11:00:00.000Z		130									0.0		https://www.fhi.no/
+Norfolk_County,_Massachusetts	Norfolk County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	970	9779								1.14	31.29		https://www.mass.gov/
+Norfolk,_Massachusetts	Norfolk, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		28		2387							0.0		https://www.mass.gov/
+Norfolk,_Virginia	Norfolk, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	21	2329								0.43	83.86		http://www.vdh.virginia.gov/
 Normandy	Normandy	2020-07-22		440		1727							0.57		2.57	https://www.santepubliquefrance.fr/
-North_Kazakhstan_Region	North Kazakhstan Region	2020-07-22		8	2270	1343							0.29	60.71	50.86	https://www.coronavirus2020.kz/
+North_Adams,_Massachusetts	North Adams, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		47		1230							0.0		https://www.mass.gov/
+North_Andover,_Massachusetts	North Andover, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		358		5585							0.0		https://www.mass.gov/
+North_Attleborough,_Massachusetts	North Attleborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		263		3101							0.0		https://www.mass.gov/
+North_Brookfield,_Massachusetts	North Brookfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		18		492							0.0		https://www.mass.gov/
+North_Kazakhstan_Region	North Kazakhstan Region	2020-07-22		8	2352	1343							0.29	72.43	50.86	https://www.coronavirus2020.kz/
+North_Kingstown,_Rhode_Island	North Kingstown, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		238		3556	0			0			0.0		https://health.ri.gov
+North_Providence,_Rhode_Island	North Providence, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		773		5557	0			0			0.0		https://health.ri.gov
+North_Reading,_Massachusetts	North Reading, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		193		2091							0.0		https://www.mass.gov/
+North_Rhine-Westphalia	North Rhine-Westphalia	2020-07-22	2020-07-22	1717	46367	0										https://www.rki.de/
+North_Smithfield,_Rhode_Island	North Smithfield, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		132		1557	0			0			0.0		https://health.ri.gov
+Northampton_County,_Virginia	Northampton County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	28	281								0.0	0.86		http://www.vdh.virginia.gov/
+Northampton,_Massachusetts	Northampton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		282		5360							0.0		https://www.mass.gov/
+Northborough,_Massachusetts	Northborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		224		2337							0.0		https://www.mass.gov/
+Northbridge,_Massachusetts	Northbridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		312		2886							0.0		https://www.mass.gov/
+Northfield,_Massachusetts	Northfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		283							0.0		https://www.mass.gov/
 Northland_Region	Northland Region	2020-07-22	2020-07-22T01:00:00.000Z		28	28		0		0	0			0.0	0.0	https://www.health.govt.nz/
+Northumberland_County,_Virginia	Northumberland County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	55								0.0	1.14		http://www.vdh.virginia.gov/
+Northwest_Territories	Northwest Territories	2020-07-22	2020-07-21T15:00:00.000Z	0	5	5	2704						0.0	0.0	0.0	https://www.canada.ca/
+Norton,_Massachusetts	Norton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		137		2360							0.0		https://www.mass.gov/
+Norton,_Virginia	Norton, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	5								0.0	0.14		http://www.vdh.virginia.gov/
 Norway	Norway	2020-07-22	2020-07-21T11:00:00.000Z	255	9038		407311						0.29	5.29		https://www.fhi.no/
+Norwell,_Massachusetts	Norwell, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		123		1473							0.0		https://www.mass.gov/
+Norwood,_Massachusetts	Norwood, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		584		5801							0.0		https://www.mass.gov/
+Nottoway_County,_Virginia	Nottoway County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	152								0.14	2.43		http://www.vdh.virginia.gov/
 Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-07-22		424		2224							0.14		2.57	https://www.santepubliquefrance.fr/
+Nova_Scotia	Nova Scotia	2020-07-22	2020-07-21T15:00:00.000Z	63	1067	1003	61477						0.0	0.0	0.14	https://www.canada.ca/
 Novgorod_Oblast	Novgorod Oblast	2020-07-22	2020-07-21T07:45:00.000Z	65	3569	1977		20			0		1.29	17.0	34.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Novosibirsk_Oblast	Novosibirsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	177	8288	6299		102			0		3.57	97.14	106.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Nur-Sultan	Nur-Sultan	2020-07-22		195	8619	5511							16.29	210.0	127.0	https://www.coronavirus2020.kz/
+Nunavut	Nunavut	2020-07-22	2020-07-21T15:00:00.000Z	0	0	0	1246						0.0	0.0	0.0	https://www.canada.ca/
+Nur-Sultan	Nur-Sultan	2020-07-22		195	8832	5511							16.29	240.43	127.0	https://www.coronavirus2020.kz/
+Oak_Bluffs,_Massachusetts	Oak Bluffs, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		6		916							0.0		https://www.mass.gov/
+Oakham,_Massachusetts	Oakham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		204							0.0		https://www.mass.gov/
+Oakland_County,_Michigan	Oakland County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1119	13492				0			0	1.29	67.14		https://www.michigan.gov/
 Oberpullendorf_District	Oberpullendorf District	2020-07-22	2020-07-21T20:00:00.000Z		26									0.0		https://info.gesundheitsministerium.at/
 Oberwart_District	Oberwart District	2020-07-22	2020-07-21T20:00:00.000Z		145									0.0		https://info.gesundheitsministerium.at/
 Occitanie	Occitanie	2020-07-22		513		2933							0.0		1.71	https://www.santepubliquefrance.fr/
+Oceana_County,_Michigan	Oceana County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	5	442				0			0	0.0	4.0		https://www.michigan.gov/
 Odemira	Odemira	2020-07-22	2020-07-21T23:00:00.000Z		20			0			0			0.0		https://covid19.min-saude.pt/
 Odisha	Odisha	2020-07-22	2020-07-21T08:00:00.000Z	97	18110	12910							3.29	547.14	435.14	https://www.mohfw.gov.in/
 Odivelas	Odivelas	2020-07-22	2020-07-21T23:00:00.000Z		1425			0			0			10.86		https://covid19.min-saude.pt/
 Oeiras,_Portugal	Oeiras, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		1030			0			0			8.71		https://covid19.min-saude.pt/
+Ogemaw_County,_Michigan	Ogemaw County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2	47				0			0	0.0	0.14		https://www.michigan.gov/
+Ohio	Ohio	2020-07-22	2020-07-21T18:00:00.000Z	3219	77215								20.57	1129.14		https://coronavirus.ohio.gov/
+Ohio_County,_West_Virginia	Ohio County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	3	181	105	12923						0.0	3.29	0.29	https://dhhr.wv.gov/
 Oliveira_de_Frades	Oliveira de Frades	2020-07-22	2020-07-21T23:00:00.000Z		12			0			0			0.0		https://covid19.min-saude.pt/
 Oliveira_do_Bairro	Oliveira do Bairro	2020-07-22	2020-07-21T23:00:00.000Z		79			0			0			0.71		https://covid19.min-saude.pt/
 Oliveira_do_Hospital	Oliveira do Hospital	2020-07-22	2020-07-21T23:00:00.000Z		29			0			0			0.0		https://covid19.min-saude.pt/
 Omsk_Oblast	Omsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	54	5607	3290		104			0		1.43	94.0	63.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Oneida_County,_New_York	Oneida County, New York	2020-07-22	2020-07-21T14:00:00.000Z	113	1962		65657	20			0		0.57	14.57		https://coronavirus.health.ny.gov/
+Onondaga_County,_New_York	Onondaga County, New York	2020-07-22	2020-07-21T14:00:00.000Z	169	3312		115432	22			0		0.0	15.57		https://coronavirus.health.ny.gov/
+Ontario	Ontario	2020-07-22	2020-07-21T15:00:00.000Z	2753	37942	33605	1847658						3.0	127.14	97.86	https://www.canada.ca/
+Ontario_County,_New_York	Ontario County, New York	2020-07-22	2020-07-21T14:00:00.000Z	27	329		22977	3			0		0.0	2.43		https://coronavirus.health.ny.gov/
+Ontonagon_County,_Michigan	Ontonagon County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	1				0			0	0.0	0.0		https://www.michigan.gov/
+Orange_County,_New_York	Orange County, New York	2020-07-22	2020-07-21T14:00:00.000Z	404	10953		91077	15			0		0.0	10.71		https://coronavirus.health.ny.gov/
+Orange_County,_Virginia	Orange County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	185								0.0	2.57		http://www.vdh.virginia.gov/
+Orange,_Massachusetts	Orange, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		42		1215							0.0		https://www.mass.gov/
 Orenburg_Oblast	Orenburg Oblast	2020-07-22	2020-07-21T07:45:00.000Z	36	5815	4213		114			0		0.57	98.43	49.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Oriental_(Morocco)	Oriental (Morocco)	2020-07-22	2020-07-21T17:00:00.000Z		357									9.14		http://www.covidmaroc.ma/
+Orleans_County,_New_York	Orleans County, New York	2020-07-22	2020-07-21T14:00:00.000Z	55	288		7369	0			0		0.0	0.0		https://coronavirus.health.ny.gov/
+Orleans,_Massachusetts	Orleans, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		16		728							0.0		https://www.mass.gov/
 Oryol_Oblast	Oryol Oblast	2020-07-22	2020-07-21T07:45:00.000Z	78	5378	3950		29			0		0.43	32.14	33.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Osceola_County,_Michigan	Osceola County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	63				0			0	0.0	1.57		https://www.michigan.gov/
+Oscoda_County,_Michigan	Oscoda County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	1	23				0			0	0.0	0.0		https://www.michigan.gov/
 Oslo	Oslo	2020-07-22	2020-07-21T11:00:00.000Z		2928									2.14		https://www.fhi.no/
+Oswego_County,_New_York	Oswego County, New York	2020-07-22	2020-07-21T14:00:00.000Z	3	231		21734	2			0		0.0	0.71		https://coronavirus.health.ny.gov/
+Otis,_Massachusetts	Otis, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		129							0.0		https://www.mass.gov/
+Otsego_County,_Michigan	Otsego County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	10	128				0			0	0.0	0.29		https://www.michigan.gov/
+Otsego_County,_New_York	Otsego County, New York	2020-07-22	2020-07-21T14:00:00.000Z	4	100		11857	2			0		0.0	1.29		https://coronavirus.health.ny.gov/
+Ottawa_County,_Michigan	Ottawa County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	53	1511				0			0	0.0	20.71		https://www.michigan.gov/
+Ottawa_County,_Ohio	Ottawa County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	24	271								0.0	5.14		https://coronavirus.ohio.gov/
 Ovar	Ovar	2020-07-22	2020-07-21T23:00:00.000Z		702			0			0			0.57		https://covid19.min-saude.pt/
+Oxford_County,_Maine	Oxford County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	0	49	43							0.0	0.14	0.71	https://www.maine.gov/
+Oxford,_Massachusetts	Oxford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		81		1685							0.0		https://www.mass.gov/
+Page_County,_Virginia	Page County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	23	317								0.0	1.0		http://www.vdh.virginia.gov/
 Palmela	Palmela	2020-07-22	2020-07-21T23:00:00.000Z		83			0			0			0.57		https://covid19.min-saude.pt/
+Palmer,_Massachusetts	Palmer, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		52		1374							0.0		https://www.mass.gov/
 Paredes_de_Coura	Paredes de Coura	2020-07-22	2020-07-21T23:00:00.000Z		7			0			0			0.0		https://covid19.min-saude.pt/
 Paredes,_Portugal	Paredes, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		363			0			0			0.29		https://covid19.min-saude.pt/
-Pavlodar_Region	Pavlodar Region	2020-07-22		23	2447	985							1.14	69.0	8.29	https://www.coronavirus2020.kz/
+Patrick_County,_Virginia	Patrick County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	57								0.14	0.71		http://www.vdh.virginia.gov/
+Paulding_County,_Ohio	Paulding County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	45								0.0	1.0		https://coronavirus.ohio.gov/
+Pavlodar_Region	Pavlodar Region	2020-07-22		23	2515	985							1.14	78.71	8.29	https://www.coronavirus2020.kz/
+Pawtucket,_Rhode_Island	Pawtucket, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		1663		12087	0			0			0.0		https://health.ri.gov
+Paxton,_Massachusetts	Paxton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		33		584							0.0		https://www.mass.gov/
 Pays_de_la_Loire	Pays de la Loire	2020-07-22		474		2158							0.57		5.43	https://www.santepubliquefrance.fr/
+Peabody,_Massachusetts	Peabody, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1013		10231							0.0		https://www.mass.gov/
+Pelham,_Massachusetts	Pelham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		130							0.0		https://www.mass.gov/
+Pembroke,_Massachusetts	Pembroke, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		94		2271							0.0		https://www.mass.gov/
 Penacova	Penacova	2020-07-22	2020-07-21T23:00:00.000Z		25			0			0			0.14		https://covid19.min-saude.pt/
 Penafiel	Penafiel	2020-07-22	2020-07-21T23:00:00.000Z		190			0			0			0.14		https://covid19.min-saude.pt/
+Pendleton_County,_West_Virginia	Pendleton County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	19	15	868						0.0	0.29	0.0	https://dhhr.wv.gov/
 Penela	Penela	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Peniche,_Portugal	Peniche, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		50			0			0			0.0		https://covid19.min-saude.pt/
+Penobscot_County,_Maine	Penobscot County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	5	136	111							0.14	1.57	0.57	https://www.maine.gov/
 Penza_Oblast	Penza Oblast	2020-07-22	2020-07-21T07:45:00.000Z	74	6068	5293		40			0		0.86	32.0	12.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Pepperell,_Massachusetts	Pepperell, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		53		1155							0.0		https://www.mass.gov/
 Perg_District	Perg District	2020-07-22	2020-07-21T20:00:00.000Z		342									3.86		https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2020-07-22	2020-07-21T07:45:00.000Z	109	5142	4051		73			0		1.71	74.86	61.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Pernambuco	Pernambuco	2020-07-22	2020-07-21T22:00:00.000Z	6089	80441								45.29	783.0		https://covid.saude.gov.br/
+Perry_County,_Ohio	Perry County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	62								0.0	1.43		https://coronavirus.ohio.gov/
+Peru,_Massachusetts	Peru, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		68							0.0		https://www.mass.gov/
+Petersburg,_Virginia	Petersburg, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	9	371								0.0	3.29		http://www.vdh.virginia.gov/
+Petersham,_Massachusetts	Petersham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		7		170							0.0		https://www.mass.gov/
+Phillipston,_Massachusetts	Phillipston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		16		225							0.0		https://www.mass.gov/
 Phnom_Penh	Phnom Penh	2020-07-22	2020-07-22T07:00:00.000Z		102			0			-26			4.57		http://www.cdcmoh.gov.kh/
+Pickaway_County,_Ohio	Pickaway County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	42	2283								0.0	5.29		https://coronavirus.ohio.gov/
 Piedmont	Piedmont	2020-07-22		4123	31545	26609	472296				8		0.71	4.29	14.14	http://www.salute.gov.it/
+Pike_County,_Ohio	Pike County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	40								0.0	1.29		https://coronavirus.ohio.gov/
 Pinhel	Pinhel	2020-07-22	2020-07-21T23:00:00.000Z		25			0			0			0.0		https://covid19.min-saude.pt/
+Piscataquis_County,_Maine	Piscataquis County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	0	4	4							0.0	0.0	0.0	https://www.maine.gov/
+Pittsfield,_Massachusetts	Pittsfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		186		6501							0.0		https://www.mass.gov/
+Pittsylvania_County,_Virginia	Pittsylvania County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	232								0.0	6.43		http://www.vdh.virginia.gov/
+Plainfield,_Massachusetts	Plainfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		68							0.0		https://www.mass.gov/
+Plainville,_Massachusetts	Plainville, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		65		1118							0.0		https://www.mass.gov/
+Pleasants_County,_West_Virginia	Pleasants County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	5	4	539						0.0	0.14	0.0	https://dhhr.wv.gov/
+Plymouth_County,_Massachusetts	Plymouth County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	699	8903								1.86	10.14		https://www.mass.gov/
+Plymouth,_Massachusetts	Plymouth, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		606		10235							0.0		https://www.mass.gov/
+Plympton,_Massachusetts	Plympton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		11		367							0.0		https://www.mass.gov/
+Pocahontas_County,_West_Virginia	Pocahontas County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	39	39	1111						0.0	0.29	1.43	https://dhhr.wv.gov/
 Pombal,_Portugal	Pombal, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		87			0			0			0.0		https://covid19.min-saude.pt/
 Ponta_Delgada	Ponta Delgada	2020-07-22	2020-07-21T23:00:00.000Z		19			0			0			0.86		https://covid19.min-saude.pt/
 Ponta_do_Sol,_Madeira	Ponta do Sol, Madeira	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Ponte_da_Barca	Ponte da Barca	2020-07-22	2020-07-21T23:00:00.000Z		11			0			0			0.0		https://covid19.min-saude.pt/
 Ponte_de_Lima	Ponte de Lima	2020-07-22	2020-07-21T23:00:00.000Z		34			0			0			0.14		https://covid19.min-saude.pt/
 Ponte_de_Sor	Ponte de Sor	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
+Poquoson,_Virginia	Poquoson, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	28								0.0	0.71		http://www.vdh.virginia.gov/
+Portage_County,_Ohio	Portage County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	59	577								-0.14	8.43		https://coronavirus.ohio.gov/
 Portalegre,_Portugal	Portalegre, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		8			0			0			-0.14		https://covid19.min-saude.pt/
 Portel,_Portugal	Portel, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Porto	Porto	2020-07-22	2020-07-21T23:00:00.000Z		1437			0			0			1.43		https://covid19.min-saude.pt/
 Porto_Santo_Island	Porto Santo Island	2020-07-22	2020-07-21T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Portsmouth,_Rhode_Island	Portsmouth, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		57		1839	0			0			0.0		https://health.ri.gov
+Portsmouth,_Virginia	Portsmouth, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	21	1046								0.29	36.0		http://www.vdh.virginia.gov/
 Portugal	Portugal	2020-07-22	2020-07-21T23:00:00.000Z	1697	48898	33769							3.0	210.29	237.0	https://covid19.min-saude.pt/
+Powhatan_County,_Virginia	Powhatan County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	105								0.0	0.71		http://www.vdh.virginia.gov/
 Preah_Vihear_Province	Preah Vihear Province	2020-07-22	2020-07-22T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Preble_County,_Ohio	Preble County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	110								0.0	1.86		https://coronavirus.ohio.gov/
+Presque_Isle_County,_Michigan	Presque Isle County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	14				0			0	0.0	0.0		https://www.michigan.gov/
+Preston_County,_West_Virginia	Preston County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	2	92	96	4585						0.0	0.86	2.57	https://dhhr.wv.gov/
 Primorsky_Krai	Primorsky Krai	2020-07-22	2020-07-21T07:45:00.000Z	65	5734	4256		94			0		0.71	71.14	41.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Prince_Edward_County,_Virginia	Prince Edward County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	242								0.0	0.57		http://www.vdh.virginia.gov/
+Prince_Edward_Island	Prince Edward Island	2020-07-22	2020-07-21T15:00:00.000Z	0	36	33	17492						0.0	0.0	0.86	https://www.canada.ca/
+Prince_George_County,_Virginia	Prince George County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	293								0.0	2.43		http://www.vdh.virginia.gov/
+Prince_William_County,_Virginia	Prince William County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	164	8240								0.57	41.86		http://www.vdh.virginia.gov/
+Princeton,_Massachusetts	Princeton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		6		433							0.0		https://www.mass.gov/
 Provence-Alpes-C%C3%B4te_d%27Azur	Provence-Alpes-Côte d'Azur	2020-07-22		959		5592							0.71		6.86	https://www.santepubliquefrance.fr/
+Providence,_Rhode_Island	Providence, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		6056		33752	0			0			0.0		https://health.ri.gov
+Provincetown_(CDP),_Massachusetts	Provincetown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		22		871							0.0		https://www.mass.gov/
 Pskov_Oblast	Pskov Oblast	2020-07-22	2020-07-21T07:45:00.000Z	46	3437	2247		16			0		1.0	20.86	32.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Puducherry	Puducherry	2020-07-22	2020-07-21T08:00:00.000Z	29	2092	1265							1.57	80.14	62.29	https://www.mohfw.gov.in/
+Pulaski_County,_Virginia	Pulaski County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	61								0.0	0.86		http://www.vdh.virginia.gov/
 Punjab,_India	Punjab, India	2020-07-22	2020-07-21T08:00:00.000Z	262	10510	7118							7.0	285.57	207.86	https://www.mohfw.gov.in/
+Putnam_County,_New_York	Putnam County, New York	2020-07-22	2020-07-21T14:00:00.000Z	63	1393		23683	1			0		0.0	1.57		https://coronavirus.health.ny.gov/
+Putnam_County,_Ohio	Putnam County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	16	163								0.14	2.14		https://coronavirus.ohio.gov/
+Putnam_County,_West_Virginia	Putnam County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	116	70	4868						0.0	3.29	2.29	https://dhhr.wv.gov/
 Qatar	Qatar	2020-07-22	2020-07-20T21:00:00.000Z	160	107430	104191	451168	393			0		1.29	349.57	364.86	https://www.moph.gov.qa/
 Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-07-22		0	5	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-07-22		0	10	9							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Quebec	Quebec	2020-07-22	2020-07-21T15:00:00.000Z	5658	57796	50298	758349						3.14	133.86	3457.29	https://www.canada.ca/
+Queens	Queens	2020-07-22	2020-07-21T14:00:00.000Z	5071	67194		625810	115			0		1.43	78.71		https://coronavirus.health.ny.gov/
+Quincy,_Massachusetts	Quincy, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1167		15562							0.0		https://www.mass.gov/
 Rabat-Sal%C3%A9-K%C3%A9nitra	Rabat-Salé-Kénitra	2020-07-22	2020-07-21T17:00:00.000Z		2115									4.14		http://www.covidmaroc.ma/
+Radford,_Virginia	Radford, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	21								0.0	0.43		http://www.vdh.virginia.gov/
 Rajasthan	Rajasthan	2020-07-22	2020-07-21T08:00:00.000Z	568	30390	22195							6.14	688.43	433.43	https://www.mohfw.gov.in/
+Raleigh_County,_West_Virginia	Raleigh County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	108	82	10145						0.0	3.57	2.14	https://dhhr.wv.gov/
+Randolph_County,_West_Virginia	Randolph County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	200	192	6422						0.0	1.14	3.71	https://dhhr.wv.gov/
+Randolph,_Massachusetts	Randolph, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		967		7474							0.0		https://www.mass.gov/
+Rappahannock_County,_Virginia	Rappahannock County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	34								0.0	0.14		http://www.vdh.virginia.gov/
+Raynham,_Massachusetts	Raynham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		240		2416							0.0		https://www.mass.gov/
+Reading,_Massachusetts	Reading, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		304		4005							0.0		https://www.mass.gov/
 Reguengos_de_Monsaraz	Reguengos de Monsaraz	2020-07-22	2020-07-21T23:00:00.000Z		155			0			0			0.0		https://covid19.min-saude.pt/
+Rehoboth,_Massachusetts	Rehoboth, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		63		1179							0.0		https://www.mass.gov/
+Rensselaer_County,_New_York	Rensselaer County, New York	2020-07-22	2020-07-21T14:00:00.000Z	35	658		28271	5			0		0.29	3.71		https://coronavirus.health.ny.gov/
 Republic_of_Karelia	Republic of Karelia	2020-07-22	2020-07-21T07:45:00.000Z	3	1953	1120		13			0		0.0	23.0	18.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Resende,_Portugal	Resende, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		64			0			0			0.0		https://covid19.min-saude.pt/
 Reutte_District	Reutte District	2020-07-22	2020-07-21T20:00:00.000Z		63									0.86		https://info.gesundheitsministerium.at/
+Rhineland-Palatinate	Rhineland-Palatinate	2020-07-22	2020-07-22	238	7346	0										https://www.rki.de/
+Rhode_Island	Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z	996	17986		317544	53	1		0	0	1.29	49.43		https://health.ri.gov
 Ribeira_de_Pena	Ribeira de Pena	2020-07-22	2020-07-21T23:00:00.000Z		4			0			0			0.0		https://covid19.min-saude.pt/
+Richland_County,_Ohio	Richland County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	8	450								0.14	6.71		https://coronavirus.ohio.gov/
+Richmond_County,_Virginia	Richmond County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	314								0.0	0.71		http://www.vdh.virginia.gov/
+Richmond,_Massachusetts	Richmond, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5		142							0.0		https://www.mass.gov/
+Richmond,_Rhode_Island	Richmond, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		25		582	0			0			0.0		https://health.ri.gov
+Richmond,_Virginia	Richmond, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	35	2623								-0.14	21.43		http://www.vdh.virginia.gov/
 Rio_de_Janeiro_(state)	Rio de Janeiro (state)	2020-07-22	2020-07-21T22:00:00.000Z	12293	145121								76.57	1524.57		https://covid.saude.gov.br/
 Rio_Grande_do_Norte	Rio Grande do Norte	2020-07-22	2020-07-21T22:00:00.000Z	1621	44267								21.14	516.14		https://covid.saude.gov.br/
 Rio_Grande_do_Sul	Rio Grande do Sul	2020-07-22	2020-07-21T22:00:00.000Z	1349	49840								35.43	1085.86		https://covid.saude.gov.br/
 Rio_Maior	Rio Maior	2020-07-22	2020-07-21T23:00:00.000Z		31			0			0			0.29		https://covid19.min-saude.pt/
+Ritchie_County,_West_Virginia	Ritchie County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	3	2	1530						0.0	0.14	0.0	https://dhhr.wv.gov/
+Roane_County,_West_Virginia	Roane County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	1	12	9	1661						0.0	0.0	0.0	https://dhhr.wv.gov/
+Roanoke_County,_Virginia	Roanoke County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	365								0.0	3.29		http://www.vdh.virginia.gov/
+Roanoke,_Virginia	Roanoke, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	10	665								0.0	7.57		http://www.vdh.virginia.gov/
+Rochester,_Massachusetts	Rochester, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		38		696							0.0		https://www.mass.gov/
+Rockbridge_County,_Virginia	Rockbridge County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	47								0.0	0.86		http://www.vdh.virginia.gov/
+Rockingham_County,_Virginia	Rockingham County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	16	833								0.14	4.29		http://www.vdh.virginia.gov/
+Rockland_County,_New_York	Rockland County, New York	2020-07-22	2020-07-21T14:00:00.000Z	506	13806		95631	8			0		0.0	9.0		https://coronavirus.health.ny.gov/
+Rockland,_Massachusetts	Rockland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		284		2920							0.0		https://www.mass.gov/
+Rockport,_Massachusetts	Rockport, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		82		975							0.0		https://www.mass.gov/
 Rogaland	Rogaland	2020-07-22	2020-07-21T11:00:00.000Z		451									0.14		https://www.fhi.no/
 Rohrbach_District	Rohrbach District	2020-07-22	2020-07-21T20:00:00.000Z		162									0.14		https://info.gesundheitsministerium.at/
 Roraima	Roraima	2020-07-22	2020-07-21T22:00:00.000Z	435	25985								4.57	329.14		https://covid.saude.gov.br/
+Roscommon_County,_Michigan	Roscommon County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	44				0			0	0.0	0.86		https://www.michigan.gov/
+Ross_County,_Ohio	Ross County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	5	201								0.29	6.14		https://coronavirus.ohio.gov/
 Rostov_Oblast	Rostov Oblast	2020-07-22	2020-07-21T07:45:00.000Z	187	11657	9152		123			0		2.14	91.14	100.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Rowe,_Massachusetts	Rowe, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		36							0.0		https://www.mass.gov/
+Rowley,_Massachusetts	Rowley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		62		1012							0.0		https://www.mass.gov/
+Royalston,_Massachusetts	Royalston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		140							0.0		https://www.mass.gov/
+Russell_County,_Virginia	Russell County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	31								0.0	0.71		http://www.vdh.virginia.gov/
+Russell,_Massachusetts	Russell, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		16		177							0.0		https://www.mass.gov/
 Russia	Russia	2020-07-22	2020-07-21T07:45:00.000Z	12580	783328	562384	25000000	5842	153	8782	0	0	115.71	5279.86	5590.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Rutland,_Massachusetts	Rutland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		54		1064							0.0		https://www.mass.gov/
 Ryazan_Oblast	Ryazan Oblast	2020-07-22	2020-07-21T07:45:00.000Z	24	5992	5170		35			0		0.29	32.29	62.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Saarland	Saarland	2020-07-22	2020-07-22	174	2835	0										https://www.rki.de/
 Sabrosa	Sabrosa	2020-07-22	2020-07-21T23:00:00.000Z		7			0			0			0.0		https://covid19.min-saude.pt/
+Sagadahoc_County,_Maine	Sagadahoc County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	0	36	31							0.0	0.29	0.0	https://www.maine.gov/
+Saginaw_County,_Michigan	Saginaw County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	125	1602				0			0	0.0	20.71		https://www.michigan.gov/
 Saint_Petersburg	Saint Petersburg	2020-07-22	2020-07-21T07:45:00.000Z	1834	29730	22518		189			0		22.57	189.14	110.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Sakhalin_Oblast	Sakhalin Oblast	2020-07-22	2020-07-21T07:45:00.000Z	0	1926	627		63			0		0.0	51.14	9.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Salem,_Massachusetts	Salem, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		641		8086							0.0		https://www.mass.gov/
+Salem,_Virginia	Salem, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	113								0.0	1.86		http://www.vdh.virginia.gov/
+Salisbury,_Massachusetts	Salisbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		55		1193							0.0		https://www.mass.gov/
 Salvaterra_de_Magos	Salvaterra de Magos	2020-07-22	2020-07-21T23:00:00.000Z		21			0			0			0.14		https://covid19.min-saude.pt/
 Salzburg	Salzburg	2020-07-22	2020-07-21T20:00:00.000Z		182									2.29		https://info.gesundheitsministerium.at/
 Salzburg_(state)	Salzburg (state)	2020-07-22	2020-07-21T20:00:00.000Z	37		1201							0.0		-4.71	https://info.gesundheitsministerium.at/
 Samara_Oblast	Samara Oblast	2020-07-22	2020-07-21T07:45:00.000Z	76	6437	4061		57			0		0.86	51.29	45.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sandisfield,_Massachusetts	Sandisfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		177							0.0		https://www.mass.gov/
+Sandusky_County,_Ohio	Sandusky County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	15	234								0.0	6.86		https://coronavirus.ohio.gov/
+Sandwich,_Massachusetts	Sandwich, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		97		2427							0.0		https://www.mass.gov/
+Sanilac_County,_Michigan	Sanilac County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	6	81				0			0	0.0	3.14		https://www.michigan.gov/
 Santa_Catarina_(state)	Santa Catarina (state)	2020-07-22	2020-07-21T22:00:00.000Z	738	56475								24.14	1214.14		https://covid.saude.gov.br/
 Santa_Cruz,_Madeira	Santa Cruz, Madeira	2020-07-22	2020-07-21T23:00:00.000Z		8			0			0			0.29		https://covid19.min-saude.pt/
 Santa_Maria_da_Feira	Santa Maria da Feira	2020-07-22	2020-07-21T23:00:00.000Z		593			0			0			1.71		https://covid19.min-saude.pt/
 Santo_Tirso	Santo Tirso	2020-07-22	2020-07-21T23:00:00.000Z		403			0			0			0.0		https://covid19.min-saude.pt/
+Saratoga_County,_New_York	Saratoga County, New York	2020-07-22	2020-07-21T14:00:00.000Z	15	646		38932	7			0		0.0	3.29		https://coronavirus.health.ny.gov/
 Saratov_Oblast	Saratov Oblast	2020-07-22	2020-07-21T07:45:00.000Z	53	8443	4834		94			0		0.71	81.29	53.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Sardinia	Sardinia	2020-07-22		134	1379	1233	99476				0		0.0	0.43	0.43	http://www.salute.gov.it/
+Saskatchewan	Saskatchewan	2020-07-22	2020-07-21T15:00:00.000Z	15	970	813	72727						0.0	12.71	3.14	https://www.canada.ca/
+Saugus,_Massachusetts	Saugus, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		562		5530							0.0		https://www.mass.gov/
+Savoy,_Massachusetts	Savoy, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		55							0.0		https://www.mass.gov/
+Saxony	Saxony	2020-07-22	2020-07-22	225	5503	0										https://www.rki.de/
+Saxony-Anhalt	Saxony-Anhalt	2020-07-22	2020-07-22	62	1961	0										https://www.rki.de/
 Scheibbs_District	Scheibbs District	2020-07-22	2020-07-21T20:00:00.000Z		104									0.0		https://info.gesundheitsministerium.at/
+Schenectady_County,_New_York	Schenectady County, New York	2020-07-22	2020-07-21T14:00:00.000Z	36	926		36682	11			0		0.0	5.0		https://coronavirus.health.ny.gov/
+Schleswig-Holstein	Schleswig-Holstein	2020-07-22	2020-07-22	155	3278	0										https://www.rki.de/
+Schoharie_County,_New_York	Schoharie County, New York	2020-07-22	2020-07-21T14:00:00.000Z	2	64		4079	2			0		0.0	0.29		https://coronavirus.health.ny.gov/
+Schoolcraft_County,_Michigan	Schoolcraft County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	0	8				0			0	0.0	0.14		https://www.michigan.gov/
+Schuyler_County,_New_York	Schuyler County, New York	2020-07-22	2020-07-21T18:00:00.000Z	0	20		4118	0			0		0.0	0.71		https://coronavirus.health.ny.gov/
 Schwaz_District	Schwaz District	2020-07-22	2020-07-21T20:00:00.000Z		358									0.14		https://info.gesundheitsministerium.at/
+Scioto_County,_Ohio	Scioto County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	0	106								0.0	2.71		https://coronavirus.ohio.gov/
+Scituate,_Massachusetts	Scituate, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		194		2554							0.0		https://www.mass.gov/
+Scituate,_Rhode_Island	Scituate, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		44		1386	0			0			0.0		https://health.ri.gov
+Scott_County,_Virginia	Scott County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	30								0.0	1.86		http://www.vdh.virginia.gov/
+Seekonk,_Massachusetts	Seekonk, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		86		1419							0.0		https://www.mass.gov/
 Seia	Seia	2020-07-22	2020-07-21T23:00:00.000Z		19			0			0			0.0		https://covid19.min-saude.pt/
 Seixal	Seixal	2020-07-22	2020-07-21T23:00:00.000Z		797			0			0			9.29		https://covid19.min-saude.pt/
+Seneca_County,_New_York	Seneca County, New York	2020-07-22	2020-07-21T14:00:00.000Z	1	80		7268	0			0		0.0	0.57		https://coronavirus.health.ny.gov/
+Seneca_County,_Ohio	Seneca County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	2	81								0.0	5.29		https://coronavirus.ohio.gov/
 Sergipe	Sergipe	2020-07-22	2020-07-21T22:00:00.000Z	1182	47110								18.29	995.86		https://covid.saude.gov.br/
 Sernancelhe	Sernancelhe	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Serpa	Serpa	2020-07-22	2020-07-21T23:00:00.000Z		15			0			0			0.14		https://covid19.min-saude.pt/
 Sesimbra	Sesimbra	2020-07-22	2020-07-21T23:00:00.000Z		87			0			0			0.86		https://covid19.min-saude.pt/
 Sever_do_Vouga	Sever do Vouga	2020-07-22	2020-07-21T23:00:00.000Z		60			0			0			0.0		https://covid19.min-saude.pt/
-Shymkent	Shymkent	2020-07-22		31	4480	2831							1.0	43.57	48.43	https://www.coronavirus2020.kz/
+Sharon,_Massachusetts	Sharon, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		160		2490							0.0		https://www.mass.gov/
+Sheffield,_Massachusetts	Sheffield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		15		335							0.0		https://www.mass.gov/
+Shelburne,_Massachusetts	Shelburne, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		8		447							0.0		https://www.mass.gov/
+Shelby_County,_Ohio	Shelby County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	4	91								0.0	2.0		https://coronavirus.ohio.gov/
+Shenandoah_County,_Virginia	Shenandoah County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	40	654								0.71	5.0		http://www.vdh.virginia.gov/
+Sherborn,_Massachusetts	Sherborn, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		15		474							0.0		https://www.mass.gov/
+Shiawassee_County,_Michigan	Shiawassee County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	28	296				0			0	0.0	1.57		https://www.michigan.gov/
+Shirley,_Massachusetts	Shirley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		177		2877							0.0		https://www.mass.gov/
+Shrewsbury,_Massachusetts	Shrewsbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		331		5319							0.0		https://www.mass.gov/
+Shutesbury,_Massachusetts	Shutesbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		163							0.0		https://www.mass.gov/
+Shymkent	Shymkent	2020-07-22		31	4518	2831							1.0	49.0	48.43	https://www.coronavirus2020.kz/
 Sicily	Sicily	2020-07-22		283	3146	2706	252477				2		0.0	4.43	1.57	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2020-07-22	2020-07-22T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
 Silves,_Portugal	Silves, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		29			0			0			0.14		https://covid19.min-saude.pt/
 Sines	Sines	2020-07-22	2020-07-21T23:00:00.000Z		12			0			0			0.57		https://covid19.min-saude.pt/
 Singapore	Singapore	2020-07-22	2020-07-21T04:00:00.000Z	27	48434	44584	1170049						0.0	222.29	228.0	https://www.moh.gov.sg/covid-19
 Sintra	Sintra	2020-07-22	2020-07-21T23:00:00.000Z		3476			0			0			36.71		https://covid19.min-saude.pt/
+Smithfield,_Rhode_Island	Smithfield, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		272		2599	0			0			0.0		https://health.ri.gov
 Smolensk_Oblast	Smolensk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	88	5427	3386		19			0		1.0	30.71	36.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Smyth_County,_Virginia	Smyth County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	73								0.0	3.86		http://www.vdh.virginia.gov/
+Somerset_County,_Maine	Somerset County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	0	33	29							0.0	0.29	0.14	https://www.maine.gov/
+Somerset,_Massachusetts	Somerset, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		206		3492							0.0		https://www.mass.gov/
+Somerville,_Massachusetts	Somerville, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		978		18929							0.0		https://www.mass.gov/
 Soure,_Portugal	Soure, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		26			0			0			-0.14		https://covid19.min-saude.pt/
+South_Hadley,_Massachusetts	South Hadley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		150		1917							0.0		https://www.mass.gov/
+South_Kingstown,_Rhode_Island	South Kingstown, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		97		3491	0			0			0.0		https://health.ri.gov
 South_Tyrol	South Tyrol	2020-07-22		292	2685	2294	96840				1		0.0	1.14	0.86	http://www.salute.gov.it/
+Southampton_County,_Virginia	Southampton County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	11	204								0.0	2.57		http://www.vdh.virginia.gov/
+Southampton,_Massachusetts	Southampton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		31		622							0.0		https://www.mass.gov/
+Southborough,_Massachusetts	Southborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		44		1202							0.0		https://www.mass.gov/
+Southbridge,_Massachusetts	Southbridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		171		2112							0.0		https://www.mass.gov/
+Southwick,_Massachusetts	Southwick, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		55		1119							0.0		https://www.mass.gov/
+Spencer,_Massachusetts	Spencer, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		52		1491							0.0		https://www.mass.gov/
 Spittal_an_der_Drau_District	Spittal an der Drau District	2020-07-22	2020-07-21T20:00:00.000Z		45									0.0		https://info.gesundheitsministerium.at/
+Spotsylvania_County,_Virginia	Spotsylvania County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	33	1168								0.14	10.57		http://www.vdh.virginia.gov/
+Springfield,_Massachusetts	Springfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		2919		24644							0.0		https://www.mass.gov/
 Sri_Lanka	Sri Lanka	2020-07-22	2020-07-22T00:40:00.000Z	11	2730	2048		0	0	0	0	0	0.0	8.43	6.71	https://hpb.health.gov.lk/
+St._Clair_County,_Michigan	St. Clair County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	53	661				0			0	0.0	5.57		https://www.michigan.gov/
+St._Joseph_County,_Michigan	St. Joseph County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	6	453				0			0	0.14	5.57		https://www.michigan.gov/
+St._Lawrence_County,_New_York	St. Lawrence County, New York	2020-07-22	2020-07-21T14:00:00.000Z	4	247		23785	1			0		0.0	1.86		https://coronavirus.health.ny.gov/
+Stafford_County,_Virginia	Stafford County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	1140								0.0	7.86		http://www.vdh.virginia.gov/
+Stark_County,_Ohio	Stark County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	121	1391								0.71	17.14		https://coronavirus.ohio.gov/
+Staten_Island	Staten Island	2020-07-22	2020-07-21T14:00:00.000Z	748	14539		140826	36			0		0.0	21.43		https://coronavirus.health.ny.gov/
+Staunton,_Virginia	Staunton, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	118								0.0	1.71		http://www.vdh.virginia.gov/
 Stavropol_Krai	Stavropol Krai	2020-07-22	2020-07-21T07:45:00.000Z	131	7099	4561		109			0		1.14	100.71	57.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sterling,_Massachusetts	Sterling, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		122		1293							0.0		https://www.mass.gov/
+Steuben_County,_New_York	Steuben County, New York	2020-07-22	2020-07-21T14:00:00.000Z	29	283		17076	1			0		0.0	0.57		https://coronavirus.health.ny.gov/
 Steyr	Steyr	2020-07-22	2020-07-21T20:00:00.000Z		74									0.0		https://info.gesundheitsministerium.at/
+Stockbridge,_Massachusetts	Stockbridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		14		324							0.0		https://www.mass.gov/
+Stoneham,_Massachusetts	Stoneham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		392		4291							0.0		https://www.mass.gov/
+Stoughton,_Massachusetts	Stoughton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		621		5242							0.0		https://www.mass.gov/
+Stow,_Massachusetts	Stow, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		27		783							0.0		https://www.mass.gov/
+Strafford_County,_New_Hampshire	Strafford County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	13	307								0.0	0.14		https://www.nh.gov/
+Sturbridge,_Massachusetts	Sturbridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		43		903							0.0		https://www.mass.gov/
 Styria	Styria	2020-07-22	2020-07-21T20:00:00.000Z	141		1738							0.0		4.29	https://info.gesundheitsministerium.at/
+Sudbury,_Massachusetts	Sudbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		199		2596							0.0		https://www.mass.gov/
+Suffolk_County,_Massachusetts	Suffolk County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	1039	20650								2.14	34.14		https://www.mass.gov/
+Suffolk_County,_New_York	Suffolk County, New York	2020-07-22	2020-07-21T14:00:00.000Z	1995	42575		422098	79			0		0.29	44.0		https://coronavirus.health.ny.gov/
+Suffolk,_Virginia	Suffolk, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	45	780								0.43	21.0		http://www.vdh.virginia.gov/
+Sullivan_County,_New_Hampshire	Sullivan County, New Hampshire	2020-07-22	2020-07-21T13:00:00.000Z	1	38								0.0	0.14		https://www.nh.gov/
+Sullivan_County,_New_York	Sullivan County, New York	2020-07-22	2020-07-21T14:00:00.000Z	37	1473		16743	0			0		0.14	0.86		https://coronavirus.health.ny.gov/
+Summers_County,_West_Virginia	Summers County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	2	2	1430						0.0	0.0	0.0	https://dhhr.wv.gov/
+Summit_County,_Ohio	Summit County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	211	2667								0.29	29.71		https://coronavirus.ohio.gov/
+Sunderland,_Massachusetts	Sunderland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		9		372							0.0		https://www.mass.gov/
+Surry_County,_Virginia	Surry County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	29								0.0	1.14		http://www.vdh.virginia.gov/
+Sussex_County,_Virginia	Sussex County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	7	236								0.0	2.43		http://www.vdh.virginia.gov/
+Sutton,_Massachusetts	Sutton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		50		1076							0.0		https://www.mass.gov/
 Sverdlovsk_Oblast	Sverdlovsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	205	18250	12496		227			0		4.29	230.71	268.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Swampscott,_Massachusetts	Swampscott, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		136		2674							0.0		https://www.mass.gov/
+Swansea,_Massachusetts	Swansea, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		136		2434							0.0		https://www.mass.gov/
 Switzerland	Switzerland	2020-07-22	2020-07-21T22:00:00.000Z	1972	33797	30500		0	0	0	-200	0	0.57	77.57	85.71	https://www.bag.admin.ch/
 Tambov_Oblast	Tambov Oblast	2020-07-22	2020-07-21T07:45:00.000Z	30	5607	4382		41			0		0.29	35.14	56.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tamil_Nadu	Tamil Nadu	2020-07-22	2020-07-21T08:00:00.000Z	2551	175678	121776							64.57	4050.57	3495.14	https://www.mohfw.gov.in/
 Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-07-22	2020-07-21T17:00:00.000Z		3768									76.71		http://www.covidmaroc.ma/
 Taranaki	Taranaki	2020-07-22	2020-07-22T01:00:00.000Z		16	16		0		0	0			0.0	0.0	https://www.health.govt.nz/
 Tatarstan	Tatarstan	2020-07-22	2020-07-21T07:45:00.000Z	21	5278	4205		30			0		0.71	26.43	32.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Taunton,_Massachusetts	Taunton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		992		10194							0.0		https://www.mass.gov/
 Tavira	Tavira	2020-07-22	2020-07-21T23:00:00.000Z		35			0			0			0.0		https://covid19.min-saude.pt/
 T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-07-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Taylor_County,_West_Virginia	Taylor County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	30	18	3151						0.0	1.14	0.29	https://dhhr.wv.gov/
+Tazewell_County,_Virginia	Tazewell County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	0	48								0.0	2.0		http://www.vdh.virginia.gov/
 Tboung_Khmum_Province	Tboung Khmum Province	2020-07-22	2020-07-22T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Templeton,_Massachusetts	Templeton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		124		1378							0.0		https://www.mass.gov/
 Terras_de_Bouro	Terras de Bouro	2020-07-22	2020-07-21T23:00:00.000Z		19			0			0			0.0		https://covid19.min-saude.pt/
+Tewksbury,_Massachusetts	Tewksbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		597		6955							0.0		https://www.mass.gov/
 Th%C3%A1i_B%C3%ACnh_Province	Thái Bình Province	2020-07-22		0	30	30							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-07-22		0	17	13							0.0	0.0	1.43	https://ncov.moh.gov.vn/
+The_Bronx	The Bronx	2020-07-22	2020-07-21T14:00:00.000Z	3336	48926		421320	89			0		0.57	61.43		https://coronavirus.health.ny.gov/
 Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Thuringia	Thuringia	2020-07-22	2020-07-22	182	3326	0										https://www.rki.de/
+Tioga_County,_New_York	Tioga County, New York	2020-07-22	2020-07-21T14:00:00.000Z	20	174		9499	1			0		0.0	1.57		https://coronavirus.health.ny.gov/
+Tisbury,_Massachusetts	Tisbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		10		1796							0.0		https://www.mass.gov/
+Tiverton,_Rhode_Island	Tiverton, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		92		1706	0			0			0.0		https://health.ri.gov
 Tocantins	Tocantins	2020-07-22	2020-07-21T22:00:00.000Z	308	18354								5.29	331.86		https://covid.saude.gov.br/
+Tolland_County,_Connecticut	Tolland County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	65	946								0.0	1.29		https://portal.ct.gov/
+Tolland,_Massachusetts	Tolland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		20							0.0		https://www.mass.gov/
 Tomar	Tomar	2020-07-22	2020-07-21T23:00:00.000Z		16			0			0			0.0		https://covid19.min-saude.pt/
+Tompkins_County,_New_York	Tompkins County, New York	2020-07-22	2020-07-21T18:00:00.000Z	0	209		25437	0			0		0.0	1.57		https://coronavirus.health.ny.gov/
 Tomsk_Oblast	Tomsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	27	3608	2034		115			0		0.29	62.14	37.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tondela	Tondela	2020-07-22	2020-07-21T23:00:00.000Z		16			0			0			0.0		https://covid19.min-saude.pt/
+Topsfield,_Massachusetts	Topsfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		116		1065							0.0		https://www.mass.gov/
 Torre_de_Moncorvo	Torre de Moncorvo	2020-07-22	2020-07-21T23:00:00.000Z		22			0			0			0.14		https://covid19.min-saude.pt/
 Torres_Novas	Torres Novas	2020-07-22	2020-07-21T23:00:00.000Z		29			0			0			0.14		https://covid19.min-saude.pt/
 Torres_Vedras	Torres Vedras	2020-07-22	2020-07-21T23:00:00.000Z		160			0			0			3.14		https://covid19.min-saude.pt/
+Townsend,_Massachusetts	Townsend, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		35		1111							0.0		https://www.mass.gov/
 Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Trancoso,_Portugal	Trancoso, Portugal	2020-07-22	2020-07-21T23:00:00.000Z		20			0			0			0.0		https://covid19.min-saude.pt/
 Trentino	Trentino	2020-07-22		405	4891	4464	141824				2		0.0	1.43	1.71	http://www.salute.gov.it/
 Tripura	Tripura	2020-07-22	2020-07-21T08:00:00.000Z	7	3079	1845							0.71	129.86	43.86	https://www.mohfw.gov.in/
 Trofa	Trofa	2020-07-22	2020-07-21T23:00:00.000Z		148			0			0			0.0		https://covid19.min-saude.pt/
 Troms_og_Finnmark	Troms og Finnmark	2020-07-22	2020-07-21T11:00:00.000Z		258									0.0		https://www.fhi.no/
+Trumbull_County,_Ohio	Trumbull County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	84	1179								0.71	13.57		https://coronavirus.ohio.gov/
+Truro,_Massachusetts	Truro, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		10		301							0.0		https://www.mass.gov/
+Tucker_County,_West_Virginia	Tucker County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	7	7	2439						0.0	0.0	0.14	https://dhhr.wv.gov/
 Tula_Oblast	Tula Oblast	2020-07-22	2020-07-21T07:45:00.000Z	191	7977	6521		44			0		3.57	41.29	35.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tulln_District	Tulln District	2020-07-22	2020-07-21T20:00:00.000Z		189									0.29		https://info.gesundheitsministerium.at/
 Turkey	Turkey	2020-07-22		5526	221500	204011	4359627						15.29	794.29	896.86	https://covid19.saglik.gov.tr/
-Turkistan_Region	Turkistan Region	2020-07-22		36	2497	1908							2.57	22.29	147.57	https://www.coronavirus2020.kz/
+Turkistan_Region	Turkistan Region	2020-07-22		36	2513	1908							2.57	24.57	147.57	https://www.coronavirus2020.kz/
 Tuscany	Tuscany	2020-07-22		1131	10384	8927	395061				9		0.57	6.57	4.14	http://www.salute.gov.it/
+Tuscarawas_County,_Ohio	Tuscarawas County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	11	691								0.0	7.14		https://coronavirus.ohio.gov/
+Tuscola_County,_Michigan	Tuscola County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	27	254				0			0	0.0	1.43		https://www.michigan.gov/
 Tuva	Tuva	2020-07-22	2020-07-21T07:45:00.000Z	45	5777	3038		45			0		0.43	34.29	96.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tver_Oblast	Tver Oblast	2020-07-22	2020-07-21T07:45:00.000Z	120	4312	3742		24			0		2.14	22.71	28.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tyler_County,_West_Virginia	Tyler County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	10	8	676						0.0	0.0	0.29	https://dhhr.wv.gov/
+Tyngsborough,_Massachusetts	Tyngsborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		95		1764							0.0		https://www.mass.gov/
+Tyringham,_Massachusetts	Tyringham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		30							0.0		https://www.mass.gov/
 Tyrol_(state)	Tyrol (state)	2020-07-22	2020-07-21T20:00:00.000Z	101		3481							0.0		2.71	https://info.gesundheitsministerium.at/
 Tyumen_Oblast	Tyumen Oblast	2020-07-22	2020-07-21T07:45:00.000Z	22	4885	3074		106			0		0.14	85.57	55.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Udmurtia	Udmurtia	2020-07-22	2020-07-21T07:45:00.000Z	22	2111	1493		32			0		0.43	33.0	14.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ulster_County,_New_York	Ulster County, New York	2020-07-22	2020-07-21T14:00:00.000Z	81	1906		49503	5			0		0.0	2.57		https://coronavirus.health.ny.gov/
 Ulyanovsk_Oblast	Ulyanovsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	60	8037	5147		110			0		0.86	93.57	78.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Umbria	Umbria	2020-07-22		80	1459	1365	113086				3		0.0	1.0	0.43	http://www.salute.gov.it/
+Union_County,_Ohio	Union County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	152								0.0	3.43		https://coronavirus.ohio.gov/
 United_Arab_Emirates	United Arab Emirates	2020-07-22	2020-07-21T09:57:00.000Z	341	57498	49964	4576202						0.86	235.71	506.57	https://covid19.ncema.gov.ae/
+United_States	United States	2020-07-22	2020-07-22T05:14:54.694Z	138767	3872712								675.14	56741.14	15162.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2020-07-22	2020-07-21T20:00:00.000Z	58		2763							0.0		39.43	https://info.gesundheitsministerium.at/
+Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	31	24	2629						0.0	0.0	0.29	https://dhhr.wv.gov/
+Upton,_Massachusetts	Upton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		25		727							0.0		https://www.mass.gov/
 Uttar_Pradesh	Uttar Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	1192	51160	30831							29.86	1633.71	835.43	https://www.mohfw.gov.in/
 Uttarakhand	Uttarakhand	2020-07-22	2020-07-21T08:00:00.000Z	55	4642	3212							0.71	136.57	49.29	https://www.mohfw.gov.in/
+Uxbridge,_Massachusetts	Uxbridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		78		1616							0.0		https://www.mass.gov/
 Vagos	Vagos	2020-07-22	2020-07-21T23:00:00.000Z		36			0			0			0.0		https://covid19.min-saude.pt/
 Vale_de_Cambra	Vale de Cambra	2020-07-22	2020-07-21T23:00:00.000Z		147			0			0			0.0		https://covid19.min-saude.pt/
 Valongo	Valongo	2020-07-22	2020-07-21T23:00:00.000Z		782			0			0			1.14		https://covid19.min-saude.pt/
+Van_Buren_County,_Michigan	Van Buren County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	9	313				0			0	0.0	3.86		https://www.michigan.gov/
+Van_Wert_County,_Ohio	Van Wert County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	1	56								0.0	0.71		https://coronavirus.ohio.gov/
 Velas	Velas	2020-07-22	2020-07-21T23:00:00.000Z		6			0			0			0.0		https://covid19.min-saude.pt/
 Vendas_Novas	Vendas Novas	2020-07-22	2020-07-21T23:00:00.000Z		10			0			0			0.0		https://covid19.min-saude.pt/
 Veneto	Veneto	2020-07-22		2053	19671	16994	1130514				22		1.43	32.86	4.86	http://www.salute.gov.it/
@@ -514,6 +1289,9 @@ Villach	Villach	2020-07-22	2020-07-21T20:00:00.000Z		24									0.14		https://in
 Vimioso	Vimioso	2020-07-22	2020-07-21T23:00:00.000Z		15			0			0			0.14		https://covid19.min-saude.pt/
 V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-07-22		0	19	19							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Vinhais	Vinhais	2020-07-22	2020-07-21T23:00:00.000Z		34			0			0			0.0		https://covid19.min-saude.pt/
+Vinton_County,_Ohio	Vinton County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	2	25								0.0	0.14		https://coronavirus.ohio.gov/
+Virginia	Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2048	79371		937148						8.0	834.86		http://www.vdh.virginia.gov/
+Virginia_Beach,_Virginia	Virginia Beach, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	38	2829								0.57	98.86		http://www.vdh.virginia.gov/
 Viseu	Viseu	2020-07-22	2020-07-21T23:00:00.000Z		114			0			0			0.29		https://covid19.min-saude.pt/
 Vizela	Vizela	2020-07-22	2020-07-21T23:00:00.000Z		158			0			0			0.0		https://covid19.min-saude.pt/
 Vladimir_Oblast	Vladimir Oblast	2020-07-22	2020-07-21T07:45:00.000Z	113	5298	4675		37			0		2.43	35.71	80.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -526,15 +1304,105 @@ Vouzela	Vouzela	2020-07-22	2020-07-21T23:00:00.000Z		8			0			0			0.0		https://co
 Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-07-22	2020-07-21T20:00:00.000Z		75									0.29		https://info.gesundheitsministerium.at/
 Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-07-22	2020-07-21T20:00:00.000Z		26									0.0		https://info.gesundheitsministerium.at/
 Waikato	Waikato	2020-07-22	2020-07-22T01:00:00.000Z	1	188	187		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
+Wakefield,_Massachusetts	Wakefield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		321		5040							0.0		https://www.mass.gov/
+Waldo_County,_Maine	Waldo County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	14	60	46							0.0	0.0	0.43	https://www.maine.gov/
+Wales,_Massachusetts	Wales, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		149							0.0		https://www.mass.gov/
+Walpole,_Massachusetts	Walpole, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		238		4065							0.0		https://www.mass.gov/
+Waltham,_Massachusetts	Waltham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		1252		10373							0.0		https://www.mass.gov/
+Ware,_Massachusetts	Ware, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		33		1115							0.0		https://www.mass.gov/
+Wareham,_Massachusetts	Wareham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		216		3412							0.0		https://www.mass.gov/
+Warren_County,_New_York	Warren County, New York	2020-07-22	2020-07-21T14:00:00.000Z	30	288		13479	1			0		0.0	0.57		https://coronavirus.health.ny.gov/
+Warren_County,_Ohio	Warren County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	28	1272								0.14	24.86		https://coronavirus.ohio.gov/
+Warren_County,_Virginia	Warren County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	8	334								0.0	2.43		http://www.vdh.virginia.gov/
+Warren,_Massachusetts	Warren, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		24		446							0.0		https://www.mass.gov/
+Warren,_Rhode_Island	Warren, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		75		1417	0			0			0.0		https://health.ri.gov
+Warwick,_Massachusetts	Warwick, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		80							0.0		https://www.mass.gov/
+Warwick,_Rhode_Island	Warwick, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		665		9737	0			0			0.0		https://health.ri.gov
+Washington_County,_Maine	Washington County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	0	6	3							0.0	0.14	0.0	https://www.maine.gov/
+Washington_County,_New_York	Washington County, New York	2020-07-22	2020-07-21T14:00:00.000Z	14	250		12464	0			0		0.0	0.0		https://coronavirus.health.ny.gov/
+Washington_County,_Ohio	Washington County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	21	168								0.14	2.14		https://coronavirus.ohio.gov/
+Washington_County,_Virginia	Washington County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	114								0.0	3.43		http://www.vdh.virginia.gov/
+Washington,_Massachusetts	Washington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		3		42							0.0		https://www.mass.gov/
+Washtenaw_County,_Michigan	Washtenaw County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	110	2139				0			0	0.14	20.86		https://www.michigan.gov/
+Watertown,_Massachusetts	Watertown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		396		5326							0.0		https://www.mass.gov/
+Wayland,_Massachusetts	Wayland, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		109		2031							0.0		https://www.mass.gov/
+Wayne_County,_Michigan	Wayne County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	2781	25410				1			0	2.86	126.43		https://www.michigan.gov/
+Wayne_County,_New_York	Wayne County, New York	2020-07-22	2020-07-21T14:00:00.000Z	2	232		21407	4			0		0.0	1.57		https://coronavirus.health.ny.gov/
+Wayne_County,_Ohio	Wayne County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	57	412								0.14	4.0		https://coronavirus.ohio.gov/
+Wayne_County,_West_Virginia	Wayne County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	9	160	114	3555						0.0	3.43	1.57	https://dhhr.wv.gov/
+Waynesboro,_Virginia	Waynesboro, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	149								0.29	2.86		http://www.vdh.virginia.gov/
+Webster_County,_West_Virginia	Webster County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	2	1	813						0.0	0.14	0.14	https://dhhr.wv.gov/
+Webster,_Massachusetts	Webster, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		263		3261							0.0		https://www.mass.gov/
 Weiz_District	Weiz District	2020-07-22	2020-07-21T20:00:00.000Z		204									0.43		https://info.gesundheitsministerium.at/
+Wellesley,_Massachusetts	Wellesley, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		239		3457							0.0		https://www.mass.gov/
+Wellfleet,_Massachusetts	Wellfleet, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5		372							0.0		https://www.mass.gov/
 Wels	Wels	2020-07-22	2020-07-21T20:00:00.000Z		139									3.0		https://info.gesundheitsministerium.at/
+Wendell,_Massachusetts	Wendell, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		100							0.0		https://www.mass.gov/
+Wenham,_Massachusetts	Wenham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		20		446							0.0		https://www.mass.gov/
 West_Bengal	West Bengal	2020-07-22	2020-07-21T08:00:00.000Z	1147	44769	26418							23.86	1704.43	926.71	https://www.mohfw.gov.in/
+West_Boylston,_Massachusetts	West Boylston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		48		1175							0.0		https://www.mass.gov/
+West_Bridgewater,_Massachusetts	West Bridgewater, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		141		1374							0.0		https://www.mass.gov/
+West_Brookfield,_Massachusetts	West Brookfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		22		686							0.0		https://www.mass.gov/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-07-22	2020-07-22T01:00:00.000Z	1	5	4		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
-West_Kazakhstan_Region	West Kazakhstan Region	2020-07-22		22	4845	3683							0.0	88.43	59.71	https://www.coronavirus2020.kz/
+West_Greenwich,_Rhode_Island	West Greenwich, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		22		615	0			0			0.0		https://health.ri.gov
+West_Kazakhstan_Region	West Kazakhstan Region	2020-07-22		22	4932	3683							0.0	100.86	59.71	https://www.coronavirus2020.kz/
+West_Newbury,_Massachusetts	West Newbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		10		519							0.0		https://www.mass.gov/
+West_Springfield,_Massachusetts	West Springfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		391		4255							0.0		https://www.mass.gov/
+West_Stockbridge,_Massachusetts	West Stockbridge, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5		150							0.0		https://www.mass.gov/
+West_Tisbury,_Massachusetts	West Tisbury, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		11		596							0.0		https://www.mass.gov/
+West_Virginia	West Virginia	2020-07-22	2020-07-21T14:00:00.000Z	101	5199		240201						0.43	91.71		https://dhhr.wv.gov/
+West_Warwick,_Rhode_Island	West Warwick, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		308		3698	0			0			0.0		https://health.ri.gov
+Westborough,_Massachusetts	Westborough, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		336		2978							0.0		https://www.mass.gov/
+Westchester_County,_New_York	Westchester County, New York	2020-07-22	2020-07-21T14:00:00.000Z	1440	35587		350693	36			0		0.57	27.57		https://coronavirus.health.ny.gov/
+Westerly,_Rhode_Island	Westerly, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		69		2438	0			0			0.0		https://health.ri.gov
+Westfield,_Massachusetts	Westfield, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		466		5643							0.0		https://www.mass.gov/
+Westford,_Massachusetts	Westford, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		145		3056							0.0		https://www.mass.gov/
+Westhampton,_Massachusetts	Westhampton, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5		139							0.0		https://www.mass.gov/
+Westminster,_Massachusetts	Westminster, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		33		1034							0.0		https://www.mass.gov/
+Westmoreland_County,_Virginia	Westmoreland County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	2	187								0.0	0.14		http://www.vdh.virginia.gov/
+Weston,_Massachusetts	Weston, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		112		1971							0.0		https://www.mass.gov/
+Westport,_Massachusetts	Westport, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		100		2174							0.0		https://www.mass.gov/
+Westwood,_Massachusetts	Westwood, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		132		2249							0.0		https://www.mass.gov/
+Wetzel_County,_West_Virginia	Wetzel County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	41	26	1370						0.0	0.43	1.86	https://dhhr.wv.gov/
+Wexford_County,_Michigan	Wexford County, Michigan	2020-07-22	2020-07-21T16:00:00.000Z	4	53				0			0	0.0	-0.29		https://www.michigan.gov/
+Weymouth,_Massachusetts	Weymouth, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		735		9154							0.0		https://www.mass.gov/
 Whanganui	Whanganui	2020-07-22	2020-07-22T01:00:00.000Z		9	9		0		0	0			0.0	0.0	https://www.health.govt.nz/
+Whately,_Massachusetts	Whately, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5		79							0.0		https://www.mass.gov/
+Whitman,_Massachusetts	Whitman, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		190		2211							0.0		https://www.mass.gov/
 Wiener_Neustadt	Wiener Neustadt	2020-07-22	2020-07-21T20:00:00.000Z		88									1.71		https://info.gesundheitsministerium.at/
+Wilbraham,_Massachusetts	Wilbraham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		226		2001							0.0		https://www.mass.gov/
+Williams_County,_Ohio	Williams County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	3	95								0.14	2.43		https://coronavirus.ohio.gov/
+Williamsburg,_Massachusetts	Williamsburg, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		11		494							0.0		https://www.mass.gov/
+Williamsburg,_Virginia	Williamsburg, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	6	96								0.0	1.29		http://www.vdh.virginia.gov/
+Williamstown,_Massachusetts	Williamstown, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		83		1145							0.0		https://www.mass.gov/
+Wilmington,_Massachusetts	Wilmington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		337		3529							0.0		https://www.mass.gov/
+Winchendon,_Massachusetts	Winchendon, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		89		1627							0.0		https://www.mass.gov/
+Winchester,_Massachusetts	Winchester, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		119		3471							0.0		https://www.mass.gov/
+Winchester,_Virginia	Winchester, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	4	378								0.0	2.43		http://www.vdh.virginia.gov/
+Windham_County,_Connecticut	Windham County, Connecticut	2020-07-22	2020-07-21T14:00:00.000Z	15	653								0.14	2.0		https://portal.ct.gov/
+Windsor,_Massachusetts	Windsor, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		77							0.0		https://www.mass.gov/
+Winthrop,_Massachusetts	Winthrop, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		297		3673							0.0		https://www.mass.gov/
+Wirt_County,_West_Virginia	Wirt County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	6	5	347						0.0	0.0	0.14	https://dhhr.wv.gov/
+Wise_County,_Virginia	Wise County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	54								0.14	0.86		http://www.vdh.virginia.gov/
+Woburn,_Massachusetts	Woburn, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		650		7003							0.0		https://www.mass.gov/
 Wolfsberg_District	Wolfsberg District	2020-07-22	2020-07-21T20:00:00.000Z		50									0.14		https://info.gesundheitsministerium.at/
+Wood_County,_Ohio	Wood County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	54	626								0.43	15.29		https://coronavirus.ohio.gov/
+Wood_County,_West_Virginia	Wood County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	3	204	133	8521						0.0	2.57	3.43	https://dhhr.wv.gov/
+Woonsocket,_Rhode_Island	Woonsocket, Rhode Island	2020-07-22	2020-07-21T16:00:00.000Z		689		5204	0			0			0.0		https://health.ri.gov
+Worcester_County,_Massachusetts	Worcester County, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z	970	12894								0.43	24.29		https://www.mass.gov/
+Worcester,_Massachusetts	Worcester, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		5352		43730							0.0		https://www.mass.gov/
+Worthington,_Massachusetts	Worthington, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		0		122							0.0		https://www.mass.gov/
+Wrentham,_Massachusetts	Wrentham, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		193		2275							0.0		https://www.mass.gov/
+Wyandot_County,_Ohio	Wyandot County, Ohio	2020-07-22	2020-07-21T18:00:00.000Z	5	73								0.0	0.71		https://coronavirus.ohio.gov/
+Wyoming_County,_New_York	Wyoming County, New York	2020-07-22	2020-07-21T14:00:00.000Z	5	107		8092	3			0		0.0	0.57		https://coronavirus.health.ny.gov/
+Wyoming_County,_West_Virginia	Wyoming County, West Virginia	2020-07-22	2020-07-21T17:00:00.000Z	0	11	7	2070						0.0	0.57	0.29	https://dhhr.wv.gov/
+Wythe_County,_Virginia	Wythe County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	1	73								0.0	1.57		http://www.vdh.virginia.gov/
 Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2020-07-22	2020-07-21T07:45:00.000Z	64	9656	4589		178			0		1.0	154.86	150.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Yarmouth,_Massachusetts	Yarmouth, Massachusetts	2020-07-22	2020-07-21T20:00:00.000Z		115		3596							0.0		https://www.mass.gov/
 Yaroslavl_Oblast	Yaroslavl Oblast	2020-07-22	2020-07-21T07:45:00.000Z	24	5637	4933		39			0		0.29	35.71	55.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Yates_County,_New_York	Yates County, New York	2020-07-22	2020-07-21T14:00:00.000Z	6	51		4852	0			0		0.0	0.14		https://coronavirus.health.ny.gov/
+York_County,_Maine	York County, Maine	2020-07-22	2020-07-21T14:00:00.000Z	12	601	526							0.14	3.0	3.14	https://www.maine.gov/
+York_County,_Virginia	York County, Virginia	2020-07-22	2020-07-21T13:00:00.000Z	3	234								0.0	7.71		http://www.vdh.virginia.gov/
+Yukon	Yukon	2020-07-22	2020-07-21T15:00:00.000Z	0	13	11	1435						0.0	0.29	0.0	https://www.canada.ca/
 Zabaykalsky_Krai	Zabaykalsky Krai	2020-07-22	2020-07-21T07:45:00.000Z	47	3952	3266		25			0		0.14	26.43	54.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Zwettl_District	Zwettl District	2020-07-22	2020-07-21T20:00:00.000Z		73									0.0		https://info.gesundheitsministerium.at/
