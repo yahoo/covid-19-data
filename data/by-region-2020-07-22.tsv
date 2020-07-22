@@ -1,4 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Abruzzo	Abruzzo	2020-07-22		470	3344	2758	120227				2		0.43	1.86	2.57	http://www.salute.gov.it/
 Adygea	Adygea	2020-07-22	2020-07-21T07:45:00.000Z	16	2411	1930		27			0		0.29	17.14	12.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-07-22	2020-07-21T11:00:00.000Z		351									0.0		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-07-22		31	2054	1395							1.0	40.71	31.14	https://www.coronavirus2020.kz/
@@ -11,6 +12,8 @@ Amstetten_District	Amstetten District	2020-07-22	2020-07-21T20:00:00.000Z		309		
 Amur_Oblast	Amur Oblast	2020-07-22	2020-07-21T07:45:00.000Z	33	2451	1562		28			0		0.43	32.0	46.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Andaman_and_Nicobar_Islands	Andaman and Nicobar Islands	2020-07-22	2020-07-21T08:00:00.000Z	0	207	152							0.0	5.86	6.14	https://www.mohfw.gov.in/
 Andhra_Pradesh	Andhra Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	696	53724	24228							41.14	2957.86	965.86	https://www.mohfw.gov.in/
+Aosta_Valley	Aosta Valley	2020-07-22		146	1196	1049	20380				0		0.0	0.0	0.14	http://www.salute.gov.it/
+Apulia	Apulia	2020-07-22		548	4556	3948	218910				0		0.14	2.14	3.14	http://www.salute.gov.it/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	132	7989	5683		81			0		2.71	88.43	140.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Arunachal_Pradesh	Arunachal Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	3	790	285							0.0	46.86	18.86	https://www.mohfw.gov.in/
 Assam	Assam	2020-07-22	2020-07-21T08:00:00.000Z	58	25382	17095							2.57	1082.14	811.29	https://www.mohfw.gov.in/
@@ -18,6 +21,7 @@ Astrakhan_Oblast	Astrakhan Oblast	2020-07-22	2020-07-21T07:45:00.000Z	40	4245	31
 Atyrau_Region	Atyrau Region	2020-07-22		18	9283	5597							0.71	140.86	62.57	https://www.coronavirus2020.kz/
 Auckland_Region	Auckland Region	2020-07-22	2020-07-21T01:00:00.000Z		178	178								0.0	0.0	https://www.health.govt.nz/
 Austria	Austria	2020-07-22	2020-07-21T20:00:00.000Z	686	19865	17704	805600						0.14	100.0	75.57	https://info.gesundheitsministerium.at/
+Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-07-22		1752		7879							0.57		6.57	https://www.santepubliquefrance.fr/
 B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-07-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-07-22		0	23	21							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -25,6 +29,7 @@ Baden_District,_Austria	Baden District, Austria	2020-07-22	2020-07-21T20:00:00.0
 Bahrain	Bahrain	2020-07-22	2020-07-22T00:00:00.000Z	129	36936	32965	735492	0	1	0	-514	-1	1.71	408.29	458.86	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-07-22	2020-07-22T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2020-07-22	2020-07-21T07:45:00.000Z	21	6386	4697		38			0		0.29	44.14	63.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2020-07-22		28	408	373	44528				0		0.14	0.43	0.0	http://www.salute.gov.it/
 Battambang_Province	Battambang Province	2020-07-22	2020-07-22T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bay_of_Plenty	Bay of Plenty	2020-07-22	2020-07-21T01:00:00.000Z		47	47								0.0	0.0	https://www.health.govt.nz/
 Belarus	Belarus	2020-07-22	2020-07-21T03:00:00.000Z	507	66348	58592	1202214						3.86	129.29	316.14	http://stopcovid.belta.by/
@@ -33,20 +38,26 @@ B%E1%BA%BFn_Tre_Province	Bến Tre Province	2020-07-22		0	1	1							0.0	0.0	0.0	
 Bihar	Bihar	2020-07-22	2020-07-21T08:00:00.000Z	217	27646	17433							6.14	1194.57	654.86	https://www.mohfw.gov.in/
 B%C3%ACnh_Thu%E1%BA%ADn_Province	Bình Thuận Province	2020-07-22		0	9	9							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Bludenz_District	Bludenz District	2020-07-22	2020-07-21T20:00:00.000Z		259									0.14		https://info.gesundheitsministerium.at/
+Bourgogne-Franche-Comt%C3%A9	Bourgogne-Franche-Comté	2020-07-22		1061		3994							0.14		5.71	https://www.santepubliquefrance.fr/
 Braunau_am_Inn_District	Braunau am Inn District	2020-07-22	2020-07-21T20:00:00.000Z		155									1.0		https://info.gesundheitsministerium.at/
+Brittany_(administrative_region)	Brittany (administrative region)	2020-07-22		262		1307							0.29		1.57	https://www.santepubliquefrance.fr/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-07-22	2020-07-21T20:00:00.000Z		128									0.43		https://info.gesundheitsministerium.at/
 Bryansk_Oblast	Bryansk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	35	7091	5491		23			0		0.0	26.43	40.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Burgenland	Burgenland	2020-07-22	2020-07-21T20:00:00.000Z	11		356							0.0		1.29	https://info.gesundheitsministerium.at/
 Buryatia	Buryatia	2020-07-22	2020-07-21T07:45:00.000Z	35	3729	2860		37			0		1.14	35.43	26.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Calabria	Calabria	2020-07-22		97	1239	1071	111600				0		0.0	3.0	1.29	http://www.salute.gov.it/
 Cambodia	Cambodia	2020-07-22	2020-07-22T07:00:00.000Z	0	197	140		0	0	0	-26	0	0.0	4.57	1.0	http://www.cdcmoh.gov.kh/
+Campania	Campania	2020-07-22		434	4839	4108	314126				6		0.29	7.43	1.71	http://www.salute.gov.it/
 C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Carinthia	Carinthia	2020-07-22	2020-07-21T20:00:00.000Z	13		421							0.0		0.86	https://info.gesundheitsministerium.at/
+Centre-Val_de_Loire	Centre-Val de Loire	2020-07-22		555		2057							0.29		8.57	https://www.santepubliquefrance.fr/
 Chandigarh	Chandigarh	2020-07-22	2020-07-21T08:00:00.000Z	12	737	518							0.29	19.57	10.29	https://www.mohfw.gov.in/
 Chechnya	Chechnya	2020-07-22	2020-07-21T07:45:00.000Z	30	1937	1312		10			0		0.29	10.57	5.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	88	9946	5622		130			0		0.0	111.71	58.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chhattisgarh	Chhattisgarh	2020-07-22	2020-07-21T08:00:00.000Z	25	5561	3944							0.71	168.86	95.57	https://www.mohfw.gov.in/
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-07-22	2020-07-21T07:45:00.000Z	1	148	143		0			0		0.0	0.43	0.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-07-22	2020-07-21T07:45:00.000Z	50	6310	3405		46			0		0.43	44.57	21.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Corsica	Corsica	2020-07-22		59		248							0.0		0.14	https://www.santepubliquefrance.fr/
 Da_Nang	Da Nang	2020-07-22		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Dagestan	Dagestan	2020-07-22	2020-07-21T07:45:00.000Z	428	8860	7638		41			0		1.29	36.86	88.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Delhi	Delhi	2020-07-22	2020-07-21T08:00:00.000Z	3663	123747	104918							31.0	1200.14	1668.86	https://www.mohfw.gov.in/
@@ -54,15 +65,19 @@ Deutschlandsberg_District	Deutschlandsberg District	2020-07-22	2020-07-21T20:00:
 %C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-07-22		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Dornbirn_District	Dornbirn District	2020-07-22	2020-07-21T20:00:00.000Z		159									0.0		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-07-22	2020-07-21T22:47:49.517Z	609649	14755652								4361.43	190084.29	116842.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-07-22	2020-07-21T23:36:12.001Z	609739	14762297								4374.29	191033.57	116842.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-07-22		5	4250	2435							0.0	124.86	116.71	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-07-22	2020-07-21T20:00:00.000Z		69									-0.14		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-07-22	2020-07-21T20:00:00.000Z		20									0.14		https://info.gesundheitsministerium.at/
+Emilia-Romagna	Emilia-Romagna	2020-07-22		4279	29238	23662	583968				18		1.14	35.57	16.29	http://www.salute.gov.it/
 Feldkirch_District	Feldkirch District	2020-07-22	2020-07-21T20:00:00.000Z		218									0.14		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-07-22	2020-07-21T20:00:00.000Z		15									0.0		https://info.gesundheitsministerium.at/
+France	France	2020-07-22		30165	177338	79734							6.43	576.29	130.57	https://www.santepubliquefrance.fr/
 Freistadt_District	Freistadt District	2020-07-22	2020-07-21T20:00:00.000Z		137									1.0		https://info.gesundheitsministerium.at/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-07-22		345	3358	2914	229633				2		0.0	2.71	1.86	http://www.salute.gov.it/
 Gmunden_District	Gmunden District	2020-07-22	2020-07-21T20:00:00.000Z		89									0.86		https://info.gesundheitsministerium.at/
 Goa	Goa	2020-07-22	2020-07-21T08:00:00.000Z	23	3853	2361							0.71	157.14	107.71	https://www.mohfw.gov.in/
+Grand_Est	Grand Est	2020-07-22		3601		12524							1.43		11.29	https://www.santepubliquefrance.fr/
 Graz	Graz	2020-07-22	2020-07-21T20:00:00.000Z		564									2.29		https://info.gesundheitsministerium.at/
 Grieskirchen_District	Grieskirchen District	2020-07-22	2020-07-21T20:00:00.000Z		90									0.43		https://info.gesundheitsministerium.at/
 Gujarat	Gujarat	2020-07-22	2020-07-21T08:00:00.000Z	2162	49353	35678							13.29	816.57	739.29	https://www.mohfw.gov.in/
@@ -72,6 +87,7 @@ H%C3%A0_T%C4%A9nh_Province	Hà Tĩnh Province	2020-07-22		0	4	4							0.0	0.0	0.
 H%E1%BA%A3i_D%C6%B0%C6%A1ng_Province	Hải Dương Province	2020-07-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Hanoi	Hanoi	2020-07-22		0	121	121							0.0	0.0	0.14	https://ncov.moh.gov.vn/
 Haryana	Haryana	2020-07-22	2020-07-21T08:00:00.000Z	355	26858	20226							6.14	604.29	448.0	https://www.mohfw.gov.in/
+Hauts-de-France	Hauts-de-France	2020-07-22		1896		6804							1.57		16.14	https://www.santepubliquefrance.fr/
 Hawke%27s_Bay_Region	Hawke's Bay Region	2020-07-22	2020-07-21T01:00:00.000Z		44	44								0.0	0.0	https://www.health.govt.nz/
 Hermagor_District	Hermagor District	2020-07-22	2020-07-21T20:00:00.000Z		5									0.0		https://info.gesundheitsministerium.at/
 Himachal_Pradesh	Himachal Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	11	1631	1067							0.0	46.0	16.57	https://www.mohfw.gov.in/
@@ -79,12 +95,14 @@ Ho_Chi_Minh_City	Ho Chi Minh City	2020-07-22		0	62	62							0.0	0.0	0.0	https://
 Hollabrunn_District	Hollabrunn District	2020-07-22	2020-07-21T20:00:00.000Z		48									0.43		https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2020-07-22	2020-07-21T20:00:00.000Z		98									3.71		https://info.gesundheitsministerium.at/
 H%C6%B0ng_Y%C3%AAn_Province	Hưng Yên Province	2020-07-22		0	5	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+%C3%8Ele-de-France	Île-de-France	2020-07-22		7533		28735							2.86		40.57	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2020-07-22	2020-07-21T20:00:00.000Z		297									0.14		https://info.gesundheitsministerium.at/
 India	India	2020-07-22	2020-07-21T08:00:00.000Z	28084	1155191	724578							539.29	31287.14	18935.14	https://www.mohfw.gov.in/
 Ingushetia	Ingushetia	2020-07-22	2020-07-21T07:45:00.000Z	71	3459	2607		11			0		0.0	16.43	11.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2020-07-22	2020-07-21T11:00:00.000Z		511									0.29		https://www.fhi.no/
 Innsbruck	Innsbruck	2020-07-22	2020-07-21T20:00:00.000Z		439									0.86		https://info.gesundheitsministerium.at/
 Irkutsk_Oblast	Irkutsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	123	11806	6564		181			0		2.29	160.14	183.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Italy	Italy	2020-07-22		35073	244752	197431	6305412				129		10.86	178.0	202.14	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2020-07-22	2020-07-21T07:45:00.000Z	65	6059	4387		61			0		0.86	52.57	53.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jambyl_Region	Jambyl Region	2020-07-22		7	2957	1365							0.57	87.29	17.29	https://www.coronavirus2020.kz/
 Jennersdorf_District	Jennersdorf District	2020-07-22	2020-07-21T20:00:00.000Z		10									0.0		https://info.gesundheitsministerium.at/
@@ -131,16 +149,19 @@ Ladakh	Ladakh	2020-07-22	2020-07-21T08:00:00.000Z	2	1195	1007							0.14	14.57	8
 Lai_Ch%C3%A2u_Province	Lai Châu Province	2020-07-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Landeck_District	Landeck District	2020-07-22	2020-07-21T20:00:00.000Z		1006									1.0		https://info.gesundheitsministerium.at/
 L%C3%A0o_Cai_Province	Lào Cai Province	2020-07-22		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Lazio	Lazio	2020-07-22		853	8456	6722	391123				6		0.86	11.43	13.0	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-07-22	2020-07-21T18:22:00.000Z	41	2980	1577	223646						0.43	62.57	17.43	https://corona.ministryinfo.gov.lb/
 Leibnitz_District	Leibnitz District	2020-07-22	2020-07-21T20:00:00.000Z		192									0.43		https://info.gesundheitsministerium.at/
 Leningrad_Oblast	Leningrad Oblast	2020-07-22	2020-07-21T07:45:00.000Z	47	5449	4371		44			0		0.71	38.86	11.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Leoben_District	Leoben District	2020-07-22	2020-07-21T20:00:00.000Z		32									0.0		https://info.gesundheitsministerium.at/
 Lienz_District	Lienz District	2020-07-22	2020-07-21T20:00:00.000Z		156									0.0		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-07-22	2020-07-21T20:00:00.000Z		105									1.57		https://info.gesundheitsministerium.at/
+Liguria	Liguria	2020-07-22		1565	10117	8362	173705				12		0.57	10.71	11.0	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2020-07-22	2020-07-21T20:00:00.000Z		53									0.0		https://info.gesundheitsministerium.at/
 Linz	Linz	2020-07-22	2020-07-21T20:00:00.000Z		612									10.86		https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2020-07-22	2020-07-21T07:45:00.000Z	20	4423	3389		13			0		0.14	19.43	47.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lithuania	Lithuania	2020-07-22	2020-07-21T20:01:00.000Z	80	1949	1601	486224						0.14	9.57	2.71	https://koronastop.lrv.lt
+Lombardy	Lombardy	2020-07-22		16797	95582	71775	1212468				34		4.57	49.43	119.86	http://www.salute.gov.it/
 Lower_Austria	Lower Austria	2020-07-22	2020-07-21T20:00:00.000Z	107		2904							0.0		3.29	https://info.gesundheitsministerium.at/
 Madhya_Pradesh	Madhya Pradesh	2020-07-22	2020-07-21T08:00:00.000Z	738	23310	15684							9.29	615.0	301.29	https://www.mohfw.gov.in/
 Magadan_Oblast	Magadan Oblast	2020-07-22	2020-07-21T07:45:00.000Z	7	1168	773		7			0		0.29	13.43	21.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
