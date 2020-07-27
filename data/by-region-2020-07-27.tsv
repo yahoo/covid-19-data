@@ -26,7 +26,7 @@ Da_Nang	Da Nang	2020-07-27		0	9	6							0.0	0.43	0.0	https://ncov.moh.gov.vn/
 Delhi	Delhi	2020-07-27	2020-07-26T08:00:00.000Z	3806	129531	113068							25.43	962.57	1419.14	https://www.mohfw.gov.in/
 %C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-07-27		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-07-27		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
-Earth	Earth	2020-07-27	2020-07-26T20:21:00.334Z	641925	16020121								5214.86	206743.43	154343.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-07-27	2020-07-26T22:17:03.459Z	642180	16032726								5251.29	208544.14	154697.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-07-27		5	5321	3161							0.0	176.29	140.29	https://www.coronavirus2020.kz/
 Goa	Goa	2020-07-27	2020-07-26T08:00:00.000Z	33	4686	3047							1.57	147.0	118.43	https://www.mohfw.gov.in/
 Gujarat	Gujarat	2020-07-27	2020-07-26T08:00:00.000Z	2300	54626	39631							22.57	895.86	675.71	https://www.mohfw.gov.in/
@@ -64,6 +64,7 @@ Maharashtra	Maharashtra	2020-07-27	2020-07-26T08:00:00.000Z	13389	366368	207194	
 Malaysia	Malaysia	2020-07-27	2020-07-26T09:00:00.000Z	124	8897	8600							0.14	13.86	6.43	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2020-07-27		23	2654	1897							0.0	51.43	44.86	https://www.coronavirus2020.kz/
 Manipur	Manipur	2020-07-27	2020-07-26T08:00:00.000Z	0	2176	1524							0.0	37.86	44.43	https://www.mohfw.gov.in/
+Mauritius	Mauritius	2020-07-27	2020-07-23T20:00:00.000Z	10	344	332							0.0	0.14	0.0	http://www.covid19.mu/
 Meghalaya	Meghalaya	2020-07-27	2020-07-26T08:00:00.000Z	5	646	94							0.43	28.0	4.0	https://www.mohfw.gov.in/
 Mizoram	Mizoram	2020-07-27	2020-07-26T08:00:00.000Z	0	361	183							0.0	11.0	2.29	https://www.mohfw.gov.in/
 Nagaland	Nagaland	2020-07-27	2020-07-26T08:00:00.000Z	4	1289	541							0.57	43.0	13.71	https://www.mohfw.gov.in/
@@ -79,30 +80,96 @@ Phnom_Penh	Phnom Penh	2020-07-27	2020-07-27T07:00:00.000Z		130			0			-23			7.71	
 Preah_Vihear_Province	Preah Vihear Province	2020-07-27	2020-07-27T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Puducherry	Puducherry	2020-07-27	2020-07-26T08:00:00.000Z	38	2654	1561							1.43	93.57	58.14	https://www.mohfw.gov.in/
 Punjab,_India	Punjab, India	2020-07-27	2020-07-26T08:00:00.000Z	291	12684	8297							5.29	369.14	251.71	https://www.mohfw.gov.in/
+Qatar	Qatar	2020-07-27	2020-07-25T21:00:00.000Z	165	109305	106024	472442	269			0		0.86	324.0	320.29	https://www.moph.gov.qa/
 Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-07-27		0	5	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-07-27		0	11	9							0.0	0.14	0.0	https://ncov.moh.gov.vn/
 Rajasthan	Rajasthan	2020-07-27	2020-07-26T08:00:00.000Z	613	35298	25306							7.71	837.71	510.86	https://www.mohfw.gov.in/
+Republic_of_Karelia	Republic of Karelia	2020-07-27	2020-07-26T07:30:00.000Z	4	2151	1261		42			0		0.14	30.14	21.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Reutte_District	Reutte District	2020-07-27	2020-07-26T20:00:00.000Z		63									0.71		https://info.gesundheitsministerium.at/
+Rogaland	Rogaland	2020-07-27	2020-07-26T11:00:00.000Z		453									0.43		https://www.fhi.no/
+Rohrbach_District	Rohrbach District	2020-07-27	2020-07-26T20:00:00.000Z		172									1.43		https://info.gesundheitsministerium.at/
+Rostov_Oblast	Rostov Oblast	2020-07-27	2020-07-26T07:30:00.000Z	203	12270	9738		126			0		2.86	105.14	116.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Russia	Russia	2020-07-27	2020-07-26T07:30:00.000Z	13269	812485	600250	26900000	5765	77	3110	0	0	120.29	4999.86	6664.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ryazan_Oblast	Ryazan Oblast	2020-07-27	2020-07-26T07:30:00.000Z	27	6155	5784		29			0		0.43	28.29	105.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Saint_Petersburg	Saint Petersburg	2020-07-27	2020-07-26T07:30:00.000Z	1945	30635	22968		175			0		19.71	156.29	77.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sakhalin_Oblast	Sakhalin Oblast	2020-07-27	2020-07-26T07:30:00.000Z	0	2235	788		50			0		0.0	53.14	27.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Salzburg	Salzburg	2020-07-27	2020-07-26T20:00:00.000Z		192									2.29		https://info.gesundheitsministerium.at/
+Salzburg_(state)	Salzburg (state)	2020-07-27	2020-07-26T20:00:00.000Z	37		1226							0.0		-2.14	https://info.gesundheitsministerium.at/
+Samara_Oblast	Samara Oblast	2020-07-27	2020-07-26T07:30:00.000Z	80	6660	4442		41			0		0.86	40.0	63.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Saratov_Oblast	Saratov Oblast	2020-07-27	2020-07-26T07:30:00.000Z	55	8920	5250		97			0		0.57	81.57	72.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sardinia	Sardinia	2020-07-27		134	1388	1235	103086				0		0.0	1.29	0.29	http://www.salute.gov.it/
+Scheibbs_District	Scheibbs District	2020-07-27	2020-07-26T20:00:00.000Z		105									0.14		https://info.gesundheitsministerium.at/
+Schwaz_District	Schwaz District	2020-07-27	2020-07-26T20:00:00.000Z		358									0.0		https://info.gesundheitsministerium.at/
 Shymkent	Shymkent	2020-07-27		31	4654	2938							0.0	28.71	24.0	https://www.coronavirus2020.kz/
+Sicily	Sicily	2020-07-27		283	3193	2715	263662				14		0.0	7.0	1.57	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2020-07-27	2020-07-27T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2020-07-27	2020-07-26T04:00:00.000Z	27	50369	45521	1170049						0.0	333.43	164.29	https://www.moh.gov.sg/covid-19
+Smolensk_Oblast	Smolensk Oblast	2020-07-27	2020-07-26T07:30:00.000Z	93	5553	3635		19			0		0.86	20.71	43.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+South_Tyrol	South Tyrol	2020-07-27		292	2698	2314	101313				5		0.0	2.0	3.14	http://www.salute.gov.it/
+Spittal_an_der_Drau_District	Spittal an der Drau District	2020-07-27	2020-07-26T20:00:00.000Z		46									0.14		https://info.gesundheitsministerium.at/
 Sri_Lanka	Sri Lanka	2020-07-27	2020-07-26T15:28:00.000Z	11	2782	2106							0.0	7.43	9.29	https://hpb.health.gov.lk/
+Stavropol_Krai	Stavropol Krai	2020-07-27	2020-07-26T07:30:00.000Z	145	7678	4965		109			0		2.14	98.29	69.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Steyr	Steyr	2020-07-27	2020-07-26T20:00:00.000Z		75									0.14		https://info.gesundheitsministerium.at/
+Styria	Styria	2020-07-27	2020-07-26T20:00:00.000Z	142		1786							0.14		6.86	https://info.gesundheitsministerium.at/
+Sverdlovsk_Oblast	Sverdlovsk Oblast	2020-07-27	2020-07-26T07:30:00.000Z	236	19473	14358		241			0		5.86	207.14	323.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Switzerland	Switzerland	2020-07-27	2020-07-26T11:41:42.000Z	1699	34215	30800							-38.86	88.29	57.14	https://www.ecdc.europa.eu/
+Tambov_Oblast	Tambov Oblast	2020-07-27	2020-07-26T07:30:00.000Z	30	5805	4602		39			0		0.0	34.14	49.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tamil_Nadu	Tamil Nadu	2020-07-27	2020-07-26T08:00:00.000Z	3409	206737	151055							132.57	5149.14	4734.29	https://www.mohfw.gov.in/
 Taranaki	Taranaki	2020-07-27	2020-07-26T01:00:00.000Z	0	16	16								0.0	0.0	https://www.health.govt.nz/
+Tatarstan	Tatarstan	2020-07-27	2020-07-26T07:30:00.000Z	21	5436	4410		32			0		0.29	26.86	36.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-07-27		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Tboung_Khmum_Province	Tboung Khmum Province	2020-07-27	2020-07-27T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
 Th%C3%A1i_B%C3%ACnh_Province	Thái Bình Province	2020-07-27		0	30	30							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Th%C3%A1i_Nguy%C3%AAn_Province	Thái Nguyên Province	2020-07-27		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-07-27		0	17	13							0.0	0.0	0.71	https://ncov.moh.gov.vn/
 Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-07-27		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Tomsk_Oblast	Tomsk Oblast	2020-07-27	2020-07-26T07:30:00.000Z	30	3872	2348		51			0		0.57	54.14	54.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-07-27		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Trentino	Trentino	2020-07-27		405	4965	4467	148540				6		0.0	10.86	0.43	http://www.salute.gov.it/
 Tripura	Tripura	2020-07-27	2020-07-26T08:00:00.000Z	11	3862	2209							0.86	140.57	64.29	https://www.mohfw.gov.in/
+Troms_og_Finnmark	Troms og Finnmark	2020-07-27	2020-07-26T11:00:00.000Z		258									0.0		https://www.fhi.no/
+Tula_Oblast	Tula Oblast	2020-07-27	2020-07-26T07:30:00.000Z	213	8165	6722		35			0		3.86	33.14	35.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tulln_District	Tulln District	2020-07-27	2020-07-26T20:00:00.000Z		194									0.71		https://info.gesundheitsministerium.at/
+Turkey	Turkey	2020-07-27		5613	226100	209487	4572688						15.0	789.71	926.43	https://covid19.saglik.gov.tr/
 Turkistan_Region	Turkistan Region	2020-07-27		36	2592	2026							0.0	16.43	28.57	https://www.coronavirus2020.kz/
+Tuscany	Tuscany	2020-07-27		1131	10430	8944	410136				15		0.14	7.86	3.29	http://www.salute.gov.it/
+Tuva	Tuva	2020-07-27	2020-07-26T07:30:00.000Z	47	5956	3608		32			0		0.29	32.0	100.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tver_Oblast	Tver Oblast	2020-07-27	2020-07-26T07:30:00.000Z	130	4451	3797		28			0		1.71	23.29	8.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tyrol_(state)	Tyrol (state)	2020-07-27	2020-07-26T20:00:00.000Z	101		3500							0.0		3.29	https://info.gesundheitsministerium.at/
+Tyumen_Oblast	Tyumen Oblast	2020-07-27	2020-07-26T07:30:00.000Z	25	5389	3910		98			0		0.43	87.14	122.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Udmurtia	Udmurtia	2020-07-27	2020-07-26T07:30:00.000Z	23	2254	1725		25			0		0.57	25.0	38.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ulyanovsk_Oblast	Ulyanovsk Oblast	2020-07-27	2020-07-26T07:30:00.000Z	65	8569	5925		108			0		0.86	91.71	134.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Umbria	Umbria	2020-07-27		80	1465	1368	117103				0		0.0	1.29	0.57	http://www.salute.gov.it/
+United_Arab_Emirates	United Arab Emirates	2020-07-27	2020-07-26T10:04:00.000Z	344	58913	52182	4828066						0.57	245.71	365.86	https://covid19.ncema.gov.ae/
+Upper_Austria	Upper Austria	2020-07-27	2020-07-26T20:00:00.000Z	58		2978							0.0		38.29	https://info.gesundheitsministerium.at/
 Uttar_Pradesh	Uttar Pradesh	2020-07-27	2020-07-26T08:00:00.000Z	1387	63742	39903							34.43	2070.71	1436.86	https://www.mohfw.gov.in/
 Uttarakhand	Uttarakhand	2020-07-27	2020-07-26T08:00:00.000Z	63	5961	3495							1.57	206.57	54.14	https://www.mohfw.gov.in/
+Veneto	Veneto	2020-07-27		2064	19809	17023	1177718				19		2.0	22.86	4.71	http://www.salute.gov.it/
+Vestfold_og_Telemark	Vestfold og Telemark	2020-07-27	2020-07-26T11:00:00.000Z		301									0.0		https://www.fhi.no/
+Vestland	Vestland	2020-07-27	2020-07-26T11:00:00.000Z		900									0.57		https://www.fhi.no/
+Vienna	Vienna	2020-07-27	2020-07-26T20:00:00.000Z	201		4090							0.29		24.14	https://info.gesundheitsministerium.at/
 Vietnam	Vietnam	2020-07-27		0	420	365							0.0	5.14	0.71	https://ncov.moh.gov.vn/
+Viken_(county)	Viken (county)	2020-07-27	2020-07-26T11:00:00.000Z		2526									3.29		https://www.fhi.no/
+Villach	Villach	2020-07-27	2020-07-26T20:00:00.000Z		24									0.0		https://info.gesundheitsministerium.at/
 V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-07-27		0	19	19							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Vladimir_Oblast	Vladimir Oblast	2020-07-27	2020-07-26T07:30:00.000Z	124	5462	5111		29			0		2.14	28.71	81.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Voitsberg_District	Voitsberg District	2020-07-27	2020-07-26T20:00:00.000Z		106									0.0		https://info.gesundheitsministerium.at/
+Volgograd_Oblast	Volgograd Oblast	2020-07-27	2020-07-26T07:30:00.000Z	58	8689	5054		87			0		0.71	77.14	61.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Vologda_Oblast	Vologda Oblast	2020-07-27	2020-07-26T07:30:00.000Z	20	2271	1866		26			0		0.14	22.43	33.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Vorarlberg	Vorarlberg	2020-07-27	2020-07-26T20:00:00.000Z	18		901							0.0		0.43	https://info.gesundheitsministerium.at/
+Voronezh_Oblast	Voronezh Oblast	2020-07-27	2020-07-26T07:30:00.000Z	78	10714	8432		91			0		0.14	78.0	117.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-07-27	2020-07-26T20:00:00.000Z		76									0.29		https://info.gesundheitsministerium.at/
+Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-07-27	2020-07-26T20:00:00.000Z		27									0.14		https://info.gesundheitsministerium.at/
 Waikato	Waikato	2020-07-27	2020-07-26T01:00:00.000Z	1	188	187							0.0	0.0	0.0	https://www.health.govt.nz/
+Weiz_District	Weiz District	2020-07-27	2020-07-26T20:00:00.000Z		205									0.14		https://info.gesundheitsministerium.at/
+Wels	Wels	2020-07-27	2020-07-26T20:00:00.000Z		139									0.71		https://info.gesundheitsministerium.at/
 West_Bengal	West Bengal	2020-07-27	2020-07-26T08:00:00.000Z	1332	56377	35654							31.43	1984.29	1538.71	https://www.mohfw.gov.in/
 West_Coast,_New_Zealand	West Coast, New Zealand	2020-07-27	2020-07-26T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
 West_Kazakhstan_Region	West Kazakhstan Region	2020-07-27		22	5306	4594							0.0	80.57	134.14	https://www.coronavirus2020.kz/
 Whanganui	Whanganui	2020-07-27	2020-07-26T01:00:00.000Z	0	9	9								0.0	0.0	https://www.health.govt.nz/
+Wiener_Neustadt	Wiener Neustadt	2020-07-27	2020-07-26T20:00:00.000Z		89									0.43		https://info.gesundheitsministerium.at/
+Wolfsberg_District	Wolfsberg District	2020-07-27	2020-07-26T20:00:00.000Z		50									0.0		https://info.gesundheitsministerium.at/
+Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2020-07-27	2020-07-26T07:30:00.000Z	73	10414	6134		125			0		1.86	133.71	251.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Yaroslavl_Oblast	Yaroslavl Oblast	2020-07-27	2020-07-26T07:30:00.000Z	25	5835	5177		38			0		0.43	33.86	50.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Zabaykalsky_Krai	Zabaykalsky Krai	2020-07-27	2020-07-26T07:30:00.000Z	47	4026	3511		11			0		0.0	14.14	50.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Zwettl_District	Zwettl District	2020-07-27	2020-07-26T20:00:00.000Z		74									0.14		https://info.gesundheitsministerium.at/
