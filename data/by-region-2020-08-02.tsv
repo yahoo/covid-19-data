@@ -830,10 +830,10 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-08-02		6	289								0.43	2.86		https://www.scdhec.gov/
 Abington,_Massachusetts	Abington, Massachusetts	2020-08-02	2020-08-01T20:00:00.000Z		243		3053							0.57		https://www.mass.gov/
 Abrantes	Abrantes	2020-08-02	2020-08-01T23:00:00.000Z		31			0			0			0.29		https://covid19.min-saude.pt/
-Abruzzo	Abruzzo	2020-08-02		472	3389	2801	130753				2		0.29	4.29	3.43	http://www.salute.gov.it/
+Abruzzo	Abruzzo	2020-08-02		472	3389	2801	130753	2	0	1	-3	0	0.29	4.29	3.43	http://www.salute.gov.it/
 Acadia_Parish,_Louisiana	Acadia Parish, Louisiana	2020-08-02		72	2380								1.43	29.57		http://ldh.la.gov/
 Accomack_County,_Virginia	Accomack County, Virginia	2020-08-02	2020-08-02T13:00:00.000Z	15	1074			0	0		0	0	0.0	1.57		http://www.vdh.virginia.gov/
-Acre_(state)	Acre (state)	2020-08-02	2020-08-01T22:00:00.000Z	535	19930								7.0	169.29		https://covid.saude.gov.br/
+Acre_(state)	Acre (state)	2020-08-02	2020-08-02T22:00:00.000Z	535	19930			0	0		-305	-4	7.0	169.29		https://covid.saude.gov.br/
 Acton,_Massachusetts	Acton, Massachusetts	2020-08-02	2020-08-01T20:00:00.000Z		172		3761							0.43		https://www.mass.gov/
 Acushnet,_Massachusetts	Acushnet, Massachusetts	2020-08-02	2020-08-01T20:00:00.000Z		102		1604							0.43		https://www.mass.gov/
 Ada_County,_Idaho	Ada County, Idaho	2020-08-02	2020-08-01T17:00:00.000Z	62	7535								2.43	122.0		https://coronavirus.idaho.gov/
@@ -846,7 +846,7 @@ Adams_County,_Idaho	Adams County, Idaho	2020-08-02	2020-08-01T17:00:00.000Z	0	17
 Adams_County,_Illinois	Adams County, Illinois	2020-08-02		2	424		17668						0.14	12.57		http://www.dph.illinois.gov/
 Adams_County,_Indiana	Adams County, Indiana	2020-08-02		2	81		1884						0.0	1.43		https://coronavirus.in.gov/
 Adams_County,_Iowa	Adams County, Iowa	2020-08-02	2020-08-02T00:00:00.000Z	0	16	10	402	1	0	0	1	0	0.0	0.43	0.14	https://idph.iowa.gov
-Adams_County,_Mississippi	Adams County, Mississippi	2020-08-02	2020-08-01T05:00:00.000Z	25	578								0.43	9.57		https://msdh.ms.gov/
+Adams_County,_Mississippi	Adams County, Mississippi	2020-08-02	2020-08-02T05:00:00.000Z	25	580			2	0		-11	-2	0.43	9.86		https://msdh.ms.gov/
 Adams_County,_Nebraska	Adams County, Nebraska	2020-08-02		11	340		3854						0.0	2.0		http://dhhs.ne.gov/
 Adams_County,_North_Dakota	Adams County, North Dakota	2020-08-02		0	2	0	605						0.0	0.29	0.0	https://www.health.nd.gov/
 Adams_County,_Ohio	Adams County, Ohio	2020-08-02	2020-08-02T18:00:00.000Z	2	53			0	0		0	0	0.0	1.57		https://coronavirus.ohio.gov/
@@ -866,14 +866,14 @@ Akmola_Region	Akmola Region	2020-08-02		38	2700	1978		59	0	39	3	0	1.0	55.14	66.4
 Aktobe_Region	Aktobe Region	2020-08-02		19	3056	1462		11	0	0	-13	0	0.14	19.14	4.14	https://www.coronavirus2020.kz/
 Alabama	Alabama	2020-08-02		1576	88811		703437						21.14	1637.14		https://covid19.alabama.gov/
 Alachua_County,_Florida	Alachua County, Florida	2020-08-02		23	3662		67268						0.43	74.0		https://floridahealthcovid19.gov/
-Alagoas	Alagoas	2020-08-02	2020-08-01T22:00:00.000Z	1581	60992								11.57	802.29		https://covid.saude.gov.br/
+Alagoas	Alagoas	2020-08-02	2020-08-02T22:00:00.000Z	1581	60992			0	0		-1267	-14	11.57	802.29		https://covid.saude.gov.br/
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2020-08-02		41	2207								0.0	36.14		https://www.ncdhhs.gov/
 Alameda_County,_California	Alameda County, California	2020-08-02	2020-08-01	189	11590							7	1.57	174.29		https://www.cdph.ca.gov
 Alamosa_County,_Colorado	Alamosa County, Colorado	2020-08-02		9	224								0.29	0.71		https://covid19.colorado.gov/
 Alaska	Alaska	2020-08-02		24	3280	932							0.57	108.0	16.43	http://www.dhss.alaska.gov/
 Albania	Albania	2020-08-02	2020-08-02T00:00:00.000Z	166	5519	3018	37977	123	5	57	3	1	4.0	108.0	48.0	https://coronavirus.al/statistika/
 Albany_County,_New_York	Albany County, New York	2020-08-02	2020-08-02T14:00:00.000Z	116	2521		76966	6	0		-6	-1	0.57	10.0		https://coronavirus.health.ny.gov/
-Albany_County,_Wyoming	Albany County, Wyoming	2020-08-02	2020-08-01T21:00:00.000Z	0	78	54							0.0	1.14	0.86	https://health.wyo.gov/
+Albany_County,_Wyoming	Albany County, Wyoming	2020-08-02	2020-08-02T21:00:00.000Z	0	78	54		2	0	0	2	0	0.0	1.14	0.86	https://health.wyo.gov/
 Albemarle_County,_Virginia	Albemarle County, Virginia	2020-08-02	2020-08-02T13:00:00.000Z	11	735			0	0		0	0	0.14	4.29		http://www.vdh.virginia.gov/
 Albergaria-a-Velha	Albergaria-a-Velha	2020-08-02	2020-08-01T23:00:00.000Z		91			0			0			0.0		https://covid19.min-saude.pt/
 Alberta	Alberta	2020-08-02	2020-08-02T15:00:00.000Z	196	10843	9261	571839	0	0	0	0	0	2.57	108.14	99.14	https://www.canada.ca/
@@ -881,7 +881,7 @@ Albufeira	Albufeira	2020-08-02	2020-08-01T23:00:00.000Z		141			0			0			0.86		htt
 Alcanena	Alcanena	2020-08-02	2020-08-01T23:00:00.000Z		18			0			0			0.0		https://covid19.min-saude.pt/
 Alcochete	Alcochete	2020-08-02	2020-08-01T23:00:00.000Z		34			0			0			0.14		https://covid19.min-saude.pt/
 Alcona_County,_Michigan	Alcona County, Michigan	2020-08-02	2020-08-02T16:00:00.000Z	1	28			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
-Alcorn_County,_Mississippi	Alcorn County, Mississippi	2020-08-02	2020-08-01T05:00:00.000Z	4	349								0.14	10.71		https://msdh.ms.gov/
+Alcorn_County,_Mississippi	Alcorn County, Mississippi	2020-08-02	2020-08-02T05:00:00.000Z	4	354			5	0		-9	-1	0.14	11.43		https://msdh.ms.gov/
 Alenquer,_Portugal	Alenquer, Portugal	2020-08-02	2020-08-01T23:00:00.000Z		221			0			0			0.86		https://covid19.min-saude.pt/
 Aleutians_East_Borough,_Alaska	Aleutians East Borough, Alaska	2020-08-02			1									0.0		http://www.dhss.alaska.gov/
 Aleutians_West_Census_Area,_Alaska	Aleutians West Census Area, Alaska	2020-08-02			5									0.29		http://www.dhss.alaska.gov/
@@ -891,7 +891,7 @@ Alexandria,_Virginia	Alexandria, Virginia	2020-08-02	2020-08-02T13:00:00.000Z	58
 Alfalfa_County,_Oklahoma	Alfalfa County, Oklahoma	2020-08-02		0	3	1							0.0	0.29	0.0	https://coronavirus.health.ok.gov/
 Alford,_Massachusetts	Alford, Massachusetts	2020-08-02	2020-08-01T20:00:00.000Z		3		32							0.0		https://www.mass.gov/
 Alger_County,_Michigan	Alger County, Michigan	2020-08-02	2020-08-02T16:00:00.000Z	0	8			0	0	0	0	0	0.0	0.43		https://www.michigan.gov/
-Algeria	Algeria	2020-08-02	2020-08-01T00:00:00.000Z	1223	30950	20988		556	13		0	0	9.71	513.29	359.57	http://covid19.sante.gov.dz/
+Algeria	Algeria	2020-08-02	2020-08-02T00:00:00.000Z	1231	31465	21419		515	8	431	-41	-5	10.86	586.86	421.14	http://covid19.sante.gov.dz/
 Alhambra,_California	Alhambra, California	2020-08-02	2020-08-01T03:00:00.000Z	17	921								0.43	15.57		http://publichealth.lacounty.gov/
 Allamakee_County,_Iowa	Allamakee County, Iowa	2020-08-02	2020-08-02T00:00:00.000Z	4	149	132	1980	0	0	0	-2	0	0.0	0.71	1.43	https://idph.iowa.gov
 Allegan_County,_Michigan	Allegan County, Michigan	2020-08-02	2020-08-02T16:00:00.000Z	7	507			9	0	0	6	0	0.0	5.29		https://www.michigan.gov/
@@ -919,7 +919,7 @@ Amador_County,_California	Amador County, California	2020-08-02	2020-08-01T07:00:
 Amadora	Amadora	2020-08-02	2020-08-01T23:00:00.000Z		2185			0			0			13.57		https://covid19.min-saude.pt/
 Amarante,_Portugal	Amarante, Portugal	2020-08-02	2020-08-01T23:00:00.000Z		103			0			0			0.0		https://covid19.min-saude.pt/
 Amares	Amares	2020-08-02	2020-08-01T23:00:00.000Z		83			0			0			0.14		https://covid19.min-saude.pt/
-Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-08-02	2020-08-01T22:00:00.000Z	3278	101777								8.71	759.14		https://covid.saude.gov.br/
+Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-08-02	2020-08-02T22:00:00.000Z	3278	101777			0	0		-837	-10	8.71	759.14		https://covid.saude.gov.br/
 Amelia_County,_Virginia	Amelia County, Virginia	2020-08-02	2020-08-02T13:00:00.000Z	1	72			0	0		0	0	0.0	0.86		http://www.vdh.virginia.gov/
 Amesbury,_Massachusetts	Amesbury, Massachusetts	2020-08-02	2020-08-01T20:00:00.000Z		191		3124							0.29		https://www.mass.gov/
 Amherst_County,_Virginia	Amherst County, Virginia	2020-08-02	2020-08-02T13:00:00.000Z	0	105			0	0		0	0	0.0	3.43		http://www.vdh.virginia.gov/
