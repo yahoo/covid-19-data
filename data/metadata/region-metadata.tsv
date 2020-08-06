@@ -3666,7 +3666,7 @@ Homewood,_Illinois	CityTown	2423808	Homewood, Illinois	Homewood,_Illinois				-87
 Hominy,_Oklahoma	CountyAdminArea|CityTown	2423833	Hominy, Oklahoma	Hominy,_Oklahoma				-96.3934	36.41447	3667	Osage_County,_Oklahoma
 Honduras	Country	23424841	Honduras	Honduras	HN			-86.2531	14.50472	9587522	Earth
 Honea_Path,_South_Carolina	CityTown	2423859	Honea Path, South Carolina	Honea_Path,_South_Carolina				-82.39373	34.44783	3635	Anderson_County,_South_Carolina
-Hong_Kong	CityTown|Country	24865698	Hong Kong	Hong_Kong	HK			114.15872	22.4112	7249907	China
+Hong_Kong	CityTown|Country	24865698	Hong Kong	Hong_Kong	HK			114.15872	22.4112	7500700	China
 Honolulu_County,_Hawaii	CountyAdminArea|CityTown	12588030	Honolulu County, Hawaii	Honolulu_County,_Hawaii			15003	-157.96478	21.4836	974563	Hawaii
 Hood_County,_Texas	CountyAdminArea	12590117	Hood County, Texas	Hood_County,_Texas			48221	-97.84205	32.39788	61643	Texas
 Hood_River_County,_Oregon	CountyAdminArea	12589705	Hood River County, Oregon	Hood_River_County,_Oregon			41027	-121.68137	45.49202	23382	Oregon
@@ -5947,7 +5947,7 @@ Sandwich,_Massachusetts	CityTown		Sandwich, Massachusetts	Sandwich,_Massachusett
 Sandy_Springs,_South_Carolina	CityTown	2488708	Sandy Springs, South Carolina	Sandy_Springs,_South_Carolina				-82.7509	34.59666		Anderson_County,_South_Carolina
 Sangamon_County,_Illinois	CountyAdminArea	12588160	Sangamon County, Illinois	Sangamon_County,_Illinois			17167	-89.60594	39.74942	194672	Illinois
 Sanilac_County,_Michigan	CountyAdminArea	12588787	Sanilac County, Michigan	Sanilac_County,_Michigan			26151	-82.81177	43.42226	44547	Michigan
-Sankt_P%C3%B6lten	CityTown	543662	Sankt Pölten	Sankt_P%C3%B6lten				15.62409	48.20763	51850	Lower_Austria
+Sankt_P%C3%B6lten	CountyAdminArea|CityTown	543662	Sankt Pölten	Sankt_P%C3%B6lten				15.62409	48.20763	51850	Lower_Austria
 Sanpete_County,_Utah	CountyAdminArea	12590280	Sanpete County, Utah	Sanpete_County,_Utah			49039	-111.63163	39.4226	30939	Utah
 Santa_Ana,_California	CountyAdminArea|CityTown	2488802	Santa Ana, California	Santa_Ana,_California				-117.88207	33.73674	339555	Orange_County,_California
 Santa_Barbara_County,_California	CountyAdminArea	12587711	Santa Barbara County, California	Santa_Barbara_County,_California			06083	-120.05603	34.74365	446499	California
@@ -5975,7 +5975,7 @@ Sarasota_County,_Florida	CountyAdminArea	12587858	Sarasota County, Florida	Saras
 Saratoga_County,_New_York	CountyAdminArea	12589356	Saratoga County, New York	Saratoga_County,_New_York			36091	-73.86549	43.08653	229863	New_York_(state)
 Saratoga,_California	CountyAdminArea|CityTown	2489047	Saratoga, California	Saratoga,_California				-122.01401	37.27105	30318	Santa_Clara_County,_California
 Saratov_Oblast	CountyAdminArea|StateAdminArea	12599251	Saratov Oblast	Saratov_Oblast				45.9945	51.5246		Russia
-Sardinia	StateAdminArea|Island	7153343	Sardinia	Sardinia				8.97982	40.0616	1651793	Italy
+Sardinia	CountyAdminArea|StateAdminArea|Island	7153343	Sardinia	Sardinia				8.97982	40.0616	1651793	Italy
 Sargent_County,_North_Dakota	CountyAdminArea	12589514	Sargent County, North Dakota	Sargent_County,_North_Dakota			38081	-97.61807	46.1088	4366	North_Dakota
 Sarpy_County,_Nebraska	CountyAdminArea	12589214	Sarpy County, Nebraska	Sarpy_County,_Nebraska			31153	-96.091	41.09262	187196	Nebraska
 Sasakwa,_Oklahoma	CityTown	2489158	Sasakwa, Oklahoma	Sasakwa,_Oklahoma				-96.52538	34.94683	150	Seminole_County,_Oklahoma
@@ -6046,7 +6046,7 @@ Seminole,_Oklahoma	CountyAdminArea|CityTown	2490761	Seminole, Oklahoma	Seminole,
 Seneca_County,_New_York	CountyAdminArea	12589360	Seneca County, New York	Seneca_County,_New_York			36099	-76.78366	42.78307	34016	New_York_(state)
 Seneca_County,_Ohio	CountyAdminArea	12589600	Seneca County, Ohio	Seneca_County,_Ohio			39147	-83.12541	41.1244	58683	Ohio
 Seneca,_South_Carolina	CountyAdminArea|CityTown	2490811	Seneca, South Carolina	Seneca,_South_Carolina				-82.95941	34.68241	8105	Oconee_County,_South_Carolina
-Senegal	Country	23424943	Senegal	Senegal	SN			-14.44555	14.49945	15854360	Earth
+Senegal	CountyAdminArea|Country	23424943	Senegal	Senegal	SN			-14.44555	14.49945	15854360	Earth
 Sequatchie_County,_Tennessee	CountyAdminArea	12589988	Sequatchie County, Tennessee	Sequatchie_County,_Tennessee			47153	-85.41667	35.35735	15026	Tennessee
 Sequoyah_County,_Oklahoma	CountyAdminArea	12589682	Sequoyah County, Oklahoma	Sequoyah_County,_Oklahoma			40135	-94.58585	35.46488	41569	Oklahoma
 Serbia	Country	20069818	Serbia	Serbia	RS			20.91079	44.04981	6982604	Earth
@@ -6200,7 +6200,7 @@ Southampton_County,_Virginia	CountyAdminArea	12590422	Southampton County, Virgin
 Southampton,_Massachusetts	CountyAdminArea|CityTown	2496953	Southampton, Massachusetts	Southampton,_Massachusetts				-72.73862	42.23082	5792	Hampshire_County,_Massachusetts
 Southborough,_Massachusetts	CityTown	2496965	Southborough, Massachusetts	Southborough,_Massachusetts				-71.52977	42.30104	9767	Worcester_County,_Massachusetts
 Southbridge,_Massachusetts	CountyAdminArea|CityTown	2496968	Southbridge, Massachusetts	Southbridge,_Massachusetts				-72.0344	42.074	16719	Worcester_County,_Massachusetts
-Southeast_Fairbanks_Census_Area,_Alaska	CountyAdminArea	12587575	Southeast Fairbanks Census Area, Alaska	Southeast_Fairbanks_Census_Area,_Alaska				-144.00264	63.87055	6893	Alaska
+Southeast_Fairbanks_Census_Area,_Alaska	CountyAdminArea	12587575	Southeast Fairbanks Census Area, Alaska	Southeast_Fairbanks_Census_Area,_Alaska			02240	-144.00264	63.87055	6893	Alaska
 Southend-on-Sea	CityTown	35375	Southend-on-Sea	Southend-on-Sea				0.70514	51.5404	158517	Essex
 Southwick,_Massachusetts	CityTown	2497196	Southwick, Massachusetts	Southwick,_Massachusetts				-72.77851	42.05448	9502	Hampden_County,_Massachusetts
 Spain	CountyAdminArea|Country	23424950	Spain	Spain	ES			-2.98831	39.89489	46796540	Earth
@@ -6223,9 +6223,9 @@ Springfield,_Massachusetts	CountyAdminArea|CityTown	2498304	Springfield, Massach
 Springfield,_South_Carolina	CityTown	2498292	Springfield, South Carolina	Springfield,_South_Carolina				-81.27952	33.49626	524	Orangeburg_County,_South_Carolina
 Sri_Lanka	Country|Island	23424778	Sri Lanka	Sri_Lanka	LK			80.78971	7.87395	21670000	Earth
 St._Anne,_Illinois	CityTown	2486610	St. Anne, Illinois	St._Anne,_Illinois				-87.72309	41.02123	1257	Kankakee_County,_Illinois
-St._Bernard_Parish,_Louisiana	CountyAdminArea	12588639	St. Bernard Parish, Louisiana	St._Bernard_Parish,_Louisiana				-89.64858	29.85093	67229	Louisiana
+St._Bernard_Parish,_Louisiana	CountyAdminArea	12588639	St. Bernard Parish, Louisiana	St._Bernard_Parish,_Louisiana			22087	-89.64858	29.85093	67229	Louisiana
 St._Charles_County,_Missouri	CountyAdminArea	12589063	St. Charles County, Missouri	St._Charles_County,_Missouri			29183	-90.53525	38.75104	402022	Missouri
-St._Charles_Parish,_Louisiana	CountyAdminArea	12588640	St. Charles Parish, Louisiana	St._Charles_Parish,_Louisiana				-90.35865	29.88653	53100	Louisiana
+St._Charles_Parish,_Louisiana	CountyAdminArea	12588640	St. Charles Parish, Louisiana	St._Charles_Parish,_Louisiana			22089	-90.35865	29.88653	53100	Louisiana
 St._Charles,_Illinois	CountyAdminArea|CityTown	2486658	St. Charles, Illinois	St._Charles,_Illinois				-88.3111	41.92017	32974	Kane_County,_Illinois
 St._Clair_County,_Alabama	CountyAdminArea	12587545	St. Clair County, Alabama	St._Clair_County,_Alabama			01115	-86.31076	33.69021	89512	Alabama
 St._Clair_County,_Illinois	CountyAdminArea	12588164	St. Clair County, Illinois	St._Clair_County,_Illinois			17163	-89.98359	38.43988	259686	Illinois
@@ -6235,24 +6235,24 @@ St._Croix_County,_Wisconsin	CountyAdminArea	12590593	St. Croix County, Wisconsin
 St._Francis_County,_Arkansas	CountyAdminArea	12587662	St. Francis County, Arkansas	St._Francis_County,_Arkansas			05123	-90.77645	35.00811	29329	Arkansas
 St._Francois_County,_Missouri	CountyAdminArea	12589065	St. Francois County, Missouri	St._Francois_County,_Missouri			29187	-90.54716	37.87317	67215	Missouri
 St._George,_South_Carolina	CityTown	2486787	St. George, South Carolina	St._George,_South_Carolina				-80.58069	33.18661	2104	Dorchester_County,_South_Carolina
-St._Helena_Parish,_Louisiana	CountyAdminArea	12588641	St. Helena Parish, Louisiana	St._Helena_Parish,_Louisiana				-90.73887	30.82454	10525	Louisiana
-St._James_Parish,_Louisiana	CountyAdminArea	12588642	St. James Parish, Louisiana	St._James_Parish,_Louisiana				-90.80274	30.02774	21216	Louisiana
-St._John_the_Baptist_Parish,_Louisiana	CountyAdminArea	12588643	St. John the Baptist Parish, Louisiana	St._John_the_Baptist_Parish,_Louisiana				-90.49515	30.0912	43044	Louisiana
+St._Helena_Parish,_Louisiana	CountyAdminArea	12588641	St. Helena Parish, Louisiana	St._Helena_Parish,_Louisiana			22091	-90.73887	30.82454	10525	Louisiana
+St._James_Parish,_Louisiana	CountyAdminArea	12588642	St. James Parish, Louisiana	St._James_Parish,_Louisiana			22093	-90.80274	30.02774	21216	Louisiana
+St._John_the_Baptist_Parish,_Louisiana	CountyAdminArea	12588643	St. John the Baptist Parish, Louisiana	St._John_the_Baptist_Parish,_Louisiana			22095	-90.49515	30.0912	43044	Louisiana
 St._Johns_County,_Florida	CountyAdminArea|CityTown	12587860	St. Johns County, Florida	St._Johns_County,_Florida			12109	-81.46029	29.93774	264672	Florida
 St._Joseph_County,_Indiana	CountyAdminArea	12588253	St. Joseph County, Indiana	St._Joseph_County,_Indiana			18141	-86.29307	41.59672	271826	Indiana
 St._Joseph_County,_Michigan	CountyAdminArea	12588791	St. Joseph County, Michigan	St._Joseph_County,_Michigan			26149	-85.54215	41.91526	62422	Michigan
-St._Landry_Parish,_Louisiana	CountyAdminArea	12588644	St. Landry Parish, Louisiana	St._Landry_Parish,_Louisiana				-92.08591	30.57439	87700	Louisiana
+St._Landry_Parish,_Louisiana	CountyAdminArea	12588644	St. Landry Parish, Louisiana	St._Landry_Parish,_Louisiana			22097	-92.08591	30.57439	87700	Louisiana
 St._Lawrence_County,_New_York	CountyAdminArea	12589361	St. Lawrence County, New York	St._Lawrence_County,_New_York			36089	-75.18268	44.52708	111931	New_York_(state)
 St._Louis	CityTown|CountyAdminArea	2486982	St. Louis	St._Louis			29510	-90.24353	38.6531	350759	Missouri
 St._Louis_County,_Minnesota	CountyAdminArea	12588868	St. Louis County, Minnesota	St._Louis_County,_Minnesota			27137	-92.44287	47.6407	200528	Minnesota
 St._Louis_County,_Missouri	CountyAdminArea	12589066	St. Louis County, Missouri	St._Louis_County,_Missouri			29189	-90.4269	38.63862	994205	Missouri
 St._Lucie_County,_Florida	CountyAdminArea	12587861	St. Lucie County, Florida	St._Lucie_County,_Florida			12111	-80.43967	27.38217	328297	Florida
-St._Martin_Parish,_Louisiana	CountyAdminArea	12588645	St. Martin Parish, Louisiana	St._Martin_Parish,_Louisiana				-91.67875	30.26549	53431	Louisiana
-St._Mary_Parish,_Louisiana	CountyAdminArea	12588646	St. Mary Parish, Louisiana	St._Mary_Parish,_Louisiana				-91.48175	29.71474	53500	Louisiana
+St._Martin_Parish,_Louisiana	CountyAdminArea	12588645	St. Martin Parish, Louisiana	St._Martin_Parish,_Louisiana			22099	-91.67875	30.26549	53431	Louisiana
+St._Mary_Parish,_Louisiana	CountyAdminArea	12588646	St. Mary Parish, Louisiana	St._Mary_Parish,_Louisiana			22101	-91.48175	29.71474	53500	Louisiana
 St._Mary%27s_County,_Maryland	CountyAdminArea	12588695	St. Mary's County, Maryland	St._Mary%27s_County,_Maryland			24037	-76.59415	38.27518	86211	Maryland
 St._Matthews,_South_Carolina	CityTown	2487078	St. Matthews, South Carolina	St._Matthews,_South_Carolina				-80.7775	33.66422	2107	Calhoun_County,_South_Carolina
 St._Stephen,_South_Carolina	CityTown	2487227	St. Stephen, South Carolina	St._Stephen,_South_Carolina				-79.92611	33.4046	1776	Berkeley_County,_South_Carolina
-St._Tammany_Parish,_Louisiana	CountyAdminArea	12588647	St. Tammany Parish, Louisiana	St._Tammany_Parish,_Louisiana				-89.89278	30.43108	260419	Louisiana
+St._Tammany_Parish,_Louisiana	CountyAdminArea	12588647	St. Tammany Parish, Louisiana	St._Tammany_Parish,_Louisiana			22103	-89.89278	30.43108	260419	Louisiana
 Stafford_County,_Kansas	CountyAdminArea	12588463	Stafford County, Kansas	Stafford_County,_Kansas			20185	-98.74734	38.0431	4789	Kansas
 Stafford_County,_Virginia	CountyAdminArea	12590424	Stafford County, Virginia	Stafford_County,_Virginia			51179	-77.4607	38.41741	92446	Virginia
 Staffordshire	CountyAdminArea	12602189	Staffordshire	Staffordshire				-2.02817	52.82476	806737	West_Midlands_(region)
@@ -6270,9 +6270,9 @@ Starr_County,_Texas	CountyAdminArea	12590220	Starr County, Texas	Starr_County,_T
 Starr,_South_Carolina	CityTown	2499222	Starr, South Carolina	Starr,_South_Carolina				-82.6959	34.37691	195	Anderson_County,_South_Carolina
 Startex,_South_Carolina	CountyAdminArea|CityTown	2499237	Startex, South Carolina	Startex,_South_Carolina				-82.09424	34.93079	859	Spartanburg_County,_South_Carolina
 State_of_Palestine	Country		State of Palestine	State_of_Palestine				35.2	31.883333	5051953	Earth
-Staten_Island	CountyAdminArea|CityTown	12589354	Staten Island	Staten_Island				-74.154	40.5725	476143	New_York_City
+Staten_Island	CountyAdminArea|CityTown	12589354	Staten Island	Staten_Island			36085	-74.154	40.5725	476143	New_York_City
 Staunton,_Illinois	CountyAdminArea|CityTown	2499332	Staunton, Illinois	Staunton,_Illinois				-89.78906	39.01232	5143	Macoupin_County,_Illinois
-Staunton,_Virginia	CountyAdminArea|CityTown	2499333	Staunton, Virginia	Staunton,_Virginia				-79.07597	38.15928	23853	Virginia
+Staunton,_Virginia	CountyAdminArea|CityTown	2499333	Staunton, Virginia	Staunton,_Virginia			51790	-79.07597	38.15928	23853	Virginia
 Stavropol_Krai	CountyAdminArea|StateAdminArea	2346887	Stavropol Krai	Stavropol_Krai				43.282	44.9481	2735139	Russia
 Ste._Genevieve_County,_Missouri	CountyAdminArea	12589068	Ste. Genevieve County, Missouri	Ste._Genevieve_County,_Missouri			29186	-90.1917	37.89766	17894	Missouri
 Stearns_County,_Minnesota	CountyAdminArea	12588869	Stearns County, Minnesota	Stearns_County,_Minnesota			27145	-94.59359	45.52884	161075	Minnesota
@@ -6328,7 +6328,7 @@ Sudbury,_Massachusetts	CityTown	2501230	Sudbury, Massachusetts	Sudbury,_Massachu
 Suffolk	CountyAdminArea	12602142	Suffolk	Suffolk				1.05448	52.24116	679900	East_of_England
 Suffolk_County,_Massachusetts	CountyAdminArea	12588712	Suffolk County, Massachusetts	Suffolk_County,_Massachusetts			25025	-70.88147	42.33892	803907	Massachusetts
 Suffolk_County,_New_York	CountyAdminArea	12589363	Suffolk County, New York	Suffolk_County,_New_York			36103	-72.67677	40.89117	1476601	New_York_(state)
-Suffolk,_Virginia	CountyAdminArea|CityTown	2501256	Suffolk, Virginia	Suffolk,_Virginia				-76.66747	36.73971	92108	Virginia
+Suffolk,_Virginia	CountyAdminArea|CityTown	2501256	Suffolk, Virginia	Suffolk,_Virginia			51800	-76.66747	36.73971	92108	Virginia
 Sugar_Grove,_Illinois	CityTown	2501288	Sugar Grove, Illinois	Sugar_Grove,_Illinois				-88.44536	41.77129	9453	Kane_County,_Illinois
 Sullivan_County,_Indiana	CountyAdminArea	12588256	Sullivan County, Indiana	Sullivan_County,_Indiana			18153	-87.44957	39.0805	21751	Indiana
 Sullivan_County,_Missouri	CountyAdminArea	12589071	Sullivan County, Missouri	Sullivan_County,_Missouri			29211	-93.11128	40.20978	7219	Missouri
@@ -6402,7 +6402,7 @@ Tameside	TertiaryAdminArea|CityTown	23415689	Tameside	Tameside				-2.09768	53.48
 Tamil_Nadu	StateAdminArea		Tamil Nadu	Tamil_Nadu				80.27	13.09	72147030	India
 Taney_County,_Missouri	CountyAdminArea	12589072	Taney County, Missouri	Taney_County,_Missouri			29213	-93.0404	36.65729	55928	Missouri
 Tanger-Tetouan-Al_Hoceima	StateAdminArea		Tanger-Tetouan-Al Hoceima	Tanger-Tetouan-Al_Hoceima				-5.25	35.16	3556729	Morocco
-Tangipahoa_Parish,_Louisiana	CountyAdminArea	12588648	Tangipahoa Parish, Louisiana	Tangipahoa_Parish,_Louisiana				-90.40528	30.64194	134758	Louisiana
+Tangipahoa_Parish,_Louisiana	CountyAdminArea	12588648	Tangipahoa Parish, Louisiana	Tangipahoa_Parish,_Louisiana			22105	-90.40528	30.64194	134758	Louisiana
 Tanzania	Country	23424973	Tanzania	Tanzania	TZ			34.88519	-6.36821	56318348	Earth
 Taos_County,_New_Mexico	CountyAdminArea	12589308	Taos County, New Mexico	Taos_County,_New_Mexico			35055	-105.62927	36.50443	32723	New_Mexico
 Taranaki	StateAdminArea	15021763	Taranaki	Taranaki				174.43193	-39.33384	110100	New_Zealand
@@ -6438,10 +6438,10 @@ Temple_City,_California	CountyAdminArea|CityTown	2504668	Temple City, California
 Temple,_Oklahoma	CityTown	2504660	Temple, Oklahoma	Temple,_Oklahoma				-98.23538	34.27364	1146	Cotton_County,_Oklahoma
 Templeton,_Massachusetts	CityTown	2504687	Templeton, Massachusetts	Templeton,_Massachusetts				-72.037	42.5614	8013	Worcester_County,_Massachusetts
 Tennessee	StateAdminArea	2347601	Tennessee	Tennessee		US-TN		-86.34375	35.84337	6829174	United_States
-Tensas_Parish,_Louisiana	CountyAdminArea	12588649	Tensas Parish, Louisiana	Tensas_Parish,_Louisiana				-91.30483	31.99062	6618	Louisiana
+Tensas_Parish,_Louisiana	CountyAdminArea	12588649	Tensas Parish, Louisiana	Tensas_Parish,_Louisiana			22107	-91.30483	31.99062	6618	Louisiana
 Terlton,_Oklahoma	CityTown	2504816	Terlton, Oklahoma	Terlton,_Oklahoma				-96.49166	36.18771	84	Pawnee_County,_Oklahoma
 Terras_de_Bouro	CountyAdminArea|CityTown	749319	Terras de Bouro	Terras_de_Bouro				-8.30741	41.71789	9404	Portugal
-Terrebonne_Parish,_Louisiana	CountyAdminArea	12588650	Terrebonne Parish, Louisiana	Terrebonne_Parish,_Louisiana				-90.8649	29.42116	110461	Louisiana
+Terrebonne_Parish,_Louisiana	CountyAdminArea	12588650	Terrebonne Parish, Louisiana	Terrebonne_Parish,_Louisiana			22109	-90.8649	29.42116	110461	Louisiana
 Terrell_County,_Georgia	CountyAdminArea	12588004	Terrell County, Georgia	Terrell_County,_Georgia			13273	-84.43075	31.79371	8531	Georgia_(U.S._state)
 Terrell_County,_Texas	CountyAdminArea	12590228	Terrell County, Texas	Terrell_County,_Texas			48443	-102.10615	30.21884	776	Texas
 Terry_County,_Texas	CountyAdminArea	12590229	Terry County, Texas	Terry_County,_Texas			48445	-102.33496	33.17389	12761	Texas
@@ -6458,8 +6458,8 @@ Th%C3%A1i_Nguy%C3%AAn_Province	StateAdminArea		Thái Nguyên Province	Th%C3%A1i_
 Thailand	Country	23424960	Thailand	Thailand	TH			101.4925	13.03659	69428524	Earth
 Thanh_H%C3%B3a_Province	StateAdminArea		Thanh Hóa Province	Thanh_H%C3%B3a_Province				105.5	20.0	3640128	Vietnam
 Thayer_County,_Nebraska	CountyAdminArea	12589222	Thayer County, Nebraska	Thayer_County,_Nebraska			31169	-97.59506	40.1763	6055	Nebraska
-The_Bahamas	Country|Island	23424758	The Bahamas	The_Bahamas	BS			-78.08002	24.74142	385640	Earth
-The_Bronx	CountyAdminArea|CityTown	12589314	The Bronx	The_Bronx				-73.85678	40.85715	1418207	New_York_City
+The_Bahamas	CountyAdminArea|Country|Island	23424758	The Bahamas	The_Bahamas	BS			-78.08002	24.74142	385640	Earth
+The_Bronx	CountyAdminArea|CityTown	12589314	The Bronx	The_Bronx			36005	-73.85678	40.85715	1418207	New_York_City
 The_Gambia	Country	23424821	The Gambia	The_Gambia	GM			-15.31143	13.44541	2280102	Earth
 Thomas_County,_Georgia	CountyAdminArea	12588005	Thomas County, Georgia	Thomas_County,_Georgia			13275	-83.92769	30.86823	44451	Georgia_(U.S._state)
 Thomas_County,_Kansas	CountyAdminArea	12588467	Thomas County, Kansas	Thomas_County,_Kansas			20193	-101.05582	39.3507	8180	Kansas
@@ -6557,12 +6557,12 @@ Tuolumne_County,_California	CountyAdminArea	12587724	Tuolumne County, California
 Turbeville,_South_Carolina	CityTown	2508671	Turbeville, South Carolina	Turbeville,_South_Carolina				-80.01617	33.88962	766	Clarendon_County,_South_Carolina
 Turkey	Country	23424969	Turkey	Turkey	TR			35.4317	38.95774	82319724	Earth
 Turkistan_Region	StateAdminArea	2345982	Turkistan Region	Turkistan_Region				68.47356	43.34304	2685009	Hotel_Kazakhstan
-Turks_and_Caicos_Islands	Country|Island	23424962	Turks and Caicos Islands	Turks_and_Caicos_Islands	TC			-71.74512	21.79658	37665	Earth
+Turks_and_Caicos_Islands	CountyAdminArea|Country|Island	23424962	Turks and Caicos Islands	Turks_and_Caicos_Islands	TC			-71.74512	21.79658	37665	Earth
 Turner_County,_Georgia	CountyAdminArea	12588011	Turner County, Georgia	Turner_County,_Georgia			13287	-83.6274	31.70975	9504	Georgia_(U.S._state)
 Turner_County,_South_Dakota	CountyAdminArea	12589907	Turner County, South Dakota	Turner_County,_South_Dakota			46125	-97.16252	43.29169	8849	South_Dakota
 Turpin,_Oklahoma	CityTown	2508875	Turpin, Oklahoma	Turpin,_Oklahoma				-100.8825	36.87045	467	Beaver_County,_Oklahoma
 Tuscaloosa_County,_Alabama	CountyAdminArea	12587549	Tuscaloosa County, Alabama	Tuscaloosa_County,_Alabama			01125	-87.45317	33.30667	209355	Alabama
-Tuscany	StateAdminArea	7153345	Tuscany	Tuscany				11.0293	43.4168	3742437	Italy
+Tuscany	CountyAdminArea|StateAdminArea	7153345	Tuscany	Tuscany				11.0293	43.4168	3742437	Italy
 Tuscarawas_County,_Ohio	CountyAdminArea	12589605	Tuscarawas County, Ohio	Tuscarawas_County,_Ohio			39157	-81.48847	40.44051	91987	Ohio
 Tuscola_County,_Michigan	CountyAdminArea	12588792	Tuscola County, Michigan	Tuscola_County,_Michigan			26157	-83.40181	43.4751	58266	Michigan
 Tuscola,_Illinois	CountyAdminArea|CityTown	2508931	Tuscola, Illinois	Tuscola,_Illinois				-88.27931	39.80081	4547	Douglas_County,_Illinois
@@ -6609,7 +6609,7 @@ Union_County,_Pennsylvania	CountyAdminArea	12589787	Union County, Pennsylvania	U
 Union_County,_South_Carolina	CountyAdminArea	12589843	Union County, South Carolina	Union_County,_South_Carolina			45087	-81.63454	34.67889	29881	South_Carolina
 Union_County,_South_Dakota	CountyAdminArea	12589908	Union County, South Dakota	Union_County,_South_Dakota			46127	-96.62541	42.78175	15932	South_Dakota
 Union_County,_Tennessee	CountyAdminArea	12589998	Union County, Tennessee	Union_County,_Tennessee			47173	-83.83867	36.30014	19972	Tennessee
-Union_Parish,_Louisiana	CountyAdminArea	12588651	Union Parish, Louisiana	Union_Parish,_Louisiana				-92.39294	32.79764	22803	Louisiana
+Union_Parish,_Louisiana	CountyAdminArea	12588651	Union Parish, Louisiana	Union_Parish,_Louisiana			22111	-92.39294	32.79764	22803	Louisiana
 Union,_South_Carolina	CountyAdminArea|CityTown	2509732	Union, South Carolina	Union,_South_Carolina				-81.62516	34.72316	8793	Union_County,_South_Carolina
 United_Arab_Emirates	Country	23424738	United Arab Emirates	United_Arab_Emirates	AE			53.9769	24.01438	9630959	Earth
 United_Kingdom	Country	23424975	United Kingdom	United_Kingdom	GB			-2.23001	54.31407	66460344	Earth
@@ -6634,7 +6634,7 @@ Uzbekistan	Country	23424980	Uzbekistan	Uzbekistan	UZ			64.56445	41.39476	3295540
 V%C3%B6cklabruck_District	CountyAdminArea		Vöcklabruck District	V%C3%B6cklabruck_District				13.575	48.009	126599	Austria
 Vagos	CityTown	749716	Vagos	Vagos				-8.68172	40.55521	18896	Portugal
 Val_Verde_County,_Texas	CountyAdminArea	12590239	Val Verde County, Texas	Val_Verde_County,_Texas			48465	-101.22993	29.76348	49025	Texas
-Valdez%E2%80%93Cordova_Census_Area,_Alaska	CountyAdminArea	12587576	Valdez–Cordova Census Area, Alaska	Valdez%E2%80%93Cordova_Census_Area,_Alaska				-144.99101	61.47964	9202	Alaska
+Valdez%E2%80%93Cordova_Census_Area,_Alaska	CountyAdminArea	12587576	Valdez–Cordova Census Area, Alaska	Valdez%E2%80%93Cordova_Census_Area,_Alaska			02261	-144.99101	61.47964	9202	Alaska
 Vale_de_Cambra	CityTown	749917	Vale de Cambra	Vale_de_Cambra				-8.41101	40.85053	24403	Portugal
 Valen%C3%A7a,_Portugal	CityTown	750215	Valença, Portugal	Valen%C3%A7a,_Portugal				-8.64099	42.02702	14792	Portugal
 Valencia_County,_New_Mexico	CountyAdminArea	12589311	Valencia County, New Mexico	Valencia_County,_New_Mexico			35061	-106.80806	34.69726	76688	New_Mexico
@@ -6669,13 +6669,13 @@ Venezuela	Country	23424982	Venezuela	Venezuela	VE			-66.58904	6.47279	28870195	E
 Venice,_Illinois	CountyAdminArea|CityTown	2511602	Venice, Illinois	Venice,_Illinois				-90.17041	38.67123	2528	Madison_County,_Illinois
 Ventura_County,_California	CountyAdminArea	12587725	Ventura County, California	Ventura_County,_California			06111	-119.05505	34.47326	846006	California
 Vermilion_County,_Illinois	CountyAdminArea	12588169	Vermilion County, Illinois	Vermilion_County,_Illinois			17183	-87.73424	40.17985	83919	Illinois
-Vermilion_Parish,_Louisiana	CountyAdminArea	12588652	Vermilion Parish, Louisiana	Vermilion_Parish,_Louisiana				-92.35203	29.84035	59511	Louisiana
+Vermilion_Parish,_Louisiana	CountyAdminArea	12588652	Vermilion Parish, Louisiana	Vermilion_Parish,_Louisiana			22113	-92.35203	29.84035	59511	Louisiana
 Vermillion_County,_Indiana	CountyAdminArea	12588262	Vermillion County, Indiana	Vermillion_County,_Indiana			18165	-87.44357	39.87779	16788	Indiana
 Vermont	StateAdminArea	2347604	Vermont	Vermont		US-VT		-72.45165	43.87165	623989	United_States
 Vernon_County,_Missouri	CountyAdminArea	12589074	Vernon County, Missouri	Vernon_County,_Missouri			29217	-94.33821	37.84987	20563	Missouri
 Vernon_County,_Wisconsin	CountyAdminArea	12590596	Vernon County, Wisconsin	Vernon_County,_Wisconsin			55123	-90.79211	43.57687	30822	Wisconsin
 Vernon_Hills,_Illinois	CityTown	2511842	Vernon Hills, Illinois	Vernon_Hills,_Illinois				-87.96072	42.23432	25113	Lake_County,_Illinois
-Vernon_Parish,_Louisiana	CountyAdminArea	12588653	Vernon Parish, Louisiana	Vernon_Parish,_Louisiana				-93.20108	31.11203	52531	Louisiana
+Vernon_Parish,_Louisiana	CountyAdminArea	12588653	Vernon Parish, Louisiana	Vernon_Parish,_Louisiana			22115	-93.20108	31.11203	52531	Louisiana
 Vernon,_California	CountyAdminArea|CityTown	2511829	Vernon, California	Vernon,_California				-118.23025	34.00518	91	Los_Angeles_County,_California
 Vestfold_og_Telemark	CountyAdminArea|StateAdminArea		Vestfold og Telemark	Vestfold_og_Telemark				8.882	59.354	415777	Norway
 Vestland	CountyAdminArea		Vestland	Vestland				6.141	60.813	636533	Norway
@@ -6711,7 +6711,7 @@ Vinhais	CountyAdminArea|CityTown	751094	Vinhais	Vinhais				-7.0018	41.83531	1264
 Vinita,_Oklahoma	CountyAdminArea|CityTown	2512517	Vinita, Oklahoma	Vinita,_Oklahoma				-95.17617	36.63658	6472	Craig_County,_Oklahoma
 Vinton_County,_Ohio	CountyAdminArea	12589608	Vinton County, Ohio	Vinton_County,_Ohio			39163	-82.5115	39.21194	13085	Ohio
 Virginia	StateAdminArea	2347605	Virginia	Virginia		US-VA		-78.83044	37.51638	8535519	United_States
-Virginia_Beach,_Virginia	CountyAdminArea|CityTown	2512636	Virginia Beach, Virginia	Virginia_Beach,_Virginia				-76.05004	36.77272	449974	Virginia
+Virginia_Beach,_Virginia	CountyAdminArea|CityTown	2512636	Virginia Beach, Virginia	Virginia_Beach,_Virginia			51810	-76.05004	36.77272	449974	Virginia
 Viseu	CityTown	751115	Viseu	Viseu				-7.91447	40.65691	83025	Portugal
 Vizela	CountyAdminArea|CityTown	751135	Vizela	Vizela				-8.27598	41.3894		Portugal
 Vladimir_Oblast	CountyAdminArea|StateAdminArea	12599546	Vladimir Oblast	Vladimir_Oblast				40.3527	56.1199		Russia
@@ -6727,7 +6727,7 @@ Wabash_County,_Indiana	CountyAdminArea	12588264	Wabash County, Indiana	Wabash_Co
 Wabasha_County,_Minnesota	CountyAdminArea	12588875	Wabasha County, Minnesota	Wabasha_County,_Minnesota			27157	-92.20512	44.28105	21627	Minnesota
 Wabaunsee_County,_Kansas	CountyAdminArea	12588469	Wabaunsee County, Kansas	Wabaunsee_County,_Kansas			20197	-96.22395	38.97572	6931	Kansas
 Wadena_County,_Minnesota	CountyAdminArea	12588876	Wadena County, Minnesota	Wadena_County,_Minnesota			27159	-94.94607	46.5869	13713	Minnesota
-Wadmalaw_Island	CityTown|Island	2513024	Wadmalaw Island	Wadmalaw_Island				-80.19361	32.6136	2611	Charleston_County,_South_Carolina
+Wadmalaw_Island	CountyAdminArea|CityTown|Island	2513024	Wadmalaw Island	Wadmalaw_Island				-80.19361	32.6136	2611	Charleston_County,_South_Carolina
 Wadsworth,_Illinois	CityTown	2513027	Wadsworth, Illinois	Wadsworth,_Illinois				-87.90495	42.42868	3867	Lake_County,_Illinois
 Wagener,_South_Carolina	CityTown	2513045	Wagener, South Carolina	Wagener,_South_Carolina				-81.36308	33.65212	873	Aiken_County,_South_Carolina
 Wagoner_County,_Oklahoma	CountyAdminArea	12589687	Wagoner County, Oklahoma	Wagoner_County,_Oklahoma			40145	-95.48491	35.96454	81289	Oklahoma
@@ -6831,7 +6831,7 @@ Washington_County,_Utah	CountyAdminArea	12590287	Washington County, Utah	Washing
 Washington_County,_Vermont	CountyAdminArea	12590301	Washington County, Vermont	Washington_County,_Vermont			50023	-72.58511	44.25977	58409	Vermont
 Washington_County,_Virginia	CountyAdminArea	12590432	Washington County, Virginia	Washington_County,_Virginia			51191	-81.96874	36.76163	53740	Virginia
 Washington_County,_Wisconsin	CountyAdminArea	12590600	Washington County, Wisconsin	Washington_County,_Wisconsin			55131	-88.22968	43.36773	136034	Wisconsin
-Washington_Parish,_Louisiana	CountyAdminArea|CityTown	12588654	Washington Parish, Louisiana	Washington_Parish,_Louisiana				-90.03697	30.83516	46194	Louisiana
+Washington_Parish,_Louisiana	CountyAdminArea|CityTown	12588654	Washington Parish, Louisiana	Washington_Parish,_Louisiana			22117	-90.03697	30.83516	46194	Louisiana
 Washington,_D.C.	CityTown|StateAdminArea	2514815	Washington, D.C.	Washington,_D.C.				-77.01625	38.90476	705749	United_States
 Washington,_Massachusetts	CityTown	2514587	Washington, Massachusetts	Washington,_Massachusetts				-73.11634	42.36599	538	Berkshire_County,_Massachusetts
 Washington,_Oklahoma	CityTown	2514593	Washington, Oklahoma	Washington,_Oklahoma				-97.49279	35.05836	618	McClain_County,_Oklahoma
@@ -6867,7 +6867,7 @@ Wayne_County,_Tennessee	CountyAdminArea	12590002	Wayne County, Tennessee	Wayne_C
 Wayne_County,_Utah	CountyAdminArea	12590288	Wayne County, Utah	Wayne_County,_Utah			49055	-110.86714	38.33017	2711	Utah
 Wayne_County,_West_Virginia	CountyAdminArea	12590528	Wayne County, West Virginia	Wayne_County,_West_Virginia			54099	-82.41811	38.13208	42903	West_Virginia
 Wayne,_Oklahoma	CityTown	2515628	Wayne, Oklahoma	Wayne,_Oklahoma				-97.3168	34.91715	741	McClain_County,_Oklahoma
-Waynesboro,_Virginia	CountyAdminArea|CityTown	2515661	Waynesboro, Virginia	Waynesboro,_Virginia				-78.90117	38.07191	22630	Virginia
+Waynesboro,_Virginia	CountyAdminArea|CityTown	2515661	Waynesboro, Virginia	Waynesboro,_Virginia			51820	-78.90117	38.07191	22630	Virginia
 Weakley_County,_Tennessee	CountyAdminArea	12590003	Weakley County, Tennessee	Weakley_County,_Tennessee			47183	-88.73802	36.28238	34895	Tennessee
 Weatherford,_Oklahoma	CountyAdminArea|CityTown	2515724	Weatherford, Oklahoma	Weatherford,_Oklahoma				-98.70703	35.52608	10833	Custer_County,_Oklahoma
 Webb_County,_Texas	CountyAdminArea	12590246	Webb County, Texas	Webb_County,_Texas			48479	-99.50504	27.73206	276652	Texas
@@ -6880,7 +6880,7 @@ Webster_County,_Mississippi	CountyAdminArea	12588961	Webster County, Mississippi
 Webster_County,_Missouri	CountyAdminArea	12589078	Webster County, Missouri	Webster_County,_Missouri			29225	-92.8779	37.27721	39592	Missouri
 Webster_County,_Nebraska	CountyAdminArea	12589228	Webster County, Nebraska	Webster_County,_Nebraska			31181	-98.49998	40.17656	4061	Nebraska
 Webster_County,_West_Virginia	CountyAdminArea	12590529	Webster County, West Virginia	Webster_County,_West_Virginia			54101	-80.4308	38.48242	9719	West_Virginia
-Webster_Parish,_Louisiana	CountyAdminArea	12588655	Webster Parish, Louisiana	Webster_Parish,_Louisiana				-93.339	32.71426	41831	Louisiana
+Webster_Parish,_Louisiana	CountyAdminArea	12588655	Webster Parish, Louisiana	Webster_Parish,_Louisiana			22119	-93.339	32.71426	41831	Louisiana
 Webster,_Massachusetts	CityTown		Webster, Massachusetts	Webster,_Massachusetts				-71.880554	42.05	16767	
 Wedgefield,_South_Carolina	CityTown	2515931	Wedgefield, South Carolina	Wedgefield,_South_Carolina				-80.51577	33.88291	3376	Sumter_County,_South_Carolina
 Weiz_District	CountyAdminArea	12591735	Weiz District	Weiz_District				15.66671	47.29506	86133	Styria
@@ -6894,22 +6894,22 @@ Wellston,_Oklahoma	CityTown	2516348	Wellston, Oklahoma	Wellston,_Oklahoma				-97
 Wels	CityTown	547257	Wels	Wels				14.02216	48.15677	58639	Austria
 Wendell,_Massachusetts	CountyAdminArea|CityTown	2516425	Wendell, Massachusetts	Wendell,_Massachusetts				-72.3948	42.5482	848	Franklin_County,_Massachusetts
 Wenham,_Massachusetts	CityTown	2516443	Wenham, Massachusetts	Wenham,_Massachusetts				-70.88276	42.60084	4875	Essex_County,_Massachusetts
-West_Baton_Rouge_Parish,_Louisiana	CountyAdminArea	12588656	West Baton Rouge Parish, Louisiana	West_Baton_Rouge_Parish,_Louisiana				-91.31365	30.48983	26465	Louisiana
+West_Baton_Rouge_Parish,_Louisiana	CountyAdminArea	12588656	West Baton Rouge Parish, Louisiana	West_Baton_Rouge_Parish,_Louisiana			22121	-91.31365	30.48983	26465	Louisiana
 West_Bengal	StateAdminArea		West Bengal	West_Bengal				88.36667	22.566668	91347736	India
 West_Berkshire	CountyAdminArea		West Berkshire	West_Berkshire				-1.3235	51.4009		South_East_England
 West_Boylston,_Massachusetts	CityTown	2516722	West Boylston, Massachusetts	West_Boylston,_Massachusetts				-71.78458	42.36915	7669	Worcester_County,_Massachusetts
 West_Bridgewater,_Massachusetts	CityTown	2516735	West Bridgewater, Massachusetts	West_Bridgewater,_Massachusetts				-71.02664	42.02138	6916	Plymouth_County,_Massachusetts
 West_Brookfield,_Massachusetts	CityTown	2516749	West Brookfield, Massachusetts	West_Brookfield,_Massachusetts				-72.16006	42.2541	3701	Worcester_County,_Massachusetts
-West_Carroll_Parish,_Louisiana	CountyAdminArea	12588657	West Carroll Parish, Louisiana	West_Carroll_Parish,_Louisiana				-91.45043	32.79337	12314	Louisiana
+West_Carroll_Parish,_Louisiana	CountyAdminArea	12588657	West Carroll Parish, Louisiana	West_Carroll_Parish,_Louisiana			22123	-91.45043	32.79337	12314	Louisiana
 West_Chicago,_Illinois	CountyAdminArea|CityTown	2516820	West Chicago, Illinois	West_Chicago,_Illinois				-88.21972	41.8917	27086	DuPage_River
 West_Coast,_New_Zealand	StateAdminArea	15021752	West Coast, New Zealand	West_Coast,_New_Zealand				170.87167	-42.795	32900	New_Zealand
 West_Columbia,_South_Carolina	CountyAdminArea|CityTown	2516842	West Columbia, South Carolina	West_Columbia,_South_Carolina				-81.08447	33.9953	14988	Lexington_County,_South_Carolina
 West_Covina,_California	CountyAdminArea|CityTown	2516864	West Covina, California	West_Covina,_California				-117.91116	34.05554	106388	Los_Angeles_County,_California
-West_Feliciana_Parish,_Louisiana	CountyAdminArea	12588658	West Feliciana Parish, Louisiana	West_Feliciana_Parish,_Louisiana				-91.41999	30.82563	15568	Louisiana
+West_Feliciana_Parish,_Louisiana	CountyAdminArea	12588658	West Feliciana Parish, Louisiana	West_Feliciana_Parish,_Louisiana			22125	-91.41999	30.82563	15568	Louisiana
 West_Flanders	StateAdminArea	7153305	West Flanders	West_Flanders				3.0345	51.03774	1195796	Belgium
 West_Greenwich,_Rhode_Island	CityTown	23418006	West Greenwich, Rhode Island	West_Greenwich,_Rhode_Island				-71.66686	41.62911	6135	Kent_County,_Rhode_Island
 West_Hollywood,_California	CountyAdminArea|CityTown	2517213	West Hollywood, California	West_Hollywood,_California				-118.37194	34.08817	36102	Los_Angeles_County,_California
-West_Kazakhstan_Region	StateAdminArea	2345998	West Kazakhstan Region	West_Kazakhstan_Region				50.58383	49.96378	618261	Hotel_Kazakhstan
+West_Kazakhstan_Region	StateAdminArea	2345998	West Kazakhstan Region	West_Kazakhstan_Region				50.58383	49.96378	656844	Hotel_Kazakhstan
 West_Midlands_(region)	StateAdminArea		West Midlands (region)	West_Midlands_(region)				-2.29	52.47	5713000	England
 West_Newbury,_Massachusetts	CityTown	2517466	West Newbury, Massachusetts	West_Newbury,_Massachusetts				-70.96921	42.79393	4637	Essex_County,_Massachusetts
 West_Springfield,_Massachusetts	CountyAdminArea|CityTown	2517770	West Springfield, Massachusetts	West_Springfield,_Massachusetts				-72.6502	42.12535	28391	Hampden_County,_Massachusetts
@@ -6924,7 +6924,7 @@ Westchester_County,_New_York	CountyAdminArea	12589371	Westchester County, New Yo
 Westchester,_Illinois	CityTown	2518052	Westchester, Illinois	Westchester,_Illinois				-87.88028	41.8633	16824	Cook_County,_Illinois
 Westerly,_Rhode_Island	CityTown	91801737	Westerly, Rhode Island	Westerly,_Rhode_Island				-71.79483	41.31387	22787	Washington_County,_Rhode_Island
 Western_Australia	StateAdminArea	2344706	Western Australia	Western_Australia				122.1817	-25.4664	2639080	Australia
-Western_Sahara	Country	23424990	Western Sahara	Western_Sahara	EH			-12.8863	24.49666	652271	Morocco
+Western_Sahara	CountyAdminArea|Country	23424990	Western Sahara	Western_Sahara	EH			-12.8863	24.49666	652271	Morocco
 Western_Springs,_Illinois	CityTown	2518146	Western Springs, Illinois	Western_Springs,_Illinois				-87.90057	41.80222	12975	Cook_County,_Illinois
 Westfield,_Massachusetts	CountyAdminArea|CityTown	2518193	Westfield, Massachusetts	Westfield,_Massachusetts				-72.75467	42.12017	41094	Hampden_County,_Massachusetts
 Westford,_Massachusetts	CityTown	2518207	Westford, Massachusetts	Westford,_Massachusetts				-71.43997	42.58625	24310	Middlesex_County,_Massachusetts
@@ -6995,7 +6995,7 @@ Williams_County,_Ohio	CountyAdminArea	12589612	Williams County, Ohio	Williams_Co
 Williams,_South_Carolina	CityTown	2520743	Williams, South Carolina	Williams,_South_Carolina				-80.84277	33.03372	117	Colleton_County,_South_Carolina
 Williamsburg_County,_South_Carolina	CountyAdminArea	12589844	Williamsburg County, South Carolina	Williamsburg_County,_South_Carolina			45089	-79.70938	33.59528	37217	South_Carolina
 Williamsburg,_Massachusetts	CountyAdminArea|CityTown	2520818	Williamsburg, Massachusetts	Williamsburg,_Massachusetts				-72.72951	42.40238	2482	Massachusetts
-Williamsburg,_Virginia	CountyAdminArea|CityTown	2520842	Williamsburg, Virginia	Williamsburg,_Virginia				-76.70756	37.27868	14954	Virginia
+Williamsburg,_Virginia	CountyAdminArea|CityTown	2520842	Williamsburg, Virginia	Williamsburg,_Virginia			51830	-76.70756	37.27868	14954	Virginia
 Williamson_County,_Illinois	CountyAdminArea	12588177	Williamson County, Illinois	Williamson_County,_Illinois			17199	-88.93013	37.72985	66597	Illinois
 Williamson_County,_Tennessee	CountyAdminArea	12590005	Williamson County, Tennessee	Williamson_County,_Tennessee			47187	-86.90773	35.87466	238412	Tennessee
 Williamson_County,_Texas	CountyAdminArea	12590252	Williamson County, Texas	Williamson_County,_Texas			48491	-97.60251	30.6568	590551	Texas
@@ -7015,7 +7015,7 @@ Wilson,_Oklahoma	CountyAdminArea|CityTown	2521501	Wilson, Oklahoma	Wilson,_Oklah
 Wiltshire	CountyAdminArea		Wiltshire	Wiltshire				-1.9166666	51.333332		South_West_England
 Winchendon,_Massachusetts	CityTown		Winchendon, Massachusetts	Winchendon,_Massachusetts				-72.04444	42.68611	10300	
 Winchester,_Massachusetts	CityTown	2521698	Winchester, Massachusetts	Winchester,_Massachusetts				-71.14625	42.45189	21374	Middlesex_County,_Massachusetts
-Winchester,_Virginia	CountyAdminArea|CityTown	2521691	Winchester, Virginia	Winchester,_Virginia				-78.16405	39.184	28078	Virginia
+Winchester,_Virginia	CountyAdminArea|CityTown	2521691	Winchester, Virginia	Winchester,_Virginia			51840	-78.16405	39.184	28078	Virginia
 Windham_County,_Connecticut	CountyAdminArea	12587798	Windham County, Connecticut	Windham_County,_Connecticut			09015	-72.02009	41.83146	116782	Connecticut
 Windham_County,_Vermont	CountyAdminArea	12590302	Windham County, Vermont	Windham_County,_Vermont			50025	-72.72053	42.9947	44216	Vermont
 Windsor_County,_Vermont	CountyAdminArea	12590303	Windsor County, Vermont	Windsor_County,_Vermont			50027	-72.59405	43.59225	57418	Vermont
@@ -7023,7 +7023,7 @@ Windsor,_Massachusetts	CountyAdminArea|CityTown	2521843	Windsor, Massachusetts	W
 Windsor,_South_Carolina	CityTown	2521850	Windsor, South Carolina	Windsor,_South_Carolina				-81.51319	33.48098	131	Aiken_County,_South_Carolina
 Winfield,_Illinois	CityTown	2522034	Winfield, Illinois	Winfield,_Illinois				-88.15055	41.87703	9967	DuPage_River
 Winkler_County,_Texas	CountyAdminArea	12590254	Winkler County, Texas	Winkler_County,_Texas			48495	-103.06291	31.86918	8010	Texas
-Winn_Parish,_Louisiana	CountyAdminArea|CityTown	12588659	Winn Parish, Louisiana	Winn_Parish,_Louisiana				-92.64346	31.92844	16894	Louisiana
+Winn_Parish,_Louisiana	CountyAdminArea|CityTown	12588659	Winn Parish, Louisiana	Winn_Parish,_Louisiana			22127	-92.64346	31.92844	16894	Louisiana
 Winnebago_County,_Illinois	CountyAdminArea	12588178	Winnebago County, Illinois	Winnebago_County,_Illinois			17201	-89.17058	42.32535	282572	Illinois
 Winnebago_County,_Iowa	CountyAdminArea	12588366	Winnebago County, Iowa	Winnebago_County,_Iowa			19189	-93.73415	43.3774	11723	Iowa
 Winnebago_County,_Wisconsin	CountyAdminArea	12590604	Winnebago County, Wisconsin	Winnebago_County,_Wisconsin			55139	-88.64478	44.06857	171907	Wisconsin
@@ -7120,7 +7120,7 @@ Yorkville,_Illinois	CountyAdminArea|CityTown	2524935	Yorkville, Illinois	Yorkvil
 Young_County,_Texas	CountyAdminArea	12590258	Young County, Texas	Young_County,_Texas			48503	-98.68738	33.1749	18010	Texas
 Yuba_County,_California	CountyAdminArea	12587727	Yuba County, California	Yuba_County,_California			06115	-121.32281	39.27887	78668	California
 Yukon	StateAdminArea	2344926	Yukon	Yukon				-136.79199	64.8369	35874	Canada
-Yukon%E2%80%93Koyukuk_Census_Area,_Alaska	CountyAdminArea	12587579	Yukon–Koyukuk Census Area, Alaska	Yukon%E2%80%93Koyukuk_Census_Area,_Alaska				-151.02509	65.22637	6551	Alaska
+Yukon%E2%80%93Koyukuk_Census_Area,_Alaska	CountyAdminArea	12587579	Yukon–Koyukuk Census Area, Alaska	Yukon%E2%80%93Koyukuk_Census_Area,_Alaska			02290	-151.02509	65.22637	6551	Alaska
 Yukon,_Oklahoma	CountyAdminArea|CityTown	2525126	Yukon, Oklahoma	Yukon,_Oklahoma				-97.73727	35.50542	22709	Canadian_County,_Oklahoma
 Yuma_County,_Arizona	CountyAdminArea	12587594	Yuma County, Arizona	Yuma_County,_Arizona			04027	-114.07505	32.75159	213787	Arizona
 Yuma_County,_Colorado	CountyAdminArea	12587790	Yuma County, Colorado	Yuma_County,_Colorado			08125	-102.42689	40.0038	9841	Colorado
