@@ -1,4 +1,8 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Akmola_Region	Akmola Region	2020-08-10		46	3004	2296							0.0	35.29	37.86	https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2020-08-10		28	3103	2299							0.0	6.71	117.14	https://www.coronavirus2020.kz/
+Almaty	Almaty	2020-08-10		164	13301	8210							0.0	145.0	160.57	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2020-08-10		26	4686	4008							0.0	35.29	64.14	https://www.coronavirus2020.kz/
 Atyrau_Region	Atyrau Region	2020-08-10		29	10576	7709							0.0	32.57	98.29	https://www.coronavirus2020.kz/
 Auckland_Region	Auckland Region	2020-08-10	2020-08-09T01:00:00.000Z	0	176	176							0.0	0.0	0.0	https://www.health.govt.nz/
 B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-08-10		0	10	4							0.0	0.86	0.0	https://ncov.moh.gov.vn/
@@ -14,7 +18,7 @@ C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-08-10		0	2	2							0.0	0.0	0.0	https://ncov
 Da_Nang	Da Nang	2020-08-10		9	267	6							0.71	18.43	0.0	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-08-10		0	3	1							0.0	0.14	0.0	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-08-10		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
-Earth	Earth	2020-08-10	2020-08-09T11:41:30.000Z	726953	19624044								5152.86	215813.43	162093.57	https://www.ecdc.europa.eu/
+Earth	Earth	2020-08-10	2020-08-09T11:41:30.000Z	726953	19624044								5152.86	215813.43	164163.71	https://www.ecdc.europa.eu/
 East_Kazakhstan_Region	East Kazakhstan Region	2020-08-10		66	7217	5878							0.0	86.71	230.14	https://www.coronavirus2020.kz/
 H%C3%A0_Giang_Province	Hà Giang Province	2020-08-10		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 H%C3%A0_Nam_Province	Hà Nam Province	2020-08-10		0	5	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -41,6 +45,7 @@ Lai_Ch%C3%A2u_Province	Lai Châu Province	2020-08-10		0	1	1							0.0	0.0	0.0	ht
 L%C3%A0o_Cai_Province	Lào Cai Province	2020-08-10		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Malaysia	Malaysia	2020-08-10	2020-08-09T09:00:00.000Z	125	9083	8784							0.0	11.71	16.57	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2020-08-10		38	3124	2267							0.0	26.29	22.29	https://www.coronavirus2020.kz/
+Mauritius	Mauritius	2020-08-10	2020-07-23T20:00:00.000Z	10	344	332							0.0	0.0	0.0	http://www.covid19.mu/
 New_Zealand	New Zealand	2020-08-10	2020-08-09T01:00:00.000Z	22	1569	1524	494481						0.0	0.29	0.86	https://www.health.govt.nz/
 Ninh_B%C3%ACnh_Province	Ninh Bình Province	2020-08-10		0	23	16							0.0	0.0	0.43	https://ncov.moh.gov.vn/
 Ninh_Thu%E1%BA%ADn_Province	Ninh Thuận Province	2020-08-10		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -65,6 +70,7 @@ Thanh_H%C3%B3a_Province	Thanh Hóa Province	2020-08-10		0	18	16							0.0	0.14	0
 Th%E1%BB%ABa_Thi%C3%AAn-Hu%E1%BA%BF_Province	Thừa Thiên-Huế Province	2020-08-10		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Tr%C3%A0_Vinh_Province	Trà Vinh Province	2020-08-10		0	4	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Turkistan_Region	Turkistan Region	2020-08-10		41	2991	2356							0.0	22.29	18.86	https://www.coronavirus2020.kz/
+United_Arab_Emirates	United Arab Emirates	2020-08-10	2020-08-09T10:00:00.000Z	357	62525	56568	5500701						0.86	194.57	243.57	https://covid19.ncema.gov.ae/
 Vietnam	Vietnam	2020-08-10		11	841	395							0.71	28.43	3.0	https://ncov.moh.gov.vn/
 V%C4%A9nh_Ph%C3%BAc_Province	Vĩnh Phúc Province	2020-08-10		0	19	19							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Waikato	Waikato	2020-08-10	2020-08-09T01:00:00.000Z	1	188	187							0.0	0.0	0.0	https://www.health.govt.nz/
