@@ -1,4 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Abruzzo	Abruzzo	2020-08-22		472	3604	2843	145369				23		0.0	6.57	1.29	http://www.salute.gov.it/
 Adygea	Adygea	2020-08-22	2020-08-21T07:30:00.000Z	25	3195	2673		16			0		0.29	14.29	19.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-08-22	2020-08-21T11:00:00.000Z		380									2.0		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-08-22		61	3296	2909							0.86	15.71	38.0	https://www.coronavirus2020.kz/
@@ -15,13 +16,13 @@ Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-08-22	2020-08-21T07:30:00.000Z	241	10
 Astrakhan_Oblast	Astrakhan Oblast	2020-08-22	2020-08-21T07:30:00.000Z	63	5331	4563		37			0		0.86	30.86	42.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2020-08-22		45	10786	10079							1.43	13.71	69.43	https://www.coronavirus2020.kz/
 Auckland_Region	Auckland Region	2020-08-22	2020-08-21T01:00:00.000Z	0	205	176							0.0	3.0	0.0	https://www.health.govt.nz/
-Austria	Austria	2020-08-22	2020-08-21T20:00:00.000Z	725	24880	21260	1075409						1.14	228.86	90.43	https://info.gesundheitsministerium.at/
+Austria	Austria	2020-08-22	2020-08-21T20:00:00.000Z	725	24882	21260	1075409						1.14	229.14	90.43	https://info.gesundheitsministerium.at/
 Auvergne-Rh%C3%B4ne-Alpes	Auvergne-Rhône-Alpes	2020-08-22		1772		8270							0.57		10.14	https://www.santepubliquefrance.fr/
 B%E1%BA%AFc_Giang_Province	Bắc Giang Province	2020-08-22		0	10	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%A1c_Li%C3%AAu_Province	Bạc Liêu Province	2020-08-22		0	25	24							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 B%E1%BA%AFc_Ninh_Province	Bắc Ninh Province	2020-08-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Baden_District,_Austria	Baden District, Austria	2020-08-22	2020-08-21T20:00:00.000Z		286									3.29		https://info.gesundheitsministerium.at/
-Bahrain	Bahrain	2020-08-22	2020-08-22T00:00:00.000Z	181	48303	44628	1011805	0	0	0	-353	-4	1.71	321.57	308.43	https://www.moh.gov.bh/COVID19
+Bahrain	Bahrain	2020-08-22	2020-08-22T00:00:00.000Z	181	48661	45166	1020803	358	0	538	5	-4	1.71	372.71	385.29	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-08-22	2020-08-22T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2020-08-22	2020-08-21T07:30:00.000Z	27	7469	6614		34			0		0.14	29.29	79.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Basilicata	Basilicata	2020-08-22		28	494	403	52418				0		0.0	1.14	1.57	http://www.salute.gov.it/
@@ -43,32 +44,62 @@ Calabria	Calabria	2020-08-22		97	1379	1129	142386				2		0.0	4.86	3.43	http://www
 Cambodia	Cambodia	2020-08-22	2020-08-22T07:00:00.000Z	0	273	259		0	0	0	0	0	0.0	0.0	4.29	http://www.cdcmoh.gov.kh/
 Campania	Campania	2020-08-22		440	5523	4348	375083				67		0.0	41.57	6.43	http://www.salute.gov.it/
 C%E1%BA%A7n_Th%C6%A1	Cần Thơ	2020-08-22		0	3	2							0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Canton_of_Aargau	Canton of Aargau	2020-08-22	2020-08-20T22:00:00.000Z	51	1896								0.14	17.86		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-08-22	2020-08-20T22:00:00.000Z	3	127								0.0	1.29		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-08-22	2020-08-20T22:00:00.000Z	0	25								0.0	0.0		https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-08-22	2020-08-20T22:00:00.000Z	35	1001								0.0	5.43		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-08-22	2020-08-20T22:00:00.000Z	53	1169								0.0	4.86		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2020-08-22	2020-08-20T22:00:00.000Z	98	2373								0.0	11.0		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2020-08-22	2020-08-20T22:00:00.000Z	85	1487								0.0	11.29		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2020-08-22	2020-08-20T22:00:00.000Z	13	157								0.0	0.86		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2020-08-22	2020-08-20T22:00:00.000Z	50	971								0.0	3.0		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2020-08-22	2020-08-20T22:00:00.000Z	7	263								0.0	0.14		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2020-08-22	2020-08-20T22:00:00.000Z	21	1004								0.0	4.86		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2020-08-22	2020-08-20T22:00:00.000Z	3	131								0.0	0.0		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2020-08-22	2020-08-20T22:00:00.000Z	0	100								0.0	0.71		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2020-08-22	2020-08-20T22:00:00.000Z	8	160								0.14	1.29		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2020-08-22	2020-08-20T22:00:00.000Z	25	459								0.0	3.86		https://www.bag.admin.ch/
+Canton_of_Solothurn	Canton of Solothurn	2020-08-22	2020-08-20T22:00:00.000Z	18	643								0.0	6.43		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2020-08-22	2020-08-20T22:00:00.000Z	41	1202								0.14	11.14		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2020-08-22	2020-08-20T22:00:00.000Z	19	551								0.0	4.57		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2020-08-22	2020-08-20T22:00:00.000Z	350	3500								0.0	4.86		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2020-08-22	2020-08-20T22:00:00.000Z	7	129								0.0	0.86		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2020-08-22	2020-08-20T22:00:00.000Z	153	2253								0.0	4.43		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2020-08-22	2020-08-20T22:00:00.000Z	9	323								0.0	1.57		https://www.bag.admin.ch/
+Canton_of_Z%C3%BCrich	Canton of Zürich	2020-08-22	2020-08-20T22:00:00.000Z	140	5463								0.0	52.43		https://www.bag.admin.ch/
 Carinthia	Carinthia	2020-08-22	2020-08-21T20:00:00.000Z	13		495							0.0		4.57	https://info.gesundheitsministerium.at/
+Casablanca-Settat	Casablanca-Settat	2020-08-22	2020-08-21T17:00:00.000Z		13627									300.14		http://www.covidmaroc.ma/
 Centre-Val_de_Loire	Centre-Val de Loire	2020-08-22		571		2368							0.29		2.71	https://www.santepubliquefrance.fr/
 Chechnya	Chechnya	2020-08-22	2020-08-21T07:30:00.000Z	38	2215	1507		6			0		0.14	4.57	6.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-08-22	2020-08-21T07:30:00.000Z	102	13019	8682		73			0		0.43	61.43	78.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-08-22	2020-08-21T07:30:00.000Z	2	167	160		2			0		0.14	0.71	1.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-08-22	2020-08-21T07:30:00.000Z	68	7448	6114		34			0		0.0	28.71	142.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Corsica	Corsica	2020-08-22		59		256							0.0		0.0	https://www.santepubliquefrance.fr/
+Czech_Republic	Czech Republic	2020-08-22	2020-08-21T16:01:00.000Z	410	21388	16040	826072						2.14	224.29	327.0	https://onemocneni-aktualne.mzcr.cz/
 Da_Nang	Da Nang	2020-08-22		21	374	102							0.29	4.71	8.57	https://ncov.moh.gov.vn/
 Dagestan	Dagestan	2020-08-22	2020-08-21T07:30:00.000Z	478	10334	9219		62			0		1.29	51.43	37.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Dakhla-Oued_Ed-Dahab	Dakhla-Oued Ed-Dahab	2020-08-22	2020-08-21T17:00:00.000Z		256									12.0		http://www.covidmaroc.ma/
+Denmark	Denmark	2020-08-22	2020-08-21T12:00:00.000Z	621	16127	13944	1500384						0.0	92.0	95.57	https://www.sst.dk/
 Deutschlandsberg_District	Deutschlandsberg District	2020-08-22	2020-08-21T20:00:00.000Z		54									0.0		https://info.gesundheitsministerium.at/
 %C4%90%E1%BB%93ng_Nai_Province	Đồng Nai Province	2020-08-22		0	3	2							0.0	0.0	0.14	https://ncov.moh.gov.vn/
 %C4%90%E1%BB%93ng_Th%C3%A1p_Province	Đồng Tháp Province	2020-08-22		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Dornbirn_District	Dornbirn District	2020-08-22	2020-08-21T20:00:00.000Z		181									1.29		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-08-22	2020-08-21T23:26:29.512Z	795163	22724603								4629.86	205204.14	176290.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-08-22	2020-08-22T01:28:08.685Z	795223	22727169								4638.43	205570.71	181061.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-08-22		121	7921	6628							3.86	30.57	43.71	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-08-22	2020-08-21T20:00:00.000Z		99									1.0		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-08-22	2020-08-21T20:00:00.000Z		21									0.0		https://info.gesundheitsministerium.at/
 Emilia-Romagna	Emilia-Romagna	2020-08-22		4455	30708	24392	811229				82		0.29	46.14	30.57	http://www.salute.gov.it/
 Feldkirch_District	Feldkirch District	2020-08-22	2020-08-21T20:00:00.000Z		250									0.71		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-08-22	2020-08-21T20:00:00.000Z		23									0.0		https://info.gesundheitsministerium.at/
+F%C3%A8s-Mekn%C3%A8s	Fès-Meknès	2020-08-22	2020-08-21T17:00:00.000Z		7510									175.71		http://www.covidmaroc.ma/
 France	France	2020-08-22		30503	234400	84829							13.43	2697.0	140.14	https://www.santepubliquefrance.fr/
 Freistadt_District	Freistadt District	2020-08-22	2020-08-21T20:00:00.000Z		148									0.29		https://info.gesundheitsministerium.at/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-08-22		348	3583	2992	299230				36		0.0	12.0	4.29	http://www.salute.gov.it/
+Germany	Germany	2020-08-22	2020-08-22	9260	230048	205800		0	0	0	-1427	-7	4.14	933.29	714.29	https://www.rki.de/
 Gmunden_District	Gmunden District	2020-08-22	2020-08-21T20:00:00.000Z		172									1.86		https://info.gesundheitsministerium.at/
 Grand_Est	Grand Est	2020-08-22		3644		12986							0.71		7.57	https://www.santepubliquefrance.fr/
 Graz	Graz	2020-08-22	2020-08-21T20:00:00.000Z		688									7.86		https://info.gesundheitsministerium.at/
+Greenland	Greenland	2020-08-22	2020-08-21T12:00:00.000Z	0	14	14	6464						0.0	0.0	0.0	https://www.sst.dk/
 Grieskirchen_District	Grieskirchen District	2020-08-22	2020-08-21T20:00:00.000Z		104									0.29		https://info.gesundheitsministerium.at/
 H%C3%A0_Giang_Province	Hà Giang Province	2020-08-22		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 H%C3%A0_Nam_Province	Hà Nam Province	2020-08-22		0	5	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
@@ -82,6 +113,7 @@ Ho_Chi_Minh_City	Ho Chi Minh City	2020-08-22		0	78	62							0.0	0.14	0.0	https:/
 Hollabrunn_District	Hollabrunn District	2020-08-22	2020-08-21T20:00:00.000Z		51									0.0		https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2020-08-22	2020-08-21T20:00:00.000Z		99									0.14		https://info.gesundheitsministerium.at/
 H%C6%B0ng_Y%C3%AAn_Province	Hưng Yên Province	2020-08-22		0	5	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Hungary	Hungary	2020-08-22	2020-08-21T06:56:00.000Z	611	5098	3681	393431						0.57	31.57	10.71	https://koronavirus.gov.hu/
 %C3%8Ele-de-France	Île-de-France	2020-08-22		7671		30370							6.14		44.57	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2020-08-22	2020-08-21T20:00:00.000Z		307									0.57		https://info.gesundheitsministerium.at/
 India	India	2020-08-22	2020-08-21T02:30:00.000Z	54849	2905823	2158946							830.43	54233.0	50001.43	https://www.mohfw.gov.in/
@@ -152,12 +184,14 @@ Malaysia	Malaysia	2020-08-22	2020-08-21T09:00:00.000Z	125	9249	8945							0.0	10
 Mangystau_Region	Mangystau Region	2020-08-22		39	3293	2596							0.0	8.29	19.0	https://www.coronavirus2020.kz/
 Marche	Marche	2020-08-22		987	7095	5876	190441				17		0.0	9.29	3.86	http://www.salute.gov.it/
 Mari_El	Mari El	2020-08-22	2020-08-21T07:30:00.000Z	36	4095	3645		17			0		0.0	14.29	16.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Marrakesh-Safi	Marrakesh-Safi	2020-08-22	2020-08-21T17:00:00.000Z		7865									187.14		http://www.covidmaroc.ma/
 Mattersburg_District	Mattersburg District	2020-08-22	2020-08-21T20:00:00.000Z		85									0.14		https://info.gesundheitsministerium.at/
 Mauritius	Mauritius	2020-08-22	2020-08-21T11:42:16.000Z	10	346	332							0.0	0.29	0.0	https://www.ecdc.europa.eu/
 Melk_District	Melk District	2020-08-22	2020-08-21T20:00:00.000Z		199									0.14		https://info.gesundheitsministerium.at/
 Mistelbach_District	Mistelbach District	2020-08-22	2020-08-21T20:00:00.000Z		164									0.14		https://info.gesundheitsministerium.at/
 Molise	Molise	2020-08-22		23	509	430	30886				2		0.0	3.14	0.14	http://www.salute.gov.it/
 Mordovia	Mordovia	2020-08-22	2020-08-21T07:30:00.000Z	38	5141	4028		32			0		0.0	27.0	28.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Morocco	Morocco	2020-08-22	2020-08-21T17:00:00.000Z	817	49247	34199	1665336						26.43	1175.71	804.71	http://www.covidmaroc.ma/
 Moscow	Moscow	2020-08-22	2020-08-21T07:30:00.000Z	4710	255826	202727		690			0		9.29	591.43	947.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2020-08-22	2020-08-21T07:30:00.000Z	1160	66692	50194		151			0		2.71	130.14	116.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Murau_District	Murau District	2020-08-22	2020-08-21T20:00:00.000Z		12									0.0		https://info.gesundheitsministerium.at/
@@ -185,6 +219,7 @@ Oberwart_District	Oberwart District	2020-08-22	2020-08-21T20:00:00.000Z		155				
 Occitanie	Occitanie	2020-08-22		520		3039							0.57		4.43	https://www.santepubliquefrance.fr/
 Omsk_Oblast	Omsk Oblast	2020-08-22	2020-08-21T07:30:00.000Z	145	8893	6800		54			0		4.14	72.14	90.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Orenburg_Oblast	Orenburg Oblast	2020-08-22	2020-08-21T07:30:00.000Z	71	9074	7521		93			0		0.86	84.43	88.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Oriental_(Morocco)	Oriental (Morocco)	2020-08-22	2020-08-21T17:00:00.000Z		886									24.0		http://www.covidmaroc.ma/
 Oryol_Oblast	Oryol Oblast	2020-08-22	2020-08-21T07:30:00.000Z	101	6597	5099		39			0		0.43	34.57	30.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Oslo	Oslo	2020-08-22	2020-08-21T11:00:00.000Z		3281									16.14		https://www.fhi.no/
 Pavlodar_Region	Pavlodar Region	2020-08-22		37	3735	2622							0.86	12.86	19.43	https://www.coronavirus2020.kz/
@@ -194,7 +229,7 @@ Perg_District	Perg District	2020-08-22	2020-08-21T20:00:00.000Z		384									1.0
 Perm_Krai	Perm Krai	2020-08-22	2020-08-21T07:30:00.000Z	196	7292	5129		58			0		1.71	53.86	32.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2020-08-22	2020-08-22T07:00:00.000Z		171			0			0			0.0		http://www.cdcmoh.gov.kh/
 Piedmont	Piedmont	2020-08-22		4142	32260	27117	552333				39		0.43	30.86	13.14	http://www.salute.gov.it/
-Portugal	Portugal	2020-08-22	2020-08-20T23:00:00.000Z	1792	55211	40473		0	0	0	-219	-4	2.43	175.71	126.86	https://covid19.min-saude.pt/
+Portugal	Portugal	2020-08-22	2020-08-21T23:00:00.000Z	1792	55211	40473							2.43	175.71	126.86	https://covid19.min-saude.pt/
 Preah_Vihear_Province	Preah Vihear Province	2020-08-22	2020-08-22T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Primorsky_Krai	Primorsky Krai	2020-08-22	2020-08-21T07:30:00.000Z	99	8789	7055		86			0		0.43	76.0	68.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Provence-Alpes-C%C3%B4te_d%27Azur	Provence-Alpes-Côte d'Azur	2020-08-22		983		6090							1.71		18.71	https://www.santepubliquefrance.fr/
@@ -202,6 +237,7 @@ Pskov_Oblast	Pskov Oblast	2020-08-22	2020-08-21T07:30:00.000Z	61	4314	3131		35		
 Qatar	Qatar	2020-08-22	2020-08-21T11:42:16.000Z	193	116924	113216	577122	257			0		0.14	302.14	244.43	https://www.ecdc.europa.eu/
 Qu%E1%BA%A3ng_Nam_Province	Quảng Nam Province	2020-08-22		3	101	17							0.0	0.86	1.43	https://ncov.moh.gov.vn/
 Qu%E1%BA%A3ng_Ninh_Province	Quảng Ninh Province	2020-08-22		0	11	11							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Rabat-Sal%C3%A9-K%C3%A9nitra	Rabat-Salé-Kénitra	2020-08-22	2020-08-21T17:00:00.000Z		4536									110.71		http://www.covidmaroc.ma/
 Republic_of_Karelia	Republic of Karelia	2020-08-22	2020-08-21T07:30:00.000Z	15	2803	1922		21			0		0.14	18.43	19.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Reutte_District	Reutte District	2020-08-22	2020-08-21T20:00:00.000Z		71									1.0		https://info.gesundheitsministerium.at/
 Rogaland	Rogaland	2020-08-22	2020-08-21T11:00:00.000Z		511									1.86		https://www.fhi.no/
@@ -232,6 +268,7 @@ Styria	Styria	2020-08-22	2020-08-21T20:00:00.000Z	144		1968							0.14		4.14	htt
 Sverdlovsk_Oblast	Sverdlovsk Oblast	2020-08-22	2020-08-21T07:30:00.000Z	396	24105	19383		124			0		4.14	121.43	61.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Switzerland	Switzerland	2020-08-22	2020-08-20T22:00:00.000Z	1999	39290	33900							1.14	211.86	100.0	https://www.bag.admin.ch/
 Tambov_Oblast	Tambov Oblast	2020-08-22	2020-08-21T07:30:00.000Z	44	6521	5512		22			0		0.0	19.57	27.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-08-22	2020-08-21T17:00:00.000Z		8983									98.43		http://www.covidmaroc.ma/
 Taranaki	Taranaki	2020-08-22	2020-08-21T01:00:00.000Z	0	16	16							0.0	0.0	0.0	https://www.health.govt.nz/
 Tatarstan	Tatarstan	2020-08-22	2020-08-21T07:30:00.000Z	31	6220	5084		29			0		0.29	24.86	19.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 T%C3%A2y_Ninh_Province	Tây Ninh Province	2020-08-22		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
