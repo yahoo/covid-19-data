@@ -3308,7 +3308,7 @@ Gosnold,_Massachusetts	CityTown	28338886	Gosnold, Massachusetts	Gosnold,_Massach
 Gosper_County,_Nebraska	CountyAdminArea	12589174	Gosper County, Nebraska	Gosper_County,_Nebraska			31073	-99.86866	40.52556	1990	Nebraska
 Gouveia,_Portugal	CountyAdminArea|CityTown	741978	Gouveia, Portugal	Gouveia,_Portugal				-7.593	40.49509		Portugal
 Gove_County,_Kansas	CountyAdminArea	12588402	Gove County, Kansas	Gove_County,_Kansas			20063	-100.48326	38.91541	2636	Kansas
-Grândola	CountyAdminArea|CityTown	742011	Grândola	Grândola				-8.57048	38.17682		Setúbal
+Grândola	CityTown	742011	Grândola	Grândola				-8.57048	38.17682		Setúbal
 Gracemont,_Oklahoma	CityTown	2412580	Gracemont, Oklahoma	Gracemont,_Oklahoma				-98.257	35.18771	318	Caddo_County,_Oklahoma
 Grady_County,_Georgia	CountyAdminArea	12587934	Grady County, Georgia	Grady_County,_Georgia			13131	-84.22682	30.87751	24633	Georgia_(U.S._state)
 Grady_County,_Oklahoma	CountyAdminArea	12589640	Grady County, Oklahoma	Grady_County,_Oklahoma			40051	-97.88196	35.02958	55834	Oklahoma
@@ -4067,7 +4067,7 @@ Krems_an_der_Donau	CityTown	542516	Krems an der Donau	Krems_an_der_Donau				15.5
 Kufstein_District	CountyAdminArea	12591744	Kufstein District	Kufstein_District				12.05468	47.53207	101321	Tyrol_(state)
 Kurgan_Oblast	CountyAdminArea|StateAdminArea	12598548	Kurgan Oblast	Kurgan_Oblast				65.3053	55.4143		Russia
 Kursk_Oblast	CountyAdminArea|StateAdminArea	12598579	Kursk Oblast	Kursk_Oblast				36.1871	51.7173		Russia
-Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02270	-163.23764	62.11722	8314	Alaska
+Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02158	-163.23764	62.11722	8314	Alaska
 Kuwait	Country	23424870	Kuwait	Kuwait	KW			47.49445	29.31015	4137309	Earth
 Kyrgyzstan	Country	23424864	Kyrgyzstan	Kyrgyzstan	KG			74.7799	41.20554	6322800	Earth
 Kyzylorda_Region	StateAdminArea	2345990	Kyzylorda Region	Kyzylorda_Region				63.48485	45.36045	799533	Hotel_Kazakhstan
@@ -4361,7 +4361,7 @@ London_Borough_of_Barking_and_Dagenham	TertiaryAdminArea	12695820	London Borough
 London_Borough_of_Barnet	CityTown|TertiaryAdminArea		London Borough of Barnet	London_Borough_of_Barnet				-0.1527	51.6254		Greater_London
 London_Borough_of_Bexley	TertiaryAdminArea		London Borough of Bexley	London_Borough_of_Bexley				0.13333334	51.416668		Greater_London
 London_Borough_of_Brent	TertiaryAdminArea		London Borough of Brent	London_Borough_of_Brent				-0.2738889	51.566113		Greater_London
-London_Borough_of_Bromley	TertiaryAdminArea		London Borough of Bromley	London_Borough_of_Bromley				0.083333336	51.333332		Greater_London
+London_Borough_of_Bromley	CityTown|TertiaryAdminArea		London Borough of Bromley	London_Borough_of_Bromley				0.083333336	51.333332		Greater_London
 London_Borough_of_Camden	CityTown|TertiaryAdminArea		London Borough of Camden	London_Borough_of_Camden				-0.16666667	51.533333		Greater_London
 London_Borough_of_Croydon	TertiaryAdminArea		London Borough of Croydon	London_Borough_of_Croydon				-0.083333336	51.333332		Greater_London
 London_Borough_of_Ealing	TertiaryAdminArea		London Borough of Ealing	London_Borough_of_Ealing				-0.33333334	51.5		Greater_London
@@ -4378,7 +4378,7 @@ London_Borough_of_Lambeth	TertiaryAdminArea		London Borough of Lambeth	London_Bo
 London_Borough_of_Lewisham	TertiaryAdminArea		London Borough of Lewisham	London_Borough_of_Lewisham				-0.033333335	51.416668		Greater_London
 London_Borough_of_Merton	TertiaryAdminArea		London Borough of Merton	London_Borough_of_Merton				-0.16666667	51.383335		Greater_London
 London_Borough_of_Newham	TertiaryAdminArea		London Borough of Newham	London_Borough_of_Newham				0.033333335	51.516666		Greater_London
-London_Borough_of_Redbridge	TertiaryAdminArea		London Borough of Redbridge	London_Borough_of_Redbridge				0.083333336	51.566666		Greater_London
+London_Borough_of_Redbridge	CityTown|TertiaryAdminArea		London Borough of Redbridge	London_Borough_of_Redbridge				0.083333336	51.566666		Greater_London
 London_Borough_of_Richmond_upon_Thames	TertiaryAdminArea		London Borough of Richmond upon Thames	London_Borough_of_Richmond_upon_Thames				-0.33333334	51.416668		Greater_London
 London_Borough_of_Southwark	TertiaryAdminArea		London Borough of Southwark	London_Borough_of_Southwark				-0.083333336	51.45		Greater_London
 London_Borough_of_Sutton	TertiaryAdminArea		London Borough of Sutton	London_Borough_of_Sutton							Greater_London
@@ -5214,7 +5214,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown	744649	Odivelas	Odivelas				-9.17687	38.79129		Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295		Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	20997	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	50643	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
@@ -6119,7 +6119,7 @@ Sierra_County,_New_Mexico	CountyAdminArea	12589306	Sierra County, New Mexico	Sie
 Sierra_Leone	Country	23424946	Sierra Leone	Sierra_Leone	SL			-11.79593	8.46502	7650154	Earth
 Sierra_Madre,_California	CountyAdminArea|CityTown	2493428	Sierra Madre, California	Sierra_Madre,_California				-118.05026	34.16874	10917	Los_Angeles_County,_California
 Signal_Hill,_California	CountyAdminArea|CityTown	2493469	Signal Hill, California	Signal_Hill,_California				-118.16823	33.80298	11016	Los_Angeles_County,_California
-Sihanoukville_Province	CityTown|StateAdminArea	1028469	Sihanoukville Province	Sihanoukville_Province				103.50673	10.62995	302887	Preah_Sihanouk_Municipality
+Sihanoukville_Province	CityTown	1028469	Sihanoukville Province	Sihanoukville_Province				103.50673	10.62995	302887	Preah_Sihanouk_Municipality
 Silver_Bow_County,_Montana	CountyAdminArea	12589127	Silver Bow County, Montana	Silver_Bow_County,_Montana			30093	-112.6375	45.90522	34915	Montana
 Silverstreet,_South_Carolina	CityTown	2493841	Silverstreet, South Carolina	Silverstreet,_South_Carolina				-81.71401	34.21714	162	Newberry_County,_South_Carolina
 Silves,_Portugal	CountyAdminArea|CityTown	748859	Silves, Portugal	Silves,_Portugal				-8.43848	37.1887		Portugal
