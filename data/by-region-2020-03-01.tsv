@@ -46,7 +46,7 @@ Buckinghamshire	Buckinghamshire	2020-03-01			1			0			0			0.0		https://www.gov.uk
 Calabria	Calabria	2020-03-01		0	1	0	35	0	0	0	0	0				http://www.salute.gov.it/
 Calhoun_County,_Michigan	Calhoun County, Michigan	2020-03-01	2020-06-17T16:00:00.000Z	0	0				0							https://www.michigan.gov/
 Cambodia	Cambodia	2020-03-01		0	5			0	0	0	0	0	0.0	0.0		https://www.who.int/
-Campania	Campania	2020-03-01		0	17	0	373	4	0	0	4	0				http://www.salute.gov.it/
+Campania	Campania	2020-03-01		0	17	0	373	4	0	0	-5	0				http://www.salute.gov.it/
 Canada	Canada	2020-03-01		0	31			8	0	0	3	0	0.0	2.43		https://www.who.int/
 Canary_Islands	Canary Islands	2020-03-01	2020-08-20T15:51:54.000Z		7			0			-1			0.86		https://www.mscbs.gob.es/
 Cantabria	Cantabria	2020-03-01	2020-08-20T15:51:54.000Z		10			9			8			1.43		https://www.mscbs.gob.es/
@@ -266,7 +266,7 @@ Putnam_County,_Indiana	Putnam County, Indiana	2020-03-01		0	0		0									https:/
 Qatar	Qatar	2020-03-01		0	7			2	0	0	-3	0	0.0	1.0		https://www.who.int/
 Randolph_County,_Indiana	Randolph County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
 Region_of_Murcia	Region of Murcia	2020-03-01	2020-08-20T15:51:54.000Z		0			0			0			0.0		https://www.mscbs.gob.es/
-Republic_of_Ireland	Republic of Ireland	2020-03-01	2020-08-25T11:41:33.000Z	0	1			1	0	0	1	0	0.0	0.14		https://www.ecdc.europa.eu/
+Republic_of_Ireland	Republic of Ireland	2020-03-01	2020-08-26T11:41:59.000Z	0	1			1	0	0	1	0	0.0	0.14		https://www.ecdc.europa.eu/
 Ripley_County,_Indiana	Ripley County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
 Romania	Romania	2020-03-01		0	7			0	0	0	0	0	0.0	1.0		https://www.who.int/
 Roscommon_County,_Michigan	Roscommon County, Michigan	2020-03-01	2020-06-17T16:00:00.000Z	0	0				0							https://www.michigan.gov/
@@ -303,7 +303,7 @@ Surrey	Surrey	2020-03-01			2			0			0					https://www.gov.uk/
 Sweden	Sweden	2020-03-01		0	18			1	0	0	-1	0	0.0	1.86		https://www.who.int/
 Switzerland	Switzerland	2020-03-01		0	60			12	0	0	-2	0	0.0	8.57		https://www.who.int/
 Switzerland_County,_Indiana	Switzerland County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
-Taiwan	Taiwan	2020-03-01	2020-08-25T11:41:33.000Z	1	40			1	0	0	-4	0	0.0	2.0		https://www.ecdc.europa.eu/
+Taiwan	Taiwan	2020-03-01	2020-08-26T11:41:59.000Z	1	40			1	0	0	-4	0	0.0	2.0		https://www.ecdc.europa.eu/
 Thailand	Thailand	2020-03-01		1	46			0	1	1	-1	1	0.14	1.0		https://www.who.int/
 Tippecanoe_County,_Indiana	Tippecanoe County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
 Tipton_County,_Indiana	Tipton County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
@@ -312,9 +312,9 @@ Tuscany	Tuscany	2020-03-01		0	13	1	572	2	0	0	-1	0				http://www.salute.gov.it/
 Tuscola_County,_Michigan	Tuscola County, Michigan	2020-03-01	2020-06-17T16:00:00.000Z	0	0				0							https://www.michigan.gov/
 Umbria	Umbria	2020-03-01		0	2	0	35	2	0	0	2	0				http://www.salute.gov.it/
 Union_County,_Indiana	Union County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
-United_Arab_Emirates	United Arab Emirates	2020-03-01	2020-08-25T11:41:33.000Z	0	21			0	0	0	-2	0	0.0	1.14		https://www.ecdc.europa.eu/
-United_Kingdom	United Kingdom	2020-03-01	2020-08-25T11:41:33.000Z	0	42			12	0	0	4	0	0.0	4.43		https://www.ecdc.europa.eu/
-United_States	United States	2020-03-01	2020-08-25T11:41:33.000Z	1	69			3	1		3	1	0.14	1.71		https://www.ecdc.europa.eu/
+United_Arab_Emirates	United Arab Emirates	2020-03-01	2020-08-26T11:41:59.000Z	0	21			0	0	0	-2	0	0.0	1.14		https://www.ecdc.europa.eu/
+United_Kingdom	United Kingdom	2020-03-01	2020-08-26T11:41:59.000Z	0	42			12	0	0	4	0	0.0	4.43		https://www.ecdc.europa.eu/
+United_States	United States	2020-03-01	2020-08-26T11:41:59.000Z	1	69			3	1		3	1	0.14	1.71		https://www.ecdc.europa.eu/
 Valencian_Community	Valencian Community	2020-03-01	2020-08-20T15:51:54.000Z		15			0			-5			2.14		https://www.mscbs.gob.es/
 Van_Buren_County,_Michigan	Van Buren County, Michigan	2020-03-01	2020-06-17T16:00:00.000Z	0	0				0							https://www.michigan.gov/
 Vanderburgh_County,_Indiana	Vanderburgh County, Indiana	2020-03-01		0	0		0									https://coronavirus.in.gov/
