@@ -1,13 +1,16 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Abruzzo	Abruzzo	2020-08-31		472	3773	2872	156774				34		0.0	17.29	4.0	http://www.salute.gov.it/
+Acre_(state)	Acre (state)	2020-08-31	2020-08-30T22:00:00.000Z	609	24638								0.71	129.86		https://covid.saude.gov.br/
 Adygea	Adygea	2020-08-31	2020-08-30T07:40:00.000Z	27	3364	2846		18			0		0.29	15.71	15.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-08-31	2020-08-30T11:00:00.000Z		399									2.0		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-08-31		67	3380	3046							0.86	7.0	10.71	https://www.coronavirus2020.kz/
 Aktobe_Region	Aktobe Region	2020-08-31		35	3217	2998							0.0	2.57	4.0	https://www.coronavirus2020.kz/
+Alagoas	Alagoas	2020-08-31	2020-08-30T22:00:00.000Z	1878	78637								7.29	306.0		https://covid.saude.gov.br/
 Almaty	Almaty	2020-08-31		252	14210	12908							4.57	18.0	45.29	https://www.coronavirus2020.kz/
 Almaty_Region	Almaty Region	2020-08-31		43	4892	4597							0.29	2.43	2.29	https://www.coronavirus2020.kz/
 Altai_Krai	Altai Krai	2020-08-31	2020-08-30T07:40:00.000Z	117	11655	10374		64			0		1.0	57.71	90.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2020-08-31	2020-08-30T07:40:00.000Z	8	2125	1811		17			0		0.0	15.86	16.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-08-31	2020-08-30T22:00:00.000Z	3639	120060								8.71	609.71		https://covid.saude.gov.br/
 Amstetten_District	Amstetten District	2020-08-31	2020-08-30T20:00:00.000Z		344									1.14		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-08-31	2020-08-30T07:40:00.000Z	47	3355	2991		29			0		0.0	21.0	27.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Aosta_Valley	Aosta Valley	2020-08-31		146	1232	1063	24783				2		0.0	1.57	-0.14	http://www.salute.gov.it/
@@ -15,19 +18,20 @@ Apulia	Apulia	2020-08-31		556	5402	4029	303046				69		0.14	47.43	2.71	http://www
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-08-31	2020-08-30T07:40:00.000Z	251	10783	9017		81			0		0.86	60.71	29.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Astrakhan_Oblast	Astrakhan Oblast	2020-08-31	2020-08-30T07:40:00.000Z	72	5658	5280		30			0		0.86	30.43	85.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2020-08-31		48	10905	10258							0.43	10.29	19.71	https://www.coronavirus2020.kz/
-Auckland_Region	Auckland Region	2020-08-31	2020-08-30T01:00:00.000Z	0	214	179							0.0	0.86	0.43	https://www.health.govt.nz/
+Auckland_Region	Auckland Region	2020-08-31	2020-08-31T01:00:00.000Z	0	217	187		3	0	8	3	0	0.0	1.29	1.57	https://www.health.govt.nz/
 Austria	Austria	2020-08-31	2020-08-30T20:00:00.000Z	726	27219	23070	1172092						0.14	242.14	201.86	https://info.gesundheitsministerium.at/
 Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2020-08-31		1778		8348							0.57		9.71	https://www.santepubliquefrance.fr/
 Bắc_Giang_Province	Bắc Giang Province	2020-08-31		0	10	5							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Bạc_Liêu_Province	Bạc Liêu Province	2020-08-31		0	27	25							0.0	0.29	0.14	https://ncov.moh.gov.vn/
 Bắc_Ninh_Province	Bắc Ninh Province	2020-08-31		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Baden_District,_Austria	Baden District, Austria	2020-08-31	2020-08-30T20:00:00.000Z		314									2.43		https://info.gesundheitsministerium.at/
-Bahrain	Bahrain	2020-08-31	2020-08-31T00:00:00.000Z	189	51391	48275	1095373	0	0	0	-278	0	0.71	294.43	327.71	https://www.moh.gov.bh/COVID19
+Bahia	Bahia	2020-08-31	2020-08-30T22:00:00.000Z	5344	256062								51.86	2693.43		https://covid.saude.gov.br/
+Bahrain	Bahrain	2020-08-31	2020-08-31T00:00:00.000Z	189	51574	48654	1100729	183	0	379	-95	0	0.71	320.57	381.86	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-08-31	2020-08-31T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2020-08-31	2020-08-30T07:40:00.000Z	29	7763	6894		32			0		0.14	28.0	34.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Basilicata	Basilicata	2020-08-31		28	524	408	56001				1		0.0	3.14	0.57	http://www.salute.gov.it/
 Battambang_Province	Battambang Province	2020-08-31	2020-08-31T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
-Bay_of_Plenty	Bay of Plenty	2020-08-31	2020-08-30T01:00:00.000Z	0	48	48							0.0	0.0	0.0	https://www.health.govt.nz/
+Bay_of_Plenty	Bay of Plenty	2020-08-31	2020-08-31T01:00:00.000Z	0	48	48		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Belarus	Belarus	2020-08-31	2020-08-30T03:00:00.000Z	676	71687	70452	1527049						4.29	148.86	218.14	http://stopcovid.belta.by/
 Belgium	Belgium	2020-08-31	2020-08-30T00:00:00.000Z	9891	84599								3.14	329.57		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-08-31	2020-08-30T07:40:00.000Z	53	7320	6590		41			0		0.29	35.14	57.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -36,38 +40,38 @@ Bình_Thuận_Province	Bình Thuận Province	2020-08-31		0	9	9							0.0	0.0	0.
 Bludenz_District	Bludenz District	2020-08-31	2020-08-30T20:00:00.000Z		316									0.71		https://info.gesundheitsministerium.at/
 Bourgogne-Franche-Comté	Bourgogne-Franche-Comté	2020-08-31		1065		4110							0.0		1.14	https://www.santepubliquefrance.fr/
 Braunau_am_Inn_District	Braunau am Inn District	2020-08-31	2020-08-30T20:00:00.000Z		228									3.0		https://info.gesundheitsministerium.at/
+Brazil	Brazil	2020-08-31	2020-08-30T22:00:00.000Z	120828	3862311	3031626			366			0	788.43	34207.14	36131.0	https://covid.saude.gov.br/
 Brittany_(administrative_region)	Brittany (administrative region)	2020-08-31		269		1386							0.0		1.57	https://www.santepubliquefrance.fr/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-08-31	2020-08-30T20:00:00.000Z		211									2.86		https://info.gesundheitsministerium.at/
 Bryansk_Oblast	Bryansk Oblast	2020-08-31	2020-08-30T07:40:00.000Z	35	8194	6731		35			0		0.0	24.57	16.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Burgenland	Burgenland	2020-08-31	2020-08-30T20:00:00.000Z	11		432							0.0		2.0	https://info.gesundheitsministerium.at/
 Buryatia	Buryatia	2020-08-31	2020-08-30T07:40:00.000Z	47	5190	4426		54			0		0.29	40.57	26.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Calabria	Calabria	2020-08-31		97	1477	1148	159919				34		0.0	11.0	1.71	http://www.salute.gov.it/
-Cambodia	Cambodia	2020-08-31	2020-08-31T07:00:00.000Z	0	273	265		0	0	0	0	0	0.0	0.0	0.29	http://www.cdcmoh.gov.kh/
+Cambodia	Cambodia	2020-08-31	2020-08-31T07:00:00.000Z	0	274	266		1	0	1	1	0	0.0	0.14	0.43	http://www.cdcmoh.gov.kh/
 Campania	Campania	2020-08-31		445	6882	4412	413478				270		0.57	149.14	8.0	http://www.salute.gov.it/
 Cần_Thơ	Cần Thơ	2020-08-31		0	3	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
-Canton_of_Aargau	Canton of Aargau	2020-08-31	2020-08-29T22:00:00.000Z	52	2046								0.14	14.14		https://www.bag.admin.ch/
-Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-08-31	2020-08-29T22:00:00.000Z	3	132								0.0	0.29		https://www.bag.admin.ch/
-Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-08-31	2020-08-29T22:00:00.000Z	0	25								0.0	0.0		https://www.bag.admin.ch/
-Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-08-31	2020-08-29T22:00:00.000Z	35	1029								0.0	2.86		https://www.bag.admin.ch/
-Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-08-31	2020-08-29T22:00:00.000Z	54	1213								0.14	4.0		https://www.bag.admin.ch/
-Canton_of_Bern	Canton of Bern	2020-08-31	2020-08-29T22:00:00.000Z	99	2529								0.0	17.14		https://www.bag.admin.ch/
-Canton_of_Fribourg	Canton of Fribourg	2020-08-31	2020-08-29T22:00:00.000Z	85	1634								0.0	10.43		https://www.bag.admin.ch/
-Canton_of_Glarus	Canton of Glarus	2020-08-31	2020-08-29T22:00:00.000Z	13	163								0.0	0.29		https://www.bag.admin.ch/
-Canton_of_Grisons	Canton of Grisons	2020-08-31	2020-08-29T22:00:00.000Z	50	1000								0.0	3.86		https://www.bag.admin.ch/
-Canton_of_Jura	Canton of Jura	2020-08-31	2020-08-29T22:00:00.000Z	7	266								0.0	0.29		https://www.bag.admin.ch/
-Canton_of_Lucerne	Canton of Lucerne	2020-08-31	2020-08-29T22:00:00.000Z	21	1045								0.0	4.57		https://www.bag.admin.ch/
-Canton_of_Nidwalden	Canton of Nidwalden	2020-08-31	2020-08-29T22:00:00.000Z	3	133								0.0	0.29		https://www.bag.admin.ch/
-Canton_of_Obwalden	Canton of Obwalden	2020-08-31	2020-08-29T22:00:00.000Z	0	106								0.0	0.71		https://www.bag.admin.ch/
-Canton_of_Schaffhausen	Canton of Schaffhausen	2020-08-31	2020-08-29T22:00:00.000Z	8	162								0.0	0.14		https://www.bag.admin.ch/
-Canton_of_Schwyz	Canton of Schwyz	2020-08-31	2020-08-29T22:00:00.000Z	25	484								0.0	2.86		https://www.bag.admin.ch/
-Canton_of_Solothurn	Canton of Solothurn	2020-08-31	2020-08-29T22:00:00.000Z	18	687								0.0	5.14		https://www.bag.admin.ch/
-Canton_of_St._Gallen	Canton of St. Gallen	2020-08-31	2020-08-29T22:00:00.000Z	42	1249								0.14	4.57		https://www.bag.admin.ch/
-Canton_of_Thurgau	Canton of Thurgau	2020-08-31	2020-08-29T22:00:00.000Z	19	572								0.0	2.0		https://www.bag.admin.ch/
-Canton_of_Ticino	Canton of Ticino	2020-08-31	2020-08-29T22:00:00.000Z	350	3533								0.0	3.0		https://www.bag.admin.ch/
-Canton_of_Uri	Canton of Uri	2020-08-31	2020-08-29T22:00:00.000Z	7	137								0.0	1.14		https://www.bag.admin.ch/
-Canton_of_Valais	Canton of Valais	2020-08-31	2020-08-29T22:00:00.000Z	154	2328								0.0	3.86		https://www.bag.admin.ch/
-Canton_of_Zug	Canton of Zug	2020-08-31	2020-08-29T22:00:00.000Z	9	344								0.0	1.43		https://www.bag.admin.ch/
-Canton_of_Zürich	Canton of Zürich	2020-08-31	2020-08-29T22:00:00.000Z	141	6051								0.14	67.29		https://www.bag.admin.ch/
+Canton_of_Aargau	Canton of Aargau	2020-08-31	2020-08-30T22:00:00.000Z	52	2046			0	0		0	0	0.14	14.14		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-08-31	2020-08-30T22:00:00.000Z	3	132			0	0		0	0	0.0	0.29		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-08-31	2020-08-30T22:00:00.000Z	0	25			0	0		0	0	0.0	0.0		https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-08-31	2020-08-30T22:00:00.000Z	35	1029			0	0		0	0	0.0	2.86		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-08-31	2020-08-30T22:00:00.000Z	54	1213			0	0		-3	0	0.14	4.0		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2020-08-31	2020-08-30T22:00:00.000Z	99	2529			0	0		-23	0	0.0	17.14		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2020-08-31	2020-08-30T22:00:00.000Z	85	1634			0	0		0	0	0.0	10.43		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2020-08-31	2020-08-30T22:00:00.000Z	13	163			0	0		0	0	0.0	0.29		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2020-08-31	2020-08-30T22:00:00.000Z	50	1000			0	0		0	0	0.0	3.86		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2020-08-31	2020-08-30T22:00:00.000Z	7	266			0	0		0	0	0.0	0.29		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2020-08-31	2020-08-30T22:00:00.000Z	21	1045			0	0		0	0	0.0	4.57		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2020-08-31	2020-08-30T22:00:00.000Z	3	133			0	0		0	0	0.0	0.29		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2020-08-31	2020-08-30T22:00:00.000Z	0	106			0	0		0	0	0.0	0.71		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2020-08-31	2020-08-30T22:00:00.000Z	8	162			0	0		0	0	0.0	0.14		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2020-08-31	2020-08-30T22:00:00.000Z	25	484			0	0		0	0	0.0	2.86		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2020-08-31	2020-08-30T22:00:00.000Z	42	1249			0	0		0	0	0.14	4.57		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2020-08-31	2020-08-30T22:00:00.000Z	19	572			0	0		0	0	0.0	2.0		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2020-08-31	2020-08-30T22:00:00.000Z	350	3533			0	0		0	0	0.0	3.0		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2020-08-31	2020-08-30T22:00:00.000Z	7	137			0	0		0	0	0.0	1.14		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2020-08-31	2020-08-30T22:00:00.000Z	154	2328			0	0		0	0	0.0	3.86		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2020-08-31	2020-08-30T22:00:00.000Z	9	344			0	0		0	0	0.0	1.43		https://www.bag.admin.ch/
+Canton_of_Zürich	Canton of Zürich	2020-08-31	2020-08-30T22:00:00.000Z	141	6051			0	0		-56	0	0.14	67.29		https://www.bag.admin.ch/
 Carinthia	Carinthia	2020-08-31	2020-08-30T20:00:00.000Z	13		588							0.0		9.29	https://info.gesundheitsministerium.at/
 Casablanca-Settat	Casablanca-Settat	2020-08-31	2020-08-30T17:00:00.000Z		17904									420.0		http://www.covidmaroc.ma/
 Centre-Val_de_Loire	Centre-Val de Loire	2020-08-31		574		2392							0.29		2.86	https://www.santepubliquefrance.fr/
@@ -85,11 +89,12 @@ Deutschlandsberg_District	Deutschlandsberg District	2020-08-31	2020-08-30T20:00:
 Đồng_Nai_Province	Đồng Nai Province	2020-08-31		0	3	3							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Đồng_Tháp_Province	Đồng Tháp Province	2020-08-31		0	6	6							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Dornbirn_District	Dornbirn District	2020-08-31	2020-08-30T20:00:00.000Z		192									1.29		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-08-31	2020-08-31T02:31:47.925Z	843453	25032502								4860.29	222900.57	184983.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-08-31	2020-08-31T04:38:47.667Z	843835	25038318								4914.86	223731.43	185957.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-08-31		138	8161	7865							2.43	22.0	115.57	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-08-31	2020-08-30T20:00:00.000Z		104									0.57		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-08-31	2020-08-30T20:00:00.000Z		26									0.57		https://info.gesundheitsministerium.at/
 Emilia-Romagna	Emilia-Romagna	2020-08-31		4459	31805	24478	893601				109		0.14	110.57	6.29	http://www.salute.gov.it/
+Federal_District_(Brazil)	Federal District (Brazil)	2020-08-31	2020-08-30T22:00:00.000Z	2469	160796								21.86	1468.14		https://covid.saude.gov.br/
 Feldkirch_District	Feldkirch District	2020-08-31	2020-08-30T20:00:00.000Z		256									0.71		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-08-31	2020-08-30T20:00:00.000Z		27									0.57		https://info.gesundheitsministerium.at/
 France	France	2020-08-31	2020-08-30T14:00:00.000Z	30606	277943	86177							11.14	4727.0	139.71	https://www.santepubliquefrance.fr/
@@ -107,7 +112,7 @@ Hà_Tĩnh_Province	Hà Tĩnh Province	2020-08-31		0	4	4							0.0	0.0	0.0	https:
 Hải_Dương_Province	Hải Dương Province	2020-08-31		0	24	5							0.0	0.57	0.0	https://ncov.moh.gov.vn/
 Hanoi	Hanoi	2020-08-31		0	156	145							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Hauts-de-France	Hauts-de-France	2020-08-31		1943		7280							0.86		9.29	https://www.santepubliquefrance.fr/
-Hawke's_Bay_Region	Hawke's Bay Region	2020-08-31	2020-08-30T01:00:00.000Z	0	44	44							0.0	0.0	0.0	https://www.health.govt.nz/
+Hawke's_Bay_Region	Hawke's Bay Region	2020-08-31	2020-08-31T01:00:00.000Z	0	44	44		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Hermagor_District	Hermagor District	2020-08-31	2020-08-30T20:00:00.000Z		5									0.0		https://info.gesundheitsministerium.at/
 Ho_Chi_Minh_City	Ho Chi Minh City	2020-08-31		0	78	66							0.0	0.0	0.43	https://ncov.moh.gov.vn/
 Hollabrunn_District	Hollabrunn District	2020-08-31	2020-08-30T20:00:00.000Z		54									0.29		https://info.gesundheitsministerium.at/
@@ -185,9 +190,12 @@ Mangystau_Region	Mangystau Region	2020-08-31		40	3334	2612							0.14	2.71	0.0	h
 Marche	Marche	2020-08-31		987	7238	5949	204089				15		0.0	17.86	9.43	http://www.salute.gov.it/
 Mari_El	Mari El	2020-08-31	2020-08-30T07:40:00.000Z	39	4244	3811		17			0		0.29	14.29	20.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Marrakesh-Safi	Marrakesh-Safi	2020-08-31	2020-08-30T17:00:00.000Z		9996									200.86		http://www.covidmaroc.ma/
+Mato_Grosso	Mato Grosso	2020-08-31	2020-08-30T22:00:00.000Z	2725	90337								24.86	1115.0		https://covid.saude.gov.br/
+Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-08-31	2020-08-30T22:00:00.000Z	851	48522								14.57	779.57		https://covid.saude.gov.br/
 Mattersburg_District	Mattersburg District	2020-08-31	2020-08-30T20:00:00.000Z		94									0.86		https://info.gesundheitsministerium.at/
 Mauritius	Mauritius	2020-08-31	2020-08-22T20:00:00.000Z	10	346	335							0.0	0.0	0.0	http://www.covid19.mu/
 Melk_District	Melk District	2020-08-31	2020-08-30T20:00:00.000Z		202									0.29		https://info.gesundheitsministerium.at/
+Minas_Gerais	Minas Gerais	2020-08-31	2020-08-30T22:00:00.000Z	5326	215050								74.43	2732.86		https://covid.saude.gov.br/
 Mistelbach_District	Mistelbach District	2020-08-31	2020-08-30T20:00:00.000Z		171									0.86		https://info.gesundheitsministerium.at/
 Molise	Molise	2020-08-31		23	525	432	33383				1		0.0	2.0	0.0	http://www.salute.gov.it/
 Mordovia	Mordovia	2020-08-31	2020-08-30T07:40:00.000Z	38	5430	4263		31			0		0.0	27.43	23.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -201,14 +209,14 @@ Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-08-31	2020-08-30T07:40:00.0
 Netherlands	Netherlands	2020-08-31	2020-08-29T22:00:00.000Z	6224	70140								3.14	430.29		https://www.rivm.nl/
 Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-08-31	2020-08-30T20:00:00.000Z		258									1.14		https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2020-08-31	2020-08-30T20:00:00.000Z		83									0.29		https://info.gesundheitsministerium.at/
-New_Zealand	New Zealand	2020-08-31	2020-08-30T01:00:00.000Z	22	1729	1570	750808						0.0	6.57	4.57	https://www.health.govt.nz/
+New_Zealand	New Zealand	2020-08-31	2020-08-31T01:00:00.000Z	22	1738	1585	758027	9	0	15	7	0	0.0	7.86	6.71	https://www.health.govt.nz/
 Ninh_Bình_Province	Ninh Bình Province	2020-08-31		0	23	23							0.0	0.0	0.14	https://ncov.moh.gov.vn/
 Ninh_Thuận_Province	Ninh Thuận Province	2020-08-31		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-08-31	2020-08-30T07:40:00.000Z	469	27550	24639		143			0		2.86	115.14	132.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Nordland	Nordland	2020-08-31	2020-08-30T11:00:00.000Z		179									2.0		https://www.fhi.no/
 Normandy	Normandy	2020-08-31		447		1901							0.14		2.0	https://www.santepubliquefrance.fr/
 North_Kazakhstan_Region	North Kazakhstan Region	2020-08-31		19	3929	3612							0.0	9.71	55.71	https://www.coronavirus2020.kz/
-Northland_Region	Northland Region	2020-08-31	2020-08-30T01:00:00.000Z	0	28	28							0.0	0.0	0.0	https://www.health.govt.nz/
+Northland_Region	Northland Region	2020-08-31	2020-08-31T01:00:00.000Z	0	28	28		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Norway	Norway	2020-08-31	2020-08-30T11:00:00.000Z	264	10543		686202						0.0	31.43		https://www.fhi.no/
 Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-08-31		433		2341							0.29		3.86	https://www.santepubliquefrance.fr/
 Novgorod_Oblast	Novgorod Oblast	2020-08-31	2020-08-30T07:40:00.000Z	76	4319	3169		23			0		0.57	17.71	19.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -227,7 +235,8 @@ Pays_de_la_Loire	Pays de la Loire	2020-08-31		492		2410							0.43		5.43	https:/
 Penza_Oblast	Penza Oblast	2020-08-31	2020-08-30T07:40:00.000Z	107	8057	7548		63			0		0.71	52.71	39.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Perg_District	Perg District	2020-08-31	2020-08-30T20:00:00.000Z		397									1.71		https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2020-08-31	2020-08-30T07:40:00.000Z	213	7811	5478		58			0		2.0	49.0	35.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Phnom_Penh	Phnom Penh	2020-08-31	2020-08-31T07:00:00.000Z		171			0			0			0.0		http://www.cdcmoh.gov.kh/
+Pernambuco	Pernambuco	2020-08-31	2020-08-30T22:00:00.000Z	7574	125094								25.0	819.57		https://covid.saude.gov.br/
+Phnom_Penh	Phnom Penh	2020-08-31	2020-08-31T07:00:00.000Z		172			1			1			0.14		http://www.cdcmoh.gov.kh/
 Piedmont	Piedmont	2020-08-31		4146	32844	27293	585831				60		0.43	65.86	21.14	http://www.salute.gov.it/
 Portugal	Portugal	2020-08-31	2020-08-30T23:00:00.000Z	1819	57768	41885							2.57	292.57	143.57	https://covid19.min-saude.pt/
 Preah_Vihear_Province	Preah Vihear Province	2020-08-31	2020-08-31T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -240,8 +249,12 @@ Quảng_Ninh_Province	Quảng Ninh Province	2020-08-31		0	11	11							0.0	0.0	0.
 Rabat-Salé-Kénitra	Rabat-Salé-Kénitra	2020-08-31	2020-08-30T17:00:00.000Z		5563									102.43		http://www.covidmaroc.ma/
 Republic_of_Karelia	Republic of Karelia	2020-08-31	2020-08-30T07:40:00.000Z	16	3098	2237		46			0		0.14	29.71	39.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Reutte_District	Reutte District	2020-08-31	2020-08-30T20:00:00.000Z		74									0.43		https://info.gesundheitsministerium.at/
+Rio_de_Janeiro_(state)	Rio de Janeiro (state)	2020-08-31	2020-08-30T22:00:00.000Z	16027	223302								90.71	1706.0		https://covid.saude.gov.br/
+Rio_Grande_do_Norte	Rio Grande do Norte	2020-08-31	2020-08-30T22:00:00.000Z	2248	61649								10.71	285.71		https://covid.saude.gov.br/
+Rio_Grande_do_Sul	Rio Grande do Sul	2020-08-31	2020-08-30T22:00:00.000Z	3395	124482								41.86	2075.57		https://covid.saude.gov.br/
 Rogaland	Rogaland	2020-08-31	2020-08-30T11:00:00.000Z		523									1.57		https://www.fhi.no/
 Rohrbach_District	Rohrbach District	2020-08-31	2020-08-30T20:00:00.000Z		207									2.14		https://info.gesundheitsministerium.at/
+Roraima	Roraima	2020-08-31	2020-08-30T22:00:00.000Z	587	43470								1.14	242.86		https://covid.saude.gov.br/
 Rostov_Oblast	Rostov Oblast	2020-08-31	2020-08-30T07:40:00.000Z	348	16799	14416		134			0		5.14	111.57	147.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Russia	Russia	2020-08-31	2020-08-30T07:40:00.000Z	17093	990326	806982	36400000	4980	68	2599	0	0	92.14	4119.0	4841.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Ryazan_Oblast	Ryazan Oblast	2020-08-31	2020-08-30T07:40:00.000Z	44	7135	6251		30			0		0.43	24.14	18.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -250,10 +263,12 @@ Sakhalin_Oblast	Sakhalin Oblast	2020-08-31	2020-08-30T07:40:00.000Z	0	4371	2602	
 Salzburg	Salzburg	2020-08-31	2020-08-30T20:00:00.000Z		306									4.14		https://info.gesundheitsministerium.at/
 Salzburg_(state)	Salzburg (state)	2020-08-31	2020-08-30T20:00:00.000Z	39		1461							0.0		12.71	https://info.gesundheitsministerium.at/
 Samara_Oblast	Samara Oblast	2020-08-31	2020-08-30T07:40:00.000Z	125	8426	6835		76			0		0.29	63.57	88.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Santa_Catarina_(state)	Santa Catarina (state)	2020-08-31	2020-08-30T22:00:00.000Z	2235	146864								24.14	1904.43		https://covid.saude.gov.br/
 Saratov_Oblast	Saratov Oblast	2020-08-31	2020-08-30T07:40:00.000Z	73	12251	7954		88			0		0.71	80.71	65.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Sardinia	Sardinia	2020-08-31		134	2114	1268	134534				22		0.0	41.29	0.86	http://www.salute.gov.it/
 Scheibbs_District	Scheibbs District	2020-08-31	2020-08-30T20:00:00.000Z		110									0.0		https://info.gesundheitsministerium.at/
 Schwaz_District	Schwaz District	2020-08-31	2020-08-30T20:00:00.000Z		433									1.86		https://info.gesundheitsministerium.at/
+Sergipe	Sergipe	2020-08-31	2020-08-30T22:00:00.000Z	1844	72417								7.29	258.71		https://covid.saude.gov.br/
 Shymkent	Shymkent	2020-08-31		61	5174	4442							1.14	1.29	9.0	https://www.coronavirus2020.kz/
 Sicily	Sicily	2020-08-31		286	4291	2891	346347				34		0.0	32.0	8.14	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2020-08-31	2020-08-31T07:00:00.000Z		7			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -269,7 +284,7 @@ Sverdlovsk_Oblast	Sverdlovsk Oblast	2020-08-31	2020-08-30T07:40:00.000Z	448	2519
 Switzerland	Switzerland	2020-08-31	2020-08-30T11:41:35.000Z	1724	41615	35800							-39.57	254.43	185.71	https://www.ecdc.europa.eu/
 Tambov_Oblast	Tambov Oblast	2020-08-31	2020-08-30T07:40:00.000Z	45	6726	5764		25			0		0.14	19.86	25.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tanger-Tetouan-Al_Hoceima	Tanger-Tetouan-Al Hoceima	2020-08-31	2020-08-30T17:00:00.000Z		9750									78.29		http://www.covidmaroc.ma/
-Taranaki	Taranaki	2020-08-31	2020-08-30T01:00:00.000Z	0	16	16							0.0	0.0	0.0	https://www.health.govt.nz/
+Taranaki	Taranaki	2020-08-31	2020-08-31T01:00:00.000Z	0	16	16		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Tatarstan	Tatarstan	2020-08-31	2020-08-30T07:40:00.000Z	34	6481	5297		28			0		0.29	24.71	24.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tây_Ninh_Province	Tây Ninh Province	2020-08-31		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Tboung_Khmum_Province	Tboung Khmum Province	2020-08-31	2020-08-31T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -277,6 +292,7 @@ Thái_Bình_Province	Thái Bình Province	2020-08-31		0	31	31							0.0	0.0	0.14
 Thái_Nguyên_Province	Thái Nguyên Province	2020-08-31		0	1	1							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Thanh_Hóa_Province	Thanh Hóa Province	2020-08-31		0	18	17							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Thừa_Thiên-Huế_Province	Thừa Thiên-Huế Province	2020-08-31		0	2	2							0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Tocantins	Tocantins	2020-08-31	2020-08-30T22:00:00.000Z	664	50373								10.14	871.43		https://covid.saude.gov.br/
 Tomsk_Oblast	Tomsk Oblast	2020-08-31	2020-08-30T07:40:00.000Z	67	5596	4681		60			0		1.14	37.86	64.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Trà_Vinh_Province	Trà Vinh Province	2020-08-31		0	4	4							0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Trentino	Trentino	2020-08-31		405	5092	4600	186481				8		0.0	9.0	2.86	http://www.salute.gov.it/
@@ -311,12 +327,12 @@ Vorarlberg	Vorarlberg	2020-08-31	2020-08-30T20:00:00.000Z	20		1000							0.0		4.
 Voronezh_Oblast	Voronezh Oblast	2020-08-31	2020-08-30T07:40:00.000Z	109	14046	12511		99			0		0.71	86.71	95.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-08-31	2020-08-30T20:00:00.000Z		82									0.57		https://info.gesundheitsministerium.at/
 Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-08-31	2020-08-30T20:00:00.000Z		27									0.0		https://info.gesundheitsministerium.at/
-Waikato	Waikato	2020-08-31	2020-08-30T01:00:00.000Z	1	189	186							0.0	0.14	0.0	https://www.health.govt.nz/
+Waikato	Waikato	2020-08-31	2020-08-31T01:00:00.000Z	1	189	186		0	0	0	-1	0	0.0	0.14	0.0	https://www.health.govt.nz/
 Weiz_District	Weiz District	2020-08-31	2020-08-30T20:00:00.000Z		227									0.86		https://info.gesundheitsministerium.at/
 Wels	Wels	2020-08-31	2020-08-30T20:00:00.000Z		250									3.57		https://info.gesundheitsministerium.at/
-West_Coast,_New_Zealand	West Coast, New Zealand	2020-08-31	2020-08-30T01:00:00.000Z	1	5	4							0.0	0.0	0.0	https://www.health.govt.nz/
+West_Coast,_New_Zealand	West Coast, New Zealand	2020-08-31	2020-08-31T01:00:00.000Z	1	5	4		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 West_Kazakhstan_Region	West Kazakhstan Region	2020-08-31		94	6744	6085							1.14	7.71	37.29	https://www.coronavirus2020.kz/
-Whanganui	Whanganui	2020-08-31	2020-08-30T01:00:00.000Z	0	9	9							0.0	0.0	0.0	https://www.health.govt.nz/
+Whanganui	Whanganui	2020-08-31	2020-08-31T01:00:00.000Z	0	9	9		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Wiener_Neustadt	Wiener Neustadt	2020-08-31	2020-08-30T20:00:00.000Z		121									2.71		https://info.gesundheitsministerium.at/
 Wolfsberg_District	Wolfsberg District	2020-08-31	2020-08-30T20:00:00.000Z		67									0.14		https://info.gesundheitsministerium.at/
 Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2020-08-31	2020-08-30T07:40:00.000Z	90	13364	12989		49			0		0.43	40.57	66.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
