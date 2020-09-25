@@ -1,6 +1,7 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Abruzzo	Abruzzo	2020-09-25		477	4266	3019	190927				17		0.43	18.43	5.0	http://www.salute.gov.it/
 Adygea	Adygea	2020-09-25	2020-09-24T07:30:00.000Z	31	3897	3356		24			0		0.0	20.57	18.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Agder	Agder	2020-09-25	2020-09-24T11:00:00.000Z		449									2.43		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-09-25		77	3468	3250							0.0	2.0	6.71	https://www.coronavirus2020.kz/
 Aktobe_Region	Aktobe Region	2020-09-25		35	3238	3047							0.0	0.57	1.43	https://www.coronavirus2020.kz/
 Almaty	Almaty	2020-09-25		272	14359	14056							0.29	3.29	12.0	https://www.coronavirus2020.kz/
@@ -15,10 +16,10 @@ Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-09-25	2020-09-24T07:30:00.000Z	258	12
 Astrakhan_Oblast	Astrakhan Oblast	2020-09-25	2020-09-24T07:30:00.000Z	100	6804	6247		55			0		1.14	42.86	18.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2020-09-25		65	11064	10508							0.71	4.43	3.0	https://www.coronavirus2020.kz/
 Auckland_Region	Auckland Region	2020-09-25	2020-09-24T02:00:00.000Z	1	226	213							0.0	0.57	0.14	https://www.health.govt.nz/
-Austria	Austria	2020-09-25	2020-09-24T20:00:00.000Z	765	41524	31661	1507782						3.0	582.86	458.57	https://info.gesundheitsministerium.at/
+Austria	Austria	2020-09-25	2020-09-24T20:00:00.000Z	765	41552	31661	1507782						3.0	586.86	458.57	https://info.gesundheitsministerium.at/
 Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2020-09-25		1877		9171							6.43		41.57	https://www.santepubliquefrance.fr/
-Baden_District,_Austria	Baden District, Austria	2020-09-25	2020-09-24T20:00:00.000Z		558									10.29		https://info.gesundheitsministerium.at/
-Bahrain	Bahrain	2020-09-25	2020-09-25T00:00:00.000Z	231	67014	60117	1366396	0	0	0	-612	-5	1.57	546.43	575.71	https://www.moh.gov.bh/COVID19
+Baden_District,_Austria	Baden District, Austria	2020-09-25	2020-09-24T20:00:00.000Z		559									10.43		https://info.gesundheitsministerium.at/
+Bahrain	Bahrain	2020-09-25	2020-09-25T00:00:00.000Z	231	67701	60853	1378104	687	0	736	75	-5	1.57	644.57	680.86	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-09-25	2020-09-25T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2020-09-25	2020-09-24T07:30:00.000Z	36	8556	8422		35			0		0.71	29.43	49.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Basilicata	Basilicata	2020-09-25		28	678	454	68827				9		0.0	7.14	2.43	http://www.salute.gov.it/
@@ -30,13 +31,35 @@ Bludenz_District	Bludenz District	2020-09-25	2020-09-24T20:00:00.000Z		438						
 Bourgogne-Franche-Comté	Bourgogne-Franche-Comté	2020-09-25		1077		4215							0.71		6.0	https://www.santepubliquefrance.fr/
 Braunau_am_Inn_District	Braunau am Inn District	2020-09-25	2020-09-24T20:00:00.000Z		302									2.71		https://info.gesundheitsministerium.at/
 Brittany_(administrative_region)	Brittany (administrative region)	2020-09-25		280		1490							0.86		5.0	https://www.santepubliquefrance.fr/
-Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-09-25	2020-09-24T20:00:00.000Z		331									5.0		https://info.gesundheitsministerium.at/
+Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-09-25	2020-09-24T20:00:00.000Z		333									5.29		https://info.gesundheitsministerium.at/
 Bryansk_Oblast	Bryansk Oblast	2020-09-25	2020-09-24T07:30:00.000Z	37	9155	7408		38			0		0.0	39.57	25.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Burgenland	Burgenland	2020-09-25	2020-09-24T20:00:00.000Z	11		570							0.0		6.86	https://info.gesundheitsministerium.at/
 Buryatia	Buryatia	2020-09-25	2020-09-24T07:30:00.000Z	65	6483	5516		66			0		0.43	56.43	47.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Calabria	Calabria	2020-09-25		98	1896	1298	191873				9		0.0	15.86	4.57	http://www.salute.gov.it/
 Cambodia	Cambodia	2020-09-25	2020-09-25T07:00:00.000Z	0	275	274		0	0	0	0	0	0.0	0.0	0.0	http://www.cdcmoh.gov.kh/
 Campania	Campania	2020-09-25		457	11102	5488	559258				195		0.29	166.0	66.86	http://www.salute.gov.it/
+Canton_of_Aargau	Canton of Aargau	2020-09-25	2020-09-23T22:00:00.000Z	54	2557								0.14	14.29		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-09-25	2020-09-23T22:00:00.000Z	3	161								0.0	0.43		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-09-25	2020-09-23T22:00:00.000Z	0	36								0.0	0.71		https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-09-25	2020-09-23T22:00:00.000Z	37	1164								0.14	6.86		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-09-25	2020-09-23T22:00:00.000Z	54	1299								0.0	1.43		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2020-09-25	2020-09-23T22:00:00.000Z	101	3296								0.14	36.43		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2020-09-25	2020-09-23T22:00:00.000Z	102	2334								0.57	15.86		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2020-09-25	2020-09-23T22:00:00.000Z	13	177								0.0	0.71		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2020-09-25	2020-09-23T22:00:00.000Z	50	1070								0.0	2.0		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2020-09-25	2020-09-23T22:00:00.000Z	7	306								0.0	1.29		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2020-09-25	2020-09-23T22:00:00.000Z	23	1201								0.0	5.29		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2020-09-25	2020-09-23T22:00:00.000Z	3	143								0.0	0.43		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2020-09-25	2020-09-23T22:00:00.000Z	0	119								0.0	1.29		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2020-09-25	2020-09-23T22:00:00.000Z	8	188								0.0	0.86		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2020-09-25	2020-09-23T22:00:00.000Z	25	564								0.0	2.86		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2020-09-25	2020-09-23T22:00:00.000Z	41	1585								0.0	13.0		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2020-09-25	2020-09-23T22:00:00.000Z	19	698								0.0	3.0		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2020-09-25	2020-09-23T22:00:00.000Z	350	3629								0.0	3.0		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2020-09-25	2020-09-23T22:00:00.000Z	7	141								0.0	0.29		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2020-09-25	2020-09-23T22:00:00.000Z	156	2630								0.14	8.86		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2020-09-25	2020-09-23T22:00:00.000Z	9	424								0.0	1.43		https://www.bag.admin.ch/
+Canton_of_Zürich	Canton of Zürich	2020-09-25	2020-09-23T22:00:00.000Z	145	7610								0.0	44.0		https://www.bag.admin.ch/
 Carinthia	Carinthia	2020-09-25	2020-09-24T20:00:00.000Z	13		695							0.0		5.71	https://info.gesundheitsministerium.at/
 Centre-Val_de_Loire	Centre-Val de Loire	2020-09-25		591		2514							0.71		6.57	https://www.santepubliquefrance.fr/
 Chechnya	Chechnya	2020-09-25	2020-09-24T07:30:00.000Z	40	2397	1836		4			0		0.0	4.14	7.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -44,10 +67,11 @@ Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-09-25	2020-09-24T07:30:00.000Z	122	15
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-09-25	2020-09-24T07:30:00.000Z	2	185	175		0			0		0.0	0.57	0.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-09-25	2020-09-24T07:30:00.000Z	89	8434	7151		27			0		0.57	22.86	18.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Corsica	Corsica	2020-09-25		63		288							0.14		1.14	https://www.santepubliquefrance.fr/
+Czech_Republic	Czech Republic	2020-09-25	2020-09-24T15:58:00.000Z	567	56747	27247	1263111						10.43	1645.57	513.57	https://onemocneni-aktualne.mzcr.cz/
 Dagestan	Dagestan	2020-09-25	2020-09-24T07:30:00.000Z	571	12933	11110		82			0		4.71	72.0	63.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Deutschlandsberg_District	Deutschlandsberg District	2020-09-25	2020-09-24T20:00:00.000Z		97									0.86		https://info.gesundheitsministerium.at/
 Dornbirn_District	Dornbirn District	2020-09-25	2020-09-24T20:00:00.000Z		428									7.14		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-09-25	2020-09-24T23:35:48.884Z	975077	31976945								4326.14	244203.14	203698.57	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-09-25	2020-09-25T00:35:32.871Z	975296	31978568								4357.43	244435.0	211290.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-09-25		170	8626	8357							0.86	20.43	15.57	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-09-25	2020-09-24T20:00:00.000Z		127									1.0		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-09-25	2020-09-24T20:00:00.000Z		47									0.57		https://info.gesundheitsministerium.at/
@@ -57,6 +81,7 @@ Feldkirchen_District	Feldkirchen District	2020-09-25	2020-09-24T20:00:00.000Z		3
 France	France	2020-09-25		31511	497237	94413							37.43	9791.57	405.57	https://www.santepubliquefrance.fr/
 Freistadt_District	Freistadt District	2020-09-25	2020-09-24T20:00:00.000Z		274									3.29		https://info.gesundheitsministerium.at/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-09-25		350	4489	3432	391844				28		0.14	25.29	20.14	http://www.salute.gov.it/
+Germany	Germany	2020-09-25	2020-09-25	9428	278070	246900		0	0	0	-2143	-19	7.14	1471.0	1171.43	https://www.rki.de/
 Gmunden_District	Gmunden District	2020-09-25	2020-09-24T20:00:00.000Z		238									2.14		https://info.gesundheitsministerium.at/
 Grand_Est	Grand Est	2020-09-25		3725		13612							0.86		15.71	https://www.santepubliquefrance.fr/
 Graz	Graz	2020-09-25	2020-09-24T20:00:00.000Z		1170									13.14		https://info.gesundheitsministerium.at/
@@ -141,6 +166,7 @@ Melk_District	Melk District	2020-09-25	2020-09-24T20:00:00.000Z		296									7.4
 Mistelbach_District	Mistelbach District	2020-09-25	2020-09-24T20:00:00.000Z		271									4.29		https://info.gesundheitsministerium.at/
 Molise	Molise	2020-09-25		23	627	471	40839				4		0.0	6.57	1.86	http://www.salute.gov.it/
 Mordovia	Mordovia	2020-09-25	2020-09-24T07:30:00.000Z	40	6220	5199		32			0		0.0	28.0	28.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Morocco	Morocco	2020-09-25	2020-09-24T17:00:00.000Z	1956	110099	90186	2371052						28.71	1833.57	1928.0	http://www.covidmaroc.ma/
 Moscow	Moscow	2020-09-25	2020-09-24T07:30:00.000Z	5115	280408	241656		1050			0		11.71	800.0	931.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2020-09-25	2020-09-24T07:30:00.000Z	1304	72321	55205		205			0		4.57	164.0	144.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Murau_District	Murau District	2020-09-25	2020-09-24T20:00:00.000Z		35									0.71		https://info.gesundheitsministerium.at/
@@ -175,7 +201,7 @@ Perg_District	Perg District	2020-09-25	2020-09-24T20:00:00.000Z		440									2.7
 Perm_Krai	Perm Krai	2020-09-25	2020-09-24T07:30:00.000Z	261	9374	6463		75			0		2.14	61.43	37.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2020-09-25	2020-09-25T07:00:00.000Z		173			0			0			0.0		http://www.cdcmoh.gov.kh/
 Piedmont	Piedmont	2020-09-25		4158	34679	28059	688648				104		0.71	73.14	43.86	http://www.salute.gov.it/
-Portugal	Portugal	2020-09-25	2020-09-23T23:00:00.000Z	1931	71156	46676		0	0	0	-691	-3	5.29	568.57	231.86	https://covid19.min-saude.pt/
+Portugal	Portugal	2020-09-25	2020-09-24T23:00:00.000Z	1931	71156	46676							5.29	568.57	231.86	https://covid19.min-saude.pt/
 Preah_Vihear_Province	Preah Vihear Province	2020-09-25	2020-09-25T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Primorsky_Krai	Primorsky Krai	2020-09-25	2020-09-24T07:30:00.000Z	115	11332	9833		70			0		0.43	60.29	69.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Provence-Alpes-Côte_d'Azur	Provence-Alpes-Côte d'Azur	2020-09-25		1103		7691							4.14		50.57	https://www.santepubliquefrance.fr/
