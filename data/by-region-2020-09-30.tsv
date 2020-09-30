@@ -1,5 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Abrantes	Abrantes	2020-09-30	2020-09-28T23:00:00.000Z		55									0.44		https://covid19.min-saude.pt/
+Abrantes	Abrantes	2020-09-30	2020-09-29T23:00:00.000Z		55			0			0			0.44		https://covid19.min-saude.pt/
 Abruzzo	Abruzzo	2020-09-30		481	4397	3051	197714				14		0.57	21.14	5.57	http://www.salute.gov.it/
 Adygea	Adygea	2020-09-30	2020-09-29T08:10:00.000Z	33	4051	3460		32			0		0.29	25.43	18.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-09-30	2020-09-29T11:00:00.000Z		482									5.14		https://www.fhi.no/
@@ -32,8 +32,8 @@ Arouca,_Portugal	Arouca, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		240			0		
 Arruda_dos_Vinhos	Arruda dos Vinhos	2020-09-30	2020-09-29T23:00:00.000Z		88			0			0			1.56		https://covid19.min-saude.pt/
 Astrakhan_Oblast	Astrakhan Oblast	2020-09-30	2020-09-29T08:10:00.000Z	110	7068	6343		56			0		1.71	45.57	17.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2020-09-30		69	11081	10522							0.57	3.57	2.57	https://www.coronavirus2020.kz/
-Auckland_Region	Auckland Region	2020-09-30	2020-09-29T01:00:00.000Z	1	226	215							0.0	0.0	0.29	https://www.health.govt.nz/
-Austria	Austria	2020-09-30	2020-09-29T20:00:00.000Z	775	44896	34916	1586578						1.86	584.0	566.71	https://info.gesundheitsministerium.at/
+Auckland_Region	Auckland Region	2020-09-30	2020-09-30T01:00:00.000Z	1	226	220		0	0	5	0	0	0.0	0.0	1.0	https://www.health.govt.nz/
+Austria	Austria	2020-09-30	2020-09-29T20:00:00.000Z	775	44908	34916	1586578						1.86	585.71	566.71	https://info.gesundheitsministerium.at/
 Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2020-09-30		1915		9454							7.0		49.14	https://www.santepubliquefrance.fr/
 Aveiro,_Portugal	Aveiro, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		459			0			0			2.11		https://covid19.min-saude.pt/
 Azambuja	Azambuja	2020-09-30	2020-09-29T23:00:00.000Z		254			0			0			0.22		https://covid19.min-saude.pt/
@@ -46,7 +46,7 @@ Bashkortostan	Bashkortostan	2020-09-30	2020-09-29T08:10:00.000Z	41	8748	8533		40
 Basilicata	Basilicata	2020-09-30		29	776	471	72153				6		0.14	15.29	3.14	http://www.salute.gov.it/
 Batalha,_Portugal	Batalha, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		27			0			0			0.22		https://covid19.min-saude.pt/
 Battambang_Province	Battambang Province	2020-09-30	2020-09-30T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
-Bay_of_Plenty	Bay of Plenty	2020-09-30	2020-09-29T01:00:00.000Z	0	48	48							0.0	0.0	0.0	https://www.health.govt.nz/
+Bay_of_Plenty	Bay of Plenty	2020-09-30	2020-09-30T01:00:00.000Z	0	48	48		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Beja,_Portugal	Beja, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		45			0			0			1.22		https://covid19.min-saude.pt/
 Belarus	Belarus	2020-09-30	2020-09-29T03:00:00.000Z	828	78260	74320	1841704						4.57	271.86	108.0	http://stopcovid.belta.by/
 Belgium	Belgium	2020-09-30	2020-09-29T00:00:00.000Z	9987	115353								4.14	822.0		https://epistat.wiv-isp.be/Covid/
@@ -72,28 +72,28 @@ Cambodia	Cambodia	2020-09-30	2020-09-30T07:00:00.000Z	0	277	274		0	0	0	-1	0	0.0	
 Caminha	Caminha	2020-09-30	2020-09-29T23:00:00.000Z		43			0			0			0.22		https://covid19.min-saude.pt/
 Campania	Campania	2020-09-30		463	12455	6027	590407				286		0.86	221.14	92.0	http://www.salute.gov.it/
 Cantanhede,_Portugal	Cantanhede, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		146			0			0			1.56		https://covid19.min-saude.pt/
-Canton_of_Aargau	Canton of Aargau	2020-09-30	2020-09-28T22:00:00.000Z	54	2601								0.0	8.43		https://www.bag.admin.ch/
-Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-09-30	2020-09-28T22:00:00.000Z	3	165								0.0	0.57		https://www.bag.admin.ch/
-Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-09-30	2020-09-28T22:00:00.000Z	0	39								0.0	0.43		https://www.bag.admin.ch/
-Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-09-30	2020-09-28T22:00:00.000Z	37	1178								0.0	7.57		https://www.bag.admin.ch/
-Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-09-30	2020-09-28T22:00:00.000Z	54	1312								0.0	2.29		https://www.bag.admin.ch/
-Canton_of_Bern	Canton of Bern	2020-09-30	2020-09-28T22:00:00.000Z	103	3456								0.43	31.0		https://www.bag.admin.ch/
-Canton_of_Fribourg	Canton of Fribourg	2020-09-30	2020-09-28T22:00:00.000Z	102	2405								0.0	11.29		https://www.bag.admin.ch/
-Canton_of_Glarus	Canton of Glarus	2020-09-30	2020-09-28T22:00:00.000Z	13	181								0.0	0.57		https://www.bag.admin.ch/
-Canton_of_Grisons	Canton of Grisons	2020-09-30	2020-09-28T22:00:00.000Z	50	1081								0.0	2.29		https://www.bag.admin.ch/
-Canton_of_Jura	Canton of Jura	2020-09-30	2020-09-28T22:00:00.000Z	7	321								0.0	2.14		https://www.bag.admin.ch/
-Canton_of_Lucerne	Canton of Lucerne	2020-09-30	2020-09-28T22:00:00.000Z	23	1222								0.0	4.14		https://www.bag.admin.ch/
-Canton_of_Nidwalden	Canton of Nidwalden	2020-09-30	2020-09-28T22:00:00.000Z	3	145								0.0	0.43		https://www.bag.admin.ch/
-Canton_of_Obwalden	Canton of Obwalden	2020-09-30	2020-09-28T22:00:00.000Z	0	122								0.0	0.71		https://www.bag.admin.ch/
-Canton_of_Schaffhausen	Canton of Schaffhausen	2020-09-30	2020-09-28T22:00:00.000Z	8	193								0.0	0.86		https://www.bag.admin.ch/
-Canton_of_Schwyz	Canton of Schwyz	2020-09-30	2020-09-28T22:00:00.000Z	25	573								0.0	2.43		https://www.bag.admin.ch/
-Canton_of_St._Gallen	Canton of St. Gallen	2020-09-30	2020-09-28T22:00:00.000Z	41	1622								0.0	7.14		https://www.bag.admin.ch/
-Canton_of_Thurgau	Canton of Thurgau	2020-09-30	2020-09-28T22:00:00.000Z	19	714								0.0	2.86		https://www.bag.admin.ch/
-Canton_of_Ticino	Canton of Ticino	2020-09-30	2020-09-28T22:00:00.000Z	350	3640								0.0	1.86		https://www.bag.admin.ch/
-Canton_of_Uri	Canton of Uri	2020-09-30	2020-09-28T22:00:00.000Z	7	142								0.0	0.14		https://www.bag.admin.ch/
-Canton_of_Valais	Canton of Valais	2020-09-30	2020-09-28T22:00:00.000Z	156	2690								0.0	8.57		https://www.bag.admin.ch/
-Canton_of_Zug	Canton of Zug	2020-09-30	2020-09-28T22:00:00.000Z	9	433								0.0	1.43		https://www.bag.admin.ch/
-Canton_of_Zürich	Canton of Zürich	2020-09-30	2020-09-28T22:00:00.000Z	147	7863								0.29	44.43		https://www.bag.admin.ch/
+Canton_of_Aargau	Canton of Aargau	2020-09-30	2020-09-29T22:00:00.000Z	54	2601			0	0		-34	0	0.0	8.43		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-09-30	2020-09-29T22:00:00.000Z	3	165			0	0		0	0	0.0	0.57		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-09-30	2020-09-29T22:00:00.000Z	0	39			0	0		0	0	0.0	0.43		https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-09-30	2020-09-29T22:00:00.000Z	37	1178			0	0		-1	0	0.0	7.57		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-09-30	2020-09-29T22:00:00.000Z	54	1312			0	0		-1	0	0.0	2.29		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2020-09-30	2020-09-29T22:00:00.000Z	103	3456			0	0		-24	-2	0.43	31.0		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2020-09-30	2020-09-29T22:00:00.000Z	102	2405			0	0		-15	0	0.0	11.29		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2020-09-30	2020-09-29T22:00:00.000Z	13	181			0	0		-1	0	0.0	0.57		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2020-09-30	2020-09-29T22:00:00.000Z	50	1081			0	0		-6	0	0.0	2.29		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2020-09-30	2020-09-29T22:00:00.000Z	7	321			0	0		-13	0	0.0	2.14		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2020-09-30	2020-09-29T22:00:00.000Z	23	1222			0	0		-4	0	0.0	4.14		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2020-09-30	2020-09-29T22:00:00.000Z	3	145			0	0		0	0	0.0	0.43		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2020-09-30	2020-09-29T22:00:00.000Z	0	122			0	0		-1	0	0.0	0.71		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2020-09-30	2020-09-29T22:00:00.000Z	8	193			0	0		0	0	0.0	0.86		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2020-09-30	2020-09-29T22:00:00.000Z	25	573			0	0		-3	0	0.0	2.43		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2020-09-30	2020-09-29T22:00:00.000Z	41	1622			0	0		-5	0	0.0	7.14		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2020-09-30	2020-09-29T22:00:00.000Z	19	714			0	0		0	0	0.0	2.86		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2020-09-30	2020-09-29T22:00:00.000Z	350	3640			0	0		-3	0	0.0	1.86		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2020-09-30	2020-09-29T22:00:00.000Z	7	142			0	0		-1	0	0.0	0.14		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2020-09-30	2020-09-29T22:00:00.000Z	156	2690			0	0		-15	0	0.0	8.57		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2020-09-30	2020-09-29T22:00:00.000Z	9	433			0	0		-1	0	0.0	1.43		https://www.bag.admin.ch/
+Canton_of_Zürich	Canton of Zürich	2020-09-30	2020-09-29T22:00:00.000Z	147	7863			0	0		-65	0	0.29	44.43		https://www.bag.admin.ch/
 Carinthia	Carinthia	2020-09-30	2020-09-29T20:00:00.000Z	13		735							0.0		7.86	https://info.gesundheitsministerium.at/
 Carregal_do_Sal	Carregal do Sal	2020-09-30	2020-09-29T23:00:00.000Z		16			0			0			0.44		https://covid19.min-saude.pt/
 Cartaxo	Cartaxo	2020-09-30	2020-09-29T23:00:00.000Z		109			0			0			0.56		https://covid19.min-saude.pt/
@@ -116,11 +116,11 @@ Condeixa-a-Nova	Condeixa-a-Nova	2020-09-30	2020-09-29T23:00:00.000Z		164			0			0
 Corsica	Corsica	2020-09-30		65		294							0.29		1.14	https://www.santepubliquefrance.fr/
 Coruche	Coruche	2020-09-30	2020-09-29T23:00:00.000Z		77			0			0			0.56		https://covid19.min-saude.pt/
 Cuba,_Portugal	Cuba, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		10			0			0			0.11		https://covid19.min-saude.pt/
-Czech_Republic	Czech Republic	2020-09-30	2020-09-29T16:10:00.000Z	635	66788	32693	1347141						12.0	1792.0	854.86	https://onemocneni-aktualne.mzcr.cz/
+Czech_Republic	Czech Republic	2020-09-30	2020-09-29T23:00:00.000Z	636	67843	32759	1347141						12.14	1942.71	864.29	https://onemocneni-aktualne.mzcr.cz/
 Dagestan	Dagestan	2020-09-30	2020-09-29T08:10:00.000Z	612	13347	11481		83			0		6.86	70.86	64.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Deutschlandsberg_District	Deutschlandsberg District	2020-09-30	2020-09-29T20:00:00.000Z		101									0.57		https://info.gesundheitsministerium.at/
 Dornbirn_District	Dornbirn District	2020-09-30	2020-09-29T20:00:00.000Z		458									4.71		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-09-30	2020-09-30T02:37:43.236Z	999968	33424268								4306.29	246930.0	208319.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-09-30	2020-09-30T03:49:08.797Z	1000546	33430382								4388.86	247803.43	208803.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-09-30		175	8713	8385							0.71	15.43	6.57	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-09-30	2020-09-29T20:00:00.000Z		127									0.14		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-09-30	2020-09-29T20:00:00.000Z		45									-0.29		https://info.gesundheitsministerium.at/
@@ -152,7 +152,7 @@ Greenland	Greenland	2020-09-30	2020-09-29T12:00:00.000Z	0	14	14	8042						0.0	0.
 Grieskirchen_District	Grieskirchen District	2020-09-30	2020-09-29T20:00:00.000Z		186									2.29		https://info.gesundheitsministerium.at/
 Guarda,_Portugal	Guarda, Portugal	2020-09-30	2020-09-29T23:00:00.000Z		89			0			0			0.78		https://covid19.min-saude.pt/
 Hauts-de-France	Hauts-de-France	2020-09-30		2013		7862							3.0		27.57	https://www.santepubliquefrance.fr/
-Hawke's_Bay_Region	Hawke's Bay Region	2020-09-30	2020-09-29T01:00:00.000Z	0	44	44							0.0	0.0	0.0	https://www.health.govt.nz/
+Hawke's_Bay_Region	Hawke's Bay Region	2020-09-30	2020-09-30T01:00:00.000Z	0	44	44		0	0	0	0	0	0.0	0.0	0.0	https://www.health.govt.nz/
 Hermagor_District	Hermagor District	2020-09-30	2020-09-29T20:00:00.000Z		40									5.0		https://info.gesundheitsministerium.at/
 Hollabrunn_District	Hollabrunn District	2020-09-30	2020-09-29T20:00:00.000Z		85									0.14		https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2020-09-30	2020-09-29T20:00:00.000Z		112									0.14		https://info.gesundheitsministerium.at/
@@ -385,6 +385,7 @@ Tatarstan	Tatarstan	2020-09-30	2020-09-29T08:10:00.000Z	48	7205	6065		22			0		0.
 Tavira	Tavira	2020-09-30	2020-09-29T23:00:00.000Z		69			0			0			2.44		https://covid19.min-saude.pt/
 Tboung_Khmum_Province	Tboung Khmum Province	2020-09-30	2020-09-30T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Terras_de_Bouro	Terras de Bouro	2020-09-30	2020-09-29T23:00:00.000Z		40			0			0			0.11		https://covid19.min-saude.pt/
+Tocantins	Tocantins	2020-09-30	2020-09-29T22:00:00.000Z	930	67479								5.71	384.57		https://covid.saude.gov.br/
 Tomar	Tomar	2020-09-30	2020-09-29T23:00:00.000Z		95			0			0			0.11		https://covid19.min-saude.pt/
 Tomsk_Oblast	Tomsk Oblast	2020-09-30	2020-09-29T08:10:00.000Z	85	7401	6127		81			0		0.57	63.0	61.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tondela	Tondela	2020-09-30	2020-09-29T23:00:00.000Z		32			0			0			0.33		https://covid19.min-saude.pt/
