@@ -460,6 +460,7 @@ id	type	woeId	label	wikiId	countryCode	stateCode	countyCode	longitude	latitude	p
 29918,_Estill,_South_Carolina,_South_Carolina	PostalZip	12770465	29918, Estill, South Carolina, South Carolina					-81.26342	32.73573		Estill,_South_Carolina
 29920,_Saint_Helena_Island_(South_Carolina),_South_Carolina	PostalZip	12770466	29920, Saint Helena Island (South Carolina), South Carolina					-80.55198	32.36305		Saint_Helena_Island_(South_Carolina)
 29921,_Furman,_South_Carolina,_South_Carolina	PostalZip	12770467	29921, Furman, South Carolina, South Carolina					-81.18144	32.67369		Furman,_South_Carolina
+29922,_Garnett,_South_Carolina,_South_Carolina	PostalZip	12770468	29922, Garnett, South Carolina, South Carolina					-81.27959	32.61323		Garnett,_South_Carolina
 29923,_Gifford,_South_Carolina,_South_Carolina	PostalZip	12770469	29923, Gifford, South Carolina, South Carolina					-81.23725	32.86014		Gifford,_South_Carolina
 29924,_Hampton,_South_Carolina,_South_Carolina	PostalZip	12770470	29924, Hampton, South Carolina, South Carolina					-81.1019	32.88647		Hampton,_South_Carolina
 29925,_Hilton_Head_Island,_South_Carolina,_South_Carolina	PostalZip	12770471	29925, Hilton Head Island, South Carolina, South Carolina					-80.73813	32.21627		Hilton_Head_Island,_South_Carolina
@@ -3007,7 +3008,7 @@ Estill_County,_Kentucky	CountyAdminArea	12588508	Estill County, Kentucky	Estill_
 Estill,_South_Carolina	CityTown	2400368	Estill, South Carolina	Estill,_South_Carolina				-81.23992	32.75396	2040	Hampton_County,_South_Carolina
 Estonia	Country	23424805	Estonia	Estonia	EE			25.80695	58.59232	1321977	Earth
 Eswatini	Country	23424993	Eswatini	Eswatini	SZ			31.46568	-26.51837	1136191	Earth
-Ethiopia	CountyAdminArea|Country	23424808	Ethiopia	Ethiopia	ET			40.49305	9.1473	109224559	Earth
+Ethiopia	Country	23424808	Ethiopia	Ethiopia	ET			40.49305	9.1473	109224559	Earth
 Etowah_County,_Alabama	CountyAdminArea	12587514	Etowah County, Alabama	Etowah_County,_Alabama			01055	-86.05351	34.02113	102268	Alabama
 Eucha,_Oklahoma	CityTown	2400504	Eucha, Oklahoma	Eucha,_Oklahoma				-94.8819	36.39196		Delaware_County,_Oklahoma
 Eufaula,_Oklahoma	CountyAdminArea|CityTown	2400528	Eufaula, Oklahoma	Eufaula,_Oklahoma				-95.58242	35.28785	2813	McIntosh_County,_Oklahoma
@@ -4066,7 +4067,7 @@ Krems_an_der_Donau	CityTown	542516	Krems an der Donau	Krems_an_der_Donau				15.5
 Kufstein_District	CountyAdminArea	12591744	Kufstein District	Kufstein_District				12.05468	47.53207	101321	Tyrol_(state)
 Kurgan_Oblast	CountyAdminArea|StateAdminArea	12598548	Kurgan Oblast	Kurgan_Oblast				65.3053	55.4143		Russia
 Kursk_Oblast	CountyAdminArea|StateAdminArea	12598579	Kursk Oblast	Kursk_Oblast				36.1871	51.7173		Russia
-Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02270	-163.23764	62.11722	8314	Alaska
+Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02158	-163.23764	62.11722	8314	Alaska
 Kuwait	Country	23424870	Kuwait	Kuwait	KW			47.49445	29.31015	4137309	Earth
 Kyrgyzstan	Country	23424864	Kyrgyzstan	Kyrgyzstan	KG			74.7799	41.20554	6322800	Earth
 Kyzylorda_Region	StateAdminArea	2345990	Kyzylorda Region	Kyzylorda_Region				63.48485	45.36045	799533	Hotel_Kazakhstan
@@ -4526,7 +4527,7 @@ Manchester,_New_Hampshire	CountyAdminArea|CityTown	2444674	Manchester, New Hamps
 Mangualde	CityTown	743108	Mangualde	Mangualde				-7.75476	40.60438		Portugal
 Mangum,_Oklahoma	CountyAdminArea|CityTown	2444753	Mangum, Oklahoma	Mangum,_Oklahoma				-99.50373	34.87859	3010	Greer_County,_Oklahoma
 Mangystau_Region	StateAdminArea		Mangystau Region	Mangystau_Region				52.0	43.866665	596706	
-Manhattan	CountyAdminArea|CityTown	12589342	Manhattan	Manhattan			36061	-73.96644	40.79086	1628706	New_York_City
+Manhattan	CountyAdminArea|CityTown	12589342	Manhattan	Manhattan				-73.96644	40.79086	1628706	New_York_City
 Manhattan_Beach,_California	CountyAdminArea|CityTown	2444777	Manhattan Beach, California	Manhattan_Beach,_California				-118.3974	33.88945	35135	Los_Angeles_County,_California
 Manhattan,_Illinois	CityTown	2444760	Manhattan, Illinois	Manhattan,_Illinois				-87.98147	41.42922	7051	Will_County,_Illinois
 Manipur	StateAdminArea	2345751	Manipur	Manipur				93.85573	24.76383	2855794	India
@@ -4868,7 +4869,7 @@ Monroe_County,_Pennsylvania	CountyAdminArea	12589772	Monroe County, Pennsylvania
 Monroe_County,_Tennessee	CountyAdminArea	12589973	Monroe County, Tennessee	Monroe_County,_Tennessee			47123	-84.23226	35.43818	46545	Tennessee
 Monroe_County,_West_Virginia	CountyAdminArea	12590510	Monroe County, West Virginia	Monroe_County,_West_Virginia			54063	-80.53975	37.55209	13275	West_Virginia
 Monroe_County,_Wisconsin	CountyAdminArea	12590575	Monroe County, Wisconsin	Monroe_County,_Wisconsin			55081	-90.645	43.94317	46253	Wisconsin
-Monroe,_Massachusetts	CountyAdminArea|CityTown	2453035	Monroe, Massachusetts	Monroe,_Massachusetts				-72.98266	42.72261	121	Franklin_County,_Massachusetts
+Monroe,_Massachusetts	CityTown	2453035	Monroe, Massachusetts	Monroe,_Massachusetts				-72.98266	42.72261	121	Franklin_County,_Massachusetts
 Monrovia,_California	CountyAdminArea|CityTown	2453077	Monrovia, California	Monrovia,_California				-117.99224	34.16552	36590	Los_Angeles_County,_California
 Monson,_Massachusetts	CityTown	2453090	Monson, Massachusetts	Monson,_Massachusetts				-72.3151	42.09895	8560	Hampden_County,_Massachusetts
 Montague_County,_Texas	CountyAdminArea	12590175	Montague County, Texas	Montague_County,_Texas			48337	-97.73463	33.7135	19818	Texas
@@ -5212,7 +5213,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown	744649	Odivelas	Odivelas				-9.17687	38.79129		Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295		Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	20997	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	50643	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
