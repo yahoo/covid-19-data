@@ -3420,7 +3420,7 @@ Guatemala	Country	23424834	Guatemala	Guatemala	GT			-90.23231	15.77625	17247807	
 Guernsey	CountyAdminArea|Island	24548847	Guernsey	Guernsey				-2.58867	49.46229	62792	Channel_Islands
 Guernsey_County,_Ohio	CountyAdminArea	12589556	Guernsey County, Ohio	Guernsey_County,_Ohio			39059	-81.47719	40.03077	38875	Ohio
 Guilford_County,_North_Carolina	CountyAdminArea	12589414	Guilford County, North Carolina	Guilford_County,_North_Carolina			37081	-79.78959	36.07866	537174	North_Carolina
-Guimarães	CountyAdminArea|CityTown	742124	Guimarães	Guimarães				-8.29424	41.44512		Portugal
+Guimarães	CityTown	742124	Guimarães	Guimarães				-8.29424	41.44512		Portugal
 Guinea	Country	23424835	Guinea	Guinea	GN			-9.66063	9.93488	12414318	Earth
 Guinea-Bissau	Country	23424929	Guinea-Bissau	Guinea-Bissau	GW			-15.17702	11.80252	1874309	Earth
 Gujarat	StateAdminArea	2345743	Gujarat	Gujarat				71.30462	22.40823	60439692	India
@@ -4231,7 +4231,7 @@ Leibnitz_District	CountyAdminArea	12591731	Leibnitz District	Leibnitz_District		
 Leicester	CountyAdminArea|CityTown	26062	Leicester	Leicester				-1.12904	52.63696	329839	Leicestershire
 Leicester,_Massachusetts	CityTown	2438070	Leicester, Massachusetts	Leicester,_Massachusetts				-71.91204	42.24001	10970	Worcester_County,_Massachusetts
 Leicestershire	CountyAdminArea	12602144	Leicestershire	Leicestershire				-1.11407	52.66671		East_Midlands
-Leiria	CountyAdminArea|CityTown	742627	Leiria	Leiria				-8.81196	39.74364		Portugal
+Leiria	CityTown	742627	Leiria	Leiria				-8.81196	39.74364		Portugal
 Lemhi_County,_Idaho	CountyAdminArea	12588063	Lemhi County, Idaho	Lemhi_County,_Idaho			16059	-113.8169	44.96804	8027	Idaho
 Lemont,_Illinois	CityTown	2438224	Lemont, Illinois	Lemont,_Illinois				-87.99799	41.67478	16000	Cook_County,_Illinois
 Lenapah,_Oklahoma	CityTown	2438257	Lenapah, Oklahoma	Lenapah,_Oklahoma				-95.63586	36.85127	293	Nowata_County,_Oklahoma
@@ -4868,7 +4868,7 @@ Monroe_County,_Pennsylvania	CountyAdminArea	12589772	Monroe County, Pennsylvania
 Monroe_County,_Tennessee	CountyAdminArea	12589973	Monroe County, Tennessee	Monroe_County,_Tennessee			47123	-84.23226	35.43818	46545	Tennessee
 Monroe_County,_West_Virginia	CountyAdminArea	12590510	Monroe County, West Virginia	Monroe_County,_West_Virginia			54063	-80.53975	37.55209	13275	West_Virginia
 Monroe_County,_Wisconsin	CountyAdminArea	12590575	Monroe County, Wisconsin	Monroe_County,_Wisconsin			55081	-90.645	43.94317	46253	Wisconsin
-Monroe,_Massachusetts	CityTown	2453035	Monroe, Massachusetts	Monroe,_Massachusetts				-72.98266	42.72261	121	Franklin_County,_Massachusetts
+Monroe,_Massachusetts	CountyAdminArea|CityTown	2453035	Monroe, Massachusetts	Monroe,_Massachusetts				-72.98266	42.72261	121	Franklin_County,_Massachusetts
 Monrovia,_California	CountyAdminArea|CityTown	2453077	Monrovia, California	Monrovia,_California				-117.99224	34.16552	36590	Los_Angeles_County,_California
 Monson,_Massachusetts	CityTown	2453090	Monson, Massachusetts	Monson,_Massachusetts				-72.3151	42.09895	8560	Hampden_County,_Massachusetts
 Montague_County,_Texas	CountyAdminArea	12590175	Montague County, Texas	Montague_County,_Texas			48337	-97.73463	33.7135	19818	Texas
@@ -4937,7 +4937,7 @@ Morris_County,_New_Jersey	CountyAdminArea	12589271	Morris County, New Jersey	Mor
 Morris_County,_Texas	CountyAdminArea	12590178	Morris County, Texas	Morris_County,_Texas			48343	-94.73604	33.12272	12388	Texas
 Morris,_Illinois	CountyAdminArea|CityTown	2454257	Morris, Illinois	Morris,_Illinois				-88.42495	41.35869	13636	Grundy_County,_Illinois
 Morrison_County,_Minnesota	CountyAdminArea	12588845	Morrison County, Minnesota	Morrison_County,_Minnesota			27097	-94.20852	46.06126	33386	Minnesota
-Morrison,_Illinois	CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
+Morrison,_Illinois	CountyAdminArea|CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
 Morrow_County,_Ohio	CountyAdminArea	12589585	Morrow County, Ohio	Morrow_County,_Ohio			39117	-82.82287	40.52887	35328	Ohio
 Morrow_County,_Oregon	CountyAdminArea	12589716	Morrow County, Oregon	Morrow_County,_Oregon			41049	-119.57607	45.46	11603	Oregon
 Mortágua	CountyAdminArea|CityTown		Mortágua	Mortágua				-8.233334	40.433334		
@@ -5212,7 +5212,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown	744649	Odivelas	Odivelas				-9.17687	38.79129		Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295		Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	20997	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	50643	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
@@ -6610,7 +6610,7 @@ Union_Parish,_Louisiana	CountyAdminArea	12588651	Union Parish, Louisiana	Union_P
 Union,_South_Carolina	CountyAdminArea|CityTown	2509732	Union, South Carolina	Union,_South_Carolina				-81.62516	34.72316	8393	Union_County,_South_Carolina
 United_Arab_Emirates	Country	23424738	United Arab Emirates	United_Arab_Emirates	AE			53.9769	24.01438	9630959	Earth
 United_Kingdom	Country	23424975	United Kingdom	United_Kingdom	GB			-2.23001	54.31407	66460344	Earth
-United_States	Country	23424977	United States	United_States	US			-95.84502	37.16793	326687501	Earth
+United_States	Country|StateAdminArea	23424977	United States	United_States	US			-95.84502	37.16793	326687501	Earth
 United_States_Virgin_Islands	StateAdminArea	23424985	United States Virgin Islands	United_States_Virgin_Islands				-64.73629	17.73655	106405	United_States
 University_Park,_Illinois	CityTown	2510149	University Park, Illinois	University_Park,_Illinois				-87.71987	41.44616	7129	Will_County,_Illinois
 Upper_Austria	StateAdminArea		Upper Austria	Upper_Austria						1490392	Austria
