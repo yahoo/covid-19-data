@@ -360,6 +360,449 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 29941,_Sheldon,_South_Carolina,_South_Carolina	29941, Sheldon, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
 29944,_Varnville,_South_Carolina,_South_Carolina	29944, Varnville, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		156			1			0			0.57		https://www.scdhec.gov/
 29945,_Yemassee,_South_Carolina,_South_Carolina	29945, Yemassee, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		125			-1			-1			-0.14		https://www.scdhec.gov/
+60002,_Antioch,_Illinois,_Illinois	60002, Antioch, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		348		5514	8			-64			11.43		http://www.dph.illinois.gov/
+60004,_Arlington_Heights,_Illinois,_Illinois	60004, Arlington Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		961		26869	24			-118			23.71		http://www.dph.illinois.gov/
+60005,_Arlington_Heights,_Illinois,_Illinois	60005, Arlington Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		637		15451	15			-97			18.14		http://www.dph.illinois.gov/
+60007,_Elk_Grove_Village,_Illinois,_Illinois	60007, Elk Grove Village, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		808		13145	21			-103			20.71		http://www.dph.illinois.gov/
+60008,_Rolling_Meadows,_Illinois,_Illinois	60008, Rolling Meadows, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		808		11956	22			-133			25.29		http://www.dph.illinois.gov/
+60010,_Barrington_station,_Illinois	60010, Barrington station, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		761		17437	4			-115			17.57		http://www.dph.illinois.gov/
+60012,_Crystal_Lake,_Illinois,_Illinois	60012, Crystal Lake, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		205		4167	2			-33			5.29		http://www.dph.illinois.gov/
+60013,_Cary,_Illinois,_Illinois	60013, Cary, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		404		7255	10			-55			10.71		http://www.dph.illinois.gov/
+60014,_Crystal_Lake,_Illinois,_Illinois	60014, Crystal Lake, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1022		15805	19			-183			31.57		http://www.dph.illinois.gov/
+60015,_Deerfield,_Illinois,_Illinois	60015, Deerfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		547		13065	8			-113			18.43		http://www.dph.illinois.gov/
+60016,_Des_Plaines,_Illinois,_Illinois	60016, Des Plaines, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1959		26038	33			-191			36.71		http://www.dph.illinois.gov/
+60018,_Des_Plaines,_Illinois,_Illinois	60018, Des Plaines, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1178		16865	23			-107			21.86		http://www.dph.illinois.gov/
+60020,_Fox_Lake,_Illinois,_Illinois	60020, Fox Lake, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		188		3844	4			-37			6.43		http://www.dph.illinois.gov/
+60021,_Fox_River_Grove,_Illinois,_Illinois	60021, Fox River Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		74		1389	0			-10			1.43		http://www.dph.illinois.gov/
+60022,_Glencoe,_Illinois,_Illinois	60022, Glencoe, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		106		3707	1			-13			2.14		http://www.dph.illinois.gov/
+60025,_Glenview,_Illinois,_Illinois	60025, Glenview, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		937		18373	14			-143			24.43		http://www.dph.illinois.gov/
+60026,_Glenview,_Illinois,_Illinois	60026, Glenview, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		329		8441	8			-26			6.0		http://www.dph.illinois.gov/
+60030,_Grayslake,_Illinois,_Illinois	60030, Grayslake, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		645		13359	20			-74			16.29		http://www.dph.illinois.gov/
+60031,_Gurnee,_Illinois,_Illinois	60031, Gurnee, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		939		15863	12			-116			20.0		http://www.dph.illinois.gov/
+60033,_Harvard,_Illinois,_Illinois	60033, Harvard, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		574		5457	8			-54			10.0		http://www.dph.illinois.gov/
+60035,_Highland_Park,_Illinois,_Illinois	60035, Highland Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		571		18117	13			-77			14.71		http://www.dph.illinois.gov/
+60040,_Highwood,_Illinois,_Illinois	60040, Highwood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		290		4323	13			-9			5.0		http://www.dph.illinois.gov/
+60041,_Ingleside,_Illinois,_Illinois	60041, Ingleside, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		185		3026	3			-42			6.86		http://www.dph.illinois.gov/
+60042,_Island_Lake,_Illinois,_Illinois	60042, Island Lake, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		143		2406	4			-15			3.29		http://www.dph.illinois.gov/
+60043,_Kenilworth,_Illinois,_Illinois	60043, Kenilworth, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		51		1145	1			-9			1.57		http://www.dph.illinois.gov/
+60044,_Lake_Bluff,_Illinois,_Illinois	60044, Lake Bluff, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		238		7063	3			-33			5.57		http://www.dph.illinois.gov/
+60045,_Lake_Forest,_Illinois,_Illinois	60045, Lake Forest, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		302		10393	3			-36			6.0		http://www.dph.illinois.gov/
+60046,_Lake_Villa,_Illinois,_Illinois	60046, Lake Villa, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		709		11483	16			-116			21.14		http://www.dph.illinois.gov/
+60047,_Lake_Zurich,_Illinois,_Illinois	60047, Lake Zurich, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		982		19096	9			-88			15.14		http://www.dph.illinois.gov/
+60048,_Libertyville,_Illinois,_Illinois	60048, Libertyville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		504		12150	12			-77			14.43		http://www.dph.illinois.gov/
+60050,_McHenry,_Illinois,_Illinois	60050, McHenry, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		598		10701	11			-106			18.29		http://www.dph.illinois.gov/
+60051,_McHenry,_Illinois,_Illinois	60051, McHenry, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		406		7409	10			-70			12.86		http://www.dph.illinois.gov/
+60053,_Morton_Grove,_Illinois,_Illinois	60053, Morton Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		661		13534	14			-94			17.43		http://www.dph.illinois.gov/
+60056,_Mount_Prospect,_Illinois,_Illinois	60056, Mount Prospect, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1349		20893	20			-173			30.43		http://www.dph.illinois.gov/
+60060,_Mundelein,_Illinois,_Illinois	60060, Mundelein, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		984		12620	21			-105			21.0		http://www.dph.illinois.gov/
+60061,_Vernon_Hills,_Illinois,_Illinois	60061, Vernon Hills, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		465		10048	6			-51			9.0		http://www.dph.illinois.gov/
+60062,_Northbrook,_Illinois,_Illinois	60062, Northbrook, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		796		28243	32			-99			23.29		http://www.dph.illinois.gov/
+60064,_North_Chicago,_Illinois,_Illinois	60064, North Chicago, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1448		7056	14			-100			18.29		http://www.dph.illinois.gov/
+60067,_Palatine,_Illinois,_Illinois	60067, Palatine, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		925		22248	20			-137			25.29		http://www.dph.illinois.gov/
+60068,_Park_Ridge,_Illinois,_Illinois	60068, Park Ridge, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		833		17890	18			-91			18.14		http://www.dph.illinois.gov/
+60069,_Lincolnshire,_Illinois,_Illinois	60069, Lincolnshire, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		194		8222	2			-14			2.57		http://www.dph.illinois.gov/
+60070,_Prospect_Heights,_Illinois,_Illinois	60070, Prospect Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		506		8071	11			-40			8.86		http://www.dph.illinois.gov/
+60071,_Richmond,_Illinois,_Illinois	60071, Richmond, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		74		1238	0			-19			2.71		http://www.dph.illinois.gov/
+60073,_Round_Lake,_Illinois,_Illinois	60073, Round Lake, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2387		23528	41			-255			48.14		http://www.dph.illinois.gov/
+60074,_Palatine,_Illinois,_Illinois	60074, Palatine, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1097		14142	16			-148			25.71		http://www.dph.illinois.gov/
+60076,_Skokie,_Illinois,_Illinois	60076, Skokie, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1016		16744	11			-106			18.29		http://www.dph.illinois.gov/
+60077,_Skokie,_Illinois,_Illinois	60077, Skokie, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		754		15048	11			-76			14.0		http://www.dph.illinois.gov/
+60081,_Spring_Grove,_Illinois,_Illinois	60081, Spring Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		180		2612	0			-37			5.29		http://www.dph.illinois.gov/
+60083,_Wadsworth,_Illinois,_Illinois	60083, Wadsworth, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		264		3948	10			-25			6.43		http://www.dph.illinois.gov/
+60084,_Wauconda,_Illinois,_Illinois	60084, Wauconda, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		350		7470	3			-30			5.14		http://www.dph.illinois.gov/
+60085,_Waukegan,_Illinois,_Illinois	60085, Waukegan, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		4086		36289	68			-224			51.43		http://www.dph.illinois.gov/
+60087,_Waukegan,_Illinois,_Illinois	60087, Waukegan, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1350		12547	14			-126			22.0		http://www.dph.illinois.gov/
+60089,_Buffalo_Grove,_Illinois,_Illinois	60089, Buffalo Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		714		16210	15			-77			15.29		http://www.dph.illinois.gov/
+60090,_Wheeling_station_(Illinois),_Illinois	60090, Wheeling station (Illinois), Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1405		18980	17			-103			19.57		http://www.dph.illinois.gov/
+60091,_Wilmette,_Illinois,_Illinois	60091, Wilmette, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		422		11455	7			-46			8.57		http://www.dph.illinois.gov/
+60093,_Winnetka,_Illinois,_Illinois	60093, Winnetka, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		395		9082	8			-47			9.0		http://www.dph.illinois.gov/
+60096,_Winthrop_Harbor,_Illinois,_Illinois	60096, Winthrop Harbor, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		162		2036	6			-20			4.57		http://www.dph.illinois.gov/
+60097,_Wonder_Lake_(CDP),_Illinois,_Illinois	60097, Wonder Lake (CDP), Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		195		3409	6			-36			6.86		http://www.dph.illinois.gov/
+60098,_Woodstock,_Illinois,_Illinois	60098, Woodstock, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		920		13972	18			-153			27.0		http://www.dph.illinois.gov/
+60099,_Zion,_Illinois,_Illinois	60099, Zion, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1240		13553	30			-110			24.29		http://www.dph.illinois.gov/
+60101,_Addison,_Illinois,_Illinois	60101, Addison, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1684		14406	20			-238			39.71		http://www.dph.illinois.gov/
+60102,_Algonquin,_Illinois,_Illinois	60102, Algonquin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		749		9850	13			-141			23.86		http://www.dph.illinois.gov/
+60103,_Bartlett,_Illinois,_Illinois	60103, Bartlett, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1088		17220	30			-175			33.57		http://www.dph.illinois.gov/
+60104,_Bellwood_station_(Metra),_Illinois	60104, Bellwood station (Metra), Illinois	2020-10-28	2020-10-28T05:00:00.000Z		785		8465	13			-46			10.29		http://www.dph.illinois.gov/
+60106,_Bensenville,_Illinois,_Illinois	60106, Bensenville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		924		10147	16			-97			18.43		http://www.dph.illinois.gov/
+60107,_Streamwood,_Illinois,_Illinois	60107, Streamwood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1485		16556	21			-195			33.86		http://www.dph.illinois.gov/
+60108,_Bloomingdale,_Illinois,_Illinois	60108, Bloomingdale, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		772		15008	7			-92			15.14		http://www.dph.illinois.gov/
+60109,_Burlington,_Illinois,_Illinois	60109, Burlington, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		21		540	0			-2			0.29		http://www.dph.illinois.gov/
+60110,_Carpentersville,_Illinois,_Illinois	60110, Carpentersville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1550		12361	18			-160			28.0		http://www.dph.illinois.gov/
+60112,_Cortland,_Illinois,_Illinois	60112, Cortland, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		124		1802	-1			-40			5.43		http://www.dph.illinois.gov/
+60115,_DeKalb,_Illinois,_Illinois	60115, DeKalb, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1218		21847	16			-199			33.0		http://www.dph.illinois.gov/
+60119,_Elburn,_Illinois,_Illinois	60119, Elburn, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		207		3821	10			-43			9.0		http://www.dph.illinois.gov/
+60120,_Elgin,_Illinois,_Illinois	60120, Elgin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2469		18408	37			-215			41.29		http://www.dph.illinois.gov/
+60123,_Elgin,_Illinois,_Illinois	60123, Elgin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1851		21260	24			-178			32.29		http://www.dph.illinois.gov/
+60126,_Elmhurst,_Illinois,_Illinois	60126, Elmhurst, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1225		24836	16			-136			24.0		http://www.dph.illinois.gov/
+60130,_Forest_Park,_Illinois,_Illinois	60130, Forest Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		370		12239	9			-26			6.29		http://www.dph.illinois.gov/
+60131,_Franklin_Park,_Illinois,_Illinois	60131, Franklin Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		802		7620	19			-96			19.14		http://www.dph.illinois.gov/
+60134,_Geneva,_Illinois,_Illinois	60134, Geneva, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		693		12570	17			-112			20.86		http://www.dph.illinois.gov/
+60135,_Genoa,_Illinois,_Illinois	60135, Genoa, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		173		2605	6			-29			5.86		http://www.dph.illinois.gov/
+60136,_Gilberts,_Illinois,_Illinois	60136, Gilberts, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		224		2643	3			-44			7.14		http://www.dph.illinois.gov/
+60137,_Glen_Ellyn,_Illinois,_Illinois	60137, Glen Ellyn, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		833		17278	17			-151			26.43		http://www.dph.illinois.gov/
+60139,_Glendale_Heights,_Illinois,_Illinois	60139, Glendale Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1304		13474	16			-163			27.86		http://www.dph.illinois.gov/
+60140,_Hampshire,_Illinois,_Illinois	60140, Hampshire, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		429		6121	12			-83			15.29		http://www.dph.illinois.gov/
+60141,_Hines,_Illinois,_Illinois	60141, Hines, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		32		1676	-1			-2			0.0		http://www.dph.illinois.gov/
+60142,_Huntley,_Illinois,_Illinois	60142, Huntley, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		567		10598	10			-146			23.71		http://www.dph.illinois.gov/
+60143,_Itasca_station,_Illinois	60143, Itasca station, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		411		4980	4			-58			9.43		http://www.dph.illinois.gov/
+60148,_Lombard,_Illinois,_Illinois	60148, Lombard, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1148		23228	10			-180			28.57		http://www.dph.illinois.gov/
+60152,_Marengo,_Illinois,_Illinois	60152, Marengo, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		271		4111	8			-63			11.29		http://www.dph.illinois.gov/
+60153,_Maywood,_Illinois,_Illinois	60153, Maywood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		898		9816	10			-58			11.14		http://www.dph.illinois.gov/
+60154,_Westchester,_Illinois,_Illinois	60154, Westchester, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		470		7841	6			-69			11.57		http://www.dph.illinois.gov/
+60157,_Medinah,_Illinois,_Illinois	60157, Medinah, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		52		911	0			-12			1.71		http://www.dph.illinois.gov/
+60160,_Melrose_Park,_Illinois,_Illinois	60160, Melrose Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1391		11351	31			-118			25.71		http://www.dph.illinois.gov/
+60162,_Hillside,_Illinois,_Illinois	60162, Hillside, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		301		5033	6			-30			6.0		http://www.dph.illinois.gov/
+60163,_Berkeley,_Illinois,_Illinois	60163, Berkeley, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		243		2369	2			-29			4.71		http://www.dph.illinois.gov/
+60164,_Melrose_Park,_Illinois,_Illinois	60164, Melrose Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1063		15215	24			-102			21.43		http://www.dph.illinois.gov/
+60165,_Stone_Park,_Illinois,_Illinois	60165, Stone Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		288		1697	2			-25			4.14		http://www.dph.illinois.gov/
+60171,_River_Grove,_Illinois,_Illinois	60171, River Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		335		4240	8			-39			7.86		http://www.dph.illinois.gov/
+60172,_Roselle,_Illinois,_Illinois	60172, Roselle, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		676		9391	21			-85			18.14		http://www.dph.illinois.gov/
+60173,_Schaumburg,_Illinois,_Illinois	60173, Schaumburg, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		287		4057	2			-39			6.14		http://www.dph.illinois.gov/
+60174,_St._Charles,_Illinois,_Illinois	60174, St. Charles, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		808		16165	19			-130			24.0		http://www.dph.illinois.gov/
+60175,_St._Charles,_Illinois,_Illinois	60175, St. Charles, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		673		13909	21			-145			26.71		http://www.dph.illinois.gov/
+60176,_Schiller_Park,_Illinois,_Illinois	60176, Schiller Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		469		4110	5			-66			10.86		http://www.dph.illinois.gov/
+60177,_South_Elgin,_Illinois,_Illinois	60177, South Elgin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		833		11730	19			-104			20.29		http://www.dph.illinois.gov/
+60178,_Sycamore,_Illinois,_Illinois	60178, Sycamore, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		403		7967	7			-113			18.14		http://www.dph.illinois.gov/
+60181,_Villa_Park,_Illinois,_Illinois	60181, Villa Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		795		11602	18			-123			22.71		http://www.dph.illinois.gov/
+60185,_West_Chicago,_Illinois,_Illinois	60185, West Chicago, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1456		15924	23			-165			30.14		http://www.dph.illinois.gov/
+60187,_Wheaton,_Illinois,_Illinois	60187, Wheaton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		507		19307	8			-80			13.71		http://www.dph.illinois.gov/
+60188,_Carol_Stream,_Illinois,_Illinois	60188, Carol Stream, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1266		17153	10			-207			32.43		http://www.dph.illinois.gov/
+60189,_Wheaton,_Illinois,_Illinois	60189, Wheaton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		545		13074	15			-97			18.14		http://www.dph.illinois.gov/
+60190,_Winfield,_Illinois,_Illinois	60190, Winfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		232		5483	6			-47			8.43		http://www.dph.illinois.gov/
+60191,_Wood_Dale,_Illinois,_Illinois	60191, Wood Dale, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		513		5304	9			-76			13.43		http://www.dph.illinois.gov/
+60192,_Hoffman_Estates,_Illinois,_Illinois	60192, Hoffman Estates, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		248		5097	10			-39			8.43		http://www.dph.illinois.gov/
+60193,_Schaumburg,_Illinois,_Illinois	60193, Schaumburg, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		829		17749	14			-107			19.29		http://www.dph.illinois.gov/
+60194,_Schaumburg,_Illinois,_Illinois	60194, Schaumburg, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		411		10444	2			-53			8.14		http://www.dph.illinois.gov/
+60195,_Schaumburg,_Illinois,_Illinois	60195, Schaumburg, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		75		1394	1			-17			2.71		http://www.dph.illinois.gov/
+60201,_Evanston,_Illinois,_Illinois	60201, Evanston, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		696		25591	2			-106			15.71		http://www.dph.illinois.gov/
+60202,_Evanston,_Illinois,_Illinois	60202, Evanston, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		714		20583	4			-72			11.43		http://www.dph.illinois.gov/
+60203,_Evanston,_Illinois,_Illinois	60203, Evanston, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		86		2251	1			-15			2.43		http://www.dph.illinois.gov/
+60301,_Oak_Park,_Illinois,_Illinois	60301, Oak Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		74		1529	2			-7			1.57		http://www.dph.illinois.gov/
+60302,_Oak_Park,_Illinois,_Illinois	60302, Oak Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		576		17819	5			-62			10.29		http://www.dph.illinois.gov/
+60304,_Oak_Park,_Illinois,_Illinois	60304, Oak Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		264		8773	2			-46			7.14		http://www.dph.illinois.gov/
+60305,_River_Forest,_Illinois,_Illinois	60305, River Forest, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		230		5731	5			-37			6.71		http://www.dph.illinois.gov/
+60401,_Beecher,_Illinois,_Illinois	60401, Beecher, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		226		4275	4			-39			6.71		http://www.dph.illinois.gov/
+60402,_Berwyn,_Illinois,_Illinois	60402, Berwyn, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		3185		29092	54			-342			64.29		http://www.dph.illinois.gov/
+60406,_Blue_Island–Vermont_Street_station,_Illinois	60406, Blue Island–Vermont Street station, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1118		11742	17			-113			21.0		http://www.dph.illinois.gov/
+60408,_Braidwood,_Illinois,_Illinois	60408, Braidwood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		130		2132	2			-30			4.86		http://www.dph.illinois.gov/
+60409,_Calumet_City,_Illinois,_Illinois	60409, Calumet City, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1311		16388	16			-125			22.43		http://www.dph.illinois.gov/
+60410,_Channahon,_Illinois,_Illinois	60410, Channahon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		296		3960	2			-54			8.29		http://www.dph.illinois.gov/
+60411,_Chicago_Heights,_Illinois,_Illinois	60411, Chicago Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2087		28311	25			-224			39.14		http://www.dph.illinois.gov/
+60415,_Chicago_Ridge,_Illinois,_Illinois	60415, Chicago Ridge, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		507		6293	5			-42			7.43		http://www.dph.illinois.gov/
+60417,_Crete,_Illinois,_Illinois	60417, Crete, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		468		9498	8			-70			12.29		http://www.dph.illinois.gov/
+60419,_Dolton,_Illinois,_Illinois	60419, Dolton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		796		12716	8			-87			14.71		http://www.dph.illinois.gov/
+60422,_Flossmoor,_Illinois,_Illinois	60422, Flossmoor, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		257		4606	6			-21			4.71		http://www.dph.illinois.gov/
+60423,_Frankfort,_Illinois,_Illinois	60423, Frankfort, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		831		11162	21			-193			33.57		http://www.dph.illinois.gov/
+60425,_Glenwood,_Illinois,_Illinois	60425, Glenwood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		338		4898	10			-31			7.29		http://www.dph.illinois.gov/
+60426,_Harvey,_Illinois,_Illinois	60426, Harvey, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		953		11197	11			-84			15.14		http://www.dph.illinois.gov/
+60429,_Hazel_Crest,_Illinois,_Illinois	60429, Hazel Crest, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		491		7194	8			-35			7.29		http://www.dph.illinois.gov/
+60430,_Homewood,_Illinois,_Illinois	60430, Homewood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		560		9332	6			-79			13.0		http://www.dph.illinois.gov/
+60431,_Joliet,_Illinois,_Illinois	60431, Joliet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		726		9748	8			-97			16.14		http://www.dph.illinois.gov/
+60432,_Joliet,_Illinois,_Illinois	60432, Joliet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		888		7322	10			-76			13.71		http://www.dph.illinois.gov/
+60433,_Joliet,_Illinois,_Illinois	60433, Joliet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		665		6641	14			-60			12.57		http://www.dph.illinois.gov/
+60434,_Joliet,_Illinois,_Illinois	60434, Joliet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		311		2230	3			-1			1.0		http://www.dph.illinois.gov/
+60435,_Joliet,_Illinois,_Illinois	60435, Joliet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1696		22328	19			-208			35.14		http://www.dph.illinois.gov/
+60436,_Joliet,_Illinois,_Illinois	60436, Joliet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		654		7703	9			-93			15.86		http://www.dph.illinois.gov/
+60438,_Lansing,_Illinois,_Illinois	60438, Lansing, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1091		12608	10			-138			22.57		http://www.dph.illinois.gov/
+60439,_Lemont,_Illinois,_Illinois	60439, Lemont, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		629		11501	5			-144			22.0		http://www.dph.illinois.gov/
+60440,_Bolingbrook,_Illinois,_Illinois	60440, Bolingbrook, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1763		25538	22			-170			30.57		http://www.dph.illinois.gov/
+60441,_Lockport,_Illinois,_Illinois	60441, Lockport, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		830		10581	10			-138			22.57		http://www.dph.illinois.gov/
+60442,_Manhattan,_Illinois,_Illinois	60442, Manhattan, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		225		3175	4			-50			8.29		http://www.dph.illinois.gov/
+60443,_Matteson,_Illinois,_Illinois	60443, Matteson, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		814		9795	12			-93			16.71		http://www.dph.illinois.gov/
+60445,_Midlothian,_Illinois,_Illinois	60445, Midlothian, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		583		9323	9			-94			16.0		http://www.dph.illinois.gov/
+60446,_Romeoville,_Illinois,_Illinois	60446, Romeoville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1302		16999	15			-168			28.29		http://www.dph.illinois.gov/
+60447,_Minooka,_Illinois,_Illinois	60447, Minooka, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		245		4132	7			-34			6.86		http://www.dph.illinois.gov/
+60448,_Mokena,_Illinois,_Illinois	60448, Mokena, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		505		7727	10			-88			15.43		http://www.dph.illinois.gov/
+60449,_Monee,_Illinois,_Illinois	60449, Monee, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		227		3359	3			-39			6.43		http://www.dph.illinois.gov/
+60450,_Morris,_Illinois,_Illinois	60450, Morris, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		437		5905	15			-66			13.71		http://www.dph.illinois.gov/
+60451,_New_Lenox,_Illinois,_Illinois	60451, New Lenox, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		754		11230	24			-149			28.14		http://www.dph.illinois.gov/
+60452,_Oak_Forest,_Illinois,_Illinois	60452, Oak Forest, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		785		9433	10			-111			18.71		http://www.dph.illinois.gov/
+60453,_Oak_Lawn,_Illinois,_Illinois	60453, Oak Lawn, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2079		26054	22			-174			31.14		http://www.dph.illinois.gov/
+60455,_Bridgeview,_Illinois,_Illinois	60455, Bridgeview, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		758		7743	7			-77			13.0		http://www.dph.illinois.gov/
+60456,_Hometown,_Illinois,_Illinois	60456, Hometown, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		122		1617	3			-11			2.43		http://www.dph.illinois.gov/
+60457,_Hickory_Hills,_Illinois,_Illinois	60457, Hickory Hills, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		425		5132	4			-49			8.14		http://www.dph.illinois.gov/
+60458,_Justice,_Illinois,_Illinois	60458, Justice, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		450		5695	8			-29			6.43		http://www.dph.illinois.gov/
+60459,_Burbank,_Illinois,_Illinois	60459, Burbank, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1191		10818	13			-145			24.43		http://www.dph.illinois.gov/
+60461,_Olympia_Fields,_Illinois,_Illinois	60461, Olympia Fields, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		128		2259	1			-8			1.43		http://www.dph.illinois.gov/
+60462,_Orland_Park,_Illinois,_Illinois	60462, Orland Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1237		16156	27			-183			33.86		http://www.dph.illinois.gov/
+60463,_Palos_Heights,_Illinois,_Illinois	60463, Palos Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		515		8062	6			-62			10.57		http://www.dph.illinois.gov/
+60464,_Palos_Park,_Illinois,_Illinois	60464, Palos Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		247		3692	4			-50			8.29		http://www.dph.illinois.gov/
+60465,_Palos_Hills,_Illinois,_Illinois	60465, Palos Hills, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		691		5947	3			-60			9.43		http://www.dph.illinois.gov/
+60466,_Park_Forest_(meteorite),_Illinois	60466, Park Forest (meteorite), Illinois	2020-10-28	2020-10-28T05:00:00.000Z		849		10596	8			-81			13.86		http://www.dph.illinois.gov/
+60467,_Orland_Park,_Illinois,_Illinois	60467, Orland Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		703		9923	17			-110			20.57		http://www.dph.illinois.gov/
+60468,_Peotone,_Illinois,_Illinois	60468, Peotone, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		147		2177	2			-35			5.57		http://www.dph.illinois.gov/
+60469,_Posen,_Illinois,_Illinois	60469, Posen, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		269		2278	11			-26			6.86		http://www.dph.illinois.gov/
+60471,_Richton_Park,_Illinois,_Illinois	60471, Richton Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		430		6495	5			-22			4.57		http://www.dph.illinois.gov/
+60472,_Robbins,_Illinois,_Illinois	60472, Robbins, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		139		2335	0			-7			1.0		http://www.dph.illinois.gov/
+60473,_South_Holland,_Illinois,_Illinois	60473, South Holland, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		882		12983	25			-60			15.71		http://www.dph.illinois.gov/
+60475,_Steger,_Illinois,_Illinois	60475, Steger, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		269		3373	9			-40			8.29		http://www.dph.illinois.gov/
+60476,_Thornton,_Illinois,_Illinois	60476, Thornton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		94		1113	2			-12			2.29		http://www.dph.illinois.gov/
+60477,_Tinley_Park,_Illinois,_Illinois	60477, Tinley Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		999		13856	18			-132			24.0		http://www.dph.illinois.gov/
+60478,_Country_Club_Hills,_Illinois,_Illinois	60478, Country Club Hills, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		607		8991	4			-42			7.14		http://www.dph.illinois.gov/
+60480,_Willow_Springs,_Illinois,_Illinois	60480, Willow Springs, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		141		2249	2			-15			2.71		http://www.dph.illinois.gov/
+60481,_Wilmington,_Will_County,_Illinois,_Illinois	60481, Wilmington, Will County, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		239		5579	11			-26			6.86		http://www.dph.illinois.gov/
+60482,_Worth,_Illinois,_Illinois	60482, Worth, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		294		3075	4			-41			7.0		http://www.dph.illinois.gov/
+60490,_Bolingbrook,_Illinois,_Illinois	60490, Bolingbrook, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		440		8452	7			-51			9.29		http://www.dph.illinois.gov/
+60501,_Summit,_Illinois,_Illinois	60501, Summit, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		608		4297	3			-72			11.14		http://www.dph.illinois.gov/
+60504,_Aurora,_Illinois,_Illinois	60504, Aurora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		906		14001	11			-145			23.86		http://www.dph.illinois.gov/
+60505,_Aurora,_Illinois,_Illinois	60505, Aurora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		3223		28068	33			-312			54.0		http://www.dph.illinois.gov/
+60506,_Aurora,_Illinois,_Illinois	60506, Aurora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2135		26291	41			-197			39.86		http://www.dph.illinois.gov/
+60510,_Batavia,_Illinois,_Illinois	60510, Batavia, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		574		12760	16			-115			21.0		http://www.dph.illinois.gov/
+60513,_Brookfield,_Illinois,_Illinois	60513, Brookfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		484		9929	6			-60			10.29		http://www.dph.illinois.gov/
+60514,_Clarendon_Hills,_Illinois,_Illinois	60514, Clarendon Hills, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		220		3713	3			-27			4.71		http://www.dph.illinois.gov/
+60515,_Downers_Grove,_Illinois,_Illinois	60515, Downers Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		482		10360	7			-69			11.86		http://www.dph.illinois.gov/
+60516,_Downers_Grove,_Illinois,_Illinois	60516, Downers Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		506		10970	6			-75			12.43		http://www.dph.illinois.gov/
+60517,_Woodridge,_Illinois,_Illinois	60517, Woodridge, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		735		12345	11			-101			17.57		http://www.dph.illinois.gov/
+60521,_Hinsdale,_Illinois,_Illinois	60521, Hinsdale, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		471		8287	4			-44			7.43		http://www.dph.illinois.gov/
+60523,_Oak_Brook,_Illinois,_Illinois	60523, Oak Brook, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		263		6295	6			-33			6.43		http://www.dph.illinois.gov/
+60525,_La_Grange,_Illinois,_Illinois	60525, La Grange, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		883		19435	9			-104			17.43		http://www.dph.illinois.gov/
+60526,_La_Grange_Park,_Illinois,_Illinois	60526, La Grange Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		280		9186	2			-37			5.86		http://www.dph.illinois.gov/
+60527,_Willowbrook,_DuPage_County,_Illinois,_Illinois	60527, Willowbrook, DuPage County, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		794		16018	14			-103			18.71		http://www.dph.illinois.gov/
+60532,_Lisle,_Illinois,_Illinois	60532, Lisle, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		456		11059	6			-90			14.57		http://www.dph.illinois.gov/
+60534,_Lyons,_Illinois,_Illinois	60534, Lyons, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		430		4477	6			-53			9.29		http://www.dph.illinois.gov/
+60538,_Montgomery,_Illinois,_Illinois	60538, Montgomery, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		795		10463	19			-91			18.43		http://www.dph.illinois.gov/
+60540,_Naperville,_Illinois,_Illinois	60540, Naperville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		633		16302	15			-96			18.0		http://www.dph.illinois.gov/
+60542,_North_Aurora,_Illinois,_Illinois	60542, North Aurora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		471		7770	16			-59			13.0		http://www.dph.illinois.gov/
+60543,_Oswego,_Illinois,_Illinois	60543, Oswego, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		812		13666	14			-107			19.29		http://www.dph.illinois.gov/
+60544,_Plainfield,_Illinois,_Illinois	60544, Plainfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		686		12865	15			-105			19.29		http://www.dph.illinois.gov/
+60545,_Plano,_Illinois,_Illinois	60545, Plano, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		387		4794	8			-42			8.29		http://www.dph.illinois.gov/
+60546,_Riverside,_Illinois,_Illinois	60546, Riverside, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		415		11529	6			-53			9.29		http://www.dph.illinois.gov/
+60548,_Sandwich,_Illinois,_Illinois	60548, Sandwich, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		344		5260	3			-47			7.57		http://www.dph.illinois.gov/
+60551,_Sheridan,_Illinois,_Illinois	60551, Sheridan, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		91		1095	2			-19			3.29		http://www.dph.illinois.gov/
+60552,_Somonauk,_Illinois,_Illinois	60552, Somonauk, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		62		1302	0			-13			1.86		http://www.dph.illinois.gov/
+60554,_Sugar_Grove,_Illinois,_Illinois	60554, Sugar Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		229		4380	14			-41			9.86		http://www.dph.illinois.gov/
+60555,_Warrenville,_Illinois,_Illinois	60555, Warrenville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		358		5635	10			-59			11.29		http://www.dph.illinois.gov/
+60558,_Western_Springs,_Illinois,_Illinois	60558, Western Springs, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		308		5852	3			-30			5.14		http://www.dph.illinois.gov/
+60559,_Westmont,_Illinois,_Illinois	60559, Westmont, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		685		10286	10			-47			9.57		http://www.dph.illinois.gov/
+60560,_Yorkville,_Illinois,_Illinois	60560, Yorkville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		494		9552	12			-87			15.86		http://www.dph.illinois.gov/
+60561,_Darien,_Illinois,_Illinois	60561, Darien, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		440		8600	3			-74			11.43		http://www.dph.illinois.gov/
+60563,_Naperville,_Illinois,_Illinois	60563, Naperville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		701		18322	8			-147			23.29		http://www.dph.illinois.gov/
+60564,_Naperville,_Illinois,_Illinois	60564, Naperville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		756		15526	17			-65			14.14		http://www.dph.illinois.gov/
+60565,_Naperville,_Illinois,_Illinois	60565, Naperville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		620		14571	19			-73			15.86		http://www.dph.illinois.gov/
+60601,_Chicago,_Illinois	60601, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		285		8893	4			-50			8.29		http://www.dph.illinois.gov/
+60602,_Chicago,_Illinois	60602, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		32		1050	-1			-10			1.14		http://www.dph.illinois.gov/
+60604,_Chicago,_Illinois	60604, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		37		725	0			-2			0.29		http://www.dph.illinois.gov/
+60605,_Chicago,_Illinois	60605, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		522		14158	8			-88			14.86		http://www.dph.illinois.gov/
+60606,_Chicago,_Illinois	60606, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		93		3374	1			-8			1.43		http://www.dph.illinois.gov/
+60607,_Chicago,_Illinois	60607, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		933		18634	9			-122			20.0		http://www.dph.illinois.gov/
+60608,_Chicago,_Illinois	60608, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		3200		41962	30			-272			47.43		http://www.dph.illinois.gov/
+60609,_Chicago,_Illinois	60609, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		3038		30967	25			-270			45.71		http://www.dph.illinois.gov/
+60610,_Chicago,_Illinois	60610, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		892		23055	14			-120			21.14		http://www.dph.illinois.gov/
+60611,_Chicago,_Illinois	60611, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		655		20154	21			-99			20.14		http://www.dph.illinois.gov/
+60612,_Chicago,_Illinois	60612, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1197		21808	15			-119			21.29		http://www.dph.illinois.gov/
+60613,_Chicago,_Illinois	60613, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1090		28095	6			-184			28.0		http://www.dph.illinois.gov/
+60614,_Chicago,_Illinois	60614, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1568		44168	17			-212			35.14		http://www.dph.illinois.gov/
+60615,_Chicago,_Illinois	60615, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		770		24635	3			-72			11.14		http://www.dph.illinois.gov/
+60616,_Chicago,_Illinois	60616, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1080		28415	12			-156			25.71		http://www.dph.illinois.gov/
+60617,_Chicago,_Illinois	60617, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2758		35794	28			-306			51.71		http://www.dph.illinois.gov/
+60618,_Chicago,_Illinois	60618, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2835		47401	43			-313			57.0		http://www.dph.illinois.gov/
+60619,_Chicago,_Illinois	60619, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1660		29000	12			-140			23.43		http://www.dph.illinois.gov/
+60620,_Chicago,_Illinois	60620, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1986		28365	23			-160			29.43		http://www.dph.illinois.gov/
+60621,_Chicago,_Illinois	60621, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		873		12408	5			-55			9.29		http://www.dph.illinois.gov/
+60622,_Chicago,_Illinois	60622, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1540		35854	14			-219			35.29		http://www.dph.illinois.gov/
+60623,_Chicago,_Illinois	60623, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		5178		36130	36			-402			67.71		http://www.dph.illinois.gov/
+60624,_Chicago,_Illinois	60624, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1384		15852	12			-76			14.29		http://www.dph.illinois.gov/
+60625,_Chicago,_Illinois	60625, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2684		38116	39			-230			44.0		http://www.dph.illinois.gov/
+60626,_Chicago,_Illinois	60626, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1650		39075	7			-128			20.29		http://www.dph.illinois.gov/
+60628,_Chicago,_Illinois	60628, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2006		28287	11			-184			29.43		http://www.dph.illinois.gov/
+60629,_Chicago,_Illinois	60629, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		6698		46833	49			-831			132.71		http://www.dph.illinois.gov/
+60630,_Chicago,_Illinois	60630, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1775		24420	25			-245			42.14		http://www.dph.illinois.gov/
+60631,_Chicago,_Illinois	60631, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		880		17182	12			-115			19.86		http://www.dph.illinois.gov/
+60632,_Chicago,_Illinois	60632, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		5613		38190	36			-606			96.86		http://www.dph.illinois.gov/
+60633,_Chicago,_Illinois	60633, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		721		8712	6			-115			18.14		http://www.dph.illinois.gov/
+60634,_Chicago,_Illinois	60634, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		3295		37938	63			-365			70.14		http://www.dph.illinois.gov/
+60636,_Chicago,_Illinois	60636, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1258		13180	6			-92			14.86		http://www.dph.illinois.gov/
+60637,_Chicago,_Illinois	60637, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1114		38472	4			-110			16.86		http://www.dph.illinois.gov/
+60638,_Chicago,_Illinois	60638, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2775		25371	35			-390			65.71		http://www.dph.illinois.gov/
+60639,_Chicago,_Illinois	60639, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		5673		43808	42			-507			84.43		http://www.dph.illinois.gov/
+60640,_Chicago,_Illinois	60640, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1566		45616	11			-187			29.86		http://www.dph.illinois.gov/
+60641,_Chicago,_Illinois	60641, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		3101		38644	49			-303			57.29		http://www.dph.illinois.gov/
+60643,_Chicago,_Illinois	60643, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1515		30280	17			-176			30.0		http://www.dph.illinois.gov/
+60644,_Chicago,_Illinois	60644, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1829		25492	5			-117			18.14		http://www.dph.illinois.gov/
+60645,_Chicago,_Illinois	60645, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1698		26476	19			-133			24.43		http://www.dph.illinois.gov/
+60646,_Chicago,_Illinois	60646, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		749		13594	11			-84			15.14		http://www.dph.illinois.gov/
+60647,_Chicago,_Illinois	60647, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2898		54494	24			-381			61.29		http://www.dph.illinois.gov/
+60649,_Chicago,_Illinois	60649, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1331		22458	9			-98			16.57		http://www.dph.illinois.gov/
+60651,_Chicago,_Illinois	60651, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2939		28025	17			-241			39.29		http://www.dph.illinois.gov/
+60652,_Chicago,_Illinois	60652, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2094		19568	20			-212			36.0		http://www.dph.illinois.gov/
+60653,_Chicago,_Illinois	60653, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		916		19135	10			-76			13.71		http://www.dph.illinois.gov/
+60654,_Chicago,_Illinois	60654, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		517		10979	5			-98			15.43		http://www.dph.illinois.gov/
+60655,_Chicago,_Illinois	60655, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		918		14098	7			-174			26.86		http://www.dph.illinois.gov/
+60656,_Chicago,_Illinois	60656, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		871		11913	18			-109			20.71		http://www.dph.illinois.gov/
+60657,_Chicago,_Illinois	60657, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1348		38183	13			-218			34.86		http://www.dph.illinois.gov/
+60659,_Chicago,_Illinois	60659, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1371		15490	14			-137			23.57		http://www.dph.illinois.gov/
+60660,_Chicago,_Illinois	60660, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		928		20573	14			-87			16.43		http://www.dph.illinois.gov/
+60661,_Chicago,_Illinois	60661, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		233		5329	3			-47			7.57		http://www.dph.illinois.gov/
+60706,_Harwood_Heights,_Illinois,_Illinois	60706, Harwood Heights, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		923		12859	16			-103			19.29		http://www.dph.illinois.gov/
+60707,_Elmwood_Park,_Illinois,_Illinois	60707, Elmwood Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1731		22309	34			-218			40.86		http://www.dph.illinois.gov/
+60712,_Lincolnwood,_Illinois,_Illinois	60712, Lincolnwood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		428		8515	5			-50			8.57		http://www.dph.illinois.gov/
+60714,_Niles,_Illinois,_Illinois	60714, Niles, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1391		19112	11			-118			20.0		http://www.dph.illinois.gov/
+60803,_Alsip,_Illinois,_Illinois	60803, Alsip, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		724		7480	14			-102			18.57		http://www.dph.illinois.gov/
+60804,_Cicero,_Illinois,_Illinois	60804, Cicero, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		5731		36294	86			-542			102.0		http://www.dph.illinois.gov/
+60805,_Evergreen_Park,_Illinois,_Illinois	60805, Evergreen Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		573		8542	11			-65			12.43		http://www.dph.illinois.gov/
+60827,_Riverdale,_Illinois,_Illinois	60827, Riverdale, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		683		9228	8			-67			11.86		http://www.dph.illinois.gov/
+60901,_Kankakee,_Illinois,_Illinois	60901, Kankakee, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1528		22291	24			-121			24.14		http://www.dph.illinois.gov/
+60914,_Bourbonnais,_Illinois,_Illinois	60914, Bourbonnais, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		832		16254	12			-114			19.71		http://www.dph.illinois.gov/
+60915,_Bradley,_Illinois,_Illinois	60915, Bradley, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		256		6406	6			-35			6.71		http://www.dph.illinois.gov/
+60922,_Chebanse,_Illinois,_Illinois	60922, Chebanse, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		63		1108	2			-10			2.0		http://www.dph.illinois.gov/
+60927,_Clifton,_Illinois,_Illinois	60927, Clifton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		77		1812	2			-6			1.43		http://www.dph.illinois.gov/
+60950,_Manteno,_Illinois,_Illinois	60950, Manteno, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		353		9149	12			-22			6.57		http://www.dph.illinois.gov/
+60954,_Momence,_Illinois,_Illinois	60954, Momence, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		143		4220	2			-22			3.71		http://www.dph.illinois.gov/
+60955,_Onarga,_Illinois,_Illinois	60955, Onarga, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		36		729	0			-3			0.43		http://www.dph.illinois.gov/
+60964,_St._Anne,_Illinois,_Illinois	60964, St. Anne, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		96		2203	1			-15			2.43		http://www.dph.illinois.gov/
+61008,_Belvidere,_Illinois,_Illinois	61008, Belvidere, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1379		15184	25			-286			48.0		http://www.dph.illinois.gov/
+61016,_Cherry_Valley,_Illinois,_Illinois	61016, Cherry Valley, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		197		2033	8			-31			6.71		http://www.dph.illinois.gov/
+61021,_Dixon,_Illinois,_Illinois	61021, Dixon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		494		7652	9			-131			21.29		http://www.dph.illinois.gov/
+61064,_Polo,_Illinois,_Illinois	61064, Polo, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		51		1269	0			-14			2.0		http://www.dph.illinois.gov/
+61065,_Poplar_Grove,_Illinois,_Illinois	61065, Poplar Grove, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		320		3975	15			-60			12.86		http://www.dph.illinois.gov/
+61068,_Rochelle,_Illinois,_Illinois	61068, Rochelle, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		612		4984	14			-109			19.57		http://www.dph.illinois.gov/
+61071,_Rock_Falls,_Illinois,_Illinois	61071, Rock Falls, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		379		3391	20			-117			22.43		http://www.dph.illinois.gov/
+61072,_Rockton,_Illinois,_Illinois	61072, Rockton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		365		4753	13			-92			16.86		http://www.dph.illinois.gov/
+61073,_Roscoe,_Illinois,_Illinois	61073, Roscoe, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		661		8489	13			-149			25.0		http://www.dph.illinois.gov/
+61080,_South_Beloit,_Illinois,_Illinois	61080, South Beloit, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		356		3877	5			-70			11.43		http://www.dph.illinois.gov/
+61081,_Sterling,_Illinois,_Illinois	61081, Sterling, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		562		6425	34			-146			30.57		http://www.dph.illinois.gov/
+61084,_Stillman_Valley,_Illinois,_Illinois	61084, Stillman Valley, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		65		899	2			-20			3.43		http://www.dph.illinois.gov/
+61101,_Rockford,_Illinois,_Illinois	61101, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		722		9651	11			-83			15.0		http://www.dph.illinois.gov/
+61102,_Rockford,_Illinois,_Illinois	61102, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		772		7765	14			-121			21.29		http://www.dph.illinois.gov/
+61103,_Rockford,_Illinois,_Illinois	61103, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		879		14159	18			-133			24.14		http://www.dph.illinois.gov/
+61104,_Rockford,_Illinois,_Illinois	61104, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		736		7386	13			-103			18.43		http://www.dph.illinois.gov/
+61107,_Rockford,_Illinois,_Illinois	61107, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1185		17203	29			-260			45.43		http://www.dph.illinois.gov/
+61108,_Rockford,_Illinois,_Illinois	61108, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1352		15601	27			-254			44.0		http://www.dph.illinois.gov/
+61109,_Rockford,_Illinois,_Illinois	61109, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1066		11241	29			-206			37.71		http://www.dph.illinois.gov/
+61111,_Loves_Park,_Illinois,_Illinois	61111, Loves Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		795		11697	19			-229			38.14		http://www.dph.illinois.gov/
+61114,_Rockford,_Illinois,_Illinois	61114, Rockford, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		551		8678	17			-137			24.43		http://www.dph.illinois.gov/
+61115,_Machesney_Park,_Illinois,_Illinois	61115, Machesney Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		747		10004	17			-205			34.14		http://www.dph.illinois.gov/
+61201,_Rock_Island,_Illinois,_Illinois	61201, Rock Island, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1017		20509	19			-147			26.43		http://www.dph.illinois.gov/
+61235,_Atkinson,_Illinois,_Illinois	61235, Atkinson, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		20		660	0			-2			0.29		http://www.dph.illinois.gov/
+61240,_Coal_Valley,_Illinois,_Illinois	61240, Coal Valley, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		118		2782	3			-28			4.86		http://www.dph.illinois.gov/
+61241,_Colona,_Illinois,_Illinois	61241, Colona, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		160		3045	1			-27			4.14		http://www.dph.illinois.gov/
+61244,_East_Moline,_Illinois,_Illinois	61244, East Moline, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		973		12763	8			-131			21.0		http://www.dph.illinois.gov/
+61252,_Fulton,_Illinois,_Illinois	61252, Fulton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		179		1521	3			-11			2.43		http://www.dph.illinois.gov/
+61254,_Geneseo,_Illinois,_Illinois	61254, Geneseo, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		155		5305	1			-12			2.0		http://www.dph.illinois.gov/
+61264,_Milan,_Illinois,_Illinois	61264, Milan, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		198		4579	0			-56			8.0		http://www.dph.illinois.gov/
+61265,_Moline,_Illinois,_Illinois	61265, Moline, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1290		21943	8			-222			34.0		http://www.dph.illinois.gov/
+61270,_Morrison,_Illinois,_Illinois	61270, Morrison, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		214		2348	5			-90			14.29		http://www.dph.illinois.gov/
+61275,_Port_Byron,_Illinois,_Illinois	61275, Port Byron, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		76		1625	0			-6			0.86		http://www.dph.illinois.gov/
+61282,_Silvis,_Illinois,_Illinois	61282, Silvis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		257		4665	-1			-32			4.29		http://www.dph.illinois.gov/
+61341,_Marseilles,_Illinois,_Illinois	61341, Marseilles, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		166		3105	6			-28			5.71		http://www.dph.illinois.gov/
+61342,_Mendota,_Illinois,_Illinois	61342, Mendota, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		359		2941	6			-42			7.71		http://www.dph.illinois.gov/
+61350,_Ottawa,_Illinois,_Illinois	61350, Ottawa, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		459		9722	23			-76			17.43		http://www.dph.illinois.gov/
+61356,_Princeton,_Illinois,_Illinois	61356, Princeton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		293		5008	9			-34			7.43		http://www.dph.illinois.gov/
+61401,_Galesburg,_Illinois,_Illinois	61401, Galesburg, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		964		16718	18			-294			47.14		http://www.dph.illinois.gov/
+61410,_Abingdon,_Illinois,_Illinois	61410, Abingdon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		60		979	4			-15			3.29		http://www.dph.illinois.gov/
+61443,_Kewanee,_Illinois,_Illinois	61443, Kewanee, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		222		5059	1			-21			3.29		http://www.dph.illinois.gov/
+61455,_Macomb,_Illinois,_Illinois	61455, Macomb, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		595		8711	8			-123			19.86		http://www.dph.illinois.gov/
+61462,_Monmouth,_Illinois,_Illinois	61462, Monmouth, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		386		3873	12			-62			12.29		http://www.dph.illinois.gov/
+61525,_Dunlap,_Illinois,_Illinois	61525, Dunlap, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		291		6023	3			-31			5.29		http://www.dph.illinois.gov/
+61548,_Metamora,_Illinois,_Illinois	61548, Metamora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		257		6453	5			-34			6.29		http://www.dph.illinois.gov/
+61554,_Pekin,_Illinois,_Illinois	61554, Pekin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		955		22988	32			-204			38.29		http://www.dph.illinois.gov/
+61603,_Peoria,_Illinois,_Illinois	61603, Peoria, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		446		8108	5			-48			8.29		http://www.dph.illinois.gov/
+61604,_Peoria,_Illinois,_Illinois	61604, Peoria, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		797		17887	6			-105			16.71		http://www.dph.illinois.gov/
+61605,_Peoria,_Illinois,_Illinois	61605, Peoria, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		360		6563	4			-39			6.71		http://www.dph.illinois.gov/
+61610,_Creve_Coeur,_Illinois,_Illinois	61610, Creve Coeur, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		98		2338	4			-12			2.86		http://www.dph.illinois.gov/
+61611,_East_Peoria,_Illinois,_Illinois	61611, East Peoria, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		525		12921	11			-85			15.29		http://www.dph.illinois.gov/
+61614,_Peoria,_Illinois,_Illinois	61614, Peoria, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		743		22261	15			-94			17.71		http://www.dph.illinois.gov/
+61615,_Peoria,_Illinois,_Illinois	61615, Peoria, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		555		13483	10			-78			14.0		http://www.dph.illinois.gov/
+61701,_Bloomington,_Illinois,_Illinois	61701, Bloomington, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		737		23557	8			-97			16.14		http://www.dph.illinois.gov/
+61704,_Bloomington,_Illinois,_Illinois	61704, Bloomington, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		731		17213	2			-100			14.86		http://www.dph.illinois.gov/
+61761,_Normal,_Illinois,_Illinois	61761, Normal, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2087		36244	16			-227			37.0		http://www.dph.illinois.gov/
+61764,_Pontiac,_Illinois,_Illinois	61764, Pontiac, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		256		7777	12			-35			8.43		http://www.dph.illinois.gov/
+61801,_Urbana,_Illinois,_Illinois	61801, Urbana, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		576		180242	4			-54			8.86		http://www.dph.illinois.gov/
+61802,_Urbana,_Illinois,_Illinois	61802, Urbana, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		444		37449	6			-48			8.57		http://www.dph.illinois.gov/
+61820,_Champaign,_Illinois,_Illinois	61820, Champaign, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		2713		357909	37			-135			29.86		http://www.dph.illinois.gov/
+61821,_Champaign,_Illinois,_Illinois	61821, Champaign, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		650		61913	15			-107			19.57		http://www.dph.illinois.gov/
+61822,_Champaign,_Illinois,_Illinois	61822, Champaign, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		494		48065	11			-78			14.29		http://www.dph.illinois.gov/
+61832,_Danville,_Illinois,_Illinois	61832, Danville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		867		16792	16			-219			35.86		http://www.dph.illinois.gov/
+61853,_Mahomet,_Illinois,_Illinois	61853, Mahomet, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		252		18624	3			-42			6.86		http://www.dph.illinois.gov/
+61866,_Rantoul,_Illinois,_Illinois	61866, Rantoul, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		516		12348	9			-147			23.57		http://www.dph.illinois.gov/
+61874,_Savoy,_Illinois,_Illinois	61874, Savoy, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		153		24700	3			-12			2.57		http://www.dph.illinois.gov/
+61910,_Arcola,_Illinois,_Illinois	61910, Arcola, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		343		2850	11			-159			25.86		http://www.dph.illinois.gov/
+61920,_Charleston,_Illinois,_Illinois	61920, Charleston, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		986		11391	14			-107			19.29		http://www.dph.illinois.gov/
+61938,_Mattoon,_Illinois,_Illinois	61938, Mattoon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		849		12252	40			-123			29.0		http://www.dph.illinois.gov/
+61953,_Tuscola,_Illinois,_Illinois	61953, Tuscola, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		183		4314	4			-72			11.43		http://www.dph.illinois.gov/
+62002,_Alton,_Illinois,_Illinois	62002, Alton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1014		9731	9			-67			12.14		http://www.dph.illinois.gov/
+62010,_Bethalto,_Illinois,_Illinois	62010, Bethalto, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		315		3032	2			-29			4.71		http://www.dph.illinois.gov/
+62024,_East_Alton,_Illinois,_Illinois	62024, East Alton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		206		2826	2			-26			4.29		http://www.dph.illinois.gov/
+62025,_Edwardsville,_Illinois,_Illinois	62025, Edwardsville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		938		12160	16			-92			17.71		http://www.dph.illinois.gov/
+62034,_Glen_Carbon,_Illinois,_Illinois	62034, Glen Carbon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		376		7202	9			-31			7.0		http://www.dph.illinois.gov/
+62035,_Godfrey,_Illinois,_Illinois	62035, Godfrey, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		578		6137	3			-56			8.86		http://www.dph.illinois.gov/
+62040,_Granite_City,_Illinois,_Illinois	62040, Granite City, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1131		12417	23			-109			22.14		http://www.dph.illinois.gov/
+62052,_Jerseyville,_Illinois,_Illinois	62052, Jerseyville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		301		5966	1			-17			2.71		http://www.dph.illinois.gov/
+62056,_Litchfield,_Illinois,_Illinois	62056, Litchfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		179		4728	2			-37			5.86		http://www.dph.illinois.gov/
+62060,_Madison,_Illinois,_Illinois	62060, Madison, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		143		1488	1			-8			1.43		http://www.dph.illinois.gov/
+62062,_Maryville,_Illinois,_Illinois	62062, Maryville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		173		6252	2			-21			3.57		http://www.dph.illinois.gov/
+62069,_Mount_Olive,_Illinois,_Illinois	62069, Mount Olive, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		50		1308	1			-1			0.43		http://www.dph.illinois.gov/
+62088,_Staunton,_Illinois,_Illinois	62088, Staunton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		160		2995	0			-27			3.86		http://www.dph.illinois.gov/
+62090,_Venice,_Illinois,_Illinois	62090, Venice, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		37		357	1			-1			0.43		http://www.dph.illinois.gov/
+62095,_Wood_River,_Illinois,_Illinois	62095, Wood River, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		247		3715	4			-24			4.57		http://www.dph.illinois.gov/
+62201,_East_St._Louis,_Illinois,_Illinois	62201, East St. Louis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		288		2678	0			-29			4.14		http://www.dph.illinois.gov/
+62203,_East_St._Louis,_Illinois,_Illinois	62203, East St. Louis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		278		2851	6			-31			6.14		http://www.dph.illinois.gov/
+62204,_East_St._Louis,_Illinois,_Illinois	62204, East St. Louis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		173		2012	1			-8			1.43		http://www.dph.illinois.gov/
+62205,_East_St._Louis,_Illinois,_Illinois	62205, East St. Louis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		245		2916	1			-20			3.14		http://www.dph.illinois.gov/
+62206,_East_St._Louis,_Illinois,_Illinois	62206, East St. Louis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		534		6552	2			-25			4.14		http://www.dph.illinois.gov/
+62207,_East_St._Louis,_Illinois,_Illinois	62207, East St. Louis, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		277		2479	2			-12			2.29		http://www.dph.illinois.gov/
+62208,_Fairview_Heights_station_(MetroLink),_Illinois	62208, Fairview Heights station (MetroLink), Illinois	2020-10-28	2020-10-28T05:00:00.000Z		532		6376	6			-41			7.57		http://www.dph.illinois.gov/
+62220,_Belleville,_Illinois,_Illinois	62220, Belleville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		687		7121	2			-42			6.57		http://www.dph.illinois.gov/
+62221,_Belleville,_Illinois,_Illinois	62221, Belleville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		831		9946	2			-73			11.0		http://www.dph.illinois.gov/
+62223,_Belleville,_Illinois,_Illinois	62223, Belleville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		565		7007	4			-55			9.0		http://www.dph.illinois.gov/
+62226,_Belleville,_Illinois,_Illinois	62226, Belleville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		954		11552	5			-96			15.14		http://www.dph.illinois.gov/
+62230,_Breese,_Illinois,_Illinois	62230, Breese, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		385		3100	5			-92			14.57		http://www.dph.illinois.gov/
+62231,_Carlyle,_Illinois,_Illinois	62231, Carlyle, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		340		2776	-1			-61			8.43		http://www.dph.illinois.gov/
+62232,_Caseyville,_Illinois,_Illinois	62232, Caseyville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		246		4564	3			-29			5.0		http://www.dph.illinois.gov/
+62233,_Chester,_Illinois,_Illinois	62233, Chester, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		427		3272	4			-26			4.86		http://www.dph.illinois.gov/
+62234,_Collinsville,_Illinois,_Illinois	62234, Collinsville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		922		10815	10			-82			14.57		http://www.dph.illinois.gov/
+62236,_Columbia,_Illinois,_Illinois	62236, Columbia, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		355		2667	12			-22			6.57		http://www.dph.illinois.gov/
+62239,_Dupo,_Illinois,_Illinois	62239, Dupo, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		139		1156	1			-7			1.29		http://www.dph.illinois.gov/
+62249,_Highland,_Illinois,_Illinois	62249, Highland, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		500		5531	10			-90			15.71		http://www.dph.illinois.gov/
+62254,_Lebanon,_Illinois,_Illinois	62254, Lebanon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		299		3123	4			-10			2.57		http://www.dph.illinois.gov/
+62257,_Marissa,_Illinois,_Illinois	62257, Marissa, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		58		933	3			-13			2.71		http://www.dph.illinois.gov/
+62258,_Mascoutah,_Illinois,_Illinois	62258, Mascoutah, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		245		3797	2			-34			5.43		http://www.dph.illinois.gov/
+62265,_New_Baden,_Illinois,_Illinois	62265, New Baden, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		172		2085	1			-11			1.86		http://www.dph.illinois.gov/
+62269,_O'Fallon,_Illinois,_Illinois	62269, O'Fallon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		732		11637	3			-80			12.29		http://www.dph.illinois.gov/
+62272,_Percy,_Illinois,_Illinois	62272, Percy, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		80		580	3			-5			1.57		http://www.dph.illinois.gov/
+62274,_Pinckneyville,_Illinois,_Illinois	62274, Pinckneyville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		180		2588	6			0			1.71		http://www.dph.illinois.gov/
+62278,_Red_Bud,_Illinois,_Illinois	62278, Red Bud, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		255		2781	4			-78			12.29		http://www.dph.illinois.gov/
+62285,_Smithton,_Illinois,_Illinois	62285, Smithton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		151		1314	1			-11			1.86		http://www.dph.illinois.gov/
+62286,_Sparta,_Illinois,_Illinois	62286, Sparta, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		215		2502	4			-26			4.86		http://www.dph.illinois.gov/
+62288,_Steeleville,_Illinois,_Illinois	62288, Steeleville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		143		1246	2			-21			3.57		http://www.dph.illinois.gov/
+62294,_Troy,_Illinois,_Illinois	62294, Troy, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		341		4617	7			-45			8.43		http://www.dph.illinois.gov/
+62295,_Valmeyer,_Illinois,_Illinois	62295, Valmeyer, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		42		333	2			-6			1.43		http://www.dph.illinois.gov/
+62298,_Waterloo,_Illinois,_Illinois	62298, Waterloo, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		522		7706	20			-51			13.0		http://www.dph.illinois.gov/
+62301,_Quincy,_Illinois,_Illinois	62301, Quincy, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		978		23633	30			-237			42.43		http://www.dph.illinois.gov/
+62305,_Quincy,_Illinois,_Illinois	62305, Quincy, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		603		3632	23			-122			24.0		http://www.dph.illinois.gov/
+62448,_Newton,_Illinois,_Illinois	62448, Newton, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		192		2418	5			-19			4.14		http://www.dph.illinois.gov/
+62454,_Robinson,_Illinois,_Illinois	62454, Robinson, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		527		3450	8			-42			8.29		http://www.dph.illinois.gov/
+62471,_Vandalia,_Illinois,_Illinois	62471, Vandalia, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		310		3680	6			-77			12.71		http://www.dph.illinois.gov/
+62521,_Decatur,_Illinois,_Illinois	62521, Decatur, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1272		16630	25			-453			71.86		http://www.dph.illinois.gov/
+62522,_Decatur,_Illinois,_Illinois	62522, Decatur, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		379		5336	8			-92			15.43		http://www.dph.illinois.gov/
+62526,_Decatur,_Illinois,_Illinois	62526, Decatur, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		994		16700	33			-265			47.29		http://www.dph.illinois.gov/
+62565,_Shelbyville,_Illinois,_Illinois	62565, Shelbyville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		277		4033	8			-67			11.86		http://www.dph.illinois.gov/
+62568,_Taylorville,_Illinois,_Illinois	62568, Taylorville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		505		7371	5			-40			7.14		http://www.dph.illinois.gov/
+62613,_Athens,_Illinois,_Illinois	62613, Athens, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		45		1886	-1			-10			1.14		http://www.dph.illinois.gov/
+62618,_Beardstown,_Illinois,_Illinois	62618, Beardstown, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		305		3135	4			-17			3.57		http://www.dph.illinois.gov/
+62629,_Chatham,_Illinois,_Illinois	62629, Chatham, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		281		8713	6			-76			12.57		http://www.dph.illinois.gov/
+62650,_Jacksonville,_Illinois,_Illinois	62650, Jacksonville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		826		12453	24			-124			24.57		http://www.dph.illinois.gov/
+62656,_Lincoln,_Illinois,_Illinois	62656, Lincoln, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		455		12481	4			-58			9.43		http://www.dph.illinois.gov/
+62664,_Mason_City,_Illinois,_Illinois	62664, Mason City, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		99		1230	-1			-60			8.29		http://www.dph.illinois.gov/
+62684,_Sherman,_Illinois,_Illinois	62684, Sherman, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		190		3634	-2			-55			7.29		http://www.dph.illinois.gov/
+62702,_Springfield,_Illinois,_Illinois	62702, Springfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		686		21266	19			-180			31.14		http://www.dph.illinois.gov/
+62703,_Springfield,_Illinois,_Illinois	62703, Springfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		632		19490	22			-161			29.29		http://www.dph.illinois.gov/
+62704,_Springfield,_Illinois,_Illinois	62704, Springfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		774		24050	20			-165			29.29		http://www.dph.illinois.gov/
+62707,_Springfield,_Illinois,_Illinois	62707, Springfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		220		5724	5			-35			6.43		http://www.dph.illinois.gov/
+62801,_Centralia,_Illinois,_Illinois	62801, Centralia, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		648		12331	18			-134			24.29		http://www.dph.illinois.gov/
+62832,_Du_Quoin,_Illinois,_Illinois	62832, Du Quoin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		163		3753	6			-30			6.0		http://www.dph.illinois.gov/
+62864,_Mount_Vernon,_Illinois,_Illinois	62864, Mount Vernon, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		643		9229	4			-75			11.86		http://www.dph.illinois.gov/
+62901,_Carbondale,_Illinois,_Illinois	62901, Carbondale, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		826		11595	19			-62			14.29		http://www.dph.illinois.gov/
+62902,_Carbondale,_Illinois,_Illinois	62902, Carbondale, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		84		1709	1			-11			1.86		http://www.dph.illinois.gov/
+62906,_Anna,_Illinois,_Illinois	62906, Anna, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		450		4733	2			-71			10.71		http://www.dph.illinois.gov/
+62907,_Ava,_Illinois,_Illinois	62907, Ava, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		65		700	2			-5			1.29		http://www.dph.illinois.gov/
+62918,_Carterville,_Illinois,_Illinois	62918, Carterville, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		325		4538	2			-56			8.57		http://www.dph.illinois.gov/
+62920,_Cobden,_Illinois,_Illinois	62920, Cobden, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		128		1371	1			-7			1.29		http://www.dph.illinois.gov/
+62948,_Herrin,_Illinois,_Illinois	62948, Herrin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		435		6662	4			-53			8.71		http://www.dph.illinois.gov/
+62959,_Marion,_Illinois,_Illinois	62959, Marion, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		743		14398	15			-118			21.14		http://www.dph.illinois.gov/
+62966,_Murphysboro,_Illinois,_Illinois	62966, Murphysboro, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		419		5895	4			-52			8.57		http://www.dph.illinois.gov/
+62992,_Ullin,_Illinois,_Illinois	62992, Ullin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		117		782	0			-10			1.43		http://www.dph.illinois.gov/
 94102,_San_Francisco,_California	94102, San Francisco, California	2020-10-28			813									1.29		https://www.sfdph.org/
 94103,_San_Francisco,_California	94103, San Francisco, California	2020-10-28			650									2.14		https://www.sfdph.org/
 94104,_San_Francisco,_California	94104, San Francisco, California	2020-10-28		0									0.0			https://www.sfdph.org/
@@ -387,9 +830,29 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 94133,_San_Francisco,_California	94133, San Francisco, California	2020-10-28			167									1.43		https://www.sfdph.org/
 94134,_San_Francisco,_California	94134, San Francisco, California	2020-10-28			1000									3.0		https://www.sfdph.org/
 29909,_Okatie,_South_Carolina,_South_Carolina	29909, Okatie, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		307			6			2			3.43		https://www.scdhec.gov/
+60133,_Hanover_Park,_Illinois,_Illinois	60133, Hanover Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1554		16392	22			-189			33.29		http://www.dph.illinois.gov/
+60156,_Lake_in_the_Hills,_Illinois,_Illinois	60156, Lake in the Hills, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		639		8699	18			-120			22.29		http://www.dph.illinois.gov/
 29588,_Myrtle_Beach,_South_Carolina,_South_Carolina	29588, Myrtle Beach, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		1626			23			21			8.14		https://www.scdhec.gov/
+60155,_Broadview,_Illinois,_Illinois	60155, Broadview, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		311		3291	6			-27			5.57		http://www.dph.illinois.gov/
+60491,_Homer_Glen,_Illinois,_Illinois	60491, Homer Glen, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		634		8459	14			-130			22.57		http://www.dph.illinois.gov/
 94158,_San_Francisco,_California	94158, San Francisco, California	2020-10-28		0	108								0.0	0.29		https://www.sfdph.org/
+60502,_Aurora,_Illinois,_Illinois	60502, Aurora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		435		8118	6			-69			11.57		http://www.dph.illinois.gov/
+60503,_Aurora,_Illinois,_Illinois	60503, Aurora, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		269		5240	5			-44			7.71		http://www.dph.illinois.gov/
+60585,_Plainfield,_Illinois,_Illinois	60585, Plainfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		478		8258	12			-70			13.43		http://www.dph.illinois.gov/
+60586,_Plainfield,_Illinois,_Illinois	60586, Plainfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		1294		16814	24			-189			33.86		http://www.dph.illinois.gov/
+60428,_Markham,_Illinois,_Illinois	60428, Markham, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		429		4921	4			-43			7.29		http://www.dph.illinois.gov/
+62711,_Springfield,_Illinois,_Illinois	62711, Springfield, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		416		12079	5			-83			13.29		http://www.dph.illinois.gov/
+60124,_Elgin,_Illinois,_Illinois	60124, Elgin, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		547		8588	12			-79			14.71		http://www.dph.illinois.gov/
+60169,_Hoffman_Estates,_Illinois,_Illinois	60169, Hoffman Estates, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		872		11826	22			-90			19.14		http://www.dph.illinois.gov/
+60403,_Crest_Hill,_Illinois,_Illinois	60403, Crest Hill, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		538		7322	2			-70			10.57		http://www.dph.illinois.gov/
+60404,_Shorewood,_Illinois,_Illinois	60404, Shorewood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		433		7366	5			-46			8.0		http://www.dph.illinois.gov/
+60487,_Tinley_Park,_Illinois,_Illinois	60487, Tinley Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		704		8859	14			-92			17.14		http://www.dph.illinois.gov/
 29707,_Fort_Mill,_South_Carolina,_South_Carolina	29707, Fort Mill, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		469			14			11			5.29		https://www.scdhec.gov/
+60642,_Chicago,_Illinois	60642, Chicago, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		536		12556	9			-85			14.71		http://www.dph.illinois.gov/
+61705,_Bloomington,_Illinois,_Illinois	61705, Bloomington, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		261		7107	11			-28			7.14		http://www.dph.illinois.gov/
+60484,_University_Park,_Illinois,_Illinois	60484, University Park, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		242		2701	2			-23			3.86		http://www.dph.illinois.gov/
+60958,_Pembroke_Township,_Kankakee_County,_Illinois,_Illinois	60958, Pembroke Township, Kankakee County, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		59		911	0			-10			1.43		http://www.dph.illinois.gov/
+60418,_Crestwood,_Illinois,_Illinois	60418, Crestwood, Illinois, Illinois	2020-10-28	2020-10-28T05:00:00.000Z		305		3600	7			-41			7.86		http://www.dph.illinois.gov/
 29486,_Summerville,_South_Carolina,_South_Carolina	29486, Summerville, South Carolina, South Carolina	2020-10-28	2020-10-28T04:00:00.000Z		745			8			3			4.29		https://www.scdhec.gov/
 Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2020-10-28		17	674			1	1		-3	0	0.29	5.14		https://www.scdhec.gov/
 Abington,_Massachusetts	Abington, Massachusetts	2020-10-28	2020-10-27T20:00:00.000Z		323		7955	0			0			1.29		https://www.mass.gov/
