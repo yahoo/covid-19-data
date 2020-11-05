@@ -1,4 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Abruzzo	Abruzzo	2020-11-05		568	12543	3943	301822				423		4.0	409.86	36.14	http://www.salute.gov.it/
 Adygea	Adygea	2020-11-05	2020-11-04T07:40:00.000Z	53	6028	4811		68			0		0.57	56.43	46.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-11-05	2020-11-04T12:00:00.000Z		676									8.14		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-11-05		77	3833	3426							0.0	24.14	6.86	https://www.coronavirus2020.kz/
@@ -6,72 +7,81 @@ Almaty	Almaty	2020-11-05		290	14825	14226							1.0	18.86	3.29	https://www.coron
 Almaty_Region	Almaty Region	2020-11-05		63	5188	4833							0.14	10.86	2.0	https://www.coronavirus2020.kz/
 Altai_Krai	Altai Krai	2020-11-05	2020-11-04T07:40:00.000Z	356	20113	18513		221			0		5.29	190.29	107.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2020-11-05	2020-11-04T07:40:00.000Z	20	8111	5463		171			0		1.14	144.57	88.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Amstetten_District	Amstetten District	2020-11-05	2020-11-04T21:00:00.000Z		1454									79.86		https://info.gesundheitsministerium.at/
+Amstetten_District	Amstetten District	2020-11-05	2020-11-04T21:00:00.000Z		1475									82.86		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-11-05	2020-11-04T07:40:00.000Z	63	7220	5858		159			0		0.29	127.0	57.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Aosta_Valley	Aosta Valley	2020-11-05		181	3720	1415	43115				129		2.71	105.57	25.71	http://www.salute.gov.it/
+Apulia	Apulia	2020-11-05		763	22085	7089	579289				994		8.14	716.57	104.0	http://www.salute.gov.it/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	295	22099	12586		389			0		1.14	311.14	133.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Astrakhan_Oblast	Astrakhan Oblast	2020-11-05	2020-11-04T07:40:00.000Z	178	10074	7546		128			0		2.0	107.14	47.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2020-11-05		73	11318	11104							0.0	6.86	6.14	https://www.coronavirus2020.kz/
 Auckland_Region	Auckland Region	2020-11-05	2020-11-04T13:00:00.000Z	1	226	225							0.0	0.0	0.0	https://www.health.govt.nz/
-Austria	Austria	2020-11-05	2020-11-04T21:00:00.000Z	1177	131719	77036	2305382						16.14	5074.14	3166.14	https://info.gesundheitsministerium.at/
-Baden_District,_Austria	Baden District, Austria	2020-11-05	2020-11-04T21:00:00.000Z		1749									67.86		https://info.gesundheitsministerium.at/
-Bahrain	Bahrain	2020-11-05	2020-11-05T00:00:00.000Z	327	82363	79680	1780051	0	0	0	-230	-1	1.43	191.57	283.29	https://www.moh.gov.bh/COVID19
+Austria	Austria	2020-11-05	2020-11-04T21:00:00.000Z	1177	132228	77036	2305382						16.14	5146.86	3166.14	https://info.gesundheitsministerium.at/
+Baden_District,_Austria	Baden District, Austria	2020-11-05	2020-11-04T21:00:00.000Z		1750									68.0		https://info.gesundheitsministerium.at/
+Bahrain	Bahrain	2020-11-05	2020-11-05T00:00:00.000Z	327	82624	79929	1791603	261	0	249	31	-1	1.43	228.86	318.86	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-11-05	2020-11-05T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2020-11-05	2020-11-04T07:40:00.000Z	56	11148	10293		97			0		0.71	80.29	105.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2020-11-05		54	2788	740	109904				226		1.0	114.43	8.0	http://www.salute.gov.it/
 Battambang_Province	Battambang Province	2020-11-05	2020-11-05T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bay_of_Plenty	Bay of Plenty	2020-11-05	2020-11-04T13:00:00.000Z	0	48	48							0.0	0.0	0.0	https://www.health.govt.nz/
 Belarus	Belarus	2020-11-05	2020-11-04T03:00:00.000Z	995	102313	88701	2573132						3.14	826.29	481.29	http://stopcovid.belta.by/
+Belgium	Belgium	2020-11-05	2020-11-04T00:00:00.000Z	12126	453310		5068561						114.14	5989.43		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-11-05	2020-11-04T07:40:00.000Z	61	12033	10443		119			0		0.0	97.57	68.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Bludenz_District	Bludenz District	2020-11-05	2020-11-04T21:00:00.000Z		1122									46.14		https://info.gesundheitsministerium.at/
-Braunau_am_Inn_District	Braunau am Inn District	2020-11-05	2020-11-04T21:00:00.000Z		1133									61.29		https://info.gesundheitsministerium.at/
-Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-11-05	2020-11-04T21:00:00.000Z		1159									36.71		https://info.gesundheitsministerium.at/
+Braunau_am_Inn_District	Braunau am Inn District	2020-11-05	2020-11-04T21:00:00.000Z		1134									61.43		https://info.gesundheitsministerium.at/
+Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-11-05	2020-11-04T21:00:00.000Z		1160									36.86		https://info.gesundheitsministerium.at/
 Bryansk_Oblast	Bryansk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	70	13443	9869		163			0		1.43	137.43	87.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Burgenland	Burgenland	2020-11-05	2020-11-04T21:00:00.000Z	27		1595							1.0		41.29	https://info.gesundheitsministerium.at/
 Buryatia	Buryatia	2020-11-05	2020-11-04T07:40:00.000Z	169	12276	10094		237			0		7.57	198.0	178.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Calabria	Calabria	2020-11-05		125	6092	2074	285949				262		1.71	209.57	39.43	http://www.salute.gov.it/
 Cambodia	Cambodia	2020-11-05	2020-11-05T07:00:00.000Z	0	292	283		0	0	0	0	0	0.0	0.29	0.0	http://www.cdcmoh.gov.kh/
-Canton_of_Aargau	Canton of Aargau	2020-11-05	2020-11-03T22:00:00.000Z	85	8770								3.29	310.0		https://www.bag.admin.ch/
-Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-11-05	2020-11-03T22:00:00.000Z	11	892								0.57	28.57		https://www.bag.admin.ch/
-Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-11-05	2020-11-03T22:00:00.000Z	6	389								0.71	12.29		https://www.bag.admin.ch/
-Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-11-05	2020-11-03T22:00:00.000Z	44	3340								0.57	116.29		https://www.bag.admin.ch/
-Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-11-05	2020-11-03T22:00:00.000Z	54	2907								0.0	72.0		https://www.bag.admin.ch/
-Canton_of_Bern	Canton of Bern	2020-11-05	2020-11-03T22:00:00.000Z	153	16171								4.57	591.0		https://www.bag.admin.ch/
-Canton_of_Fribourg	Canton of Fribourg	2020-11-05	2020-11-03T22:00:00.000Z	171	12408								6.86	642.43		https://www.bag.admin.ch/
-Canton_of_Glarus	Canton of Glarus	2020-11-05	2020-11-03T22:00:00.000Z	15	574								0.14	20.86		https://www.bag.admin.ch/
-Canton_of_Grisons	Canton of Grisons	2020-11-05	2020-11-03T22:00:00.000Z	57	2739								1.0	76.43		https://www.bag.admin.ch/
-Canton_of_Jura	Canton of Jura	2020-11-05	2020-11-03T22:00:00.000Z	35	2397								1.71	110.43		https://www.bag.admin.ch/
-Canton_of_Lucerne	Canton of Lucerne	2020-11-05	2020-11-03T22:00:00.000Z	40	5669								2.14	243.43		https://www.bag.admin.ch/
-Canton_of_Nidwalden	Canton of Nidwalden	2020-11-05	2020-11-03T22:00:00.000Z	4	539								0.0	15.71		https://www.bag.admin.ch/
-Canton_of_Obwalden	Canton of Obwalden	2020-11-05	2020-11-03T22:00:00.000Z	5	468								0.0	12.43		https://www.bag.admin.ch/
-Canton_of_Schaffhausen	Canton of Schaffhausen	2020-11-05	2020-11-03T22:00:00.000Z	9	838								0.14	31.71		https://www.bag.admin.ch/
-Canton_of_Schwyz	Canton of Schwyz	2020-11-05	2020-11-03T22:00:00.000Z	55	3577								1.29	100.0		https://www.bag.admin.ch/
-Canton_of_St._Gallen	Canton of St. Gallen	2020-11-05	2020-11-03T22:00:00.000Z	85	9002								3.71	347.14		https://www.bag.admin.ch/
-Canton_of_Thurgau	Canton of Thurgau	2020-11-05	2020-11-03T22:00:00.000Z	37	3426								1.71	146.86		https://www.bag.admin.ch/
-Canton_of_Ticino	Canton of Ticino	2020-11-05	2020-11-03T22:00:00.000Z	377	8858								2.29	278.29		https://www.bag.admin.ch/
-Canton_of_Uri	Canton of Uri	2020-11-05	2020-11-03T22:00:00.000Z	8	529								0.14	21.14		https://www.bag.admin.ch/
-Canton_of_Valais	Canton of Valais	2020-11-05	2020-11-03T22:00:00.000Z	251	15505								6.29	686.29		https://www.bag.admin.ch/
-Canton_of_Zug	Canton of Zug	2020-11-05	2020-11-03T22:00:00.000Z	11	1967								0.14	51.29		https://www.bag.admin.ch/
-Canton_of_Zürich	Canton of Zürich	2020-11-05	2020-11-03T22:00:00.000Z	198	25667								4.14	732.71		https://www.bag.admin.ch/
+Campania	Campania	2020-11-05		739	69613	14386	1031736				4181		13.57	2961.14	549.86	http://www.salute.gov.it/
+Canton_of_Aargau	Canton of Aargau	2020-11-05	2020-11-04T22:00:00.000Z	85	8770			0	0		-447	-3	3.29	310.0		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-11-05	2020-11-04T22:00:00.000Z	11	892			0	0		-41	0	0.57	28.57		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-11-05	2020-11-04T22:00:00.000Z	6	389			0	0		-24	-1	0.71	12.29		https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2020-11-05	2020-11-04T22:00:00.000Z	44	3340			0	0		-89	0	0.57	116.29		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2020-11-05	2020-11-04T22:00:00.000Z	54	2907			0	0		-107	0	0.0	72.0		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2020-11-05	2020-11-04T22:00:00.000Z	153	16171			0	0		-772	-8	4.57	591.0		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2020-11-05	2020-11-04T22:00:00.000Z	171	12408			0	0		-800	-13	6.86	642.43		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2020-11-05	2020-11-04T22:00:00.000Z	15	574			0	0		-28	-1	0.14	20.86		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2020-11-05	2020-11-04T22:00:00.000Z	57	2739			0	0		-135	-3	1.0	76.43		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2020-11-05	2020-11-04T22:00:00.000Z	35	2397			0	0		-172	-1	1.71	110.43		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2020-11-05	2020-11-04T22:00:00.000Z	40	5669			0	0		-314	-1	2.14	243.43		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2020-11-05	2020-11-04T22:00:00.000Z	4	539			0	0		0	0	0.0	15.71		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2020-11-05	2020-11-04T22:00:00.000Z	5	468			0	0		-13	0	0.0	12.43		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2020-11-05	2020-11-04T22:00:00.000Z	9	838			0	0		-57	-1	0.14	31.71		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2020-11-05	2020-11-04T22:00:00.000Z	55	3577			0	0		-96	-1	1.29	100.0		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2020-11-05	2020-11-04T22:00:00.000Z	85	9002			0	0		-589	-9	3.71	347.14		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2020-11-05	2020-11-04T22:00:00.000Z	37	3426			0	0		-204	-1	1.71	146.86		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2020-11-05	2020-11-04T22:00:00.000Z	377	8858			0	0		-378	-5	2.29	278.29		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2020-11-05	2020-11-04T22:00:00.000Z	8	529			0	0		-43	0	0.14	21.14		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2020-11-05	2020-11-04T22:00:00.000Z	251	15505			0	0		-700	-20	6.29	686.29		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2020-11-05	2020-11-04T22:00:00.000Z	11	1967			0	0		-72	0	0.14	51.29		https://www.bag.admin.ch/
+Canton_of_Zürich	Canton of Zürich	2020-11-05	2020-11-04T22:00:00.000Z	198	25667			0	0		-1437	-6	4.14	732.71		https://www.bag.admin.ch/
 Carinthia	Carinthia	2020-11-05	2020-11-04T21:00:00.000Z	26		1942							1.57		57.0	https://info.gesundheitsministerium.at/
 Chechnya	Chechnya	2020-11-05	2020-11-04T07:40:00.000Z	48	2701	2120		18			0		0.14	12.0	3.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	165	19670	15481		172			0		0.57	140.57	173.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-11-05	2020-11-04T07:40:00.000Z	2	250	218		3			0		0.0	1.57	0.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-11-05	2020-11-04T07:40:00.000Z	158	10135	8662		61			0		2.71	50.43	50.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Czech_Republic	Czech Republic	2020-11-05	2020-11-04T16:01:00.000Z	4089	370285	185866	2422416						180.43	9471.57	9380.14	https://onemocneni-aktualne.mzcr.cz/
+Czech_Republic	Czech Republic	2020-11-05	2020-11-04T23:21:00.000Z	4133	378716	199763	2422416						186.71	10676.0	11365.43	https://onemocneni-aktualne.mzcr.cz/
 Dagestan	Dagestan	2020-11-05	2020-11-04T07:40:00.000Z	790	16393	14717		87			0		2.57	74.0	73.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Deutschlandsberg_District	Deutschlandsberg District	2020-11-05	2020-11-04T21:00:00.000Z		464									27.14		https://info.gesundheitsministerium.at/
+Deutschlandsberg_District	Deutschlandsberg District	2020-11-05	2020-11-04T21:00:00.000Z		467									27.57		https://info.gesundheitsministerium.at/
 Dornbirn_District	Dornbirn District	2020-11-05	2020-11-04T21:00:00.000Z		2065									112.0		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-11-05	2020-11-05T00:48:46.722Z	1215657	47745379								5435.14	422838.29	228051.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-11-05	2020-11-05T03:43:05.277Z	1216101	47780909								5498.57	427914.0	239697.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-11-05		249	10718	8568							1.71	194.0	24.29	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-11-05	2020-11-04T21:00:00.000Z		695									37.14		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-11-05	2020-11-04T21:00:00.000Z		186									14.29		https://info.gesundheitsministerium.at/
+Emilia-Romagna	Emilia-Romagna	2020-11-05		4699	62914	28241	1654130				1758		14.0	1553.71	73.86	http://www.salute.gov.it/
 Feldkirch_District	Feldkirch District	2020-11-05	2020-11-04T21:00:00.000Z		1907									82.43		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-11-05	2020-11-04T21:00:00.000Z		198									13.86		https://info.gesundheitsministerium.at/
-Freistadt_District	Freistadt District	2020-11-05	2020-11-04T21:00:00.000Z		1154									66.71		https://info.gesundheitsministerium.at/
-Gmunden_District	Gmunden District	2020-11-05	2020-11-04T21:00:00.000Z		1553									74.86		https://info.gesundheitsministerium.at/
-Graz	Graz	2020-11-05	2020-11-04T21:00:00.000Z		3359									139.43		https://info.gesundheitsministerium.at/
+Freistadt_District	Freistadt District	2020-11-05	2020-11-04T21:00:00.000Z		1164									68.14		https://info.gesundheitsministerium.at/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-11-05		414	12264	5869	555640				436		3.86	379.14	107.71	http://www.salute.gov.it/
+Germany	Germany	2020-11-05	2020-11-05	10812	577593	381400		0	0	9900	-15352	-151	77.14	13797.14	6028.57	https://www.rki.de/
+Gmunden_District	Gmunden District	2020-11-05	2020-11-04T21:00:00.000Z		1586									79.57		https://info.gesundheitsministerium.at/
+Graz	Graz	2020-11-05	2020-11-04T21:00:00.000Z		3380									142.43		https://info.gesundheitsministerium.at/
 Greenland	Greenland	2020-11-05	2020-11-04T12:00:00.000Z	0	17	16	11435						0.0	0.0	0.0	https://www.sst.dk/
-Grieskirchen_District	Grieskirchen District	2020-11-05	2020-11-04T21:00:00.000Z		1202									56.71		https://info.gesundheitsministerium.at/
+Grieskirchen_District	Grieskirchen District	2020-11-05	2020-11-04T21:00:00.000Z		1203									56.86		https://info.gesundheitsministerium.at/
 Hawke's_Bay_Region	Hawke's Bay Region	2020-11-05	2020-11-04T13:00:00.000Z	0	44	44							0.0	0.0	0.0	https://www.health.govt.nz/
-Hermagor_District	Hermagor District	2020-11-05	2020-11-04T21:00:00.000Z		188									13.29		https://info.gesundheitsministerium.at/
+Hermagor_District	Hermagor District	2020-11-05	2020-11-04T21:00:00.000Z		189									13.43		https://info.gesundheitsministerium.at/
 Hollabrunn_District	Hollabrunn District	2020-11-05	2020-11-04T21:00:00.000Z		417									28.43		https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2020-11-05	2020-11-04T21:00:00.000Z		235									9.14		https://info.gesundheitsministerium.at/
 Hungary	Hungary	2020-11-05	2020-11-04T07:13:00.000Z	2063	90988	21232	1129648						61.29	3265.86	537.57	https://koronavirus.gov.hu/
@@ -81,6 +91,7 @@ Ingushetia	Ingushetia	2020-11-05	2020-11-04T07:40:00.000Z	97	7588	6000		63			0		
 Innlandet	Innlandet	2020-11-05	2020-11-04T12:00:00.000Z		1211									33.29		https://www.fhi.no/
 Innsbruck	Innsbruck	2020-11-05	2020-11-04T21:00:00.000Z		3381									93.29		https://info.gesundheitsministerium.at/
 Irkutsk_Oblast	Irkutsk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	460	25273	21391		245			0		7.71	203.43	194.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Italy	Italy	2020-11-05		39764	790377	307378	16497767				30550		234.57	24826.0	4013.71	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2020-11-05	2020-11-04T07:40:00.000Z	181	11969	8504		126			0		1.71	103.29	37.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jambyl_Region	Jambyl Region	2020-11-05		61	4199	4094							0.0	2.71	1.43	https://www.coronavirus2020.kz/
 Jennersdorf_District	Jennersdorf District	2020-11-05	2020-11-04T21:00:00.000Z		153									11.0		https://info.gesundheitsministerium.at/
@@ -108,12 +119,12 @@ Kirov_Oblast	Kirov Oblast	2020-11-05	2020-11-04T07:40:00.000Z	172	12591	7424		17
 Klagenfurt	Klagenfurt	2020-11-05	2020-11-04T21:00:00.000Z		957									47.14		https://info.gesundheitsministerium.at/
 Koh_Kong_Province	Koh Kong Province	2020-11-05	2020-11-05T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Komi_Republic	Komi Republic	2020-11-05	2020-11-04T07:40:00.000Z	231	14323	10381		239			0		2.43	199.57	98.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Korneuburg_District	Korneuburg District	2020-11-05	2020-11-04T21:00:00.000Z		1198									42.0		https://info.gesundheitsministerium.at/
+Korneuburg_District	Korneuburg District	2020-11-05	2020-11-04T21:00:00.000Z		1200									42.29		https://info.gesundheitsministerium.at/
 Kostanay_Region	Kostanay Region	2020-11-05		24	3686	3216							0.14	11.14	3.14	https://www.coronavirus2020.kz/
 Kostroma_Oblast	Kostroma Oblast	2020-11-05	2020-11-04T07:40:00.000Z	140	7840	4936		127			0		2.71	105.29	32.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Krasnodar_Krai	Krasnodar Krai	2020-11-05	2020-11-04T07:40:00.000Z	447	17928	11846		135			0		5.71	115.57	39.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Krasnoyarsk_Krai	Krasnoyarsk Krai	2020-11-05	2020-11-04T07:40:00.000Z	700	27650	20362		308			0		6.71	255.71	221.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Krems_an_der_Donau	Krems an der Donau	2020-11-05	2020-11-04T21:00:00.000Z		338									15.29		https://info.gesundheitsministerium.at/
+Krems_an_der_Donau	Krems an der Donau	2020-11-05	2020-11-04T21:00:00.000Z		339									15.43		https://info.gesundheitsministerium.at/
 Kufstein_District	Kufstein District	2020-11-05	2020-11-04T21:00:00.000Z		2267									86.43		https://info.gesundheitsministerium.at/
 Kurgan_Oblast	Kurgan Oblast	2020-11-05	2020-11-04T07:40:00.000Z	94	6175	4860		84			0		1.43	68.43	59.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kursk_Oblast	Kursk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	109	11423	8476		135			0		2.86	110.14	67.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -122,14 +133,14 @@ Kyzylorda_Region	Kyzylorda Region	2020-11-05		15	3262	3134							0.0	0.43	2.0	ht
 Landeck_District	Landeck District	2020-11-05	2020-11-04T21:00:00.000Z		1566									16.14		https://info.gesundheitsministerium.at/
 Lazio	Lazio	2020-11-05		1309	55273	12081	1532276				2432		19.43	1912.29	154.14	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-11-05	2020-11-04T16:32:00.000Z	676	87097	45032							9.43	1331.29	844.14	https://corona.ministryinfo.gov.lb/
-Leibnitz_District	Leibnitz District	2020-11-05	2020-11-04T21:00:00.000Z		962									50.43		https://info.gesundheitsministerium.at/
+Leibnitz_District	Leibnitz District	2020-11-05	2020-11-04T21:00:00.000Z		963									50.57		https://info.gesundheitsministerium.at/
 Leningrad_Oblast	Leningrad Oblast	2020-11-05	2020-11-04T07:40:00.000Z	116	12031	6930		163			0		0.0	121.71	67.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Leoben_District	Leoben District	2020-11-05	2020-11-04T21:00:00.000Z		608									28.86		https://info.gesundheitsministerium.at/
+Leoben_District	Leoben District	2020-11-05	2020-11-04T21:00:00.000Z		609									29.0		https://info.gesundheitsministerium.at/
 Lienz_District	Lienz District	2020-11-05	2020-11-04T21:00:00.000Z		477									19.14		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-11-05	2020-11-04T21:00:00.000Z		905									49.43		https://info.gesundheitsministerium.at/
 Liguria	Liguria	2020-11-05		1834	32117	19816	463326				1122		13.14	796.57	421.86	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2020-11-05	2020-11-04T21:00:00.000Z		376									16.0		https://info.gesundheitsministerium.at/
-Linz	Linz	2020-11-05	2020-11-04T21:00:00.000Z		3282									115.86		https://info.gesundheitsministerium.at/
+Linz	Linz	2020-11-05	2020-11-04T21:00:00.000Z		3284									116.14		https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	75	8457	6877		92			0		0.86	74.29	40.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lithuania	Lithuania	2020-11-05	2020-11-04T09:42:00.000Z	182	18092	5082	1050223						4.57	714.86	71.43	https://koronastop.lrv.lt
 Lombardy	Lombardy	2020-11-05		17848	224191	101610	3084414				7758		62.0	6618.0	1291.86	http://www.salute.gov.it/
@@ -150,10 +161,10 @@ Moscow	Moscow	2020-11-05	2020-11-04T07:40:00.000Z	7004	445181	325531		5826			0		
 Moscow_Oblast	Moscow Oblast	2020-11-05	2020-11-04T07:40:00.000Z	1653	89058	66291		569			0		9.57	470.86	352.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Murau_District	Murau District	2020-11-05	2020-11-04T21:00:00.000Z		133									10.14		https://info.gesundheitsministerium.at/
 Murmansk_Oblast	Murmansk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	313	20703	16443		221			0		3.29	178.0	110.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Murtal_District	Murtal District	2020-11-05	2020-11-04T21:00:00.000Z		549									28.43		https://info.gesundheitsministerium.at/
+Murtal_District	Murtal District	2020-11-05	2020-11-04T21:00:00.000Z		550									28.57		https://info.gesundheitsministerium.at/
 Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-11-05	2020-11-04T07:40:00.000Z	0	491	171		7			0		0.0	5.71	1.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Netherlands	Netherlands	2020-11-05	2020-11-03T22:00:00.000Z	7682	383523								60.57	7609.71		https://www.rivm.nl/
-Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-11-05	2020-11-04T21:00:00.000Z		1017									39.14		https://info.gesundheitsministerium.at/
+Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-11-05	2020-11-04T21:00:00.000Z		1018									39.29		https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2020-11-05	2020-11-04T21:00:00.000Z		644									24.57		https://info.gesundheitsministerium.at/
 New_Zealand	New Zealand	2020-11-05	2020-11-04T13:00:00.000Z	25	1971	1873	1113739	0	0	0	-3	0	0.0	3.14	2.71	https://www.health.govt.nz/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-11-05	2020-11-04T07:40:00.000Z	833	43157	36220		417			0		10.86	341.29	271.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -172,7 +183,7 @@ Oryol_Oblast	Oryol Oblast	2020-11-05	2020-11-04T07:40:00.000Z	160	12489	9489		12
 Oslo	Oslo	2020-11-05	2020-11-04T12:00:00.000Z		6759									103.14		https://www.fhi.no/
 Pavlodar_Region	Pavlodar Region	2020-11-05		57	4382	4054							0.14	26.57	11.43	https://www.coronavirus2020.kz/
 Penza_Oblast	Penza Oblast	2020-11-05	2020-11-04T07:40:00.000Z	192	15918	11516		169			0		2.0	142.57	90.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Perg_District	Perg District	2020-11-05	2020-11-04T21:00:00.000Z		1083									54.86		https://info.gesundheitsministerium.at/
+Perg_District	Perg District	2020-11-05	2020-11-04T21:00:00.000Z		1087									55.43		https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2020-11-05	2020-11-04T07:40:00.000Z	417	14226	9398		176			0		3.57	145.29	87.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2020-11-05	2020-11-05T07:00:00.000Z		187			0			0			0.29		http://www.cdcmoh.gov.kh/
 Piedmont	Piedmont	2020-11-05		4481	81409	35351	1079137				3577		21.29	2339.86	363.43	http://www.salute.gov.it/
@@ -184,7 +195,7 @@ Qatar	Qatar	2020-11-05	2020-11-03T21:00:00.000Z	232	133370	130414	995459	227			0
 Republic_of_Karelia	Republic of Karelia	2020-11-05	2020-11-04T07:40:00.000Z	52	6910	4673		115			0		1.14	95.57	59.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Reutte_District	Reutte District	2020-11-05	2020-11-04T21:00:00.000Z		312									14.71		https://info.gesundheitsministerium.at/
 Rogaland	Rogaland	2020-11-05	2020-11-04T12:00:00.000Z		1116									19.57		https://www.fhi.no/
-Rohrbach_District	Rohrbach District	2020-11-05	2020-11-04T21:00:00.000Z		1222									77.57		https://info.gesundheitsministerium.at/
+Rohrbach_District	Rohrbach District	2020-11-05	2020-11-04T21:00:00.000Z		1223									77.71		https://info.gesundheitsministerium.at/
 Rostov_Oblast	Rostov Oblast	2020-11-05	2020-11-04T07:40:00.000Z	884	31867	25364		309			0		11.29	267.43	213.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Russia	Russia	2020-11-05	2020-11-04T07:40:00.000Z	29217	1693454	1266931	62400000	19768	389	15567	0	0	273.71	15965.86	11555.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Ryazan_Oblast	Ryazan Oblast	2020-11-05	2020-11-04T07:40:00.000Z	65	11132	7964		103			0		0.43	87.57	57.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -195,7 +206,7 @@ Salzburg_(state)	Salzburg (state)	2020-11-05	2020-11-04T21:00:00.000Z	53		4570		
 Samara_Oblast	Samara Oblast	2020-11-05	2020-11-04T07:40:00.000Z	296	16701	14346		187			0		4.14	153.71	200.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Saratov_Oblast	Saratov Oblast	2020-11-05	2020-11-04T07:40:00.000Z	163	21287	14614		195			0		1.29	166.43	192.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Sardinia	Sardinia	2020-11-05		241	10640	3351	278341				184		4.86	261.71	45.14	http://www.salute.gov.it/
-Scheibbs_District	Scheibbs District	2020-11-05	2020-11-04T21:00:00.000Z		458									28.57		https://info.gesundheitsministerium.at/
+Scheibbs_District	Scheibbs District	2020-11-05	2020-11-04T21:00:00.000Z		459									28.71		https://info.gesundheitsministerium.at/
 Schwaz_District	Schwaz District	2020-11-05	2020-11-04T21:00:00.000Z		2562									109.43		https://info.gesundheitsministerium.at/
 Shymkent	Shymkent	2020-11-05		75	5241	5152							0.43	1.43	0.0	https://www.coronavirus2020.kz/
 Sicily	Sicily	2020-11-05		569	26080	7893	718747				1155		13.86	894.0	184.0	http://www.salute.gov.it/
@@ -204,12 +215,12 @@ Singapore	Singapore	2020-11-05	2020-11-04T04:00:00.000Z	28	58036	57938	3879052	7
 Smolensk_Oblast	Smolensk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	240	9256	6482		117			0		1.43	96.86	27.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 South_Tyrol	South Tyrol	2020-11-05		322	10097	2979	242847				249		2.29	373.14	2.43	http://www.salute.gov.it/
 Spittal_an_der_Drau_District	Spittal an der Drau District	2020-11-05	2020-11-04T21:00:00.000Z		234									10.14		https://info.gesundheitsministerium.at/
-Sri_Lanka	Sri Lanka	2020-11-05	2020-11-04T19:10:00.000Z	24	12187	5858							0.71	342.29	245.14	https://hpb.health.gov.lk/
+Sri_Lanka	Sri Lanka	2020-11-05	2020-11-05T01:13:00.000Z	24	12187	5858		169	0	0	-514	-2	0.71	342.29	245.14	https://hpb.health.gov.lk/
 Stavropol_Krai	Stavropol Krai	2020-11-05	2020-11-04T07:40:00.000Z	442	22079	17187		205			0		3.43	169.86	232.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Steyr	Steyr	2020-11-05	2020-11-04T21:00:00.000Z		596									29.71		https://info.gesundheitsministerium.at/
 Styria	Styria	2020-11-05	2020-11-04T21:00:00.000Z	233		5397							5.0		122.71	https://info.gesundheitsministerium.at/
 Sverdlovsk_Oblast	Sverdlovsk Oblast	2020-11-05	2020-11-04T07:40:00.000Z	800	37326	29431		277			0		5.86	239.43	245.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Switzerland	Switzerland	2020-11-05	2020-11-03T22:00:00.000Z	2555	189101	87100							49.29	6728.43	3128.57	https://www.bag.admin.ch/
+Switzerland	Switzerland	2020-11-05	2020-11-04T22:00:00.000Z	2555	189101	87100		0	0	0	-10012	-72	49.29	6728.43	3128.57	https://www.bag.admin.ch/
 Tambov_Oblast	Tambov Oblast	2020-11-05	2020-11-04T07:40:00.000Z	54	10233	8040		99			0		0.57	81.86	51.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Taranaki	Taranaki	2020-11-05	2020-11-04T13:00:00.000Z	0	16	16							0.0	0.0	0.0	https://www.health.govt.nz/
 Tatarstan	Tatarstan	2020-11-05	2020-11-04T07:40:00.000Z	112	8596	7644		47			0		0.86	38.29	42.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
