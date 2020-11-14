@@ -1,28 +1,426 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+29001,_Alcolu,_South_Carolina,_South_Carolina	29001, Alcolu, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		65			0			0			0.0		https://www.scdhec.gov/
+29003,_Bamberg,_South_Carolina,_South_Carolina	29003, Bamberg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		300			0			0			0.0		https://www.scdhec.gov/
+29009,_Bethune,_South_Carolina,_South_Carolina	29009, Bethune, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		52			0			0			0.0		https://www.scdhec.gov/
+29010,_Bishopville,_South_Carolina,_South_Carolina	29010, Bishopville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		481			0			0			0.0		https://www.scdhec.gov/
+29016,_Blythewood,_South_Carolina,_South_Carolina	29016, Blythewood, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		413			0			0			0.0		https://www.scdhec.gov/
+29018,_Bowman,_South_Carolina,_South_Carolina	29018, Bowman, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		99			0			0			0.0		https://www.scdhec.gov/
+29020,_Camden_station_(South_Carolina),_South_Carolina	29020, Camden station (South Carolina), South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		619			0			0			0.0		https://www.scdhec.gov/
+29030,_Cameron,_South_Carolina,_South_Carolina	29030, Cameron, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		65			0			0			0.0		https://www.scdhec.gov/
+29031,_Carlisle,_South_Carolina,_South_Carolina	29031, Carlisle, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29033,_Cayce,_South_Carolina,_South_Carolina	29033, Cayce, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		282			0			0			0.0		https://www.scdhec.gov/
+29036,_Chapin,_South_Carolina,_South_Carolina	29036, Chapin, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		473			0			0			0.0		https://www.scdhec.gov/
+29039,_Cordova,_South_Carolina,_South_Carolina	29039, Cordova, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		99			0			0			0.0		https://www.scdhec.gov/
+29040,_Dalzell,_South_Carolina,_South_Carolina	29040, Dalzell, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		166			0			0			0.0		https://www.scdhec.gov/
+29042,_Denmark,_South_Carolina,_South_Carolina	29042, Denmark, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		189			0			0			0.0		https://www.scdhec.gov/
+29044,_Eastover,_South_Carolina,_South_Carolina	29044, Eastover, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		113			0			0			0.0		https://www.scdhec.gov/
+29045,_Elgin,_Kershaw_County,_South_Carolina,_South_Carolina	29045, Elgin, Kershaw County, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		570			0			0			0.0		https://www.scdhec.gov/
+29047,_Elloree,_South_Carolina,_South_Carolina	29047, Elloree, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		131			0			0			0.0		https://www.scdhec.gov/
+29048,_Eutawville,_South_Carolina,_South_Carolina	29048, Eutawville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		123			0			0			0.0		https://www.scdhec.gov/
+29052,_Gadsden,_South_Carolina,_South_Carolina	29052, Gadsden, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		38			0			0			0.0		https://www.scdhec.gov/
+29053,_Gaston,_South_Carolina,_South_Carolina	29053, Gaston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		457			0			0			0.0		https://www.scdhec.gov/
+29054,_Gilbert,_South_Carolina,_South_Carolina	29054, Gilbert, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		163			0			0			0.0		https://www.scdhec.gov/
+29055,_Great_Falls,_South_Carolina,_South_Carolina	29055, Great Falls, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		128			0			0			0.0		https://www.scdhec.gov/
+29056,_Greeleyville,_South_Carolina,_South_Carolina	29056, Greeleyville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29058,_Heath_Springs,_South_Carolina,_South_Carolina	29058, Heath Springs, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		89			0			0			0.0		https://www.scdhec.gov/
+29059,_Holly_Hill,_South_Carolina,_South_Carolina	29059, Holly Hill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		191			0			0			0.0		https://www.scdhec.gov/
+29061,_Hopkins,_South_Carolina,_South_Carolina	29061, Hopkins, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		310			0			0			0.0		https://www.scdhec.gov/
+29063,_Irmo,_South_Carolina,_South_Carolina	29063, Irmo, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		625			0			0			0.0		https://www.scdhec.gov/
+29065,_Jenkinsville,_South_Carolina,_South_Carolina	29065, Jenkinsville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29067,_Kershaw,_South_Carolina,_South_Carolina	29067, Kershaw, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		166			0			0			0.0		https://www.scdhec.gov/
+29069,_Lamar,_South_Carolina,_South_Carolina	29069, Lamar, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		125			0			0			0.0		https://www.scdhec.gov/
+29072,_Lexington,_South_Carolina,_South_Carolina	29072, Lexington, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1202			0			0			0.0		https://www.scdhec.gov/
+29073,_Lexington,_South_Carolina,_South_Carolina	29073, Lexington, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		838			0			0			0.0		https://www.scdhec.gov/
+29075,_Little_Mountain,_South_Carolina,_South_Carolina	29075, Little Mountain, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		70			0			0			0.0		https://www.scdhec.gov/
+29078,_Lugoff,_South_Carolina,_South_Carolina	29078, Lugoff, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		331			0			0			0.0		https://www.scdhec.gov/
+29080,_Lynchburg,_South_Carolina,_South_Carolina	29080, Lynchburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		114			0			0			0.0		https://www.scdhec.gov/
+29081,_Ehrhardt,_South_Carolina,_South_Carolina	29081, Ehrhardt, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		33			0			0			0.0		https://www.scdhec.gov/
+29082,_Lodge,_South_Carolina,_South_Carolina	29082, Lodge, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29101,_McBee,_South_Carolina,_South_Carolina	29101, McBee, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		78			0			0			0.0		https://www.scdhec.gov/
+29102,_Manning,_South_Carolina,_South_Carolina	29102, Manning, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		569			0			0			0.0		https://www.scdhec.gov/
+29104,_Mayesville,_South_Carolina,_South_Carolina	29104, Mayesville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		36			0			0			0.0		https://www.scdhec.gov/
+29105,_Monetta,_South_Carolina,_South_Carolina	29105, Monetta, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		29			0			0			0.0		https://www.scdhec.gov/
+29107,_Neeses,_South_Carolina,_South_Carolina	29107, Neeses, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		57			0			0			0.0		https://www.scdhec.gov/
+29108,_Newberry,_South_Carolina,_South_Carolina	29108, Newberry, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		599			0			0			0.0		https://www.scdhec.gov/
+29112,_North,_South_Carolina,_South_Carolina	29112, North, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		157			0			0			0.0		https://www.scdhec.gov/
+29113,_Norway,_South_Carolina,_South_Carolina	29113, Norway, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		60			0			0			0.0		https://www.scdhec.gov/
+29114,_Olanta,_South_Carolina,_South_Carolina	29114, Olanta, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		80			0			0			0.0		https://www.scdhec.gov/
+29115,_Orangeburg,_South_Carolina,_South_Carolina	29115, Orangeburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1024			0			0			0.0		https://www.scdhec.gov/
+29117,_Orangeburg,_South_Carolina,_South_Carolina	29117, Orangeburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29118,_Orangeburg,_South_Carolina,_South_Carolina	29118, Orangeburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		454			0			0			0.0		https://www.scdhec.gov/
+29123,_Pelion,_South_Carolina,_South_Carolina	29123, Pelion, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		121			0			0			0.0		https://www.scdhec.gov/
+29125,_Pinewood,_South_Carolina,_South_Carolina	29125, Pinewood, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		93			0			0			0.0		https://www.scdhec.gov/
+29126,_Pomaria,_South_Carolina,_South_Carolina	29126, Pomaria, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		38			0			0			0.0		https://www.scdhec.gov/
+29127,_Prosperity,_South_Carolina,_South_Carolina	29127, Prosperity, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		180			0			0			0.0		https://www.scdhec.gov/
+29128,_Rembert,_South_Carolina,_South_Carolina	29128, Rembert, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		178			0			0			0.0		https://www.scdhec.gov/
+29129,_Ridge_Spring,_South_Carolina,_South_Carolina	29129, Ridge Spring, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		52			0			0			0.0		https://www.scdhec.gov/
+29130,_Ridgeway,_South_Carolina,_South_Carolina	29130, Ridgeway, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		215			0			0			0.0		https://www.scdhec.gov/
+29133,_Rowesville,_South_Carolina,_South_Carolina	29133, Rowesville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		21			0			0			0.0		https://www.scdhec.gov/
+29135,_St._Matthews,_South_Carolina,_South_Carolina	29135, St. Matthews, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		347			0			0			0.0		https://www.scdhec.gov/
+29137,_Salley,_South_Carolina,_South_Carolina	29137, Salley, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		57			0			0			0.0		https://www.scdhec.gov/
+29138,_Saluda,_South_Carolina,_South_Carolina	29138, Saluda, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		497			0			0			0.0		https://www.scdhec.gov/
+29142,_Santee,_South_Carolina,_South_Carolina	29142, Santee, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		217			0			0			0.0		https://www.scdhec.gov/
+29145,_Silverstreet,_South_Carolina,_South_Carolina	29145, Silverstreet, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29146,_Springfield,_South_Carolina,_South_Carolina	29146, Springfield, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		27			0			0			0.0		https://www.scdhec.gov/
+29148,_Summerton,_South_Carolina,_South_Carolina	29148, Summerton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		186			0			0			0.0		https://www.scdhec.gov/
+29150,_Sumter,_South_Carolina,_South_Carolina	29150, Sumter, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1142			0			0			0.0		https://www.scdhec.gov/
+29152,_Shaw_Air_Force_Base,_South_Carolina	29152, Shaw Air Force Base, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29153,_Sumter,_South_Carolina,_South_Carolina	29153, Sumter, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		424			0			0			0.0		https://www.scdhec.gov/
+29154,_Sumter,_South_Carolina,_South_Carolina	29154, Sumter, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		673			0			0			0.0		https://www.scdhec.gov/
+29160,_Swansea,_South_Carolina,_South_Carolina	29160, Swansea, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		134			0			0			0.0		https://www.scdhec.gov/
+29161,_Timmonsville,_South_Carolina,_South_Carolina	29161, Timmonsville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		339			0			0			0.0		https://www.scdhec.gov/
+29162,_Turbeville,_South_Carolina,_South_Carolina	29162, Turbeville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		98			0			0			0.0		https://www.scdhec.gov/
+29163,_Vance,_South_Carolina,_South_Carolina	29163, Vance, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		73			0			0			0.0		https://www.scdhec.gov/
+29164,_Wagener,_South_Carolina,_South_Carolina	29164, Wagener, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29166,_Ward,_South_Carolina,_South_Carolina	29166, Ward, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29168,_Wedgefield,_South_Carolina,_South_Carolina	29168, Wedgefield, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		75			0			0			0.0		https://www.scdhec.gov/
+29169,_West_Columbia,_South_Carolina,_South_Carolina	29169, West Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		639			0			0			0.0		https://www.scdhec.gov/
+29170,_West_Columbia,_South_Carolina,_South_Carolina	29170, West Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		439			0			0			0.0		https://www.scdhec.gov/
+29172,_West_Columbia,_South_Carolina,_South_Carolina	29172, West Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		177			0			0			0.0		https://www.scdhec.gov/
+29175,_Westville,_South_Carolina,_South_Carolina	29175, Westville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29178,_Whitmire,_South_Carolina,_South_Carolina	29178, Whitmire, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29180,_Winnsboro,_South_Carolina,_South_Carolina	29180, Winnsboro, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		347			0			0			0.0		https://www.scdhec.gov/
+29201,_Columbia,_South_Carolina,_South_Carolina	29201, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		744			0			0			0.0		https://www.scdhec.gov/
+29203,_Columbia,_South_Carolina,_South_Carolina	29203, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1077			0			0			0.0		https://www.scdhec.gov/
+29204,_Columbia,_South_Carolina,_South_Carolina	29204, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		442			0			0			0.0		https://www.scdhec.gov/
+29205,_Columbia,_South_Carolina,_South_Carolina	29205, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		499			0			0			0.0		https://www.scdhec.gov/
+29206,_Columbia,_South_Carolina,_South_Carolina	29206, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		380			0			0			0.0		https://www.scdhec.gov/
+29207,_Columbia,_South_Carolina,_South_Carolina	29207, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		624			0			0			0.0		https://www.scdhec.gov/
+29208,_Columbia,_South_Carolina,_South_Carolina	29208, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		53			0			0			0.0		https://www.scdhec.gov/
+29209,_Columbia,_South_Carolina,_South_Carolina	29209, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		735			0			0			0.0		https://www.scdhec.gov/
+29210,_Columbia,_South_Carolina,_South_Carolina	29210, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1900			0			0			0.0		https://www.scdhec.gov/
+29212,_Columbia,_South_Carolina,_South_Carolina	29212, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		438			0			0			0.0		https://www.scdhec.gov/
+29223,_Columbia,_South_Carolina,_South_Carolina	29223, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1318			0			0			0.0		https://www.scdhec.gov/
+29229,_Columbia,_South_Carolina,_South_Carolina	29229, Columbia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1008			0			0			0.0		https://www.scdhec.gov/
+29301,_Spartanburg,_South_Carolina,_South_Carolina	29301, Spartanburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		622			0			0			0.0		https://www.scdhec.gov/
+29302,_Spartanburg,_South_Carolina,_South_Carolina	29302, Spartanburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		297			0			0			0.0		https://www.scdhec.gov/
+29303,_Spartanburg,_South_Carolina,_South_Carolina	29303, Spartanburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		601			0			0			0.0		https://www.scdhec.gov/
+29306,_Spartanburg,_South_Carolina,_South_Carolina	29306, Spartanburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		275			0			0			0.0		https://www.scdhec.gov/
+29307,_Spartanburg,_South_Carolina,_South_Carolina	29307, Spartanburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		295			0			0			0.0		https://www.scdhec.gov/
+29316,_Boiling_Springs,_South_Carolina,_South_Carolina	29316, Boiling Springs, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		512			0			0			0.0		https://www.scdhec.gov/
+29320,_Arcadia,_South_Carolina,_South_Carolina	29320, Arcadia, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29321,_Buffalo,_South_Carolina,_South_Carolina	29321, Buffalo, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		48			0			0			0.0		https://www.scdhec.gov/
+29322,_Campobello,_South_Carolina,_South_Carolina	29322, Campobello, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		131			0			0			0.0		https://www.scdhec.gov/
+29323,_Chesnee,_South_Carolina,_South_Carolina	29323, Chesnee, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		254			0			0			0.0		https://www.scdhec.gov/
+29325,_Clinton,_South_Carolina,_South_Carolina	29325, Clinton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		575			0			0			0.0		https://www.scdhec.gov/
+29330,_Cowpens,_South_Carolina,_South_Carolina	29330, Cowpens, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		105			0			0			0.0		https://www.scdhec.gov/
+29332,_Cross_Hill,_South_Carolina,_South_Carolina	29332, Cross Hill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		63			0			0			0.0		https://www.scdhec.gov/
+29334,_Duncan,_South_Carolina,_South_Carolina	29334, Duncan, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		284			0			0			0.0		https://www.scdhec.gov/
+29335,_Enoree,_South_Carolina,_South_Carolina	29335, Enoree, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		84			0			0			0.0		https://www.scdhec.gov/
+29340,_Gaffney,_South_Carolina,_South_Carolina	29340, Gaffney, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		372			0			0			0.0		https://www.scdhec.gov/
+29341,_Gaffney,_South_Carolina,_South_Carolina	29341, Gaffney, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		344			0			0			0.0		https://www.scdhec.gov/
+29346,_Glendale,_South_Carolina,_South_Carolina	29346, Glendale, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29349,_Inman,_South_Carolina,_South_Carolina	29349, Inman, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		617			0			0			0.0		https://www.scdhec.gov/
+29351,_Joanna,_South_Carolina,_South_Carolina	29351, Joanna, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29353,_Jonesville,_South_Carolina,_South_Carolina	29353, Jonesville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		62			0			0			0.0		https://www.scdhec.gov/
+29355,_Kinards,_South_Carolina,_South_Carolina	29355, Kinards, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		17			0			0			0.0		https://www.scdhec.gov/
+29356,_Landrum,_South_Carolina,_South_Carolina	29356, Landrum, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		104			0			0			0.0		https://www.scdhec.gov/
+29360,_Laurens,_South_Carolina,_South_Carolina	29360, Laurens, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		512			0			0			0.0		https://www.scdhec.gov/
+29364,_Lockhart,_South_Carolina,_South_Carolina	29364, Lockhart, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29365,_Lyman,_South_Carolina,_South_Carolina	29365, Lyman, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		251			0			0			0.0		https://www.scdhec.gov/
+29368,_Mayo,_South_Carolina,_South_Carolina	29368, Mayo, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29369,_Moore,_South_Carolina,_South_Carolina	29369, Moore, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		209			0			0			0.0		https://www.scdhec.gov/
+29370,_Mountville,_South_Carolina,_South_Carolina	29370, Mountville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		21			0			0			0.0		https://www.scdhec.gov/
+29372,_Pacolet,_South_Carolina,_South_Carolina	29372, Pacolet, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		85			0			0			0.0		https://www.scdhec.gov/
+29374,_Pauline,_South_Carolina,_South_Carolina	29374, Pauline, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		54			0			0			0.0		https://www.scdhec.gov/
+29376,_Roebuck,_South_Carolina,_South_Carolina	29376, Roebuck, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		142			0			0			0.0		https://www.scdhec.gov/
+29377,_Startex,_South_Carolina,_South_Carolina	29377, Startex, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29379,_Union,_South_Carolina,_South_Carolina	29379, Union, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		333			0			0			0.0		https://www.scdhec.gov/
+29384,_Waterloo,_South_Carolina,_South_Carolina	29384, Waterloo, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		56			0			0			0.0		https://www.scdhec.gov/
+29385,_Wellford,_South_Carolina,_South_Carolina	29385, Wellford, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		182			0			0			0.0		https://www.scdhec.gov/
+29388,_Woodruff,_South_Carolina,_South_Carolina	29388, Woodruff, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		248			0			0			0.0		https://www.scdhec.gov/
+29401,_Charleston,_South_Carolina,_South_Carolina	29401, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		350			0			0			0.0		https://www.scdhec.gov/
+29403,_Charleston,_South_Carolina,_South_Carolina	29403, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1641			0			0			0.0		https://www.scdhec.gov/
+29405,_North_Charleston,_South_Carolina,_South_Carolina	29405, North Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1124			0			0			0.0		https://www.scdhec.gov/
+29406,_Charleston,_South_Carolina,_South_Carolina	29406, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1353			0			0			0.0		https://www.scdhec.gov/
+29407,_Charleston,_South_Carolina,_South_Carolina	29407, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1135			0			0			0.0		https://www.scdhec.gov/
+29409,_Charleston,_South_Carolina,_South_Carolina	29409, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29410,_Hanahan,_South_Carolina,_South_Carolina	29410, Hanahan, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		579			0			0			0.0		https://www.scdhec.gov/
+29412,_Charleston,_South_Carolina,_South_Carolina	29412, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1159			0			0			0.0		https://www.scdhec.gov/
+29414,_Charleston,_South_Carolina,_South_Carolina	29414, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1182			0			0			0.0		https://www.scdhec.gov/
+29418,_North_Charleston,_South_Carolina,_South_Carolina	29418, North Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		886			0			0			0.0		https://www.scdhec.gov/
+29420,_North_Charleston,_South_Carolina,_South_Carolina	29420, North Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		727			0			0			0.0		https://www.scdhec.gov/
+29424,_Charleston,_South_Carolina,_South_Carolina	29424, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29425,_Charleston,_South_Carolina,_South_Carolina	29425, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29426,_Adams_Run,_South_Carolina,_South_Carolina	29426, Adams Run, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		64			0			0			0.0		https://www.scdhec.gov/
+29429,_Awendaw,_South_Carolina,_South_Carolina	29429, Awendaw, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		108			0			0			0.0		https://www.scdhec.gov/
+29431,_Bonneau,_South_Carolina,_South_Carolina	29431, Bonneau, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		85			0			0			0.0		https://www.scdhec.gov/
+29432,_Branchville,_South_Carolina,_South_Carolina	29432, Branchville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		71			0			0			0.0		https://www.scdhec.gov/
+29435,_Cottageville,_South_Carolina,_South_Carolina	29435, Cottageville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		92			0			0			0.0		https://www.scdhec.gov/
+29436,_Cross,_South_Carolina,_South_Carolina	29436, Cross, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		83			0			0			0.0		https://www.scdhec.gov/
+29439,_Folly_Beach,_South_Carolina,_South_Carolina	29439, Folly Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		43			0			0			0.0		https://www.scdhec.gov/
+29440,_Georgetown,_South_Carolina,_South_Carolina	29440, Georgetown, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		765			0			0			0.0		https://www.scdhec.gov/
+29445,_Goose_Creek,_South_Carolina,_South_Carolina	29445, Goose Creek, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1600			0			0			0.0		https://www.scdhec.gov/
+29448,_Harleyville,_South_Carolina,_South_Carolina	29448, Harleyville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		45			0			0			0.0		https://www.scdhec.gov/
+29449,_Hollywood,_South_Carolina,_South_Carolina	29449, Hollywood, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		305			0			0			0.0		https://www.scdhec.gov/
+29451,_Isle_of_Palms,_South_Carolina,_South_Carolina	29451, Isle of Palms, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		67			0			0			0.0		https://www.scdhec.gov/
+29452,_Jacksonboro,_South_Carolina,_South_Carolina	29452, Jacksonboro, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29453,_Jamestown,_South_Carolina,_South_Carolina	29453, Jamestown, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		29			0			0			0.0		https://www.scdhec.gov/
+29455,_Johns_Island,_South_Carolina,_South_Carolina	29455, Johns Island, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		748			0			0			0.0		https://www.scdhec.gov/
+29456,_Ladson,_South_Carolina,_South_Carolina	29456, Ladson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		936			0			0			0.0		https://www.scdhec.gov/
+29458,_McClellanville,_South_Carolina,_South_Carolina	29458, McClellanville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		69			0			0			0.0		https://www.scdhec.gov/
+29461,_Moncks_Corner,_South_Carolina,_South_Carolina	29461, Moncks Corner, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		894			0			0			0.0		https://www.scdhec.gov/
+29464,_Mount_Pleasant,_South_Carolina,_South_Carolina	29464, Mount Pleasant, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1592			0			0			0.0		https://www.scdhec.gov/
+29466,_Mount_Pleasant,_South_Carolina,_South_Carolina	29466, Mount Pleasant, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		794			0			0			0.0		https://www.scdhec.gov/
+29469,_Pinopolis,_South_Carolina,_South_Carolina	29469, Pinopolis, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29470,_Ravenel,_South_Carolina,_South_Carolina	29470, Ravenel, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		130			0			0			0.0		https://www.scdhec.gov/
+29471,_Reevesville,_South_Carolina,_South_Carolina	29471, Reevesville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		36			0			0			0.0		https://www.scdhec.gov/
+29472,_Ridgeville,_South_Carolina,_South_Carolina	29472, Ridgeville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		210			0			0			0.0		https://www.scdhec.gov/
+29474,_Round_O,_South_Carolina,_South_Carolina	29474, Round O, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		32			0			0			0.0		https://www.scdhec.gov/
+29477,_St._George,_South_Carolina,_South_Carolina	29477, St. George, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		175			0			0			0.0		https://www.scdhec.gov/
+29479,_St._Stephen,_South_Carolina,_South_Carolina	29479, St. Stephen, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		153			0			0			0.0		https://www.scdhec.gov/
+29481,_Smoaks,_South_Carolina,_South_Carolina	29481, Smoaks, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		83			0			0			0.0		https://www.scdhec.gov/
+29482,_Sullivan's_Island,_South_Carolina,_South_Carolina	29482, Sullivan's Island, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		43			0			0			0.0		https://www.scdhec.gov/
+29483,_Summerville,_South_Carolina,_South_Carolina	29483, Summerville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1279			0			0			0.0		https://www.scdhec.gov/
+29485,_Summerville,_South_Carolina,_South_Carolina	29485, Summerville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1180			0			0			0.0		https://www.scdhec.gov/
+29487,_Wadmalaw_Island,_South_Carolina	29487, Wadmalaw Island, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		89			0			0			0.0		https://www.scdhec.gov/
+29488,_Walterboro,_South_Carolina,_South_Carolina	29488, Walterboro, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		560			0			0			0.0		https://www.scdhec.gov/
+29492,_Charleston,_South_Carolina,_South_Carolina	29492, Charleston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		382			0			0			0.0		https://www.scdhec.gov/
+29493,_Williams,_South_Carolina,_South_Carolina	29493, Williams, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29501,_Florence,_South_Carolina,_South_Carolina	29501, Florence, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1577			0			0			0.0		https://www.scdhec.gov/
+29505,_Florence,_South_Carolina,_South_Carolina	29505, Florence, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		673			0			0			0.0		https://www.scdhec.gov/
+29506,_Florence,_South_Carolina,_South_Carolina	29506, Florence, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		600			0			0			0.0		https://www.scdhec.gov/
+29510,_Andrews,_South_Carolina,_South_Carolina	29510, Andrews, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		360			0			0			0.0		https://www.scdhec.gov/
+29511,_Aynor,_South_Carolina,_South_Carolina	29511, Aynor, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		103			0			0			0.0		https://www.scdhec.gov/
+29512,_Bennettsville,_South_Carolina,_South_Carolina	29512, Bennettsville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		525			0			0			0.0		https://www.scdhec.gov/
+29516,_Blenheim,_South_Carolina,_South_Carolina	29516, Blenheim, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		20			0			0			0.0		https://www.scdhec.gov/
+29518,_Cades,_South_Carolina,_South_Carolina	29518, Cades, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		48			0			0			0.0		https://www.scdhec.gov/
+29520,_Cheraw,_South_Carolina,_South_Carolina	29520, Cheraw, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		403			0			0			0.0		https://www.scdhec.gov/
+29525,_Clio,_South_Carolina,_South_Carolina	29525, Clio, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		64			0			0			0.0		https://www.scdhec.gov/
+29526,_Conway,_South_Carolina,_South_Carolina	29526, Conway, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1299			0			0			0.0		https://www.scdhec.gov/
+29527,_Conway,_South_Carolina,_South_Carolina	29527, Conway, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		602			0			0			0.0		https://www.scdhec.gov/
+29530,_Coward,_South_Carolina,_South_Carolina	29530, Coward, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		88			0			0			0.0		https://www.scdhec.gov/
+29532,_Darlington,_South_Carolina,_South_Carolina	29532, Darlington, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		590			0			0			0.0		https://www.scdhec.gov/
+29536,_Dillon,_South_Carolina,_South_Carolina	29536, Dillon, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		418			0			0			0.0		https://www.scdhec.gov/
+29540,_Darlington,_South_Carolina,_South_Carolina	29540, Darlington, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		159			0			0			0.0		https://www.scdhec.gov/
+29541,_Effingham,_South_Carolina,_South_Carolina	29541, Effingham, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		265			0			0			0.0		https://www.scdhec.gov/
+29544,_Galivants_Ferry,_South_Carolina,_South_Carolina	29544, Galivants Ferry, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		113			0			0			0.0		https://www.scdhec.gov/
+29545,_Green_Sea,_South_Carolina,_South_Carolina	29545, Green Sea, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		39			0			0			0.0		https://www.scdhec.gov/
+29547,_Hamer,_South_Carolina,_South_Carolina	29547, Hamer, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		77			0			0			0.0		https://www.scdhec.gov/
+29550,_Hartsville,_South_Carolina,_South_Carolina	29550, Hartsville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		793			0			0			0.0		https://www.scdhec.gov/
+29554,_Hemingway,_South_Carolina,_South_Carolina	29554, Hemingway, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		322			0			0			0.0		https://www.scdhec.gov/
+29555,_Johnsonville,_South_Carolina,_South_Carolina	29555, Johnsonville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		120			0			0			0.0		https://www.scdhec.gov/
+29556,_Kingstree,_South_Carolina,_South_Carolina	29556, Kingstree, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		544			0			0			0.0		https://www.scdhec.gov/
+29560,_Lake_City,_South_Carolina,_South_Carolina	29560, Lake City, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		462			0			0			0.0		https://www.scdhec.gov/
+29563,_Lake_View,_South_Carolina,_South_Carolina	29563, Lake View, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		71			0			0			0.0		https://www.scdhec.gov/
+29564,_Lane,_South_Carolina,_South_Carolina	29564, Lane, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		27			0			0			0.0		https://www.scdhec.gov/
+29565,_Latta,_South_Carolina,_South_Carolina	29565, Latta, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		194			0			0			0.0		https://www.scdhec.gov/
+29566,_Little_River,_South_Carolina,_South_Carolina	29566, Little River, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		494			0			0			0.0		https://www.scdhec.gov/
+29567,_Little_Rock,_South_Carolina,_South_Carolina	29567, Little Rock, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29568,_Longs,_South_Carolina,_South_Carolina	29568, Longs, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		404			0			0			0.0		https://www.scdhec.gov/
+29569,_Loris,_South_Carolina,_South_Carolina	29569, Loris, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		555			0			0			0.0		https://www.scdhec.gov/
+29570,_McColl,_South_Carolina,_South_Carolina	29570, McColl, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		93			0			0			0.0		https://www.scdhec.gov/
+29571,_Marion,_South_Carolina,_South_Carolina	29571, Marion, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		381			0			0			0.0		https://www.scdhec.gov/
+29572,_Myrtle_Beach,_South_Carolina,_South_Carolina	29572, Myrtle Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		339			0			0			0.0		https://www.scdhec.gov/
+29574,_Mullins,_South_Carolina,_South_Carolina	29574, Mullins, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		232			0			0			0.0		https://www.scdhec.gov/
+29575,_Myrtle_Beach,_South_Carolina,_South_Carolina	29575, Myrtle Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		446			0			0			0.0		https://www.scdhec.gov/
+29576,_Murrells_Inlet,_South_Carolina,_South_Carolina	29576, Murrells Inlet, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		798			0			0			0.0		https://www.scdhec.gov/
+29577,_Myrtle_Beach,_South_Carolina,_South_Carolina	29577, Myrtle Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1125			0			0			0.0		https://www.scdhec.gov/
+29579,_Myrtle_Beach,_South_Carolina,_South_Carolina	29579, Myrtle Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1301			0			0			0.0		https://www.scdhec.gov/
+29580,_Nesmith,_South_Carolina,_South_Carolina	29580, Nesmith, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		34			0			0			0.0		https://www.scdhec.gov/
+29581,_Nichols,_South_Carolina,_South_Carolina	29581, Nichols, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		94			0			0			0.0		https://www.scdhec.gov/
+29582,_North_Myrtle_Beach,_South_Carolina,_South_Carolina	29582, North Myrtle Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		490			0			0			0.0		https://www.scdhec.gov/
+29583,_Pamplico,_South_Carolina,_South_Carolina	29583, Pamplico, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		118			0			0			0.0		https://www.scdhec.gov/
+29584,_Patrick,_South_Carolina,_South_Carolina	29584, Patrick, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29585,_Pawleys_Island,_South_Carolina,_South_Carolina	29585, Pawleys Island, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		370			0			0			0.0		https://www.scdhec.gov/
+29590,_Salters,_South_Carolina,_South_Carolina	29590, Salters, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		59			0			0			0.0		https://www.scdhec.gov/
+29591,_Scranton,_South_Carolina,_South_Carolina	29591, Scranton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		164			0			0			0.0		https://www.scdhec.gov/
+29592,_Sellers,_South_Carolina,_South_Carolina	29592, Sellers, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		34			0			0			0.0		https://www.scdhec.gov/
+29593,_Society_Hill,_South_Carolina,_South_Carolina	29593, Society Hill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		36			0			0			0.0		https://www.scdhec.gov/
+29596,_Wallace,_South_Carolina,_South_Carolina	29596, Wallace, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		45			0			0			0.0		https://www.scdhec.gov/
+29601,_Greenville,_South_Carolina,_South_Carolina	29601, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		444			0			0			0.0		https://www.scdhec.gov/
+29605,_Greenville,_South_Carolina,_South_Carolina	29605, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1039			0			0			0.0		https://www.scdhec.gov/
+29607,_Greenville,_South_Carolina,_South_Carolina	29607, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1005			0			0			0.0		https://www.scdhec.gov/
+29609,_Greenville,_South_Carolina,_South_Carolina	29609, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		743			0			0			0.0		https://www.scdhec.gov/
+29611,_Greenville,_South_Carolina,_South_Carolina	29611, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1159			0			0			0.0		https://www.scdhec.gov/
+29613,_Greenville,_South_Carolina,_South_Carolina	29613, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29615,_Greenville,_South_Carolina,_South_Carolina	29615, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		771			0			0			0.0		https://www.scdhec.gov/
+29617,_Greenville,_South_Carolina,_South_Carolina	29617, Greenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		866			0			0			0.0		https://www.scdhec.gov/
+29620,_Abbeville,_South_Carolina,_South_Carolina	29620, Abbeville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		199			0			0			0.0		https://www.scdhec.gov/
+29621,_Anderson,_South_Carolina,_South_Carolina	29621, Anderson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		994			0			0			0.0		https://www.scdhec.gov/
+29624,_Anderson,_South_Carolina,_South_Carolina	29624, Anderson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		335			0			0			0.0		https://www.scdhec.gov/
+29625,_Anderson,_South_Carolina,_South_Carolina	29625, Anderson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		478			0			0			0.0		https://www.scdhec.gov/
+29626,_Anderson,_South_Carolina,_South_Carolina	29626, Anderson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		247			0			0			0.0		https://www.scdhec.gov/
+29627,_Belton,_South_Carolina,_South_Carolina	29627, Belton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		259			0			0			0.0		https://www.scdhec.gov/
+29628,_Calhoun_Falls,_South_Carolina,_South_Carolina	29628, Calhoun Falls, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		49			0			0			0.0		https://www.scdhec.gov/
+29630,_Central,_South_Carolina,_South_Carolina	29630, Central, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		242			0			0			0.0		https://www.scdhec.gov/
+29631,_Clemson,_South_Carolina,_South_Carolina	29631, Clemson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		402			0			0			0.0		https://www.scdhec.gov/
+29634,_Clemson,_South_Carolina,_South_Carolina	29634, Clemson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		41			0			0			0.0		https://www.scdhec.gov/
+29638,_Donalds,_South_Carolina,_South_Carolina	29638, Donalds, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29639,_Due_West,_South_Carolina,_South_Carolina	29639, Due West, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29640,_Easley,_South_Carolina,_South_Carolina	29640, Easley, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		585			0			0			0.0		https://www.scdhec.gov/
+29642,_Easley,_South_Carolina,_South_Carolina	29642, Easley, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		602			0			0			0.0		https://www.scdhec.gov/
+29643,_Fair_Play,_South_Carolina,_South_Carolina	29643, Fair Play, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29644,_Fountain_Inn,_South_Carolina,_South_Carolina	29644, Fountain Inn, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		384			0			0			0.0		https://www.scdhec.gov/
+29645,_Gray_Court,_South_Carolina,_South_Carolina	29645, Gray Court, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		177			0			0			0.0		https://www.scdhec.gov/
+29646,_Greenwood,_South_Carolina,_South_Carolina	29646, Greenwood, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1102			0			0			0.0		https://www.scdhec.gov/
+29649,_Greenwood,_South_Carolina,_South_Carolina	29649, Greenwood, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		565			0			0			0.0		https://www.scdhec.gov/
+29650,_Greer,_South_Carolina,_South_Carolina	29650, Greer, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		675			0			0			0.0		https://www.scdhec.gov/
+29651,_Greer,_South_Carolina,_South_Carolina	29651, Greer, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		983			0			0			0.0		https://www.scdhec.gov/
+29653,_Hodges,_South_Carolina,_South_Carolina	29653, Hodges, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		122			0			0			0.0		https://www.scdhec.gov/
+29654,_Honea_Path,_South_Carolina,_South_Carolina	29654, Honea Path, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		146			0			0			0.0		https://www.scdhec.gov/
+29655,_Iva,_South_Carolina,_South_Carolina	29655, Iva, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		107			0			0			0.0		https://www.scdhec.gov/
+29657,_Liberty,_South_Carolina,_South_Carolina	29657, Liberty, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		227			0			0			0.0		https://www.scdhec.gov/
+29658,_Long_Creek,_South_Carolina,_South_Carolina	29658, Long Creek, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29659,_Lowndesville,_South_Carolina,_South_Carolina	29659, Lowndesville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29662,_Mauldin,_South_Carolina,_South_Carolina	29662, Mauldin, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		290			0			0			0.0		https://www.scdhec.gov/
+29664,_Mountain_Rest,_South_Carolina,_South_Carolina	29664, Mountain Rest, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29666,_Ninety_Six,_South_Carolina,_South_Carolina	29666, Ninety Six, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		110			0			0			0.0		https://www.scdhec.gov/
+29667,_Norris,_South_Carolina,_South_Carolina	29667, Norris, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29669,_Pelzer,_South_Carolina,_South_Carolina	29669, Pelzer, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		264			0			0			0.0		https://www.scdhec.gov/
+29670,_Pendleton,_South_Carolina,_South_Carolina	29670, Pendleton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		173			0			0			0.0		https://www.scdhec.gov/
+29671,_Pickens,_South_Carolina,_South_Carolina	29671, Pickens, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		239			0			0			0.0		https://www.scdhec.gov/
+29672,_Seneca,_South_Carolina,_South_Carolina	29672, Seneca, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		145			0			0			0.0		https://www.scdhec.gov/
+29673,_Piedmont,_South_Carolina,_South_Carolina	29673, Piedmont, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		581			0			0			0.0		https://www.scdhec.gov/
+29676,_Salem,_South_Carolina,_South_Carolina	29676, Salem, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		65			0			0			0.0		https://www.scdhec.gov/
+29678,_Seneca,_South_Carolina,_South_Carolina	29678, Seneca, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		388			0			0			0.0		https://www.scdhec.gov/
+29680,_Simpsonville,_South_Carolina,_South_Carolina	29680, Simpsonville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		648			0			0			0.0		https://www.scdhec.gov/
+29681,_Simpsonville,_South_Carolina,_South_Carolina	29681, Simpsonville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1021			0			0			0.0		https://www.scdhec.gov/
+29682,_Six_Mile,_South_Carolina,_South_Carolina	29682, Six Mile, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		62			0			0			0.0		https://www.scdhec.gov/
+29684,_Starr,_South_Carolina,_South_Carolina	29684, Starr, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		79			0			0			0.0		https://www.scdhec.gov/
+29686,_Tamassee,_South_Carolina,_South_Carolina	29686, Tamassee, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29687,_Taylors,_South_Carolina,_South_Carolina	29687, Taylors, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		937			0			0			0.0		https://www.scdhec.gov/
+29688,_Tigerville,_South_Carolina,_South_Carolina	29688, Tigerville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29690,_Travelers_Rest,_South_Carolina,_South_Carolina	29690, Travelers Rest, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		381			0			0			0.0		https://www.scdhec.gov/
+29691,_Walhalla,_South_Carolina,_South_Carolina	29691, Walhalla, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		237			0			0			0.0		https://www.scdhec.gov/
+29692,_Ware_Shoals,_South_Carolina,_South_Carolina	29692, Ware Shoals, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		62			0			0			0.0		https://www.scdhec.gov/
+29693,_Westminster,_South_Carolina,_South_Carolina	29693, Westminster, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		193			0			0			0.0		https://www.scdhec.gov/
+29696,_West_Union,_South_Carolina,_South_Carolina	29696, West Union, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		85			0			0			0.0		https://www.scdhec.gov/
+29697,_Williamston,_South_Carolina,_South_Carolina	29697, Williamston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		265			0			0			0.0		https://www.scdhec.gov/
+29702,_Blacksburg,_South_Carolina,_South_Carolina	29702, Blacksburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		115			0			0			0.0		https://www.scdhec.gov/
+29704,_Catawba,_South_Carolina,_South_Carolina	29704, Catawba, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29706,_Chester,_South_Carolina,_South_Carolina	29706, Chester, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		596			0			0			0.0		https://www.scdhec.gov/
+29708,_Fort_Mill,_South_Carolina,_South_Carolina	29708, Fort Mill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		453			0			0			0.0		https://www.scdhec.gov/
+29709,_Chesterfield,_South_Carolina,_South_Carolina	29709, Chesterfield, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		127			0			0			0.0		https://www.scdhec.gov/
+29710,_Clover,_South_Carolina,_South_Carolina	29710, Clover, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		526			0			0			0.0		https://www.scdhec.gov/
+29712,_Edgemoor,_South_Carolina,_South_Carolina	29712, Edgemoor, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		34			0			0			0.0		https://www.scdhec.gov/
+29714,_Fort_Lawn,_South_Carolina,_South_Carolina	29714, Fort Lawn, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		73			0			0			0.0		https://www.scdhec.gov/
+29715,_Fort_Mill,_South_Carolina,_South_Carolina	29715, Fort Mill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		520			0			0			0.0		https://www.scdhec.gov/
+29717,_Hickory_Grove,_South_Carolina,_South_Carolina	29717, Hickory Grove, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29718,_Jefferson,_South_Carolina,_South_Carolina	29718, Jefferson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		86			0			0			0.0		https://www.scdhec.gov/
+29720,_Lancaster,_South_Carolina,_South_Carolina	29720, Lancaster, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1230			0			0			0.0		https://www.scdhec.gov/
+29726,_McConnells,_South_Carolina,_South_Carolina	29726, McConnells, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		18			0			0			0.0		https://www.scdhec.gov/
+29727,_Mount_Croghan,_South_Carolina,_South_Carolina	29727, Mount Croghan, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		32			0			0			0.0		https://www.scdhec.gov/
+29728,_Pageland,_South_Carolina,_South_Carolina	29728, Pageland, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		213			0			0			0.0		https://www.scdhec.gov/
+29729,_Richburg,_South_Carolina,_South_Carolina	29729, Richburg, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		70			0			0			0.0		https://www.scdhec.gov/
+29730,_Rock_Hill,_South_Carolina,_South_Carolina	29730, Rock Hill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1134			0			0			0.0		https://www.scdhec.gov/
+29732,_Rock_Hill,_South_Carolina,_South_Carolina	29732, Rock Hill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1045			0			0			0.0		https://www.scdhec.gov/
+29741,_Ruby,_South_Carolina,_South_Carolina	29741, Ruby, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		28			0			0			0.0		https://www.scdhec.gov/
+29742,_Sharon,_South_Carolina,_South_Carolina	29742, Sharon, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29743,_Smyrna,_South_Carolina,_South_Carolina	29743, Smyrna, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29745,_York,_South_Carolina,_South_Carolina	29745, York, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		513			0			0			0.0		https://www.scdhec.gov/
+29801,_Aiken,_South_Carolina,_South_Carolina	29801, Aiken, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		531			0			0			0.0		https://www.scdhec.gov/
+29803,_Aiken,_South_Carolina,_South_Carolina	29803, Aiken, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		369			0			0			0.0		https://www.scdhec.gov/
+29805,_Aiken,_South_Carolina,_South_Carolina	29805, Aiken, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		69			0			0			0.0		https://www.scdhec.gov/
+29808,_Aiken,_South_Carolina,_South_Carolina	29808, Aiken, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z													https://www.scdhec.gov/
+29809,_New_Ellenton,_South_Carolina,_South_Carolina	29809, New Ellenton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		28			0			0			0.0		https://www.scdhec.gov/
+29810,_Allendale,_South_Carolina,_South_Carolina	29810, Allendale, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		177			0			0			0.0		https://www.scdhec.gov/
+29812,_Barnwell,_South_Carolina,_South_Carolina	29812, Barnwell, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		240			0			0			0.0		https://www.scdhec.gov/
+29817,_Blackville,_South_Carolina,_South_Carolina	29817, Blackville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		196			0			0			0.0		https://www.scdhec.gov/
+29819,_Bradley,_South_Carolina,_South_Carolina	29819, Bradley, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		25			0			0			0.0		https://www.scdhec.gov/
+29821,_Clarks_Hill,_South_Carolina,_South_Carolina	29821, Clarks Hill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		16			0			0			0.0		https://www.scdhec.gov/
+29824,_Edgefield,_South_Carolina,_South_Carolina	29824, Edgefield, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		214			0			0			0.0		https://www.scdhec.gov/
+29827,_Fairfax,_South_Carolina,_South_Carolina	29827, Fairfax, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		106			0			0			0.0		https://www.scdhec.gov/
+29828,_Gloverville,_South_Carolina,_South_Carolina	29828, Gloverville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29829,_Graniteville,_South_Carolina,_South_Carolina	29829, Graniteville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		144			0			0			0.0		https://www.scdhec.gov/
+29831,_Jackson,_South_Carolina,_South_Carolina	29831, Jackson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		42			0			0			0.0		https://www.scdhec.gov/
+29832,_Johnston,_South_Carolina,_South_Carolina	29832, Johnston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		119			0			0			0.0		https://www.scdhec.gov/
+29835,_McCormick,_South_Carolina,_South_Carolina	29835, McCormick, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		122			0			0			0.0		https://www.scdhec.gov/
+29836,_Martin,_South_Carolina,_South_Carolina	29836, Martin, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29838,_Modoc,_South_Carolina,_South_Carolina	29838, Modoc, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29840,_Mount_Carmel,_South_Carolina,_South_Carolina	29840, Mount Carmel, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29841,_North_Augusta,_South_Carolina,_South_Carolina	29841, North Augusta, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		460			0			0			0.0		https://www.scdhec.gov/
+29842,_Beech_Island,_South_Carolina,_South_Carolina	29842, Beech Island, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		92			0			0			0.0		https://www.scdhec.gov/
+29843,_Olar,_South_Carolina,_South_Carolina	29843, Olar, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29845,_Plum_Branch,_South_Carolina,_South_Carolina	29845, Plum Branch, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29847,_Trenton,_South_Carolina,_South_Carolina	29847, Trenton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		68			0			0			0.0		https://www.scdhec.gov/
+29848,_Troy,_South_Carolina,_South_Carolina	29848, Troy, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29849,_Ulmer,_South_Carolina,_South_Carolina	29849, Ulmer, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29851,_Warrenville,_South_Carolina,_South_Carolina	29851, Warrenville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		111			0			0			0.0		https://www.scdhec.gov/
+29853,_Williston,_South_Carolina,_South_Carolina	29853, Williston, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		96			0			0			0.0		https://www.scdhec.gov/
+29856,_Windsor,_South_Carolina,_South_Carolina	29856, Windsor, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		22			0			0			0.0		https://www.scdhec.gov/
+29860,_North_Augusta,_South_Carolina,_South_Carolina	29860, North Augusta, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		178			0			0			0.0		https://www.scdhec.gov/
+29902,_Beaufort,_South_Carolina,_South_Carolina	29902, Beaufort, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		978			0			0			0.0		https://www.scdhec.gov/
+29906,_Beaufort,_South_Carolina,_South_Carolina	29906, Beaufort, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		522			0			0			0.0		https://www.scdhec.gov/
+29910,_Bluffton,_South_Carolina,_South_Carolina	29910, Bluffton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1215			0			0			0.0		https://www.scdhec.gov/
+29911,_Brunson,_South_Carolina,_South_Carolina	29911, Brunson, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		47			0			0			0.0		https://www.scdhec.gov/
+29912,_Coosawhatchie,_South_Carolina,_South_Carolina	29912, Coosawhatchie, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29915,_Daufuskie_Island,_South_Carolina	29915, Daufuskie Island, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29918,_Estill,_South_Carolina,_South_Carolina	29918, Estill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		178			0			0			0.0		https://www.scdhec.gov/
+29920,_Saint_Helena_Island_(South_Carolina),_South_Carolina	29920, Saint Helena Island (South Carolina), South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		212			0			0			0.0		https://www.scdhec.gov/
+29924,_Hampton,_South_Carolina,_South_Carolina	29924, Hampton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		128			0			0			0.0		https://www.scdhec.gov/
+29926,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29926, Hilton Head Island, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		590			0			0			0.0		https://www.scdhec.gov/
+29927,_Hardeeville,_South_Carolina,_South_Carolina	29927, Hardeeville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		282			0			0			0.0		https://www.scdhec.gov/
+29928,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29928, Hilton Head Island, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		273			0			0			0.0		https://www.scdhec.gov/
+29929,_Islandton,_South_Carolina,_South_Carolina	29929, Islandton, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		22			0			0			0.0		https://www.scdhec.gov/
+29932,_Luray,_South_Carolina,_South_Carolina	29932, Luray, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29935,_Port_Royal,_South_Carolina,_South_Carolina	29935, Port Royal, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		101			0			0			0.0		https://www.scdhec.gov/
+29936,_Ridgeland,_South_Carolina,_South_Carolina	29936, Ridgeland, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		397			0			0			0.0		https://www.scdhec.gov/
+29940,_Seabrook,_South_Carolina,_South_Carolina	29940, Seabrook, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		96			0			0			0.0		https://www.scdhec.gov/
+29941,_Sheldon,_South_Carolina,_South_Carolina	29941, Sheldon, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29944,_Varnville,_South_Carolina,_South_Carolina	29944, Varnville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		110			0			0			0.0		https://www.scdhec.gov/
+29945,_Yemassee,_South_Carolina,_South_Carolina	29945, Yemassee, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		103			0			0			0.0		https://www.scdhec.gov/
+29909,_Okatie,_South_Carolina,_South_Carolina	29909, Okatie, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		219			0			0			0.0		https://www.scdhec.gov/
+29588,_Myrtle_Beach,_South_Carolina,_South_Carolina	29588, Myrtle Beach, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		1389			0			0			0.0		https://www.scdhec.gov/
+29707,_Fort_Mill,_South_Carolina,_South_Carolina	29707, Fort Mill, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		320			0			0			0.0		https://www.scdhec.gov/
+29486,_Summerville,_South_Carolina,_South_Carolina	29486, Summerville, South Carolina, South Carolina	2020-11-14	2020-11-14T05:00:00.000Z		615			0			0			0.0		https://www.scdhec.gov/
 Abruzzo	Abruzzo	2020-11-14		661	17774	5205	335473				683		9.29	548.29	108.57	http://www.salute.gov.it/
+Accomack_County,_Virginia	Accomack County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	21	1248								0.29	1.29		http://www.vdh.virginia.gov/
 Acre_(state)	Acre (state)	2020-11-14	2020-11-13T22:00:00.000Z	707	32661								1.57	206.14		https://covid.saude.gov.br/
+Adams_County,_Mississippi	Adams County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	47	1214								0.14	5.86		https://msdh.ms.gov/
+Adams_County,_North_Dakota	Adams County, North Dakota	2020-11-14		0	124	104	982						0.0	1.43	2.57	https://www.health.nd.gov/
+Adams_County,_Ohio	Adams County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	7	479								0.14	20.14		https://coronavirus.ohio.gov/
 Adygea	Adygea	2020-11-14	2020-11-13T07:50:00.000Z	58	6679	5420		77			0		0.57	62.57	59.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-11-14	2020-11-13T12:00:00.000Z		812									14.71		https://www.fhi.no/
+Aitkin_County,_Minnesota	Aitkin County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	10	418								0.71	13.57		https://www.health.state.mn.us/
 Akmola_Region	Akmola Region	2020-11-14		78	4215	3725							0.14	40.71	29.86	https://www.coronavirus2020.kz/
 Alagoas	Alagoas	2020-11-14	2020-11-13T22:00:00.000Z	2288	92328								4.86	169.43		https://covid.saude.gov.br/
+Albany_County,_New_York	Albany County, New York	2020-11-14	2020-11-13T14:00:00.000Z	135	4425		216378	84			0		0.57	57.29		https://coronavirus.health.ny.gov/
+Albemarle_County,_Virginia	Albemarle County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	25	1688								0.14	4.43		http://www.vdh.virginia.gov/
+Alberta	Alberta	2020-11-14	2020-11-13T16:00:00.000Z	398	37312	28321	1295038						5.86	647.86	519.57	https://www.canada.ca/
+Alcona_County,_Michigan	Alcona County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	3	82				0			0	0.0	3.29		https://www.michigan.gov/
+Alcorn_County,_Mississippi	Alcorn County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	21	1285								1.0	13.14		https://msdh.ms.gov/
+Alexandria,_Virginia	Alexandria, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	76	4602								0.0	17.29		http://www.vdh.virginia.gov/
+Alger_County,_Michigan	Alger County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1	166				0			0	0.0	4.43		https://www.michigan.gov/
+Allegan_County,_Michigan	Allegan County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	13	2496				0			0	0.71	91.29		https://www.michigan.gov/
+Allegany_County,_New_York	Allegany County, New York	2020-11-14	2020-11-13T14:00:00.000Z	34	589		31860	40			0		1.43	19.14		https://coronavirus.health.ny.gov/
+Alleghany_County,_Virginia	Alleghany County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	228								0.29	1.43		http://www.vdh.virginia.gov/
+Allen_County,_Ohio	Allen County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	81	3582								0.14	80.0		https://coronavirus.ohio.gov/
 Almaty	Almaty	2020-11-14		302	15166	14251							1.71	36.29	0.86	https://www.coronavirus2020.kz/
 Almaty_Region	Almaty Region	2020-11-14		64	5321	4893							0.14	15.29	6.14	https://www.coronavirus2020.kz/
+Alpena_County,_Michigan	Alpena County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	16	274				0			0	0.29	9.57		https://www.michigan.gov/
 Altai_Krai	Altai Krai	2020-11-14	2020-11-13T07:50:00.000Z	413	22204	19692		237			0		6.57	200.71	110.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2020-11-14	2020-11-13T07:50:00.000Z	20	9292	6787		135			0		0.0	106.71	129.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-11-14	2020-11-13T22:00:00.000Z	4683	168596								13.57	742.43		https://covid.saude.gov.br/
+Amelia_County,_Virginia	Amelia County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	154								0.0	0.43		http://www.vdh.virginia.gov/
+Amherst_County,_Virginia	Amherst County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	665								0.0	2.0		http://www.vdh.virginia.gov/
+Amite_County,_Mississippi	Amite County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	14	455								0.0	1.86		https://msdh.ms.gov/
 Amstetten_District	Amstetten District	2020-11-14	2020-11-13T21:00:00.000Z		2519									106.0		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-11-14	2020-11-13T07:50:00.000Z	71	8713	6542		171			0		0.43	143.71	68.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Androscoggin_County,_Maine	Androscoggin County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	14	1149	827							0.43	28.29	5.43	https://www.maine.gov/
+Anoka_County,_Minnesota	Anoka County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	187	14815								1.86	407.71		https://www.health.state.mn.us/
 Antofagasta_Region	Antofagasta Region	2020-11-14	2020-11-13T04:00:00.000Z	548	21782	20992							0.57	26.0	25.43	https://www.minsal.cl/
+Antrim_County,_Michigan	Antrim County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1	253				0			0	0.14	10.29		https://www.michigan.gov/
 Aosta_Valley	Aosta Valley	2020-11-14		234	4858	2261	48853				103		4.57	111.14	80.57	http://www.salute.gov.it/
 Appling_County,_Georgia	Appling County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	38	1207								0.0	2.43		https://dph.georgia.gov/
+Appomattox_County,_Virginia	Appomattox County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	341								0.0	1.57		http://www.vdh.virginia.gov/
 Apulia	Apulia	2020-11-14		957	31792	8324	646602				1350		20.14	979.57	111.14	http://www.salute.gov.it/
 Araucanía_Region	Araucanía Region	2020-11-14	2020-11-13T04:00:00.000Z	182	14783	13520							1.43	157.57	156.0	https://www.minsal.cl/
+Arenac_County,_Michigan	Arenac County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	5	199				0			0	0.0	9.29		https://www.michigan.gov/
 Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-11-14	2020-11-13T04:00:00.000Z	193	9949	9533							0.43	20.57	23.29	https://www.minsal.cl/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	310	25254	14565		339			0		1.43	292.86	185.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Arlington_County,_Virginia	Arlington County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	155	5191								0.14	31.57		http://www.vdh.virginia.gov/
+Aroostook_County,_Maine	Aroostook County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	1	82	67							0.0	1.14	1.0	https://www.maine.gov/
+Ashland_County,_Ohio	Ashland County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	20	736								0.0	21.57		https://coronavirus.ohio.gov/
+Ashtabula_County,_Ohio	Ashtabula County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	48	1446								0.0	51.57		https://coronavirus.ohio.gov/
 Astrakhan_Oblast	Astrakhan Oblast	2020-11-14	2020-11-13T07:50:00.000Z	202	11251	8163		136			0		2.29	113.71	58.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atacama_Region	Atacama Region	2020-11-14	2020-11-13T04:00:00.000Z	98	7960	7815							0.43	6.71	6.14	https://www.minsal.cl/
+Athens_County,_Ohio	Athens County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	4	1596								0.0	18.43		https://coronavirus.ohio.gov/
 Atkinson_County,_Georgia	Atkinson County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	8	498								0.14	1.0		https://dph.georgia.gov/
+Attala_County,_Mississippi	Attala County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	27	935								0.0	11.29		https://msdh.ms.gov/
 Atyrau_Region	Atyrau Region	2020-11-14		78	11409	11199							0.71	8.43	4.57	https://www.coronavirus2020.kz/
+Auglaize_County,_Ohio	Auglaize County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	21	1744								0.29	35.71		https://coronavirus.ohio.gov/
+Augusta_County,_Virginia	Augusta County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	10	847								0.14	8.43		http://www.vdh.virginia.gov/
 Austria	Austria	2020-11-14	2020-11-13T21:00:00.000Z	1537	198340	112728	2575405						37.29	6682.71	3493.57	https://info.gesundheitsministerium.at/
 Aysén_Region	Aysén Region	2020-11-14	2020-11-13T04:00:00.000Z	8	1142	1084							0.14	5.57	8.0	https://www.minsal.cl/
 Bacon_County,_Georgia	Bacon County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	21	648								0.14	0.71		https://dph.georgia.gov/
@@ -34,175 +432,450 @@ Baker_County,_Georgia	Baker County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	
 Baldwin_County,_Georgia	Baldwin County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	69	2416								0.29	6.43		https://dph.georgia.gov/
 Banks_County,_Georgia	Banks County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	10	633								0.0	5.57		https://dph.georgia.gov/
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-11-14	2020-11-14T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
+Baraga_County,_Michigan	Baraga County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	5	283				0			0	0.14	15.71		https://www.michigan.gov/
+Barnes_County,_North_Dakota	Barnes County, North Dakota	2020-11-14		3	649	470	4295						0.14	22.71	8.71	https://www.health.nd.gov/
+Barnstable_County,_Massachusetts	Barnstable County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	186	2243								0.0	17.14		https://www.mass.gov/
+Barrington,_Rhode_Island	Barrington, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		172		6230	0			0			2.86		https://health.ri.gov
 Barrow_County,_Georgia	Barrow County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	56	2822								0.14	10.43		https://dph.georgia.gov/
+Barry_County,_Michigan	Barry County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	10	1297				0			0	0.29	45.14		https://www.michigan.gov/
 Bartow_County,_Georgia	Bartow County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	101	3990								0.14	20.86		https://dph.georgia.gov/
 Bashkortostan	Bashkortostan	2020-11-14	2020-11-13T07:50:00.000Z	65	12096	11103		115			0		0.86	92.86	44.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Basilicata	Basilicata	2020-11-14		73	4556	883	123016				307		1.43	182.71	12.0	http://www.salute.gov.it/
+Bath_County,_Virginia	Bath County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	34								0.0	0.29		http://www.vdh.virginia.gov/
 Battambang_Province	Battambang Province	2020-11-14	2020-11-14T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bavaria	Bavaria	2020-11-14	2020-11-14	3108	153156	0										https://www.rki.de/
+Bay_County,_Michigan	Bay County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	79	2697				0			0	1.57	108.43		https://www.michigan.gov/
+Becker_County,_Minnesota	Becker County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	4	1158								0.0	37.71		https://www.health.state.mn.us/
+Bedford_County,_Virginia	Bedford County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	18	1500								0.0	13.14		http://www.vdh.virginia.gov/
 Belarus	Belarus	2020-11-14	2020-11-13T03:00:00.000Z	1033	111622	93570	2814373						4.14	905.57	501.71	http://stopcovid.belta.by/
 Belgium	Belgium	2020-11-14	2020-11-14	13891	525012		5389904	4619	0		-383	-133	128.43	3500.0		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-11-14	2020-11-13T07:50:00.000Z	63	13393	11772		164			0		0.29	133.0	120.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Belmont_County,_Ohio	Belmont County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	28	1220								0.14	30.71		https://coronavirus.ohio.gov/
+Beltrami_County,_Minnesota	Beltrami County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	13	1425								0.0	31.14		https://www.health.state.mn.us/
 Ben_Hill_County,_Georgia	Ben Hill County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	38	907								0.14	1.14		https://dph.georgia.gov/
+Benson_County,_North_Dakota	Benson County, North Dakota	2020-11-14		13	635	575	3391						0.14	4.0	7.43	https://www.health.nd.gov/
+Benton_County,_Minnesota	Benton County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	28	1907								1.29	62.0		https://www.health.state.mn.us/
+Benton_County,_Mississippi	Benton County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	16	436								0.57	3.43		https://msdh.ms.gov/
+Benzie_County,_Michigan	Benzie County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	3	217				0			0	0.14	6.43		https://www.michigan.gov/
+Berkshire_County,_Massachusetts	Berkshire County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	52	1001								0.0	23.29		https://www.mass.gov/
 Berlin	Berlin	2020-11-14	2020-11-14	348	46434	0										https://www.rki.de/
 Berrien_County,_Georgia	Berrien County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	27	515								0.29	1.29		https://dph.georgia.gov/
+Berrien_County,_Michigan	Berrien County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	100	4244				0			0	1.29	119.0		https://www.michigan.gov/
 Bibb_County,_Georgia	Bibb County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	224	6947								1.14	18.86		https://dph.georgia.gov/
+Big_Stone_County,_Minnesota	Big Stone County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	1	225								0.0	2.29		https://www.health.state.mn.us/
+Billings_County,_North_Dakota	Billings County, North Dakota	2020-11-14		0	35	34	319						0.0	-0.14	0.0	https://www.health.nd.gov/
 Biobío_Region	Biobío Region	2020-11-14	2020-11-13T04:00:00.000Z	540	32338	30192							4.29	194.71	168.57	https://www.minsal.cl/
+Bland_County,_Virginia	Bland County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	5	102								0.0	1.71		http://www.vdh.virginia.gov/
 Bleckley_County,_Georgia	Bleckley County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	29	527								0.14	1.29		https://dph.georgia.gov/
 Bludenz_District	Bludenz District	2020-11-14	2020-11-13T21:00:00.000Z		1666									54.0		https://info.gesundheitsministerium.at/
+Blue_Earth_County,_Minnesota	Blue Earth County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	8	2781								0.14	42.43		https://www.health.state.mn.us/
+Bolivar_County,_Mississippi	Bolivar County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	82	2232								0.14	12.57		https://msdh.ms.gov/
+Botetourt_County,_Virginia	Botetourt County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	13	570								0.0	3.71		http://www.vdh.virginia.gov/
+Bottineau_County,_North_Dakota	Bottineau County, North Dakota	2020-11-14		18	424	357	2237						0.0	4.14	6.71	https://www.health.nd.gov/
+Bowman_County,_North_Dakota	Bowman County, North Dakota	2020-11-14		3	162	144	1309						0.0	0.71	1.14	https://www.health.nd.gov/
+Branch_County,_Michigan	Branch County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	19	1474				0			0	0.71	44.29		https://www.michigan.gov/
 Brandenburg	Brandenburg	2020-11-14	2020-11-14	232	12205	0										https://www.rki.de/
 Brantley_County,_Georgia	Brantley County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	14	497								0.0	1.29		https://dph.georgia.gov/
 Braunau_am_Inn_District	Braunau am Inn District	2020-11-14	2020-11-13T21:00:00.000Z		1886									78.29		https://info.gesundheitsministerium.at/
 Brazil	Brazil	2020-11-14	2020-11-13T22:00:00.000Z	164737	5810652	5267567			456			0	518.71	31518.14	29031.86	https://covid.saude.gov.br/
 Bremen_(state)	Bremen (state)	2020-11-14	2020-11-14	94	7965	0										https://www.rki.de/
+Bristol_County,_Massachusetts	Bristol County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	789	15394								2.29	216.86		https://www.mass.gov/
+Bristol,_Rhode_Island	Bristol, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		448		11178	0			0			17.86		https://health.ri.gov
+Bristol,_Virginia	Bristol, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	7	414								0.0	7.71		http://www.vdh.virginia.gov/
+British_Columbia	British Columbia	2020-11-14	2020-11-13T16:00:00.000Z	290	20985	14901	685140						2.0	467.0	266.57	https://www.canada.ca/
+Brooklyn	Brooklyn	2020-11-14	2020-11-13T14:00:00.000Z	5160	80491		2002417	450			0		1.57	347.57		https://coronavirus.health.ny.gov/
 Brooks_County,_Georgia	Brooks County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	29	556								0.0	0.29		https://dph.georgia.gov/
+Broome_County,_New_York	Broome County, New York	2020-11-14	2020-11-13T14:00:00.000Z	122	4303		193370	48			0		1.29	45.86		https://coronavirus.health.ny.gov/
+Brown_County,_Minnesota	Brown County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	5	693								0.14	22.57		https://www.health.state.mn.us/
+Brown_County,_Ohio	Brown County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	4	675								0.0	14.43		https://coronavirus.ohio.gov/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-11-14	2020-11-13T21:00:00.000Z		1538									37.71		https://info.gesundheitsministerium.at/
+Brunswick_County,_Virginia	Brunswick County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	446								0.14	1.57		http://www.vdh.virginia.gov/
 Bryan_County,_Georgia	Bryan County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	17	1348								0.0	2.0		https://dph.georgia.gov/
 Bryansk_Oblast	Bryansk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	93	14911	10925		159			0		2.29	139.43	91.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Buchanan_County,_Virginia	Buchanan County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	4	309								0.0	2.71		http://www.vdh.virginia.gov/
+Buckingham_County,_Virginia	Buckingham County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	9	815								0.0	0.57		http://www.vdh.virginia.gov/
+Buena_Vista,_Virginia	Buena Vista, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	1	152								0.0	1.86		http://www.vdh.virginia.gov/
 Bulloch_County,_Georgia	Bulloch County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	50	3194								0.57	5.29		https://dph.georgia.gov/
 Burgenland	Burgenland	2020-11-14	2020-11-13T21:00:00.000Z	41		2634							1.43		107.71	https://info.gesundheitsministerium.at/
 Burke_County,_Georgia	Burke County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	14	939								0.0	3.29		https://dph.georgia.gov/
+Burke_County,_North_Dakota	Burke County, North Dakota	2020-11-14		1	134	100	690						0.0	3.14	2.14	https://www.health.nd.gov/
+Burleigh_County,_North_Dakota	Burleigh County, North Dakota	2020-11-14		99	9502	7862	43969						1.29	146.29	134.14	https://www.health.nd.gov/
+Burrillville,_Rhode_Island	Burrillville, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		264		4563	0			0			3.14		https://health.ri.gov
 Buryatia	Buryatia	2020-11-14	2020-11-13T07:50:00.000Z	256	14366	12068		236			0		8.0	198.71	177.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Butler_County,_Ohio	Butler County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	138	11711								0.57	155.57		https://coronavirus.ohio.gov/
 Butts_County,_Georgia	Butts County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	45	803								0.0	4.0		https://dph.georgia.gov/
 Calabria	Calabria	2020-11-14		164	9416	2575	313881				297		4.0	330.0	57.14	http://www.salute.gov.it/
 Calhoun_County,_Georgia	Calhoun County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	10	280								0.0	0.29		https://dph.georgia.gov/
+Calhoun_County,_Michigan	Calhoun County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	96	4649				0			0	2.57	112.71		https://www.michigan.gov/
+Calhoun_County,_Mississippi	Calhoun County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	13	677								0.0	3.57		https://msdh.ms.gov/
 Cambodia	Cambodia	2020-11-14	2020-11-14T07:00:00.000Z	0	302	289		1	0	0	1	0	0.0	1.14	0.14	http://www.cdcmoh.gov.kh/
 Camden_County,_Georgia	Camden County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	20	1551								0.0	7.86		https://dph.georgia.gov/
 Campania	Campania	2020-11-14		967	104065	19878	1221582				4079		22.29	3106.71	553.86	http://www.salute.gov.it/
+Campbell_County,_Virginia	Campbell County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	11	909								0.29	7.71		http://www.vdh.virginia.gov/
+Canada	Canada	2020-11-14	2020-11-13T16:00:00.000Z	10828	287318	230646	10228547						48.29	3894.71	2507.43	https://www.canada.ca/
 Candler_County,_Georgia	Candler County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	28	568								0.14	0.57		https://dph.georgia.gov/
 Carinthia	Carinthia	2020-11-14	2020-11-13T21:00:00.000Z	54		3738							2.29		208.57	https://info.gesundheitsministerium.at/
+Carlton_County,_Minnesota	Carlton County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	8	1068								0.43	43.0		https://www.health.state.mn.us/
+Caroline_County,_Virginia	Caroline County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	484								0.0	2.14		http://www.vdh.virginia.gov/
 Carroll_County,_Georgia	Carroll County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	90	3696								0.29	20.86		https://dph.georgia.gov/
+Carroll_County,_Mississippi	Carroll County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	13	624								0.0	8.0		https://msdh.ms.gov/
+Carroll_County,_Ohio	Carroll County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	10	324								0.14	5.29		https://coronavirus.ohio.gov/
+Carroll_County,_Virginia	Carroll County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	29	731								0.0	7.86		http://www.vdh.virginia.gov/
+Carver_County,_Minnesota	Carver County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	9	2712								0.0	66.29		https://www.health.state.mn.us/
+Cass_County,_Michigan	Cass County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	26	1552				0			0	0.14	39.71		https://www.michigan.gov/
+Cass_County,_Minnesota	Cass County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	8	833								0.43	27.14		https://www.health.state.mn.us/
+Cass_County,_North_Dakota	Cass County, North Dakota	2020-11-14		105	12950	11154	71161						1.43	220.57	197.71	https://www.health.nd.gov/
 Catoosa_County,_Georgia	Catoosa County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	25	1678								0.0	11.0		https://dph.georgia.gov/
+Cattaraugus_County,_New_York	Cattaraugus County, New York	2020-11-14	2020-11-13T14:00:00.000Z	21	661		52827	15			0		0.14	8.86		https://coronavirus.health.ny.gov/
+Cavalier_County,_North_Dakota	Cavalier County, North Dakota	2020-11-14		2	255	167	1611						0.14	6.57	11.57	https://www.health.nd.gov/
+Cayuga_County,_New_York	Cayuga County, New York	2020-11-14	2020-11-13T14:00:00.000Z	5	609		59784	21			0		0.0	13.0		https://coronavirus.health.ny.gov/
+Central_Falls,_Rhode_Island	Central Falls, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		2032		9097	0			0			26.86		https://health.ri.gov
+Champaign_County,_Ohio	Champaign County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	4	666								0.0	15.0		https://coronavirus.ohio.gov/
+Charles_City_County,_Virginia	Charles City County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	5	114								0.0	0.71		http://www.vdh.virginia.gov/
+Charlestown,_Rhode_Island	Charlestown, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		65		2797	0			0			1.29		https://health.ri.gov
+Charlevoix_County,_Michigan	Charlevoix County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	5	340				0			0	0.14	9.29		https://www.michigan.gov/
+Charlotte_County,_Virginia	Charlotte County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	2	251								0.14	2.0		http://www.vdh.virginia.gov/
+Charlottesville,_Virginia	Charlottesville, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	31	1714								0.0	6.57		http://www.vdh.virginia.gov/
 Charlton_County,_Georgia	Charlton County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	16	664								0.14	1.14		https://dph.georgia.gov/
 Chatham_County,_Georgia	Chatham County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	201	9934								0.71	29.43		https://dph.georgia.gov/
 Chattahoochee_County,_Georgia	Chattahoochee County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	2	1893								0.0	9.0		https://dph.georgia.gov/
 Chattooga_County,_Georgia	Chattooga County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	32	1055								0.14	5.0		https://dph.georgia.gov/
+Chautauqua_County,_New_York	Chautauqua County, New York	2020-11-14	2020-11-13T14:00:00.000Z	5	1210		92423	26			0		0.0	15.29		https://coronavirus.health.ny.gov/
+Cheboygan_County,_Michigan	Cheboygan County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	13	306				0			0	1.14	11.0		https://www.michigan.gov/
 Chechnya	Chechnya	2020-11-14	2020-11-13T07:50:00.000Z	51	3031	2173		49			0		0.43	35.86	6.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	171	21357	18740		201			0		0.86	164.57	321.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chemung_County,_New_York	Chemung County, New York	2020-11-14	2020-11-13T14:00:00.000Z	24	2280		78239	44			0		0.71	26.29		https://coronavirus.health.ny.gov/
+Chenango_County,_New_York	Chenango County, New York	2020-11-14	2020-11-13T14:00:00.000Z	7	489		40698	3			0		0.0	4.86		https://coronavirus.health.ny.gov/
 Cherokee_County,_Georgia	Cherokee County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	112	7988								0.71	47.43		https://dph.georgia.gov/
+Chesapeake,_Virginia	Chesapeake, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	80	5453								0.0	32.0		http://www.vdh.virginia.gov/
+Chesterfield_County,_Virginia	Chesterfield County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	121	7951								0.14	56.14		http://www.vdh.virginia.gov/
+Chickasaw_County,_Mississippi	Chickasaw County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	31	953								0.0	6.57		https://msdh.ms.gov/
 Chile	Chile	2020-11-14	2020-11-13T04:00:00.000Z	14738	528030	503540							34.14	1150.43	1098.29	https://www.minsal.cl/
+Chippewa_County,_Michigan	Chippewa County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	2	477				0			0	0.29	28.0		https://www.michigan.gov/
+Chippewa_County,_Minnesota	Chippewa County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	6	620								0.43	9.57		https://www.health.state.mn.us/
+Chisago_County,_Minnesota	Chisago County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	3	2098								0.14	68.0		https://www.health.state.mn.us/
+Choctaw_County,_Mississippi	Choctaw County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	7	254								0.0	3.43		https://msdh.ms.gov/
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-11-14	2020-11-13T07:50:00.000Z	3	281	239		4			0		0.0	2.0	1.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-11-14	2020-11-13T07:50:00.000Z	186	10769	9331		81			0		2.71	63.14	67.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Claiborne_County,_Mississippi	Claiborne County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	16	559								0.0	1.29		https://msdh.ms.gov/
+Clare_County,_Michigan	Clare County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	20	497				0			0	0.43	15.43		https://www.michigan.gov/
+Clark_County,_Ohio	Clark County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	62	3915								0.57	80.71		https://coronavirus.ohio.gov/
 Clarke_County,_Georgia	Clarke County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	51	6212								0.0	26.71		https://dph.georgia.gov/
+Clarke_County,_Mississippi	Clarke County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	53	838								0.0	3.43		https://msdh.ms.gov/
+Clarke_County,_Virginia	Clarke County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	2	149								0.14	2.0		http://www.vdh.virginia.gov/
 Clay_County,_Georgia	Clay County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	3	124								0.0	0.0		https://dph.georgia.gov/
+Clay_County,_Minnesota	Clay County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	50	3582								0.57	70.71		https://www.health.state.mn.us/
+Clay_County,_Mississippi	Clay County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	25	797								0.0	5.86		https://msdh.ms.gov/
 Clayton_County,_Georgia	Clayton County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	191	8988								0.57	39.0		https://dph.georgia.gov/
+Clearwater_County,_Minnesota	Clearwater County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	3	280								0.14	10.29		https://www.health.state.mn.us/
+Clermont_County,_Ohio	Clermont County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	42	4088								0.14	95.43		https://coronavirus.ohio.gov/
 Clinch_County,_Georgia	Clinch County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	13	482								0.0	2.0		https://dph.georgia.gov/
+Clinton_County,_Michigan	Clinton County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	18	1942				0			0	0.14	58.0		https://www.michigan.gov/
+Clinton_County,_New_York	Clinton County, New York	2020-11-14	2020-11-13T14:00:00.000Z	5	356		55642	13			0		0.0	8.43		https://coronavirus.health.ny.gov/
+Clinton_County,_Ohio	Clinton County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	14	801								0.0	15.86		https://coronavirus.ohio.gov/
+Coahoma_County,_Mississippi	Coahoma County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	37	1347								0.0	5.57		https://msdh.ms.gov/
 Cobb_County,_Georgia	Cobb County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	494	23656								2.29	90.0		https://dph.georgia.gov/
 Coffee_County,_Georgia	Coffee County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	70	2415								0.29	7.0		https://dph.georgia.gov/
+Colonial_Heights,_Virginia	Colonial Heights, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	26	353								0.0	2.57		http://www.vdh.virginia.gov/
 Colquitt_County,_Georgia	Colquitt County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	46	2191								0.14	3.71		https://dph.georgia.gov/
 Columbia_County,_Georgia	Columbia County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	73	4841								0.29	32.43		https://dph.georgia.gov/
+Columbia_County,_New_York	Columbia County, New York	2020-11-14	2020-11-13T14:00:00.000Z	54	870		47316	11			0		0.14	11.57		https://coronavirus.health.ny.gov/
+Columbiana_County,_Ohio	Columbiana County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	92	2695								0.57	37.0		https://coronavirus.ohio.gov/
+Connecticut	Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	4737	88645		14						9.43	1502.86		https://portal.ct.gov/
 Cook_County,_Georgia	Cook County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	17	672								0.0	2.86		https://dph.georgia.gov/
+Cook_County,_Minnesota	Cook County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	0	39								0.0	0.86		https://www.health.state.mn.us/
+Copiah_County,_Mississippi	Copiah County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	38	1494								0.0	7.43		https://msdh.ms.gov/
 Coquimbo_Region	Coquimbo Region	2020-11-14	2020-11-13T04:00:00.000Z	259	12812	12484							0.57	8.0	8.0	https://www.minsal.cl/
+Cortland_County,_New_York	Cortland County, New York	2020-11-14	2020-11-13T14:00:00.000Z	1	712		53388	15			0		0.0	11.29		https://coronavirus.health.ny.gov/
+Coshocton_County,_Ohio	Coshocton County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	13	615								0.0	12.86		https://coronavirus.ohio.gov/
+Cottonwood_County,_Minnesota	Cottonwood County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	0	448								0.0	11.86		https://www.health.state.mn.us/
+Coventry,_Rhode_Island	Coventry, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		627		10571	0			0			13.86		https://health.ri.gov
+Covington_County,_Mississippi	Covington County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	31	1096								0.0	6.43		https://msdh.ms.gov/
+Covington,_Virginia	Covington, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	88								0.0	1.71		http://www.vdh.virginia.gov/
 Coweta_County,_Georgia	Coweta County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	68	3141								0.14	7.86		https://dph.georgia.gov/
+Craig_County,_Virginia	Craig County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	66								0.0	0.0		http://www.vdh.virginia.gov/
+Cranston,_Rhode_Island	Cranston, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		2758		28076	0			0			50.43		https://health.ri.gov
 Crawford_County,_Georgia	Crawford County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	6	206								0.0	0.57		https://dph.georgia.gov/
+Crawford_County,_Michigan	Crawford County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	5	222				0			0	0.0	6.71		https://www.michigan.gov/
+Crawford_County,_Ohio	Crawford County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	13	864								0.57	23.71		https://coronavirus.ohio.gov/
 Crisp_County,_Georgia	Crisp County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	30	694								0.29	1.86		https://dph.georgia.gov/
+Crow_Wing_County,_Minnesota	Crow Wing County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	24	2211								0.29	72.14		https://www.health.state.mn.us/
 Cuba	Cuba	2020-11-14		131	7541	6965							0.14	39.14	54.71	https://temas.sld.cu/
+Culpeper_County,_Virginia	Culpeper County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	18	1698								0.0	29.86		http://www.vdh.virginia.gov/
+Cumberland_County,_Maine	Cumberland County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	70	3138	2479							0.0	31.29	22.71	https://www.maine.gov/
+Cumberland_County,_Virginia	Cumberland County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	4	136								0.29	0.71		http://www.vdh.virginia.gov/
+Cumberland,_Rhode_Island	Cumberland, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		825		11378	0			0			10.86		https://health.ri.gov
+Cuyahoga_County,_Ohio	Cuyahoga County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	718	27591								2.29	529.14		https://coronavirus.ohio.gov/
 Czech_Republic	Czech Republic	2020-11-14	2020-11-13T23:21:00.000Z	5926	454030	316352	2728817						187.43	6655.71	12366.57	https://onemocneni-aktualne.mzcr.cz/
 Dade_County,_Georgia	Dade County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	6	430								0.0	3.0		https://dph.georgia.gov/
 Dagestan	Dagestan	2020-11-14	2020-11-13T07:50:00.000Z	838	17222	15441		97			0		5.14	80.14	67.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Dakota_County,_Minnesota	Dakota County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	157	14491								1.57	325.43		https://www.health.state.mn.us/
+Danville,_Virginia	Danville, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	47	1401								0.14	11.14		http://www.vdh.virginia.gov/
+Darke_County,_Ohio	Darke County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	55	1635								0.29	27.57		https://coronavirus.ohio.gov/
 Dawson_County,_Georgia	Dawson County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	11	968								0.0	2.86		https://dph.georgia.gov/
 Decatur_County,_Georgia	Decatur County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	43	1368								0.43	4.43		https://dph.georgia.gov/
+Defiance_County,_Ohio	Defiance County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	16	954								0.14	25.86		https://coronavirus.ohio.gov/
 DeKalb_County,_Georgia	DeKalb County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	439	23267								2.0	117.43		https://dph.georgia.gov/
+Delaware	Delaware	2020-11-14	2020-11-13T18:00:00.000Z	734	28016	14571	375223						2.57	251.14	97.57	https://dhss.delaware.gov
+Delaware_County,_New_York	Delaware County, New York	2020-11-14	2020-11-13T14:00:00.000Z	6	271		33054	4			0		0.0	6.29		https://coronavirus.health.ny.gov/
+Delaware_County,_Ohio	Delaware County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	31	4024								0.29	66.57		https://coronavirus.ohio.gov/
+Delta_County,_Michigan	Delta County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	54	1982				0			0	1.57	48.29		https://www.michigan.gov/
+DeSoto_County,_Mississippi	DeSoto County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	86	8656								0.43	78.29		https://msdh.ms.gov/
+Detroit	Detroit	2020-11-14	2020-11-13T17:00:00.000Z	1675	18445				0			0	0.86	140.71		https://www.michigan.gov/
 Deutschlandsberg_District	Deutschlandsberg District	2020-11-14	2020-11-13T21:00:00.000Z		777									27.71		https://info.gesundheitsministerium.at/
+Dickenson_County,_Virginia	Dickenson County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	1	199								0.0	3.14		http://www.vdh.virginia.gov/
+Dickey_County,_North_Dakota	Dickey County, North Dakota	2020-11-14		21	465	360	1780						1.0	7.29	9.57	https://www.health.nd.gov/
+Dickinson_County,_Michigan	Dickinson County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	28	1207				0			0	0.57	41.0		https://www.michigan.gov/
+Dinwiddie_County,_Virginia	Dinwiddie County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	12	591								0.0	2.14		http://www.vdh.virginia.gov/
+Divide_County,_North_Dakota	Divide County, North Dakota	2020-11-14		1	101	84	779						0.0	1.43	2.29	https://www.health.nd.gov/
 Dodge_County,_Georgia	Dodge County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	43	682								0.43	3.0		https://dph.georgia.gov/
+Dodge_County,_Minnesota	Dodge County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	0	525								0.0	4.14		https://www.health.state.mn.us/
 Dooly_County,_Georgia	Dooly County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	19	396								0.14	1.43		https://dph.georgia.gov/
 Dornbirn_District	Dornbirn District	2020-11-14	2020-11-13T21:00:00.000Z		3171									106.29		https://info.gesundheitsministerium.at/
 Dougherty_County,_Georgia	Dougherty County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	200	3367								0.43	3.57		https://dph.georgia.gov/
 Douglas_County,_Georgia	Douglas County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	84	4454								0.29	14.14		https://dph.georgia.gov/
+Douglas_County,_Minnesota	Douglas County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	15	1483								0.71	59.14		https://www.health.state.mn.us/
+Dukes_County,_Massachusetts	Dukes County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	0	159								0.0	6.71		https://www.mass.gov/
+Dunn_County,_North_Dakota	Dunn County, North Dakota	2020-11-14		6	242	212	1123						0.0	1.71	1.57	https://www.health.nd.gov/
+Dutchess_County,_New_York	Dutchess County, New York	2020-11-14	2020-11-13T14:00:00.000Z	173	6074		248166	59			0		0.71	47.86		https://coronavirus.health.ny.gov/
 Early_County,_Georgia	Early County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	36	580								0.14	1.57		https://dph.georgia.gov/
-Earth	Earth	2020-11-14	2020-11-14T05:42:20.435Z	1293946	53066870								6911.86	496872.29	252510.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-11-14	2020-11-14T06:43:43.009Z	1293946	53066870								6911.86	496872.29	252661.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Greenwich,_Rhode_Island	East Greenwich, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		289		6532	0			0			7.57		https://health.ri.gov
 East_Kazakhstan_Region	East Kazakhstan Region	2020-11-14		259	13272	9255							1.43	261.29	74.29	https://www.coronavirus2020.kz/
+East_Providence,_Rhode_Island	East Providence, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		1320		15060	0			0			19.0		https://health.ri.gov
+Eaton_County,_Michigan	Eaton County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	23	1957				0			0	1.29	57.29		https://www.michigan.gov/
 Echols_County,_Georgia	Echols County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	2	249								0.0	0.43		https://dph.georgia.gov/
+Ecuador	Ecuador	2020-11-14		8642	178674	154956	589693						-588.43	880.86	844.0	https://www.salud.gob.ec/
+Eddy_County,_North_Dakota	Eddy County, North Dakota	2020-11-14		3	303	235	1136						0.0	2.14	4.57	https://www.health.nd.gov/
 Eferding_District	Eferding District	2020-11-14	2020-11-13T21:00:00.000Z		1152									46.43		https://info.gesundheitsministerium.at/
 Effingham_County,_Georgia	Effingham County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	30	1957								0.0	7.14		https://dph.georgia.gov/
 Eisenstadt	Eisenstadt	2020-11-14	2020-11-13T21:00:00.000Z		272									8.14		https://info.gesundheitsministerium.at/
 Elbert_County,_Georgia	Elbert County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	18	836								0.0	3.71		https://dph.georgia.gov/
 Emanuel_County,_Georgia	Emanuel County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	45	1260								0.86	1.57		https://dph.georgia.gov/
 Emilia-Romagna	Emilia-Romagna	2020-11-14		4965	83068	29947	1824983				2384		26.29	2002.71	189.71	http://www.salute.gov.it/
+Emmet_County,_Michigan	Emmet County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	18	687				0			0	1.14	31.57		https://www.michigan.gov/
+Emmons_County,_North_Dakota	Emmons County, North Dakota	2020-11-14		9	317	291	1058						0.0	1.86	1.71	https://www.health.nd.gov/
+Emporia,_Virginia	Emporia, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	28	306								0.0	0.43		http://www.vdh.virginia.gov/
+Erie_County,_New_York	Erie County, New York	2020-11-14	2020-11-13T14:00:00.000Z	685	17021		635505	512			0		3.43	329.14		https://coronavirus.health.ny.gov/
+Erie_County,_Ohio	Erie County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	60	1633								0.43	30.71		https://coronavirus.ohio.gov/
+Essex_County,_Massachusetts	Essex County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	1387	28045								3.0	272.57		https://www.mass.gov/
+Essex_County,_New_York	Essex County, New York	2020-11-14	2020-11-13T14:00:00.000Z	14	224		25883	0			0		0.0	1.14		https://coronavirus.health.ny.gov/
+Essex_County,_Virginia	Essex County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	2	212								0.0	1.29		http://www.vdh.virginia.gov/
 Evans_County,_Georgia	Evans County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	12	499								0.0	1.0		https://dph.georgia.gov/
+Exeter,_Rhode_Island	Exeter, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		77		1775	0			0			1.57		https://health.ri.gov
+Fairfax_County,_Virginia	Fairfax County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	610	26140								0.57	149.29		http://www.vdh.virginia.gov/
+Fairfax,_Virginia	Fairfax, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	8	178								0.0	1.29		http://www.vdh.virginia.gov/
+Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	1454	29842								1.0	486.71		https://portal.ct.gov/
+Fairfield_County,_Ohio	Fairfield County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	59	4022								0.0	75.86		https://coronavirus.ohio.gov/
+Falls_Church,_Virginia	Falls Church, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	7	83								0.0	0.57		http://www.vdh.virginia.gov/
 Fannin_County,_Georgia	Fannin County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	37	881								0.14	3.71		https://dph.georgia.gov/
+Faribault_County,_Minnesota	Faribault County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	0	341								0.0	4.86		https://www.health.state.mn.us/
+Fauquier_County,_Virginia	Fauquier County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	28	1215								0.14	9.0		http://www.vdh.virginia.gov/
 Fayette_County,_Georgia	Fayette County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	61	2320								0.29	9.29		https://dph.georgia.gov/
+Fayette_County,_Ohio	Fayette County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	16	689								0.43	16.0		https://coronavirus.ohio.gov/
 Federal_District_(Brazil)	Federal District (Brazil)	2020-11-14	2020-11-13T22:00:00.000Z	3808	219012								12.71	622.43		https://covid.saude.gov.br/
 Feldkirch_District	Feldkirch District	2020-11-14	2020-11-13T21:00:00.000Z		2937									103.14		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-11-14	2020-11-13T21:00:00.000Z		424									25.0		https://info.gesundheitsministerium.at/
+Fillmore_County,_Minnesota	Fillmore County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	0	404								0.0	7.86		https://www.health.state.mn.us/
 Floyd_County,_Georgia	Floyd County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	68	4494								0.29	26.43		https://dph.georgia.gov/
+Floyd_County,_Virginia	Floyd County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	15	278								0.0	1.57		http://www.vdh.virginia.gov/
+Fluvanna_County,_Virginia	Fluvanna County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	9	457								0.0	1.57		http://www.vdh.virginia.gov/
+Forrest_County,_Mississippi	Forrest County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	83	3365								0.14	13.43		https://msdh.ms.gov/
 Forsyth_County,_Georgia	Forsyth County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	57	5250								0.29	25.29		https://dph.georgia.gov/
+Foster_County,_North_Dakota	Foster County, North Dakota	2020-11-14		2	304	231	1351						0.0	7.14	4.86	https://www.health.nd.gov/
+Foster,_Rhode_Island	Foster, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		67		1530	0			0			1.0		https://health.ri.gov
 Franklin_County,_Georgia	Franklin County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	20	1036								0.14	4.0		https://dph.georgia.gov/
+Franklin_County,_Maine	Franklin County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	2	139	88							0.0	2.14	1.71	https://www.maine.gov/
+Franklin_County,_Massachusetts	Franklin County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	75	536								0.14	4.57		https://www.mass.gov/
+Franklin_County,_Mississippi	Franklin County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	3	274								0.0	1.86		https://msdh.ms.gov/
+Franklin_County,_New_York	Franklin County, New York	2020-11-14	2020-11-13T14:00:00.000Z	3	174		33359	9			0		0.29	6.71		https://coronavirus.health.ny.gov/
+Franklin_County,_Ohio	Franklin County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	651	41295								1.14	538.86		https://coronavirus.ohio.gov/
+Franklin_County,_Virginia	Franklin County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	7	1219								0.0	15.29		http://www.vdh.virginia.gov/
+Franklin,_Virginia	Franklin, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	15	524								0.14	0.86		http://www.vdh.virginia.gov/
+Frederick_County,_Virginia	Frederick County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	16	1427								0.14	16.86		http://www.vdh.virginia.gov/
+Fredericksburg,_Virginia	Fredericksburg, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	629								0.0	1.71		http://www.vdh.virginia.gov/
+Freeborn_County,_Minnesota	Freeborn County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	5	946								0.0	8.29		https://www.health.state.mn.us/
 Freistadt_District	Freistadt District	2020-11-14	2020-11-13T21:00:00.000Z		2033									85.29		https://info.gesundheitsministerium.at/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-11-14		506	17771	8114	610398				831		9.14	506.71	241.71	http://www.salute.gov.it/
 Fulton_County,_Georgia	Fulton County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	674	33550								1.57	142.57		https://dph.georgia.gov/
+Fulton_County,_New_York	Fulton County, New York	2020-11-14	2020-11-13T14:00:00.000Z	28	382		33393	3			0		0.0	1.43		https://coronavirus.health.ny.gov/
+Fulton_County,_Ohio	Fulton County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	18	919								0.0	22.43		https://coronavirus.ohio.gov/
+Galax,_Virginia	Galax, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	30	492								0.0	1.86		http://www.vdh.virginia.gov/
+Gallia_County,_Ohio	Gallia County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	13	490								0.0	13.71		https://coronavirus.ohio.gov/
+Geauga_County,_Ohio	Geauga County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	51	1411								0.0	40.0		https://coronavirus.ohio.gov/
+Genesee_County,_Michigan	Genesee County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	368	9921				2			0	2.29	240.43		https://www.michigan.gov/
+Genesee_County,_New_York	Genesee County, New York	2020-11-14	2020-11-13T14:00:00.000Z	6	584		44222	14			0		0.0	17.0		https://coronavirus.health.ny.gov/
+George_County,_Mississippi	George County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	21	1143								0.0	7.29		https://msdh.ms.gov/
 Georgia_(U.S._state)	Georgia	2020-11-14	2020-11-13T18:50:09.000Z	8905	382505		4181887						36.86	1525.71		https://dph.georgia.gov/
 Germany	Germany	2020-11-14	2020-11-14	12378	773556	493200		22461	178	11500	-1081	-40	164.57	18724.0	11600.0	https://www.rki.de/
+Giles_County,_Virginia	Giles County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	192								0.0	3.71		http://www.vdh.virginia.gov/
 Gilmer_County,_Georgia	Gilmer County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	29	1114								0.43	3.71		https://dph.georgia.gov/
+Gladwin_County,_Michigan	Gladwin County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	6	428				0			0	0.43	19.43		https://www.michigan.gov/
 Glascock_County,_Georgia	Glascock County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	2	59								0.0	0.71		https://dph.georgia.gov/
+Glocester,_Rhode_Island	Glocester, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		133		2543	0			0			3.0		https://health.ri.gov
+Gloucester_County,_Virginia	Gloucester County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	3	374								0.0	1.0		http://www.vdh.virginia.gov/
 Glynn_County,_Georgia	Glynn County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	116	3936								0.43	11.57		https://dph.georgia.gov/
 Gmunden_District	Gmunden District	2020-11-14	2020-11-13T21:00:00.000Z		2391									78.29		https://info.gesundheitsministerium.at/
+Gogebic_County,_Michigan	Gogebic County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	19	627				0			0	0.43	14.14		https://www.michigan.gov/
+Golden_Valley_County,_North_Dakota	Golden Valley County, North Dakota	2020-11-14		0	130	124	720						0.0	0.29	0.86	https://www.health.nd.gov/
+Goochland_County,_Virginia	Goochland County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	7	366								0.0	1.57		http://www.vdh.virginia.gov/
+Goodhue_County,_Minnesota	Goodhue County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	20	1060								0.43	13.71		https://www.health.state.mn.us/
 Gordon_County,_Georgia	Gordon County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	58	2720								0.71	17.57		https://dph.georgia.gov/
 Grady_County,_Georgia	Grady County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	29	898								0.14	2.0		https://dph.georgia.gov/
+Grand_Forks_County,_North_Dakota	Grand Forks County, North Dakota	2020-11-14		29	6327	5239	32394						0.29	103.71	121.57	https://www.health.nd.gov/
+Grand_Traverse_County,_Michigan	Grand Traverse County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	15	1227				0			0	0.14	36.57		https://www.michigan.gov/
+Grant_County,_Minnesota	Grant County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	5	156								0.0	3.43		https://www.health.state.mn.us/
+Grant_County,_North_Dakota	Grant County, North Dakota	2020-11-14		4	113	87	570						0.0	2.43	2.0	https://www.health.nd.gov/
+Gratiot_County,_Michigan	Gratiot County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	21	1080				0			0	0.57	48.0		https://www.michigan.gov/
+Grayson_County,_Virginia	Grayson County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	20	444								0.0	4.57		http://www.vdh.virginia.gov/
 Graz	Graz	2020-11-14	2020-11-13T21:00:00.000Z		5101									162.43		https://info.gesundheitsministerium.at/
 Greene_County,_Georgia	Greene County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	28	605								0.14	1.14		https://dph.georgia.gov/
+Greene_County,_Mississippi	Greene County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	19	543								0.0	4.57		https://msdh.ms.gov/
+Greene_County,_New_York	Greene County, New York	2020-11-14	2020-11-13T14:00:00.000Z	16	578		29705	10			0		0.14	3.71		https://coronavirus.health.ny.gov/
+Greene_County,_Ohio	Greene County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	56	3932								0.86	86.43		https://coronavirus.ohio.gov/
+Greene_County,_Virginia	Greene County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	4	322								0.14	1.71		http://www.vdh.virginia.gov/
 Greenland	Greenland	2020-11-14	2020-11-13T12:00:00.000Z	0	18	17	12067						0.0	0.14	0.0	https://www.sst.dk/
+Greensville_County,_Virginia	Greensville County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	15	919								0.0	0.86		http://www.vdh.virginia.gov/
+Grenada_County,_Mississippi	Grenada County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	43	1294								0.14	3.29		https://msdh.ms.gov/
 Grieskirchen_District	Grieskirchen District	2020-11-14	2020-11-13T21:00:00.000Z		2025									76.57		https://info.gesundheitsministerium.at/
+Griggs_County,_North_Dakota	Griggs County, North Dakota	2020-11-14		1	164	90	882						0.0	3.29	0.43	https://www.health.nd.gov/
+Guernsey_County,_Ohio	Guernsey County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	8	619								0.0	13.43		https://coronavirus.ohio.gov/
 Gwinnett_County,_Georgia	Gwinnett County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	492	33088								1.86	149.0		https://dph.georgia.gov/
 Habersham_County,_Georgia	Habersham County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	79	1979								0.14	5.43		https://dph.georgia.gov/
+Halifax_County,_Virginia	Halifax County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	10	657								0.29	4.43		http://www.vdh.virginia.gov/
 Hall_County,_Georgia	Hall County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	194	11392								0.57	34.57		https://dph.georgia.gov/
 Hamburg	Hamburg	2020-11-14	2020-11-14	311	19450	0										https://www.rki.de/
+Hamilton_County,_New_York	Hamilton County, New York	2020-11-14	2020-11-13T14:00:00.000Z	1	22		3012	0			0		0.0	0.43		https://coronavirus.health.ny.gov/
+Hamilton_County,_Ohio	Hamilton County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	361	23283								1.29	322.43		https://coronavirus.ohio.gov/
+Hampden_County,_Massachusetts	Hampden County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	845	12462								1.29	182.0		https://www.mass.gov/
+Hampshire_County,_Massachusetts	Hampshire County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	159	1815								0.14	25.29		https://www.mass.gov/
+Hampton,_Virginia	Hampton, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	34	2344								0.0	11.57		http://www.vdh.virginia.gov/
 Hancock_County,_Georgia	Hancock County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	45	427								0.0	0.71		https://dph.georgia.gov/
+Hancock_County,_Maine	Hancock County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	1	151	82							0.0	8.14	1.86	https://www.maine.gov/
+Hancock_County,_Mississippi	Hancock County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	34	1037								0.14	10.29		https://msdh.ms.gov/
+Hancock_County,_Ohio	Hancock County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	33	1721								0.14	34.29		https://coronavirus.ohio.gov/
+Hanover_County,_Virginia	Hanover County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	47	1944								0.14	14.57		http://www.vdh.virginia.gov/
 Haralson_County,_Georgia	Haralson County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	20	768								0.43	5.71		https://dph.georgia.gov/
+Hardin_County,_Ohio	Hardin County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	17	610								0.43	15.0		https://coronavirus.ohio.gov/
 Harris_County,_Georgia	Harris County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	26	894								0.0	2.29		https://dph.georgia.gov/
+Harrison_County,_Mississippi	Harrison County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	100	6331								1.14	40.0		https://msdh.ms.gov/
+Harrison_County,_Ohio	Harrison County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	3	139								0.0	3.43		https://coronavirus.ohio.gov/
+Harrisonburg,_Virginia	Harrisonburg, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	35	3235								0.0	5.43		http://www.vdh.virginia.gov/
 Hart_County,_Georgia	Hart County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	24	646								0.0	4.14		https://dph.georgia.gov/
+Hartford_County,_Connecticut	Hartford County, Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	1532	22083								3.86	330.57		https://portal.ct.gov/
 Heard_County,_Georgia	Heard County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	7	261								0.14	1.14		https://dph.georgia.gov/
+Hennepin_County,_Minnesota	Hennepin County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	1035	47534								2.14	871.14		https://www.health.state.mn.us/
+Henrico_County,_Virginia	Henrico County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	243	7133								0.29	42.86		http://www.vdh.virginia.gov/
 Henry_County,_Georgia	Henry County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	130	6833								0.29	28.57		https://dph.georgia.gov/
+Henry_County,_Ohio	Henry County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	21	766								0.43	14.57		https://coronavirus.ohio.gov/
+Henry_County,_Virginia	Henry County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	37	1559								0.57	12.0		http://www.vdh.virginia.gov/
+Herkimer_County,_New_York	Herkimer County, New York	2020-11-14	2020-11-13T14:00:00.000Z	10	480		52855	4			0		0.0	5.29		https://coronavirus.health.ny.gov/
 Hermagor_District	Hermagor District	2020-11-14	2020-11-13T21:00:00.000Z		317									13.14		https://info.gesundheitsministerium.at/
 Hesse	Hesse	2020-11-14	2020-11-14	854	62462	0										https://www.rki.de/
+Hettinger_County,_North_Dakota	Hettinger County, North Dakota	2020-11-14		3	167	136	1051						0.0	2.43	1.14	https://www.health.nd.gov/
+Highland_County,_Ohio	Highland County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	16	772								0.29	13.14		https://coronavirus.ohio.gov/
+Highland_County,_Virginia	Highland County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	13								0.0	0.0		http://www.vdh.virginia.gov/
+Hillsdale_County,_Michigan	Hillsdale County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	31	937				0			0	0.29	36.0		https://www.michigan.gov/
+Hinds_County,_Mississippi	Hinds County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	184	8846								0.29	53.29		https://msdh.ms.gov/
+Hocking_County,_Ohio	Hocking County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	10	444								0.14	17.29		https://coronavirus.ohio.gov/
 Hollabrunn_District	Hollabrunn District	2020-11-14	2020-11-13T21:00:00.000Z		709									28.0		https://info.gesundheitsministerium.at/
+Holmes_County,_Mississippi	Holmes County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	60	1190								0.0	3.14		https://msdh.ms.gov/
+Holmes_County,_Ohio	Holmes County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	30	1214								1.0	16.0		https://coronavirus.ohio.gov/
+Hopewell,_Virginia	Hopewell, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	8	557								0.0	2.43		http://www.vdh.virginia.gov/
+Hopkinton,_Rhode_Island	Hopkinton, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		36		2313	0			0			1.29		https://health.ri.gov
 Horn_District	Horn District	2020-11-14	2020-11-13T21:00:00.000Z		343									10.14		https://info.gesundheitsministerium.at/
+Houghton_County,_Michigan	Houghton County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	9	1230				0			0	0.0	22.43		https://www.michigan.gov/
 Houston_County,_Georgia	Houston County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	100	3937								0.29	12.71		https://dph.georgia.gov/
+Houston_County,_Minnesota	Houston County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	2	438								0.0	14.57		https://www.health.state.mn.us/
+Hubbard_County,_Minnesota	Hubbard County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	13	718								0.71	17.43		https://www.health.state.mn.us/
+Humphreys_County,_Mississippi	Humphreys County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	18	495								0.0	1.57		https://msdh.ms.gov/
 Hungary	Hungary	2020-11-14	2020-11-13T07:20:00.000Z	2883	131887	29802	1306887						75.14	3849.14	707.86	https://koronavirus.gov.hu/
+Huron_County,_Michigan	Huron County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	8	447				0			0	0.0	12.86		https://www.michigan.gov/
+Huron_County,_Ohio	Huron County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	18	1043								0.29	23.29		https://coronavirus.ohio.gov/
 Imst_District	Imst District	2020-11-14	2020-11-13T21:00:00.000Z		1602									52.0		https://info.gesundheitsministerium.at/
 India	India	2020-11-14	2020-11-13T02:30:00.000Z	128668	8728795	8115580							443.71	38102.14	42242.0	https://www.mohfw.gov.in/
 Indiana	Indiana	2020-11-14	2020-11-13T16:00:00.000Z	4863	236565		1893070	5708	50		0	0	38.71	4406.14		https://coronavirus.in.gov/
+Ingham_County,_Michigan	Ingham County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	81	6353				0			0	1.57	136.14		https://www.michigan.gov/
 Ingushetia	Ingushetia	2020-11-14	2020-11-13T07:50:00.000Z	101	8184	6766		71			0		0.43	57.71	79.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2020-11-14	2020-11-13T12:00:00.000Z		1407									18.14		https://www.fhi.no/
 Innsbruck	Innsbruck	2020-11-14	2020-11-13T21:00:00.000Z		4466									103.29		https://info.gesundheitsministerium.at/
+Ionia_County,_Michigan	Ionia County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	12	1405				0			0	0.57	55.86		https://www.michigan.gov/
+Iosco_County,_Michigan	Iosco County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	19	458				0			0	0.29	13.57		https://www.michigan.gov/
 Irkutsk_Oblast	Irkutsk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	560	27551	23630		261			0		10.86	219.57	204.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Iron_County,_Michigan	Iron County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	29	593				0			0	0.14	8.43		https://www.michigan.gov/
 Irwin_County,_Georgia	Irwin County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	11	378								0.14	1.14		https://dph.georgia.gov/
+Isabella_County,_Michigan	Isabella County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	18	1666				0			0	0.43	49.43		https://www.michigan.gov/
+Isanti_County,_Minnesota	Isanti County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	10	1129								0.29	40.86		https://www.health.state.mn.us/
+Isle_of_Wight_County,_Virginia	Isle of Wight County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	27	917								0.14	2.29		http://www.vdh.virginia.gov/
+Issaquena_County,_Mississippi	Issaquena County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	4	108								0.0	0.14		https://msdh.ms.gov/
 Italy	Italy	2020-11-14		44139	1107303	399238	18455416				40902		439.43	29259.0	10049.57	http://www.salute.gov.it/
+Itasca_County,_Minnesota	Itasca County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	19	1258								0.29	33.14		https://www.health.state.mn.us/
+Itawamba_County,_Mississippi	Itawamba County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	32	1336								0.29	10.29		https://msdh.ms.gov/
 Ivanovo_Oblast	Ivanovo Oblast	2020-11-14	2020-11-13T07:50:00.000Z	197	13203	9431		145			0		2.29	121.0	74.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jackson_County,_Georgia	Jackson County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	50	2748								0.29	20.43		https://dph.georgia.gov/
+Jackson_County,_Michigan	Jackson County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	84	3104				1			0	1.29	104.14		https://www.michigan.gov/
+Jackson_County,_Minnesota	Jackson County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	1	307								0.0	5.86		https://www.health.state.mn.us/
+Jackson_County,_Mississippi	Jackson County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	105	5640								0.43	46.29		https://msdh.ms.gov/
+Jackson_County,_Ohio	Jackson County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	10	717								0.0	15.0		https://coronavirus.ohio.gov/
 Jambyl_Region	Jambyl Region	2020-11-14		61	4249	4122							0.0	5.29	3.0	https://www.coronavirus2020.kz/
+James_City_County,_Virginia	James City County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	22	1032								0.0	5.0		http://www.vdh.virginia.gov/
+Jamestown,_Rhode_Island	Jamestown, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		60		2126	0			0			1.71		https://health.ri.gov
 Jasper_County,_Georgia	Jasper County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	6	260								0.0	1.0		https://dph.georgia.gov/
+Jasper_County,_Mississippi	Jasper County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	20	763								0.14	4.14		https://msdh.ms.gov/
 Jeff_Davis_County,_Georgia	Jeff Davis County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	31	824								0.0	0.86		https://dph.georgia.gov/
 Jefferson_County,_Georgia	Jefferson County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	38	899								0.14	4.29		https://dph.georgia.gov/
+Jefferson_County,_Mississippi	Jefferson County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	11	298								0.0	0.86		https://msdh.ms.gov/
+Jefferson_County,_New_York	Jefferson County, New York	2020-11-14	2020-11-13T14:00:00.000Z	1	307		50361	4			0		0.0	6.43		https://coronavirus.health.ny.gov/
+Jefferson_County,_Ohio	Jefferson County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	4	767								0.0	17.43		https://coronavirus.ohio.gov/
+Jefferson_Davis_County,_Mississippi	Jefferson Davis County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	15	494								0.14	4.29		https://msdh.ms.gov/
 Jenkins_County,_Georgia	Jenkins County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	33	481								0.0	0.71		https://dph.georgia.gov/
 Jennersdorf_District	Jennersdorf District	2020-11-14	2020-11-13T21:00:00.000Z		356									19.43		https://info.gesundheitsministerium.at/
 Jewish_Autonomous_Oblast	Jewish Autonomous Oblast	2020-11-14	2020-11-13T07:50:00.000Z	40	2489	1350		34			0		0.43	30.29	17.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Johnson_County,_Georgia	Johnson County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	28	445								0.29	0.57		https://dph.georgia.gov/
+Johnston,_Rhode_Island	Johnston, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		1146		9616	0			0			20.43		https://health.ri.gov
 Jones_County,_Georgia	Jones County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	17	691								0.0	2.29		https://dph.georgia.gov/
+Jones_County,_Mississippi	Jones County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	85	3207								0.14	13.14		https://msdh.ms.gov/
 Jordan	Jordan	2020-11-14	2020-11-13T20:05:00.000Z	1618	136555		2157941						62.43	4536.14		https://corona.moh.gov.jo/
 Kabardino-Balkaria	Kabardino-Balkaria	2020-11-14	2020-11-13T07:50:00.000Z	171	11190	8056		84			0		1.86	71.57	42.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kalamazoo_County,_Michigan	Kalamazoo County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	139	7061				1			0	1.86	160.43		https://www.michigan.gov/
 Kaliningrad_Oblast	Kaliningrad Oblast	2020-11-14	2020-11-13T07:50:00.000Z	105	8483	5482		145			0		0.71	116.29	47.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kalkaska_County,_Michigan	Kalkaska County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	4	234				0			0	0.0	8.43		https://www.michigan.gov/
 Kalmykia	Kalmykia	2020-11-14	2020-11-13T07:50:00.000Z	115	10293	7712		93			0		0.57	77.86	120.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kaluga_Oblast	Kaluga Oblast	2020-11-14	2020-11-13T07:50:00.000Z	93	13618	10437		136			0		0.57	116.86	96.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kamchatka_Krai	Kamchatka Krai	2020-11-14	2020-11-13T07:50:00.000Z	70	6538	4198		60			0		0.0	50.86	34.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kampong_Cham_Province	Kampong Cham Province	2020-11-14	2020-11-14T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampong_Chhnang_Province	Kampong Chhnang Province	2020-11-14	2020-11-14T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampot_Province	Kampot Province	2020-11-14	2020-11-14T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kanabec_County,_Minnesota	Kanabec County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	11	388								0.14	13.86		https://www.health.state.mn.us/
 Kandal_Province	Kandal Province	2020-11-14	2020-11-14T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kandiyohi_County,_Minnesota	Kandiyohi County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	8	2476								0.29	42.29		https://www.health.state.mn.us/
 Karachay-Cherkessia	Karachay-Cherkessia	2020-11-14	2020-11-13T07:50:00.000Z	34	10735	6587		90			0		0.0	76.0	67.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Karaganda_Region	Karaganda Region	2020-11-14		282	10787	10315							0.29	15.57	14.43	https://www.coronavirus2020.kz/
 Kazakhstan	Kazakhstan	2020-11-14	2020-11-13T11:41:55.000Z	2314	158853	109275							7.0	647.43	249.29	https://www.ecdc.europa.eu/
 Kemerovo_Oblast	Kemerovo Oblast	2020-11-14	2020-11-13T07:50:00.000Z	296	17749	13975		181			0		5.86	162.71	219.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kemper_County,_Mississippi	Kemper County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	15	356								0.0	1.57		https://msdh.ms.gov/
+Kennebec_County,_Maine	Kennebec County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	12	542	367							0.14	13.86	9.43	https://www.maine.gov/
+Kent_County,_Delaware	Kent County, Delaware	2020-11-14	2020-11-13T18:00:00.000Z	122	3956	2100	48179						0.0	30.71	15.14	https://dhss.delaware.gov
+Kent_County,_Michigan	Kent County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	243	22934				0			0	5.14	627.71		https://www.michigan.gov/
 Kentucky	Kentucky	2020-11-14	2020-11-13T00:00:00.000Z	1647	132844	23872							12.29	1883.29	337.0	https://govstatus.egov.com/
 Kep_Province	Kep Province	2020-11-14	2020-11-14T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Keweenaw_County,_Michigan	Keweenaw County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1	34				0			0	0.0	1.29		https://www.michigan.gov/
 Khabarovsk_Krai	Khabarovsk Krai	2020-11-14	2020-11-13T07:50:00.000Z	145	19402	12741		264			0		0.14	212.86	105.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khakassia	Khakassia	2020-11-14	2020-11-13T07:50:00.000Z	92	9046	6263		170			0		1.29	144.0	74.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khanty-Mansi_Autonomous_Okrug	Khanty-Mansi Autonomous Okrug	2020-11-14	2020-11-13T07:50:00.000Z	306	30842	25794		201			0		4.57	172.29	129.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kidder_County,_North_Dakota	Kidder County, North Dakota	2020-11-14		4	147	112	659						0.14	2.29	2.43	https://www.health.nd.gov/
+King_and_Queen_County,_Virginia	King and Queen County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	2	97								0.0	0.57		http://www.vdh.virginia.gov/
+King_George_County,_Virginia	King George County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	5	323								0.0	3.29		http://www.vdh.virginia.gov/
+King_William_County,_Virginia	King William County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	5	247								0.0	2.43		http://www.vdh.virginia.gov/
 Kirchdorf_an_der_Krems_District	Kirchdorf an der Krems District	2020-11-14	2020-11-13T21:00:00.000Z		1044									45.86		https://info.gesundheitsministerium.at/
 Kirov_Oblast	Kirov Oblast	2020-11-14	2020-11-13T07:50:00.000Z	181	14276	8308		194			0		0.71	163.0	78.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kittson_County,_Minnesota	Kittson County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	1	121								0.0	3.0		https://www.health.state.mn.us/
 Klagenfurt	Klagenfurt	2020-11-14	2020-11-13T21:00:00.000Z		1780									96.29		https://info.gesundheitsministerium.at/
+Knox_County,_Maine	Knox County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	2	158	88							0.14	3.43	2.86	https://www.maine.gov/
+Knox_County,_Ohio	Knox County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	18	788								0.14	24.71		https://coronavirus.ohio.gov/
 Koh_Kong_Province	Koh Kong Province	2020-11-14	2020-11-14T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Komi_Republic	Komi Republic	2020-11-14	2020-11-13T07:50:00.000Z	277	16544	11614		251			0		4.57	211.71	115.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Koochiching_County,_Minnesota	Koochiching County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	5	243								0.0	6.14		https://www.health.state.mn.us/
 Korneuburg_District	Korneuburg District	2020-11-14	2020-11-13T21:00:00.000Z		1568									36.14		https://info.gesundheitsministerium.at/
 Kostanay_Region	Kostanay Region	2020-11-14		24	4211	3261							0.0	57.57	5.14	https://www.coronavirus2020.kz/
 Kostroma_Oblast	Kostroma Oblast	2020-11-14	2020-11-13T07:50:00.000Z	157	9050	5536		138			0		1.86	117.0	62.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -214,109 +887,299 @@ Kurgan_Oblast	Kurgan Oblast	2020-11-14	2020-11-13T07:50:00.000Z	108	6992	6238		9
 Kursk_Oblast	Kursk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	139	12678	9489		145			0		2.86	120.71	114.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kuwait	Kuwait	2020-11-14		933	135650	126344							17.86	635.0	636.43	https://corona.e.gov.kw/
 Kyzylorda_Region	Kyzylorda Region	2020-11-14		15	3268	3190							0.0	0.86	4.71	https://www.coronavirus2020.kz/
+Lac_qui_Parle_County,_Minnesota	Lac qui Parle County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	3	217								0.0	6.57		https://www.health.state.mn.us/
+Lafayette_County,_Mississippi	Lafayette County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	45	2817								0.29	17.71		https://msdh.ms.gov/
+Lake_County,_Michigan	Lake County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1	116				0			0	0.0	3.57		https://www.michigan.gov/
+Lake_County,_Minnesota	Lake County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	0	216								0.0	6.57		https://www.health.state.mn.us/
+Lake_County,_Ohio	Lake County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	62	4264								0.29	160.0		https://coronavirus.ohio.gov/
+Lake_of_the_Woods_County,_Minnesota	Lake of the Woods County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	1	67								0.0	0.86		https://www.health.state.mn.us/
 Lamar_County,_Georgia	Lamar County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	23	474								0.14	3.0		https://dph.georgia.gov/
+Lamar_County,_Mississippi	Lamar County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	46	2567								0.57	10.71		https://msdh.ms.gov/
+LaMoure_County,_North_Dakota	LaMoure County, North Dakota	2020-11-14		14	281	225	1536						0.14	4.43	2.86	https://www.health.nd.gov/
+Lancaster_County,_Virginia	Lancaster County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	1	212								0.0	0.29		http://www.vdh.virginia.gov/
 Landeck_District	Landeck District	2020-11-14	2020-11-13T21:00:00.000Z		1810									20.71		https://info.gesundheitsministerium.at/
 Lanier_County,_Georgia	Lanier County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	10	328								0.0	0.71		https://dph.georgia.gov/
+Lapeer_County,_Michigan	Lapeer County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	43	1485				0			0	0.57	50.43		https://www.michigan.gov/
+Lauderdale_County,_Mississippi	Lauderdale County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	141	2978								0.43	27.0		https://msdh.ms.gov/
 Laurens_County,_Georgia	Laurens County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	109	2132								1.29	4.71		https://dph.georgia.gov/
+Lawrence_County,_Mississippi	Lawrence County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	14	617								0.0	3.14		https://msdh.ms.gov/
+Lawrence_County,_Ohio	Lawrence County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	32	1478								0.14	33.43		https://coronavirus.ohio.gov/
 Lazio	Lazio	2020-11-14		1586	78665	14680	1782248				2925		27.0	2191.43	255.43	http://www.salute.gov.it/
+Le_Sueur_County,_Minnesota	Le Sueur County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	7	926								0.14	16.57		https://www.health.state.mn.us/
+Leake_County,_Mississippi	Leake County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	43	1249								0.0	6.71		https://msdh.ms.gov/
 Lebanon	Lebanon	2020-11-14	2020-11-13T16:41:00.000Z	796	102607	57693							11.86	1358.57	1584.43	https://corona.ministryinfo.gov.lb/
 Lee_County,_Georgia	Lee County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	33	772								0.14	1.14		https://dph.georgia.gov/
+Lee_County,_Mississippi	Lee County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	87	4290								0.29	40.0		https://msdh.ms.gov/
+Lee_County,_Virginia	Lee County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	11	706								0.0	9.71		http://www.vdh.virginia.gov/
+Leelanau_County,_Michigan	Leelanau County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	2	241				0			0	0.0	7.29		https://www.michigan.gov/
+Leflore_County,_Mississippi	Leflore County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	88	1891								0.0	9.86		https://msdh.ms.gov/
 Leibnitz_District	Leibnitz District	2020-11-14	2020-11-13T21:00:00.000Z		1619									54.29		https://info.gesundheitsministerium.at/
+Lenawee_County,_Michigan	Lenawee County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	21	1640				0			0	0.0	39.0		https://www.michigan.gov/
 Leningrad_Oblast	Leningrad Oblast	2020-11-14	2020-11-13T07:50:00.000Z	117	13552	7947		172			0		0.0	146.29	96.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Leoben_District	Leoben District	2020-11-14	2020-11-13T21:00:00.000Z		1020									39.43		https://info.gesundheitsministerium.at/
+Lewis_County,_New_York	Lewis County, New York	2020-11-14	2020-11-13T14:00:00.000Z	5	219		15827	15			0		0.0	6.57		https://coronavirus.health.ny.gov/
+Lexington,_Virginia	Lexington, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	2	282								0.14	0.43		http://www.vdh.virginia.gov/
 Liberty_County,_Georgia	Liberty County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	28	1386								0.29	6.14		https://dph.georgia.gov/
+Licking_County,_Ohio	Licking County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	70	3987								0.0	76.43		https://coronavirus.ohio.gov/
 Lienz_District	Lienz District	2020-11-14	2020-11-13T21:00:00.000Z		911									46.29		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-11-14	2020-11-13T21:00:00.000Z		1450									47.86		https://info.gesundheitsministerium.at/
 Liguria	Liguria	2020-11-14		2058	41464	24521	516330				1209		20.57	845.71	428.43	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2020-11-14	2020-11-13T21:00:00.000Z		552									18.0		https://info.gesundheitsministerium.at/
 Lincoln_County,_Georgia	Lincoln County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	10	260								0.14	1.43		https://dph.georgia.gov/
+Lincoln_County,_Maine	Lincoln County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	1	97	60							0.0	2.86	0.43	https://www.maine.gov/
+Lincoln_County,_Minnesota	Lincoln County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	1	248								0.0	3.14		https://www.health.state.mn.us/
+Lincoln_County,_Mississippi	Lincoln County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	64	1587								0.29	9.43		https://msdh.ms.gov/
+Lincoln,_Rhode_Island	Lincoln, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		570		7565	0			0			7.43		https://health.ri.gov
 Linz	Linz	2020-11-14	2020-11-13T21:00:00.000Z		4968									158.29		https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	83	9327	7502		98			0		0.86	83.71	58.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Litchfield_County,_Connecticut	Litchfield County, Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	149	3010								0.43	64.43		https://portal.ct.gov/
 Lithuania	Lithuania	2020-11-14	2020-11-13T09:07:00.000Z	253	31878	7247	1162033						7.14	1308.43	233.14	https://koronastop.lrv.lt
+Little_Compton,_Rhode_Island	Little Compton, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		29		1068	0			0			0.43		https://health.ri.gov
+Livingston_County,_Michigan	Livingston County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	35	3472				0			0	-0.14	104.57		https://www.michigan.gov/
+Livingston_County,_New_York	Livingston County, New York	2020-11-14	2020-11-13T14:00:00.000Z	7	466		43526	8			0		0.0	9.14		https://coronavirus.health.ny.gov/
+Logan_County,_North_Dakota	Logan County, North Dakota	2020-11-14		4	144	131	688						0.0	1.29	1.14	https://www.health.nd.gov/
+Logan_County,_Ohio	Logan County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	6	837								0.0	22.0		https://coronavirus.ohio.gov/
 Lombardy	Lombardy	2020-11-14		19028	304591	134294	3476242				10634		114.57	7165.0	3673.29	http://www.salute.gov.it/
 Long_County,_Georgia	Long County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	5	291								0.14	0.57		https://dph.georgia.gov/
+Lorain_County,_Ohio	Lorain County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	94	4363								0.14	115.86		https://coronavirus.ohio.gov/
 Los_Lagos_Region	Los Lagos Region	2020-11-14	2020-11-13T04:00:00.000Z	154	17509	15965							2.14	166.14	160.86	https://www.minsal.cl/
 Los_Ríos_Region	Los Ríos Region	2020-11-14	2020-11-13T04:00:00.000Z	41	4613	3939							0.86	77.71	66.0	https://www.minsal.cl/
+Loudoun_County,_Virginia	Loudoun County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	135	8642								0.14	47.0		http://www.vdh.virginia.gov/
+Louisa_County,_Virginia	Louisa County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	8	436								0.0	1.86		http://www.vdh.virginia.gov/
 Lower_Austria	Lower Austria	2020-11-14	2020-11-13T21:00:00.000Z	193		16948							3.43		489.0	https://info.gesundheitsministerium.at/
 Lower_Saxony	Lower Saxony	2020-11-14	2020-11-14	897	53883	0										https://www.rki.de/
 Lowndes_County,_Georgia	Lowndes County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	119	4773								0.14	20.57		https://dph.georgia.gov/
+Lowndes_County,_Mississippi	Lowndes County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	62	2085								0.0	18.43		https://msdh.ms.gov/
+Lucas_County,_Ohio	Lucas County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	398	11265								0.86	181.0		https://coronavirus.ohio.gov/
+Luce_County,_Michigan	Luce County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	0	142				0			0	-0.14	5.57		https://www.michigan.gov/
 Lumpkin_County,_Georgia	Lumpkin County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	20	1126								0.14	5.57		https://dph.georgia.gov/
+Lunenburg_County,_Virginia	Lunenburg County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	5	159								0.0	0.29		http://www.vdh.virginia.gov/
+Lynchburg,_Virginia	Lynchburg, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	27	2277								0.0	13.86		http://www.vdh.virginia.gov/
+Lyon_County,_Minnesota	Lyon County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	7	1430								0.14	30.86		https://www.health.state.mn.us/
+Mackinac_County,_Michigan	Mackinac County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	0	211				0			0	0.0	3.57		https://www.michigan.gov/
+Macomb_County,_Michigan	Macomb County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1156	26321				2			0	6.57	605.14		https://www.michigan.gov/
 Macon_County,_Georgia	Macon County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	14	266								0.29	0.14		https://dph.georgia.gov/
 Madison_County,_Georgia	Madison County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	17	886								0.14	5.29		https://dph.georgia.gov/
+Madison_County,_Mississippi	Madison County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	97	4244								0.43	30.0		https://msdh.ms.gov/
+Madison_County,_New_York	Madison County, New York	2020-11-14	2020-11-13T14:00:00.000Z	9	696		54931	12			0		0.0	7.57		https://coronavirus.health.ny.gov/
+Madison_County,_Ohio	Madison County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	18	1274								0.0	11.57		https://coronavirus.ohio.gov/
+Madison_County,_Virginia	Madison County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	3	163								0.0	1.57		http://www.vdh.virginia.gov/
 Magadan_Oblast	Magadan Oblast	2020-11-14	2020-11-13T07:50:00.000Z	47	4941	3784		43			0		0.71	39.0	45.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Magallanes_Region	Magallanes Region	2020-11-14	2020-11-13T04:00:00.000Z	162	13192	12644							1.57	53.0	65.57	https://www.minsal.cl/
+Mahnomen_County,_Minnesota	Mahnomen County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	3	168								0.0	2.57		https://www.health.state.mn.us/
+Mahoning_County,_Ohio	Mahoning County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	295	5234								1.14	95.14		https://coronavirus.ohio.gov/
 Maine	Maine	2020-11-14	2020-11-13T15:00:00.000Z	162	8639	6428	746314						1.57	148.43	77.86	https://www.maine.gov/
 Malaysia	Malaysia	2020-11-14	2020-11-13T04:00:00.000Z	304	45095	32969							3.14	819.71	784.29	http://www.moh.gov.my/
+Manassas_Park,_Virginia	Manassas Park, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	8	677								0.0	1.43		http://www.vdh.virginia.gov/
+Manassas,_Virginia	Manassas, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	28	2121								0.14	4.71		http://www.vdh.virginia.gov/
 Mangystau_Region	Mangystau Region	2020-11-14		49	3415	3280							0.29	1.43	0.0	https://www.coronavirus2020.kz/
+Manhattan	Manhattan	2020-11-14	2020-11-13T14:00:00.000Z	2132	39355		1666429	338			0		0.71	244.86		https://coronavirus.health.ny.gov/
+Manistee_County,_Michigan	Manistee County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	5	234				0			0	0.0	6.86		https://www.michigan.gov/
+Manitoba	Manitoba	2020-11-14	2020-11-13T16:00:00.000Z	137	10216	3772	296624						4.86	361.0	92.29	https://www.canada.ca/
 Marche	Marche	2020-11-14		1094	21830	7902	360800				740		7.0	506.14	69.57	http://www.salute.gov.it/
 Mari_El	Mari El	2020-11-14	2020-11-13T07:50:00.000Z	74	6715	5611		48			0		1.0	39.57	56.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Marion_County,_Georgia	Marion County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	10	212								0.0	0.57		https://dph.georgia.gov/
+Marion_County,_Mississippi	Marion County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	46	1027								0.0	3.43		https://msdh.ms.gov/
+Marion_County,_Ohio	Marion County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	51	4008								0.14	38.29		https://coronavirus.ohio.gov/
+Marquette_County,_Michigan	Marquette County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	21	2032				0			0	0.29	73.43		https://www.michigan.gov/
+Marshall_County,_Minnesota	Marshall County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	6	295								0.43	7.29		https://www.health.state.mn.us/
+Marshall_County,_Mississippi	Marshall County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	38	1807								0.43	19.29		https://msdh.ms.gov/
+Martin_County,_Minnesota	Martin County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	19	760								0.14	8.43		https://www.health.state.mn.us/
+Martinsville,_Virginia	Martinsville, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	24	549								0.0	4.86		http://www.vdh.virginia.gov/
+Mason_County,_Michigan	Mason County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	4	405				0			0	-0.14	9.86		https://www.michigan.gov/
+Massachusetts	Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	10265	183095		218466	2674	23		0	0	19.43	1931.29		https://www.mass.gov/
+Mathews_County,_Virginia	Mathews County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	145								0.0	0.43		http://www.vdh.virginia.gov/
 Mato_Grosso	Mato Grosso	2020-11-14	2020-11-13T22:00:00.000Z	3981	151119								21.86	980.14		https://covid.saude.gov.br/
 Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-11-14	2020-11-13T22:00:00.000Z	1683	87081								8.71	520.29		https://covid.saude.gov.br/
 Mattersburg_District	Mattersburg District	2020-11-14	2020-11-13T21:00:00.000Z		610									21.14		https://info.gesundheitsministerium.at/
 Maule_Region	Maule Region	2020-11-14	2020-11-13T04:00:00.000Z	447	19861	18841							2.57	63.0	59.29	https://www.minsal.cl/
 Mauritius	Mauritius	2020-11-14	2020-11-12T20:00:00.000Z	10	470	428		2	0	1	-14	0	0.0	2.57	1.71	http://www.covid19.mu/
 McDuffie_County,_Georgia	McDuffie County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	18	743								0.14	2.71		https://dph.georgia.gov/
+McHenry_County,_North_Dakota	McHenry County, North Dakota	2020-11-14		16	340	264	1579						0.14	6.14	8.29	https://www.health.nd.gov/
 McIntosh_County,_Georgia	McIntosh County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	8	329								0.0	0.57		https://dph.georgia.gov/
+McIntosh_County,_North_Dakota	McIntosh County, North Dakota	2020-11-14		5	197	175	1280						0.0	1.71	1.29	https://www.health.nd.gov/
+McKenzie_County,_North_Dakota	McKenzie County, North Dakota	2020-11-14		5	734	601	4144						0.14	10.57	8.43	https://www.health.nd.gov/
+McLean_County,_North_Dakota	McLean County, North Dakota	2020-11-14		12	809	689	4080						0.14	10.29	9.0	https://www.health.nd.gov/
+McLeod_County,_Minnesota	McLeod County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	6	1113								0.29	43.71		https://www.health.state.mn.us/
+Mecklenburg_County,_Virginia	Mecklenburg County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	35	947								0.0	2.57		http://www.vdh.virginia.gov/
 Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	2020-11-14	2020-11-14	37	4289	0										https://www.rki.de/
+Mecosta_County,_Michigan	Mecosta County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	6	877				0			0	0.29	20.71		https://www.michigan.gov/
+Medina_County,_Ohio	Medina County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	49	3201								0.43	83.29		https://coronavirus.ohio.gov/
+Meeker_County,_Minnesota	Meeker County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	5	648								0.14	22.0		https://www.health.state.mn.us/
+Meigs_County,_Ohio	Meigs County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	12	291								0.0	3.71		https://coronavirus.ohio.gov/
 Melk_District	Melk District	2020-11-14	2020-11-13T21:00:00.000Z		1290									45.14		https://info.gesundheitsministerium.at/
+Menominee_County,_Michigan	Menominee County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	10	1036				0			0	0.43	20.0		https://www.michigan.gov/
+Mercer_County,_North_Dakota	Mercer County, North Dakota	2020-11-14		5	671	560	2923						0.14	12.71	8.14	https://www.health.nd.gov/
+Mercer_County,_Ohio	Mercer County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	37	2379								0.57	47.71		https://coronavirus.ohio.gov/
 Meriwether_County,_Georgia	Meriwether County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	19	618								0.0	1.71		https://dph.georgia.gov/
+Miami_County,_Ohio	Miami County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	65	3198								0.57	68.71		https://coronavirus.ohio.gov/
+Michigan	Michigan	2020-11-14	2020-11-13T17:00:00.000Z	8305	268362				10			0	61.14	6550.43		https://www.michigan.gov/
+Middlesex_County,_Connecticut	Middlesex County, Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	197	2602								-0.14	53.0		https://portal.ct.gov/
+Middlesex_County,_Massachusetts	Middlesex County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	2347	37113								4.71	361.0		https://www.mass.gov/
+Middlesex_County,_Virginia	Middlesex County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	11	149								0.0	0.14		http://www.vdh.virginia.gov/
+Middletown,_Rhode_Island	Middletown, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		149		5486	0			0			2.71		https://health.ri.gov
+Midland_County,_Michigan	Midland County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	16	1995				0			0	0.29	74.86		https://www.michigan.gov/
+Mille_Lacs_County,_Minnesota	Mille Lacs County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	24	967								0.43	37.57		https://www.health.state.mn.us/
 Miller_County,_Georgia	Miller County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	3	338								0.0	0.86		https://dph.georgia.gov/
 Minas_Gerais	Minas Gerais	2020-11-14	2020-11-13T22:00:00.000Z	9405	379274								48.0	2419.14		https://covid.saude.gov.br/
+Minnesota	Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	2839	207339	161756	3304436						30.57	4626.43	2708.0	https://www.health.state.mn.us/
+Missaukee_County,_Michigan	Missaukee County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1	179				0			0	0.0	5.86		https://www.michigan.gov/
+Mississippi	Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	3519	131970	111430	1152661	1305	5		0	0	12.29	869.29	798.71	https://msdh.ms.gov/
 Mistelbach_District	Mistelbach District	2020-11-14	2020-11-13T21:00:00.000Z		885									25.86		https://info.gesundheitsministerium.at/
 Mitchell_County,_Georgia	Mitchell County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	48	876								0.14	1.86		https://dph.georgia.gov/
 Molise	Molise	2020-11-14		62	2789	848	73624				63		2.43	62.57	14.14	http://www.salute.gov.it/
 Monroe_County,_Georgia	Monroe County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	60	819								0.57	2.57		https://dph.georgia.gov/
+Monroe_County,_Michigan	Monroe County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	52	3368				0			0	1.14	116.14		https://www.michigan.gov/
+Monroe_County,_Mississippi	Monroe County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	76	1726								0.14	10.43		https://msdh.ms.gov/
+Monroe_County,_New_York	Monroe County, New York	2020-11-14	2020-11-13T14:00:00.000Z	266	10074		599495	249			0		0.57	208.29		https://coronavirus.health.ny.gov/
+Monroe_County,_Ohio	Monroe County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	19	238								0.0	3.43		https://coronavirus.ohio.gov/
+Montcalm_County,_Michigan	Montcalm County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	16	1213				0			0	0.29	39.57		https://www.michigan.gov/
 Montgomery_County,_Georgia	Montgomery County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	10	378								0.0	1.14		https://dph.georgia.gov/
+Montgomery_County,_Mississippi	Montgomery County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	23	652								0.0	6.14		https://msdh.ms.gov/
+Montgomery_County,_New_York	Montgomery County, New York	2020-11-14	2020-11-13T14:00:00.000Z	10	307		36728	4			0		0.14	1.71		https://coronavirus.health.ny.gov/
+Montgomery_County,_Ohio	Montgomery County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	209	15684								2.29	294.29		https://coronavirus.ohio.gov/
+Montgomery_County,_Virginia	Montgomery County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	7	3357								0.0	25.57		http://www.vdh.virginia.gov/
+Montmorency_County,_Michigan	Montmorency County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	0	77				0			0	0.0	4.14		https://www.michigan.gov/
 Mordovia	Mordovia	2020-11-14	2020-11-13T07:50:00.000Z	55	9249	7646		89			0		0.29	71.57	50.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Morgan_County,_Georgia	Morgan County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	7	558								0.0	0.71		https://dph.georgia.gov/
+Morgan_County,_Ohio	Morgan County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	1	147								0.0	3.43		https://coronavirus.ohio.gov/
 Morocco	Morocco	2020-11-14	2020-11-13T17:00:00.000Z	4631	282336	229160	3318060						62.0	4307.29	3372.0	http://www.covidmaroc.ma/
+Morrison_County,_Minnesota	Morrison County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	16	1296								0.71	27.86		https://www.health.state.mn.us/
+Morrow_County,_Ohio	Morrow County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	2	638								0.0	11.86		https://coronavirus.ohio.gov/
+Morton_County,_North_Dakota	Morton County, North Dakota	2020-11-14		62	3209	2657	13460						0.43	48.14	48.71	https://www.health.nd.gov/
 Moscow	Moscow	2020-11-14	2020-11-13T07:50:00.000Z	7643	497516	358924		5974			0		61.14	4999.71	3180.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2020-11-14	2020-11-13T07:50:00.000Z	1773	95059	70401		760			0		11.71	597.0	402.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Mountrail_County,_North_Dakota	Mountrail County, North Dakota	2020-11-14		11	786	622	4825						0.29	13.14	11.57	https://www.health.nd.gov/
+Mower_County,_Minnesota	Mower County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	21	1720								0.0	6.14		https://www.health.state.mn.us/
 Murau_District	Murau District	2020-11-14	2020-11-13T21:00:00.000Z		303									16.29		https://info.gesundheitsministerium.at/
 Murmansk_Oblast	Murmansk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	367	22821	18634		252			0		4.71	207.29	231.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Murray_County,_Georgia	Murray County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	13	1317								0.29	16.29		https://dph.georgia.gov/
+Murray_County,_Minnesota	Murray County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	3	401								0.0	8.14		https://www.health.state.mn.us/
 Murtal_District	Murtal District	2020-11-14	2020-11-13T21:00:00.000Z		1001									44.57		https://info.gesundheitsministerium.at/
 Muscogee_County,_Georgia	Muscogee County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	185	6608								0.57	12.86		https://dph.georgia.gov/
+Muskegon_County,_Michigan	Muskegon County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	110	4589				0			0	3.43	184.71		https://www.michigan.gov/
+Muskingum_County,_Ohio	Muskingum County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	9	1608								0.57	45.0		https://coronavirus.ohio.gov/
+Nantucket	Nantucket	2020-11-14	2020-11-13T21:00:00.000Z	0	230								0.0	5.14		https://www.mass.gov/
+Narragansett,_Rhode_Island	Narragansett, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		406		4757	0			0			3.71		https://health.ri.gov
+Nassau_County,_New_York	Nassau County, New York	2020-11-14	2020-11-13T14:00:00.000Z	2229	53271		1204734	322			0		1.14	264.71		https://coronavirus.health.ny.gov/
+Nelson_County,_North_Dakota	Nelson County, North Dakota	2020-11-14		7	265	160	1210						0.29	6.29	1.29	https://www.health.nd.gov/
+Nelson_County,_Virginia	Nelson County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	2	148								0.0	0.43		http://www.vdh.virginia.gov/
 Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-11-14	2020-11-13T07:50:00.000Z	0	558	288		8			0		0.0	6.43	13.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Neshoba_County,_Mississippi	Neshoba County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	111	2019								0.0	11.14		https://msdh.ms.gov/
 Netherlands	Netherlands	2020-11-14	2020-11-12T22:00:00.000Z	8358	436544								56.86	4591.86		https://www.rivm.nl/
 Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-11-14	2020-11-13T21:00:00.000Z		1374									33.0		https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2020-11-14	2020-11-13T21:00:00.000Z		845									19.29		https://info.gesundheitsministerium.at/
-New_Hampshire	New Hampshire	2020-11-14	2020-11-13T00:00:00.000Z	498	13929	10688	410867						1.29	241.14	101.14	https://www.nh.gov/
+New_Brunswick	New Brunswick	2020-11-14	2020-11-13T16:00:00.000Z	6	358	338	88920						0.0	0.71	2.43	https://www.canada.ca/
+New_Castle_County,_Delaware	New Castle County, Delaware	2020-11-14	2020-11-13T18:00:00.000Z	365	15113	7714	222382						1.57	164.14	57.71	https://dhss.delaware.gov
+New_Hampshire	New Hampshire	2020-11-14	2020-11-13T14:00:00.000Z	498	13929	10688	410867						1.29	241.14	101.14	https://www.nh.gov/
+New_Haven_County,_Connecticut	New Haven County, Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	1157	22015								2.86	408.71		https://portal.ct.gov/
+New_Kent_County,_Virginia	New Kent County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	3	328								0.0	1.86		http://www.vdh.virginia.gov/
+New_London_County,_Connecticut	New London County, Connecticut	2020-11-14	2020-11-13T20:00:00.000Z	155	4668								0.86	64.0		https://portal.ct.gov/
+New_Shoreham,_Rhode_Island	New Shoreham, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		11		610	0			0			0.43		https://health.ri.gov
+New_York_(state)	New York (state)	2020-11-14	2020-11-13T00:00:00.000Z	33565	551163		16434914	4797			-604		23.57	3650.71		https://coronavirus.health.ny.gov/
+New_York_City	New York City	2020-11-14	2020-11-14T06:41:07.425Z	16622	278802		6954678	0	0		-1826	-5	4.86	1282.0		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 New_Zealand	New Zealand	2020-11-14	2020-11-14T13:30:00.000Z	25	1998	1918	1162740	3	0	1	-1	0	0.0	3.14	1.43	https://www.health.govt.nz/
+Newaygo_County,_Michigan	Newaygo County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	8	1055				0			0	0.57	29.71		https://www.michigan.gov/
+Newfoundland_and_Labrador	Newfoundland and Labrador	2020-11-14	2020-11-13T16:00:00.000Z	4	299	289	56273						0.0	0.43	0.43	https://www.canada.ca/
+Newport_News,_Virginia	Newport News, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	52	3474								0.14	13.86		http://www.vdh.virginia.gov/
+Newport,_Rhode_Island	Newport, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		279		10532	0			0			5.14		https://health.ri.gov
 Newton_County,_Georgia	Newton County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	103	3092								0.29	10.57		https://dph.georgia.gov/
+Newton_County,_Mississippi	Newton County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	29	957								0.14	7.14		https://msdh.ms.gov/
+Niagara_County,_New_York	Niagara County, New York	2020-11-14	2020-11-13T14:00:00.000Z	94	2616		142212	59			0		0.43	43.29		https://coronavirus.health.ny.gov/
+Nicollet_County,_Minnesota	Nicollet County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	21	1042								0.14	17.43		https://www.health.state.mn.us/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-11-14	2020-11-13T07:50:00.000Z	946	46954	39673		433			0		11.0	358.57	353.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Noble_County,_Ohio	Noble County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	11	409								0.86	13.29		https://coronavirus.ohio.gov/
+Nobles_County,_Minnesota	Nobles County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	25	2714								0.43	22.57		https://www.health.state.mn.us/
 Nordland	Nordland	2020-11-14	2020-11-13T12:00:00.000Z		450									14.86		https://www.fhi.no/
+Norfolk_County,_Massachusetts	Norfolk County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	1139	13523								2.0	118.0		https://www.mass.gov/
+Norfolk,_Virginia	Norfolk, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	86	5829								0.14	18.29		http://www.vdh.virginia.gov/
+Norman_County,_Minnesota	Norman County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	5	236								0.14	5.43		https://www.health.state.mn.us/
 North_Carolina	North Carolina	2020-11-14	2020-11-13T00:00:00.000Z	4720	305233	261719	4522336						16.43	1998.29	2200.14	https://www.ncdhhs.gov/
 North_Kazakhstan_Region	North Kazakhstan Region	2020-11-14		25	4935	4263							0.0	39.86	14.43	https://www.coronavirus2020.kz/
+North_Kingstown,_Rhode_Island	North Kingstown, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		494		10065	0			0			8.71		https://health.ri.gov
+North_Providence,_Rhode_Island	North Providence, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		1485		11899	0			0			17.29		https://health.ri.gov
 North_Rhine-Westphalia	North Rhine-Westphalia	2020-11-14	2020-11-14	2616	196363	0										https://www.rki.de/
+North_Smithfield,_Rhode_Island	North Smithfield, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		277		3781	0			0			4.43		https://health.ri.gov
+Northampton_County,_Virginia	Northampton County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	31	328								0.0	0.43		http://www.vdh.virginia.gov/
+Northumberland_County,_Virginia	Northumberland County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	8	232								0.0	0.43		http://www.vdh.virginia.gov/
+Northwest_Territories	Northwest Territories	2020-11-14	2020-11-13T16:00:00.000Z	0	15	10	5792						0.0	0.71	0.0	https://www.canada.ca/
+Norton,_Virginia	Norton, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	0	62								0.0	0.14		http://www.vdh.virginia.gov/
 Norway	Norway	2020-11-14	2020-11-13T12:00:00.000Z	294	27226		1979430						1.29	571.57		https://www.fhi.no/
+Nottoway_County,_Virginia	Nottoway County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	21	440								0.0	6.14		http://www.vdh.virginia.gov/
+Nova_Scotia	Nova Scotia	2020-11-14	2020-11-13T16:00:00.000Z	65	1136	1052	122003						0.0	1.57	1.71	https://www.canada.ca/
 Novgorod_Oblast	Novgorod Oblast	2020-11-14	2020-11-13T07:50:00.000Z	89	8784	5563		138			0		0.29	106.86	48.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Novosibirsk_Oblast	Novosibirsk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	644	19639	16063		184			0		3.86	153.86	110.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Noxubee_County,_Mississippi	Noxubee County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	17	640								0.0	2.43		https://msdh.ms.gov/
 Ñuble_Region	Ñuble Region	2020-11-14	2020-11-13T04:00:00.000Z	162	7950	7523							0.57	36.0	31.57	https://www.minsal.cl/
+Nunavut	Nunavut	2020-11-14	2020-11-13T16:00:00.000Z	0	4	0	3271						0.0	0.43	0.0	https://www.canada.ca/
 Nur-Sultan	Nur-Sultan	2020-11-14		319	15110	14476							0.14	45.86	45.71	https://www.coronavirus2020.kz/
 O'Higgins_Region	O'Higgins Region	2020-11-14	2020-11-13T04:00:00.000Z	513	19176	18374							0.71	33.86	27.57	https://www.minsal.cl/
 O'Higgins_Region	O'Higgins Region	2020-11-14	2020-11-13T04:00:00.000Z	513	19176	18374							0.71	33.86	27.57	https://www.minsal.cl/
+Oakland_County,_Michigan	Oakland County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1274	33906				0			0	3.71	678.86		https://www.michigan.gov/
 Oberpullendorf_District	Oberpullendorf District	2020-11-14	2020-11-13T21:00:00.000Z		739									27.57		https://info.gesundheitsministerium.at/
 Oberwart_District	Oberwart District	2020-11-14	2020-11-13T21:00:00.000Z		1178									38.57		https://info.gesundheitsministerium.at/
+Oceana_County,_Michigan	Oceana County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	8	881				0			0	0.29	16.43		https://www.michigan.gov/
 Oconee_County,_Georgia	Oconee County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	34	938								0.29	4.43		https://dph.georgia.gov/
+Ogemaw_County,_Michigan	Ogemaw County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	7	280				0			0	0.14	13.71		https://www.michigan.gov/
 Oglethorpe_County,_Georgia	Oglethorpe County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	14	451								0.0	0.86		https://dph.georgia.gov/
+Ohio	Ohio	2020-11-14	2020-11-13T19:00:00.000Z	5700	282528								27.71	5257.29		https://coronavirus.ohio.gov/
+Oktibbeha_County,_Mississippi	Oktibbeha County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	58	2221								0.14	11.43		https://msdh.ms.gov/
+Oliver_County,_North_Dakota	Oliver County, North Dakota	2020-11-14		2	107	92	413						0.0	1.0	1.0	https://www.health.nd.gov/
+Olmsted_County,_Minnesota	Olmsted County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	30	4438								0.0	41.57		https://www.health.state.mn.us/
 Omsk_Oblast	Omsk Oblast	2020-11-14	2020-11-13T07:50:00.000Z	434	18574	14695		224			0		0.0	191.29	102.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Oneida_County,_New_York	Oneida County, New York	2020-11-14	2020-11-13T14:00:00.000Z	136	3414		258096	69			0		0.43	53.57		https://coronavirus.health.ny.gov/
+Onondaga_County,_New_York	Onondaga County, New York	2020-11-14	2020-11-13T14:00:00.000Z	194	7421		413009	190			0		1.0	146.43		https://coronavirus.health.ny.gov/
+Ontario	Ontario	2020-11-14	2020-11-13T16:00:00.000Z	3312	91180	76238	5375169						13.14	1193.57	757.14	https://www.canada.ca/
+Ontario_County,_New_York	Ontario County, New York	2020-11-14	2020-11-13T14:00:00.000Z	30	912		77178	19			0		0.14	16.86		https://coronavirus.health.ny.gov/
+Ontonagon_County,_Michigan	Ontonagon County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	5	235				0			0	0.57	6.86		https://www.michigan.gov/
+Orange_County,_New_York	Orange County, New York	2020-11-14	2020-11-13T14:00:00.000Z	425	14910		256792	102			0		0.57	87.0		https://coronavirus.health.ny.gov/
+Orange_County,_Virginia	Orange County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	6	483								0.14	3.71		http://www.vdh.virginia.gov/
 Orenburg_Oblast	Orenburg Oblast	2020-11-14	2020-11-13T07:50:00.000Z	152	19997	17451		189			0		2.14	162.14	153.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Orleans_County,_New_York	Orleans County, New York	2020-11-14	2020-11-13T14:00:00.000Z	56	498		23038	14			0		0.14	9.14		https://coronavirus.health.ny.gov/
 Oryol_Oblast	Oryol Oblast	2020-11-14	2020-11-13T07:50:00.000Z	169	13684	10625		136			0		0.43	114.71	78.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Osceola_County,_Michigan	Osceola County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	1	328				0			0	0.0	10.57		https://www.michigan.gov/
+Oscoda_County,_Michigan	Oscoda County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	2	89				0			0	0.0	2.57		https://www.michigan.gov/
 Oslo	Oslo	2020-11-14	2020-11-13T12:00:00.000Z		8061									143.57		https://www.fhi.no/
+Oswego_County,_New_York	Oswego County, New York	2020-11-14	2020-11-13T14:00:00.000Z	4	897		77536	31			0		0.0	23.29		https://coronavirus.health.ny.gov/
+Otsego_County,_Michigan	Otsego County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	13	512				0			0	0.29	23.29		https://www.michigan.gov/
+Otsego_County,_New_York	Otsego County, New York	2020-11-14	2020-11-13T14:00:00.000Z	5	459		42276	2			0		0.0	2.43		https://coronavirus.health.ny.gov/
+Ottawa_County,_Michigan	Ottawa County, Michigan	2020-11-14	2020-11-13T17:00:00.000Z	95	9048				0			0	1.57	295.57		https://www.michigan.gov/
+Ottawa_County,_Ohio	Ottawa County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	30	897								0.0	20.14		https://coronavirus.ohio.gov/
+Otter_Tail_County,_Minnesota	Otter Tail County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	11	1674								0.43	62.86		https://www.health.state.mn.us/
+Oxford_County,_Maine	Oxford County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	2	223	156							0.0	4.57	1.29	https://www.maine.gov/
+Page_County,_Virginia	Page County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	31	524								0.0	3.29		http://www.vdh.virginia.gov/
+Panola_County,_Mississippi	Panola County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	43	1928								0.29	15.29		https://msdh.ms.gov/
+Patrick_County,_Virginia	Patrick County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	27	382								0.0	3.14		http://www.vdh.virginia.gov/
 Paulding_County,_Georgia	Paulding County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	72	3496								0.29	15.43		https://dph.georgia.gov/
+Paulding_County,_Ohio	Paulding County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	8	442								0.29	10.43		https://coronavirus.ohio.gov/
 Pavlodar_Region	Pavlodar Region	2020-11-14		58	4934	4287							0.14	52.86	29.43	https://www.coronavirus2020.kz/
+Pawtucket,_Rhode_Island	Pawtucket, Rhode Island	2020-11-14	2020-11-13T17:00:00.000Z		3632		26661	0			0			46.14		https://health.ri.gov
 Peach_County,_Georgia	Peach County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	27	853								0.14	3.57		https://dph.georgia.gov/
+Pearl_River_County,_Mississippi	Pearl River County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	64	1301								0.29	5.29		https://msdh.ms.gov/
+Pembina_County,_North_Dakota	Pembina County, North Dakota	2020-11-14		2	448	295	2963						0.14	11.57	9.14	https://www.health.nd.gov/
+Pennington_County,_Minnesota	Pennington County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	2	358								0.0	12.71		https://www.health.state.mn.us/
+Penobscot_County,_Maine	Penobscot County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	7	453	326							0.14	13.0	5.71	https://www.maine.gov/
 Penza_Oblast	Penza Oblast	2020-11-14	2020-11-13T07:50:00.000Z	212	17440	12895		167			0		2.0	143.29	143.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Perg_District	Perg District	2020-11-14	2020-11-13T21:00:00.000Z		1939									81.86		https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2020-11-14	2020-11-13T07:50:00.000Z	458	15965	10716		210			0		4.14	170.14	133.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Pernambuco	Pernambuco	2020-11-14	2020-11-13T22:00:00.000Z	8805	169710								19.71	866.86		https://covid.saude.gov.br/
+Perry_County,_Mississippi	Perry County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	24	581								0.14	3.71		https://msdh.ms.gov/
+Perry_County,_Ohio	Perry County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	12	548								0.14	7.71		https://coronavirus.ohio.gov/
+Peru	Peru	2020-11-14	2020-11-13T00:00:00.000Z	35106	932650	858388	4761540						38.0	1805.71	2112.57	https://www.gob.pe/8662
+Petersburg,_Virginia	Petersburg, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	30	1017								0.0	3.29		http://www.vdh.virginia.gov/
 Phnom_Penh	Phnom Penh	2020-11-14	2020-11-14T07:00:00.000Z		197			1			1			1.14		http://www.cdcmoh.gov.kh/
+Pickaway_County,_Ohio	Pickaway County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	46	3599								0.0	26.57		https://coronavirus.ohio.gov/
 Pickens_County,_Georgia	Pickens County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	14	908								0.0	6.57		https://dph.georgia.gov/
 Piedmont	Piedmont	2020-11-14		4964	117312	45694	1239594				5258		52.86	3345.29	1126.0	http://www.salute.gov.it/
 Pierce_County,_Georgia	Pierce County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	28	718								0.14	1.14		https://dph.georgia.gov/
+Pierce_County,_North_Dakota	Pierce County, North Dakota	2020-11-14		4	268	178	1329						0.0	8.29	7.57	https://www.health.nd.gov/
 Pike_County,_Georgia	Pike County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	16	415								0.0	1.86		https://dph.georgia.gov/
+Pike_County,_Mississippi	Pike County, Mississippi	2020-11-14	2020-11-13T05:00:00.000Z	58	1503								0.29	8.57		https://msdh.ms.gov/
+Pike_County,_Ohio	Pike County, Ohio	2020-11-14	2020-11-13T19:00:00.000Z	1	536								0.0	10.43		https://coronavirus.ohio.gov/
+Pine_County,_Minnesota	Pine County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	4	858								0.29	18.14		https://www.health.state.mn.us/
+Pipestone_County,_Minnesota	Pipestone County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	17	495								0.0	9.86		https://www.health.state.mn.us/
+Piscataquis_County,_Maine	Piscataquis County, Maine	2020-11-14	2020-11-13T15:00:00.000Z	0	23	13							0.0	0.86	0.43	https://www.maine.gov/
+Pittsylvania_County,_Virginia	Pittsylvania County, Virginia	2020-11-14	2020-11-13T14:00:00.000Z	18	1481								0.14	7.14		http://www.vdh.virginia.gov/
 Plymouth_County,_Massachusetts	Plymouth County, Massachusetts	2020-11-14	2020-11-13T21:00:00.000Z	863	12703								1.86	81.71		https://www.mass.gov/
 Polk_County,_Georgia	Polk County, Georgia	2020-11-14	2020-11-13T18:50:09.000Z	31	1858								0.29	8.0		https://dph.georgia.gov/
 Polk_County,_Minnesota	Polk County, Minnesota	2020-11-14	2020-11-13T16:00:00.000Z	17	1591								1.14	50.14		https://www.health.state.mn.us/
