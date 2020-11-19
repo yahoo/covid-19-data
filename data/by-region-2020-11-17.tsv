@@ -890,7 +890,7 @@ Alagoas	Alagoas	2020-11-17	2020-11-17T22:00:00.000Z	2301	92815			173	3		11	-4	6.
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2020-11-17		96	6197			87	0		46	0	0.43	61.14		https://www.ncdhhs.gov/
 Alameda_County,_California	Alameda County, California	2020-11-17	2020-11-17T00:00:00.000Z	493	26460		871059	413	3		238	3	2.71	192.86		http://www.acphd.org/
 Alamosa_County,_Colorado	Alamosa County, Colorado	2020-11-17		11	465			5	0		5	-1	0.29	9.14		https://covid19.colorado.gov/
-Alaska	Alaska	2020-11-17	2020-11-17T00:00:00.000Z	98	25041	7165		642	0	0	57	0	0.86	601.29	0.57	http://www.dhss.alaska.gov
+Alaska	Alaska	2020-11-17	2020-11-17T00:00:00.000Z	99	25041	7165		642	1	0	57	1	1.0	601.29	0.57	http://www.dhss.alaska.gov
 Albania	Albania	2020-11-17	2020-11-17T00:00:00.000Z	637	29126	13804	156052	694	6	351	92	-2	8.29	547.43	207.29	https://coronavirus.al/statistika/
 Albany_County,_New_York	Albany County, New York	2020-11-17	2020-11-17T14:00:00.000Z	135	4653		224118	81	0		38	0	0.43	65.86		https://coronavirus.health.ny.gov/
 Albany_County,_Wyoming	Albany County, Wyoming	2020-11-17	2020-11-17T22:00:00.000Z	8	2441	986		93	0	35	30	0	0.29	63.57	10.71	https://health.wyo.gov/
@@ -898,8 +898,8 @@ Albemarle_County,_Virginia	Albemarle County, Virginia	2020-11-17	2020-11-17T14:0
 Alberta	Alberta	2020-11-17	2020-11-17T16:00:00.000Z	432	40962	30462	1295038	773	5	731	-87	-15	8.0	869.86	579.29	https://www.canada.ca/
 Alcona_County,_Michigan	Alcona County, Michigan	2020-11-17	2020-11-17T17:00:00.000Z	3	109			5	0	0	-7	0	0.0	5.86		https://www.michigan.gov/
 Alcorn_County,_Mississippi	Alcorn County, Mississippi	2020-11-17	2020-11-17T05:00:00.000Z	22	1358			18	1		-4	1	1.14	19.0		https://msdh.ms.gov/
-Aleutians_East_Borough,_Alaska	Aleutians East Borough, Alaska	2020-11-17			2									0.0		http://www.dhss.alaska.gov/
-Aleutians_West_Census_Area,_Alaska	Aleutians West Census Area, Alaska	2020-11-17			4									0.0		http://www.dhss.alaska.gov/
+Aleutians_East_Borough,_Alaska	Aleutians East Borough, Alaska	2020-11-17			2			0			0			0.0		http://www.dhss.alaska.gov/
+Aleutians_West_Census_Area,_Alaska	Aleutians West Census Area, Alaska	2020-11-17			4			0			0			0.0		http://www.dhss.alaska.gov/
 Alexander_County,_Illinois	Alexander County, Illinois	2020-11-17		2	220		2836	3	0		-1	0	0.0	5.0		http://www.dph.illinois.gov/
 Alexander_County,_North_Carolina	Alexander County, North Carolina	2020-11-17		13	1337			22	0		-13	0	0.14	20.29		https://www.ncdhhs.gov/
 Alexandria,_Virginia	Alexandria, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	76	4726			28	0		-35	0	0.0	27.57		http://www.vdh.virginia.gov/
@@ -933,7 +933,7 @@ Amherst_County,_Virginia	Amherst County, Virginia	2020-11-17	2020-11-17T14:00:00
 Amite_County,_Mississippi	Amite County, Mississippi	2020-11-17	2020-11-17T05:00:00.000Z	14	460			1	0		0	0	0.0	2.57		https://msdh.ms.gov/
 Amstetten_District	Amstetten District	2020-11-17	2020-11-17T21:00:00.000Z		2976			154			66			123.57		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-11-17	2020-11-17T07:30:00.000Z	77	9355	6809		157	3	95	-2	0	1.14	164.29	92.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Anchorage,_Alaska	Anchorage, Alaska	2020-11-17			1956									0.0		http://www.dhss.alaska.gov/
+Anchorage,_Alaska	Anchorage, Alaska	2020-11-17			1956			0			0			0.0		http://www.dhss.alaska.gov/
 Andalusia	Andalusia	2020-11-17	2020-11-18T10:35:44.000Z	1375	12547			0	0		0	0	0.0	0.0		https://www.mscbs.gob.es/
 Anderson_County,_Kansas	Anderson County, Kansas	2020-11-17	2020-11-17T17:00:00.000Z		323			0			-15			5.57		https://www.coronavirus.kdheks.gov
 Anderson_County,_Kentucky	Anderson County, Kentucky	2020-11-17		1	391			17	0		18	0	0.0	9.0		https://govstatus.egov.com/
@@ -1132,7 +1132,7 @@ Bernalillo_County,_New_Mexico	Bernalillo County, New Mexico	2020-11-17		271	1743
 Berrien_County,_Georgia	Berrien County, Georgia	2020-11-17	2020-11-17T18:50:10.000Z	27	520			1	0		-1	0	0.29	1.43		https://dph.georgia.gov/
 Berrien_County,_Michigan	Berrien County, Michigan	2020-11-17	2020-11-17T17:00:00.000Z	103	4909			180	0	0	-167	0	1.29	145.57		https://www.michigan.gov/
 Bertie_County,_North_Carolina	Bertie County, North Carolina	2020-11-17		22	805			6	1		2	1	0.14	6.86		https://www.ncdhhs.gov/
-Bethel_Census_Area,_Alaska	Bethel Census Area, Alaska	2020-11-17			22									0.0		http://www.dhss.alaska.gov/
+Bethel_Census_Area,_Alaska	Bethel Census Area, Alaska	2020-11-17			22			0			0			0.0		http://www.dhss.alaska.gov/
 Beverly_Hills,_California	Beverly Hills, California	2020-11-17	2020-11-17T03:00:00.000Z	12	853			8	0		5	0	0.0	5.86		http://publichealth.lacounty.gov/
 Bexar_County,_Texas	Bexar County, Texas	2020-11-17		1453	58930	53316		146	2	140	-42	2	2.86	215.43	140.71	https://www.dshs.state.tx.us/
 Bhutan	Bhutan	2020-11-17	2020-11-18T11:42:26.000Z	0	377			2	0	0	2	0	0.0	1.86		https://www.ecdc.europa.eu/
@@ -1231,7 +1231,7 @@ Brewster_County,_Texas	Brewster County, Texas	2020-11-17		5	391	249		90	0	0	90	0
 Brighton_and_Hove	Brighton and Hove	2020-11-17			3732			0			-49			45.14		https://www.gov.uk/
 Briscoe_County,_Texas	Briscoe County, Texas	2020-11-17		1	37	23		1	0	1	1	0	0.0	1.71	0.43	https://www.dshs.state.tx.us/
 Bristol	Bristol	2020-11-17			13382			15			-210			239.29		https://www.gov.uk/
-Bristol_Bay_Borough,_Alaska	Bristol Bay Borough, Alaska	2020-11-17			6									0.0		http://www.dhss.alaska.gov/
+Bristol_Bay_Borough,_Alaska	Bristol Bay Borough, Alaska	2020-11-17			6			0			0			0.0		http://www.dhss.alaska.gov/
 Bristol_County,_Massachusetts	Bristol County, Massachusetts	2020-11-17	2020-11-17T16:00:00.000Z	807	16397			251	2		24	-4	3.86	276.29		https://www.mass.gov/
 Bristol,_Rhode_Island	Bristol, Rhode Island	2020-11-17	2020-11-11T12:30:00.000Z		448		11178	0			0			17.86		https://health.ri.gov/
 Bristol,_Virginia	Bristol, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	7	439			6	0		0	0	0.0	8.0		http://www.vdh.virginia.gov/
@@ -1827,7 +1827,7 @@ Delta_County,_Colorado	Delta County, Colorado	2020-11-17		7	375			14	4		7	4	0.57
 Delta_County,_Michigan	Delta County, Michigan	2020-11-17	2020-11-17T17:00:00.000Z	55	2108			33	0	0	-6	0	0.71	47.86		https://www.michigan.gov/
 Delta_County,_Texas	Delta County, Texas	2020-11-17		0	44	40		0	0	4	-1	0	0.0	0.29	0.71	https://www.dshs.state.tx.us/
 Democratic_Republic_of_the_Congo	Democratic Republic of the Congo	2020-11-17	2020-11-18T11:42:26.000Z	320	11838			49	1	1	19	0	0.71	33.0		https://www.ecdc.europa.eu/
-Denali_Borough,_Alaska	Denali Borough, Alaska	2020-11-17			1									0.0		http://www.dhss.alaska.gov/
+Denali_Borough,_Alaska	Denali Borough, Alaska	2020-11-17			1			0			0			0.0		http://www.dhss.alaska.gov/
 Denmark	Denmark	2020-11-17	2020-11-17T14:00:00.000Z	768	64551	49961	3199098	1220	4	1265	25	0	2.57	1084.71	1101.71	https://www.sst.dk/
 Dent_County,_Missouri	Dent County, Missouri	2020-11-17	2020-11-17T18:00:00.000Z	4	396		5344	19	0		18	0	0.0	10.14		https://health.mo.gov
 Denton_County,_Texas	Denton County, Texas	2020-11-17		196	17157	15774		271	1	210	271	1	1.29	170.0	135.14	https://www.dshs.state.tx.us/
@@ -1916,7 +1916,7 @@ Duval_County,_Texas	Duval County, Texas	2020-11-17		22	543	472		0	0	1	0	0	0.0	1.
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-11-17	2020-11-16T20:00:00.000Z	47	2886		18506	4	0	0	-40	0	0.71	30.57		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-11-17		11	1930			36	0		24	0	0.14	30.29		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-11-17	2020-11-17T18:50:10.000Z	36	590			-1	0		-1	0	0.14	2.29		https://dph.georgia.gov/
-Earth	Earth	2020-11-17	2020-11-19T09:33:03.491Z	1328725	55311250			561656	8660		17024	2161	8429.86	589721.57	317790.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-11-17	2020-11-19T10:27:25.500Z	1328726	55311250			561656	8660		17024	2161	8430.0	589721.57	317790.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-11-17		488	18125		223711	173	2		-661	-20	3.71	190.29		http://ldh.la.gov/
 East_Carroll_Parish,_Louisiana	East Carroll Parish, Louisiana	2020-11-17		6	648		6023	5	0		-15	0	0.0	6.0		http://ldh.la.gov/
 East_Feliciana_Parish,_Louisiana	East Feliciana Parish, Louisiana	2020-11-17		83	2015		24798	24	0		-146	-1	0.29	29.57		http://ldh.la.gov/
@@ -2002,7 +2002,7 @@ Evangeline_Parish,_Louisiana	Evangeline Parish, Louisiana	2020-11-17		41	1668		2
 Evans_County,_Georgia	Evans County, Georgia	2020-11-17	2020-11-17T18:50:10.000Z	12	503			1	0		0	0	0.0	1.29		https://dph.georgia.gov/
 Exeter,_Rhode_Island	Exeter, Rhode Island	2020-11-17	2020-11-11T12:30:00.000Z		77		1775	0			0			1.57		https://health.ri.gov/
 Extremadura	Extremadura	2020-11-17	2020-11-18T10:35:44.000Z	505	3042			0	0		0	0	0.0	0.0		https://www.mscbs.gob.es/
-Fairbanks_North_Star_Borough,_Alaska	Fairbanks North Star Borough, Alaska	2020-11-17			413									0.0		http://www.dhss.alaska.gov/
+Fairbanks_North_Star_Borough,_Alaska	Fairbanks North Star Borough, Alaska	2020-11-17			413			0			0			0.0		http://www.dhss.alaska.gov/
 Fairfax_County,_Virginia	Fairfax County, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	610	27021			192	0		-205	0	0.43	204.0		http://www.vdh.virginia.gov/
 Fairfax,_Virginia	Fairfax, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	8	187			3	0		0	0	0.0	1.71		http://www.vdh.virginia.gov/
 Fairfield_County,_Connecticut	Fairfield County, Connecticut	2020-11-17	2020-11-17T20:00:00.000Z	1460	31773			561	1		-809	-4	1.29	513.57		https://portal.ct.gov/
@@ -2297,7 +2297,7 @@ Haakon_County,_South_Dakota	Haakon County, South Dakota	2020-11-17	2020-11-17T18
 Habersham_County,_Georgia	Habersham County, Georgia	2020-11-17	2020-11-17T18:50:10.000Z	78	2055			26	0		15	0	-0.14	14.57		https://dph.georgia.gov/
 Hải_Dương_Province	Hải Dương Province	2020-11-17	2020-11-17T00:00:00.000Z	0	27	27		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Hainaut_Province	Hainaut Province	2020-11-17	2020-11-17		87728			313			-302			572.71		https://epistat.wiv-isp.be/Covid/
-Haines_Borough,_Alaska	Haines Borough, Alaska	2020-11-17			4									0.0		http://www.dhss.alaska.gov/
+Haines_Borough,_Alaska	Haines Borough, Alaska	2020-11-17			4			0			0			0.0		http://www.dhss.alaska.gov/
 Haiti	Haiti	2020-11-17	2020-11-18T11:42:26.000Z	232	9189			10	0	0	-1	0	0.0	7.43		https://www.ecdc.europa.eu/
 Hale_County,_Alabama	Hale County, Alabama	2020-11-17		31	879			3	1		0	1	0.14	6.57		https://covid19.alabama.gov/
 Hale_County,_Texas	Hale County, Texas	2020-11-17		79	3446	2786		105	4	82	105	4	1.57	60.71	30.71	https://www.dshs.state.tx.us/
@@ -2660,7 +2660,7 @@ Josephine_County,_Oregon	Josephine County, Oregon	2020-11-17	2020-11-17T19:01:00
 Juab_County,_Utah	Juab County, Utah	2020-11-17	2020-11-17T00:00:00.000Z	7	377	254		11	0	0	-11	0	0.14	8.14	3.71	https://centralutahpublichealth.org/
 Judith_Basin_County,_Montana	Judith Basin County, Montana	2020-11-17		0	39			1	0		1	0	0.0	1.86		https://dphhs.mt.gov/
 Juneau_County,_Wisconsin	Juneau County, Wisconsin	2020-11-17	2020-11-17T07:00:00.000Z	6	1631		13540	21	0	0	-31	0	0.0	39.14		https://www.dhs.wisconsin.gov/
-Juneau,_Alaska	Juneau, Alaska	2020-11-17			92									0.0		http://www.dhss.alaska.gov/
+Juneau,_Alaska	Juneau, Alaska	2020-11-17			92			0			0			0.0		http://www.dhss.alaska.gov/
 Juniata_County,_Pennsylvania	Juniata County, Pennsylvania	2020-11-17		9	459		3645	46	0		21	0	0.0	23.57		https://www.health.pa.gov/
 Kabardino-Balkaria	Kabardino-Balkaria	2020-11-17	2020-11-17T07:30:00.000Z	181	11539	8415		89	2	117	1	-1	2.57	86.0	74.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kalamazoo_County,_Michigan	Kalamazoo County, Michigan	2020-11-17	2020-11-17T17:00:00.000Z	147	7654			155	0	0	-167	0	1.86	153.43		https://www.michigan.gov/
@@ -2693,7 +2693,7 @@ Kearny_County,_Kansas	Kearny County, Kansas	2020-11-17	2020-11-17T17:00:00.000Z	
 Keith_County,_Nebraska	Keith County, Nebraska	2020-11-17		0	252		1947	17	0		8	0	0.0	10.71		http://dhhs.ne.gov/
 Kemerovo_Oblast	Kemerovo Oblast	2020-11-17	2020-11-17T07:30:00.000Z	319	18481	14996		185	5	231	2	1	6.43	183.71	240.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kemper_County,_Mississippi	Kemper County, Mississippi	2020-11-17	2020-11-17T05:00:00.000Z	15	365			3	0		2	0	0.0	2.43		https://msdh.ms.gov/
-Kenai_Peninsula_Borough,_Alaska	Kenai Peninsula Borough, Alaska	2020-11-17			304									0.0		http://www.dhss.alaska.gov/
+Kenai_Peninsula_Borough,_Alaska	Kenai Peninsula Borough, Alaska	2020-11-17			304			0			0			0.0		http://www.dhss.alaska.gov/
 Kendall_County,_Illinois	Kendall County, Illinois	2020-11-17		33	5066		57355	153	0		58	0	0.29	131.71		http://www.dph.illinois.gov/
 Kendall_County,_Texas	Kendall County, Texas	2020-11-17		11	456	442		3	0	1	3	0	0.0	2.71	2.86	https://www.dshs.state.tx.us/
 Kenedy_County,_Texas	Kenedy County, Texas	2020-11-17		2	11	8		0	0	0	0	0	0.0	0.0	0.0	https://www.dshs.state.tx.us/
@@ -2712,7 +2712,7 @@ Kep_Province	Kep Province	2020-11-17	2020-11-17T07:00:00.000Z		4			0			0			0.0		
 Kern_County,_California	Kern County, California	2020-11-17	2020-11-17T00:00:00.000Z	432	37141	17859	240824	222	0	56	-79	0	0.43	218.71	32.0	https://kernpublichealth.com/
 Kerr_County,_Texas	Kerr County, Texas	2020-11-17		18	816	745		28	0	0	28	0	0.43	9.29	5.29	https://www.dshs.state.tx.us/
 Kershaw_County,_South_Carolina	Kershaw County, South Carolina	2020-11-17		58	2588			25	0		24	0	0.29	12.14		https://www.scdhec.gov/
-Ketchikan_Gateway_Borough,_Alaska	Ketchikan Gateway Borough, Alaska	2020-11-17			36									0.0		http://www.dhss.alaska.gov/
+Ketchikan_Gateway_Borough,_Alaska	Ketchikan Gateway Borough, Alaska	2020-11-17			36			0			0			0.0		http://www.dhss.alaska.gov/
 Kewaunee_County,_Wisconsin	Kewaunee County, Wisconsin	2020-11-17	2020-11-17T07:00:00.000Z	14	1456		7078	21	1	1	21	1	0.43	17.57		https://www.dhs.wisconsin.gov/
 Keweenaw_County,_Michigan	Keweenaw County, Michigan	2020-11-17	2020-11-17T17:00:00.000Z	1	47			4	0	0	-1	0	0.0	2.57		https://www.michigan.gov/
 Keya_Paha_County,_Nebraska	Keya Paha County, Nebraska	2020-11-17		0	17		102	0	0		0	0	0.0	1.0		http://dhhs.ne.gov/
@@ -2758,7 +2758,7 @@ Knox_County,_Nebraska	Knox County, Nebraska	2020-11-17		2	369		2836	6	0		-2	0	0.
 Knox_County,_Ohio	Knox County, Ohio	2020-11-17	2020-11-17T19:00:00.000Z	18	929			27	0		-7	0	0.14	32.14		https://coronavirus.ohio.gov/
 Knox_County,_Tennessee	Knox County, Tennessee	2020-11-17	2020-11-16T20:00:00.000Z	126	16474		203488	144	9	9	-254	7	3.0	222.0		https://www.tn.gov/
 Knox_County,_Texas	Knox County, Texas	2020-11-17		9	116	116		0	0	1	0	0	0.0	0.29	0.29	https://www.dshs.state.tx.us/
-Kodiak_Island_Borough,_Alaska	Kodiak Island Borough, Alaska	2020-11-17			6									0.0		http://www.dhss.alaska.gov/
+Kodiak_Island_Borough,_Alaska	Kodiak Island Borough, Alaska	2020-11-17			6			0			0			0.0		http://www.dhss.alaska.gov/
 Koh_Kong_Province	Koh Kong Province	2020-11-17	2020-11-17T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Komi_Republic	Komi Republic	2020-11-17	2020-11-17T07:30:00.000Z	289	17677	12236		283	12	343	2	12	5.0	268.57	170.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Koochiching_County,_Minnesota	Koochiching County, Minnesota	2020-11-17	2020-11-17T16:00:00.000Z	5	285			16	0		11	0	0.0	9.14		https://www.health.state.mn.us/
@@ -2774,7 +2774,7 @@ Krems_an_der_Donau	Krems an der Donau	2020-11-17	2020-11-17T21:00:00.000Z		584		
 Kufstein_District	Kufstein District	2020-11-17	2020-11-17T21:00:00.000Z		3935			154			31			126.71		https://info.gesundheitsministerium.at/
 Kurgan_Oblast	Kurgan Oblast	2020-11-17	2020-11-17T07:30:00.000Z	109	7367	6622		92	1	125	-1	1	0.57	93.71	173.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kursk_Oblast	Kursk Oblast	2020-11-17	2020-11-17T07:30:00.000Z	153	13274	9896		151	4	87	3	1	3.86	146.14	133.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Kusilvak_Census_Area,_Alaska	Kusilvak Census Area, Alaska	2020-11-17			6									0.0		http://www.dhss.alaska.gov/
+Kusilvak_Census_Area,_Alaska	Kusilvak Census Area, Alaska	2020-11-17			6			0			0			0.0		http://www.dhss.alaska.gov/
 Kuwait	Kuwait	2020-11-17		848	137885	129041		556	4	627	67	1	3.86	643.43	697.86	https://corona.e.gov.kw/
 Kyrgyzstan	Kyrgyzstan	2020-11-17	2020-11-18T11:42:26.000Z	1207	67469			486	4	4	7	0	3.14	501.29		https://www.ecdc.europa.eu/
 Kyzylorda_Region	Kyzylorda Region	2020-11-17		15	3269	3218		1	0	11	1	0	0.0	1.0	7.14	https://www.coronavirus2020.kz/
@@ -3166,7 +3166,7 @@ Mason_County,_West_Virginia	Mason County, West Virginia	2020-11-17	2020-11-17T10
 Massac_County,_Illinois	Massac County, Illinois	2020-11-17		2	340		4422	13	0		-8	0	0.0	14.57		http://www.dph.illinois.gov/
 Massachusetts	Massachusetts	2020-11-17	2020-11-17T21:00:00.000Z	10360	192964		229932	2263	20	20	296	8	25.14	2583.29		https://www.mass.gov/
 Matagorda_County,_Texas	Matagorda County, Texas	2020-11-17		57	1172	1106		2	1	2	2	1	0.14	4.43	1.29	https://www.dshs.state.tx.us/
-Matanuska-Susitna_Borough,_Alaska	Matanuska-Susitna Borough, Alaska	2020-11-17			311									0.0		http://www.dhss.alaska.gov/
+Matanuska-Susitna_Borough,_Alaska	Matanuska-Susitna Borough, Alaska	2020-11-17			311			0			0			0.0		http://www.dhss.alaska.gov/
 Mathews_County,_Virginia	Mathews County, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	1	149			2	1		2	1	0.14	0.86		http://www.vdh.virginia.gov/
 Mato_Grosso	Mato Grosso	2020-11-17	2020-11-17T22:00:00.000Z	4001	152674			606	3		-108	-10	24.71	1202.29		https://covid.saude.gov.br/
 Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-11-17	2020-11-17T22:00:00.000Z	1697	88965			854	4		345	-1	10.71	789.43		https://covid.saude.gov.br/
@@ -3496,7 +3496,7 @@ Noble_County,_Oklahoma	Noble County, Oklahoma	2020-11-17		3	337	246		0	0	6	-11	0
 Nobles_County,_Minnesota	Nobles County, Minnesota	2020-11-17	2020-11-17T16:00:00.000Z	27	2830			22	2		-7	2	0.71	27.71		https://www.health.state.mn.us/
 Nodaway_County,_Missouri	Nodaway County, Missouri	2020-11-17	2020-11-17T18:00:00.000Z	11	1363		12216	42	0		31	0	0.0	27.29		https://health.mo.gov
 Nolan_County,_Texas	Nolan County, Texas	2020-11-17		7	580	444		25	0	10	25	0	0.0	11.86	3.86	https://www.dshs.state.tx.us/
-Nome_Census_Area,_Alaska	Nome Census Area, Alaska	2020-11-17			19									0.0		http://www.dhss.alaska.gov/
+Nome_Census_Area,_Alaska	Nome Census Area, Alaska	2020-11-17			19			0			0			0.0		http://www.dhss.alaska.gov/
 Nordland	Nordland	2020-11-17	2020-11-17T12:00:00.000Z		471			1			-19			8.0		https://www.fhi.no/
 Norfolk	Norfolk	2020-11-17			8840			0			-83			121.71		https://www.gov.uk/
 Norfolk_County,_Massachusetts	Norfolk County, Massachusetts	2020-11-17	2020-11-17T16:00:00.000Z	1151	14064			147	2		32	2	3.0	144.14		https://www.mass.gov/
@@ -3512,7 +3512,7 @@ North_Kingstown,_Rhode_Island	North Kingstown, Rhode Island	2020-11-17	2020-11-1
 North_Lincolnshire	North Lincolnshire	2020-11-17			3934			2			-96			92.71		https://www.gov.uk/
 North_Macedonia	North Macedonia	2020-11-17	2020-11-18T11:42:26.000Z	1345	47636			586	40	40	-402	16	27.0	1051.57		https://www.ecdc.europa.eu/
 North_Providence,_Rhode_Island	North Providence, Rhode Island	2020-11-17	2020-11-11T12:30:00.000Z		1485		11899	0			0			17.29		https://health.ri.gov/
-North_Slope_Borough,_Alaska	North Slope Borough, Alaska	2020-11-17			16									0.0		http://www.dhss.alaska.gov/
+North_Slope_Borough,_Alaska	North Slope Borough, Alaska	2020-11-17			16			0			0			0.0		http://www.dhss.alaska.gov/
 North_Smithfield,_Rhode_Island	North Smithfield, Rhode Island	2020-11-17	2020-11-11T12:30:00.000Z		277		3781	0			0			4.43		https://health.ri.gov/
 North_Somerset	North Somerset	2020-11-17			3422			2			-74			68.57		https://www.gov.uk/
 North_Tyneside	North Tyneside	2020-11-17			5919			8			-80			94.57		https://www.gov.uk/
@@ -3527,7 +3527,7 @@ Northern_Mariana_Islands	Northern Mariana Islands	2020-11-17	2020-11-18T11:42:26
 Northumberland	Northumberland	2020-11-17			7339			14			-118			107.57		https://www.gov.uk/
 Northumberland_County,_Pennsylvania	Northumberland County, Pennsylvania	2020-11-17		119	1999		18104	54	1		-72	1	0.71	45.29		https://www.health.pa.gov/
 Northumberland_County,_Virginia	Northumberland County, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	8	244			0	0		-8	0	0.0	1.71		http://www.vdh.virginia.gov/
-Northwest_Arctic_Borough,_Alaska	Northwest Arctic Borough, Alaska	2020-11-17			33									0.0		http://www.dhss.alaska.gov/
+Northwest_Arctic_Borough,_Alaska	Northwest Arctic Borough, Alaska	2020-11-17			33			0			0			0.0		http://www.dhss.alaska.gov/
 Northwest_Territories	Northwest Territories	2020-11-17	2020-11-17T16:00:00.000Z	0	15	10	5938	0	0	0	0	0	0.0	0.71	0.0	https://www.canada.ca/
 Norton_County,_Kansas	Norton County, Kansas	2020-11-17	2020-11-17T17:00:00.000Z		977			0			-33			9.29		https://www.coronavirus.kdheks.gov
 Norton,_Virginia	Norton, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	0	64			1	0		1	0	0.0	0.29		http://www.vdh.virginia.gov/
@@ -3712,7 +3712,7 @@ Pershing_County,_Nevada	Pershing County, Nevada	2020-11-17	2020-11-17T00:00:00.0
 Person_County,_North_Carolina	Person County, North Carolina	2020-11-17		10	846			11	0		4	0	0.0	9.57		https://www.ncdhhs.gov/
 Peru	Peru	2020-11-17	2020-11-17T00:00:00.000Z	35317	939931	867306	4831147	702	46	1958	257	6	46.43	2071.43	2376.57	https://www.gob.pe/8662
 Peterborough	Peterborough	2020-11-17			3658			0			-12			43.14		https://www.gov.uk/
-Petersburg_Borough,_Alaska	Petersburg Borough, Alaska	2020-11-17			6									0.0		http://www.dhss.alaska.gov/
+Petersburg_Borough,_Alaska	Petersburg Borough, Alaska	2020-11-17			6			0			0			0.0		http://www.dhss.alaska.gov/
 Petersburg,_Virginia	Petersburg, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	31	1020			-8	1		-14	1	0.14	2.14		http://www.vdh.virginia.gov/
 Petroleum_County,_Montana	Petroleum County, Montana	2020-11-17		0	5			0	0		0	0	0.0	0.14		https://dphhs.mt.gov/
 Pettis_County,_Missouri	Pettis County, Missouri	2020-11-17	2020-11-17T18:00:00.000Z	29	2501		28846	36	1		23	1	0.14	35.0		https://health.mo.gov
@@ -3829,7 +3829,7 @@ Prince_Edward_County,_Virginia	Prince Edward County, Virginia	2020-11-17	2020-11
 Prince_Edward_Island	Prince Edward Island	2020-11-17	2020-11-17T16:00:00.000Z	0	68	65	53342	0	0	1	0	0	0.0	0.14	0.14	https://www.canada.ca/
 Prince_George_County,_Virginia	Prince George County, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	7	1315			17	0		4	0	0.0	8.86		http://www.vdh.virginia.gov/
 Prince_George's_County,_Maryland	Prince George's County, Maryland	2020-11-17		870	36905			419	4		202	3	3.0	292.71		https://coronavirus.maryland.gov/
-Prince_of_Wales–Hyder_Census_Area,_Alaska	Prince of Wales–Hyder Census Area, Alaska	2020-11-17			8									0.0		http://www.dhss.alaska.gov/
+Prince_of_Wales–Hyder_Census_Area,_Alaska	Prince of Wales–Hyder Census Area, Alaska	2020-11-17			8			0			0			0.0		http://www.dhss.alaska.gov/
 Prince_William_County,_Virginia	Prince William County, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	229	16123			144	0		-58	0	0.43	108.0		http://www.vdh.virginia.gov/
 Provence-Alpes-Côte_d'Azur	Provence-Alpes-Côte d'Azur	2020-11-17		2340		13591			49	291		-11	45.57		172.14	https://www.santepubliquefrance.fr/
 Providence,_Rhode_Island	Providence, Rhode Island	2020-11-17	2020-11-11T12:30:00.000Z		11365		82619	0			0			120.43		https://health.ri.gov/
@@ -4179,7 +4179,7 @@ Sioux_County,_Iowa	Sioux County, Iowa	2020-11-17	2020-11-17T00:00:00.000Z	22	328
 Sioux_County,_Nebraska	Sioux County, Nebraska	2020-11-17		0	16		59	1	0		0	0	0.0	0.43		http://dhhs.ne.gov/
 Sioux_County,_North_Dakota	Sioux County, North Dakota	2020-11-17	2020-11-17T17:00:00.000Z	5	384	295	2450	4	0	12	4	0	0.0	8.71	5.71	https://www.health.nd.gov/
 Siskiyou_County,_California	Siskiyou County, California	2020-11-17	2020-11-17T16:24:00.000Z	1	429	333	13063	26	0	27	-5	0	0.0	15.43	7.86	https://www.co.siskiyou.ca.us/
-Sitka,_Alaska	Sitka, Alaska	2020-11-17			23									0.0		http://www.dhss.alaska.gov/
+Sitka,_Alaska	Sitka, Alaska	2020-11-17			23			0			0			0.0		http://www.dhss.alaska.gov/
 Skagit_County,_Washington	Skagit County, Washington	2020-11-17	2020-11-17T22:15:00.000Z	26	1670			27	1		5	1	0.14	28.86		https://coronavirus.wa.gov/
 Skamania_County,_Washington	Skamania County, Washington	2020-11-17	2020-11-17T22:15:00.000Z	1	86			1	0		0	0	0.0	1.57		https://coronavirus.wa.gov/
 Slope_County,_North_Dakota	Slope County, North Dakota	2020-11-17	2020-11-17T17:00:00.000Z	0	18	17	169	-1	0	0	-1	0	0.0	0.29	0.29	https://www.health.nd.gov/
@@ -4220,7 +4220,7 @@ South_Tyrol	South Tyrol	2020-11-17		414	18104	6989	278912	258	9	116	-286	2	9.14	
 South_West_England	South West England	2020-11-17			68637			56			-1057			1157.14		https://www.gov.uk/
 Southampton	Southampton	2020-11-17			3501			3			-43			55.86		https://www.gov.uk/
 Southampton_County,_Virginia	Southampton County, Virginia	2020-11-17	2020-11-17T14:00:00.000Z	39	955			2	0		1	0	0.14	1.71		http://www.vdh.virginia.gov/
-Southeast_Fairbanks_Census_Area,_Alaska	Southeast Fairbanks Census Area, Alaska	2020-11-17			14									0.0		http://www.dhss.alaska.gov/
+Southeast_Fairbanks_Census_Area,_Alaska	Southeast Fairbanks Census Area, Alaska	2020-11-17			14			0			0			0.0		http://www.dhss.alaska.gov/
 Southend-on-Sea	Southend-on-Sea	2020-11-17			2089			0			-27			35.43		https://www.gov.uk/
 Spain	Spain	2020-11-17	2020-11-18T11:42:26.000Z	41688	1510023			5897	435	435	2576	-49	276.0	15915.71		https://www.ecdc.europa.eu/
 Spalding_County,_Georgia	Spalding County, Georgia	2020-11-17	2020-11-17T18:50:10.000Z	74	1777			18	0		15	0	0.43	8.43		https://dph.georgia.gov/
@@ -4518,7 +4518,7 @@ Union_County,_Tennessee	Union County, Tennessee	2020-11-17	2020-11-16T20:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-11-17		56	1298		17297	22	0		-52	-2	0.29	17.71		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-11-17	2020-11-17T13:47:00.000Z	538	152809	144647	15168585	1255	4	715	46	2	2.86	1203.43	706.57	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-11-17		52745	1410732		39480052	20051	213	213	-1312	45	425.0	25279.57		https://www.gov.uk/
-United_States	United States	2020-11-17	2020-11-19T09:30:37.037Z	247751	11268065			158579	1006		4546	392	1208.14	155731.43	45138.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-11-17	2020-11-19T11:26:30.725Z	247752	11268065			158579	1006		4546	392	1208.29	155731.43	45138.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-11-17	2020-11-18T11:42:26.000Z	23	1434			0	0	0	0	0	0.0	4.14		https://www.ecdc.europa.eu/
 Upper_Austria	Upper Austria	2020-11-17	2020-11-17T21:00:00.000Z	273		28759			8	1906		-2	11.29		1573.29	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2020-11-17		17	573	523		9	0	8	5	0	0.29	3.29	3.43	https://www.dshs.state.tx.us/
