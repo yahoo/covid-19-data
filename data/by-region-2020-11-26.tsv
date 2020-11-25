@@ -1,9 +1,14 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Akmola_Region	Akmola Region	2020-11-26		86	4761	4194							0.43	51.57	40.0	https://www.coronavirus2020.kz/
+Almaty	Almaty	2020-11-26		323	15725	14740							1.29	51.14	58.0	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2020-11-26		68	5575	4918							0.43	18.14	1.43	https://www.coronavirus2020.kz/
+Atyrau_Region	Atyrau Region	2020-11-26		81	11557	11286							0.29	11.43	8.71	https://www.coronavirus2020.kz/
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-11-26	2020-11-26T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Battambang_Province	Battambang Province	2020-11-26	2020-11-26T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Cambodia	Cambodia	2020-11-26	2020-11-26T07:00:00.000Z	0	307	298		0	0	0	-1	0	0.0	0.43	1.0	http://www.cdcmoh.gov.kh/
-Earth	Earth	2020-11-26	2020-11-25T11:42:05.000Z	1410082	59879877								8445.0	470144.43	297696.43	https://www.ecdc.europa.eu/
+Earth	Earth	2020-11-26	2020-11-25T21:27:33.770Z	1412259	59883492								8756.0	470660.86	299685.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-11-26		281	15577	10432							1.14	167.0	83.86	https://www.coronavirus2020.kz/
+India	India	2020-11-26	2020-11-25T02:30:00.000Z	134699	9222216	8642771							445.86	37676.14	37024.14	https://www.mohfw.gov.in/
 Jambyl_Region	Jambyl Region	2020-11-26		61	4352	4180							0.0	10.0	6.0	https://www.coronavirus2020.kz/
 Kampong_Cham_Province	Kampong Cham Province	2020-11-26	2020-11-26T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampong_Chhnang_Province	Kampong Chhnang Province	2020-11-26	2020-11-26T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -17,6 +22,7 @@ Kostanay_Region	Kostanay Region	2020-11-26		27	4912	3639							0.29	60.43	45.71	
 Kyzylorda_Region	Kyzylorda Region	2020-11-26		15	3286	3248							0.0	1.71	2.14	https://www.coronavirus2020.kz/
 Malaysia	Malaysia	2020-11-26	2020-11-25T04:00:00.000Z	345	59817	46501							2.71	1162.43	1195.57	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2020-11-26		52	3428	3286							0.29	1.14	0.86	https://www.coronavirus2020.kz/
+Mauritius	Mauritius	2020-11-26	2020-11-25T11:42:05.000Z	10	497	431							0.0	0.43	0.0	https://www.ecdc.europa.eu/
 New_Zealand	New Zealand	2020-11-26	2020-11-25T01:00:00.000Z	25	2039	1955	1243518						0.0	4.14	1.0	https://www.health.govt.nz/
 North_Kazakhstan_Region	North Kazakhstan Region	2020-11-26		30	5836	5389							0.71	82.29	129.43	https://www.coronavirus2020.kz/
 Nur-Sultan	Nur-Sultan	2020-11-26		329	15685	14835							0.86	41.43	18.86	https://www.coronavirus2020.kz/
@@ -29,5 +35,6 @@ Singapore	Singapore	2020-11-26	2020-11-25T04:00:00.000Z	28	58190	58091	4448110		
 Sri_Lanka	Sri Lanka	2020-11-26	2020-11-25T16:26:00.000Z	94	21469	15447							3.57	403.43	363.43	https://hpb.health.gov.lk/
 Tboung_Khmum_Province	Tboung Khmum Province	2020-11-26	2020-11-26T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Turkistan_Region	Turkistan Region	2020-11-26		46	3466	3378							0.0	2.57	1.14	https://www.coronavirus2020.kz/
+United_Arab_Emirates	United Arab Emirates	2020-11-26	2020-11-25T11:05:00.000Z	563	162662	151044	16073324						2.71	1058.29	653.57	https://covid19.ncema.gov.ae/
 Vietnam	Vietnam	2020-11-26		35	1321	1153							0.0	2.43	1.57	https://ncov.moh.gov.vn/
 West_Kazakhstan_Region	West Kazakhstan Region	2020-11-26		131	7834	7130							0.14	32.86	19.71	https://www.coronavirus2020.kz/
