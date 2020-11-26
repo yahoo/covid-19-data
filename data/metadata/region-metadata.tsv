@@ -1618,7 +1618,7 @@ Aurora_County,_South_Dakota	CountyAdminArea	12589846	Aurora County, South Dakota
 Aurora,_Illinois	CountyAdminArea|CityTown	2357467	Aurora, Illinois	Aurora,_Illinois				-88.31577	41.75695	197899	Kane_County,_Illinois
 Austin_County,_Texas	CountyAdminArea	12590014	Austin County, Texas	Austin_County,_Texas			48015	-96.31314	29.84934	30032	Texas
 Australia	Country	23424748	Australia	Australia	AU			133.398	-24.9121	24982688	Earth
-Australian_Capital_Territory	CountyAdminArea|StateAdminArea	2344699	Australian Capital Territory	Australian_Capital_Territory				149.0025	-35.48879	429834	Australia
+Australian_Capital_Territory	StateAdminArea	2344699	Australian Capital Territory	Australian_Capital_Territory				149.0025	-35.48879	429834	Australia
 Austria	Country	23424750	Austria	Austria	AT			13.34577	47.69651	8840521	Earth
 Autauga_County,_Alabama	CountyAdminArea	12587487	Autauga County, Alabama	Autauga_County,_Alabama			01001	-86.66611	32.50771	55869	Alabama
 Autonomous_Province_of_Kosovo_and_Metohija	StateAdminArea		Autonomous Province of Kosovo and Metohija	Autonomous_Province_of_Kosovo_and_Metohija				21.166666	42.666668	1780021	Serbia
@@ -3070,7 +3070,7 @@ Ferry_County,_Washington	CountyAdminArea	12590449	Ferry County, Washington	Ferry
 Figueiró_dos_Vinhos	CityTown	741111	Figueiró dos Vinhos	Figueiró_dos_Vinhos				-8.27416	39.90359		Portugal
 Figueira_da_Foz	CityTown	741069	Figueira da Foz	Figueira_da_Foz				-8.8592	40.14843		
 Figueira_de_Castelo_Rodrigo	CityTown	741070	Figueira de Castelo Rodrigo	Figueira_de_Castelo_Rodrigo				-6.96292	40.89574		Portugal
-Fiji	Country	23424813	Fiji	Fiji	FJ			177.9734	-17.79099	883483	Earth
+Fiji	Country|Island	23424813	Fiji	Fiji	FJ			177.9734	-17.79099	883483	Earth
 Fillmore_County,_Minnesota	CountyAdminArea	12588819	Fillmore County, Minnesota	Fillmore_County,_Minnesota			27045	-92.08989	43.67436	21067	Minnesota
 Fillmore_County,_Nebraska	CountyAdminArea	12589167	Fillmore County, Nebraska	Fillmore_County,_Nebraska			31059	-97.59664	40.52457	5462	Nebraska
 Fingerville,_South_Carolina	CountyAdminArea|CityTown	2403429	Fingerville, South Carolina	Fingerville,_South_Carolina				-82.0004	35.13507	134	Spartanburg_County,_South_Carolina
@@ -4742,7 +4742,7 @@ Metropolitan_Borough_of_Barnsley	CountyAdminArea|TertiaryAdminArea		Metropolitan
 Metropolitan_Borough_of_Bolton	CountyAdminArea|TertiaryAdminArea		Metropolitan Borough of Bolton	Metropolitan_Borough_of_Bolton				-2.4297223	53.58139		Greater_Manchester
 Metropolitan_Borough_of_Bury	TertiaryAdminArea		Metropolitan Borough of Bury	Metropolitan_Borough_of_Bury				-2.2980556	53.592777		Greater_Manchester
 Metropolitan_Borough_of_Doncaster	CountyAdminArea|TertiaryAdminArea		Metropolitan Borough of Doncaster	Metropolitan_Borough_of_Doncaster				-1.1286111	53.5225		Yorkshire_and_the_Humber
-Metropolitan_Borough_of_Dudley	CityTown|TertiaryAdminArea		Metropolitan Borough of Dudley	Metropolitan_Borough_of_Dudley							West_Midlands_(region)
+Metropolitan_Borough_of_Dudley	CountyAdminArea|CityTown|TertiaryAdminArea		Metropolitan Borough of Dudley	Metropolitan_Borough_of_Dudley							West_Midlands_(region)
 Metropolitan_Borough_of_Gateshead	TertiaryAdminArea		Metropolitan Borough of Gateshead	Metropolitan_Borough_of_Gateshead				-1.6	54.95		North_East_England
 Metropolitan_Borough_of_Knowsley	TertiaryAdminArea		Metropolitan Borough of Knowsley	Metropolitan_Borough_of_Knowsley				-2.851	53.439		North_West_England
 Metropolitan_Borough_of_Oldham	CityTown|TertiaryAdminArea		Metropolitan Borough of Oldham	Metropolitan_Borough_of_Oldham				-2.1166666	53.533333		Greater_Manchester
@@ -4936,7 +4936,7 @@ Morris_County,_New_Jersey	CountyAdminArea	12589271	Morris County, New Jersey	Mor
 Morris_County,_Texas	CountyAdminArea	12590178	Morris County, Texas	Morris_County,_Texas			48343	-94.73604	33.12272	12388	Texas
 Morris,_Illinois	CountyAdminArea|CityTown	2454257	Morris, Illinois	Morris,_Illinois				-88.42495	41.35869	13636	Grundy_County,_Illinois
 Morrison_County,_Minnesota	CountyAdminArea	12588845	Morrison County, Minnesota	Morrison_County,_Minnesota			27097	-94.20852	46.06126	33386	Minnesota
-Morrison,_Illinois	CountyAdminArea|CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
+Morrison,_Illinois	CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
 Morrow_County,_Ohio	CountyAdminArea	12589585	Morrow County, Ohio	Morrow_County,_Ohio			39117	-82.82287	40.52887	35328	Ohio
 Morrow_County,_Oregon	CountyAdminArea	12589716	Morrow County, Oregon	Morrow_County,_Oregon			41049	-119.57607	45.46	11603	Oregon
 Mortágua	CountyAdminArea|CityTown		Mortágua	Mortágua				-8.233334	40.433334		
