@@ -2,7 +2,7 @@
 [![Slack](https://badgen.net/badge/slack/chat/purple?icon=slack)](https://join.slack.com/t/ykgcovid-19/shared_invite/zt-dh1owuzn-RkEy9_r8PhzhrV6PHa5MUg)
 ## Background
 
-The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The COVID-19 datasets include country, state, and county level information updated on a rolling basis, with updates occuring approximately hourly.
+The Yahoo Knowledge Graph team at Verizon Media is responsible for providing critical COVID-19 data that feeds into Yahoo properties like Yahoo News, Yahoo Finance, and Yahoo Weather. The COVID-19 datasets include country, state, and county level information updated on a rolling basis, with updates occurring approximately hourly.
 
 __The COVID-19 datasets are constructed entirely from primary (government and public agency) sources with a clear attribution of the primary sources used for each geographical region.__  While other aggregations of COVID-19 data are already available, we believe ours to be the only open source COVID-19 dataset that is constructed entirely from primary sources with clear attribution back to those sources.  Our hope is that additional transparency will enable more accurate analysis, aiding researchers who seek to understand and prevent further spread of the disease.
 
