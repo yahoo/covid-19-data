@@ -1,4 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Abruzzo	Abruzzo	2020-12-04		940	29196	10428	424370				395		10.29	381.57	333.0	http://www.salute.gov.it/
 Adygea	Adygea	2020-12-04	2020-12-03T08:00:00.000Z	67	8342	6712		97			0		0.57	81.29	57.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-12-04	2020-12-03T12:00:00.000Z		1058									4.71		https://www.fhi.no/
 Akmola_Region	Akmola Region	2020-12-04		86	5432	4350							0.0	74.29	18.43	https://www.coronavirus2020.kz/
@@ -6,26 +7,35 @@ Almaty	Almaty	2020-12-04		323	16269	14816							0.0	56.14	10.86	https://www.coro
 Almaty_Region	Almaty Region	2020-12-04		68	5801	4960							0.0	25.0	3.57	https://www.coronavirus2020.kz/
 Altai_Krai	Altai Krai	2020-12-04	2020-12-03T08:00:00.000Z	585	26800	24595		223			0		9.0	192.86	248.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2020-12-04	2020-12-03T08:00:00.000Z	31	11501	10270		107			0		1.29	85.0	205.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Amstetten_District	Amstetten District	2020-12-04	2020-12-03T21:00:00.000Z		4477									53.0		https://info.gesundheitsministerium.at/
+Amstetten_District	Amstetten District	2020-12-04	2020-12-03T21:00:00.000Z		4501									56.43		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-12-04	2020-12-03T08:00:00.000Z	98	11841	9275		152			0		0.0	132.43	166.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Aosta_Valley	Aosta Valley	2020-12-04		324	6619	5177	61669				42		3.14	39.29	97.43	http://www.salute.gov.it/
+Apulia	Apulia	2020-12-04		1588	59249	15912	812781				1602		26.57	1215.86	427.57	http://www.salute.gov.it/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	350	32411	21988		399			0		2.57	328.71	379.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Astrakhan_Oblast	Astrakhan Oblast	2020-12-04	2020-12-03T08:00:00.000Z	266	14177	9990		153			0		2.86	132.0	96.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2020-12-04		81	11708	11349							0.0	17.86	7.29	https://www.coronavirus2020.kz/
-Austria	Austria	2020-12-04	2020-12-03T21:00:00.000Z	3319	294837	238127	3149372						90.0	3023.29	4982.29	https://info.gesundheitsministerium.at/
-Baden_District,_Austria	Baden District, Austria	2020-12-04	2020-12-03T21:00:00.000Z		3427									39.86		https://info.gesundheitsministerium.at/
+Austria	Austria	2020-12-04	2020-12-03T21:00:00.000Z	3319	295430	238127	3149372						90.0	3108.0	4982.29	https://info.gesundheitsministerium.at/
+Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2020-12-04		5464		23301							55.29		192.0	https://www.santepubliquefrance.fr/
+Baden_District,_Austria	Baden District, Austria	2020-12-04	2020-12-03T21:00:00.000Z		3428									40.0		https://info.gesundheitsministerium.at/
 Bahrain	Bahrain	2020-12-04	2020-12-04T00:00:00.000Z	341	87432	85598	2088613	162	0	135	29	0	0.0	155.0	155.43	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-12-04	2020-12-04T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2020-12-04	2020-12-03T08:00:00.000Z	86	14689	12211		141			0		1.0	119.57	60.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2020-12-04		158	8586	2023	156657				131		2.71	131.86	66.29	http://www.salute.gov.it/
 Battambang_Province	Battambang Province	2020-12-04	2020-12-04T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Belarus	Belarus	2020-12-04	2020-12-03T03:00:00.000Z	1181	141609	118924	3335788						6.43	1425.14	1253.14	http://stopcovid.belta.by/
+Belgium	Belgium	2020-12-04	2020-12-03T00:00:00.000Z	16911	582252		5976114						76.29	1245.71		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-12-04	2020-12-03T08:00:00.000Z	90	16722	15006		177			0		0.71	146.0	121.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Bludenz_District	Bludenz District	2020-12-04	2020-12-03T21:00:00.000Z		2368									19.57		https://info.gesundheitsministerium.at/
-Braunau_am_Inn_District	Braunau am Inn District	2020-12-04	2020-12-03T21:00:00.000Z		3409									51.0		https://info.gesundheitsministerium.at/
+Bourgogne-Franche-Comté	Bourgogne-Franche-Comté	2020-12-04		1997		7754							19.0		67.14	https://www.santepubliquefrance.fr/
+Braunau_am_Inn_District	Braunau am Inn District	2020-12-04	2020-12-03T21:00:00.000Z		3441									55.57		https://info.gesundheitsministerium.at/
+Brittany_(administrative_region)	Brittany (administrative region)	2020-12-04		569		2886							4.0		15.71	https://www.santepubliquefrance.fr/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-12-04	2020-12-03T21:00:00.000Z		2231									23.57		https://info.gesundheitsministerium.at/
 Bryansk_Oblast	Bryansk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	139	17720	15154		145			0		2.57	122.57	176.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Burgenland	Burgenland	2020-12-04	2020-12-03T21:00:00.000Z	103		6302							4.71		123.0	https://info.gesundheitsministerium.at/
 Buryatia	Buryatia	2020-12-04	2020-12-03T08:00:00.000Z	446	19675	17363		250			0		5.57	225.43	211.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Calabria	Calabria	2020-12-04		322	17542	6629	372492				280		9.0	259.71	283.71	http://www.salute.gov.it/
 Cambodia	Cambodia	2020-12-04	2020-12-04T07:00:00.000Z	0	331	304		0	0	0	-2	0	0.0	3.43	0.86	http://www.cdcmoh.gov.kh/
+Campania	Campania	2020-12-04		1818	160569	56177	1639868				2295		38.86	1661.0	1823.29	http://www.salute.gov.it/
 Canton_of_Aargau	Canton of Aargau	2020-12-04	2020-12-02T22:00:00.000Z	208	18094								4.29	258.29		https://www.bag.admin.ch/
 Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2020-12-04	2020-12-02T22:00:00.000Z	29	1705								0.29	20.71		https://www.bag.admin.ch/
 Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2020-12-04	2020-12-02T22:00:00.000Z	14	549								0.14	3.29		https://www.bag.admin.ch/
@@ -49,35 +59,45 @@ Canton_of_Valais	Canton of Valais	2020-12-04	2020-12-02T22:00:00.000Z	516	22872	
 Canton_of_Zug	Canton of Zug	2020-12-04	2020-12-02T22:00:00.000Z	33	3525								0.71	42.57		https://www.bag.admin.ch/
 Canton_of_Zürich	Canton of Zürich	2020-12-04	2020-12-02T22:00:00.000Z	444	47243								8.86	569.0		https://www.bag.admin.ch/
 Carinthia	Carinthia	2020-12-04	2020-12-03T21:00:00.000Z	151		12355							2.57		364.57	https://info.gesundheitsministerium.at/
+Centre-Val_de_Loire	Centre-Val de Loire	2020-12-04		1061		4528							10.43		32.14	https://www.santepubliquefrance.fr/
 Chechnya	Chechnya	2020-12-04	2020-12-03T08:00:00.000Z	71	4731	2651		122			0		1.29	97.0	23.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	313	26121	22389		298			0		7.14	240.14	45.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-12-04	2020-12-03T08:00:00.000Z	3	409	358		7			0		0.0	4.71	5.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-12-04	2020-12-03T08:00:00.000Z	298	12922	12101		125			0		4.71	103.86	133.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Corsica	Corsica	2020-12-04		112		477							0.43		1.57	https://www.santepubliquefrance.fr/
 Czech_Republic	Czech Republic	2020-12-04	2020-12-03T16:03:00.000Z	8625	535760	461957	3131585						98.71	3155.0	4195.71	https://onemocneni-aktualne.mzcr.cz/
 Dagestan	Dagestan	2020-12-04	2020-12-03T08:00:00.000Z	977	19326	17346		117			0		7.14	96.43	68.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Deutschlandsberg_District	Deutschlandsberg District	2020-12-04	2020-12-03T21:00:00.000Z		1191									16.0		https://info.gesundheitsministerium.at/
-Dornbirn_District	Dornbirn District	2020-12-04	2020-12-03T21:00:00.000Z		4162									21.57		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-12-04	2020-12-04T00:36:18.964Z	1493675	64524417								7996.71	466810.43	350800.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Deutschlandsberg_District	Deutschlandsberg District	2020-12-04	2020-12-03T21:00:00.000Z		1196									16.71		https://info.gesundheitsministerium.at/
+Dornbirn_District	Dornbirn District	2020-12-04	2020-12-03T21:00:00.000Z		4164									21.86		https://info.gesundheitsministerium.at/
+Earth	Earth	2020-12-04	2020-12-04T01:38:58.793Z	1494117	64549111								8059.86	470338.14	368056.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-12-04		281	16670	11460							0.0	108.43	104.57	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2020-12-04	2020-12-03T21:00:00.000Z		1807									11.0		https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2020-12-04	2020-12-03T21:00:00.000Z		382									5.0		https://info.gesundheitsministerium.at/
+Emilia-Romagna	Emilia-Romagna	2020-12-04		5959	127870	51674	2174960				1766		49.29	1550.14	1508.29	http://www.salute.gov.it/
 Feldkirch_District	Feldkirch District	2020-12-04	2020-12-03T21:00:00.000Z		4255									32.71		https://info.gesundheitsministerium.at/
-Feldkirchen_District	Feldkirchen District	2020-12-04	2020-12-03T21:00:00.000Z		846									13.71		https://info.gesundheitsministerium.at/
+Feldkirchen_District	Feldkirchen District	2020-12-04	2020-12-03T21:00:00.000Z		857									15.29		https://info.gesundheitsministerium.at/
+France	France	2020-12-04		54140	2257331	166940							318.0	8744.57	1003.57	https://www.santepubliquefrance.fr/
 Freistadt_District	Freistadt District	2020-12-04	2020-12-03T21:00:00.000Z		3049									16.86		https://info.gesundheitsministerium.at/
-Gmunden_District	Gmunden District	2020-12-04	2020-12-03T21:00:00.000Z		3434									34.86		https://info.gesundheitsministerium.at/
-Graz	Graz	2020-12-04	2020-12-03T21:00:00.000Z		7471									88.0		https://info.gesundheitsministerium.at/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-12-04		941	32970	17146	744835				772		23.57	715.29	602.0	http://www.salute.gov.it/
+Germany	Germany	2020-12-04	2020-12-04	17602	1106789	800000		0	0	0	-22046	-479	288.0	14342.14	14842.86	https://www.rki.de/
+Gmunden_District	Gmunden District	2020-12-04	2020-12-03T21:00:00.000Z		3435									35.0		https://info.gesundheitsministerium.at/
+Grand_Est	Grand Est	2020-12-04		4894		18298							27.29		98.57	https://www.santepubliquefrance.fr/
+Graz	Graz	2020-12-04	2020-12-03T21:00:00.000Z		7511									93.71		https://info.gesundheitsministerium.at/
 Greenland	Greenland	2020-12-04	2020-12-03T12:00:00.000Z	0	18	18	13421						0.0	0.0	0.0	https://www.sst.dk/
-Grieskirchen_District	Grieskirchen District	2020-12-04	2020-12-03T21:00:00.000Z		3224									23.71		https://info.gesundheitsministerium.at/
-Hermagor_District	Hermagor District	2020-12-04	2020-12-03T21:00:00.000Z		534									7.43		https://info.gesundheitsministerium.at/
-Hollabrunn_District	Hollabrunn District	2020-12-04	2020-12-03T21:00:00.000Z		1019									7.0		https://info.gesundheitsministerium.at/
-Horn_District	Horn District	2020-12-04	2020-12-03T21:00:00.000Z		470									2.29		https://info.gesundheitsministerium.at/
+Grieskirchen_District	Grieskirchen District	2020-12-04	2020-12-03T21:00:00.000Z		3226									24.0		https://info.gesundheitsministerium.at/
+Hauts-de-France	Hauts-de-France	2020-12-04		3634		14963							25.86		101.57	https://www.santepubliquefrance.fr/
+Hermagor_District	Hermagor District	2020-12-04	2020-12-03T21:00:00.000Z		540									8.29		https://info.gesundheitsministerium.at/
+Hollabrunn_District	Hollabrunn District	2020-12-04	2020-12-03T21:00:00.000Z		1020									7.14		https://info.gesundheitsministerium.at/
+Horn_District	Horn District	2020-12-04	2020-12-03T21:00:00.000Z		473									2.71		https://info.gesundheitsministerium.at/
 Hungary	Hungary	2020-12-04	2020-12-03T07:10:00.000Z	5324	231844	67033	1876274						137.14	4772.0	2129.57	https://koronavirus.gov.hu/
+Île-de-France	Île-de-France	2020-12-04		11054		49672							40.71		172.71	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2020-12-04	2020-12-03T21:00:00.000Z		2358									21.0		https://info.gesundheitsministerium.at/
 India	India	2020-12-04	2020-12-03T02:30:00.000Z	138648	9534964	8973373							419.0	32168.14	36408.0	https://www.mohfw.gov.in/
 Ingushetia	Ingushetia	2020-12-04	2020-12-03T08:00:00.000Z	114	9720	8258		85			0		0.71	68.86	48.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2020-12-04	2020-12-03T12:00:00.000Z		1778									17.43		https://www.fhi.no/
 Innsbruck	Innsbruck	2020-12-04	2020-12-03T21:00:00.000Z		5750									33.14		https://info.gesundheitsministerium.at/
 Irkutsk_Oblast	Irkutsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	830	32911	29207		271			0		11.57	235.71	197.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Italy	Italy	2020-12-04		58038	1664829	846809	22561071				23225		623.0	18087.43	21451.71	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2020-12-04	2020-12-03T08:00:00.000Z	262	16306	11851		161			0		3.29	136.86	115.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jambyl_Region	Jambyl Region	2020-12-04		61	4467	4211							0.0	12.14	4.43	https://www.coronavirus2020.kz/
 Jennersdorf_District	Jennersdorf District	2020-12-04	2020-12-03T21:00:00.000Z		525									7.43		https://info.gesundheitsministerium.at/
@@ -100,9 +120,9 @@ Kep_Province	Kep Province	2020-12-04	2020-12-04T07:00:00.000Z		4			0			0			0.0		
 Khabarovsk_Krai	Khabarovsk Krai	2020-12-04	2020-12-03T08:00:00.000Z	162	25571	18731		338			0		0.71	283.57	376.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khakassia	Khakassia	2020-12-04	2020-12-03T08:00:00.000Z	138	12608	9175		182			0		2.57	155.43	195.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khanty-Mansi_Autonomous_Okrug	Khanty-Mansi Autonomous Okrug	2020-12-04	2020-12-03T08:00:00.000Z	425	34994	29950		220			0		4.43	187.0	193.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Kirchdorf_an_der_Krems_District	Kirchdorf an der Krems District	2020-12-04	2020-12-03T21:00:00.000Z		1767									17.14		https://info.gesundheitsministerium.at/
+Kirchdorf_an_der_Krems_District	Kirchdorf an der Krems District	2020-12-04	2020-12-03T21:00:00.000Z		1779									18.86		https://info.gesundheitsministerium.at/
 Kirov_Oblast	Kirov Oblast	2020-12-04	2020-12-03T08:00:00.000Z	199	18788	11384		245			0		1.0	207.0	215.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Klagenfurt	Klagenfurt	2020-12-04	2020-12-03T21:00:00.000Z		3099									45.71		https://info.gesundheitsministerium.at/
+Klagenfurt	Klagenfurt	2020-12-04	2020-12-03T21:00:00.000Z		3100									45.86		https://info.gesundheitsministerium.at/
 Koh_Kong_Province	Koh Kong Province	2020-12-04	2020-12-04T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Komi_Republic	Komi Republic	2020-12-04	2020-12-03T08:00:00.000Z	381	22203	17851		291			0		6.0	247.57	308.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Korneuburg_District	Korneuburg District	2020-12-04	2020-12-03T21:00:00.000Z		1998									9.29		https://info.gesundheitsministerium.at/
@@ -117,57 +137,69 @@ Kursk_Oblast	Kursk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	207	15782	13705		1
 Kuwait	Kuwait	2020-12-04		884	143574	138674							1.43	242.57	481.57	https://corona.e.gov.kw/
 Kyzylorda_Region	Kyzylorda Region	2020-12-04		15	3296	3255							0.0	1.0	0.71	https://www.coronavirus2020.kz/
 Landeck_District	Landeck District	2020-12-04	2020-12-03T21:00:00.000Z		2140									11.57		https://info.gesundheitsministerium.at/
+Lazio	Lazio	2020-12-04		2514	125009	29616	2288573				1769		32.86	1554.43	815.14	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-12-04	2020-12-03T14:40:00.000Z	1067	132817	84142							12.43	1262.14	1447.71	https://corona.ministryinfo.gov.lb/
-Leibnitz_District	Leibnitz District	2020-12-04	2020-12-03T21:00:00.000Z		2428									33.43		https://info.gesundheitsministerium.at/
+Leibnitz_District	Leibnitz District	2020-12-04	2020-12-03T21:00:00.000Z		2467									39.0		https://info.gesundheitsministerium.at/
 Leningrad_Oblast	Leningrad Oblast	2020-12-04	2020-12-03T08:00:00.000Z	148	17578	12768		210			0		2.14	180.14	268.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Leoben_District	Leoben District	2020-12-04	2020-12-03T21:00:00.000Z		1632									16.0		https://info.gesundheitsministerium.at/
+Leoben_District	Leoben District	2020-12-04	2020-12-03T21:00:00.000Z		1653									19.0		https://info.gesundheitsministerium.at/
 Lienz_District	Lienz District	2020-12-04	2020-12-03T21:00:00.000Z		1997									43.29		https://info.gesundheitsministerium.at/
-Liezen_District	Liezen District	2020-12-04	2020-12-03T21:00:00.000Z		2281									24.0		https://info.gesundheitsministerium.at/
-Lilienfeld_District	Lilienfeld District	2020-12-04	2020-12-03T21:00:00.000Z		769									8.57		https://info.gesundheitsministerium.at/
-Linz	Linz	2020-12-04	2020-12-03T21:00:00.000Z		7260									69.0		https://info.gesundheitsministerium.at/
+Liezen_District	Liezen District	2020-12-04	2020-12-03T21:00:00.000Z		2305									27.43		https://info.gesundheitsministerium.at/
+Liguria	Liguria	2020-12-04		2449	52794	38887	614263				422		16.14	319.57	525.29	http://www.salute.gov.it/
+Lilienfeld_District	Lilienfeld District	2020-12-04	2020-12-03T21:00:00.000Z		771									8.86		https://info.gesundheitsministerium.at/
+Linz	Linz	2020-12-04	2020-12-03T21:00:00.000Z		7261									69.14		https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	125	11650	9426		140			0		2.86	112.86	103.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lithuania	Lithuania	2020-12-04	2020-12-03T18:36:00.000Z	564	67066	26836	1290467						13.29	1567.29	1903.14	https://koronastop.lrv.lt
+Lombardy	Lombardy	2020-12-04		22626	419015	278058	4179837				3751		176.14	2995.86	4566.0	http://www.salute.gov.it/
 Lower_Austria	Lower Austria	2020-12-04	2020-12-03T21:00:00.000Z	537		34613							23.86		763.14	https://info.gesundheitsministerium.at/
 Magadan_Oblast	Magadan Oblast	2020-12-04	2020-12-03T08:00:00.000Z	56	5817	5287		43			0		0.43	38.0	62.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Malaysia	Malaysia	2020-12-04	2020-12-03T04:00:00.000Z	376	69095	57917							3.71	1033.43	1101.86	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2020-12-04		52	3441	3383							0.0	1.43	7.0	https://www.coronavirus2020.kz/
+Marche	Marche	2020-12-04		1298	31040	10793	420304				476		9.71	353.86	43.29	http://www.salute.gov.it/
 Mari_El	Mari El	2020-12-04	2020-12-03T08:00:00.000Z	95	7726	6790		49			0		0.71	43.29	51.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Mattersburg_District	Mattersburg District	2020-12-04	2020-12-03T21:00:00.000Z		987									20.0		https://info.gesundheitsministerium.at/
+Mattersburg_District	Mattersburg District	2020-12-04	2020-12-03T21:00:00.000Z		989									20.29		https://info.gesundheitsministerium.at/
 Mauritius	Mauritius	2020-12-04	2020-11-30T20:00:00.000Z	10	505	463							0.0	1.14	4.57	http://www.covid19.mu/
-Melk_District	Melk District	2020-12-04	2020-12-03T21:00:00.000Z		2359									38.29		https://info.gesundheitsministerium.at/
-Mistelbach_District	Mistelbach District	2020-12-04	2020-12-03T21:00:00.000Z		1289									12.0		https://info.gesundheitsministerium.at/
+Melk_District	Melk District	2020-12-04	2020-12-03T21:00:00.000Z		2368									39.57		https://info.gesundheitsministerium.at/
+Mistelbach_District	Mistelbach District	2020-12-04	2020-12-03T21:00:00.000Z		1292									12.43		https://info.gesundheitsministerium.at/
+Molise	Molise	2020-12-04		127	4921	2362	94388				53		2.71	79.57	104.43	http://www.salute.gov.it/
 Mordovia	Mordovia	2020-12-04	2020-12-03T08:00:00.000Z	64	11016	9032		89			0		0.29	76.71	62.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Morocco	Morocco	2020-12-04	2020-12-03T17:00:00.000Z	6063	368624	318987	3648367						53.43	3335.43	3564.43	http://www.covidmaroc.ma/
 Moscow	Moscow	2020-12-04	2020-12-03T08:00:00.000Z	9126	625189	471833		7750			0		63.71	5727.71	5275.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2020-12-04	2020-12-03T08:00:00.000Z	2160	114471	81584		1193			0		21.43	949.0	514.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Murau_District	Murau District	2020-12-04	2020-12-03T21:00:00.000Z		711									19.14		https://info.gesundheitsministerium.at/
+Murau_District	Murau District	2020-12-04	2020-12-03T21:00:00.000Z		718									20.14		https://info.gesundheitsministerium.at/
 Murmansk_Oblast	Murmansk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	492	28282	24706		286			0		3.43	243.57	269.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Murtal_District	Murtal District	2020-12-04	2020-12-03T21:00:00.000Z		1970									43.29		https://info.gesundheitsministerium.at/
+Murtal_District	Murtal District	2020-12-04	2020-12-03T21:00:00.000Z		1985									45.43		https://info.gesundheitsministerium.at/
 Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2020-12-04	2020-12-03T08:00:00.000Z	0	660	595		1			0		0.0	2.14	13.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Netherlands	Netherlands	2020-12-04	2020-12-02T22:00:00.000Z	9565	538050								42.57	4169.14		https://www.rivm.nl/
-Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-12-04	2020-12-03T21:00:00.000Z		2070									34.86		https://info.gesundheitsministerium.at/
-Neusiedl_am_See_District	Neusiedl am See District	2020-12-04	2020-12-03T21:00:00.000Z		1289									11.71		https://info.gesundheitsministerium.at/
+Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-12-04	2020-12-03T21:00:00.000Z		2075									35.57		https://info.gesundheitsministerium.at/
+Neusiedl_am_See_District	Neusiedl am See District	2020-12-04	2020-12-03T21:00:00.000Z		1290									11.86		https://info.gesundheitsministerium.at/
 New_Zealand	New Zealand	2020-12-04	2020-12-03T01:00:00.000Z	25	2069	1974	1291609						0.0	3.14	2.57	https://www.health.govt.nz/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2020-12-04	2020-12-03T08:00:00.000Z	1215	55901	50363		481			0		12.71	401.29	375.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Nordland	Nordland	2020-12-04	2020-12-03T12:00:00.000Z		547									1.57		https://www.fhi.no/
+Normandy	Normandy	2020-12-04		1198		4736							12.0		42.29	https://www.santepubliquefrance.fr/
 North_Kazakhstan_Region	North Kazakhstan Region	2020-12-04		30	6713	6273							0.0	92.29	71.29	https://www.coronavirus2020.kz/
 Norway	Norway	2020-12-04	2020-12-03T12:00:00.000Z	353	36968		2333109						3.57	317.29		https://www.fhi.no/
+Nouvelle-Aquitaine	Nouvelle-Aquitaine	2020-12-04		1311		6320							15.43		66.14	https://www.santepubliquefrance.fr/
 Novgorod_Oblast	Novgorod Oblast	2020-12-04	2020-12-03T08:00:00.000Z	89	12441	8459		213			0		0.0	176.0	130.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Novosibirsk_Oblast	Novosibirsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	764	23232	18907		186			0		5.71	154.14	129.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Nur-Sultan	Nur-Sultan	2020-12-04		329	16190	15008							0.0	51.0	24.71	https://www.coronavirus2020.kz/
-Oberpullendorf_District	Oberpullendorf District	2020-12-04	2020-12-03T21:00:00.000Z		1170									11.86		https://info.gesundheitsministerium.at/
-Oberwart_District	Oberwart District	2020-12-04	2020-12-03T21:00:00.000Z		1584									9.57		https://info.gesundheitsministerium.at/
+Oberpullendorf_District	Oberpullendorf District	2020-12-04	2020-12-03T21:00:00.000Z		1171									12.0		https://info.gesundheitsministerium.at/
+Oberwart_District	Oberwart District	2020-12-04	2020-12-03T21:00:00.000Z		1585									9.71		https://info.gesundheitsministerium.at/
+Occitanie	Occitanie	2020-12-04		1749		8686							16.86		59.57	https://www.santepubliquefrance.fr/
 Omsk_Oblast	Omsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	649	23300	20695		247			0		10.29	209.71	373.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Orenburg_Oblast	Orenburg Oblast	2020-12-04	2020-12-03T08:00:00.000Z	228	23727	20338		183			0		3.57	157.57	129.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Oryol_Oblast	Oryol Oblast	2020-12-04	2020-12-03T08:00:00.000Z	205	16517	14178		153			0		2.0	127.14	186.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Oslo	Oslo	2020-12-04	2020-12-03T12:00:00.000Z		10972									76.86		https://www.fhi.no/
 Pavlodar_Region	Pavlodar Region	2020-12-04		62	6674	5178							0.0	93.86	60.29	https://www.coronavirus2020.kz/
+Pays_de_la_Loire	Pays de la Loire	2020-12-04		1026		5066							8.43		35.86	https://www.santepubliquefrance.fr/
 Penza_Oblast	Penza Oblast	2020-12-04	2020-12-03T08:00:00.000Z	249	20722	17716		171			0		2.29	142.29	180.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Perg_District	Perg District	2020-12-04	2020-12-03T21:00:00.000Z		3018									33.43		https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2020-12-04	2020-12-03T08:00:00.000Z	675	21591	15258		307			0		12.86	258.43	232.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2020-12-04	2020-12-04T07:00:00.000Z		226			0			-2			3.43		http://www.cdcmoh.gov.kh/
+Piedmont	Piedmont	2020-12-04		6452	172931	96473	1619813				2230		68.57	1539.71	2554.43	http://www.salute.gov.it/
+Portugal	Portugal	2020-12-04	2020-12-04T00:00:00.000Z	4724	307618	229018		0	79	5572	-3772	0	64.0	3111.43	4224.57	https://covid19.min-saude.pt/
 Preah_Vihear_Province	Preah Vihear Province	2020-12-04	2020-12-04T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Primorsky_Krai	Primorsky Krai	2020-12-04	2020-12-03T08:00:00.000Z	246	22612	15968		235			0		2.57	197.86	100.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Provence-Alpes-Côte_d'Azur	Provence-Alpes-Côte d'Azur	2020-12-04		2875		16136							22.71		109.43	https://www.santepubliquefrance.fr/
 Pskov_Oblast	Pskov Oblast	2020-12-04	2020-12-03T08:00:00.000Z	75	12901	6973		199			0		0.43	166.14	65.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Qatar	Qatar	2020-12-04	2020-12-02T21:00:00.000Z	239	139477	136741	1125668	221			0		0.29	175.29	195.86	https://www.moph.gov.qa/
 Republic_of_Karelia	Republic of Karelia	2020-12-04	2020-12-03T08:00:00.000Z	108	16463	9834		472			0		1.71	368.14	275.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -183,13 +215,16 @@ Salzburg	Salzburg	2020-12-04	2020-12-03T21:00:00.000Z		5105									59.43		https
 Salzburg_(state)	Salzburg (state)	2020-12-04	2020-12-03T21:00:00.000Z	198		17038							6.43		443.0	https://info.gesundheitsministerium.at/
 Samara_Oblast	Samara Oblast	2020-12-04	2020-12-03T08:00:00.000Z	435	23133	20644		260			0		4.43	218.71	181.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Saratov_Oblast	Saratov Oblast	2020-12-04	2020-12-03T08:00:00.000Z	256	27916	23742		255			0		5.0	214.14	174.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Scheibbs_District	Scheibbs District	2020-12-04	2020-12-03T21:00:00.000Z		1672									22.57		https://info.gesundheitsministerium.at/
+Sardinia	Sardinia	2020-12-04		462	22878	8196	384979				538		5.0	351.29	194.14	http://www.salute.gov.it/
+Scheibbs_District	Scheibbs District	2020-12-04	2020-12-03T21:00:00.000Z		1690									25.14		https://info.gesundheitsministerium.at/
 Schwaz_District	Schwaz District	2020-12-04	2020-12-03T21:00:00.000Z		6068									44.57		https://info.gesundheitsministerium.at/
 Shymkent	Shymkent	2020-12-04		77	5381	5160							0.0	4.57	0.0	https://www.coronavirus2020.kz/
+Sicily	Sicily	2020-12-04		1650	67862	26432	992813				1294		33.14	1075.29	942.57	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2020-12-04	2020-12-04T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2020-12-04	2020-12-03T04:00:00.000Z	29	58239	58145	4658858						0.14	5.71	4.86	https://www.moh.gov.sg/covid-19
 Smolensk_Oblast	Smolensk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	283	12740	9229		144			0		0.86	118.0	84.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Spittal_an_der_Drau_District	Spittal an der Drau District	2020-12-04	2020-12-03T21:00:00.000Z		1395									28.71		https://info.gesundheitsministerium.at/
+South_Tyrol	South Tyrol	2020-12-04		558	24562	12789	317314				374		5.43	271.29	304.14	http://www.salute.gov.it/
+Spittal_an_der_Drau_District	Spittal an der Drau District	2020-12-04	2020-12-03T21:00:00.000Z		1402									29.71		https://info.gesundheitsministerium.at/
 Sri_Lanka	Sri Lanka	2020-12-04	2020-12-03T16:57:00.000Z	129	26038	19032							4.29	537.0	400.86	https://hpb.health.gov.lk/
 Stavropol_Krai	Stavropol Krai	2020-12-04	2020-12-03T08:00:00.000Z	571	28405	25008		232			0		5.57	196.14	123.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Steyr	Steyr	2020-12-04	2020-12-03T21:00:00.000Z		1314									11.14		https://info.gesundheitsministerium.at/
@@ -200,39 +235,43 @@ Tambov_Oblast	Tambov Oblast	2020-12-04	2020-12-03T08:00:00.000Z	114	13588	12436	
 Tatarstan	Tatarstan	2020-12-04	2020-12-03T08:00:00.000Z	141	10601	9294		87			0		1.29	74.0	67.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tboung_Khmum_Province	Tboung Khmum Province	2020-12-04	2020-12-04T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Tomsk_Oblast	Tomsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	174	19045	14169		199			0		2.43	169.71	210.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Trentino	Trentino	2020-12-04		674	16406	13200	385118				239		7.29	190.43	151.29	http://www.salute.gov.it/
 Troms_og_Finnmark	Troms og Finnmark	2020-12-04	2020-12-03T12:00:00.000Z		860									2.29		https://www.fhi.no/
 Tula_Oblast	Tula Oblast	2020-12-04	2020-12-03T08:00:00.000Z	497	17120	15072		175			0		2.86	147.29	139.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tulln_District	Tulln District	2020-12-04	2020-12-03T21:00:00.000Z		2435									19.86		https://info.gesundheitsministerium.at/
 Turkey	Turkey	2020-12-04		14316	520167	418331	19143746						160.71	5567.0	3673.57	https://covid19.saglik.gov.tr/
 Turkistan_Region	Turkistan Region	2020-12-04		46	3495	3400							0.0	3.43	2.57	https://www.coronavirus2020.kz/
+Tuscany	Tuscany	2020-12-04		2756	105804	67618	1606027				929		34.29	765.71	2317.29	http://www.salute.gov.it/
 Tuva	Tuva	2020-12-04	2020-12-03T08:00:00.000Z	138	12676	11600		92			0		0.71	80.14	77.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tver_Oblast	Tver Oblast	2020-12-04	2020-12-03T08:00:00.000Z	394	15781	10940		213			0		3.0	180.43	205.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tyrol_(state)	Tyrol (state)	2020-12-04	2020-12-03T21:00:00.000Z	357		30193							10.0		573.29	https://info.gesundheitsministerium.at/
 Tyumen_Oblast	Tyumen Oblast	2020-12-04	2020-12-03T08:00:00.000Z	135	18749	15388		162			0		0.57	138.43	316.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Udmurtia	Udmurtia	2020-12-04	2020-12-03T08:00:00.000Z	292	13900	11263		179			0		1.71	150.29	90.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Ulyanovsk_Oblast	Ulyanovsk Oblast	2020-12-04	2020-12-03T08:00:00.000Z	355	28373	24560		261			0		3.57	217.86	309.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Umbria	Umbria	2020-12-04		440	24516	17314	428429				286		8.14	204.86	523.57	http://www.salute.gov.it/
 United_Arab_Emirates	United Arab Emirates	2020-12-04	2020-12-03T10:02:00.000Z	585	172751	157035	17126504						2.57	1071.57	618.14	https://covid19.ncema.gov.ae/
 Upper_Austria	Upper Austria	2020-12-04	2020-12-03T21:00:00.000Z	618		52106							19.57		1133.86	https://info.gesundheitsministerium.at/
+Veneto	Veneto	2020-12-04		3982	154490	79905	2841581				3581		60.14	2430.86	3268.57	http://www.salute.gov.it/
 Vestfold_og_Telemark	Vestfold og Telemark	2020-12-04	2020-12-03T12:00:00.000Z		1252									10.57		https://www.fhi.no/
 Vestland	Vestland	2020-12-04	2020-12-03T12:00:00.000Z		5144									14.86		https://www.fhi.no/
 Vienna	Vienna	2020-12-04	2020-12-03T21:00:00.000Z	700		51310							12.29		863.57	https://info.gesundheitsministerium.at/
 Vietnam	Vietnam	2020-12-04		35	1361	1209							0.0	3.14	5.57	https://ncov.moh.gov.vn/
 Viken_(county)	Viken (county)	2020-12-04	2020-12-03T12:00:00.000Z		11102									118.43		https://www.fhi.no/
-Villach	Villach	2020-12-04	2020-12-03T21:00:00.000Z		1472									19.0		https://info.gesundheitsministerium.at/
+Villach	Villach	2020-12-04	2020-12-03T21:00:00.000Z		1479									20.0		https://info.gesundheitsministerium.at/
 Vladimir_Oblast	Vladimir Oblast	2020-12-04	2020-12-03T08:00:00.000Z	335	13656	12049		140			0		3.14	118.43	208.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Voitsberg_District	Voitsberg District	2020-12-04	2020-12-03T21:00:00.000Z		1623									19.71		https://info.gesundheitsministerium.at/
+Voitsberg_District	Voitsberg District	2020-12-04	2020-12-03T21:00:00.000Z		1640									22.14		https://info.gesundheitsministerium.at/
 Volgograd_Oblast	Volgograd Oblast	2020-12-04	2020-12-03T08:00:00.000Z	321	27904	26338		249			0		3.43	209.86	183.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Vologda_Oblast	Vologda Oblast	2020-12-04	2020-12-03T08:00:00.000Z	188	13197	10699		359			0		8.86	271.29	127.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Vorarlberg	Vorarlberg	2020-12-04	2020-12-03T21:00:00.000Z	141		13724							3.43		244.43	https://info.gesundheitsministerium.at/
 Voronezh_Oblast	Voronezh Oblast	2020-12-04	2020-12-03T08:00:00.000Z	648	35468	33238		353			0		12.43	289.43	244.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-12-04	2020-12-03T21:00:00.000Z		704									7.43		https://info.gesundheitsministerium.at/
+Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-12-04	2020-12-03T21:00:00.000Z		708									8.0		https://info.gesundheitsministerium.at/
 Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-12-04	2020-12-03T21:00:00.000Z		355									6.0		https://info.gesundheitsministerium.at/
-Weiz_District	Weiz District	2020-12-04	2020-12-03T21:00:00.000Z		2095									22.43		https://info.gesundheitsministerium.at/
+Weiz_District	Weiz District	2020-12-04	2020-12-03T21:00:00.000Z		2115									25.29		https://info.gesundheitsministerium.at/
 Wels	Wels	2020-12-04	2020-12-03T21:00:00.000Z		2639									27.43		https://info.gesundheitsministerium.at/
 West_Kazakhstan_Region	West Kazakhstan Region	2020-12-04		131	8140	7326							0.0	32.57	19.71	https://www.coronavirus2020.kz/
-Wiener_Neustadt	Wiener Neustadt	2020-12-04	2020-12-03T21:00:00.000Z		1371									14.71		https://info.gesundheitsministerium.at/
+Wiener_Neustadt	Wiener Neustadt	2020-12-04	2020-12-03T21:00:00.000Z		1374									15.14		https://info.gesundheitsministerium.at/
 Wolfsberg_District	Wolfsberg District	2020-12-04	2020-12-03T21:00:00.000Z		1799									40.71		https://info.gesundheitsministerium.at/
 Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2020-12-04	2020-12-03T08:00:00.000Z	268	26931	18419		191			0		2.57	167.86	156.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Yaroslavl_Oblast	Yaroslavl Oblast	2020-12-04	2020-12-03T08:00:00.000Z	91	16990	16005		186			0		1.14	159.0	150.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Zabaykalsky_Krai	Zabaykalsky Krai	2020-12-04	2020-12-03T08:00:00.000Z	335	20032	18380		265			0		4.71	228.29	243.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Zwettl_District	Zwettl District	2020-12-04	2020-12-03T21:00:00.000Z		1300									20.14		https://info.gesundheitsministerium.at/
+Zwettl_District	Zwettl District	2020-12-04	2020-12-03T21:00:00.000Z		1301									20.29		https://info.gesundheitsministerium.at/
