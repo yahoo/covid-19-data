@@ -344,6 +344,7 @@ id	type	woeId	label	wikiId	countryCode	stateCode	countyCode	longitude	latitude	p
 29653,_Hodges,_South_Carolina,_South_Carolina	PostalZip	12770337	29653, Hodges, South Carolina, South Carolina					-82.23196	34.30126		Hodges,_South_Carolina
 29654,_Honea_Path,_South_Carolina,_South_Carolina	PostalZip	12770338	29654, Honea Path, South Carolina, South Carolina					-82.3648	34.46612		Honea_Path,_South_Carolina
 29655,_Iva,_South_Carolina,_South_Carolina	PostalZip	12770339	29655, Iva, South Carolina, South Carolina					-82.6426	34.27002		Iva,_South_Carolina
+29656,_La_France,_South_Carolina,_South_Carolina	PostalZip	12770340	29656, La France, South Carolina, South Carolina					-82.76519	34.6119		La_France,_South_Carolina
 29657,_Liberty,_South_Carolina,_South_Carolina	PostalZip	12770341	29657, Liberty, South Carolina, South Carolina					-82.68868	34.76643		Liberty,_South_Carolina
 29658,_Long_Creek,_South_Carolina,_South_Carolina	PostalZip	12770342	29658, Long Creek, South Carolina, South Carolina					-83.29872	34.75871		Long_Creek,_South_Carolina
 29659,_Lowndesville,_South_Carolina,_South_Carolina	PostalZip	12770343	29659, Lowndesville, South Carolina, South Carolina					-82.64529	34.21047		Lowndesville,_South_Carolina
@@ -1911,7 +1912,7 @@ Boyd_County,_Nebraska	CountyAdminArea	12589145	Boyd County, Nebraska	Boyd_County
 Boyle_County,_Kentucky	CountyAdminArea	12588486	Boyle County, Kentucky	Boyle_County,_Kentucky			21021	-84.84562	37.62464	30060	Kentucky
 Boylston,_Massachusetts	CityTown	2367708	Boylston, Massachusetts	Boylston,_Massachusetts				-71.7538	42.3255	4355	Worcester_County,_Massachusetts
 Bracken_County,_Kentucky	CountyAdminArea	12588487	Bracken County, Kentucky	Bracken_County,_Kentucky			21023	-84.06996	38.68862	8303	Kentucky
-Bracknell_Forest	CountyAdminArea|TertiaryAdminArea	12696164	Bracknell Forest	Bracknell_Forest				-0.73424	51.40003	121676	South_East_England
+Bracknell_Forest	TertiaryAdminArea	12696164	Bracknell Forest	Bracknell_Forest				-0.73424	51.40003	121676	South_East_England
 Bradbury,_California	CountyAdminArea|CityTown	2367789	Bradbury, California	Bradbury,_California				-117.96829	34.15341	1048	Los_Angeles_County,_California
 Bradford_County,_Florida	CountyAdminArea	12587806	Bradford County, Florida	Bradford_County,_Florida			12007	-82.23244	29.93076	28201	Florida
 Bradford_County,_Pennsylvania	CountyAdminArea	12589735	Bradford County, Pennsylvania	Bradford_County,_Pennsylvania			42015	-76.52108	41.77197	60323	Pennsylvania
@@ -4937,7 +4938,7 @@ Morris_County,_New_Jersey	CountyAdminArea	12589271	Morris County, New Jersey	Mor
 Morris_County,_Texas	CountyAdminArea	12590178	Morris County, Texas	Morris_County,_Texas			48343	-94.73604	33.12272	12388	Texas
 Morris,_Illinois	CountyAdminArea|CityTown	2454257	Morris, Illinois	Morris,_Illinois				-88.42495	41.35869	13636	Grundy_County,_Illinois
 Morrison_County,_Minnesota	CountyAdminArea	12588845	Morrison County, Minnesota	Morrison_County,_Minnesota			27097	-94.20852	46.06126	33386	Minnesota
-Morrison,_Illinois	CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
+Morrison,_Illinois	CountyAdminArea|CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
 Morrow_County,_Ohio	CountyAdminArea	12589585	Morrow County, Ohio	Morrow_County,_Ohio			39117	-82.82287	40.52887	35328	Ohio
 Morrow_County,_Oregon	CountyAdminArea	12589716	Morrow County, Oregon	Morrow_County,_Oregon			41049	-119.57607	45.46	11603	Oregon
 Mortágua	CountyAdminArea|CityTown		Mortágua	Mortágua				-8.233334	40.433334		
@@ -5050,7 +5051,7 @@ New_Mexico	StateAdminArea	2347590	New Mexico	New_Mexico		US-NM		-106.1084	34.421
 New_Orleans	CountyAdminArea|CityTown	2458833	New Orleans	New_Orleans			22071	-89.93136	30.06887	390144	Louisiana
 New_Salem,_Massachusetts	CountyAdminArea|CityTown	2458950	New Salem, Massachusetts	New_Salem,_Massachusetts				-72.33192	42.50167	990	Franklin_County,_Massachusetts
 New_Shoreham,_Rhode_Island	CityTown	2458985	New Shoreham, Rhode Island	New_Shoreham,_Rhode_Island				-71.57337	41.17749	1051	Washington_County,_Rhode_Island
-New_South_Wales	StateAdminArea	2344700	New South Wales	New_South_Wales				147.00789	-32.16584	8157735	Australia
+New_South_Wales	StateAdminArea	2344700	New South Wales	New_South_Wales				147.00789	-32.16584	8357735	Australia
 New_York_(state)	StateAdminArea	2347591	New York (state)	New_York_(state)		US-NY		-76.50167	42.85535	19453561	United_States
 New_York_City	CityTown	2459115	New York City	New_York_City				-74.00712	40.71455	8175133	New_York_(state)
 New_Zealand	Country|Island	23424916	New Zealand	New_Zealand	NZ			170.37099	-43.58678	4841000	Earth
@@ -5197,7 +5198,7 @@ Oakland_County,_Michigan	CountyAdminArea	12588776	Oakland County, Michigan	Oakla
 Oaks,_Oklahoma	CityTown	2463786	Oaks, Oklahoma	Oaks,_Oklahoma				-94.85451	36.17086	288	Delaware_County,_Oklahoma
 Oberpullendorf_District	CountyAdminArea	12591662	Oberpullendorf District	Oberpullendorf_District				16.49764	47.5045	37587	Burgenland
 Oberwart_District	CountyAdminArea	12591656	Oberwart District	Oberwart_District				16.25265	47.28721	53630	Burgenland
-Óbidos,_Portugal	CityTown	744639	Óbidos, Portugal	Óbidos,_Portugal				-9.15838	39.35784		Portugal
+Óbidos,_Portugal	CountyAdminArea|CityTown	744639	Óbidos, Portugal	Óbidos,_Portugal				-9.15838	39.35784		Portugal
 Obion_County,_Tennessee	CountyAdminArea	12589977	Obion County, Tennessee	Obion_County,_Tennessee			47131	-89.14982	36.35437	30069	Tennessee
 Occitanie	StateAdminArea		Occitanie	Occitanie				3.283	43.892	5839867	France
 Ocean_County,_New_Jersey	CountyAdminArea	12589272	Ocean County, New Jersey	Ocean_County,_New_Jersey			34029	-74.2921	39.8477	607186	New_Jersey
@@ -5212,7 +5213,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown	744649	Odivelas	Odivelas				-9.17687	38.79129		Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295		Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	20997	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	50643	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
