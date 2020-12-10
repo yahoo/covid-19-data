@@ -1,4 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Abruzzo	Abruzzo	2020-12-10		1003	30974	13650	446996				264		9.0	254.0	460.29	http://www.salute.gov.it/
 Acre_(state)	Acre (state)	2020-12-10	2020-12-09T22:00:00.000Z	742	37672								1.71	110.43		https://covid.saude.gov.br/
 Adygea	Adygea	2020-12-10	2020-12-09T08:50:00.000Z	71	8927	7115		98			0		0.57	83.57	57.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2020-12-10	2020-12-09T12:00:00.000Z		1092									4.86		https://www.fhi.no/
@@ -12,62 +13,182 @@ Altai_Republic	Altai Republic	2020-12-10	2020-12-09T08:50:00.000Z	47	12014	11601
 Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-12-10	2020-12-09T22:00:00.000Z	4973	184268								5.86	489.43		https://covid.saude.gov.br/
 Amstetten_District	Amstetten District	2020-12-10	2020-12-09T21:00:00.000Z		4804									46.71		https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2020-12-10	2020-12-09T08:50:00.000Z	98	12720	11089		144			0		0.0	125.57	259.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Antofagasta_Region	Antofagasta Region	2020-12-10	2020-12-09T04:00:00.000Z	567	22429	21678							0.43	23.0	24.0	https://www.minsal.cl/
+Aosta_Valley	Aosta Valley	2020-12-10		343	6783	5584	56847				17		2.71	23.43	58.14	http://www.salute.gov.it/
+Appling_County,_Georgia	Appling County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	42	1378								0.14	4.57		https://dph.georgia.gov/
+Apulia	Apulia	2020-12-10		1779	67174	17325	855898				917		27.29	1132.14	201.86	http://www.salute.gov.it/
+Araucanía_Region	Araucanía Region	2020-12-10	2020-12-09T04:00:00.000Z	250	19057	17859							2.0	149.71	142.14	https://www.minsal.cl/
+Arica_y_Parinacota_Region	Arica y Parinacota Region	2020-12-10	2020-12-09T04:00:00.000Z	211	10340	10033							0.43	10.71	12.29	https://www.minsal.cl/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2020-12-10	2020-12-09T08:50:00.000Z	358	34792	24799		396			0		1.14	340.14	401.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Astrakhan_Oblast	Astrakhan Oblast	2020-12-10	2020-12-09T08:50:00.000Z	287	15109	10681		160			0		3.0	133.14	98.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Atacama_Region	Atacama Region	2020-12-10	2020-12-09T04:00:00.000Z	107	8238	8074							0.14	8.71	10.86	https://www.minsal.cl/
+Atkinson_County,_Georgia	Atkinson County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	9	629								0.0	3.14		https://dph.georgia.gov/
 Atyrau_Region	Atyrau Region	2020-12-10		86	11933	11455							0.71	32.14	15.14	https://www.coronavirus2020.kz/
 Austria	Austria	2020-12-10	2020-12-09T21:00:00.000Z	3836	311251	265815	3281731						74.0	2360.0	3955.43	https://info.gesundheitsministerium.at/
+Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2020-12-10		5804		24527							48.57		175.14	https://www.santepubliquefrance.fr/
+Aysén_Region	Aysén Region	2020-12-10	2020-12-09T04:00:00.000Z	15	1312	1254							0.14	5.57	4.86	https://www.minsal.cl/
+Bacon_County,_Georgia	Bacon County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	24	779								0.0	2.14		https://dph.georgia.gov/
 Baden_District,_Austria	Baden District, Austria	2020-12-10	2020-12-09T21:00:00.000Z		3642									30.71		https://info.gesundheitsministerium.at/
+Baden-Württemberg	Baden-Württemberg	2020-12-10	2020-12-10	3229	174948	0										https://www.rki.de/
 Bahia	Bahia	2020-12-10	2020-12-09T22:00:00.000Z	8502	431786								23.71	2728.71		https://covid.saude.gov.br/
 Bahrain	Bahrain	2020-12-10	2020-12-10T00:00:00.000Z	347	88495	86518	2149366	201	1	170	18	-2	0.86	175.0	150.71	https://www.moh.gov.bh/COVID19
+Baker_County,_Georgia	Baker County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	6	130								0.0	0.43		https://dph.georgia.gov/
+Baldwin_County,_Georgia	Baldwin County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	73	2787								0.14	9.29		https://dph.georgia.gov/
+Banks_County,_Georgia	Banks County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	13	913								0.0	11.57		https://dph.georgia.gov/
 Banteay_Meanchey_Province	Banteay Meanchey Province	2020-12-10	2020-12-10T07:00:00.000Z		5			0			0			0.0		http://www.cdcmoh.gov.kh/
+Barrow_County,_Georgia	Barrow County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	60	3902								0.29	41.29		https://dph.georgia.gov/
+Bartow_County,_Georgia	Bartow County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	110	5836								0.29	61.71		https://dph.georgia.gov/
 Bashkortostan	Bashkortostan	2020-12-10	2020-12-09T08:50:00.000Z	94	15560	12702		148			0		1.14	124.43	70.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2020-12-10		183	9140	2673	163306				35		3.57	79.14	92.86	http://www.salute.gov.it/
 Battambang_Province	Battambang Province	2020-12-10	2020-12-10T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
-Belgium	Belgium	2020-12-10	2020-12-09T00:00:00.000Z	17507	594572		6145774						61.86	1171.29		https://epistat.wiv-isp.be/Covid/
+Bavaria	Bavaria	2020-12-10	2020-12-10	4621	243797	0										https://www.rki.de/
+Belarus	Belarus	2020-12-10	2020-12-09T03:00:00.000Z	1230	152453	129950	3487468						7.0	1549.14	1575.14	http://stopcovid.belta.by/
+Belgium	Belgium	2020-12-10	2020-12-10	17507	597643		6145774	3071	0		1114	-121	61.86	1610.0		https://epistat.wiv-isp.be/Covid/
 Belgorod_Oblast	Belgorod Oblast	2020-12-10	2020-12-09T08:50:00.000Z	116	17791	15726		179			0		3.71	152.71	102.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ben_Hill_County,_Georgia	Ben Hill County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	40	1144								0.0	12.57		https://dph.georgia.gov/
+Berlin	Berlin	2020-12-10	2020-12-10	749	74552	0										https://www.rki.de/
+Berrien_County,_Georgia	Berrien County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	29	809								0.0	6.29		https://dph.georgia.gov/
+Bibb_County,_Georgia	Bibb County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	243	8255								0.57	56.14		https://dph.georgia.gov/
+Biobío_Region	Biobío Region	2020-12-10	2020-12-09T04:00:00.000Z	641	39258	36598							2.57	261.0	245.14	https://www.minsal.cl/
+Bleckley_County,_Georgia	Bleckley County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	33	748								0.0	4.14		https://dph.georgia.gov/
 Bludenz_District	Bludenz District	2020-12-10	2020-12-09T21:00:00.000Z		2532									23.43		https://info.gesundheitsministerium.at/
+Bourgogne-Franche-Comté	Bourgogne-Franche-Comté	2020-12-10		2130		8173							19.0		59.86	https://www.santepubliquefrance.fr/
+Brandenburg	Brandenburg	2020-12-10	2020-12-10	444	23892	0										https://www.rki.de/
+Brantley_County,_Georgia	Brantley County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	19	850								-0.14	4.57		https://dph.georgia.gov/
 Braunau_am_Inn_District	Braunau am Inn District	2020-12-10	2020-12-09T21:00:00.000Z		3663									36.29		https://info.gesundheitsministerium.at/
 Brazil	Brazil	2020-12-10	2020-12-09T22:00:00.000Z	178995	6728452	5901511			836			0	532.14	34481.14	25214.43	https://covid.saude.gov.br/
+Bremen_(state)	Bremen (state)	2020-12-10	2020-12-10	147	11184	0										https://www.rki.de/
+Brittany_(administrative_region)	Brittany (administrative region)	2020-12-10		599		2984							4.29		14.0	https://www.santepubliquefrance.fr/
+Brooks_County,_Georgia	Brooks County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	30	784								0.0	7.43		https://dph.georgia.gov/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2020-12-10	2020-12-09T21:00:00.000Z		2399									24.0		https://info.gesundheitsministerium.at/
+Bryan_County,_Georgia	Bryan County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	18	1595								0.0	6.71		https://dph.georgia.gov/
 Bryansk_Oblast	Bryansk Oblast	2020-12-10	2020-12-09T08:50:00.000Z	156	18754	16431		185			0		2.43	147.71	182.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Bulloch_County,_Georgia	Bulloch County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	56	3887								0.0	12.29		https://dph.georgia.gov/
 Burgenland	Burgenland	2020-12-10	2020-12-09T21:00:00.000Z	121		7084							2.57		111.71	https://info.gesundheitsministerium.at/
+Burke_County,_Georgia	Burke County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	16	1334								0.14	9.86		https://dph.georgia.gov/
 Buryatia	Buryatia	2020-12-10	2020-12-09T08:50:00.000Z	492	21126	18942		239			0		6.57	207.29	225.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Butts_County,_Georgia	Butts County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	47	1223								0.14	13.43		https://dph.georgia.gov/
+Calabria	Calabria	2020-12-10		366	19006	8513	387883				139		6.29	209.14	269.14	http://www.salute.gov.it/
+Calhoun_County,_Georgia	Calhoun County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	11	332								0.0	3.29		https://dph.georgia.gov/
 Cambodia	Cambodia	2020-12-10	2020-12-10T07:00:00.000Z	0	356	307		2	0	0	-2	0	0.0	3.57	0.43	http://www.cdcmoh.gov.kh/
+Camden_County,_Georgia	Camden County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	21	1989								0.14	10.86		https://dph.georgia.gov/
+Campania	Campania	2020-12-10		2108	168794	69473	1737112				1361		41.43	1175.0	1899.43	http://www.salute.gov.it/
+Candler_County,_Georgia	Candler County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	35	621								0.0	0.57		https://dph.georgia.gov/
 Carinthia	Carinthia	2020-12-10	2020-12-09T21:00:00.000Z	250		14797							14.14		348.86	https://info.gesundheitsministerium.at/
+Carroll_County,_Georgia	Carroll County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	102	6181								0.71	50.29		https://dph.georgia.gov/
+Catoosa_County,_Georgia	Catoosa County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	35	2444								0.71	34.0		https://dph.georgia.gov/
+Centre-Val_de_Loire	Centre-Val de Loire	2020-12-10		1120		4754							8.43		32.29	https://www.santepubliquefrance.fr/
+Charlton_County,_Georgia	Charlton County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	19	851								0.14	4.29		https://dph.georgia.gov/
+Chatham_County,_Georgia	Chatham County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	215	11535								0.57	54.43		https://dph.georgia.gov/
+Chattahoochee_County,_Georgia	Chattahoochee County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	3	2102								0.0	8.86		https://dph.georgia.gov/
+Chattooga_County,_Georgia	Chattooga County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	36	1376								0.43	11.43		https://dph.georgia.gov/
 Chechnya	Chechnya	2020-12-10	2020-12-09T08:50:00.000Z	81	5609	2849		144			0		1.43	125.43	28.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2020-12-10	2020-12-09T08:50:00.000Z	351	27935	22588		301			0		5.43	259.14	28.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Cherokee_County,_Georgia	Cherokee County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	118	11947								0.0	105.43		https://dph.georgia.gov/
+Chile	Chile	2020-12-10	2020-12-09T04:00:00.000Z	15690	564778	539171							24.43	1338.86	1243.0	https://www.minsal.cl/
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-12-10	2020-12-09T08:50:00.000Z	4	424	381		2			0		0.14	2.14	3.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2020-12-10	2020-12-09T08:50:00.000Z	340	13654	12415		123			0		6.0	104.57	44.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Clarke_County,_Georgia	Clarke County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	57	8571								0.14	53.57		https://dph.georgia.gov/
+Clay_County,_Georgia	Clay County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	3	151								0.0	0.14		https://dph.georgia.gov/
+Clayton_County,_Georgia	Clayton County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	212	11458								0.86	97.14		https://dph.georgia.gov/
+Clinch_County,_Georgia	Clinch County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	13	544								0.0	0.43		https://dph.georgia.gov/
+Cobb_County,_Georgia	Cobb County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	528	33230								1.57	286.86		https://dph.georgia.gov/
+Coffee_County,_Georgia	Coffee County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	81	3274								0.0	30.57		https://dph.georgia.gov/
+Colquitt_County,_Georgia	Colquitt County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	51	2751								0.43	14.86		https://dph.georgia.gov/
+Columbia_County,_Georgia	Columbia County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	85	7323								1.0	76.0		https://dph.georgia.gov/
+Cook_County,_Georgia	Cook County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	20	988								0.0	6.86		https://dph.georgia.gov/
+Coquimbo_Region	Coquimbo Region	2020-12-10	2020-12-09T04:00:00.000Z	274	13381	12917							0.29	27.57	23.14	https://www.minsal.cl/
+Corsica	Corsica	2020-12-10		113		486							0.14		1.29	https://www.santepubliquefrance.fr/
+Coweta_County,_Georgia	Coweta County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	76	6156								0.43	71.71		https://dph.georgia.gov/
+Crawford_County,_Georgia	Crawford County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	7	284								0.0	2.71		https://dph.georgia.gov/
+Crisp_County,_Georgia	Crisp County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	36	1010								0.0	7.57		https://dph.georgia.gov/
+Cuba	Cuba	2020-12-10		136	9106	8137							0.0	82.14	52.43	https://temas.sld.cu/
 Czech_Republic	Czech Republic	2020-12-10	2020-12-09T05:58:00.000Z	9136	556927	489759	3242280						73.0	3023.86	3971.71	https://onemocneni-aktualne.mzcr.cz/
+Dade_County,_Georgia	Dade County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	8	608								0.0	7.43		https://dph.georgia.gov/
 Dagestan	Dagestan	2020-12-10	2020-12-09T08:50:00.000Z	1018	20069	17764		127			0		5.86	106.14	59.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Dawson_County,_Georgia	Dawson County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	11	1310								0.0	14.14		https://dph.georgia.gov/
+Decatur_County,_Georgia	Decatur County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	46	1694								0.0	9.14		https://dph.georgia.gov/
+DeKalb_County,_Georgia	DeKalb County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	483	30346								2.0	262.43		https://dph.georgia.gov/
 Deutschlandsberg_District	Deutschlandsberg District	2020-12-10	2020-12-09T21:00:00.000Z		1287									13.71		https://info.gesundheitsministerium.at/
+Dodge_County,_Georgia	Dodge County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	56	1138								0.43	8.29		https://dph.georgia.gov/
+Dooly_County,_Georgia	Dooly County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	20	532								0.14	4.71		https://dph.georgia.gov/
 Dornbirn_District	Dornbirn District	2020-12-10	2020-12-09T21:00:00.000Z		4385									31.86		https://info.gesundheitsministerium.at/
-Earth	Earth	2020-12-10	2020-12-10T04:44:11.097Z	1558188	68083097								8946.86	497549.43	370296.0	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Dougherty_County,_Georgia	Dougherty County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	205	3997								0.0	21.14		https://dph.georgia.gov/
+Douglas_County,_Georgia	Douglas County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	98	6421								0.86	64.86		https://dph.georgia.gov/
+Early_County,_Georgia	Early County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	38	716								0.14	1.71		https://dph.georgia.gov/
+Earth	Earth	2020-12-10	2020-12-10T05:36:57.344Z	1559081	68144798								9074.43	506363.86	370674.57	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2020-12-10		302	17428	12291							3.0	108.29	118.71	https://www.coronavirus2020.kz/
+Echols_County,_Georgia	Echols County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	3	311								0.0	1.86		https://dph.georgia.gov/
 Eferding_District	Eferding District	2020-12-10	2020-12-09T21:00:00.000Z		1877									10.0		https://info.gesundheitsministerium.at/
+Effingham_County,_Georgia	Effingham County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	33	2294								0.0	6.71		https://dph.georgia.gov/
 Eisenstadt	Eisenstadt	2020-12-10	2020-12-09T21:00:00.000Z		417									5.0		https://info.gesundheitsministerium.at/
+Elbert_County,_Georgia	Elbert County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	30	1309								0.43	8.86		https://dph.georgia.gov/
+Emanuel_County,_Georgia	Emanuel County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	48	1493								0.14	5.57		https://dph.georgia.gov/
+Emilia-Romagna	Emilia-Romagna	2020-12-10		6314	138348	66191	2259395				1079		50.71	1496.86	2073.86	http://www.salute.gov.it/
+Evans_County,_Georgia	Evans County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	13	570								0.0	1.57		https://dph.georgia.gov/
+Fannin_County,_Georgia	Fannin County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	38	1134								0.0	10.86		https://dph.georgia.gov/
+Fayette_County,_Georgia	Fayette County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	65	3706								0.29	34.57		https://dph.georgia.gov/
 Federal_District_(Brazil)	Federal District (Brazil)	2020-12-10	2020-12-09T22:00:00.000Z	4032	236322								10.0	699.43		https://covid.saude.gov.br/
 Feldkirch_District	Feldkirch District	2020-12-10	2020-12-09T21:00:00.000Z		4559									43.43		https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2020-12-10	2020-12-09T21:00:00.000Z		929									11.86		https://info.gesundheitsministerium.at/
+Floyd_County,_Georgia	Floyd County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	96	6172								1.14	54.14		https://dph.georgia.gov/
+Forsyth_County,_Georgia	Forsyth County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	67	7860								0.43	81.86		https://dph.georgia.gov/
+France	France	2020-12-10		56648	2324216	173247							358.29	9555.0	901.0	https://www.santepubliquefrance.fr/
+Franklin_County,_Georgia	Franklin County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	24	1364								0.14	10.57		https://dph.georgia.gov/
 Freistadt_District	Freistadt District	2020-12-10	2020-12-09T21:00:00.000Z		3189									20.0		https://info.gesundheitsministerium.at/
-Germany	Germany	2020-12-10	2020-12-10	19932	1218524	902100		0	0	0	-20815	-590	332.86	15962.14	14585.71	https://www.rki.de/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-12-10		1122	37117	21040	783883				633		25.86	592.43	556.29	http://www.salute.gov.it/
+Fulton_County,_Georgia	Fulton County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	733	44901								2.71	395.86		https://dph.georgia.gov/
+Georgia_(U.S._state)	Georgia	2020-12-10	2020-12-09T18:50:10.000Z	9921	517779		4951990						39.0	4257.29		https://dph.georgia.gov/
+Germany	Germany	2020-12-10	2020-12-10	20372	1242203	922100		23679	440	20000	2864	-150	395.71	19344.86	17442.86	https://www.rki.de/
+Gilmer_County,_Georgia	Gilmer County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	33	1410								0.0	12.86		https://dph.georgia.gov/
+Glascock_County,_Georgia	Glascock County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	2	87								0.0	0.29		https://dph.georgia.gov/
+Glynn_County,_Georgia	Glynn County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	127	4497								0.86	15.71		https://dph.georgia.gov/
 Gmunden_District	Gmunden District	2020-12-10	2020-12-09T21:00:00.000Z		3660									32.29		https://info.gesundheitsministerium.at/
+Gordon_County,_Georgia	Gordon County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	60	3841								0.0	33.43		https://dph.georgia.gov/
+Grady_County,_Georgia	Grady County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	31	1074								0.0	4.86		https://dph.georgia.gov/
+Grand_Est	Grand Est	2020-12-10		5124		18853							32.86		79.29	https://www.santepubliquefrance.fr/
 Graz	Graz	2020-12-10	2020-12-09T21:00:00.000Z		7994									75.86		https://info.gesundheitsministerium.at/
+Greene_County,_Georgia	Greene County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	28	798								0.0	5.86		https://dph.georgia.gov/
 Greenland	Greenland	2020-12-10	2020-12-09T12:00:00.000Z	0	19	18	13871						0.0	0.14	0.0	https://www.sst.dk/
 Grieskirchen_District	Grieskirchen District	2020-12-10	2020-12-09T21:00:00.000Z		3366									20.29		https://info.gesundheitsministerium.at/
+Gwinnett_County,_Georgia	Gwinnett County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	554	44287								1.86	419.71		https://dph.georgia.gov/
+Habersham_County,_Georgia	Habersham County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	84	2658								0.14	27.86		https://dph.georgia.gov/
+Hall_County,_Georgia	Hall County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	208	14103								0.57	127.71		https://dph.georgia.gov/
+Hamburg	Hamburg	2020-12-10	2020-12-10	443	27696	0										https://www.rki.de/
+Hancock_County,_Georgia	Hancock County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	46	540								-0.14	0.86		https://dph.georgia.gov/
+Haralson_County,_Georgia	Haralson County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	29	1471								0.29	12.71		https://dph.georgia.gov/
+Harris_County,_Georgia	Harris County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	28	1118								0.0	6.43		https://dph.georgia.gov/
+Hart_County,_Georgia	Hart County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	29	1008								0.0	15.14		https://dph.georgia.gov/
+Hauts-de-France	Hauts-de-France	2020-12-10		3790		15560							22.29		85.29	https://www.santepubliquefrance.fr/
+Heard_County,_Georgia	Heard County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	8	453								0.14	4.71		https://dph.georgia.gov/
+Henry_County,_Georgia	Henry County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	143	9867								0.43	103.14		https://dph.georgia.gov/
 Hermagor_District	Hermagor District	2020-12-10	2020-12-09T21:00:00.000Z		605									10.14		https://info.gesundheitsministerium.at/
+Hesse	Hesse	2020-12-10	2020-12-10	1601	100900	0										https://www.rki.de/
 Hollabrunn_District	Hollabrunn District	2020-12-10	2020-12-09T21:00:00.000Z		1048									4.14		https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2020-12-10	2020-12-09T21:00:00.000Z		520									7.14		https://info.gesundheitsministerium.at/
+Houston_County,_Georgia	Houston County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	112	5482								0.57	57.29		https://dph.georgia.gov/
 Hungary	Hungary	2020-12-10	2020-12-09T06:48:00.000Z	6280	259588	76270	2187555						136.57	3963.43	1319.57	https://koronavirus.gov.hu/
+Île-de-France	Île-de-France	2020-12-10		11304		50895							35.71		174.71	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2020-12-10	2020-12-09T21:00:00.000Z		2509									21.57		https://info.gesundheitsministerium.at/
-India	India	2020-12-10	2020-12-09T02:30:00.000Z	141360	9735850	9215581							387.43	28698.0	34601.14	https://www.mohfw.gov.in/
+India	India	2020-12-10	2020-12-10T02:30:00.000Z	141772	9767371	9253306		31521	412	37725	-559	10	446.29	33201.0	39990.43	https://www.mohfw.gov.in/
+Indiana	Indiana	2020-12-10	2020-12-09T16:00:00.000Z	6506	398417		2352854	5853	98		0	0	67.57	5569.57		https://coronavirus.in.gov/
 Ingushetia	Ingushetia	2020-12-10	2020-12-09T08:50:00.000Z	120	10219	8752		87			0		0.86	71.29	70.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2020-12-10	2020-12-09T12:00:00.000Z		1976									28.29		https://www.fhi.no/
 Innsbruck	Innsbruck	2020-12-10	2020-12-09T21:00:00.000Z		5925									25.14		https://info.gesundheitsministerium.at/
 Irkutsk_Oblast	Irkutsk Oblast	2020-12-10	2020-12-09T08:50:00.000Z	900	34538	30443		263			0		10.0	232.43	176.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Irwin_County,_Georgia	Irwin County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	15	483								0.29	4.0		https://dph.georgia.gov/
+Italy	Italy	2020-12-10		61739	1770149	997895	23504588				12756		528.71	15045.71	21583.71	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2020-12-10	2020-12-09T08:50:00.000Z	313	17300	12473		169			0		7.29	142.0	88.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Jackson_County,_Georgia	Jackson County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	60	3922								0.29	48.29		https://dph.georgia.gov/
 Jambyl_Region	Jambyl Region	2020-12-10		61	4596	4291							0.0	18.43	11.43	https://www.coronavirus2020.kz/
+Jasper_County,_Georgia	Jasper County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	7	583								0.0	9.0		https://dph.georgia.gov/
+Jeff_Davis_County,_Georgia	Jeff Davis County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	34	1019								0.14	5.29		https://dph.georgia.gov/
+Jefferson_County,_Georgia	Jefferson County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	40	1066								0.0	5.71		https://dph.georgia.gov/
+Jenkins_County,_Georgia	Jenkins County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	34	505								0.0	0.43		https://dph.georgia.gov/
 Jennersdorf_District	Jennersdorf District	2020-12-10	2020-12-09T21:00:00.000Z		554									4.14		https://info.gesundheitsministerium.at/
 Jewish_Autonomous_Oblast	Jewish Autonomous Oblast	2020-12-10	2020-12-09T08:50:00.000Z	52	3219	2168		29			0		0.29	25.14	12.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Johnson_County,_Georgia	Johnson County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	32	544								0.14	1.71		https://dph.georgia.gov/
+Jones_County,_Georgia	Jones County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	24	867								0.43	6.0		https://dph.georgia.gov/
 Jordan	Jordan	2020-12-10	2020-12-09T17:43:00.000Z	3206	250219	202058							42.43	2711.71	4098.43	https://corona.moh.gov.jo/
 Kabardino-Balkaria	Kabardino-Balkaria	2020-12-10	2020-12-09T08:50:00.000Z	232	13594	11163		101			0		1.57	84.71	108.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kaliningrad_Oblast	Kaliningrad Oblast	2020-12-10	2020-12-09T08:50:00.000Z	130	13238	9956		217			0		1.43	171.57	147.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -82,6 +203,7 @@ Karachay-Cherkessia	Karachay-Cherkessia	2020-12-10	2020-12-09T08:50:00.000Z	36	1
 Karaganda_Region	Karaganda Region	2020-12-10		286	11358	10797							0.29	27.71	16.71	https://www.coronavirus2020.kz/
 Kazakhstan	Kazakhstan	2020-12-10	2020-12-09T11:31:12.000Z	2544	181721	123215							15.43	768.43	744.43	https://www.ecdc.europa.eu/
 Kemerovo_Oblast	Kemerovo Oblast	2020-12-10	2020-12-09T08:50:00.000Z	412	22350	18945		174			0		3.57	150.57	159.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kentucky	Kentucky	2020-12-10	2020-12-09T00:00:00.000Z	2118	209136	30540							14.86	2647.86	255.0	https://govstatus.egov.com/
 Kep_Province	Kep Province	2020-12-10	2020-12-10T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
 Khabarovsk_Krai	Khabarovsk Krai	2020-12-10	2020-12-09T08:50:00.000Z	172	27589	21491		335			0		1.43	288.29	394.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khakassia	Khakassia	2020-12-10	2020-12-09T08:50:00.000Z	154	13694	10222		180			0		2.29	155.14	149.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -102,22 +224,43 @@ Kurgan_Oblast	Kurgan Oblast	2020-12-10	2020-12-09T08:50:00.000Z	119	9645	8424		1
 Kursk_Oblast	Kursk Oblast	2020-12-10	2020-12-09T08:50:00.000Z	227	16798	14933		173			0		2.86	145.14	175.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kuwait	Kuwait	2020-12-10		905	145204	140989							3.0	232.86	330.71	https://corona.e.gov.kw/
 Kyzylorda_Region	Kyzylorda Region	2020-12-10		15	3304	3271							0.0	1.14	2.29	https://www.coronavirus2020.kz/
+Lamar_County,_Georgia	Lamar County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	27	792								0.14	7.14		https://dph.georgia.gov/
 Landeck_District	Landeck District	2020-12-10	2020-12-09T21:00:00.000Z		2226									12.29		https://info.gesundheitsministerium.at/
+Lanier_County,_Georgia	Lanier County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	10	420								0.0	1.0		https://dph.georgia.gov/
+Laurens_County,_Georgia	Laurens County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	118	2828								0.29	18.29		https://dph.georgia.gov/
+Lazio	Lazio	2020-12-10		2734	134425	37873	2398526				1297		31.43	1345.14	1179.57	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-12-10	2020-12-09T16:21:00.000Z	1156	140409	94042							12.71	1084.57	1414.29	https://corona.ministryinfo.gov.lb/
+Lee_County,_Georgia	Lee County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	33	1112								0.0	12.43		https://dph.georgia.gov/
 Leibnitz_District	Leibnitz District	2020-12-10	2020-12-09T21:00:00.000Z		2547									17.29		https://info.gesundheitsministerium.at/
 Leningrad_Oblast	Leningrad Oblast	2020-12-10	2020-12-09T08:50:00.000Z	164	18865	14849		218			0		2.29	183.86	297.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Leoben_District	Leoben District	2020-12-10	2020-12-09T21:00:00.000Z		1755									17.71		https://info.gesundheitsministerium.at/
+Liberty_County,_Georgia	Liberty County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	30	1664								0.14	10.0		https://dph.georgia.gov/
 Lienz_District	Lienz District	2020-12-10	2020-12-09T21:00:00.000Z		2130									19.0		https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2020-12-10	2020-12-09T21:00:00.000Z		2417									21.29		https://info.gesundheitsministerium.at/
+Liguria	Liguria	2020-12-10		2591	54364	42526	633457				191		20.29	224.29	519.86	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2020-12-10	2020-12-09T21:00:00.000Z		844									10.71		https://info.gesundheitsministerium.at/
+Lincoln_County,_Georgia	Lincoln County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	11	349								0.14	2.71		https://dph.georgia.gov/
 Linz	Linz	2020-12-10	2020-12-09T21:00:00.000Z		7620									51.43		https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2020-12-10	2020-12-09T08:50:00.000Z	152	12536	9843		152			0		3.86	126.57	59.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lithuania	Lithuania	2020-12-10	2020-12-09T18:41:00.000Z	704	80556	33708	1357723						20.0	1927.14	981.71	https://koronastop.lrv.lt
+Lombardy	Lombardy	2020-12-10		23277	433560	320380	4326540				1233		93.0	2077.86	6046.0	http://www.salute.gov.it/
+Long_County,_Georgia	Long County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	5	358								0.0	1.57		https://dph.georgia.gov/
+Los_Lagos_Region	Los Lagos Region	2020-12-10	2020-12-09T04:00:00.000Z	221	21831	20830							1.29	120.0	128.29	https://www.minsal.cl/
+Los_Ríos_Region	Los Ríos Region	2020-12-10	2020-12-09T04:00:00.000Z	62	6823	6222							0.57	67.71	67.86	https://www.minsal.cl/
 Lower_Austria	Lower Austria	2020-12-10	2020-12-09T21:00:00.000Z	602		39110							9.29		642.43	https://info.gesundheitsministerium.at/
+Lower_Saxony	Lower Saxony	2020-12-10	2020-12-10	1353	80894	0										https://www.rki.de/
+Lowndes_County,_Georgia	Lowndes County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	130	6914								0.29	43.86		https://dph.georgia.gov/
+Lumpkin_County,_Georgia	Lumpkin County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	20	1411								0.0	9.86		https://dph.georgia.gov/
+Macon_County,_Georgia	Macon County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	16	374								0.0	3.57		https://dph.georgia.gov/
+Madison_County,_Georgia	Madison County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	20	1351								0.14	18.0		https://dph.georgia.gov/
 Magadan_Oblast	Magadan Oblast	2020-12-10	2020-12-09T08:50:00.000Z	56	6088	5572		45			0		0.0	38.71	40.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Magallanes_Region	Magallanes Region	2020-12-10	2020-12-09T04:00:00.000Z	208	15168	14460							0.71	73.86	73.0	https://www.minsal.cl/
+Maine	Maine	2020-12-10	2020-12-09T15:00:00.000Z	246	14454	10338	1001035						3.71	271.43	86.43	https://www.maine.gov/
 Malaysia	Malaysia	2020-12-10	2020-12-09T04:00:00.000Z	393	76265	65124							2.43	1024.29	1029.57	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2020-12-10		54	3468	3384							0.29	3.86	0.14	https://www.coronavirus2020.kz/
+Marche	Marche	2020-12-10		1364	33060	18179	440236				229		9.43	288.57	1055.14	http://www.salute.gov.it/
 Mari_El	Mari El	2020-12-10	2020-12-09T08:50:00.000Z	101	8033	7137		53			0		0.86	43.86	49.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Marion_County,_Georgia	Marion County, Georgia	2020-12-10	2020-12-09T18:50:10.000Z	10	258								0.0	0.71		https://dph.georgia.gov/
 Mato_Grosso	Mato Grosso	2020-12-10	2020-12-09T22:00:00.000Z	4165	163861								8.14	511.0		https://covid.saude.gov.br/
 Mato_Grosso_do_Sul	Mato Grosso do Sul	2020-12-10	2020-12-09T22:00:00.000Z	1870	108549								9.43	901.86		https://covid.saude.gov.br/
 Mattersburg_District	Mattersburg District	2020-12-10	2020-12-09T21:00:00.000Z		1045									8.29		https://info.gesundheitsministerium.at/
