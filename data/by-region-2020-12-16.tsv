@@ -1,4 +1,560 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+29001,_Alcolu,_South_Carolina,_South_Carolina	29001, Alcolu, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		65			0			0			0.0		https://www.scdhec.gov/
+29003,_Bamberg,_South_Carolina,_South_Carolina	29003, Bamberg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		300			0			0			0.0		https://www.scdhec.gov/
+29009,_Bethune,_South_Carolina,_South_Carolina	29009, Bethune, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		52			0			0			0.0		https://www.scdhec.gov/
+29010,_Bishopville,_South_Carolina,_South_Carolina	29010, Bishopville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		481			0			0			0.0		https://www.scdhec.gov/
+29016,_Blythewood,_South_Carolina,_South_Carolina	29016, Blythewood, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		413			0			0			0.0		https://www.scdhec.gov/
+29018,_Bowman,_South_Carolina,_South_Carolina	29018, Bowman, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		99			0			0			0.0		https://www.scdhec.gov/
+29020,_Camden_station_(South_Carolina),_South_Carolina	29020, Camden station (South Carolina), South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		619			0			0			0.0		https://www.scdhec.gov/
+29030,_Cameron,_South_Carolina,_South_Carolina	29030, Cameron, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		65			0			0			0.0		https://www.scdhec.gov/
+29031,_Carlisle,_South_Carolina,_South_Carolina	29031, Carlisle, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29033,_Cayce,_South_Carolina,_South_Carolina	29033, Cayce, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		282			0			0			0.0		https://www.scdhec.gov/
+29036,_Chapin,_South_Carolina,_South_Carolina	29036, Chapin, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		473			0			0			0.0		https://www.scdhec.gov/
+29039,_Cordova,_South_Carolina,_South_Carolina	29039, Cordova, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		99			0			0			0.0		https://www.scdhec.gov/
+29040,_Dalzell,_South_Carolina,_South_Carolina	29040, Dalzell, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		166			0			0			0.0		https://www.scdhec.gov/
+29042,_Denmark,_South_Carolina,_South_Carolina	29042, Denmark, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		189			0			0			0.0		https://www.scdhec.gov/
+29044,_Eastover,_South_Carolina,_South_Carolina	29044, Eastover, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		113			0			0			0.0		https://www.scdhec.gov/
+29045,_Elgin,_Kershaw_County,_South_Carolina,_South_Carolina	29045, Elgin, Kershaw County, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		570			0			0			0.0		https://www.scdhec.gov/
+29047,_Elloree,_South_Carolina,_South_Carolina	29047, Elloree, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		131			0			0			0.0		https://www.scdhec.gov/
+29048,_Eutawville,_South_Carolina,_South_Carolina	29048, Eutawville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		123			0			0			0.0		https://www.scdhec.gov/
+29052,_Gadsden,_South_Carolina,_South_Carolina	29052, Gadsden, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		38			0			0			0.0		https://www.scdhec.gov/
+29053,_Gaston,_South_Carolina,_South_Carolina	29053, Gaston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		457			0			0			0.0		https://www.scdhec.gov/
+29054,_Gilbert,_South_Carolina,_South_Carolina	29054, Gilbert, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		163			0			0			0.0		https://www.scdhec.gov/
+29055,_Great_Falls,_South_Carolina,_South_Carolina	29055, Great Falls, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		128			0			0			0.0		https://www.scdhec.gov/
+29056,_Greeleyville,_South_Carolina,_South_Carolina	29056, Greeleyville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29058,_Heath_Springs,_South_Carolina,_South_Carolina	29058, Heath Springs, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		89			0			0			0.0		https://www.scdhec.gov/
+29059,_Holly_Hill,_South_Carolina,_South_Carolina	29059, Holly Hill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		191			0			0			0.0		https://www.scdhec.gov/
+29061,_Hopkins,_South_Carolina,_South_Carolina	29061, Hopkins, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		310			0			0			0.0		https://www.scdhec.gov/
+29063,_Irmo,_South_Carolina,_South_Carolina	29063, Irmo, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		625			0			0			0.0		https://www.scdhec.gov/
+29065,_Jenkinsville,_South_Carolina,_South_Carolina	29065, Jenkinsville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29067,_Kershaw,_South_Carolina,_South_Carolina	29067, Kershaw, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		166			0			0			0.0		https://www.scdhec.gov/
+29069,_Lamar,_South_Carolina,_South_Carolina	29069, Lamar, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		125			0			0			0.0		https://www.scdhec.gov/
+29072,_Lexington,_South_Carolina,_South_Carolina	29072, Lexington, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1202			0			0			0.0		https://www.scdhec.gov/
+29073,_Lexington,_South_Carolina,_South_Carolina	29073, Lexington, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		838			0			0			0.0		https://www.scdhec.gov/
+29075,_Little_Mountain,_South_Carolina,_South_Carolina	29075, Little Mountain, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		70			0			0			0.0		https://www.scdhec.gov/
+29078,_Lugoff,_South_Carolina,_South_Carolina	29078, Lugoff, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		331			0			0			0.0		https://www.scdhec.gov/
+29080,_Lynchburg,_South_Carolina,_South_Carolina	29080, Lynchburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		114			0			0			0.0		https://www.scdhec.gov/
+29081,_Ehrhardt,_South_Carolina,_South_Carolina	29081, Ehrhardt, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		33			0			0			0.0		https://www.scdhec.gov/
+29082,_Lodge,_South_Carolina,_South_Carolina	29082, Lodge, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29101,_McBee,_South_Carolina,_South_Carolina	29101, McBee, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		78			0			0			0.0		https://www.scdhec.gov/
+29102,_Manning,_South_Carolina,_South_Carolina	29102, Manning, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		569			0			0			0.0		https://www.scdhec.gov/
+29104,_Mayesville,_South_Carolina,_South_Carolina	29104, Mayesville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		36			0			0			0.0		https://www.scdhec.gov/
+29105,_Monetta,_South_Carolina,_South_Carolina	29105, Monetta, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		29			0			0			0.0		https://www.scdhec.gov/
+29107,_Neeses,_South_Carolina,_South_Carolina	29107, Neeses, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		57			0			0			0.0		https://www.scdhec.gov/
+29108,_Newberry,_South_Carolina,_South_Carolina	29108, Newberry, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		599			0			0			0.0		https://www.scdhec.gov/
+29112,_North,_South_Carolina,_South_Carolina	29112, North, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		157			0			0			0.0		https://www.scdhec.gov/
+29113,_Norway,_South_Carolina,_South_Carolina	29113, Norway, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		60			0			0			0.0		https://www.scdhec.gov/
+29114,_Olanta,_South_Carolina,_South_Carolina	29114, Olanta, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		80			0			0			0.0		https://www.scdhec.gov/
+29115,_Orangeburg,_South_Carolina,_South_Carolina	29115, Orangeburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1024			0			0			0.0		https://www.scdhec.gov/
+29117,_Orangeburg,_South_Carolina,_South_Carolina	29117, Orangeburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29118,_Orangeburg,_South_Carolina,_South_Carolina	29118, Orangeburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		454			0			0			0.0		https://www.scdhec.gov/
+29123,_Pelion,_South_Carolina,_South_Carolina	29123, Pelion, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		121			0			0			0.0		https://www.scdhec.gov/
+29125,_Pinewood,_South_Carolina,_South_Carolina	29125, Pinewood, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		93			0			0			0.0		https://www.scdhec.gov/
+29126,_Pomaria,_South_Carolina,_South_Carolina	29126, Pomaria, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		38			0			0			0.0		https://www.scdhec.gov/
+29127,_Prosperity,_South_Carolina,_South_Carolina	29127, Prosperity, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		180			0			0			0.0		https://www.scdhec.gov/
+29128,_Rembert,_South_Carolina,_South_Carolina	29128, Rembert, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		178			0			0			0.0		https://www.scdhec.gov/
+29129,_Ridge_Spring,_South_Carolina,_South_Carolina	29129, Ridge Spring, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		52			0			0			0.0		https://www.scdhec.gov/
+29130,_Ridgeway,_South_Carolina,_South_Carolina	29130, Ridgeway, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		215			0			0			0.0		https://www.scdhec.gov/
+29133,_Rowesville,_South_Carolina,_South_Carolina	29133, Rowesville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		21			0			0			0.0		https://www.scdhec.gov/
+29135,_St._Matthews,_South_Carolina,_South_Carolina	29135, St. Matthews, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		347			0			0			0.0		https://www.scdhec.gov/
+29137,_Salley,_South_Carolina,_South_Carolina	29137, Salley, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		57			0			0			0.0		https://www.scdhec.gov/
+29138,_Saluda,_South_Carolina,_South_Carolina	29138, Saluda, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		497			0			0			0.0		https://www.scdhec.gov/
+29142,_Santee,_South_Carolina,_South_Carolina	29142, Santee, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		217			0			0			0.0		https://www.scdhec.gov/
+29145,_Silverstreet,_South_Carolina,_South_Carolina	29145, Silverstreet, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29146,_Springfield,_South_Carolina,_South_Carolina	29146, Springfield, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		27			0			0			0.0		https://www.scdhec.gov/
+29148,_Summerton,_South_Carolina,_South_Carolina	29148, Summerton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		186			0			0			0.0		https://www.scdhec.gov/
+29150,_Sumter,_South_Carolina,_South_Carolina	29150, Sumter, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1142			0			0			0.0		https://www.scdhec.gov/
+29152,_Shaw_Air_Force_Base,_South_Carolina	29152, Shaw Air Force Base, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29153,_Sumter,_South_Carolina,_South_Carolina	29153, Sumter, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		424			0			0			0.0		https://www.scdhec.gov/
+29154,_Sumter,_South_Carolina,_South_Carolina	29154, Sumter, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		673			0			0			0.0		https://www.scdhec.gov/
+29160,_Swansea,_South_Carolina,_South_Carolina	29160, Swansea, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		134			0			0			0.0		https://www.scdhec.gov/
+29161,_Timmonsville,_South_Carolina,_South_Carolina	29161, Timmonsville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		339			0			0			0.0		https://www.scdhec.gov/
+29162,_Turbeville,_South_Carolina,_South_Carolina	29162, Turbeville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		98			0			0			0.0		https://www.scdhec.gov/
+29163,_Vance,_South_Carolina,_South_Carolina	29163, Vance, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		73			0			0			0.0		https://www.scdhec.gov/
+29164,_Wagener,_South_Carolina,_South_Carolina	29164, Wagener, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29166,_Ward,_South_Carolina,_South_Carolina	29166, Ward, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29168,_Wedgefield,_South_Carolina,_South_Carolina	29168, Wedgefield, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		75			0			0			0.0		https://www.scdhec.gov/
+29169,_West_Columbia,_South_Carolina,_South_Carolina	29169, West Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		639			0			0			0.0		https://www.scdhec.gov/
+29170,_West_Columbia,_South_Carolina,_South_Carolina	29170, West Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		439			0			0			0.0		https://www.scdhec.gov/
+29172,_West_Columbia,_South_Carolina,_South_Carolina	29172, West Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		177			0			0			0.0		https://www.scdhec.gov/
+29175,_Westville,_South_Carolina,_South_Carolina	29175, Westville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29178,_Whitmire,_South_Carolina,_South_Carolina	29178, Whitmire, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29180,_Winnsboro,_South_Carolina,_South_Carolina	29180, Winnsboro, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		347			0			0			0.0		https://www.scdhec.gov/
+29201,_Columbia,_South_Carolina,_South_Carolina	29201, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		744			0			0			0.0		https://www.scdhec.gov/
+29203,_Columbia,_South_Carolina,_South_Carolina	29203, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1077			0			0			0.0		https://www.scdhec.gov/
+29204,_Columbia,_South_Carolina,_South_Carolina	29204, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		442			0			0			0.0		https://www.scdhec.gov/
+29205,_Columbia,_South_Carolina,_South_Carolina	29205, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		499			0			0			0.0		https://www.scdhec.gov/
+29206,_Columbia,_South_Carolina,_South_Carolina	29206, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		380			0			0			0.0		https://www.scdhec.gov/
+29207,_Columbia,_South_Carolina,_South_Carolina	29207, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		624			0			0			0.0		https://www.scdhec.gov/
+29208,_Columbia,_South_Carolina,_South_Carolina	29208, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		53			0			0			0.0		https://www.scdhec.gov/
+29209,_Columbia,_South_Carolina,_South_Carolina	29209, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		735			0			0			0.0		https://www.scdhec.gov/
+29210,_Columbia,_South_Carolina,_South_Carolina	29210, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1900			0			0			0.0		https://www.scdhec.gov/
+29212,_Columbia,_South_Carolina,_South_Carolina	29212, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		438			0			0			0.0		https://www.scdhec.gov/
+29223,_Columbia,_South_Carolina,_South_Carolina	29223, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1318			0			0			0.0		https://www.scdhec.gov/
+29229,_Columbia,_South_Carolina,_South_Carolina	29229, Columbia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1008			0			0			0.0		https://www.scdhec.gov/
+29301,_Spartanburg,_South_Carolina,_South_Carolina	29301, Spartanburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		622			0			0			0.0		https://www.scdhec.gov/
+29302,_Spartanburg,_South_Carolina,_South_Carolina	29302, Spartanburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		297			0			0			0.0		https://www.scdhec.gov/
+29303,_Spartanburg,_South_Carolina,_South_Carolina	29303, Spartanburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		601			0			0			0.0		https://www.scdhec.gov/
+29306,_Spartanburg,_South_Carolina,_South_Carolina	29306, Spartanburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		275			0			0			0.0		https://www.scdhec.gov/
+29307,_Spartanburg,_South_Carolina,_South_Carolina	29307, Spartanburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		295			0			0			0.0		https://www.scdhec.gov/
+29316,_Boiling_Springs,_South_Carolina,_South_Carolina	29316, Boiling Springs, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		512			0			0			0.0		https://www.scdhec.gov/
+29320,_Arcadia,_South_Carolina,_South_Carolina	29320, Arcadia, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29321,_Buffalo,_South_Carolina,_South_Carolina	29321, Buffalo, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		48			0			0			0.0		https://www.scdhec.gov/
+29322,_Campobello,_South_Carolina,_South_Carolina	29322, Campobello, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		131			0			0			0.0		https://www.scdhec.gov/
+29323,_Chesnee,_South_Carolina,_South_Carolina	29323, Chesnee, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		254			0			0			0.0		https://www.scdhec.gov/
+29325,_Clinton,_South_Carolina,_South_Carolina	29325, Clinton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		575			0			0			0.0		https://www.scdhec.gov/
+29330,_Cowpens,_South_Carolina,_South_Carolina	29330, Cowpens, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		105			0			0			0.0		https://www.scdhec.gov/
+29332,_Cross_Hill,_South_Carolina,_South_Carolina	29332, Cross Hill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		63			0			0			0.0		https://www.scdhec.gov/
+29334,_Duncan,_South_Carolina,_South_Carolina	29334, Duncan, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		284			0			0			0.0		https://www.scdhec.gov/
+29335,_Enoree,_South_Carolina,_South_Carolina	29335, Enoree, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		84			0			0			0.0		https://www.scdhec.gov/
+29340,_Gaffney,_South_Carolina,_South_Carolina	29340, Gaffney, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		372			0			0			0.0		https://www.scdhec.gov/
+29341,_Gaffney,_South_Carolina,_South_Carolina	29341, Gaffney, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		344			0			0			0.0		https://www.scdhec.gov/
+29346,_Glendale,_South_Carolina,_South_Carolina	29346, Glendale, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29349,_Inman,_South_Carolina,_South_Carolina	29349, Inman, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		617			0			0			0.0		https://www.scdhec.gov/
+29351,_Joanna,_South_Carolina,_South_Carolina	29351, Joanna, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29353,_Jonesville,_South_Carolina,_South_Carolina	29353, Jonesville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		62			0			0			0.0		https://www.scdhec.gov/
+29355,_Kinards,_South_Carolina,_South_Carolina	29355, Kinards, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		17			0			0			0.0		https://www.scdhec.gov/
+29356,_Landrum,_South_Carolina,_South_Carolina	29356, Landrum, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		104			0			0			0.0		https://www.scdhec.gov/
+29360,_Laurens,_South_Carolina,_South_Carolina	29360, Laurens, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		512			0			0			0.0		https://www.scdhec.gov/
+29364,_Lockhart,_South_Carolina,_South_Carolina	29364, Lockhart, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29365,_Lyman,_South_Carolina,_South_Carolina	29365, Lyman, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		251			0			0			0.0		https://www.scdhec.gov/
+29368,_Mayo,_South_Carolina,_South_Carolina	29368, Mayo, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29369,_Moore,_South_Carolina,_South_Carolina	29369, Moore, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		209			0			0			0.0		https://www.scdhec.gov/
+29370,_Mountville,_South_Carolina,_South_Carolina	29370, Mountville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		21			0			0			0.0		https://www.scdhec.gov/
+29372,_Pacolet,_South_Carolina,_South_Carolina	29372, Pacolet, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		85			0			0			0.0		https://www.scdhec.gov/
+29374,_Pauline,_South_Carolina,_South_Carolina	29374, Pauline, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		54			0			0			0.0		https://www.scdhec.gov/
+29376,_Roebuck,_South_Carolina,_South_Carolina	29376, Roebuck, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		142			0			0			0.0		https://www.scdhec.gov/
+29377,_Startex,_South_Carolina,_South_Carolina	29377, Startex, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29379,_Union,_South_Carolina,_South_Carolina	29379, Union, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		333			0			0			0.0		https://www.scdhec.gov/
+29384,_Waterloo,_South_Carolina,_South_Carolina	29384, Waterloo, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		56			0			0			0.0		https://www.scdhec.gov/
+29385,_Wellford,_South_Carolina,_South_Carolina	29385, Wellford, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		182			0			0			0.0		https://www.scdhec.gov/
+29388,_Woodruff,_South_Carolina,_South_Carolina	29388, Woodruff, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		248			0			0			0.0		https://www.scdhec.gov/
+29401,_Charleston,_South_Carolina,_South_Carolina	29401, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		350			0			0			0.0		https://www.scdhec.gov/
+29403,_Charleston,_South_Carolina,_South_Carolina	29403, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1641			0			0			0.0		https://www.scdhec.gov/
+29405,_North_Charleston,_South_Carolina,_South_Carolina	29405, North Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1124			0			0			0.0		https://www.scdhec.gov/
+29406,_Charleston,_South_Carolina,_South_Carolina	29406, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1353			0			0			0.0		https://www.scdhec.gov/
+29407,_Charleston,_South_Carolina,_South_Carolina	29407, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1135			0			0			0.0		https://www.scdhec.gov/
+29409,_Charleston,_South_Carolina,_South_Carolina	29409, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29410,_Hanahan,_South_Carolina,_South_Carolina	29410, Hanahan, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		579			0			0			0.0		https://www.scdhec.gov/
+29412,_Charleston,_South_Carolina,_South_Carolina	29412, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1159			0			0			0.0		https://www.scdhec.gov/
+29414,_Charleston,_South_Carolina,_South_Carolina	29414, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1182			0			0			0.0		https://www.scdhec.gov/
+29418,_North_Charleston,_South_Carolina,_South_Carolina	29418, North Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		886			0			0			0.0		https://www.scdhec.gov/
+29420,_North_Charleston,_South_Carolina,_South_Carolina	29420, North Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		727			0			0			0.0		https://www.scdhec.gov/
+29424,_Charleston,_South_Carolina,_South_Carolina	29424, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29425,_Charleston,_South_Carolina,_South_Carolina	29425, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29426,_Adams_Run,_South_Carolina,_South_Carolina	29426, Adams Run, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		64			0			0			0.0		https://www.scdhec.gov/
+29429,_Awendaw,_South_Carolina,_South_Carolina	29429, Awendaw, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		108			0			0			0.0		https://www.scdhec.gov/
+29431,_Bonneau,_South_Carolina,_South_Carolina	29431, Bonneau, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		85			0			0			0.0		https://www.scdhec.gov/
+29432,_Branchville,_South_Carolina,_South_Carolina	29432, Branchville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		71			0			0			0.0		https://www.scdhec.gov/
+29435,_Cottageville,_South_Carolina,_South_Carolina	29435, Cottageville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		92			0			0			0.0		https://www.scdhec.gov/
+29436,_Cross,_South_Carolina,_South_Carolina	29436, Cross, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		83			0			0			0.0		https://www.scdhec.gov/
+29439,_Folly_Beach,_South_Carolina,_South_Carolina	29439, Folly Beach, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		43			0			0			0.0		https://www.scdhec.gov/
+29440,_Georgetown,_South_Carolina,_South_Carolina	29440, Georgetown, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		765			0			0			0.0		https://www.scdhec.gov/
+29445,_Goose_Creek,_South_Carolina,_South_Carolina	29445, Goose Creek, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1600			0			0			0.0		https://www.scdhec.gov/
+29448,_Harleyville,_South_Carolina,_South_Carolina	29448, Harleyville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		45			0			0			0.0		https://www.scdhec.gov/
+29449,_Hollywood,_South_Carolina,_South_Carolina	29449, Hollywood, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		305			0			0			0.0		https://www.scdhec.gov/
+29451,_Isle_of_Palms,_South_Carolina,_South_Carolina	29451, Isle of Palms, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		67			0			0			0.0		https://www.scdhec.gov/
+29452,_Jacksonboro,_South_Carolina,_South_Carolina	29452, Jacksonboro, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29453,_Jamestown,_South_Carolina,_South_Carolina	29453, Jamestown, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		29			0			0			0.0		https://www.scdhec.gov/
+29455,_Johns_Island,_South_Carolina,_South_Carolina	29455, Johns Island, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		748			0			0			0.0		https://www.scdhec.gov/
+29456,_Ladson,_South_Carolina,_South_Carolina	29456, Ladson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		936			0			0			0.0		https://www.scdhec.gov/
+29458,_McClellanville,_South_Carolina,_South_Carolina	29458, McClellanville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		69			0			0			0.0		https://www.scdhec.gov/
+29461,_Moncks_Corner,_South_Carolina,_South_Carolina	29461, Moncks Corner, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		894			0			0			0.0		https://www.scdhec.gov/
+29464,_Mount_Pleasant,_South_Carolina,_South_Carolina	29464, Mount Pleasant, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1592			0			0			0.0		https://www.scdhec.gov/
+29466,_Mount_Pleasant,_South_Carolina,_South_Carolina	29466, Mount Pleasant, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		794			0			0			0.0		https://www.scdhec.gov/
+29469,_Pinopolis,_South_Carolina,_South_Carolina	29469, Pinopolis, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29470,_Ravenel,_South_Carolina,_South_Carolina	29470, Ravenel, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		130			0			0			0.0		https://www.scdhec.gov/
+29471,_Reevesville,_South_Carolina,_South_Carolina	29471, Reevesville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		36			0			0			0.0		https://www.scdhec.gov/
+29472,_Ridgeville,_South_Carolina,_South_Carolina	29472, Ridgeville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		210			0			0			0.0		https://www.scdhec.gov/
+29474,_Round_O,_South_Carolina,_South_Carolina	29474, Round O, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		32			0			0			0.0		https://www.scdhec.gov/
+29477,_St._George,_South_Carolina,_South_Carolina	29477, St. George, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		175			0			0			0.0		https://www.scdhec.gov/
+29479,_St._Stephen,_South_Carolina,_South_Carolina	29479, St. Stephen, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		153			0			0			0.0		https://www.scdhec.gov/
+29481,_Smoaks,_South_Carolina,_South_Carolina	29481, Smoaks, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		83			0			0			0.0		https://www.scdhec.gov/
+29482,_Sullivan's_Island,_South_Carolina,_South_Carolina	29482, Sullivan's Island, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		43			0			0			0.0		https://www.scdhec.gov/
+29483,_Summerville,_South_Carolina,_South_Carolina	29483, Summerville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1279			0			0			0.0		https://www.scdhec.gov/
+29485,_Summerville,_South_Carolina,_South_Carolina	29485, Summerville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1180			0			0			0.0		https://www.scdhec.gov/
+29487,_Wadmalaw_Island,_South_Carolina	29487, Wadmalaw Island, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		89			0			0			0.0		https://www.scdhec.gov/
+29488,_Walterboro,_South_Carolina,_South_Carolina	29488, Walterboro, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		560			0			0			0.0		https://www.scdhec.gov/
+29492,_Charleston,_South_Carolina,_South_Carolina	29492, Charleston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		382			0			0			0.0		https://www.scdhec.gov/
+29493,_Williams,_South_Carolina,_South_Carolina	29493, Williams, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29501,_Florence,_South_Carolina,_South_Carolina	29501, Florence, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1577			0			0			0.0		https://www.scdhec.gov/
+29505,_Florence,_South_Carolina,_South_Carolina	29505, Florence, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		673			0			0			0.0		https://www.scdhec.gov/
+29506,_Florence,_South_Carolina,_South_Carolina	29506, Florence, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		600			0			0			0.0		https://www.scdhec.gov/
+29510,_Andrews,_South_Carolina,_South_Carolina	29510, Andrews, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		360			0			0			0.0		https://www.scdhec.gov/
+29511,_Aynor,_South_Carolina,_South_Carolina	29511, Aynor, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		103			0			0			0.0		https://www.scdhec.gov/
+29512,_Bennettsville,_South_Carolina,_South_Carolina	29512, Bennettsville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		525			0			0			0.0		https://www.scdhec.gov/
+29516,_Blenheim,_South_Carolina,_South_Carolina	29516, Blenheim, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		20			0			0			0.0		https://www.scdhec.gov/
+29518,_Cades,_South_Carolina,_South_Carolina	29518, Cades, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		48			0			0			0.0		https://www.scdhec.gov/
+29520,_Cheraw,_South_Carolina,_South_Carolina	29520, Cheraw, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		403			0			0			0.0		https://www.scdhec.gov/
+29525,_Clio,_South_Carolina,_South_Carolina	29525, Clio, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		64			0			0			0.0		https://www.scdhec.gov/
+29526,_Conway,_South_Carolina,_South_Carolina	29526, Conway, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1299			0			0			0.0		https://www.scdhec.gov/
+29527,_Conway,_South_Carolina,_South_Carolina	29527, Conway, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		602			0			0			0.0		https://www.scdhec.gov/
+29530,_Coward,_South_Carolina,_South_Carolina	29530, Coward, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		88			0			0			0.0		https://www.scdhec.gov/
+29532,_Darlington,_South_Carolina,_South_Carolina	29532, Darlington, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		590			0			0			0.0		https://www.scdhec.gov/
+29536,_Dillon,_South_Carolina,_South_Carolina	29536, Dillon, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		418			0			0			0.0		https://www.scdhec.gov/
+29540,_Darlington,_South_Carolina,_South_Carolina	29540, Darlington, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		159			0			0			0.0		https://www.scdhec.gov/
+29541,_Effingham,_South_Carolina,_South_Carolina	29541, Effingham, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		265			0			0			0.0		https://www.scdhec.gov/
+29544,_Galivants_Ferry,_South_Carolina,_South_Carolina	29544, Galivants Ferry, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		113			0			0			0.0		https://www.scdhec.gov/
+29545,_Green_Sea,_South_Carolina,_South_Carolina	29545, Green Sea, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		39			0			0			0.0		https://www.scdhec.gov/
+29547,_Hamer,_South_Carolina,_South_Carolina	29547, Hamer, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		77			0			0			0.0		https://www.scdhec.gov/
+29550,_Hartsville,_South_Carolina,_South_Carolina	29550, Hartsville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		793			0			0			0.0		https://www.scdhec.gov/
+29554,_Hemingway,_South_Carolina,_South_Carolina	29554, Hemingway, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		322			0			0			0.0		https://www.scdhec.gov/
+29555,_Johnsonville,_South_Carolina,_South_Carolina	29555, Johnsonville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		120			0			0			0.0		https://www.scdhec.gov/
+29556,_Kingstree,_South_Carolina,_South_Carolina	29556, Kingstree, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		544			0			0			0.0		https://www.scdhec.gov/
+29560,_Lake_City,_South_Carolina,_South_Carolina	29560, Lake City, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		462			0			0			0.0		https://www.scdhec.gov/
+29563,_Lake_View,_South_Carolina,_South_Carolina	29563, Lake View, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		71			0			0			0.0		https://www.scdhec.gov/
+29564,_Lane,_South_Carolina,_South_Carolina	29564, Lane, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		27			0			0			0.0		https://www.scdhec.gov/
+29565,_Latta,_South_Carolina,_South_Carolina	29565, Latta, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		194			0			0			0.0		https://www.scdhec.gov/
+29566,_Little_River,_South_Carolina,_South_Carolina	29566, Little River, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		494			0			0			0.0		https://www.scdhec.gov/
+29567,_Little_Rock,_South_Carolina,_South_Carolina	29567, Little Rock, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29568,_Longs,_South_Carolina,_South_Carolina	29568, Longs, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		404			0			0			0.0		https://www.scdhec.gov/
+29569,_Loris,_South_Carolina,_South_Carolina	29569, Loris, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		555			0			0			0.0		https://www.scdhec.gov/
+29570,_McColl,_South_Carolina,_South_Carolina	29570, McColl, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		93			0			0			0.0		https://www.scdhec.gov/
+29571,_Marion,_South_Carolina,_South_Carolina	29571, Marion, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		381			0			0			0.0		https://www.scdhec.gov/
+29572,_Myrtle_Beach,_South_Carolina,_South_Carolina	29572, Myrtle Beach, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		339			0			0			0.0		https://www.scdhec.gov/
+29574,_Mullins,_South_Carolina,_South_Carolina	29574, Mullins, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		232			0			0			0.0		https://www.scdhec.gov/
+29575,_Myrtle_Beach,_South_Carolina,_South_Carolina	29575, Myrtle Beach, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		446			0			0			0.0		https://www.scdhec.gov/
+29576,_Murrells_Inlet,_South_Carolina,_South_Carolina	29576, Murrells Inlet, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		798			0			0			0.0		https://www.scdhec.gov/
+29577,_Myrtle_Beach,_South_Carolina,_South_Carolina	29577, Myrtle Beach, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1125			0			0			0.0		https://www.scdhec.gov/
+29579,_Myrtle_Beach,_South_Carolina,_South_Carolina	29579, Myrtle Beach, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1301			0			0			0.0		https://www.scdhec.gov/
+29580,_Nesmith,_South_Carolina,_South_Carolina	29580, Nesmith, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		34			0			0			0.0		https://www.scdhec.gov/
+29581,_Nichols,_South_Carolina,_South_Carolina	29581, Nichols, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		94			0			0			0.0		https://www.scdhec.gov/
+29582,_North_Myrtle_Beach,_South_Carolina,_South_Carolina	29582, North Myrtle Beach, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		490			0			0			0.0		https://www.scdhec.gov/
+29583,_Pamplico,_South_Carolina,_South_Carolina	29583, Pamplico, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		118			0			0			0.0		https://www.scdhec.gov/
+29584,_Patrick,_South_Carolina,_South_Carolina	29584, Patrick, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29585,_Pawleys_Island,_South_Carolina,_South_Carolina	29585, Pawleys Island, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		370			0			0			0.0		https://www.scdhec.gov/
+29590,_Salters,_South_Carolina,_South_Carolina	29590, Salters, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		59			0			0			0.0		https://www.scdhec.gov/
+29591,_Scranton,_South_Carolina,_South_Carolina	29591, Scranton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		164			0			0			0.0		https://www.scdhec.gov/
+29592,_Sellers,_South_Carolina,_South_Carolina	29592, Sellers, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		34			0			0			0.0		https://www.scdhec.gov/
+29593,_Society_Hill,_South_Carolina,_South_Carolina	29593, Society Hill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		36			0			0			0.0		https://www.scdhec.gov/
+29596,_Wallace,_South_Carolina,_South_Carolina	29596, Wallace, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		45			0			0			0.0		https://www.scdhec.gov/
+29601,_Greenville,_South_Carolina,_South_Carolina	29601, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		444			0			0			0.0		https://www.scdhec.gov/
+29605,_Greenville,_South_Carolina,_South_Carolina	29605, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1039			0			0			0.0		https://www.scdhec.gov/
+29607,_Greenville,_South_Carolina,_South_Carolina	29607, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1005			0			0			0.0		https://www.scdhec.gov/
+29609,_Greenville,_South_Carolina,_South_Carolina	29609, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		743			0			0			0.0		https://www.scdhec.gov/
+29611,_Greenville,_South_Carolina,_South_Carolina	29611, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1159			0			0			0.0		https://www.scdhec.gov/
+29613,_Greenville,_South_Carolina,_South_Carolina	29613, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29615,_Greenville,_South_Carolina,_South_Carolina	29615, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		771			0			0			0.0		https://www.scdhec.gov/
+29617,_Greenville,_South_Carolina,_South_Carolina	29617, Greenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		866			0			0			0.0		https://www.scdhec.gov/
+29620,_Abbeville,_South_Carolina,_South_Carolina	29620, Abbeville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		199			0			0			0.0		https://www.scdhec.gov/
+29621,_Anderson,_South_Carolina,_South_Carolina	29621, Anderson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		994			0			0			0.0		https://www.scdhec.gov/
+29624,_Anderson,_South_Carolina,_South_Carolina	29624, Anderson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		335			0			0			0.0		https://www.scdhec.gov/
+29625,_Anderson,_South_Carolina,_South_Carolina	29625, Anderson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		478			0			0			0.0		https://www.scdhec.gov/
+29626,_Anderson,_South_Carolina,_South_Carolina	29626, Anderson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		247			0			0			0.0		https://www.scdhec.gov/
+29627,_Belton,_South_Carolina,_South_Carolina	29627, Belton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		259			0			0			0.0		https://www.scdhec.gov/
+29628,_Calhoun_Falls,_South_Carolina,_South_Carolina	29628, Calhoun Falls, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		49			0			0			0.0		https://www.scdhec.gov/
+29630,_Central,_South_Carolina,_South_Carolina	29630, Central, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		242			0			0			0.0		https://www.scdhec.gov/
+29631,_Clemson,_South_Carolina,_South_Carolina	29631, Clemson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		402			0			0			0.0		https://www.scdhec.gov/
+29634,_Clemson,_South_Carolina,_South_Carolina	29634, Clemson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		41			0			0			0.0		https://www.scdhec.gov/
+29638,_Donalds,_South_Carolina,_South_Carolina	29638, Donalds, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29639,_Due_West,_South_Carolina,_South_Carolina	29639, Due West, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		14			0			0			0.0		https://www.scdhec.gov/
+29640,_Easley,_South_Carolina,_South_Carolina	29640, Easley, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		585			0			0			0.0		https://www.scdhec.gov/
+29642,_Easley,_South_Carolina,_South_Carolina	29642, Easley, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		602			0			0			0.0		https://www.scdhec.gov/
+29643,_Fair_Play,_South_Carolina,_South_Carolina	29643, Fair Play, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29644,_Fountain_Inn,_South_Carolina,_South_Carolina	29644, Fountain Inn, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		384			0			0			0.0		https://www.scdhec.gov/
+29645,_Gray_Court,_South_Carolina,_South_Carolina	29645, Gray Court, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		177			0			0			0.0		https://www.scdhec.gov/
+29646,_Greenwood,_South_Carolina,_South_Carolina	29646, Greenwood, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1102			0			0			0.0		https://www.scdhec.gov/
+29649,_Greenwood,_South_Carolina,_South_Carolina	29649, Greenwood, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		565			0			0			0.0		https://www.scdhec.gov/
+29650,_Greer,_South_Carolina,_South_Carolina	29650, Greer, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		675			0			0			0.0		https://www.scdhec.gov/
+29651,_Greer,_South_Carolina,_South_Carolina	29651, Greer, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		983			0			0			0.0		https://www.scdhec.gov/
+29653,_Hodges,_South_Carolina,_South_Carolina	29653, Hodges, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		122			0			0			0.0		https://www.scdhec.gov/
+29654,_Honea_Path,_South_Carolina,_South_Carolina	29654, Honea Path, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		146			0			0			0.0		https://www.scdhec.gov/
+29655,_Iva,_South_Carolina,_South_Carolina	29655, Iva, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		107			0			0			0.0		https://www.scdhec.gov/
+29657,_Liberty,_South_Carolina,_South_Carolina	29657, Liberty, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		227			0			0			0.0		https://www.scdhec.gov/
+29658,_Long_Creek,_South_Carolina,_South_Carolina	29658, Long Creek, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		2			0			0			0.0		https://www.scdhec.gov/
+29659,_Lowndesville,_South_Carolina,_South_Carolina	29659, Lowndesville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29662,_Mauldin,_South_Carolina,_South_Carolina	29662, Mauldin, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		290			0			0			0.0		https://www.scdhec.gov/
+29664,_Mountain_Rest,_South_Carolina,_South_Carolina	29664, Mountain Rest, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29666,_Ninety_Six,_South_Carolina,_South_Carolina	29666, Ninety Six, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		110			0			0			0.0		https://www.scdhec.gov/
+29667,_Norris,_South_Carolina,_South_Carolina	29667, Norris, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		11			0			0			0.0		https://www.scdhec.gov/
+29669,_Pelzer,_South_Carolina,_South_Carolina	29669, Pelzer, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		264			0			0			0.0		https://www.scdhec.gov/
+29670,_Pendleton,_South_Carolina,_South_Carolina	29670, Pendleton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		173			0			0			0.0		https://www.scdhec.gov/
+29671,_Pickens,_South_Carolina,_South_Carolina	29671, Pickens, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		239			0			0			0.0		https://www.scdhec.gov/
+29672,_Seneca,_South_Carolina,_South_Carolina	29672, Seneca, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		145			0			0			0.0		https://www.scdhec.gov/
+29673,_Piedmont,_South_Carolina,_South_Carolina	29673, Piedmont, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		581			0			0			0.0		https://www.scdhec.gov/
+29676,_Salem,_South_Carolina,_South_Carolina	29676, Salem, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		65			0			0			0.0		https://www.scdhec.gov/
+29678,_Seneca,_South_Carolina,_South_Carolina	29678, Seneca, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		388			0			0			0.0		https://www.scdhec.gov/
+29680,_Simpsonville,_South_Carolina,_South_Carolina	29680, Simpsonville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		648			0			0			0.0		https://www.scdhec.gov/
+29681,_Simpsonville,_South_Carolina,_South_Carolina	29681, Simpsonville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1021			0			0			0.0		https://www.scdhec.gov/
+29682,_Six_Mile,_South_Carolina,_South_Carolina	29682, Six Mile, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		62			0			0			0.0		https://www.scdhec.gov/
+29684,_Starr,_South_Carolina,_South_Carolina	29684, Starr, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		79			0			0			0.0		https://www.scdhec.gov/
+29686,_Tamassee,_South_Carolina,_South_Carolina	29686, Tamassee, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		12			0			0			0.0		https://www.scdhec.gov/
+29687,_Taylors,_South_Carolina,_South_Carolina	29687, Taylors, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		937			0			0			0.0		https://www.scdhec.gov/
+29688,_Tigerville,_South_Carolina,_South_Carolina	29688, Tigerville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29690,_Travelers_Rest,_South_Carolina,_South_Carolina	29690, Travelers Rest, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		381			0			0			0.0		https://www.scdhec.gov/
+29691,_Walhalla,_South_Carolina,_South_Carolina	29691, Walhalla, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		237			0			0			0.0		https://www.scdhec.gov/
+29692,_Ware_Shoals,_South_Carolina,_South_Carolina	29692, Ware Shoals, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		62			0			0			0.0		https://www.scdhec.gov/
+29693,_Westminster,_South_Carolina,_South_Carolina	29693, Westminster, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		193			0			0			0.0		https://www.scdhec.gov/
+29696,_West_Union,_South_Carolina,_South_Carolina	29696, West Union, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		85			0			0			0.0		https://www.scdhec.gov/
+29697,_Williamston,_South_Carolina,_South_Carolina	29697, Williamston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		265			0			0			0.0		https://www.scdhec.gov/
+29702,_Blacksburg,_South_Carolina,_South_Carolina	29702, Blacksburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		115			0			0			0.0		https://www.scdhec.gov/
+29704,_Catawba,_South_Carolina,_South_Carolina	29704, Catawba, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		66			0			0			0.0		https://www.scdhec.gov/
+29706,_Chester,_South_Carolina,_South_Carolina	29706, Chester, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		596			0			0			0.0		https://www.scdhec.gov/
+29708,_Fort_Mill,_South_Carolina,_South_Carolina	29708, Fort Mill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		453			0			0			0.0		https://www.scdhec.gov/
+29709,_Chesterfield,_South_Carolina,_South_Carolina	29709, Chesterfield, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		127			0			0			0.0		https://www.scdhec.gov/
+29710,_Clover,_South_Carolina,_South_Carolina	29710, Clover, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		526			0			0			0.0		https://www.scdhec.gov/
+29712,_Edgemoor,_South_Carolina,_South_Carolina	29712, Edgemoor, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		34			0			0			0.0		https://www.scdhec.gov/
+29714,_Fort_Lawn,_South_Carolina,_South_Carolina	29714, Fort Lawn, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		73			0			0			0.0		https://www.scdhec.gov/
+29715,_Fort_Mill,_South_Carolina,_South_Carolina	29715, Fort Mill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		520			0			0			0.0		https://www.scdhec.gov/
+29717,_Hickory_Grove,_South_Carolina,_South_Carolina	29717, Hickory Grove, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29718,_Jefferson,_South_Carolina,_South_Carolina	29718, Jefferson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		86			0			0			0.0		https://www.scdhec.gov/
+29720,_Lancaster,_South_Carolina,_South_Carolina	29720, Lancaster, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1230			0			0			0.0		https://www.scdhec.gov/
+29726,_McConnells,_South_Carolina,_South_Carolina	29726, McConnells, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		18			0			0			0.0		https://www.scdhec.gov/
+29727,_Mount_Croghan,_South_Carolina,_South_Carolina	29727, Mount Croghan, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		32			0			0			0.0		https://www.scdhec.gov/
+29728,_Pageland,_South_Carolina,_South_Carolina	29728, Pageland, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		213			0			0			0.0		https://www.scdhec.gov/
+29729,_Richburg,_South_Carolina,_South_Carolina	29729, Richburg, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		70			0			0			0.0		https://www.scdhec.gov/
+29730,_Rock_Hill,_South_Carolina,_South_Carolina	29730, Rock Hill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1134			0			0			0.0		https://www.scdhec.gov/
+29732,_Rock_Hill,_South_Carolina,_South_Carolina	29732, Rock Hill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1045			0			0			0.0		https://www.scdhec.gov/
+29741,_Ruby,_South_Carolina,_South_Carolina	29741, Ruby, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		28			0			0			0.0		https://www.scdhec.gov/
+29742,_Sharon,_South_Carolina,_South_Carolina	29742, Sharon, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		30			0			0			0.0		https://www.scdhec.gov/
+29743,_Smyrna,_South_Carolina,_South_Carolina	29743, Smyrna, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29745,_York,_South_Carolina,_South_Carolina	29745, York, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		513			0			0			0.0		https://www.scdhec.gov/
+29801,_Aiken,_South_Carolina,_South_Carolina	29801, Aiken, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		531			0			0			0.0		https://www.scdhec.gov/
+29803,_Aiken,_South_Carolina,_South_Carolina	29803, Aiken, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		369			0			0			0.0		https://www.scdhec.gov/
+29805,_Aiken,_South_Carolina,_South_Carolina	29805, Aiken, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		69			0			0			0.0		https://www.scdhec.gov/
+29808,_Aiken,_South_Carolina,_South_Carolina	29808, Aiken, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z													https://www.scdhec.gov/
+29809,_New_Ellenton,_South_Carolina,_South_Carolina	29809, New Ellenton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		28			0			0			0.0		https://www.scdhec.gov/
+29810,_Allendale,_South_Carolina,_South_Carolina	29810, Allendale, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		177			0			0			0.0		https://www.scdhec.gov/
+29812,_Barnwell,_South_Carolina,_South_Carolina	29812, Barnwell, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		240			0			0			0.0		https://www.scdhec.gov/
+29817,_Blackville,_South_Carolina,_South_Carolina	29817, Blackville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		196			0			0			0.0		https://www.scdhec.gov/
+29819,_Bradley,_South_Carolina,_South_Carolina	29819, Bradley, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		25			0			0			0.0		https://www.scdhec.gov/
+29821,_Clarks_Hill,_South_Carolina,_South_Carolina	29821, Clarks Hill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		16			0			0			0.0		https://www.scdhec.gov/
+29824,_Edgefield,_South_Carolina,_South_Carolina	29824, Edgefield, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		214			0			0			0.0		https://www.scdhec.gov/
+29827,_Fairfax,_South_Carolina,_South_Carolina	29827, Fairfax, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		106			0			0			0.0		https://www.scdhec.gov/
+29828,_Gloverville,_South_Carolina,_South_Carolina	29828, Gloverville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		10			0			0			0.0		https://www.scdhec.gov/
+29829,_Graniteville,_South_Carolina,_South_Carolina	29829, Graniteville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		144			0			0			0.0		https://www.scdhec.gov/
+29831,_Jackson,_South_Carolina,_South_Carolina	29831, Jackson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		42			0			0			0.0		https://www.scdhec.gov/
+29832,_Johnston,_South_Carolina,_South_Carolina	29832, Johnston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		119			0			0			0.0		https://www.scdhec.gov/
+29835,_McCormick,_South_Carolina,_South_Carolina	29835, McCormick, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		122			0			0			0.0		https://www.scdhec.gov/
+29836,_Martin,_South_Carolina,_South_Carolina	29836, Martin, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		3			0			0			0.0		https://www.scdhec.gov/
+29838,_Modoc,_South_Carolina,_South_Carolina	29838, Modoc, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29840,_Mount_Carmel,_South_Carolina,_South_Carolina	29840, Mount Carmel, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29841,_North_Augusta,_South_Carolina,_South_Carolina	29841, North Augusta, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		460			0			0			0.0		https://www.scdhec.gov/
+29842,_Beech_Island,_South_Carolina,_South_Carolina	29842, Beech Island, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		92			0			0			0.0		https://www.scdhec.gov/
+29843,_Olar,_South_Carolina,_South_Carolina	29843, Olar, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		26			0			0			0.0		https://www.scdhec.gov/
+29845,_Plum_Branch,_South_Carolina,_South_Carolina	29845, Plum Branch, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		13			0			0			0.0		https://www.scdhec.gov/
+29847,_Trenton,_South_Carolina,_South_Carolina	29847, Trenton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		68			0			0			0.0		https://www.scdhec.gov/
+29848,_Troy,_South_Carolina,_South_Carolina	29848, Troy, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		19			0			0			0.0		https://www.scdhec.gov/
+29849,_Ulmer,_South_Carolina,_South_Carolina	29849, Ulmer, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		4			0			0			0.0		https://www.scdhec.gov/
+29851,_Warrenville,_South_Carolina,_South_Carolina	29851, Warrenville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		111			0			0			0.0		https://www.scdhec.gov/
+29853,_Williston,_South_Carolina,_South_Carolina	29853, Williston, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		96			0			0			0.0		https://www.scdhec.gov/
+29856,_Windsor,_South_Carolina,_South_Carolina	29856, Windsor, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		22			0			0			0.0		https://www.scdhec.gov/
+29860,_North_Augusta,_South_Carolina,_South_Carolina	29860, North Augusta, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		178			0			0			0.0		https://www.scdhec.gov/
+29902,_Beaufort,_South_Carolina,_South_Carolina	29902, Beaufort, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		978			0			0			0.0		https://www.scdhec.gov/
+29906,_Beaufort,_South_Carolina,_South_Carolina	29906, Beaufort, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		522			0			0			0.0		https://www.scdhec.gov/
+29910,_Bluffton,_South_Carolina,_South_Carolina	29910, Bluffton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1215			0			0			0.0		https://www.scdhec.gov/
+29911,_Brunson,_South_Carolina,_South_Carolina	29911, Brunson, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		47			0			0			0.0		https://www.scdhec.gov/
+29912,_Coosawhatchie,_South_Carolina,_South_Carolina	29912, Coosawhatchie, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		1			0			0			0.0		https://www.scdhec.gov/
+29915,_Daufuskie_Island,_South_Carolina	29915, Daufuskie Island, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29918,_Estill,_South_Carolina,_South_Carolina	29918, Estill, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		178			0			0			0.0		https://www.scdhec.gov/
+29920,_Saint_Helena_Island_(South_Carolina),_South_Carolina	29920, Saint Helena Island (South Carolina), South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		212			0			0			0.0		https://www.scdhec.gov/
+29924,_Hampton,_South_Carolina,_South_Carolina	29924, Hampton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		128			0			0			0.0		https://www.scdhec.gov/
+29926,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29926, Hilton Head Island, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		590			0			0			0.0		https://www.scdhec.gov/
+29927,_Hardeeville,_South_Carolina,_South_Carolina	29927, Hardeeville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		282			0			0			0.0		https://www.scdhec.gov/
+29928,_Hilton_Head_Island,_South_Carolina,_South_Carolina	29928, Hilton Head Island, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		273			0			0			0.0		https://www.scdhec.gov/
+29929,_Islandton,_South_Carolina,_South_Carolina	29929, Islandton, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		22			0			0			0.0		https://www.scdhec.gov/
+29932,_Luray,_South_Carolina,_South_Carolina	29932, Luray, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		5			0			0			0.0		https://www.scdhec.gov/
+29935,_Port_Royal,_South_Carolina,_South_Carolina	29935, Port Royal, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		101			0			0			0.0		https://www.scdhec.gov/
+29936,_Ridgeland,_South_Carolina,_South_Carolina	29936, Ridgeland, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		397			0			0			0.0		https://www.scdhec.gov/
+29940,_Seabrook,_South_Carolina,_South_Carolina	29940, Seabrook, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		96			0			0			0.0		https://www.scdhec.gov/
+29941,_Sheldon,_South_Carolina,_South_Carolina	29941, Sheldon, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		6			0			0			0.0		https://www.scdhec.gov/
+29944,_Varnville,_South_Carolina,_South_Carolina	29944, Varnville, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		110			0			0			0.0		https://www.scdhec.gov/
+29945,_Yemassee,_South_Carolina,_South_Carolina	29945, Yemassee, South Carolina, South Carolina	2020-12-16	2020-12-16T05:00:00.000Z		103			0			0			0.0		https://www.scdhec.gov/
+60002,_Antioch,_Illinois,_Illinois	60002, Antioch, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1106		9984	14			1			13.14		http://www.dph.illinois.gov/
+60004,_Arlington_Heights,_Illinois,_Illinois	60004, Arlington Heights, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2426		40719	13			-8			22.71		http://www.dph.illinois.gov/
+60005,_Arlington_Heights,_Illinois,_Illinois	60005, Arlington Heights, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1582		24193	11			4			16.14		http://www.dph.illinois.gov/
+60007,_Elk_Grove_Village,_Illinois,_Illinois	60007, Elk Grove Village, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1921		21462	14			-6			18.71		http://www.dph.illinois.gov/
+60008,_Rolling_Meadows,_Illinois,_Illinois	60008, Rolling Meadows, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1761		18760	16			7			13.14		http://www.dph.illinois.gov/
+60010,_Barrington_station,_Illinois	60010, Barrington station, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1965		28889	15			-4			18.86		http://www.dph.illinois.gov/
+60012,_Crystal_Lake,_Illinois,_Illinois	60012, Crystal Lake, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		565		8001	3			-4			6.86		http://www.dph.illinois.gov/
+60013,_Cary,_Illinois,_Illinois	60013, Cary, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1141		12234	10			0			14.0		http://www.dph.illinois.gov/
+60014,_Crystal_Lake,_Illinois,_Illinois	60014, Crystal Lake, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2544		25757	8			-10			21.14		http://www.dph.illinois.gov/
+60015,_Deerfield,_Illinois,_Illinois	60015, Deerfield, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1190		24060	10			3			10.14		http://www.dph.illinois.gov/
+60016,_Des_Plaines,_Illinois,_Illinois	60016, Des Plaines, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		4004		44405	35			2			38.14		http://www.dph.illinois.gov/
+60018,_Des_Plaines,_Illinois,_Illinois	60018, Des Plaines, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2529		27016	16			-11			28.0		http://www.dph.illinois.gov/
+60020,_Fox_Lake,_Illinois,_Illinois	60020, Fox Lake, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		529		6393	8			2			4.57		http://www.dph.illinois.gov/
+60021,_Fox_River_Grove,_Illinois,_Illinois	60021, Fox River Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		195		2816	4			2			1.71		http://www.dph.illinois.gov/
+60022,_Glencoe,_Illinois,_Illinois	60022, Glencoe, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		270		6167	1			1			1.86		http://www.dph.illinois.gov/
+60025,_Glenview,_Illinois,_Illinois	60025, Glenview, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2046		31996	8			-8			15.71		http://www.dph.illinois.gov/
+60026,_Glenview,_Illinois,_Illinois	60026, Glenview, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		670		13981	2			1			5.86		http://www.dph.illinois.gov/
+60030,_Grayslake,_Illinois,_Illinois	60030, Grayslake, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1628		21212	22			9			13.71		http://www.dph.illinois.gov/
+60031,_Gurnee,_Illinois,_Illinois	60031, Gurnee, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2120		25584	9			-11			16.43		http://www.dph.illinois.gov/
+60033,_Harvard,_Illinois,_Illinois	60033, Harvard, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1147		8532	6			3			9.29		http://www.dph.illinois.gov/
+60035,_Highland_Park,_Illinois,_Illinois	60035, Highland Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1162		29878	4			-1			11.29		http://www.dph.illinois.gov/
+60040,_Highwood,_Illinois,_Illinois	60040, Highwood, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		467		7728	2			-3			2.86		http://www.dph.illinois.gov/
+60041,_Ingleside,_Illinois,_Illinois	60041, Ingleside, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		464		4831	4			3			4.43		http://www.dph.illinois.gov/
+60042,_Island_Lake,_Illinois,_Illinois	60042, Island Lake, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		401		4136	2			2			2.86		http://www.dph.illinois.gov/
+60043,_Kenilworth,_Illinois,_Illinois	60043, Kenilworth, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		101		1770	0			0			0.14		http://www.dph.illinois.gov/
+60044,_Lake_Bluff,_Illinois,_Illinois	60044, Lake Bluff, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		466		11376	2			0			3.29		http://www.dph.illinois.gov/
+60045,_Lake_Forest,_Illinois,_Illinois	60045, Lake Forest, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		783		17289	0			-7			6.29		http://www.dph.illinois.gov/
+60046,_Lake_Villa,_Illinois,_Illinois	60046, Lake Villa, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1745		18843	16			9			14.14		http://www.dph.illinois.gov/
+60047,_Lake_Zurich,_Illinois,_Illinois	60047, Lake Zurich, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2109		31269	12			-5			21.43		http://www.dph.illinois.gov/
+60048,_Libertyville,_Illinois,_Illinois	60048, Libertyville, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1165		20177	5			1			11.29		http://www.dph.illinois.gov/
+60050,_McHenry,_Illinois,_Illinois	60050, McHenry, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1749		18820	13			-7			19.57		http://www.dph.illinois.gov/
+60051,_McHenry,_Illinois,_Illinois	60051, McHenry, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1294		12334	9			-5			14.57		http://www.dph.illinois.gov/
+60053,_Morton_Grove,_Illinois,_Illinois	60053, Morton Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1411		23214	9			4			16.71		http://www.dph.illinois.gov/
+60056,_Mount_Prospect,_Illinois,_Illinois	60056, Mount Prospect, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3124		33804	19			-12			32.14		http://www.dph.illinois.gov/
+60060,_Mundelein,_Illinois,_Illinois	60060, Mundelein, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2253		21766	25			-10			24.71		http://www.dph.illinois.gov/
+60061,_Vernon_Hills,_Illinois,_Illinois	60061, Vernon Hills, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1070		17948	11			5			10.71		http://www.dph.illinois.gov/
+60062,_Northbrook,_Illinois,_Illinois	60062, Northbrook, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1962		49990	18			15			15.29		http://www.dph.illinois.gov/
+60064,_North_Chicago,_Illinois,_Illinois	60064, North Chicago, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2071		10845	10			-10			11.57		http://www.dph.illinois.gov/
+60067,_Palatine,_Illinois,_Illinois	60067, Palatine, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2175		36434	22			13			21.29		http://www.dph.illinois.gov/
+60068,_Park_Ridge,_Illinois,_Illinois	60068, Park Ridge, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2014		31361	8			-37			21.29		http://www.dph.illinois.gov/
+60069,_Lincolnshire,_Illinois,_Illinois	60069, Lincolnshire, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		439		13234	3			0			2.29		http://www.dph.illinois.gov/
+60070,_Prospect_Heights,_Illinois,_Illinois	60070, Prospect Heights, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		969		12855	2			-5			8.0		http://www.dph.illinois.gov/
+60071,_Richmond,_Illinois,_Illinois	60071, Richmond, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		206		2047	5			1			2.57		http://www.dph.illinois.gov/
+60073,_Round_Lake,_Illinois,_Illinois	60073, Round Lake, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		4810		37916	46			3			40.71		http://www.dph.illinois.gov/
+60074,_Palatine,_Illinois,_Illinois	60074, Palatine, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2395		23000	26			9			23.29		http://www.dph.illinois.gov/
+60076,_Skokie,_Illinois,_Illinois	60076, Skokie, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2143		27397	13			-5			24.14		http://www.dph.illinois.gov/
+60077,_Skokie,_Illinois,_Illinois	60077, Skokie, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1670		26638	-8			-28			19.14		http://www.dph.illinois.gov/
+60081,_Spring_Grove,_Illinois,_Illinois	60081, Spring Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		488		4421	3			2			4.0		http://www.dph.illinois.gov/
+60083,_Wadsworth,_Illinois,_Illinois	60083, Wadsworth, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		590		6253	7			4			5.0		http://www.dph.illinois.gov/
+60084,_Wauconda,_Illinois,_Illinois	60084, Wauconda, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		943		11245	5			-3			8.43		http://www.dph.illinois.gov/
+60085,_Waukegan,_Illinois,_Illinois	60085, Waukegan, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		7340		59249	47			-4			43.29		http://www.dph.illinois.gov/
+60087,_Waukegan,_Illinois,_Illinois	60087, Waukegan, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2647		19835	19			-5			20.0		http://www.dph.illinois.gov/
+60089,_Buffalo_Grove,_Illinois,_Illinois	60089, Buffalo Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1707		25290	15			4			16.14		http://www.dph.illinois.gov/
+60090,_Wheeling_station_(Illinois),_Illinois	60090, Wheeling station (Illinois), Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2789		32563	23			0			25.86		http://www.dph.illinois.gov/
+60091,_Wilmette,_Illinois,_Illinois	60091, Wilmette, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		939		18401	2			3			9.43		http://www.dph.illinois.gov/
+60093,_Winnetka,_Illinois,_Illinois	60093, Winnetka, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		957		14925	7			3			9.71		http://www.dph.illinois.gov/
+60096,_Winthrop_Harbor,_Illinois,_Illinois	60096, Winthrop Harbor, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		397		3199	8			2			4.86		http://www.dph.illinois.gov/
+60097,_Wonder_Lake_(CDP),_Illinois,_Illinois	60097, Wonder Lake (CDP), Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		538		5780	6			3			4.0		http://www.dph.illinois.gov/
+60098,_Woodstock,_Illinois,_Illinois	60098, Woodstock, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2105		24674	11			-7			20.0		http://www.dph.illinois.gov/
+60099,_Zion,_Illinois,_Illinois	60099, Zion, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2577		23717	22			-17			25.86		http://www.dph.illinois.gov/
+60101,_Addison,_Illinois,_Illinois	60101, Addison, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3511		24176	26			5			28.0		http://www.dph.illinois.gov/
+60102,_Algonquin,_Illinois,_Illinois	60102, Algonquin, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1694		16723	7			-4			14.14		http://www.dph.illinois.gov/
+60103,_Bartlett,_Illinois,_Illinois	60103, Bartlett, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2690		30234	17			6			24.71		http://www.dph.illinois.gov/
+60104,_Bellwood_station_(Metra),_Illinois	60104, Bellwood station (Metra), Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1668		13319	6			-1			11.0		http://www.dph.illinois.gov/
+60106,_Bensenville,_Illinois,_Illinois	60106, Bensenville, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1760		16537	5			-4			7.71		http://www.dph.illinois.gov/
+60107,_Streamwood,_Illinois,_Illinois	60107, Streamwood, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3284		28455	16			-15			26.29		http://www.dph.illinois.gov/
+60108,_Bloomingdale,_Illinois,_Illinois	60108, Bloomingdale, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1695		24555	10			2			16.29		http://www.dph.illinois.gov/
+60109,_Burlington,_Illinois,_Illinois	60109, Burlington, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		50		702	0			0			0.0		http://www.dph.illinois.gov/
+60110,_Carpentersville,_Illinois,_Illinois	60110, Carpentersville, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3178		20224	11			-18			23.57		http://www.dph.illinois.gov/
+60112,_Cortland,_Illinois,_Illinois	60112, Cortland, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		273		2865	3			4			1.57		http://www.dph.illinois.gov/
+60115,_DeKalb,_Illinois,_Illinois	60115, DeKalb, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2585		37345	18			-11			21.86		http://www.dph.illinois.gov/
+60119,_Elburn,_Illinois,_Illinois	60119, Elburn, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		579		6138	1			-4			4.0		http://www.dph.illinois.gov/
+60120,_Elgin,_Illinois,_Illinois	60120, Elgin, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		4539		30791	13			-4			32.43		http://www.dph.illinois.gov/
+60123,_Elgin,_Illinois,_Illinois	60123, Elgin, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3701		35315	9			-37			29.86		http://www.dph.illinois.gov/
+60126,_Elmhurst,_Illinois,_Illinois	60126, Elmhurst, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2807		40860	28			9			25.71		http://www.dph.illinois.gov/
+60130,_Forest_Park,_Illinois,_Illinois	60130, Forest Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		821		17321	5			-1			6.29		http://www.dph.illinois.gov/
+60131,_Franklin_Park,_Illinois,_Illinois	60131, Franklin Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1685		15111	9			-4			13.71		http://www.dph.illinois.gov/
+60134,_Geneva,_Illinois,_Illinois	60134, Geneva, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1617		20790	17			-1			13.86		http://www.dph.illinois.gov/
+60135,_Genoa,_Illinois,_Illinois	60135, Genoa, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		496		4358	5			2			4.14		http://www.dph.illinois.gov/
+60136,_Gilberts,_Illinois,_Illinois	60136, Gilberts, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		485		4401	3			-2			7.86		http://www.dph.illinois.gov/
+60137,_Glen_Ellyn,_Illinois,_Illinois	60137, Glen Ellyn, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2078		27446	13			3			15.43		http://www.dph.illinois.gov/
+60139,_Glendale_Heights,_Illinois,_Illinois	60139, Glendale Heights, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2811		21742	33			20			26.29		http://www.dph.illinois.gov/
+60140,_Hampshire,_Illinois,_Illinois	60140, Hampshire, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1155		10687	7			0			12.86		http://www.dph.illinois.gov/
+60141,_Hines,_Illinois,_Illinois	60141, Hines, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		52		1955	0			0			0.43		http://www.dph.illinois.gov/
+60142,_Huntley,_Illinois,_Illinois	60142, Huntley, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1480		17836	6			-7			12.43		http://www.dph.illinois.gov/
+60143,_Itasca_station,_Illinois	60143, Itasca station, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		773		8204	2			-1			5.0		http://www.dph.illinois.gov/
+60148,_Lombard,_Illinois,_Illinois	60148, Lombard, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2806		38911	28			11			21.57		http://www.dph.illinois.gov/
+60152,_Marengo,_Illinois,_Illinois	60152, Marengo, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		715		6696	13			12			7.86		http://www.dph.illinois.gov/
+60153,_Maywood,_Illinois,_Illinois	60153, Maywood, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1773		14927	12			-1			17.14		http://www.dph.illinois.gov/
+60154,_Westchester,_Illinois,_Illinois	60154, Westchester, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1037		12352	5			-4			11.0		http://www.dph.illinois.gov/
+60157,_Medinah,_Illinois,_Illinois	60157, Medinah, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		147		1485	1			0			1.0		http://www.dph.illinois.gov/
+60160,_Melrose_Park,_Illinois,_Illinois	60160, Melrose Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2695		18587	9			-9			20.71		http://www.dph.illinois.gov/
+60162,_Hillside,_Illinois,_Illinois	60162, Hillside, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		681		7422	23			16			8.14		http://www.dph.illinois.gov/
+60163,_Berkeley,_Illinois,_Illinois	60163, Berkeley, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		445		3586	6			2			3.57		http://www.dph.illinois.gov/
+60164,_Melrose_Park,_Illinois,_Illinois	60164, Melrose Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2179		23317	8			-10			19.57		http://www.dph.illinois.gov/
+60165,_Stone_Park,_Illinois,_Illinois	60165, Stone Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		538		2714	5			3			3.86		http://www.dph.illinois.gov/
+60171,_River_Grove,_Illinois,_Illinois	60171, River Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		769		6629	4			-6			6.86		http://www.dph.illinois.gov/
+60172,_Roselle,_Illinois,_Illinois	60172, Roselle, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1585		14788	5			-3			14.43		http://www.dph.illinois.gov/
+60173,_Schaumburg,_Illinois,_Illinois	60173, Schaumburg, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		621		6749	4			0			7.29		http://www.dph.illinois.gov/
+60174,_St._Charles,_Illinois,_Illinois	60174, St. Charles, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2033		25906	13			-11			19.14		http://www.dph.illinois.gov/
+60175,_St._Charles,_Illinois,_Illinois	60175, St. Charles, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1689		24084	14			-28			20.86		http://www.dph.illinois.gov/
+60176,_Schiller_Park,_Illinois,_Illinois	60176, Schiller Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		937		6644	6			6			7.14		http://www.dph.illinois.gov/
+60177,_South_Elgin,_Illinois,_Illinois	60177, South Elgin, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1852		22297	9			-5			12.43		http://www.dph.illinois.gov/
+60178,_Sycamore,_Illinois,_Illinois	60178, Sycamore, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1288		13895	8			-1			10.29		http://www.dph.illinois.gov/
+60181,_Villa_Park,_Illinois,_Illinois	60181, Villa Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1889		18793	22			7			17.71		http://www.dph.illinois.gov/
+60185,_West_Chicago,_Illinois,_Illinois	60185, West Chicago, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3096		28022	15			-5			24.14		http://www.dph.illinois.gov/
+60187,_Wheaton,_Illinois,_Illinois	60187, Wheaton, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1441		31227	17			13			14.29		http://www.dph.illinois.gov/
+60188,_Carol_Stream,_Illinois,_Illinois	60188, Carol Stream, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2987		27703	26			1			27.71		http://www.dph.illinois.gov/
+60189,_Wheaton,_Illinois,_Illinois	60189, Wheaton, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1482		21001	14			2			12.0		http://www.dph.illinois.gov/
+60190,_Winfield,_Illinois,_Illinois	60190, Winfield, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		658		8357	8			2			7.29		http://www.dph.illinois.gov/
+60191,_Wood_Dale,_Illinois,_Illinois	60191, Wood Dale, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1097		9090	15			9			8.57		http://www.dph.illinois.gov/
+60192,_Hoffman_Estates,_Illinois,_Illinois	60192, Hoffman Estates, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		663		8341	3			0			4.57		http://www.dph.illinois.gov/
+60193,_Schaumburg,_Illinois,_Illinois	60193, Schaumburg, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2050		28393	14			-49			23.43		http://www.dph.illinois.gov/
+60194,_Schaumburg,_Illinois,_Illinois	60194, Schaumburg, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		980		16315	7			6			6.71		http://www.dph.illinois.gov/
+60195,_Schaumburg,_Illinois,_Illinois	60195, Schaumburg, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		204		2315	2			-3			3.14		http://www.dph.illinois.gov/
+60201,_Evanston,_Illinois,_Illinois	60201, Evanston, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1411		40155	3			-6			10.14		http://www.dph.illinois.gov/
+60202,_Evanston,_Illinois,_Illinois	60202, Evanston, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1399		32602	11			-4			14.43		http://www.dph.illinois.gov/
+60203,_Evanston,_Illinois,_Illinois	60203, Evanston, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		166		3426	-1			-3			0.71		http://www.dph.illinois.gov/
+60301,_Oak_Park,_Illinois,_Illinois	60301, Oak Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		131		2403	0			1			0.86		http://www.dph.illinois.gov/
+60302,_Oak_Park,_Illinois,_Illinois	60302, Oak Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1286		26960	12			5			13.57		http://www.dph.illinois.gov/
+60304,_Oak_Park,_Illinois,_Illinois	60304, Oak Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		583		13270	8			3			5.14		http://www.dph.illinois.gov/
+60305,_River_Forest,_Illinois,_Illinois	60305, River Forest, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		455		8460	3			1			4.14		http://www.dph.illinois.gov/
+60401,_Beecher,_Illinois,_Illinois	60401, Beecher, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		543		7631	10			5			7.29		http://www.dph.illinois.gov/
+60402,_Berwyn,_Illinois,_Illinois	60402, Berwyn, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		6175		45930	40			-1			47.0		http://www.dph.illinois.gov/
+60406,_Blue_Island–Vermont_Street_station,_Illinois	60406, Blue Island–Vermont Street station, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2208		18474	18			12			18.86		http://www.dph.illinois.gov/
+60408,_Braidwood,_Illinois,_Illinois	60408, Braidwood, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		396		3504	2			0			3.86		http://www.dph.illinois.gov/
+60409,_Calumet_City,_Illinois,_Illinois	60409, Calumet City, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2531		24859	19			1			24.57		http://www.dph.illinois.gov/
+60410,_Channahon,_Illinois,_Illinois	60410, Channahon, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		888		7060	11			3			9.71		http://www.dph.illinois.gov/
+60411,_Chicago_Heights,_Illinois,_Illinois	60411, Chicago Heights, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3977		47559	29			-6			37.86		http://www.dph.illinois.gov/
+60415,_Chicago_Ridge,_Illinois,_Illinois	60415, Chicago Ridge, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		902		9586	5			-2			8.57		http://www.dph.illinois.gov/
+60417,_Crete,_Illinois,_Illinois	60417, Crete, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1011		16955	2			-3			7.29		http://www.dph.illinois.gov/
+60419,_Dolton,_Illinois,_Illinois	60419, Dolton, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1328		21653	7			-6			11.29		http://www.dph.illinois.gov/
+60422,_Flossmoor,_Illinois,_Illinois	60422, Flossmoor, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		508		7359	1			-1			3.71		http://www.dph.illinois.gov/
+60423,_Frankfort,_Illinois,_Illinois	60423, Frankfort, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2311		18414	15			4			27.43		http://www.dph.illinois.gov/
+60425,_Glenwood,_Illinois,_Illinois	60425, Glenwood, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		585		8035	1			-2			5.0		http://www.dph.illinois.gov/
+60426,_Harvey,_Illinois,_Illinois	60426, Harvey, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1812		16512	19			7			18.86		http://www.dph.illinois.gov/
+60429,_Hazel_Crest,_Illinois,_Illinois	60429, Hazel Crest, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		940		11205	10			-40			15.57		http://www.dph.illinois.gov/
+60430,_Homewood,_Illinois,_Illinois	60430, Homewood, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1071		14580	8			0			9.14		http://www.dph.illinois.gov/
+60431,_Joliet,_Illinois,_Illinois	60431, Joliet, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1952		16448	17			7			15.86		http://www.dph.illinois.gov/
+60432,_Joliet,_Illinois,_Illinois	60432, Joliet, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1865		11495	10			3			15.43		http://www.dph.illinois.gov/
+60433,_Joliet,_Illinois,_Illinois	60433, Joliet, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1320		11626	4			-4			8.43		http://www.dph.illinois.gov/
+60434,_Joliet,_Illinois,_Illinois	60434, Joliet, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		333		2662	1			1			0.29		http://www.dph.illinois.gov/
+60435,_Joliet,_Illinois,_Illinois	60435, Joliet, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3784		35179	15			-1			28.86		http://www.dph.illinois.gov/
+60436,_Joliet,_Illinois,_Illinois	60436, Joliet, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1413		12819	18			8			15.57		http://www.dph.illinois.gov/
+60438,_Lansing,_Illinois,_Illinois	60438, Lansing, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2303		19344	14			1			18.29		http://www.dph.illinois.gov/
+60439,_Lemont,_Illinois,_Illinois	60439, Lemont, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1481		19695	10			0			14.71		http://www.dph.illinois.gov/
+60440,_Bolingbrook,_Illinois,_Illinois	60440, Bolingbrook, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3803		42439	39			24			41.57		http://www.dph.illinois.gov/
+60441,_Lockport,_Illinois,_Illinois	60441, Lockport, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2241		17920	22			8			19.0		http://www.dph.illinois.gov/
+60442,_Manhattan,_Illinois,_Illinois	60442, Manhattan, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		722		5562	7			3			8.0		http://www.dph.illinois.gov/
+60443,_Matteson,_Illinois,_Illinois	60443, Matteson, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1353		14835	5			2			6.14		http://www.dph.illinois.gov/
+60445,_Midlothian,_Illinois,_Illinois	60445, Midlothian, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1271		14449	6			5			13.57		http://www.dph.illinois.gov/
+60446,_Romeoville,_Illinois,_Illinois	60446, Romeoville, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3149		27499	27			1			34.57		http://www.dph.illinois.gov/
+60447,_Minooka,_Illinois,_Illinois	60447, Minooka, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		923		7699	13			5			11.14		http://www.dph.illinois.gov/
+60448,_Mokena,_Illinois,_Illinois	60448, Mokena, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1571		12935	13			0			18.14		http://www.dph.illinois.gov/
+60449,_Monee,_Illinois,_Illinois	60449, Monee, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		483		5128	5			0			4.57		http://www.dph.illinois.gov/
+60450,_Morris,_Illinois,_Illinois	60450, Morris, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1407		11125	4			-8			13.29		http://www.dph.illinois.gov/
+60451,_New_Lenox,_Illinois,_Illinois	60451, New Lenox, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2085		18905	19			5			24.29		http://www.dph.illinois.gov/
+60452,_Oak_Forest,_Illinois,_Illinois	60452, Oak Forest, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1867		15338	21			8			25.29		http://www.dph.illinois.gov/
+60453,_Oak_Lawn,_Illinois,_Illinois	60453, Oak Lawn, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		3997		41272	25			7			33.86		http://www.dph.illinois.gov/
+60455,_Bridgeview,_Illinois,_Illinois	60455, Bridgeview, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1276		12161	5			1			7.71		http://www.dph.illinois.gov/
+60456,_Hometown,_Illinois,_Illinois	60456, Hometown, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		246		2609	1			-1			2.57		http://www.dph.illinois.gov/
+60457,_Hickory_Hills,_Illinois,_Illinois	60457, Hickory Hills, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		847		7790	5			-1			7.57		http://www.dph.illinois.gov/
+60458,_Justice,_Illinois,_Illinois	60458, Justice, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		953		8468	7			1			7.57		http://www.dph.illinois.gov/
+60459,_Burbank,_Illinois,_Illinois	60459, Burbank, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2291		17554	16			6			15.86		http://www.dph.illinois.gov/
+60461,_Olympia_Fields,_Illinois,_Illinois	60461, Olympia Fields, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		217		3237	0			-1			1.71		http://www.dph.illinois.gov/
+60462,_Orland_Park,_Illinois,_Illinois	60462, Orland Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2545		24743	13			-3			24.14		http://www.dph.illinois.gov/
+60463,_Palos_Heights,_Illinois,_Illinois	60463, Palos Heights, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1087		14741	5			2			9.14		http://www.dph.illinois.gov/
+60464,_Palos_Park,_Illinois,_Illinois	60464, Palos Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		561		6093	1			0			4.14		http://www.dph.illinois.gov/
+60465,_Palos_Hills,_Illinois,_Illinois	60465, Palos Hills, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1265		10210	5			2			8.71		http://www.dph.illinois.gov/
+60466,_Park_Forest_(meteorite),_Illinois	60466, Park Forest (meteorite), Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1476		18049	7			-3			9.0		http://www.dph.illinois.gov/
+60467,_Orland_Park,_Illinois,_Illinois	60467, Orland Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1617		16380	12			4			22.14		http://www.dph.illinois.gov/
+60468,_Peotone,_Illinois,_Illinois	60468, Peotone, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		426		3418	6			0			3.29		http://www.dph.illinois.gov/
+60469,_Posen,_Illinois,_Illinois	60469, Posen, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		580		3745	7			5			7.29		http://www.dph.illinois.gov/
+60471,_Richton_Park,_Illinois,_Illinois	60471, Richton Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		803		12002	7			4			5.57		http://www.dph.illinois.gov/
+60472,_Robbins,_Illinois,_Illinois	60472, Robbins, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		238		3266	3			2			1.86		http://www.dph.illinois.gov/
+60473,_South_Holland,_Illinois,_Illinois	60473, South Holland, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1601		21921	12			-4			14.86		http://www.dph.illinois.gov/
+60475,_Steger,_Illinois,_Illinois	60475, Steger, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		561		5271	1			-2			5.43		http://www.dph.illinois.gov/
+60476,_Thornton,_Illinois,_Illinois	60476, Thornton, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		182		1693	1			1			2.0		http://www.dph.illinois.gov/
+60477,_Tinley_Park,_Illinois,_Illinois	60477, Tinley Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2453		22307	19			3			38.43		http://www.dph.illinois.gov/
+60478,_Country_Club_Hills,_Illinois,_Illinois	60478, Country Club Hills, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1077		13832	13			4			9.57		http://www.dph.illinois.gov/
+60480,_Willow_Springs,_Illinois,_Illinois	60480, Willow Springs, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		338		3572	0			-2			1.71		http://www.dph.illinois.gov/
+60481,_Wilmington,_Will_County,_Illinois,_Illinois	60481, Wilmington, Will County, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		815		10351	-1			-40			11.29		http://www.dph.illinois.gov/
+60482,_Worth,_Illinois,_Illinois	60482, Worth, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		558		4650	9			3			6.57		http://www.dph.illinois.gov/
+60490,_Bolingbrook,_Illinois,_Illinois	60490, Bolingbrook, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1136		13555	11			5			10.0		http://www.dph.illinois.gov/
+60501,_Summit,_Illinois,_Illinois	60501, Summit, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1100		6705	2			-3			7.0		http://www.dph.illinois.gov/
+60504,_Aurora,_Illinois,_Illinois	60504, Aurora, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2076		22124	19			-1			18.0		http://www.dph.illinois.gov/
+60505,_Aurora,_Illinois,_Illinois	60505, Aurora, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		6332		44483	39			-21			49.29		http://www.dph.illinois.gov/
+60506,_Aurora,_Illinois,_Illinois	60506, Aurora, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		4446		41217	28			-9			37.86		http://www.dph.illinois.gov/
+60510,_Batavia,_Illinois,_Illinois	60510, Batavia, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1387		19343	8			-3			12.29		http://www.dph.illinois.gov/
+60513,_Brookfield,_Illinois,_Illinois	60513, Brookfield, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1154		14806	12			4			11.29		http://www.dph.illinois.gov/
+60514,_Clarendon_Hills,_Illinois,_Illinois	60514, Clarendon Hills, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		517		6312	4			3			4.0		http://www.dph.illinois.gov/
+60515,_Downers_Grove,_Illinois,_Illinois	60515, Downers Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1212		17801	13			9			12.86		http://www.dph.illinois.gov/
+60516,_Downers_Grove,_Illinois,_Illinois	60516, Downers Grove, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1286		17959	9			0			11.86		http://www.dph.illinois.gov/
+60517,_Woodridge,_Illinois,_Illinois	60517, Woodridge, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		1745		20395	8			-1			14.86		http://www.dph.illinois.gov/
+60521,_Hinsdale,_Illinois,_Illinois	60521, Hinsdale, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		961		14099	12			12			9.71		http://www.dph.illinois.gov/
 60523,_Oak_Brook,_Illinois,_Illinois	60523, Oak Brook, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		658		9107	1			-6			4.29		http://www.dph.illinois.gov/
 60525,_La_Grange,_Illinois,_Illinois	60525, La Grange, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		2063		31303	12			1			18.71		http://www.dph.illinois.gov/
 60526,_La_Grange_Park,_Illinois,_Illinois	60526, La Grange Park, Illinois, Illinois	2020-12-16	2020-12-16T06:00:00.000Z		653		15989	2			1			5.14		http://www.dph.illinois.gov/
@@ -348,7 +904,7 @@ Alpena_County,_Michigan	Alpena County, Michigan	2020-12-16	2020-12-16T17:00:00.0
 Alpine_County,_California	Alpine County, California	2020-12-16	2020-12-15	0	64			1	0		1	0	0.0	1.0		https://www.cdph.ca.gov
 Altai_Krai	Altai Krai	2020-12-16	2020-12-16T08:20:00.000Z	715	29682	27216		219	11	169	1	1	9.71	221.43	165.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2020-12-16	2020-12-16T08:20:00.000Z	62	12652	12140		55	3	37	-22	1	2.14	91.14	77.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Amador_County,_California	Amador County, California	2020-12-16	2020-12-15	19	1669	551	15900	60	0	0	-92	0	0.29	89.43	8.43	https://www.cdph.ca.gov
+Amador_County,_California	Amador County, California	2020-12-16	2020-12-15	19	1669	593	16000	60	0	42	-92	0	0.29	89.43	14.43	https://www.cdph.ca.gov
 Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2020-12-16	2020-12-16T22:00:00.000Z	5036	188918			988	10		337	-5	9.0	664.29		https://covid.saude.gov.br/
 Amelia_County,_Virginia	Amelia County, Virginia	2020-12-16	2020-12-16T14:00:00.000Z	7	322			12	0		10	0	0.0	5.71		http://www.vdh.virginia.gov/
 Amesbury,_Massachusetts	Amesbury, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		427		13358	0			0			9.43		https://www.mass.gov/
@@ -460,7 +1016,7 @@ Bahrain	Bahrain	2020-12-16	2020-12-16T00:00:00.000Z	349	89444	87490	2214897	176	
 Bailey_County,_Texas	Bailey County, Texas	2020-12-16		11	527	588							0.29	2.14	23.14	https://www.dshs.state.tx.us/
 Baker_County,_Florida	Baker County, Florida	2020-12-16		36	2230		11044						0.29	13.57		https://floridahealthcovid19.gov/
 Baker_County,_Georgia	Baker County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	6	140			0	0		0	0	0.0	1.43		https://dph.georgia.gov/
-Baker_County,_Oregon	Baker County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	4	369		5769	0	0		-6	0	0.0	4.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Baker_County,_Oregon	Baker County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	4	376		5832	7	0		1	0	0.0	5.29		https://govstatus.egov.com/OR-OHA-COVID-19
 Baldwin_County,_Alabama	Baldwin County, Alabama	2020-12-16		145	11212								0.57	160.71		https://covid19.alabama.gov/
 Baldwin_County,_Georgia	Baldwin County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	74	2887			20	0		5	0	0.14	14.29		https://dph.georgia.gov/
 Baldwin_Park,_California	Baldwin Park, California	2020-12-16	2020-12-16T03:00:00.000Z	119	6054			187	2		82	1	0.71	133.14		http://publichealth.lacounty.gov/
@@ -551,7 +1107,7 @@ Benton_County,_Iowa	Benton County, Iowa	2020-12-16	2020-12-16T00:00:00.000Z	32	1
 Benton_County,_Minnesota	Benton County, Minnesota	2020-12-16	2020-12-16T16:00:00.000Z	66	3632			15	1		-13	1	0.86	17.86		https://www.health.state.mn.us/
 Benton_County,_Mississippi	Benton County, Mississippi	2020-12-16	2020-12-16T05:00:00.000Z	19	579			6	0		3	0	0.0	5.57		https://msdh.ms.gov/
 Benton_County,_Missouri	Benton County, Missouri	2020-12-16	2020-12-16T18:00:00.000Z	12	1065		10705	8	0		4	-1	0.14	17.29		https://health.mo.gov
-Benton_County,_Oregon	Benton County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	8	1097		66810	0	0		-17	0	0.0	21.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Benton_County,_Oregon	Benton County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	9	1127		67405	30	1		13	1	0.14	25.57		https://govstatus.egov.com/OR-OHA-COVID-19
 Benton_County,_Tennessee	Benton County, Tennessee	2020-12-16	2020-12-15T20:00:00.000Z	25	1043		8223	18	0	0	0	-2	1.0	11.43		https://www.tn.gov/
 Benton_County,_Washington	Benton County, Washington	2020-12-16	2020-12-15T22:45:00.000Z	150	10052								-0.14	113.0		https://coronavirus.wa.gov/
 Benzie_County,_Michigan	Benzie County, Michigan	2020-12-16	2020-12-16T17:00:00.000Z	13	598			6	0	0	-4	0	0.14	7.43		https://www.michigan.gov/
@@ -862,7 +1418,7 @@ Carroll_County,_New_Hampshire	Carroll County, New Hampshire	2020-12-16	2020-12-1
 Carroll_County,_Ohio	Carroll County, Ohio	2020-12-16	2020-12-16T19:00:00.000Z	12	865			6	0		-7	0	0.0	18.57		https://coronavirus.ohio.gov/
 Carroll_County,_Tennessee	Carroll County, Tennessee	2020-12-16	2020-12-15T20:00:00.000Z	43	2322		18230	41	3	3	1	2	1.0	37.86		https://www.tn.gov/
 Carroll_County,_Virginia	Carroll County, Virginia	2020-12-16	2020-12-16T14:00:00.000Z	31	1267			15	0		-2	0	0.0	18.29		http://www.vdh.virginia.gov/
-Carson_City,_Nevada	Carson City, Nevada	2020-12-16	2020-12-16T18:00:00.000Z	39	4150	1846	41879	122	0	24	66	-5	1.57	117.43	34.86	https://gethealthycarsoncity.org/
+Carson_City,_Nevada	Carson City, Nevada	2020-12-16	2020-12-16T18:00:00.000Z	39	4150	1846	42484	122	0	24	66	-5	1.57	117.43	34.86	https://gethealthycarsoncity.org/
 Carson_County,_Texas	Carson County, Texas	2020-12-16		4	148	141							0.14	1.43	7.86	https://www.dshs.state.tx.us/
 Carson,_California	Carson, California	2020-12-16	2020-12-16T03:00:00.000Z	67	3841			142	0		55	-1	0.29	91.71		http://publichealth.lacounty.gov/
 Carter_County,_Kentucky	Carter County, Kentucky	2020-12-16		5	1073								0.0	23.14		https://govstatus.egov.com/
@@ -993,7 +1549,7 @@ Christian_County,_Illinois	Christian County, Illinois	2020-12-16		39	2336		22934
 Christian_County,_Kentucky	Christian County, Kentucky	2020-12-16		44	3617								0.14	38.14		https://govstatus.egov.com/
 Christian_County,_Missouri	Christian County, Missouri	2020-12-16	2020-12-16T18:00:00.000Z	34	4729		37242	49	0		16	-5	0.86	55.71		https://health.mo.gov
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-12-16	2020-12-16T08:20:00.000Z	4	462	409		7	0	12	-5	0	0.0	5.43	4.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Churchill_County,_Nevada	Churchill County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	28	1201	1019	15828	41	0	0	41	0	0.71	20.0	43.86	http://www.churchillcounty.org/
+Churchill_County,_Nevada	Churchill County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	28	1201	1019	15828	21	-1	0	1	-2	0.71	20.0	43.86	http://www.churchillcounty.org/
 Chuvashia	Chuvashia	2020-12-16	2020-12-16T08:20:00.000Z	385	14569	13023		133	6	108	3	2	6.43	130.71	86.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Cibola_County,_New_Mexico	Cibola County, New Mexico	2020-12-16		59	1949								1.43	15.43		https://cv.nmhealth.org
 Cimarron_County,_Oklahoma	Cimarron County, Oklahoma	2020-12-16		0	90	82							0.0	1.14	0.86	https://coronavirus.health.ok.gov/
@@ -1004,7 +1560,7 @@ City_of_Salford	City of Salford	2020-12-16			14227			4			0			40.57		https://www.
 City_of_Sunderland	City of Sunderland	2020-12-16			12038			1			0			41.86		https://www.gov.uk/
 City_of_Wakefield	City of Wakefield	2020-12-16			14839			4			0			47.14		https://www.gov.uk/
 City_of_Westminster	City of Westminster	2020-12-16			4863			0			0			52.0		https://www.gov.uk/
-Clackamas_County,_Oregon	Clackamas County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	99	8374		246226	0	0		-127	-2	0.86	104.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Clackamas_County,_Oregon	Clackamas County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	104	8539		249688	165	5		38	3	1.57	127.86		https://govstatus.egov.com/OR-OHA-COVID-19
 Claiborne_County,_Mississippi	Claiborne County, Mississippi	2020-12-16	2020-12-16T05:00:00.000Z	18	629			8	2		5	2	0.29	4.0		https://msdh.ms.gov/
 Claiborne_County,_Tennessee	Claiborne County, Tennessee	2020-12-16	2020-12-15T20:00:00.000Z	11	1308		17762	21	0	0	7	0	0.0	30.71		https://www.tn.gov/
 Claiborne_Parish,_Louisiana	Claiborne Parish, Louisiana	2020-12-16		32	878		14088						0.0	9.29		http://ldh.la.gov/
@@ -1020,7 +1576,7 @@ Clark_County,_Indiana	Clark County, Indiana	2020-12-16		99	7043		41795						1.0	
 Clark_County,_Kansas	Clark County, Kansas	2020-12-16	2020-12-16T17:00:00.000Z		176			5			5			1.71		https://www.coronavirus.kdheks.gov
 Clark_County,_Kentucky	Clark County, Kentucky	2020-12-16		13	1252								0.0	15.43		https://govstatus.egov.com/
 Clark_County,_Missouri	Clark County, Missouri	2020-12-16	2020-12-16T18:00:00.000Z	4	337		1994	0	0		0	0	0.0	1.29		https://health.mo.gov
-Clark_County,_Nevada	Clark County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	2080	146723	123159	1417938	1889	43	2281	-8	8	25.71	1868.71	1497.43	https://www.southernnevadahealthdistrict.org/
+Clark_County,_Nevada	Clark County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	2080	146723	123159	1453753	1889	43	2281	-8	8	25.71	1868.71	1497.43	https://www.southernnevadahealthdistrict.org/
 Clark_County,_Ohio	Clark County, Ohio	2020-12-16	2020-12-16T19:00:00.000Z	150	7697			28	0		-94	0	0.43	127.71		https://coronavirus.ohio.gov/
 Clark_County,_South_Dakota	Clark County, South Dakota	2020-12-16	2020-12-16T18:00:00.000Z	1	292	250	1113	0	0	0	-1	0	0.0	1.14	4.71	https://doh.sd.gov/
 Clark_County,_Washington	Clark County, Washington	2020-12-16	2020-12-15T22:45:00.000Z	133	11298								-0.57	138.0		https://coronavirus.wa.gov/
@@ -1031,7 +1587,7 @@ Clarke_County,_Iowa	Clarke County, Iowa	2020-12-16	2020-12-16T00:00:00.000Z	6	56
 Clarke_County,_Mississippi	Clarke County, Mississippi	2020-12-16	2020-12-16T05:00:00.000Z	55	1056			5	0		0	0	0.0	6.86		https://msdh.ms.gov/
 Clarke_County,_Virginia	Clarke County, Virginia	2020-12-16	2020-12-16T14:00:00.000Z	4	293			6	0		-1	0	0.0	7.14		http://www.vdh.virginia.gov/
 Clarksburg,_Massachusetts	Clarksburg, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		20		880	0			0			0.86		https://www.mass.gov/
-Clatsop_County,_Oregon	Clatsop County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	465		19901	0	0		-8	0	0.0	5.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Clatsop_County,_Oregon	Clatsop County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	2	472		20075	7	1		-1	1	0.14	6.29		https://govstatus.egov.com/OR-OHA-COVID-19
 Clay_County,_Alabama	Clay County, Alabama	2020-12-16		29	1017								0.29	5.29		https://covid19.alabama.gov/
 Clay_County,_Arkansas	Clay County, Arkansas	2020-12-16		25	1162	996	11872						0.14	13.0	17.43	https://www.healthy.arkansas.gov/
 Clay_County,_Florida	Clay County, Florida	2020-12-16		169	9452		71001						1.0	91.71		https://floridahealthcovid19.gov/
@@ -1108,7 +1664,7 @@ Columbia_County,_Arkansas	Columbia County, Arkansas	2020-12-16		35	1359	1206	133
 Columbia_County,_Florida	Columbia County, Florida	2020-12-16		106	5253		23374						0.86	35.57		https://floridahealthcovid19.gov/
 Columbia_County,_Georgia	Columbia County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	93	8010			80	0		-24	-3	1.14	98.14		https://dph.georgia.gov/
 Columbia_County,_New_York	Columbia County, New York	2020-12-16	2020-12-16T14:00:00.000Z	59	1258		61447	14	1		-5	1	0.14	17.0		https://coronavirus.health.ny.gov/
-Columbia_County,_Oregon	Columbia County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	7	689		23218	0	0		-14	0	0.0	10.86		https://govstatus.egov.com/OR-OHA-COVID-19
+Columbia_County,_Oregon	Columbia County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	8	695		23404	6	1		-8	1	0.14	11.71		https://govstatus.egov.com/OR-OHA-COVID-19
 Columbia_County,_Pennsylvania	Columbia County, Pennsylvania	2020-12-16		57	2078		14457						0.57	50.57		https://www.health.pa.gov/
 Columbia_County,_Washington	Columbia County, Washington	2020-12-16	2020-12-15T22:45:00.000Z	3	60								-0.14	0.71		https://coronavirus.wa.gov/
 Columbia_County,_Wisconsin	Columbia County, Wisconsin	2020-12-16	2020-12-16T07:00:00.000Z	23	3912		27240	20	3	3	10	2	1.43	27.14		https://www.dhs.wisconsin.gov/
@@ -1137,7 +1693,7 @@ Cook_County,_Minnesota	Cook County, Minnesota	2020-12-16	2020-12-16T16:00:00.000
 Cooke_County,_Texas	Cooke County, Texas	2020-12-16		21	1516	1620							0.57	26.57	69.29	https://www.dshs.state.tx.us/
 Cooper_County,_Missouri	Cooper County, Missouri	2020-12-16	2020-12-16T18:00:00.000Z	13	1345		10397	8	0		0	-3	0.43	10.57		https://health.mo.gov
 Coös_County,_New_Hampshire	Coös County, New Hampshire	2020-12-16	2020-12-16T14:00:00.000Z	13	429			1	1		-4	1	0.57	7.71		https://www.nh.gov/
-Coos_County,_Oregon	Coos County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	4	597		20352	0	0		-8	0	0.0	7.0		https://govstatus.egov.com/OR-OHA-COVID-19
+Coos_County,_Oregon	Coos County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	4	609		20477	12	0		4	0	0.0	8.71		https://govstatus.egov.com/OR-OHA-COVID-19
 Coosa_County,_Alabama	Coosa County, Alabama	2020-12-16		4	444								0.0	4.14		https://covid19.alabama.gov/
 Copiah_County,_Mississippi	Copiah County, Mississippi	2020-12-16	2020-12-16T05:00:00.000Z	42	1985			23	0		9	0	0.0	20.0		https://msdh.ms.gov/
 Coquimbo_Region	Coquimbo Region	2020-12-16	2020-12-16T04:00:00.000Z	281	13642	13130		30	0	25	-8	0	1.0	37.29	30.43	https://www.minsal.cl/
@@ -1187,7 +1743,7 @@ Crittenden_County,_Kentucky	Crittenden County, Kentucky	2020-12-16		3	311							
 Croatia	Croatia	2020-12-16	2020-12-16T11:03:00.000Z	2870	183045	157773		3327	92	2694	967	19	71.86	3381.86	3502.57	https://www.koronavirus.hr/
 Crockett_County,_Tennessee	Crockett County, Tennessee	2020-12-16	2020-12-15T20:00:00.000Z	29	1393		6840	8	0	0	3	0	0.0	19.71		https://www.tn.gov/
 Crockett_County,_Texas	Crockett County, Texas	2020-12-16		8	294	408							0.0	-0.71	20.71	https://www.dshs.state.tx.us/
-Crook_County,_Oregon	Crook County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	6	360		8807	0	0		-9	0	0.0	7.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Crook_County,_Oregon	Crook County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	6	364		8849	4	0		-5	0	0.0	7.86		https://govstatus.egov.com/OR-OHA-COVID-19
 Crosby_County,_Texas	Crosby County, Texas	2020-12-16		17	198	249							0.14	0.86	14.29	https://www.dshs.state.tx.us/
 Cross_County,_Arkansas	Cross County, Arkansas	2020-12-16		32	1125	957	11088						0.43	19.43	14.43	https://www.healthy.arkansas.gov/
 Crow_Wing_County,_Minnesota	Crow Wing County, Minnesota	2020-12-16	2020-12-16T16:00:00.000Z	49	4297			15	1		-2	1	1.0	30.57		https://www.health.state.mn.us/
@@ -1212,7 +1768,7 @@ Cuming_County,_Nebraska	Cuming County, Nebraska	2020-12-16		8	712		3120						0.1
 Cummington,_Massachusetts	Cummington, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		10		848	0			0			0.14		https://www.mass.gov/
 Currituck_County,_North_Carolina	Currituck County, North Carolina	2020-12-16		7	513								0.29	11.71		https://www.ncdhhs.gov/
 Curry_County,_New_Mexico	Curry County, New Mexico	2020-12-16		37	3680								0.86	26.57		https://cv.nmhealth.org
-Curry_County,_Oregon	Curry County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	2	221		4730	0	0		-10	0	0.0	6.14		https://govstatus.egov.com/OR-OHA-COVID-19
+Curry_County,_Oregon	Curry County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	2	224		4780	3	0		-7	0	0.0	6.57		https://govstatus.egov.com/OR-OHA-COVID-19
 Custer_County,_Colorado	Custer County, Colorado	2020-12-16			133									4.0		https://covid19.colorado.gov/
 Custer_County,_Idaho	Custer County, Idaho	2020-12-16	2020-12-16T17:00:00.000Z	2	188			3	0		-2	-1	0.14	2.0		https://coronavirus.idaho.gov/
 Custer_County,_Montana	Custer County, Montana	2020-12-16		8	894								0.0	7.14		https://dphhs.mt.gov/
@@ -1297,7 +1853,7 @@ Denver	Denver	2020-12-16		622	43344								6.14	368.86		https://covid19.colorado
 Derby	Derby	2020-12-16			8809			2			0			50.29		https://www.gov.uk/
 Derbyshire	Derbyshire	2020-12-16			23588			3			0			111.0		https://www.gov.uk/
 Des_Moines_County,_Iowa	Des Moines County, Iowa	2020-12-16	2020-12-16T00:00:00.000Z	27	3303	2535	16660	30	1	55	28	1	0.43	19.71	48.43	https://idph.iowa.gov
-Deschutes_County,_Oregon	Deschutes County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	18	3293		89188	0	0		-31	0	0.43	46.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Deschutes_County,_Oregon	Deschutes County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	18	3342		89817	49	0		18	0	0.43	53.29		https://govstatus.egov.com/OR-OHA-COVID-19
 Desha_County,_Arkansas	Desha County, Arkansas	2020-12-16		10	784	628	8168						0.14	13.29	9.86	https://www.healthy.arkansas.gov/
 DeSoto_County,_Florida	DeSoto County, Florida	2020-12-16		48	2644		14019						1.29	13.29		https://floridahealthcovid19.gov/
 DeSoto_County,_Mississippi	DeSoto County, Mississippi	2020-12-16	2020-12-16T05:00:00.000Z	116	12433			216	1		88	0	0.86	151.14		https://msdh.ms.gov/
@@ -1352,8 +1908,8 @@ Douglas_County,_Kansas	Douglas County, Kansas	2020-12-16	2020-12-16T17:00:00.000
 Douglas_County,_Minnesota	Douglas County, Minnesota	2020-12-16	2020-12-16T16:00:00.000Z	52	3227			24	2		12	2	1.0	25.0		https://www.health.state.mn.us/
 Douglas_County,_Missouri	Douglas County, Missouri	2020-12-16	2020-12-16T18:00:00.000Z	19	536		4065	6	0		-4	-1	0.29	8.43		https://health.mo.gov
 Douglas_County,_Nebraska	Douglas County, Nebraska	2020-12-16		454	48112		270683						6.71	376.29		http://dhhs.ne.gov/
-Douglas_County,_Nevada	Douglas County, Nevada	2020-12-16	2020-12-16T18:00:00.000Z	10	1636	687	12996	17	0	10	10	0	0.43	29.57	0.0	https://gethealthycarsoncity.org/
-Douglas_County,_Oregon	Douglas County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	34	1214		35429	0	0		-10	-4	1.29	11.71		https://govstatus.egov.com/OR-OHA-COVID-19
+Douglas_County,_Nevada	Douglas County, Nevada	2020-12-16	2020-12-16T18:00:00.000Z	10	1636	687	13111	17	0	10	10	0	0.43	29.57	0.0	https://gethealthycarsoncity.org/
+Douglas_County,_Oregon	Douglas County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	35	1228		35659	14	1		4	-3	1.43	13.71		https://govstatus.egov.com/OR-OHA-COVID-19
 Douglas_County,_South_Dakota	Douglas County, South Dakota	2020-12-16	2020-12-16T18:00:00.000Z	6	343	291	1137	0	0	0	-2	0	0.14	2.14	4.86	https://doh.sd.gov/
 Douglas_County,_Washington	Douglas County, Washington	2020-12-16	2020-12-15T22:45:00.000Z	10	1436								-0.29	4.71		https://coronavirus.wa.gov/
 Douglas_County,_Wisconsin	Douglas County, Wisconsin	2020-12-16	2020-12-16T07:00:00.000Z	16	2711		17614	14	2	2	-40	2	1.29	35.0		https://www.dhs.wisconsin.gov/
@@ -1383,7 +1939,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-12-16	2020-12-16T21:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-12-16	2020-12-15T20:00:00.000Z	63	3792		21035	28	2	2	11	1	1.14	42.29		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-12-16		12	2961								0.0	34.43		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	39	746			4	0		2	0	0.14	4.29		https://dph.georgia.gov/
-Earth	Earth	2020-12-16	2020-12-17T03:37:14.531Z	1630053	73470384			597212	7690		92264	-4250	10251.86	723412.0	-329697.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-12-16	2020-12-17T04:34:33.795Z	1630206	73476600			601108	7795		93840	-4193	10273.71	724300.0	-329697.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-12-16		550	22865		285078						2.0	159.29		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		411		10036	0			0			10.86		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		36		1505	0			0			0.57		https://www.mass.gov/
@@ -1456,7 +2012,7 @@ Erie_County,_Pennsylvania	Erie County, Pennsylvania	2020-12-16		140	9026		54977	
 Erving,_Massachusetts	Erving, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		18		1501	0			0			0.43		https://www.mass.gov/
 Escambia_County,_Alabama	Escambia County, Alabama	2020-12-16		32	2302								0.0	16.57		https://covid19.alabama.gov/
 Escambia_County,_Florida	Escambia County, Florida	2020-12-16		337	19256		131771						1.43	184.43		https://floridahealthcovid19.gov/
-Esmeralda_County,_Nevada	Esmeralda County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	0	27	0	289	0	0	0	0	0	0.0	0.29	0.0	https://www.accessesmeralda.com/
+Esmeralda_County,_Nevada	Esmeralda County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	0	27	0	291	0	0	0	0	0	0.0	0.29	0.0	https://www.accessesmeralda.com/
 Essex	Essex	2020-12-16			31057			38			0			629.43		https://www.gov.uk/
 Essex_County,_Massachusetts	Essex County, Massachusetts	2020-12-16	2020-12-16T16:00:00.000Z	1560	47846			1032	12		608	1	7.86	803.43		https://www.mass.gov/
 Essex_County,_New_Jersey	Essex County, New Jersey	2020-12-16		2316	42329			569	9		260	5	5.29	425.57		https://www.nj.gov/
@@ -1467,7 +2023,7 @@ Essex,_Massachusetts	Essex, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		4
 Estill_County,_Kentucky	Estill County, Kentucky	2020-12-16		0	580								0.0	7.0		https://govstatus.egov.com/
 Estonia	Estonia	2020-12-16	2020-12-16T13:00:00.000Z	160	19271	1044	559105	590	3	17	289	0	3.0	459.57	17.43	https://www.terviseamet.ee/
 Etowah_County,_Alabama	Etowah County, Alabama	2020-12-16		80	8302								1.0	105.57		https://covid19.alabama.gov/
-Eureka_County,_Nevada	Eureka County, Nevada	2020-12-16	2020-12-14T18:00:00.000Z	0	29	0	397						0.0	0.57	0.0	https://nvhealthresponse.nv.gov/
+Eureka_County,_Nevada	Eureka County, Nevada	2020-12-16	2020-12-16T00:00:00.000Z	0	28	0	397	0	0	0	1	0	0.0	0.43	0.0	http://www.co.eureka.nv.us/
 Evangeline_Parish,_Louisiana	Evangeline Parish, Louisiana	2020-12-16		52	2359		31522						0.57	26.71		http://ldh.la.gov/
 Evans_County,_Georgia	Evans County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	13	592			5	0		-1	0	0.0	3.14		https://dph.georgia.gov/
 Everett,_Massachusetts	Everett, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		4121		57012	0			0			53.0		https://www.mass.gov/
@@ -1582,7 +2138,7 @@ Freistadt_District	Freistadt District	2020-12-16	2020-12-16T21:00:00.000Z		3349	
 Fremont_County,_Colorado	Fremont County, Colorado	2020-12-16		12	3864								0.57	60.86		https://covid19.colorado.gov/
 Fremont_County,_Idaho	Fremont County, Idaho	2020-12-16	2020-12-16T17:00:00.000Z	12	834			3	0		-2	0	0.14	4.0		https://coronavirus.idaho.gov/
 Fremont_County,_Iowa	Fremont County, Iowa	2020-12-16	2020-12-16T00:00:00.000Z	5	433	337	2109	4	0	5	1	0	0.0	3.57	6.86	https://idph.iowa.gov
-Fresno_County,_California	Fresno County, California	2020-12-16	2020-12-15	557	47316	26742	517191	2590	0	0	1978	-15	6.14	820.29	186.14	https://www.cdph.ca.gov
+Fresno_County,_California	Fresno County, California	2020-12-16	2020-12-17T01:00:00.000Z	557	47316	26742	517191	2590	0	0	1978	-15	6.14	820.29	186.14	https://www.co.fresno.ca.us/
 Frio_County,_Texas	Frio County, Texas	2020-12-16		10	1372	1450							0.0	18.14	39.57	https://www.dshs.state.tx.us/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-12-16		1339	42099	27009	837745	779	40	927	-50	-12	31.0	711.71	852.71	http://www.salute.gov.it/
 Frontier_County,_Nebraska	Frontier County, Nebraska	2020-12-16		1	129		676						0.0	0.43		http://dhhs.ne.gov/
@@ -1643,7 +2199,7 @@ Giles_County,_Tennessee	Giles County, Tennessee	2020-12-16	2020-12-15T20:00:00.0
 Giles_County,_Virginia	Giles County, Virginia	2020-12-16	2020-12-16T14:00:00.000Z	1	440			3	0		-12	0	0.0	9.0		http://www.vdh.virginia.gov/
 Gill,_Massachusetts	Gill, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		10		2634	0			0			0.57		https://www.mass.gov/
 Gillespie_County,_Texas	Gillespie County, Texas	2020-12-16		13	931	1022							0.29	19.57	43.43	https://www.dshs.state.tx.us/
-Gilliam_County,_Oregon	Gilliam County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	26		642	0	0		0	0	0.0	0.14		https://govstatus.egov.com/OR-OHA-COVID-19
+Gilliam_County,_Oregon	Gilliam County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	28		658	2	0		2	0	0.0	0.43		https://govstatus.egov.com/OR-OHA-COVID-19
 Gilmer_County,_Georgia	Gilmer County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	33	1523			12	0		-6	0	0.0	16.14		https://dph.georgia.gov/
 Gilmer_County,_West_Virginia	Gilmer County, West Virginia	2020-12-16	2020-12-16T10:00:00.000Z	0	258	224	5301	2	0	8	3	0	0.0	4.29	2.43	https://dhhr.wv.gov/
 Gilpin_County,_Colorado	Gilpin County, Colorado	2020-12-16		1	105								0.0	0.57		https://covid19.colorado.gov/
@@ -1699,7 +2255,7 @@ Grant_County,_Nebraska	Grant County, Nebraska	2020-12-16		2	23		130						0.0	0.2
 Grant_County,_New_Mexico	Grant County, New Mexico	2020-12-16		9	682								0.29	13.14		https://cv.nmhealth.org
 Grant_County,_North_Dakota	Grant County, North Dakota	2020-12-16	2020-12-16T17:00:00.000Z	7	167	152	659	0	0	0	-1	0	0.0	0.71	0.43	https://www.health.nd.gov/
 Grant_County,_Oklahoma	Grant County, Oklahoma	2020-12-16		5	299	238							0.0	7.29	4.14	https://coronavirus.health.ok.gov/
-Grant_County,_Oregon	Grant County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	161		2400	0	0		-2	0	0.0	1.0		https://govstatus.egov.com/OR-OHA-COVID-19
+Grant_County,_Oregon	Grant County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	161		2438	0	0		-2	0	0.0	1.0		https://govstatus.egov.com/OR-OHA-COVID-19
 Grant_County,_South_Dakota	Grant County, South Dakota	2020-12-16	2020-12-16T18:00:00.000Z	20	776	626	2624	0	0	0	-4	0	0.71	5.29	13.29	https://doh.sd.gov/
 Grant_County,_Washington	Grant County, Washington	2020-12-16	2020-12-15T22:45:00.000Z	39	4709								-0.43	33.43		https://coronavirus.wa.gov/
 Grant_County,_West_Virginia	Grant County, West Virginia	2020-12-16	2020-12-16T10:00:00.000Z	13	606	276	10025	6	0	1	2	0	0.43	12.29	2.57	https://dhhr.wv.gov/
@@ -1841,7 +2397,7 @@ Harlan_County,_Kentucky	Harlan County, Kentucky	2020-12-16		16	1312								0.0	3
 Harlan_County,_Nebraska	Harlan County, Nebraska	2020-12-16		0	165		778						0.0	0.86		http://dhhs.ne.gov/
 Harmon_County,_Oklahoma	Harmon County, Oklahoma	2020-12-16		0	187	142							0.0	4.71	5.86	https://coronavirus.health.ok.gov/
 Harnett_County,_North_Carolina	Harnett County, North Carolina	2020-12-16		88	5043								1.29	64.71		https://www.ncdhhs.gov/
-Harney_County,_Oregon	Harney County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	117		2058	0	0		0	0	0.0	0.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Harney_County,_Oregon	Harney County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	1	121		2073	4	0		4	0	0.0	0.86		https://govstatus.egov.com/OR-OHA-COVID-19
 Harper_County,_Kansas	Harper County, Kansas	2020-12-16	2020-12-16T17:00:00.000Z		371			8			8			2.14		https://www.coronavirus.kdheks.gov
 Harper_County,_Oklahoma	Harper County, Oklahoma	2020-12-16		3	322	285							0.14	5.29	7.57	https://coronavirus.health.ok.gov/
 Harris_County,_Georgia	Harris County, Georgia	2020-12-16	2020-12-16T18:50:10.000Z	28	1199			10	0		-9	0	0.0	11.57		https://dph.georgia.gov/
@@ -1946,7 +2502,7 @@ Holyoke,_Massachusetts	Holyoke, Massachusetts	2020-12-16	2020-12-16T21:00:00.000
 Hong_Kong	Hong Kong	2020-12-16	2020-12-16T00:00:00.000Z	123	7804	6439		82	1	94	-16	-3	1.43	89.14	93.71	https://www.coronavirus.gov.hk/
 Honolulu_County,_Hawaii	Honolulu County, Hawaii	2020-12-16	2020-12-16T22:00:00.000Z		16543			85			50			88.43		https://health.hawaii.gov/
 Hood_County,_Texas	Hood County, Texas	2020-12-16		59	2166	2780							0.57	32.14	144.14	https://www.dshs.state.tx.us/
-Hood_River_County,_Oregon	Hood River County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	7	605			0	0		-20	-2	0.57	13.0		https://govstatus.egov.com/OR-OHA-COVID-19
+Hood_River_County,_Oregon	Hood River County, Oregon	2020-12-16	2020-12-16T08:00:00.000Z	8	621			16	1		-4	-1	0.71	15.29		https://govstatus.egov.com/OR-OHA-COVID-19
 Hooker_County,_Nebraska	Hooker County, Nebraska	2020-12-16		1	46		249						0.0	-0.14		http://dhhs.ne.gov/
 Hopedale,_Massachusetts	Hopedale, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		140		5248	0			0			1.71		https://www.mass.gov/
 Hopewell,_Virginia	Hopewell, Virginia	2020-12-16	2020-12-16T14:00:00.000Z	9	733			17	0		13	0	0.0	6.43		http://www.vdh.virginia.gov/
@@ -4106,7 +4662,7 @@ Union_County,_Tennessee	Union County, Tennessee	2020-12-16	2020-12-15T20:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-12-16		62	1602		21279						0.14	11.0		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-12-16	2020-12-16T09:58:00.000Z	626	188545	165749	18817161	1278	4	726	52	0	4.0	1199.29	666.43	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2020-12-16		65520	1913277								422.0	20922.57		https://www.gov.uk/
-United_States	United States	2020-12-16	2020-12-17T04:32:19.122Z	306021	16750803								2497.29	210548.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-12-16	2020-12-17T05:35:02.857Z	306021	16750803			227445	3333		36233	405	2497.29	210548.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2020-12-16	2020-12-16T21:00:00.000Z	849		61107			10	468		-17	19.14		575.86	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2020-12-16		26	672	1222							0.57	3.57	87.71	https://www.dshs.state.tx.us/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-12-16	2020-12-16T10:00:00.000Z	4	661	566	13874	17	0	3	12	0	0.0	10.57	9.14	https://dhhr.wv.gov/
@@ -4257,7 +4813,7 @@ Washington_County,_Vermont	Washington County, Vermont	2020-12-16		5	835			3			2	
 Washington_County,_Virginia	Washington County, Virginia	2020-12-16	2020-12-16T14:00:00.000Z	37	2408			49	0		45	-1	0.43	41.71		http://www.vdh.virginia.gov/
 Washington_County,_Wisconsin	Washington County, Wisconsin	2020-12-16	2020-12-16T07:00:00.000Z	89	10599		54145	102	2	2	-66	2	1.0	103.0		https://www.dhs.wisconsin.gov/
 Washington_Parish,_Louisiana	Washington Parish, Louisiana	2020-12-16		82	2709		37160						0.43	32.71		http://ldh.la.gov/
-Washington,_D.C.	Washington, D.C.	2020-12-16	2020-03-31T04:00:00.000Z	720	25602	18392	798388						2.29	249.71	187.29	https://coronavirus.dc.gov/
+Washington,_D.C.	Washington, D.C.	2020-12-16	2020-03-31T04:00:00.000Z	720	25602	18392	798388	263	0	255	-38	-4	2.29	249.71	187.29	https://coronavirus.dc.gov/
 Washington,_Massachusetts	Washington, Massachusetts	2020-12-16	2020-12-16T21:00:00.000Z		3		261	0			0			0.0		https://www.mass.gov/
 Washita_County,_Oklahoma	Washita County, Oklahoma	2020-12-16		3	606	501							0.14	10.43	10.29	https://coronavirus.health.ok.gov/
 Washoe_County,_Nevada	Washoe County, Nevada	2020-12-16	2020-12-16T15:21:00.000Z	384	31650	17687	274164	329	6	122	29	0	6.57	389.0	126.43	https://www.washoecounty.us/
