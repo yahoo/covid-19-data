@@ -528,7 +528,7 @@ Alabama	Alabama	2020-12-29		4737	351804	193149	1941607	3907	25	0	1638	4	40.71	31
 Alachua_County,_Florida	Alachua County, Florida	2020-12-29		128	15574		139987	101	0		48	-4	1.71	84.71		https://floridahealthcovid19.gov/
 Alagoas	Alagoas	2020-12-29	2020-12-29T22:00:00.000Z	2475	104119			371	7		174	0	7.14	339.14		https://covid.saude.gov.br/
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2020-12-29		117	10164			44	0		-24	0	0.14	101.14		https://www.ncdhhs.gov/
-Alameda_County,_California	Alameda County, California	2020-12-29	2020-12-28	625	50405		1314521					0	5.29	807.0		https://www.cdph.ca.gov
+Alameda_County,_California	Alameda County, California	2020-12-29	2020-12-28	625	50405		1314521	609	0		-103	0	5.29	807.0		https://www.cdph.ca.gov
 Alamosa_County,_Colorado	Alamosa County, Colorado	2020-12-29		22	912			4	0		3	0	0.14	3.71		https://covid19.colorado.gov/
 Alaska	Alaska	2020-12-29	2020-12-29T00:00:00.000Z	201	46092		1259845	183	1		55	1	1.0	232.71		http://www.dhss.alaska.gov
 Albania	Albania	2020-12-29	2020-12-29T00:00:00.000Z	1170	57146	32700	253480	574	6	578	256	-5	8.43	476.0	493.0	https://coronavirus.al/statistika/
@@ -1155,7 +1155,7 @@ Christian_County,_Illinois	Christian County, Illinois	2020-12-29		47	2548		25996
 Christian_County,_Kentucky	Christian County, Kentucky	2020-12-29		51	4160			69	0		68	0	0.29	37.71		https://govstatus.egov.com/
 Christian_County,_Missouri	Christian County, Missouri	2020-12-29	2020-12-29T18:00:00.000Z	48	5359		39900	37	4		21	4	1.0	36.29		https://health.mo.gov
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2020-12-29	2020-12-29T07:50:00.000Z	4	532	466		4	0	6	4	0	0.0	4.86	4.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Churchill_County,_Nevada	Churchill County, Nevada	2020-12-29	2020-12-28T00:00:00.000Z	35	1361	1128	16990						0.0	11.57	15.57	http://www.churchillcounty.org/
+Churchill_County,_Nevada	Churchill County, Nevada	2020-12-29	2020-12-28T00:00:00.000Z	35	1361	1128	16990	0	0	0	-35	0	0.0	11.57	15.57	http://www.churchillcounty.org/
 Chuvashia	Chuvashia	2020-12-29	2020-12-29T07:50:00.000Z	507	16155	14551		112	11	131	0	1	10.86	118.0	125.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Cibola_County,_New_Mexico	Cibola County, New Mexico	2020-12-29		68	2217			12	0		3	0	0.71	20.29		https://cv.nmhealth.org
 Cimarron_County,_Oklahoma	Cimarron County, Oklahoma	2020-12-29		1	101	96							0.0	0.0	0.25	https://coronavirus.health.ok.gov/
@@ -1519,7 +1519,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	70	4172		21811	9	2	2	8	1	0.57	25.86		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-12-29		15	3268			18	1		-6	1	0.43	20.57		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	41	801			6	0		0	0	0.14	4.43		https://dph.georgia.gov/
-Earth	Earth	2020-12-29	2020-12-30T19:40:37.749Z	1763722	80871649			611593	13874		178127	5981	9585.29	523967.71	339397.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-12-29	2020-12-30T20:39:43.572Z	1763722	80871649			611593	13874		178127	5981	9585.29	523967.71	339397.86	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-12-29		575	25121		307476	387	6		310	1	2.0	156.43		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		542		11824	0			0			7.71		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		56		1695	0			0			1.43		https://www.mass.gov/
@@ -3006,7 +3006,7 @@ Ness_County,_Kansas	Ness County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		304
 Netherlands	Netherlands	2020-12-29	2020-12-28T22:00:00.000Z	11212	777902			7502	170		87	126	82.71	9602.71		https://www.rivm.nl/
 Neunkirchen_District,_Austria	Neunkirchen District, Austria	2020-12-29	2020-12-29T21:00:00.000Z		2710			27			5			17.43		https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2020-12-29	2020-12-29T21:00:00.000Z		1562			14			4			9.86		https://info.gesundheitsministerium.at/
-Nevada	Nevada	2020-12-29	2020-12-29T18:00:00.000Z	2973	218377		2047364	0	0		-868	-21	21.14	1629.0		https://nvhealthresponse.nv.gov/
+Nevada	Nevada	2020-12-29	2020-12-28T18:00:00.000Z	2973	218377		2047364						21.14	1629.0		https://nvhealthresponse.nv.gov/
 Nevada_County,_Arkansas	Nevada County, Arkansas	2020-12-29		20	587	527	9252	1	0	6	0	0	0.0	3.57	5.57	https://www.healthy.arkansas.gov/
 Nevada_County,_California	Nevada County, California	2020-12-29	2020-12-29T16:42:00.000Z	50	2548	1959	34624	29	1	51	-10	-4	1.14	26.71	19.57	https://www.mynevadacounty.com/
 New_Ashford,_Massachusetts	New Ashford, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		0		83	0			0			0.0		https://www.mass.gov/
@@ -3543,7 +3543,7 @@ Rockland,_Massachusetts	Rockland, Massachusetts	2020-12-29	2020-12-29T21:00:00.0
 Rockport,_Massachusetts	Rockport, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		144		5467	0			0			3.0		https://www.mass.gov/
 Rogaland	Rogaland	2020-12-29	2020-12-29T12:00:00.000Z		2088			291			291			46.43		https://www.fhi.no/
 Roger_Mills_County,_Oklahoma	Roger Mills County, Oklahoma	2020-12-29		6	251	224							0.0	1.25	3.75	https://coronavirus.health.ok.gov/
-Rogers_County,_Oklahoma	Rogers County, Oklahoma	2020-12-29		83	6394	5460							0.38	68.38	76.75	https://coronavirus.health.ok.gov/
+Rogers_County,_Oklahoma	Rogers County, Oklahoma	2020-12-29		83	6394	5460		33	0	101	-69	0	0.38	68.38	76.75	https://coronavirus.health.ok.gov/
 Rohrbach_District	Rohrbach District	2020-12-29	2020-12-29T21:00:00.000Z		3802			16			-4			13.0		https://info.gesundheitsministerium.at/
 Rolette_County,_North_Dakota	Rolette County, North Dakota	2020-12-29	2020-12-29T17:00:00.000Z	21	1856	1776	9035	4	1	14	3	1	0.14	8.43	12.86	https://www.health.nd.gov/
 Rolling_Hills_Estates,_California	Rolling Hills Estates, California	2020-12-29	2020-12-29T03:00:00.000Z	4	140			2	0		-1	0	0.14	1.86		http://publichealth.lacounty.gov/
@@ -3564,10 +3564,10 @@ Rowan_County,_Kentucky	Rowan County, Kentucky	2020-12-29		3	1196			30	0		20	0	0.
 Rowan_County,_North_Carolina	Rowan County, North Carolina	2020-12-29		162	8713			48	0		-3	0	0.86	95.0		https://www.ncdhhs.gov/
 Rowe,_Massachusetts	Rowe, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		5		295	0			0			0.0		https://www.mass.gov/
 Rowley,_Massachusetts	Rowley, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		181		6018	0			0			4.0		https://www.mass.gov/
-Royal_Borough_of_Greenwich	Royal Borough of Greenwich	2020-12-29			10033			24			0			185.29		https://www.gov.uk/
-Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-12-29			4505			14			0			56.86		https://www.gov.uk/
-Royal_Borough_of_Kingston_upon_Thames	Royal Borough of Kingston upon Thames	2020-12-29			6309			0			0			74.71		https://www.gov.uk/
-Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	2020-12-29			4191			4			0			73.0		https://www.gov.uk/
+Royal_Borough_of_Greenwich	Royal Borough of Greenwich	2020-12-29			10423			34			-116			240.71		https://www.gov.uk/
+Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-12-29			4672			21			-51			81.0		https://www.gov.uk/
+Royal_Borough_of_Kingston_upon_Thames	Royal Borough of Kingston upon Thames	2020-12-29			6511			3			-70			103.57		https://www.gov.uk/
+Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	2020-12-29			4328			26			-46			92.43		https://www.gov.uk/
 Royalston,_Massachusetts	Royalston, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		21		1038	0			0			0.57		https://www.mass.gov/
 Rush_County,_Indiana	Rush County, Indiana	2020-12-29		13	1139		6271						0.0	15.57		https://coronavirus.in.gov/
 Rush_County,_Kansas	Rush County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		336			0			-3			1.71		https://www.coronavirus.kdheks.gov
@@ -3580,7 +3580,7 @@ Russell,_Massachusetts	Russell, Massachusetts	2020-12-29	2020-12-29T21:00:00.000
 Russia	Russia	2020-12-29	2020-12-29T07:50:00.000Z	55827	3105037	2496183	89800000	27002	562	24874	-785	75	559.29	28362.0	25237.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Rutherford_County,_North_Carolina	Rutherford County, North Carolina	2020-12-29		94	4164			21	1		3	1	0.14	52.86		https://www.ncdhhs.gov/
 Rutherford_County,_Tennessee	Rutherford County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	238	27864		203309	143	3	3	-18	2	2.29	243.29		https://www.tn.gov/
-Rutland	Rutland	2020-12-29			697			0			0			7.0		https://www.gov.uk/
+Rutland	Rutland	2020-12-29			704			1			-4			8.14		https://www.gov.uk/
 Rutland_County,_Vermont	Rutland County, Vermont	2020-12-29		8	430			8	0		0	0	0.0	8.57		https://www.healthvermont.gov/
 Rutland,_Massachusetts	Rutland, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		249		9043	0			0			4.29		https://www.mass.gov/
 Ryazan_Oblast	Ryazan Oblast	2020-12-29	2020-12-29T07:50:00.000Z	152	17878	16332		143	4	129	2	4	3.29	139.0	130.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -3629,7 +3629,7 @@ Sanders_County,_Montana	Sanders County, Montana	2020-12-29		3	421			0	0		0	0	0.0
 Sandisfield,_Massachusetts	Sandisfield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		16		1030	0			0			0.43		https://www.mass.gov/
 Sandoval_County,_New_Mexico	Sandoval County, New Mexico	2020-12-29		130	7963			72	1		26	-1	1.71	66.57		https://cv.nmhealth.org
 Sandusky_County,_Ohio	Sandusky County, Ohio	2020-12-29	2020-12-29T19:00:00.000Z	55	3439			23	2		-18	2	0.57	40.14		https://coronavirus.ohio.gov/
-Sandwell	Sandwell	2020-12-29			16030			6			0			122.14		https://www.gov.uk/
+Sandwell	Sandwell	2020-12-29			16285			10			-195			158.71		https://www.gov.uk/
 Sandwich,_Massachusetts	Sandwich, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		274		14873	0			0			3.29		https://www.mass.gov/
 Sangamon_County,_Illinois	Sangamon County, Illinois	2020-12-29		174	13093		233192	75	2		7	-1	2.14	59.43		http://www.dph.illinois.gov/
 Sanilac_County,_Michigan	Sanilac County, Michigan	2020-12-29	2020-12-29T17:00:00.000Z	57	1482			14	0	0	5	0	0.14	14.14		https://www.michigan.gov/
@@ -3669,7 +3669,7 @@ Schwaz_District	Schwaz District	2020-12-29	2020-12-29T21:00:00.000Z		6696			36		
 Scioto_County,_Ohio	Scioto County, Ohio	2020-12-29	2020-12-29T19:00:00.000Z	43	4112			78	3		38	0	1.0	43.71		https://coronavirus.ohio.gov/
 Scituate,_Massachusetts	Scituate, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		446		16336	0			0			4.71		https://www.mass.gov/
 Scituate,_Rhode_Island	Scituate, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		443		5171	0			0			6.57		https://health.ri.gov/
-Scotland	Scotland	2020-12-29		4467	122786								20.14	1202.86		https://www.gov.uk/
+Scotland	Scotland	2020-12-29		4467	122786		3349414	1895	7		928	7	20.14	1202.86		https://www.gov.uk/
 Scotland_County,_Missouri	Scotland County, Missouri	2020-12-29	2020-12-29T18:00:00.000Z	3	225		1725	0	0		0	0	0.0	0.43		https://health.mo.gov
 Scotland_County,_North_Carolina	Scotland County, North Carolina	2020-12-29		52	2475			3	0		-1	0	0.14	12.57		https://www.ncdhhs.gov/
 Scott_County,_Arkansas	Scott County, Arkansas	2020-12-29		11	553	475	7704	15	1	5	6	0	0.57	7.86	3.0	https://www.healthy.arkansas.gov/
@@ -3692,12 +3692,12 @@ Sedgwick_County,_Kansas	Sedgwick County, Kansas	2020-12-29	2020-12-29T17:00:00.0
 Seekonk,_Massachusetts	Seekonk, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		636		10196	0			0			8.14		https://www.mass.gov/
 Seminole_County,_Florida	Seminole County, Florida	2020-12-29		311	17642		136303	197	0		93	-2	1.14	145.0		https://floridahealthcovid19.gov/
 Seminole_County,_Georgia	Seminole County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	12	663			10	0		9	0	0.0	4.0		https://dph.georgia.gov/
-Seminole_County,_Oklahoma	Seminole County, Oklahoma	2020-12-29		18	1769	1494							0.38	19.13	19.25	https://coronavirus.health.ok.gov/
+Seminole_County,_Oklahoma	Seminole County, Oklahoma	2020-12-29		18	1769	1494		5	0	25	-7	0	0.38	19.13	19.25	https://coronavirus.health.ok.gov/
 Seneca_County,_New_York	Seneca County, New York	2020-12-29	2020-12-29T14:00:00.000Z	33	748		32319	22	3		1	1	1.71	18.43		https://coronavirus.health.ny.gov/
 Seneca_County,_Ohio	Seneca County, Ohio	2020-12-29	2020-12-29T19:00:00.000Z	37	3361			20	0		-17	-1	1.0	31.0		https://coronavirus.ohio.gov/
 Senegal	Senegal	2020-12-29	2020-12-29T00:00:00.000Z	395	18806	17096		78	5	65	-41	3	3.29	123.0	72.0	https://covid19.sec.gouv.sn/
 Sequatchie_County,_Tennessee	Sequatchie County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	11	1136		10912	3	1	1	-6	1	0.14	14.14		https://www.tn.gov/
-Sequoyah_County,_Oklahoma	Sequoyah County, Oklahoma	2020-12-29		16	2394	2096							0.0	16.88	25.0	https://coronavirus.health.ok.gov/
+Sequoyah_County,_Oklahoma	Sequoyah County, Oklahoma	2020-12-29		16	2394	2096		12	0	31	-11	0	0.0	16.88	25.0	https://coronavirus.health.ok.gov/
 Serbia	Serbia	2020-12-29	2020-12-29T15:00:00.000Z	3119	331755		2268962	3136	46	46	577	3	48.14	3418.29		https://covid19.rs/
 Sergipe	Sergipe	2020-12-29	2020-12-29T22:00:00.000Z	2468	110804			803	7		-255	0	6.86	826.57		https://covid.saude.gov.br/
 Sevier_County,_Arkansas	Sevier County, Arkansas	2020-12-29		20	2050	1944	13249	19	0	14	13	0	0.0	10.71	12.0	https://www.healthy.arkansas.gov/
@@ -3713,7 +3713,7 @@ Shasta_County,_California	Shasta County, California	2020-12-29	2020-12-29T00:00:
 Shawano_County,_Wisconsin	Shawano County, Wisconsin	2020-12-29	2020-12-29T07:00:00.000Z	64	4519		19479	381	8		374	8	1.43	67.0		https://www.dhs.wisconsin.gov/
 Shawnee_County,_Kansas	Shawnee County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		11310			0			-432			89.0		https://www.coronavirus.kdheks.gov
 Sheboygan_County,_Wisconsin	Sheboygan County, Wisconsin	2020-12-29	2020-12-29T07:00:00.000Z	96	11696		51801	516	4		466	3	1.29	111.71		https://www.dhs.wisconsin.gov/
-Sheffield	Sheffield	2020-12-29			29178			24			0			88.43		https://www.gov.uk/
+Sheffield	Sheffield	2020-12-29			29346			27			-77			112.14		https://www.gov.uk/
 Sheffield,_Massachusetts	Sheffield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		45		6991	0			0			0.57		https://www.mass.gov/
 Shelburne,_Massachusetts	Shelburne, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		20		3176	0			0			0.0		https://www.mass.gov/
 Shelby_County,_Alabama	Shelby County, Alabama	2020-12-29		103	15304			145	0		6	0	0.71	156.0		https://covid19.alabama.gov/
@@ -3739,7 +3739,7 @@ Shiawassee_County,_Michigan	Shiawassee County, Michigan	2020-12-29	2020-12-29T17
 Shirley,_Massachusetts	Shirley, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		574		8276	0			0			6.0		https://www.mass.gov/
 Shoshone_County,_Idaho	Shoshone County, Idaho	2020-12-29	2020-12-29T17:00:00.000Z	26	820			11	2		5	1	0.43	5.0		https://coronavirus.idaho.gov/
 Shrewsbury,_Massachusetts	Shrewsbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		1337		42530	0			0			21.57		https://www.mass.gov/
-Shropshire	Shropshire	2020-12-29			7043			8			0			39.57		https://www.gov.uk/
+Shropshire	Shropshire	2020-12-29			7154			9			-84			55.29		https://www.gov.uk/
 Shutesbury,_Massachusetts	Shutesbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		17		1982	0			0			0.43		https://www.mass.gov/
 Shymkent	Shymkent	2020-12-29		79	5496	5299		2	0	8	-2	0	0.0	5.57	2.0	https://www.coronavirus2020.kz/
 Sibley_County,_Minnesota	Sibley County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	5	999			1	0		0	0	0.14	3.71		https://www.health.state.mn.us/
@@ -3761,7 +3761,7 @@ Sitka,_Alaska	Sitka, Alaska	2020-12-29			23			0			0			0.0		http://www.dhss.alask
 Skagit_County,_Washington	Skagit County, Washington	2020-12-29	2020-12-29T23:50:00.000Z	40	3178			11	3		-11	-1	1.0	23.86		https://coronavirus.wa.gov/
 Skamania_County,_Washington	Skamania County, Washington	2020-12-29	2020-12-29T23:50:00.000Z	1	181			1	0		0	0	0.0	1.86		https://coronavirus.wa.gov/
 Slope_County,_North_Dakota	Slope County, North Dakota	2020-12-29	2020-12-29T17:00:00.000Z	0	27	26	185	1	0	1	1	0	0.0	0.14	0.43	https://www.health.nd.gov/
-Slough	Slough	2020-12-29			6802			4			0			108.29		https://www.gov.uk/
+Slough	Slough	2020-12-29			6999			27			-80			136.57		https://www.gov.uk/
 Smith_County,_Kansas	Smith County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		200			0			-3			0.86		https://www.coronavirus.kdheks.gov
 Smith_County,_Mississippi	Smith County, Mississippi	2020-12-29	2020-12-29T05:00:00.000Z	20	998			8	1		-5	1	0.43	7.43		https://msdh.ms.gov/
 Smith_County,_Tennessee	Smith County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	23	2015		12598	2	0	0	-9	0	0.0	11.0		https://www.tn.gov/
@@ -3772,7 +3772,7 @@ Snohomish_County,_Washington	Snohomish County, Washington	2020-12-29	2020-12-29T
 Snyder_County,_Pennsylvania	Snyder County, Pennsylvania	2020-12-29		42	1829		8969	23	1		18	1	1.14	19.71		https://www.health.pa.gov/
 Socorro_County,_New_Mexico	Socorro County, New Mexico	2020-12-29		41	930			4	0		0	0	0.14	7.57		https://cv.nmhealth.org
 Solano_County,_California	Solano County, California	2020-12-29	2020-12-29T16:00:00.000Z	98	18726		166165	208	3		-782	3	0.57	308.29		http://www.solanocounty.com/
-Somerset	Somerset	2020-12-29			9069			29			0			131.71		https://www.gov.uk/
+Somerset	Somerset	2020-12-29			9355			37			-219			172.71		https://www.gov.uk/
 Somerset_County,_Maine	Somerset County, Maine	2020-12-29	2020-12-29T15:00:00.000Z	21	704	388		0	0	0	-11	0	0.0	7.57	1.71	https://www.maine.gov/
 Somerset_County,_Maryland	Somerset County, Maryland	2020-12-29		21	1771			74	1		67	1	0.29	22.0		https://coronavirus.maryland.gov/
 Somerset_County,_New_Jersey	Somerset County, New Jersey	2020-12-29		659	12390			105	1	1	32	1	1.71	104.43		https://www.nj.gov/
@@ -3783,23 +3783,23 @@ Sonoma_County,_California	Sonoma County, California	2020-12-29	2020-12-28	182	18
 South_Africa	South Africa	2020-12-29	2020-12-29T00:00:00.000Z	27568	1021451	858456	6500482	9580	497	8482	2122	161	331.71	11605.57	7173.57	https://sacoronavirus.co.za/
 South_Carolina	South Carolina	2020-12-29		5198	300602			2552	25		681	7	31.71	3221.0		https://www.scdhec.gov/
 South_Dakota	South Dakota	2020-12-29	2020-12-29T18:00:00.000Z	5605	98158	90974	751344	501	22	1286	234	0	20.57	378.43	639.0	https://doh.sd.gov/
-South_East_England	South East England	2020-12-29			259286			264			0			3631.57		https://www.gov.uk/
+South_East_England	South East England	2020-12-29			267426			738			-3142			4776.86		https://www.gov.uk/
 South_El_Monte,_California	South El Monte, California	2020-12-29	2020-12-29T03:00:00.000Z	19	2193			41	0		7	0	0.14	38.43		http://publichealth.lacounty.gov/
 South_Gate,_California	South Gate, California	2020-12-29	2020-12-29T03:00:00.000Z	96	11626			222	2		-10	1	0.57	227.86		http://publichealth.lacounty.gov/
-South_Gloucestershire	South Gloucestershire	2020-12-29			8276			27			0			60.14		https://www.gov.uk/
+South_Gloucestershire	South Gloucestershire	2020-12-29			8404			15			-120			78.14		https://www.gov.uk/
 South_Hadley,_Massachusetts	South Hadley, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		469		23478	0			0			7.29		https://www.mass.gov/
 South_Kingstown,_Rhode_Island	South Kingstown, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		574		12544	0			0			9.0		https://health.ri.gov/
 South_Pasadena,_California	South Pasadena, California	2020-12-29	2020-12-29T03:00:00.000Z	29	796			15	1		-8	1	0.14	16.57		http://publichealth.lacounty.gov/
-South_Tyneside	South Tyneside	2020-12-29			7394			5			0			33.0		https://www.gov.uk/
+South_Tyneside	South Tyneside	2020-12-29			7560			62			-8			56.57		https://www.gov.uk/
 South_Tyrol	South Tyrol	2020-12-29		729	29014	17607	357337	91	7	13	-29	5	4.43	106.71	-86.71	http://www.salute.gov.it/
-South_West_England	South West England	2020-12-29			109552			192			0			1032.57		https://www.gov.uk/
-Southampton	Southampton	2020-12-29			5907			5			0			82.14		https://www.gov.uk/
+South_West_England	South West England	2020-12-29			111769			164			-1723			1346.14		https://www.gov.uk/
+Southampton	Southampton	2020-12-29			6086			15			-94			107.43		https://www.gov.uk/
 Southampton_County,_Virginia	Southampton County, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	42	1132			1	0		-3	0	0.29	5.29		http://www.vdh.virginia.gov/
 Southampton,_Massachusetts	Southampton, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		141		5712	0			0			3.0		https://www.mass.gov/
 Southborough,_Massachusetts	Southborough, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		231		16027	0			0			5.43		https://www.mass.gov/
 Southbridge,_Massachusetts	Southbridge, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		831		15541	0			0			12.86		https://www.mass.gov/
 Southeast_Fairbanks_Census_Area,_Alaska	Southeast Fairbanks Census Area, Alaska	2020-12-29			14			0			0			0.0		http://www.dhss.alaska.gov/
-Southend-on-Sea	Southend-on-Sea	2020-12-29			7162			13			0			111.86		https://www.gov.uk/
+Southend-on-Sea	Southend-on-Sea	2020-12-29			7533			11			-130			161.43		https://www.gov.uk/
 Southwick,_Massachusetts	Southwick, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		251		7530	0			0			2.71		https://www.mass.gov/
 Spain	Spain	2020-12-29	2020-12-29T14:00:00.000Z	50442	1893502			7848	554	554	5026	146	131.71	9085.57		https://www.mscbs.gob.es/
 Spalding_County,_Georgia	Spalding County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	98	3566			71	0		36	0	0.43	53.14		https://dph.georgia.gov/
@@ -3841,7 +3841,7 @@ St._Mary's_County,_Maryland	St. Mary's County, Maryland	2020-12-29		84	3174			30
 St._Tammany_Parish,_Louisiana	St. Tammany Parish, Louisiana	2020-12-29		339	14686		215565	224	4		163	-5	2.43	140.71		http://ldh.la.gov/
 Stafford_County,_Kansas	Stafford County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		268			0			-3			1.14		https://www.coronavirus.kdheks.gov
 Stafford_County,_Virginia	Stafford County, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	24	5036			106	1		67	1	0.14	65.43		http://www.vdh.virginia.gov/
-Staffordshire	Staffordshire	2020-12-29			33898			31			0			227.0		https://www.gov.uk/
+Staffordshire	Staffordshire	2020-12-29			34256			37			-260			278.0		https://www.gov.uk/
 Stanislaus_County,_California	Stanislaus County, California	2020-12-29	2020-12-29T16:30:00.000Z	596	36887	29365		358	10	539	-198	2	7.43	451.0	432.43	http://schsa.org/
 Stanley_County,_South_Dakota	Stanley County, South Dakota	2020-12-29	2020-12-29T18:00:00.000Z	2	269	250	1033	3	0	1	4	0	0.0	1.14	1.43	https://doh.sd.gov/
 Stanly_County,_North_Carolina	Stanly County, North Carolina	2020-12-29		78	4190			29	0		3	0	0.0	42.0		https://www.ncdhhs.gov/
@@ -3859,7 +3859,7 @@ Stearns_County,_Minnesota	Stearns County, Minnesota	2020-12-29	2020-12-29T16:00:
 Steele_County,_Minnesota	Steele County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	9	2484			6	0		3	0	0.0	7.57		https://www.health.state.mn.us/
 Steele_County,_North_Dakota	Steele County, North Dakota	2020-12-29	2020-12-29T17:00:00.000Z	2	165	158	693	1	0	4	1	0	0.0	0.71	1.29	https://www.health.nd.gov/
 Stephens_County,_Georgia	Stephens County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	50	2172			28	0		23	0	0.0	22.0		https://dph.georgia.gov/
-Stephens_County,_Oklahoma	Stephens County, Oklahoma	2020-12-29		23	2888	2410							0.38	44.13	38.63	https://coronavirus.health.ok.gov/
+Stephens_County,_Oklahoma	Stephens County, Oklahoma	2020-12-29		23	2888	2410		28	0	56	1	0	0.38	44.13	38.63	https://coronavirus.health.ok.gov/
 Stephenson_County,_Illinois	Stephenson County, Illinois	2020-12-29		46	3205		33623	26	0		4	-1	0.57	18.71		http://www.dph.illinois.gov/
 Sterling,_Massachusetts	Sterling, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		350		10100	0			0			6.14		https://www.mass.gov/
 Steuben_County,_Indiana	Steuben County, Indiana	2020-12-29		22	2575		10749						0.29	29.29		https://coronavirus.in.gov/
@@ -3873,7 +3873,7 @@ Steyr	Steyr	2020-12-29	2020-12-29T21:00:00.000Z		1547			13			9			9.29		https://i
 Stillwater_County,_Montana	Stillwater County, Montana	2020-12-29		8	539			5	0		5	0	0.0	1.86		https://dphhs.mt.gov/
 Stockbridge,_Massachusetts	Stockbridge, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		27		2139	0			0			0.14		https://www.mass.gov/
 Stoddard_County,_Missouri	Stoddard County, Missouri	2020-12-29	2020-12-29T18:00:00.000Z	33	1999		11674	6	1		-1	1	0.29	4.43		https://health.mo.gov
-Stoke-on-Trent	Stoke-on-Trent	2020-12-29			12580			7			0			54.71		https://www.gov.uk/
+Stoke-on-Trent	Stoke-on-Trent	2020-12-29			12667			22			-46			67.29		https://www.gov.uk/
 Stokes_County,_North_Carolina	Stokes County, North Carolina	2020-12-29		26	1936			19	0		-1	-1	0.43	24.14		https://www.ncdhhs.gov/
 Stone_County,_Arkansas	Stone County, Arkansas	2020-12-29		26	754	620	7877	9	0	6	8	0	0.0	9.86	7.57	https://www.healthy.arkansas.gov/
 Stone_County,_Mississippi	Stone County, Mississippi	2020-12-29	2020-12-29T05:00:00.000Z	18	1132			6	0		-2	0	0.0	9.57		https://msdh.ms.gov/
@@ -3889,7 +3889,7 @@ Stutsman_County,_North_Dakota	Stutsman County, North Dakota	2020-12-29	2020-12-2
 Styria	Styria	2020-12-29	2020-12-29T21:00:00.000Z	1032		36845			14	478		-19	12.71		591.14	https://info.gesundheitsministerium.at/
 Sublette_County,_Wyoming	Sublette County, Wyoming	2020-12-29	2020-12-29T22:00:00.000Z	5	485	567		1	0	7	-3	0	0.0	1.57	3.0	https://health.wyo.gov/
 Sudbury,_Massachusetts	Sudbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		376		20041	0			0			4.14		https://www.mass.gov/
-Suffolk	Suffolk	2020-12-29			12482			0			0			177.71		https://www.gov.uk/
+Suffolk	Suffolk	2020-12-29			13010			57			-308			252.0		https://www.gov.uk/
 Suffolk_County,_Massachusetts	Suffolk County, Massachusetts	2020-12-29	2020-12-29T16:00:00.000Z	1361	53046			448	4		-71	-1	5.14	504.0		https://www.mass.gov/
 Suffolk_County,_New_York	Suffolk County, New York	2020-12-29	2020-12-29T14:00:00.000Z	2274	92391		1910577	1212	12		175	1	11.0	1177.86		https://coronavirus.health.ny.gov/
 Suffolk,_Virginia	Suffolk, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	89	3890			21	0		-7	0	0.0	44.14		http://www.vdh.virginia.gov/
@@ -3912,7 +3912,7 @@ Sumter_County,_Georgia	Sumter County, Georgia	2020-12-29	2020-12-29T18:50:10.000
 Sumter_County,_South_Carolina	Sumter County, South Carolina	2020-12-29		115	5243			27	0		7	0	0.29	44.14		https://www.scdhec.gov/
 Sunderland,_Massachusetts	Sunderland, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		79		12934	0			0			0.57		https://www.mass.gov/
 Sunflower_County,_Mississippi	Sunflower County, Mississippi	2020-12-29	2020-12-29T05:00:00.000Z	59	2355			20	0		5	0	0.0	13.57		https://msdh.ms.gov/
-Surrey	Surrey	2020-12-29			33031			23			0			441.14		https://www.gov.uk/
+Surrey	Surrey	2020-12-29			34313			42			-374			616.14		https://www.gov.uk/
 Surry_County,_North_Carolina	Surry County, North Carolina	2020-12-29		63	4266			15	0		-20	0	0.86	42.29		https://www.ncdhhs.gov/
 Surry_County,_Virginia	Surry County, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	5	245			3	0		0	0	0.0	2.71		http://www.vdh.virginia.gov/
 Susquehanna_County,_Pennsylvania	Susquehanna County, Pennsylvania	2020-12-29		37	981		8767	12	0		11	0	0.0	13.71		https://www.health.pa.gov/
@@ -3940,7 +3940,7 @@ Tallahatchie_County,_Mississippi	Tallahatchie County, Mississippi	2020-12-29	202
 Tallapoosa_County,_Alabama	Tallapoosa County, Alabama	2020-12-29		98	2329			25	0		14	0	0.29	16.71		https://covid19.alabama.gov/
 Tama_County,_Iowa	Tama County, Iowa	2020-12-29	2020-12-29T00:00:00.000Z	55	1744	1517	6915	5	0	14	5	0	0.0	5.71	9.14	https://idph.iowa.gov
 Tambov_Oblast	Tambov Oblast	2020-12-29	2020-12-29T07:50:00.000Z	180	17333	15317		157	2	79	-1	-1	2.29	154.86	149.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Tameside	Tameside	2020-12-29			11704			15			0			45.0		https://www.gov.uk/
+Tameside	Tameside	2020-12-29			11750			7			-47			51.57		https://www.gov.uk/
 Taney_County,_Missouri	Taney County, Missouri	2020-12-29	2020-12-29T18:00:00.000Z	52	3696		25626	4	1		-3	1	0.43	15.0		https://health.mo.gov
 Tangipahoa_Parish,_Louisiana	Tangipahoa Parish, Louisiana	2020-12-29		172	8829		102104	167	2		165	2	1.0	51.43		http://ldh.la.gov/
 Taos_County,_New_Mexico	Taos County, New Mexico	2020-12-29		39	1133			4	0		4	0	0.29	6.43		https://cv.nmhealth.org
@@ -3961,7 +3961,7 @@ Tazewell_County,_Virginia	Tazewell County, Virginia	2020-12-29	2020-12-29T14:00:
 Tboung_Khmum_Province	Tboung Khmum Province	2020-12-29	2020-12-29T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Tehama_County,_California	Tehama County, California	2020-12-29	2020-12-29T00:00:00.000Z	34	3222	1868		205	0	0	205	0	0.29	50.0	0.29	https://www.co.tehama.ca.us/
 Telfair_County,_Georgia	Telfair County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	36	759			5	0		3	0	0.0	3.29		https://dph.georgia.gov/
-Telford_and_Wrekin	Telford and Wrekin	2020-12-29			5239			0			0			26.14		https://www.gov.uk/
+Telford_and_Wrekin	Telford and Wrekin	2020-12-29			5309			5			-50			36.0		https://www.gov.uk/
 Teller_County,_Colorado	Teller County, Colorado	2020-12-29		9	966			5	2		0	2	0.29	5.29		https://covid19.colorado.gov/
 Temple_City,_California	Temple City, California	2020-12-29	2020-12-29T03:00:00.000Z	65	1430			20	1		-8	1	0.29	24.86		http://publichealth.lacounty.gov/
 Templeton,_Massachusetts	Templeton, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		261		8101	0			0			4.14		https://www.mass.gov/
@@ -3974,7 +3974,7 @@ Teton_County,_Montana	Teton County, Montana	2020-12-29		3	310			10	0		10	0	0.0	3
 Teton_County,_Wyoming	Teton County, Wyoming	2020-12-29	2020-12-29T22:00:00.000Z	3	2052	2055		4	0	18	-23	-1	0.14	10.86	13.71	https://health.wyo.gov/
 Tewksbury,_Massachusetts	Tewksbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		1714		42818	0			0			29.71		https://www.mass.gov/
 Texas_County,_Missouri	Texas County, Missouri	2020-12-29	2020-12-29T18:00:00.000Z	17	1316		9786	6	1		-8	1	0.57	8.43		https://health.mo.gov
-Texas_County,_Oklahoma	Texas County, Oklahoma	2020-12-29		16	2926	2767							0.13	11.88	18.38	https://coronavirus.health.ok.gov/
+Texas_County,_Oklahoma	Texas County, Oklahoma	2020-12-29		16	2926	2767		0	0	20	-10	0	0.13	11.88	18.38	https://coronavirus.health.ok.gov/
 Thái_Bình_Province	Thái Bình Province	2020-12-29	2020-12-29T00:00:00.000Z	0	38	37		0	0	0	0	0	0.0	0.0	0.14	https://ncov.moh.gov.vn/
 Thái_Nguyên_Province	Thái Nguyên Province	2020-12-29	2020-12-29T00:00:00.000Z	0	1	1		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Thailand	Thailand	2020-12-29	2020-12-29T12:28:00.000Z	61	6440	4184		155	1	4	11	1	0.14	103.43	15.14	http://covid19.ddc.moph.go.th/
@@ -3985,12 +3985,12 @@ Thomas_County,_Georgia	Thomas County, Georgia	2020-12-29	2020-12-29T18:50:10.000
 Thomas_County,_Kansas	Thomas County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		866			0			-16			4.43		https://www.coronavirus.kdheks.gov
 Thomas_County,_Nebraska	Thomas County, Nebraska	2020-12-29		0	46		218	0	0		0	0	0.0	0.29		http://dhhs.ne.gov/
 Thừa_Thiên-Huế_Province	Thừa Thiên-Huế Province	2020-12-29	2020-12-29T00:00:00.000Z	0	2	2		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
-Thurrock	Thurrock	2020-12-29			9179			12			0			169.57		https://www.gov.uk/
+Thurrock	Thurrock	2020-12-29			9514			42			-90			216.43		https://www.gov.uk/
 Thurston_County,_Nebraska	Thurston County, Nebraska	2020-12-29		9	694		3258	2	0		-7	0	0.0	3.29		http://dhhs.ne.gov/
 Thurston_County,_Washington	Thurston County, Washington	2020-12-29	2020-12-29T23:50:00.000Z	54	4626			45	1		3	0	0.57	40.57		https://coronavirus.wa.gov/
 Tift_County,_Georgia	Tift County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	80	3437			74	0		55	0	0.0	37.43		https://dph.georgia.gov/
 Tillamook_County,_Oregon	Tillamook County, Oregon	2020-12-29	2020-12-29T08:00:00.000Z	0	293		9034	15	0		15	0	0.0	3.71		https://govstatus.egov.com/OR-OHA-COVID-19
-Tillman_County,_Oklahoma	Tillman County, Oklahoma	2020-12-29		8	536	480							0.0	5.38	7.25	https://coronavirus.health.ok.gov/
+Tillman_County,_Oklahoma	Tillman County, Oklahoma	2020-12-29		8	536	480		1	0	11	-4	0	0.0	5.38	7.25	https://coronavirus.health.ok.gov/
 Tioga_County,_New_York	Tioga County, New York	2020-12-29	2020-12-29T14:00:00.000Z	54	1630		51901	14	0		-1	0	0.0	20.57		https://coronavirus.health.ny.gov/
 Tioga_County,_Pennsylvania	Tioga County, Pennsylvania	2020-12-29		54	1886		8857	13	4		-7	4	1.0	13.43		https://www.health.pa.gov/
 Tippah_County,_Mississippi	Tippah County, Mississippi	2020-12-29	2020-12-29T05:00:00.000Z	40	1943			24	0		8	0	0.0	18.57		https://msdh.ms.gov/
@@ -4012,14 +4012,14 @@ Tooele_County,_Utah	Tooele County, Utah	2020-12-29	2020-12-29T19:00:00.000Z	12	4
 Toole_County,_Montana	Toole County, Montana	2020-12-29		8	672			1	0		2	0	0.0	0.0		https://dphhs.mt.gov/
 Toombs_County,_Georgia	Toombs County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	70	2216			30	0		17	0	0.0	27.0		https://dph.georgia.gov/
 Topsfield,_Massachusetts	Topsfield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		242		8341	0			0			3.71		https://www.mass.gov/
-Torbay	Torbay	2020-12-29			2246			1			0			9.71		https://www.gov.uk/
+Torbay	Torbay	2020-12-29			2268			5			-12			12.86		https://www.gov.uk/
 Torrance_County,_New_Mexico	Torrance County, New Mexico	2020-12-29		4	475			3	0		2	-1	0.14	5.14		https://cv.nmhealth.org
 Torrance,_California	Torrance, California	2020-12-29	2020-12-29T03:00:00.000Z	85	3782			53	3		-38	3	0.86	79.86		http://publichealth.lacounty.gov/
 Towner_County,_North_Dakota	Towner County, North Dakota	2020-12-29	2020-12-29T17:00:00.000Z	10	270	248	1004	4	0	5	3	0	0.0	1.57	2.14	https://www.health.nd.gov/
 Towns_County,_Georgia	Towns County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	37	780			11	1		9	1	0.29	7.29		https://dph.georgia.gov/
 Townsend,_Massachusetts	Townsend, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		185		7093	0			0			2.0		https://www.mass.gov/
 Trà_Vinh_Province	Trà Vinh Province	2020-12-29	2020-12-29T00:00:00.000Z	0	7	5		0	0	0	0	0	0.0	0.29	0.0	https://ncov.moh.gov.vn/
-Trafford	Trafford	2020-12-29			10240			17			0			53.57		https://www.gov.uk/
+Trafford	Trafford	2020-12-29			10384			27			-54			73.0		https://www.gov.uk/
 Traill_County,_North_Dakota	Traill County, North Dakota	2020-12-29	2020-12-29T17:00:00.000Z	17	906	866	3550	4	0	6	3	0	0.0	1.57	3.29	https://www.health.nd.gov/
 Transylvania_County,_North_Carolina	Transylvania County, North Carolina	2020-12-29		10	874			6	0		0	0	0.0	12.29		https://www.ncdhhs.gov/
 Traverse_County,_Minnesota	Traverse County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	2	203			0	0		-1	0	0.0	0.86		https://www.health.state.mn.us/
@@ -4041,7 +4041,7 @@ Tucker_County,_West_Virginia	Tucker County, West Virginia	2020-12-29	2020-12-29T
 Tula_Oblast	Tula Oblast	2020-12-29	2020-12-29T07:50:00.000Z	727	22427	19683		208	10	190	-1	0	10.0	207.57	188.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tulare_County,_California	Tulare County, California	2020-12-29	2020-12-29T00:00:00.000Z	389	32578	27735		469	3	701	25	-10	4.14	361.0	471.43	https://tchhsa.org/
 Tulln_District	Tulln District	2020-12-29	2020-12-29T21:00:00.000Z		2874			30			19			21.43		https://info.gesundheitsministerium.at/
-Tulsa_County,_Oklahoma	Tulsa County, Oklahoma	2020-12-29		379	47164	41671							3.63	383.0	463.25	https://coronavirus.health.ok.gov/
+Tulsa_County,_Oklahoma	Tulsa County, Oklahoma	2020-12-29		379	47164	41671		165	3	520	-467	2	3.63	383.0	463.25	https://coronavirus.health.ok.gov/
 Tunica_County,_Mississippi	Tunica County, Mississippi	2020-12-29	2020-12-29T05:00:00.000Z	19	730			6	0		2	0	0.0	3.43		https://msdh.ms.gov/
 Tunisia	Tunisia	2020-12-29	2020-12-28T00:00:00.000Z	4466	131592			1362	0		0	-81	38.14	1410.57		https://covid-19.tn/
 Tuolumne_County,_California	Tuolumne County, California	2020-12-29	2020-12-29T00:00:00.000Z	21	2841	1680	21447	14	0	15	-5	0	0.14	38.86	19.43	https://www.tuolumnecounty.ca.gov/
@@ -4091,8 +4091,8 @@ Union_County,_South_Dakota	Union County, South Dakota	2020-12-29	2020-12-29T18:0
 Union_County,_Tennessee	Union County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	14	1197		9598	4	0	0	-2	-2	0.71	9.57		https://www.tn.gov/
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-12-29		65	1744		23461	7	2		1	2	0.29	9.71		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-12-29	2020-12-29T09:59:00.000Z	662	204369	181400	20593376	1506	2	1475	479	-1	2.86	1213.0	1421.29	https://covid19.ncema.gov.ae/
-United_Kingdom	United Kingdom	2020-12-29		71567	2382865								465.71	38935.86		https://www.gov.uk/
-United_States	United States	2020-12-29	2020-12-30T20:37:43.899Z	341095	19411578			202818	3521		49415	1968	2243.14	178097.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_Kingdom	United Kingdom	2020-12-29		71567	2382865		54467027	53135	414		11750	57	465.71	38935.86		https://www.gov.uk/
+United_States	United States	2020-12-29	2020-12-30T21:38:29.611Z	341095	19411578			202818	3521		49415	1968	2243.14	178097.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2020-12-29	2020-12-29T21:00:00.000Z	1024		67065			11	318		-10	12.71		415.0	https://info.gesundheitsministerium.at/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-12-29	2020-12-29T10:00:00.000Z	4	870	701	15498	34	0	21	25	0	0.0	18.71	11.43	https://dhhr.wv.gov/
 Upson_County,_Georgia	Upson County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	82	2050			48	0		27	0	0.14	24.71		https://dph.georgia.gov/
@@ -4102,7 +4102,6 @@ Utah	Utah	2020-12-29	2020-12-29T19:00:00.000Z	1235	269326	218522	1705452	2736	16
 Utah_County,_Utah	Utah County, Utah	2020-12-29	2020-12-29T19:00:00.000Z	208	65643			787	3		380	2	1.43	483.43		https://coronavirus.utah.gov/
 Uxbridge,_Massachusetts	Uxbridge, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		428		11666	0			0			7.0		https://www.mass.gov/
 Valencia_County,_New_Mexico	Valencia County, New Mexico	2020-12-29		66	4783			22	0		9	-3	1.71	35.14		https://cv.nmhealth.org
-Valencian_Community	Valencian Community	2020-12-29	2020-12-29T17:16:27.000Z	1383	10987								0.0	0.0		https://www.mscbs.gob.es/
 Valley_County,_Idaho	Valley County, Idaho	2020-12-29	2020-12-29T17:00:00.000Z	3	458			10	0		10	0	0.0	9.71		https://coronavirus.idaho.gov/
 Valley_County,_Montana	Valley County, Montana	2020-12-29		7	643			6	0		6	0	0.0	1.43		https://dphhs.mt.gov/
 Valley_County,_Nebraska	Valley County, Nebraska	2020-12-29		3	247		1264	1	0		0	0	0.0	1.14		http://dhhs.ne.gov/
@@ -4149,7 +4148,7 @@ Wabash_County,_Indiana	Wabash County, Indiana	2020-12-29		43	2574		11970						0.
 Wabasha_County,_Minnesota	Wabasha County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	2	1472			7	0		4	0	0.0	7.0		https://www.health.state.mn.us/
 Wabaunsee_County,_Kansas	Wabaunsee County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		430			0			-43			8.43		https://www.coronavirus.kdheks.gov
 Wadena_County,_Minnesota	Wadena County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	12	1113			2	0		-3	0	0.29	4.29		https://www.health.state.mn.us/
-Wagoner_County,_Oklahoma	Wagoner County, Oklahoma	2020-12-29		44	4474	3739							0.25	62.25	61.5	https://coronavirus.health.ok.gov/
+Wagoner_County,_Oklahoma	Wagoner County, Oklahoma	2020-12-29		44	4474	3739		26	0	114	-54	0	0.25	62.25	61.5	https://coronavirus.health.ok.gov/
 Wahkiakum_County,_Washington	Wahkiakum County, Washington	2020-12-29	2020-12-29T23:50:00.000Z	0	48			1	0		1	0	0.0	0.43		https://coronavirus.wa.gov/
 Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2020-12-29	2020-12-29T21:00:00.000Z		815			2			-3			1.71		https://info.gesundheitsministerium.at/
 Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2020-12-29	2020-12-29T21:00:00.000Z		478			9			1			7.57		https://info.gesundheitsministerium.at/
@@ -4157,7 +4156,7 @@ Wake_County,_North_Carolina	Wake County, North Carolina	2020-12-29		337	42330			
 Wakefield,_Massachusetts	Wakefield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		1077		34795	0			0			21.29		https://www.mass.gov/
 Wakulla_County,_Florida	Wakulla County, Florida	2020-12-29		22	2051		14577	19	1		14	1	0.14	16.43		https://floridahealthcovid19.gov/
 Waldo_County,_Maine	Waldo County, Maine	2020-12-29	2020-12-29T15:00:00.000Z	17	367	206		0	0	0	-2	0	0.0	2.71	0.43	https://www.maine.gov/
-Wales	Wales	2020-12-29		3416	144425								38.14	2333.71		https://www.gov.uk/
+Wales	Wales	2020-12-29		3416	144425		1981635	2510	33		237	18	38.14	2333.71		https://www.gov.uk/
 Wales,_Massachusetts	Wales, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		30		1138	0			0			0.43		https://www.mass.gov/
 Walker_County,_Alabama	Walker County, Alabama	2020-12-29		136	5069			23	3		13	3	0.57	34.86		https://covid19.alabama.gov/
 Walker_County,_Georgia	Walker County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	57	3968			88	0		69	0	0.14	44.0		https://dph.georgia.gov/
@@ -4195,10 +4194,10 @@ Warren_County,_Virginia	Warren County, Virginia	2020-12-29	2020-12-29T14:00:00.0
 Warren,_Massachusetts	Warren, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		69		3224	0			0			1.0		https://www.mass.gov/
 Warren,_Rhode_Island	Warren, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		521		4420	0			0			13.14		https://health.ri.gov/
 Warrick_County,_Indiana	Warrick County, Indiana	2020-12-29		86	5074		25673						0.0	54.86		https://coronavirus.in.gov/
-Warrington	Warrington	2020-12-29			10035			22			0			62.14		https://www.gov.uk/
+Warrington	Warrington	2020-12-29			10145			17			-64			78.43		https://www.gov.uk/
 Warwick,_Massachusetts	Warwick, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		3		507	0			0			0.0		https://www.mass.gov/
 Warwick,_Rhode_Island	Warwick, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		4530		32625	0			0			56.86		https://health.ri.gov/
-Warwickshire	Warwickshire	2020-12-29			16865			15			0			129.0		https://www.gov.uk/
+Warwickshire	Warwickshire	2020-12-29			17201			45			-200			176.0		https://www.gov.uk/
 Wasatch_County,_Utah	Wasatch County, Utah	2020-12-29	2020-12-29T19:00:00.000Z	15	3117			29	0		-2	0	0.0	22.57		https://coronavirus.utah.gov/
 Wasco_County,_Oregon	Wasco County, Oregon	2020-12-29	2020-12-29T08:00:00.000Z	22	872		18944	46	0		46	0	0.29	10.0		https://govstatus.egov.com/OR-OHA-COVID-19
 Waseca_County,_Minnesota	Waseca County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	12	1717			3	0		0	0	0.0	8.29		https://www.health.state.mn.us/
@@ -4225,7 +4224,7 @@ Washington_County,_Nebraska	Washington County, Nebraska	2020-12-29		17	1608		812
 Washington_County,_New_York	Washington County, New York	2020-12-29	2020-12-29T14:00:00.000Z	15	775		55743	8	0		-10	-1	0.14	14.86		https://coronavirus.health.ny.gov/
 Washington_County,_North_Carolina	Washington County, North Carolina	2020-12-29		10	428			5	0		5	0	0.0	5.57		https://www.ncdhhs.gov/
 Washington_County,_Ohio	Washington County, Ohio	2020-12-29	2020-12-29T19:00:00.000Z	38	2909			27	0		2	-1	0.43	33.57		https://coronavirus.ohio.gov/
-Washington_County,_Oklahoma	Washington County, Oklahoma	2020-12-29		58	3072	2713							0.63	23.5	36.75	https://coronavirus.health.ok.gov/
+Washington_County,_Oklahoma	Washington County, Oklahoma	2020-12-29		58	3072	2713		9	0	49	-22	-1	0.63	23.5	36.75	https://coronavirus.health.ok.gov/
 Washington_County,_Oregon	Washington County, Oregon	2020-12-29	2020-12-29T08:00:00.000Z	139	15785		397316	713	1		713	1	0.14	129.57		https://govstatus.egov.com/OR-OHA-COVID-19
 Washington_County,_Pennsylvania	Washington County, Pennsylvania	2020-12-29		122	8727		48677	289	0		241	-2	0.86	129.0		https://www.health.pa.gov/
 Washington_County,_Tennessee	Washington County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	162	10026		71776	45	5	5	-14	3	1.57	97.29		https://www.tn.gov/
@@ -4236,7 +4235,7 @@ Washington_County,_Wisconsin	Washington County, Wisconsin	2020-12-29	2020-12-29T
 Washington_Parish,_Louisiana	Washington Parish, Louisiana	2020-12-29		86	3070		39886	29	0		18	0	0.57	24.71		http://ldh.la.gov/
 Washington,_D.C.	Washington, D.C.	2020-12-29	2020-03-31T04:00:00.000Z	775	28535	20316	888992	193	4	173	53	1	4.43	233.57	148.71	https://coronavirus.dc.gov/
 Washington,_Massachusetts	Washington, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		3		289	0			0			0.0		https://www.mass.gov/
-Washita_County,_Oklahoma	Washita County, Oklahoma	2020-12-29		3	742	630							0.0	10.25	11.63	https://coronavirus.health.ok.gov/
+Washita_County,_Oklahoma	Washita County, Oklahoma	2020-12-29		3	742	630		4	0	18	-3	0	0.0	10.25	11.63	https://coronavirus.health.ok.gov/
 Washoe_County,_Nevada	Washoe County, Nevada	2020-12-29	2020-12-29T15:14:00.000Z	474	35132	20575	294634	94	14	83	-82	14	7.0	218.0	155.57	https://www.washoecounty.us/
 Washtenaw_County,_Michigan	Washtenaw County, Michigan	2020-12-29	2020-12-29T17:00:00.000Z	192	13595			147	0	0	28	0	1.71	71.14		https://www.michigan.gov/
 Watauga_County,_North_Carolina	Watauga County, North Carolina	2020-12-29		14	2541			13	0		7	0	0.0	18.86		https://www.ncdhhs.gov/
@@ -4284,7 +4283,7 @@ Wels	Wels	2020-12-29	2020-12-29T21:00:00.000Z		3052			12			10			11.57		https://i
 Wendell,_Massachusetts	Wendell, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		8		774	0			0			0.29		https://www.mass.gov/
 Wenham,_Massachusetts	Wenham, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		119		7022	0			0			2.86		https://www.mass.gov/
 West_Baton_Rouge_Parish,_Louisiana	West Baton Rouge Parish, Louisiana	2020-12-29		47	1778		17187	32	0		27	0	0.0	11.86		http://ldh.la.gov/
-West_Berkshire	West Berkshire	2020-12-29			3141			8			0			48.0		https://www.gov.uk/
+West_Berkshire	West Berkshire	2020-12-29			3239			25			-49			62.0		https://www.gov.uk/
 West_Boylston,_Massachusetts	West Boylston, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		228		8017	0			0			4.14		https://www.mass.gov/
 West_Bridgewater,_Massachusetts	West Bridgewater, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		362		9096	0			0			7.29		https://www.mass.gov/
 West_Brookfield,_Massachusetts	West Brookfield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		92		4304	0			0			2.0		https://www.mass.gov/
@@ -4294,11 +4293,11 @@ West_Feliciana_Parish,_Louisiana	West Feliciana Parish, Louisiana	2020-12-29		25
 West_Greenwich,_Rhode_Island	West Greenwich, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		242		2589	0			0			3.43		https://health.ri.gov/
 West_Hollywood,_California	West Hollywood, California	2020-12-29	2020-12-29T03:00:00.000Z	11	1392			24	0		12	0	0.14	17.29		http://publichealth.lacounty.gov/
 West_Kazakhstan_Region	West Kazakhstan Region	2020-12-29		169	9119	7958		45	9	13	6	9	1.29	36.0	27.57	https://www.coronavirus2020.kz/
-West_Midlands_(region)	West Midlands (region)	2020-12-29			219065			117			0			1553.0		https://www.gov.uk/
+West_Midlands_(region)	West Midlands (region)	2020-12-29			222497			289			-2295			2040.71		https://www.gov.uk/
 West_Newbury,_Massachusetts	West Newbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		87		4171	0			0			1.29		https://www.mass.gov/
 West_Springfield,_Massachusetts	West Springfield, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		1372		27934	0			0			19.86		https://www.mass.gov/
 West_Stockbridge,_Massachusetts	West Stockbridge, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		18		1213	0			0			0.0		https://www.mass.gov/
-West_Sussex	West Sussex	2020-12-29			15696			7			0			246.43		https://www.gov.uk/
+West_Sussex	West Sussex	2020-12-29			16491			57			-360			356.57		https://www.gov.uk/
 West_Tisbury,_Massachusetts	West Tisbury, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		49		3348	0			0			0.29		https://www.mass.gov/
 West_Virginia	West Virginia	2020-12-29	2020-12-29T15:00:00.000Z	1284	82773		1468110	1337	21		611	12	16.14	1148.0		https://dhhr.wv.gov/
 West_Warwick,_Rhode_Island	West Warwick, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		1751		12148	0			0			18.29		https://health.ri.gov/
@@ -4363,7 +4362,7 @@ Wilmington,_Massachusetts	Wilmington, Massachusetts	2020-12-29	2020-12-29T21:00:
 Wilson_County,_Kansas	Wilson County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		604			0			-25			6.71		https://www.coronavirus.kdheks.gov
 Wilson_County,_North_Carolina	Wilson County, North Carolina	2020-12-29		103	5384			19	0		-4	0	0.43	38.29		https://www.ncdhhs.gov/
 Wilson_County,_Tennessee	Wilson County, Tennessee	2020-12-29	2020-12-28T20:00:00.000Z	123	12178		88974	126	1	1	46	0	1.14	119.86		https://www.tn.gov/
-Wiltshire	Wiltshire	2020-12-29			7385			13			0			83.86		https://www.gov.uk/
+Wiltshire	Wiltshire	2020-12-29			7547			7			-143			106.14		https://www.gov.uk/
 Winchendon,_Massachusetts	Winchendon, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		274		8437	0			0			3.71		https://www.mass.gov/
 Winchester,_Massachusetts	Winchester, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		596		32161	0			0			11.57		https://www.mass.gov/
 Winchester,_Virginia	Winchester, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	8	1616			15	0		7	0	0.29	18.86		http://www.vdh.virginia.gov/
@@ -4386,7 +4385,7 @@ Wise_County,_Virginia	Wise County, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	
 Woburn,_Massachusetts	Woburn, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		2222		47975	0			0			37.29		https://www.mass.gov/
 Wolfe_County,_Kentucky	Wolfe County, Kentucky	2020-12-29		3	300			2	1		1	1	0.29	2.86		https://govstatus.egov.com/
 Wolfsberg_District	Wolfsberg District	2020-12-29	2020-12-29T21:00:00.000Z		2214			14			8			8.86		https://info.gesundheitsministerium.at/
-Wolverhampton	Wolverhampton	2020-12-29			11675			20			0			118.14		https://www.gov.uk/
+Wolverhampton	Wolverhampton	2020-12-29			11935			45			-150			154.71		https://www.gov.uk/
 Wood_County,_Ohio	Wood County, Ohio	2020-12-29	2020-12-29T19:00:00.000Z	144	8090			99	1		40	1	0.29	77.0		https://coronavirus.ohio.gov/
 Wood_County,_West_Virginia	Wood County, West Virginia	2020-12-29	2020-12-29T10:00:00.000Z	41	4814	3693	60325	79	0	118	30	0	0.29	68.29	63.86	https://dhhr.wv.gov/
 Wood_County,_Wisconsin	Wood County, Wisconsin	2020-12-29	2020-12-29T07:00:00.000Z	53	5927		32279	386	9		380	5	2.14	83.14		https://www.dhs.wisconsin.gov/
@@ -4394,14 +4393,14 @@ Woodbury_County,_Iowa	Woodbury County, Iowa	2020-12-29	2020-12-29T00:00:00.000Z	
 Woodford_County,_Illinois	Woodford County, Illinois	2020-12-29		45	2712		38367	22	1		0	-1	1.0	18.86		http://www.dph.illinois.gov/
 Woodford_County,_Kentucky	Woodford County, Kentucky	2020-12-29		1	1229			15	0		9	0	0.0	8.0		https://govstatus.egov.com/
 Woodruff_County,_Arkansas	Woodruff County, Arkansas	2020-12-29		2	335	288	5249	7	0	4	6	0	0.14	4.43	5.57	https://www.healthy.arkansas.gov/
-Woods_County,_Oklahoma	Woods County, Oklahoma	2020-12-29		5	943	746							0.13	18.5	9.0	https://coronavirus.health.ok.gov/
+Woods_County,_Oklahoma	Woods County, Oklahoma	2020-12-29		5	943	746		22	1	23	10	1	0.13	18.5	9.0	https://coronavirus.health.ok.gov/
 Woodson_County,_Kansas	Woodson County, Kansas	2020-12-29	2020-12-29T17:00:00.000Z		108			0			-9			1.57		https://www.coronavirus.kdheks.gov
-Woodward_County,_Oklahoma	Woodward County, Oklahoma	2020-12-29		10	2440	2269							0.0	17.13	20.38	https://coronavirus.health.ok.gov/
+Woodward_County,_Oklahoma	Woodward County, Oklahoma	2020-12-29		10	2440	2269		11	0	41	-31	0	0.0	17.13	20.38	https://coronavirus.health.ok.gov/
 Woonsocket,_Rhode_Island	Woonsocket, Rhode Island	2020-12-29	2020-12-23T15:32:00.000Z		2622		16130	0			0			45.14		https://health.ri.gov/
 Worcester_County,_Maryland	Worcester County, Maryland	2020-12-29		45	2087			16	0		7	-1	0.43	26.29		https://coronavirus.maryland.gov/
 Worcester_County,_Massachusetts	Worcester County, Massachusetts	2020-12-29	2020-12-29T16:00:00.000Z	1489	40795			377	11		95	0	10.14	505.71		https://www.mass.gov/
 Worcester,_Massachusetts	Worcester, Massachusetts	2020-12-29	2020-12-29T21:00:00.000Z		13435		417354	0			0			155.86		https://www.mass.gov/
-Worcestershire	Worcestershire	2020-12-29			14754			5			0			123.0		https://www.gov.uk/
+Worcestershire	Worcestershire	2020-12-29			15044			18			-185			163.57		https://www.gov.uk/
 Worth_County,_Georgia	Worth County, Georgia	2020-12-29	2020-12-29T18:50:10.000Z	40	1062			17	0		11	0	0.0	12.14		https://dph.georgia.gov/
 Worth_County,_Iowa	Worth County, Iowa	2020-12-29	2020-12-29T00:00:00.000Z	3	509	385	2963	5	1	11	4	1	0.14	4.43	5.43	https://idph.iowa.gov
 Worth_County,_Missouri	Worth County, Missouri	2020-12-29	2020-12-29T18:00:00.000Z	1	116		1061	1	0		1	0	0.0	0.86		https://health.mo.gov
@@ -4434,13 +4433,13 @@ Yell_County,_Arkansas	Yell County, Arkansas	2020-12-29		41	2332	2046	23714	27	0	
 Yellow_Medicine_County,_Minnesota	Yellow Medicine County, Minnesota	2020-12-29	2020-12-29T16:00:00.000Z	14	858			2	0		-1	0	0.0	2.71		https://www.health.state.mn.us/
 Yellowstone_County,_Montana	Yellowstone County, Montana	2020-12-29		159	13697			68	0		42	0	0.86	55.57		https://dphhs.mt.gov/
 Yolo_County,_California	Yolo County, California	2020-12-29	2020-12-28	109	8031	7193	71952	112	0	165	-14	0	0.71	109.29	408.57	https://www.cdph.ca.gov
-York	York	2020-12-29			6890			6			0			62.71		https://www.gov.uk/
+York	York	2020-12-29			7039			32			-90			84.0		https://www.gov.uk/
 York_County,_Maine	York County, Maine	2020-12-29	2020-12-29T15:00:00.000Z	59	4574	2245		0	0	0	-174	-3	1.43	99.57	9.14	https://www.maine.gov/
 York_County,_Nebraska	York County, Nebraska	2020-12-29		7	1229		5568	4	0		1	0	0.14	2.86		http://dhhs.ne.gov/
 York_County,_Pennsylvania	York County, Pennsylvania	2020-12-29		394	22537		128289	244	15		39	10	6.29	315.0		https://www.health.pa.gov/
 York_County,_South_Carolina	York County, South Carolina	2020-12-29		178	13835			113	0		38	0	1.14	155.29		https://www.scdhec.gov/
 York_County,_Virginia	York County, Virginia	2020-12-29	2020-12-29T14:00:00.000Z	11	1441			44	0		19	0	0.14	19.29		http://www.vdh.virginia.gov/
-Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-12-29			251525			259			0			972.14		https://www.gov.uk/
+Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-12-29			253582			296			-1435			1263.43		https://www.gov.uk/
 Yuba_County,_California	Yuba County, California	2020-12-29	2020-12-29T16:45:00.000Z	18	3826	3298		21	0	138	-156	-1	0.29	47.71	55.29	https://www.yuba.org/
 Yukon	Yukon	2020-12-29	2020-12-29T16:00:00.000Z	1	60	59	5911	0	0	0	0	0	0.0	0.14	0.14	https://www.canada.ca/
 Yukon–Koyukuk_Census_Area,_Alaska	Yukon–Koyukuk Census Area, Alaska	2020-12-29			47			0			0			0.0		http://www.dhss.alaska.gov/
