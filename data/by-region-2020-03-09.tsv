@@ -2,14 +2,14 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 Abruzzo	Abruzzo	2020-03-09		0	30	0	237	13	0	0	7	0	0.0	3.57	0.0	http://www.salute.gov.it/
 Adams_County,_Indiana	Adams County, Indiana	2020-03-09		0	0		1	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Afghanistan	Afghanistan	2020-03-09		0	8			0	0		0	0	0.0	0.43		https://www.who.int/
-Albania	Albania	2020-03-09		0	6				0							https://www.who.int/
+Albania	Albania	2020-03-09		0	6				0			-7				https://www.who.int/
 Alcona_County,_Michigan	Alcona County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Alger_County,_Michigan	Alger County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Algeria	Algeria	2020-03-09		0	24			3	0	0	3	0	0.0	2.43		https://www.who.int/
 Allegan_County,_Michigan	Allegan County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Allen_County,_Indiana	Allen County, Indiana	2020-03-09		0	0		3	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Alpena_County,_Michigan	Alpena County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
-Andorra	Andorra	2020-03-09		0	1			0	0		0	0				https://www.who.int/
+Andorra	Andorra	2020-03-09		0	1			0	0		0	0	-1.24	-119.35		https://www.who.int/
 Antrim_County,_Michigan	Antrim County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Antwerp_Province	Antwerp Province	2020-03-09	2020-03-09		60			8			-1			8.29		https://epistat.wiv-isp.be/Covid/
 Aosta_Valley	Aosta Valley	2020-03-09		0	15	0	67	6	0	0	5	0	0.0	2.14	0.0	http://www.salute.gov.it/
@@ -102,7 +102,7 @@ Devon	Devon	2020-03-09			21			0			-1			2.29		https://www.gov.uk/
 Dickinson_County,_Michigan	Dickinson County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Dominican_Republic	Dominican Republic	2020-03-09		0	9			4	0		4	0	0.0	0.57		https://www.who.int/
 Dubois_County,_Indiana	Dubois County, Indiana	2020-03-09		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
-Earth	Earth	2020-03-09	2020-12-31T00:34:42.839Z	3962	113941			4342	228		262	131	127.43	3444.0		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-03-09	2021-01-02T00:42:52.644Z	4481	187988			-300764	228		-102578	131	-25634.43	-1074721.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Flanders	East Flanders	2020-03-09	2020-03-09		45			6			1			6.14		https://epistat.wiv-isp.be/Covid/
 East_Midlands	East Midlands	2020-03-09			42			10			9			5.0		https://www.gov.uk/
 East_of_England	East of England	2020-03-09			35			5			3			4.29		https://www.gov.uk/
@@ -157,7 +157,7 @@ Huntington_County,_Indiana	Huntington County, Indiana	2020-03-09		0	0		1	0	0		0	
 Huron_County,_Michigan	Huron County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Iceland	Iceland	2020-03-09		0	59			0	0	0	-10	0	0.0	6.57		https://www.who.int/
 India	India	2020-03-09		0	48			5	0		0	0	0.0	5.57		https://www.who.int/
-Indiana	Indiana	2020-03-09		0	4		44	3	0		3	0	0.0	0.5		https://coronavirus.in.gov/
+Indiana	Indiana	2020-03-09		0	4		45	3	0		3	0	0.0	0.5		https://coronavirus.in.gov/
 Indonesia	Indonesia	2020-03-09		0	10			0	0	0	-2	0	0.0	0.57		https://www.who.int/
 Ingham_County,_Michigan	Ingham County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	5			1	0	0	0	0	0.0	0.57		https://www.michigan.gov/
 Ionia_County,_Michigan	Ionia County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	1			0	0	0	0	0	0.0	0.14		https://www.michigan.gov/
@@ -248,7 +248,7 @@ Malta	Malta	2020-03-09		0	7			0	0	0	0	0				https://www.who.int/
 Manchester	Manchester	2020-03-09			6			2			2					https://www.gov.uk/
 Manistee_County,_Michigan	Manistee County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Marche	Marche	2020-03-09		10	323	0	1250	51	3	0	-14	2	1.29	41.14	0.0	http://www.salute.gov.it/
-Marion_County,_Indiana	Marion County, Indiana	2020-03-09		0	1		13	0	0		0	0	0.0	0.13		https://coronavirus.in.gov/
+Marion_County,_Indiana	Marion County, Indiana	2020-03-09		0	1		14	0	0		0	0	0.0	0.13		https://coronavirus.in.gov/
 Marquette_County,_Michigan	Marquette County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Marshall_County,_Indiana	Marshall County, Indiana	2020-03-09		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Martin_County,_Indiana	Martin County, Indiana	2020-03-09		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
@@ -406,7 +406,7 @@ Trentino	Trentino	2020-03-09		0	33	0	267	10	0	0	1	0	0.0	4.71	0.0	http://www.salu
 Tunisia	Tunisia	2020-03-09		0	6			0	0		-1	0	0.0	0.14		https://www.who.int/
 Tuscany	Tuscany	2020-03-09		1	208	1	2018	42	1	0	-11	1	0.14	27.86	0.0	http://www.salute.gov.it/
 Tuscola_County,_Michigan	Tuscola County, Michigan	2020-03-09	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
-Ukraine	Ukraine	2020-03-09		0	5			0	0		0	0				https://www.who.int/
+Ukraine	Ukraine	2020-03-09		0	5			0	0		0	0	-274.71	-15654.03		https://www.who.int/
 Umbria	Umbria	2020-03-09		0	28	0	183	2	0	0	0	0	0.0	3.71	0.0	http://www.salute.gov.it/
 Union_County,_Indiana	Union County, Indiana	2020-03-09		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 United_Kingdom	United Kingdom	2020-03-09	2020-12-16T11:31:26.000Z	2	412			60	0	0	-21	-1	0.29	52.14		https://www.ecdc.europa.eu/

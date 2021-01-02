@@ -15,7 +15,7 @@ Alabama	Alabama	2020-03-28		4	720			81	1		-20	1	0.57	84.14		https://covid19.alab
 Alameda_County,_California	Alameda County, California	2020-03-28	2020-03-28T00:00:00.000Z	7	271			37	2		-2	1	1.0	28.57		http://www.acphd.org/
 Alaska	Alaska	2020-03-28		4	91			17	1		8	1	0.43	10.57		http://www.dhss.alaska.gov/
 Albania	Albania	2020-03-28		9	197			11	3	3	-1	2	1.0	17.29		https://www.who.int/
-Albany_County,_New_York	Albany County, New York	2020-03-28			195			8			-8					https://coronavirus.health.ny.gov/
+Albany_County,_New_York	Albany County, New York	2020-03-28			195			8			-8			-134.74		https://coronavirus.health.ny.gov/
 Albany_County,_Wyoming	Albany County, Wyoming	2020-03-28			1			0			0					https://health.wyo.gov/
 Albemarle_County,_Virginia	Albemarle County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	16			8	0		6	0	0.0	2.14		http://www.vdh.virginia.gov/
 Alcona_County,_Michigan	Alcona County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
@@ -23,7 +23,7 @@ Alexandria,_Virginia	Alexandria, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	
 Alger_County,_Michigan	Alger County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Algeria	Algeria	2020-03-28	2020-12-16T11:31:26.000Z	26	409			42	1	1	-23	-3	2.29	43.86		https://www.ecdc.europa.eu/
 Allegan_County,_Michigan	Allegan County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	12			1	0	0	-4	0	0.0	1.43		https://www.michigan.gov/
-Allegany_County,_New_York	Allegany County, New York	2020-03-28			2			0			0					https://coronavirus.health.ny.gov/
+Allegany_County,_New_York	Allegany County, New York	2020-03-28			2			0			0			-21.54		https://coronavirus.health.ny.gov/
 Alleghany_County,_Virginia	Alleghany County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Allegheny_County,_Pennsylvania	Allegheny County, Pennsylvania	2020-03-28		2	219			61	0		36	0	0.14	26.86		https://www.health.pa.gov/
 Allen_County,_Indiana	Allen County, Indiana	2020-03-28		1	23		462	2	0		-11	0	0.14	2.71		https://coronavirus.in.gov/
@@ -166,7 +166,7 @@ British_Virgin_Islands	British Virgin Islands	2020-03-28	2020-12-16T11:31:26.000
 Brittany_(administrative_region)	Brittany (administrative region)	2020-03-28		37		145			3	14		-2	3.14		12.86	https://www.santepubliquefrance.fr/
 Brooke_County,_West_Virginia	Brooke County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
 Brookings_County,_South_Dakota	Brookings County, South Dakota	2020-03-28			1			0			0					https://doh.sd.gov/
-Broome_County,_New_York	Broome County, New York	2020-03-28			23			5			3					https://coronavirus.health.ny.gov/
+Broome_County,_New_York	Broome County, New York	2020-03-28			23			5			3			-95.15		https://coronavirus.health.ny.gov/
 Brown_County,_Indiana	Brown County, Indiana	2020-03-28		0	3		12	0	0		-1	0	0.0	0.43		https://coronavirus.in.gov/
 Brown_County,_Ohio	Brown County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Brown_County,_South_Dakota	Brown County, South Dakota	2020-03-28			2			0			0					https://doh.sd.gov/
@@ -178,7 +178,7 @@ Bryan_County,_Oklahoma	Bryan County, Oklahoma	2020-03-28			1			0			0					https:/
 Buchanan_County,_Missouri	Buchanan County, Missouri	2020-03-28			3			1			1					https://health.mo.gov/
 Buchanan_County,_Virginia	Buchanan County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Buckingham_County,_Virginia	Buckingham County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
-Buckinghamshire	Buckinghamshire	2020-03-28			190			21			4			14.29		https://www.gov.uk/
+Buckinghamshire	Buckinghamshire	2020-03-28			189			21			5			14.14		https://www.gov.uk/
 Bucks_County,_Pennsylvania	Bucks County, Pennsylvania	2020-03-28			152			28			11			18.29		https://www.health.pa.gov/
 Buena_Vista,_Virginia	Buena Vista, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Bulgaria	Bulgaria	2020-03-28	2020-12-16T11:31:26.000Z	3	293			29	0	0	7	0	0.0	23.71		https://www.ecdc.europa.eu/
@@ -262,7 +262,7 @@ Cheatham_County,_Tennessee	Cheatham County, Tennessee	2020-03-28			7			0			0				
 Cheboygan_County,_Michigan	Cheboygan County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	8			0	0	0	-1	0	0.0	0.86		https://www.michigan.gov/
 Chelan_County,_Washington	Chelan County, Washington	2020-03-28		1	13			0	0		-3	-1				https://coronavirus.wa.gov/
 Chemung_County,_New_York	Chemung County, New York	2020-03-28			12			1			-3					https://coronavirus.health.ny.gov/
-Chenango_County,_New_York	Chenango County, New York	2020-03-28			8			4			3					https://coronavirus.health.ny.gov/
+Chenango_County,_New_York	Chenango County, New York	2020-03-28			8			4			3			-14.28		https://coronavirus.health.ny.gov/
 Cherokee_County,_Oklahoma	Cherokee County, Oklahoma	2020-03-28			1			0			0					https://coronavirus.health.ok.gov/
 Chesapeake,_Virginia	Chesapeake, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	7			2	0		1	0	0.0	1.0		http://www.vdh.virginia.gov/
 Cheshire_County,_New_Hampshire	Cheshire County, New Hampshire	2020-03-28	2020-03-28T09:00:00.000Z		2			0			0			0.14		https://www.nh.gov/
@@ -284,11 +284,11 @@ Christian_County,_Missouri	Christian County, Missouri	2020-03-28			6			3			2				
 Churchill_County,_Nevada	Churchill County, Nevada	2020-03-28	2020-03-28T00:00:00.000Z	0	0											http://www.churchillcounty.org/
 Cibola_County,_New_Mexico	Cibola County, New Mexico	2020-03-28			2			0			-1					https://cv.nmhealth.org
 City_of_Bradford	City of Bradford	2020-03-28			86			14			-6			9.86		https://www.gov.uk/
-City_of_Leeds	City of Leeds	2020-03-28			166			26			5			17.86		https://www.gov.uk/
+City_of_Leeds	City of Leeds	2020-03-28			165			25			4			17.71		https://www.gov.uk/
 City_of_Salford	City of Salford	2020-03-28			127			18			5			12.71		https://www.gov.uk/
 City_of_Sunderland	City of Sunderland	2020-03-28			77			4			-5			8.57		https://www.gov.uk/
 City_of_Wakefield	City of Wakefield	2020-03-28			79			13			6			9.14		https://www.gov.uk/
-City_of_Westminster	City of Westminster	2020-03-28			276			20			7			18.57		https://www.gov.uk/
+City_of_Westminster	City of Westminster	2020-03-28			275			20			7			18.57		https://www.gov.uk/
 Clackamas_County,_Oregon	Clackamas County, Oregon	2020-03-28		2	36											https://govstatus.egov.com/OR-OHA-COVID-19
 Claiborne_County,_Mississippi	Claiborne County, Mississippi	2020-03-28			1											https://msdh.ms.gov/
 Claiborne_County,_Tennessee	Claiborne County, Tennessee	2020-03-28			2			0			0					https://www.tn.gov/
@@ -316,7 +316,7 @@ Cleveland_County,_Oklahoma	Cleveland County, Oklahoma	2020-03-28			46			7			7			
 Clinton_County,_Indiana	Clinton County, Indiana	2020-03-28		0	1		68	0	0		-1	0	0.0	0.14		https://coronavirus.in.gov/
 Clinton_County,_Michigan	Clinton County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	53			2	0	0	0	0	0.0	3.0		https://www.michigan.gov/
 Clinton_County,_Missouri	Clinton County, Missouri	2020-03-28			1			0			0					https://health.mo.gov/
-Clinton_County,_New_York	Clinton County, New York	2020-03-28			12			1			1					https://coronavirus.health.ny.gov/
+Clinton_County,_New_York	Clinton County, New York	2020-03-28			12			1			1			-13.17		https://coronavirus.health.ny.gov/
 Clinton_County,_Ohio	Clinton County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	3			1	0		1	0	0.0	0.43		https://coronavirus.ohio.gov/
 Coahoma_County,_Mississippi	Coahoma County, Mississippi	2020-03-28			18			0			0					https://msdh.ms.gov/
 Cochise_County,_Arizona	Cochise County, Arizona	2020-03-28	2020-03-28T12:30:00.000Z		3			1			1			0.43		https://azdhs.gov/
@@ -328,7 +328,7 @@ Colfax_County,_New_Mexico	Colfax County, New Mexico	2020-03-28			0			0			0					h
 Colombia	Colombia	2020-03-28	2020-12-16T11:31:26.000Z	6	539			48	0	0	27	-2	0.86	49.0		https://www.ecdc.europa.eu/
 Colonial_Heights,_Virginia	Colonial Heights, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Colorado	Colorado	2020-03-28		44	2061		13276	327	13		23	6	5.57	226.57		https://covid19.colorado.gov/
-Columbia_County,_New_York	Columbia County, New York	2020-03-28			22			2			-5					https://coronavirus.health.ny.gov/
+Columbia_County,_New_York	Columbia County, New York	2020-03-28			22			2			-5			-19.03		https://coronavirus.health.ny.gov/
 Columbia_County,_Oregon	Columbia County, Oregon	2020-03-28		0	1											https://govstatus.egov.com/OR-OHA-COVID-19
 Columbia_County,_Pennsylvania	Columbia County, Pennsylvania	2020-03-28			4			1			1					https://www.health.pa.gov/
 Columbia_County,_Washington	Columbia County, Washington	2020-03-28		0	1			0	0		0	0				https://coronavirus.wa.gov/
@@ -345,7 +345,7 @@ Coos_County,_Oregon	Coos County, Oregon	2020-03-28		0	0											https://govsta
 Copiah_County,_Mississippi	Copiah County, Mississippi	2020-03-28			8			0			0					https://msdh.ms.gov/
 Cornwall	Cornwall	2020-03-28			84			10			-5			7.43		https://www.gov.uk/
 Corsica	Corsica	2020-03-28		19		71			0	1		0	2.14		5.14	https://www.santepubliquefrance.fr/
-Cortland_County,_New_York	Cortland County, New York	2020-03-28			5			1			-1					https://coronavirus.health.ny.gov/
+Cortland_County,_New_York	Cortland County, New York	2020-03-28			5			1			-1			-24.16		https://coronavirus.health.ny.gov/
 Coshocton_County,_Ohio	Coshocton County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	4			0	0		0	0	0.0	0.29		https://coronavirus.ohio.gov/
 Costa_Rica	Costa Rica	2020-03-28	2020-12-16T11:31:26.000Z	2	263			32	0	0	2	0	0.0	21.43		https://www.ecdc.europa.eu/
 County_Durham	County Durham	2020-03-28			94			19			5			11.29		https://www.gov.uk/
@@ -369,7 +369,7 @@ Cumberland_County,_Maine	Cumberland County, Maine	2020-03-28			120	1		28		0	26		
 Cumberland_County,_Pennsylvania	Cumberland County, Pennsylvania	2020-03-28		1	22			6			5			1.57		https://www.health.pa.gov/
 Cumberland_County,_Tennessee	Cumberland County, Tennessee	2020-03-28			6			0			0					https://www.tn.gov/
 Cumberland_County,_Virginia	Cumberland County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
-Cumbria	Cumbria	2020-03-28			408			29			-24			38.14		https://www.gov.uk/
+Cumbria	Cumbria	2020-03-28			409			29			-25			38.29		https://www.gov.uk/
 Curaçao	Curaçao	2020-03-28	2020-12-16T11:31:26.000Z	1	8			1	0	0	1	0	0.0	0.71		https://www.ecdc.europa.eu/
 Curry_County,_New_Mexico	Curry County, New Mexico	2020-03-28			1			0			0					https://cv.nmhealth.org
 Curry_County,_Oregon	Curry County, Oregon	2020-03-28		0	0											https://govstatus.egov.com/OR-OHA-COVID-19
@@ -398,7 +398,7 @@ DeKalb_County,_Tennessee	DeKalb County, Tennessee	2020-03-28			3			0			-1					ht
 Del_Norte_County,_California	Del Norte County, California	2020-03-28	2020-03-27T00:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.co.del-norte.ca.us/
 Delaware	Delaware	2020-03-28		5	214			49	3		27	2	0.71	24.14		https://dhss.delaware.gov/
 Delaware_County,_Indiana	Delaware County, Indiana	2020-03-28		1	8		260	0	0		-1	0	0.0	1.0		https://coronavirus.in.gov/
-Delaware_County,_New_York	Delaware County, New York	2020-03-28			8			0			-1					https://coronavirus.health.ny.gov/
+Delaware_County,_New_York	Delaware County, New York	2020-03-28			8			0			-1			-8.25		https://coronavirus.health.ny.gov/
 Delaware_County,_Ohio	Delaware County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	26			6	0		1	0	0.0	3.14		https://coronavirus.ohio.gov/
 Delaware_County,_Oklahoma	Delaware County, Oklahoma	2020-03-28			4			2			1					https://coronavirus.health.ok.gov/
 Delaware_County,_Pennsylvania	Delaware County, Pennsylvania	2020-03-28		4	226			41	1		12	-1		27.57		https://www.health.pa.gov/
@@ -407,12 +407,12 @@ Democratic_Republic_of_the_Congo	Democratic Republic of the Congo	2020-03-28		5	
 Denmark	Denmark	2020-03-28	2020-12-16T11:31:26.000Z	52	2046			169	11	11	16	4	5.57	102.86		https://www.ecdc.europa.eu/
 Dent_County,_Missouri	Dent County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Derby	Derby	2020-03-28			145			21			13			14.29		https://www.gov.uk/
-Derbyshire	Derbyshire	2020-03-28			298			36			8			25.43		https://www.gov.uk/
+Derbyshire	Derbyshire	2020-03-28			297			36			8			25.29		https://www.gov.uk/
 Deschutes_County,_Oregon	Deschutes County, Oregon	2020-03-28		0	20											https://govstatus.egov.com/OR-OHA-COVID-19
 DeSoto_County,_Mississippi	DeSoto County, Mississippi	2020-03-28		1	71			6	0		4	0				https://msdh.ms.gov/
 Detroit	Detroit	2020-03-28	2020-10-12T16:00:00.000Z	112	3715			302	33	33	-42	10	14.57	296.14		https://www.michigan.gov/
 Deuel_County,_South_Dakota	Deuel County, South Dakota	2020-03-28			1											https://doh.sd.gov/
-Devon	Devon	2020-03-28			120			13			1			10.0		https://www.gov.uk/
+Devon	Devon	2020-03-28			119			13			1			9.86		https://www.gov.uk/
 Dickenson_County,_Virginia	Dickenson County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Dickey_County,_North_Dakota	Dickey County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Dickinson_County,_Michigan	Dickinson County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	2			0	0	0	0	0	0.0	0.29		https://www.michigan.gov/
@@ -426,7 +426,7 @@ Dodge_County,_Wisconsin	Dodge County, Wisconsin	2020-03-28		0	6											https:
 Dominica	Dominica	2020-03-28	2020-12-16T11:31:26.000Z	0	11			0	0	0	0	0				https://www.ecdc.europa.eu/
 Dominican_Republic	Dominican Republic	2020-03-28	2020-12-16T11:31:26.000Z	20	581			0	10	10	-93	10	2.57	72.71		https://www.ecdc.europa.eu/
 Doña_Ana_County,_New_Mexico	Doña Ana County, New Mexico	2020-03-28			17			1			-2					https://cv.nmhealth.org
-Dorset	Dorset	2020-03-28			58			8			2			5.57		https://www.gov.uk/
+Dorset	Dorset	2020-03-28			57			8			2			5.43		https://www.gov.uk/
 Douglas_County,_Missouri	Douglas County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Douglas_County,_Nevada	Douglas County, Nevada	2020-03-28	2020-03-28T12:00:00.000Z	0	5											https://gethealthycarsoncity.org/
 Douglas_County,_Oregon	Douglas County, Oregon	2020-03-28		0	4											https://govstatus.egov.com/OR-OHA-COVID-19
@@ -437,12 +437,12 @@ Dukes_County,_Massachusetts	Dukes County, Massachusetts	2020-03-28	2020-03-28T16
 Dunklin_County,_Missouri	Dunklin County, Missouri	2020-03-28			3			0			-1					https://health.mo.gov/
 Dunn_County,_North_Dakota	Dunn County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		1			0			0			0.14		https://www.health.nd.gov/
 Dunn_County,_Wisconsin	Dunn County, Wisconsin	2020-03-28		0	2											https://www.dhs.wisconsin.gov/
-Dutchess_County,_New_York	Dutchess County, New York	2020-03-28			262			37			2					https://coronavirus.health.ny.gov/
+Dutchess_County,_New_York	Dutchess County, New York	2020-03-28			262			37			2			-139.28		https://coronavirus.health.ny.gov/
 Dyer_County,_Tennessee	Dyer County, Tennessee	2020-03-28			3			0			0					https://www.tn.gov/
-Earth	Earth	2020-03-28	2020-12-31T00:34:44.727Z	28976	662039			65750	3492		2083	678	2362.14	50071.29	6845.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-03-28	2021-01-02T00:42:54.229Z	28976	662039			65750	3492		2083	678	2362.14	50071.29	6845.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Flanders	East Flanders	2020-03-28	2020-03-28		1459			109			-112			140.14		https://epistat.wiv-isp.be/Covid/
-East_Midlands	East Midlands	2020-03-28			1383			158			21			131.0		https://www.gov.uk/
-East_of_England	East of England	2020-03-28			1790			183			-60			182.71		https://www.gov.uk/
+East_Midlands	East Midlands	2020-03-28			1382			158			21			130.86		https://www.gov.uk/
+East_of_England	East of England	2020-03-28			1790			183			-60			182.57		https://www.gov.uk/
 East_Riding_of_Yorkshire	East Riding of Yorkshire	2020-03-28			40			3			0			3.43		https://www.gov.uk/
 East_Sussex	East Sussex	2020-03-28			93			8			-5			9.14		https://www.gov.uk/
 East_Timor	East Timor	2020-03-28	2020-12-16T11:31:26.000Z	0	1			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
@@ -462,13 +462,13 @@ Emmons_County,_North_Dakota	Emmons County, North Dakota	2020-03-28	2020-03-28T10
 Emporia,_Virginia	Emporia, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 England	England	2020-03-28		1371	14427			2139	279		-367	8	161.57	1452.86		https://www.gov.uk/
 Equatorial_Guinea	Equatorial Guinea	2020-03-28	2020-12-16T11:31:26.000Z	0	13			1	0	0	0	0	0.0	1.0		https://www.ecdc.europa.eu/
-Erie_County,_New_York	Erie County, New York	2020-03-28			318			99			14					https://coronavirus.health.ny.gov/
+Erie_County,_New_York	Erie County, New York	2020-03-28			318			99			14			-478.97		https://coronavirus.health.ny.gov/
 Erie_County,_Ohio	Erie County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	1	5			2	0		2	0	0.0	0.57		https://coronavirus.ohio.gov/
 Erie_County,_Pennsylvania	Erie County, Pennsylvania	2020-03-28			7			0			-3			0.86		https://www.health.pa.gov/
 Eritrea	Eritrea	2020-03-28	2020-12-16T11:31:26.000Z	0	6			0	0	0	-2	0	0.0	0.71		https://www.ecdc.europa.eu/
-Essex	Essex	2020-03-28			486			57			-12			53.57		https://www.gov.uk/
+Essex	Essex	2020-03-28			486			57			-12			53.43		https://www.gov.uk/
 Essex_County,_Massachusetts	Essex County, Massachusetts	2020-03-28	2020-03-28T16:00:00.000Z		472			122			19			61.57		https://www.mass.gov/
-Essex_County,_New_York	Essex County, New York	2020-03-28			4			0			0					https://coronavirus.health.ny.gov/
+Essex_County,_New_York	Essex County, New York	2020-03-28			4			0			0			-6.94		https://coronavirus.health.ny.gov/
 Essex_County,_Vermont	Essex County, Vermont	2020-03-28	2020-03-28T13:00:00.000Z		0			0			0			0.0		https://www.healthvermont.gov/
 Essex_County,_Virginia	Essex County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Estonia	Estonia	2020-03-28	2020-12-16T11:31:26.000Z	1	575			37	0	0	-97	0	0.14	38.43		https://www.ecdc.europa.eu/
@@ -525,7 +525,7 @@ French_Polynesia	French Polynesia	2020-03-28		0	34			4	0	0	4	0	0.0	2.71		https:/
 Fresno_County,_California	Fresno County, California	2020-03-28	2020-03-27T00:00:00.000Z	0	31			4	0		-2	0	0.0	3.43		https://www.co.fresno.ca.us/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2020-03-28		87	1436	229	12723	119	11	15	25	7	6.43	92.29	21.0	http://www.salute.gov.it/
 Fulton_County,_Indiana	Fulton County, Indiana	2020-03-28		0	1		27	0	0		-1	0	0.0	0.14		https://coronavirus.in.gov/
-Fulton_County,_New_York	Fulton County, New York	2020-03-28			1			0			0					https://coronavirus.health.ny.gov/
+Fulton_County,_New_York	Fulton County, New York	2020-03-28			1			0			0			-15.13		https://coronavirus.health.ny.gov/
 Fulton_County,_Ohio	Fulton County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	2			0	0		-2	0	0.0	0.29		https://coronavirus.ohio.gov/
 Gabon	Gabon	2020-03-28	2020-12-16T11:31:26.000Z	1	7			0	0	0	-1	0	0.0	0.57		https://www.ecdc.europa.eu/
 Galax,_Virginia	Galax, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	1			0	0		-1	0	0.0	0.14		http://www.vdh.virginia.gov/
@@ -534,7 +534,7 @@ Garvin_County,_Oklahoma	Garvin County, Oklahoma	2020-03-28			2			0			0					https
 Gasconade_County,_Missouri	Gasconade County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Geauga_County,_Ohio	Geauga County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	14			4	0		1	0	0.0	1.86		https://coronavirus.ohio.gov/
 Genesee_County,_Michigan	Genesee County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	7	591			27	1	1	-22	0	1.0	45.86		https://www.michigan.gov/
-Genesee_County,_New_York	Genesee County, New York	2020-03-28			7			1			-1					https://coronavirus.health.ny.gov/
+Genesee_County,_New_York	Genesee County, New York	2020-03-28			7			1			-1			-31.72		https://coronavirus.health.ny.gov/
 Gentry_County,_Missouri	Gentry County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 George_County,_Mississippi	George County, Mississippi	2020-03-28			3			2			2					https://msdh.ms.gov/
 Georgia_(country)	Georgia (country)	2020-03-28		0	90			5	0	0	1	0	0.0	5.86		https://www.who.int/
@@ -573,13 +573,13 @@ Grant_County,_Wisconsin	Grant County, Wisconsin	2020-03-28		0	1											https:
 Gratiot_County,_Michigan	Gratiot County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	4			0	0	0	0	0	0.0	0.29		https://www.michigan.gov/
 Grays_Harbor_County,_Washington	Grays Harbor County, Washington	2020-03-28		0	1			0	0		0	0				https://coronavirus.wa.gov/
 Grayson_County,_Virginia	Grayson County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
-Greater_London	Greater London	2020-03-28			7762			577			-242			668.71		https://www.gov.uk/
+Greater_London	Greater London	2020-03-28			7754			577			-241			667.86		https://www.gov.uk/
 Greece	Greece	2020-03-28	2020-12-16T11:31:26.000Z	28	966			74	2	2	3	-2	2.86	67.29		https://www.ecdc.europa.eu/
 Green_County,_Wisconsin	Green County, Wisconsin	2020-03-28		0	4											https://www.dhs.wisconsin.gov/
 Greenbrier_County,_West_Virginia	Greenbrier County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		2											https://dhhr.wv.gov/
 Greene_County,_Indiana	Greene County, Indiana	2020-03-28		0	0		42	0	0		0	0	0.0	-0.14		https://coronavirus.in.gov/
 Greene_County,_Missouri	Greene County, Missouri	2020-03-28			41			10			4					https://health.mo.gov/
-Greene_County,_New_York	Greene County, New York	2020-03-28			7			1			0					https://coronavirus.health.ny.gov/
+Greene_County,_New_York	Greene County, New York	2020-03-28			7			1			0			-15.82		https://coronavirus.health.ny.gov/
 Greene_County,_Ohio	Greene County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	3			0	0		0	0	0.0	0.43		https://coronavirus.ohio.gov/
 Greene_County,_Pennsylvania	Greene County, Pennsylvania	2020-03-28			6			2			1					https://www.health.pa.gov/
 Greene_County,_Tennessee	Greene County, Tennessee	2020-03-28			8			0			0					https://www.tn.gov/
@@ -606,7 +606,7 @@ Haiti	Haiti	2020-03-28	2020-12-16T11:31:26.000Z	0	8			0	0	0	0	0	0.0	0.86		https:
 Halifax_County,_Virginia	Halifax County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	1			0	0		0	0	0.0	0.14		http://www.vdh.virginia.gov/
 Hamblen_County,_Tennessee	Hamblen County, Tennessee	2020-03-28			2			0			0					https://www.tn.gov/
 Hamilton_County,_Indiana	Hamilton County, Indiana	2020-03-28		0	86		1056	14	0		-9	0	0.0	10.71		https://coronavirus.in.gov/
-Hamilton_County,_New_York	Hamilton County, New York	2020-03-28			2			0			0					https://coronavirus.health.ny.gov/
+Hamilton_County,_New_York	Hamilton County, New York	2020-03-28			2			0			0			-1.26		https://coronavirus.health.ny.gov/
 Hamilton_County,_Ohio	Hamilton County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	71			8	0		-2	0	0.0	9.0		https://coronavirus.ohio.gov/
 Hamilton_County,_Tennessee	Hamilton County, Tennessee	2020-03-28			30			0			-2					https://www.tn.gov/
 Hamlin_County,_South_Dakota	Hamlin County, South Dakota	2020-03-28			1											https://doh.sd.gov/
@@ -645,7 +645,7 @@ Henry_County,_Missouri	Henry County, Missouri	2020-03-28			1			0			0					https:/
 Henry_County,_Ohio	Henry County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Henry_County,_Virginia	Henry County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Herefordshire	Herefordshire	2020-03-28			31			4			2			2.71		https://www.gov.uk/
-Herkimer_County,_New_York	Herkimer County, New York	2020-03-28			9			0			-2					https://coronavirus.health.ny.gov/
+Herkimer_County,_New_York	Herkimer County, New York	2020-03-28			9			0			-2			-25.53		https://coronavirus.health.ny.gov/
 Hertfordshire	Hertfordshire	2020-03-28			479			45			-7			45.43		https://www.gov.uk/
 Hettinger_County,_North_Dakota	Hettinger County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Hickory_County,_Missouri	Hickory County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
@@ -685,7 +685,7 @@ Idaho_County,_Idaho	Idaho County, Idaho	2020-03-28		0	1			0	0		0	0		0.14		https:
 Illinois	Illinois	2020-03-28		47	3491			462	10		-29	-1	5.86	391.14		http://www.dph.illinois.gov/
 Imperial_County,_California	Imperial County, California	2020-03-28	2020-03-27T00:00:00.000Z	0	21			4	0		-4	0	0.0	2.43		http://www.icphd.org/
 India	India	2020-03-28	2020-12-16T11:31:26.000Z	19	873			149	2	2	74	-2	2.14	84.29		https://www.ecdc.europa.eu/
-Indiana	Indiana	2020-03-28		47	1221		18563	282	3		-21	-6	5.43	156.71		https://coronavirus.in.gov/
+Indiana	Indiana	2020-03-28		47	1221		18564	282	3		-21	-6	5.43	156.71		https://coronavirus.in.gov/
 Indiana_County,_Pennsylvania	Indiana County, Pennsylvania	2020-03-28			2			0			-1					https://www.health.pa.gov/
 Indonesia	Indonesia	2020-03-28	2020-12-16T11:31:26.000Z	87	1046			0	9	9	-153	-11	7.0	85.14		https://www.ecdc.europa.eu/
 Ingham_County,_Michigan	Ingham County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	1	167			13	0	0	1	-1	0.14	12.43		https://www.michigan.gov/
@@ -727,7 +727,7 @@ Jefferson_County,_Idaho	Jefferson County, Idaho	2020-03-28		0	2			0	0		0	0		0.29
 Jefferson_County,_Indiana	Jefferson County, Indiana	2020-03-28		0	0		42	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Jefferson_County,_Mississippi	Jefferson County, Mississippi	2020-03-28			1			0			0					https://msdh.ms.gov/
 Jefferson_County,_Missouri	Jefferson County, Missouri	2020-03-28			17			2			-3					https://health.mo.gov/
-Jefferson_County,_New_York	Jefferson County, New York	2020-03-28			6			3			3					https://coronavirus.health.ny.gov/
+Jefferson_County,_New_York	Jefferson County, New York	2020-03-28			6			3			3			-21.3		https://coronavirus.health.ny.gov/
 Jefferson_County,_Ohio	Jefferson County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	5			4	0		4	0	0.0	0.71		https://coronavirus.ohio.gov/
 Jefferson_County,_Oregon	Jefferson County, Oregon	2020-03-28		0	0											https://govstatus.egov.com/OR-OHA-COVID-19
 Jefferson_County,_Tennessee	Jefferson County, Tennessee	2020-03-28			5			0			-1					https://www.tn.gov/
@@ -772,7 +772,7 @@ King_County,_Washington	King County, Washington	2020-03-28		136	2077			249	11		-
 King_George_County,_Virginia	King George County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	2			1	0		0	0	0.0	0.29		http://www.vdh.virginia.gov/
 King_William_County,_Virginia	King William County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Kings_County,_California	Kings County, California	2020-03-28	2020-03-28T12:00:00.000Z	0	1			1	0		1	0	0.0	0.14		https://www.countyofkings.com/
-Kingston_upon_Hull	Kingston upon Hull	2020-03-28			13			0			-2			1.29		https://www.gov.uk/
+Kingston_upon_Hull	Kingston upon Hull	2020-03-28			12			0			-2			1.14		https://www.gov.uk/
 Kirklees	Kirklees	2020-03-28			74			9			-1			7.57		https://www.gov.uk/
 Kitsap_County,_Washington	Kitsap County, Washington	2020-03-28		0	49			7	-1		-2	-2				https://coronavirus.wa.gov/
 Kittitas_County,_Washington	Kittitas County, Washington	2020-03-28		0	8			0	0		0	0				https://coronavirus.wa.gov/
@@ -867,7 +867,7 @@ Lithuania	Lithuania	2020-03-28	2020-12-16T11:31:26.000Z	5	358			59	1	1	34	1	0.57
 Liverpool	Liverpool	2020-03-28			232			27			0			24.14		https://www.gov.uk/
 Livingston_County,_Michigan	Livingston County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	3	163			7	0	0	-8	0	0.29	12.86		https://www.michigan.gov/
 Livingston_County,_Missouri	Livingston County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
-Livingston_County,_New_York	Livingston County, New York	2020-03-28			5			2			2					https://coronavirus.health.ny.gov/
+Livingston_County,_New_York	Livingston County, New York	2020-03-28			5			2			2			-22.1		https://coronavirus.health.ny.gov/
 Logan_County,_North_Dakota	Logan County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Logan_County,_Ohio	Logan County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	3			1	0		1	0	0.0	0.43		https://coronavirus.ohio.gov/
 Logan_County,_Oklahoma	Logan County, Oklahoma	2020-03-28			3			0			0					https://coronavirus.health.ok.gov/
@@ -876,11 +876,11 @@ Lombardy	Lombardy	2020-03-28		5944	39415	8962	102503	2117	542	961	-292	1	407.0	1
 London_Borough_of_Barking_and_Dagenham	London Borough of Barking and Dagenham	2020-03-28			123			11			-1			10.14		https://www.gov.uk/
 London_Borough_of_Barnet	London Borough of Barnet	2020-03-28			433			34			-20			40.57		https://www.gov.uk/
 London_Borough_of_Bexley	London Borough of Bexley	2020-03-28			155			10			-9			14.29		https://www.gov.uk/
-London_Borough_of_Brent	London Borough of Brent	2020-03-28			430			32			-16			38.43		https://www.gov.uk/
-London_Borough_of_Bromley	London Borough of Bromley	2020-03-28			307			32			2			29.43		https://www.gov.uk/
-London_Borough_of_Camden	London Borough of Camden	2020-03-28			204			11			-8			18.29		https://www.gov.uk/
+London_Borough_of_Brent	London Borough of Brent	2020-03-28			429			32			-16			38.43		https://www.gov.uk/
+London_Borough_of_Bromley	London Borough of Bromley	2020-03-28			306			32			2			29.29		https://www.gov.uk/
+London_Borough_of_Camden	London Borough of Camden	2020-03-28			203			11			-8			18.14		https://www.gov.uk/
 London_Borough_of_Croydon	London Borough of Croydon	2020-03-28			386			22			-20			34.0		https://www.gov.uk/
-London_Borough_of_Ealing	London Borough of Ealing	2020-03-28			326			20			-16			28.71		https://www.gov.uk/
+London_Borough_of_Ealing	London Borough of Ealing	2020-03-28			324			20			-14			28.43		https://www.gov.uk/
 London_Borough_of_Enfield	London Borough of Enfield	2020-03-28			230			20			4			19.57		https://www.gov.uk/
 London_Borough_of_Hammersmith_and_Fulham	London Borough of Hammersmith and Fulham	2020-03-28			175			12			4			14.86		https://www.gov.uk/
 London_Borough_of_Haringey	London Borough of Haringey	2020-03-28			185			16			-3			14.57		https://www.gov.uk/
@@ -889,10 +889,10 @@ London_Borough_of_Havering	London Borough of Havering	2020-03-28			126			6			-4	
 London_Borough_of_Hillingdon	London Borough of Hillingdon	2020-03-28			205			11			-15			17.0		https://www.gov.uk/
 London_Borough_of_Hounslow	London Borough of Hounslow	2020-03-28			196			8			-19			15.29		https://www.gov.uk/
 London_Borough_of_Islington	London Borough of Islington	2020-03-28			165			7			-8			13.14		https://www.gov.uk/
-London_Borough_of_Lambeth	London Borough of Lambeth	2020-03-28			430			37			2			34.0		https://www.gov.uk/
+London_Borough_of_Lambeth	London Borough of Lambeth	2020-03-28			429			37			2			33.86		https://www.gov.uk/
 London_Borough_of_Lewisham	London Borough of Lewisham	2020-03-28			270			21			-13			23.86		https://www.gov.uk/
 London_Borough_of_Merton	London Borough of Merton	2020-03-28			211			14			-10			17.29		https://www.gov.uk/
-London_Borough_of_Newham	London Borough of Newham	2020-03-28			267			35			-3			27.71		https://www.gov.uk/
+London_Borough_of_Newham	London Borough of Newham	2020-03-28			266			35			-3			27.57		https://www.gov.uk/
 London_Borough_of_Redbridge	London Borough of Redbridge	2020-03-28			174			15			-6			15.43		https://www.gov.uk/
 London_Borough_of_Richmond_upon_Thames	London Borough of Richmond upon Thames	2020-03-28			135			11			-8			13.71		https://www.gov.uk/
 London_Borough_of_Southwark	London Borough of Southwark	2020-03-28			425			32			-16			34.71		https://www.gov.uk/
@@ -930,7 +930,7 @@ Madison_County,_Idaho	Madison County, Idaho	2020-03-28		0	2			0	0		0	0		0.14		ht
 Madison_County,_Indiana	Madison County, Indiana	2020-03-28		1	14		241	6	0		3	0	0.14	1.71		https://coronavirus.in.gov/
 Madison_County,_Mississippi	Madison County, Mississippi	2020-03-28			37			8			4					https://msdh.ms.gov/
 Madison_County,_Missouri	Madison County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
-Madison_County,_New_York	Madison County, New York	2020-03-28			19			2			-6					https://coronavirus.health.ny.gov/
+Madison_County,_New_York	Madison County, New York	2020-03-28			19			2			-6			-26.64		https://coronavirus.health.ny.gov/
 Madison_County,_Ohio	Madison County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	4			1	0		1	0	0.0	0.57		https://coronavirus.ohio.gov/
 Madison_County,_Tennessee	Madison County, Tennessee	2020-03-28			3			0			-1					https://www.tn.gov/
 Madison_County,_Virginia	Madison County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	3			1	0		0	0	0.0	0.43		http://www.vdh.virginia.gov/
@@ -952,7 +952,7 @@ Maricopa_County,_Arizona	Maricopa County, Arizona	2020-03-28	2020-03-28T12:30:00
 Maries_County,_Missouri	Maries County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Marin_County,_California	Marin County, California	2020-03-28	2020-03-27T19:00:00.000Z	1	68			3	1		-2	1	0.14	4.43		https://coronavirus.marinhhs.org
 Marinette_County,_Wisconsin	Marinette County, Wisconsin	2020-03-28		0	1											https://www.dhs.wisconsin.gov/
-Marion_County,_Indiana	Marion County, Indiana	2020-03-28		24	535		6077	51	16		-140	14	2.57	69.86		https://coronavirus.in.gov/
+Marion_County,_Indiana	Marion County, Indiana	2020-03-28		24	535		6078	51	16		-140	14	2.57	69.86		https://coronavirus.in.gov/
 Marion_County,_Mississippi	Marion County, Mississippi	2020-03-28			4			1			-1					https://msdh.ms.gov/
 Marion_County,_Missouri	Marion County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Marion_County,_Ohio	Marion County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	5			0	0		-1	0	0.0	0.57		https://coronavirus.ohio.gov/
@@ -1011,15 +1011,15 @@ Metropolitan_Borough_of_Barnsley	Metropolitan Borough of Barnsley	2020-03-28			1
 Metropolitan_Borough_of_Bolton	Metropolitan Borough of Bolton	2020-03-28			60			11			4			5.57		https://www.gov.uk/
 Metropolitan_Borough_of_Bury	Metropolitan Borough of Bury	2020-03-28			71			10			1			7.71		https://www.gov.uk/
 Metropolitan_Borough_of_Doncaster	Metropolitan Borough of Doncaster	2020-03-28			77			19			16			8.86		https://www.gov.uk/
-Metropolitan_Borough_of_Dudley	Metropolitan Borough of Dudley	2020-03-28			163			16			2			15.71		https://www.gov.uk/
+Metropolitan_Borough_of_Dudley	Metropolitan Borough of Dudley	2020-03-28			162			16			2			15.71		https://www.gov.uk/
 Metropolitan_Borough_of_Gateshead	Metropolitan Borough of Gateshead	2020-03-28			45			13			9			5.71		https://www.gov.uk/
-Metropolitan_Borough_of_Knowsley	Metropolitan Borough of Knowsley	2020-03-28			50			10			3			5.86		https://www.gov.uk/
+Metropolitan_Borough_of_Knowsley	Metropolitan Borough of Knowsley	2020-03-28			48			10			3			5.57		https://www.gov.uk/
 Metropolitan_Borough_of_Oldham	Metropolitan Borough of Oldham	2020-03-28			109			13			2			10.57		https://www.gov.uk/
 Metropolitan_Borough_of_Rochdale	Metropolitan Borough of Rochdale	2020-03-28			89			13			2			9.29		https://www.gov.uk/
 Metropolitan_Borough_of_Rotherham	Metropolitan Borough of Rotherham	2020-03-28			103			17			7			11.86		https://www.gov.uk/
-Metropolitan_Borough_of_Sefton	Metropolitan Borough of Sefton	2020-03-28			92			12			-4			10.71		https://www.gov.uk/
+Metropolitan_Borough_of_Sefton	Metropolitan Borough of Sefton	2020-03-28			93			12			-4			10.86		https://www.gov.uk/
 Metropolitan_Borough_of_Solihull	Metropolitan Borough of Solihull	2020-03-28			125			30			13			15.29		https://www.gov.uk/
-Metropolitan_Borough_of_St_Helens	Metropolitan Borough of St Helens	2020-03-28			76			10			-4			9.14		https://www.gov.uk/
+Metropolitan_Borough_of_St_Helens	Metropolitan Borough of St Helens	2020-03-28			74			10			-4			8.86		https://www.gov.uk/
 Metropolitan_Borough_of_Stockport	Metropolitan Borough of Stockport	2020-03-28			106			10			2			9.14		https://www.gov.uk/
 Metropolitan_Borough_of_Walsall	Metropolitan Borough of Walsall	2020-03-28			194			32			11			19.0		https://www.gov.uk/
 Metropolitan_Borough_of_Wigan	Metropolitan Borough of Wigan	2020-03-28			67			8			-5			7.57		https://www.gov.uk/
@@ -1056,7 +1056,7 @@ Monroe_County,_Indiana	Monroe County, Indiana	2020-03-28		0	16		223	7	0		5	0	0.0
 Monroe_County,_Michigan	Monroe County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	86			10	0	0	2	0	0.0	7.14		https://www.michigan.gov/
 Monroe_County,_Mississippi	Monroe County, Mississippi	2020-03-28			5			2			2					https://msdh.ms.gov/
 Monroe_County,_Missouri	Monroe County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
-Monroe_County,_New_York	Monroe County, New York	2020-03-28			192			32			11					https://coronavirus.health.ny.gov/
+Monroe_County,_New_York	Monroe County, New York	2020-03-28			192			32			11			-395.4		https://coronavirus.health.ny.gov/
 Monroe_County,_Ohio	Monroe County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Monroe_County,_Pennsylvania	Monroe County, Pennsylvania	2020-03-28		2	106			8	0		-23	0		11.57		https://www.health.pa.gov/
 Monroe_County,_Tennessee	Monroe County, Tennessee	2020-03-28			2			0			0					https://www.tn.gov/
@@ -1068,7 +1068,7 @@ Monterey_County,_California	Monterey County, California	2020-03-28	2020-03-28T14
 Montgomery_County,_Indiana	Montgomery County, Indiana	2020-03-28		0	4		72	1	0		0	0	0.0	0.57		https://coronavirus.in.gov/
 Montgomery_County,_Mississippi	Montgomery County, Mississippi	2020-03-28			6			1			0					https://msdh.ms.gov/
 Montgomery_County,_Missouri	Montgomery County, Missouri	2020-03-28			3			0			-1					https://health.mo.gov/
-Montgomery_County,_New_York	Montgomery County, New York	2020-03-28			5			0			0					https://coronavirus.health.ny.gov/
+Montgomery_County,_New_York	Montgomery County, New York	2020-03-28			5			0			0			-15.95		https://coronavirus.health.ny.gov/
 Montgomery_County,_Ohio	Montgomery County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	20			1	0		-4	0	0.0	2.71		https://coronavirus.ohio.gov/
 Montgomery_County,_Pennsylvania	Montgomery County, Pennsylvania	2020-03-28		5	411			37	2		-55	1		48.57		https://www.health.pa.gov/
 Montgomery_County,_Tennessee	Montgomery County, Tennessee	2020-03-28			9			0			-3					https://www.tn.gov/
@@ -1096,7 +1096,7 @@ Myanmar	Myanmar	2020-03-28	2020-12-16T11:31:26.000Z	0	5			0	0	0	-2	0				https://
 Namibia	Namibia	2020-03-28	2020-12-16T11:31:26.000Z	0	8			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
 Namur_Province	Namur Province	2020-03-28	2020-03-28		332			31			-15			32.14		https://epistat.wiv-isp.be/Covid/
 Napa_County,_California	Napa County, California	2020-03-28	2020-03-28T00:00:00.000Z	0	9			3	0		2	0	0.0	1.29		https://www.countyofnapa.org/
-Nassau_County,_New_York	Nassau County, New York	2020-03-28			5537			880			137					https://coronavirus.health.ny.gov/
+Nassau_County,_New_York	Nassau County, New York	2020-03-28			5537			880			137			-964.63		https://coronavirus.health.ny.gov/
 Natrona_County,_Wyoming	Natrona County, Wyoming	2020-03-28			8			0			-2			1.0		https://health.wyo.gov/
 Navajo_County,_Arizona	Navajo County, Arizona	2020-03-28	2020-03-28T12:30:00.000Z		57			8			2			6.71		https://azdhs.gov/
 Nelson_County,_North_Dakota	Nelson County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
@@ -1114,7 +1114,7 @@ New_London_County,_Connecticut	New London County, Connecticut	2020-03-28	2020-03
 New_Madrid_County,_Missouri	New Madrid County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 New_Mexico	New Mexico	2020-03-28		2	208			17	1		-38	1	0.29	21.57		https://cv.nmhealth.org
 New_York_(state)	New York (state)	2020-03-28			52318			7681			302			5994.57		https://coronavirus.health.ny.gov/
-New_York_City	New York City	2020-03-28			29766			4368			363					https://coronavirus.health.ny.gov/
+New_York_City	New York City	2020-03-28			29766			4368			363			-4615.94		https://coronavirus.health.ny.gov/
 New_Zealand	New Zealand	2020-03-28	2020-12-16T11:31:26.000Z	0	416			78	0	0	2	0	0.0	50.0		https://www.ecdc.europa.eu/
 Newaygo_County,_Michigan	Newaygo County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	3			0	0	0	-1	0	0.0	0.29		https://www.michigan.gov/
 Newcastle_upon_Tyne	Newcastle upon Tyne	2020-03-28			156			12			-8			16.0		https://www.gov.uk/
@@ -1123,7 +1123,7 @@ Newton_County,_Indiana	Newton County, Indiana	2020-03-28		0	1		16	1	0		1	0	0.0	0
 Newton_County,_Mississippi	Newton County, Mississippi	2020-03-28			1			0			0					https://msdh.ms.gov/
 Newton_County,_Missouri	Newton County, Missouri	2020-03-28			4			1			1					https://health.mo.gov/
 Nez_Perce_County,_Idaho	Nez Perce County, Idaho	2020-03-28		1	4			0	0		0	-1		0.57		https://coronavirus.idaho.gov/
-Niagara_County,_New_York	Niagara County, New York	2020-03-28			33			10			1					https://coronavirus.health.ny.gov/
+Niagara_County,_New_York	Niagara County, New York	2020-03-28			33			10			1			-100.14		https://coronavirus.health.ny.gov/
 Nicaragua	Nicaragua	2020-03-28		1	4			2	1	1	2	1	0.14	0.29		https://www.who.int/
 Nicholas_County,_West_Virginia	Nicholas County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
 Nicollet_County,_Minnesota	Nicollet County, Minnesota	2020-03-28			3			0			0			0.14		https://www.health.state.mn.us/
@@ -1145,7 +1145,7 @@ North_Lincolnshire	North Lincolnshire	2020-03-28			17			2			0			1.71		https://ww
 North_Macedonia	North Macedonia	2020-03-28	2020-12-16T11:31:26.000Z	3	219			18	0	0	-6	-1	0.43	19.14		https://www.ecdc.europa.eu/
 North_Somerset	North Somerset	2020-03-28			27			2			-4			2.71		https://www.gov.uk/
 North_Tyneside	North Tyneside	2020-03-28			66			17			6			6.86		https://www.gov.uk/
-North_West_England	North West England	2020-03-28			2525			322			-10			259.14		https://www.gov.uk/
+North_West_England	North West England	2020-03-28			2523			322			-11			258.86		https://www.gov.uk/
 North_Yorkshire	North Yorkshire	2020-03-28			118			13			-5			11.29		https://www.gov.uk/
 Northampton_County,_Pennsylvania	Northampton County, Pennsylvania	2020-03-28		4	94			15	1		-8	1	0.43	11.0		https://www.health.pa.gov/
 Northampton_County,_Virginia	Northampton County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	1			0	0		-1	0	0.0	0.14		http://www.vdh.virginia.gov/
@@ -1178,14 +1178,14 @@ Oktibbeha_County,_Mississippi	Oktibbeha County, Mississippi	2020-03-28			15			1	
 Oliver_County,_North_Dakota	Oliver County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Olmsted_County,_Minnesota	Olmsted County, Minnesota	2020-03-28			37			3			-2			3.57		https://www.health.state.mn.us/
 Oman	Oman	2020-03-28		0	152			21	0	0	-1	0	0.0	14.29		https://www.who.int/
-Oneida_County,_New_York	Oneida County, New York	2020-03-28			23			10			10					https://coronavirus.health.ny.gov/
+Oneida_County,_New_York	Oneida County, New York	2020-03-28			23			10			10			-142.55		https://coronavirus.health.ny.gov/
 Oneida_County,_Wisconsin	Oneida County, Wisconsin	2020-03-28		0	1											https://www.dhs.wisconsin.gov/
-Onondaga_County,_New_York	Onondaga County, New York	2020-03-28			129			14			-18					https://coronavirus.health.ny.gov/
-Ontario_County,_New_York	Ontario County, New York	2020-03-28			16			2			-1					https://coronavirus.health.ny.gov/
+Onondaga_County,_New_York	Onondaga County, New York	2020-03-28			129			14			-18			-245.74		https://coronavirus.health.ny.gov/
+Ontario_County,_New_York	Ontario County, New York	2020-03-28			16			2			-1			-38.49		https://coronavirus.health.ny.gov/
 Ontonagon_County,_Michigan	Ontonagon County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Orange_County,_California	Orange County, California	2020-03-28	2020-03-28T00:00:00.000Z	4	403			82	1		-25	-1	0.57	46.43		https://occovid19.ochealthinfo.com/
 Orange_County,_Indiana	Orange County, Indiana	2020-03-28		0	1		36	0	0		0	0	0.0	0.14		https://coronavirus.in.gov/
-Orange_County,_New_York	Orange County, New York	2020-03-28			1101			191			32					https://coronavirus.health.ny.gov/
+Orange_County,_New_York	Orange County, New York	2020-03-28			1101			191			32			-259.52		https://coronavirus.health.ny.gov/
 Orange_County,_Vermont	Orange County, Vermont	2020-03-28	2020-03-28T13:00:00.000Z		3			0			0			-0.14		https://www.healthvermont.gov/
 Orange_County,_Virginia	Orange County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	1			0	0		0	0	0.0	0.14		http://www.vdh.virginia.gov/
 Oregon	Oregon	2020-03-28		13	479			65	1		-33	0	1.29	48.86		https://govstatus.egov.com/OR-OHA-COVID-19
@@ -1207,7 +1207,7 @@ Outagamie_County,_Wisconsin	Outagamie County, Wisconsin	2020-03-28		0	4									
 Overton_County,_Tennessee	Overton County, Tennessee	2020-03-28			1			0			0					https://www.tn.gov/
 Owen_County,_Indiana	Owen County, Indiana	2020-03-28		0	7		43	2	0		1	0	0.0	0.86		https://coronavirus.in.gov/
 Oxford_County,_Maine	Oxford County, Maine	2020-03-28			8			0			0					https://www.maine.gov/
-Oxfordshire	Oxfordshire	2020-03-28			222			22			-6			20.57		https://www.gov.uk/
+Oxfordshire	Oxfordshire	2020-03-28			221			21			-7			20.43		https://www.gov.uk/
 Ozark_County,_Missouri	Ozark County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Ozaukee_County,_Wisconsin	Ozaukee County, Wisconsin	2020-03-28		3	33											https://www.dhs.wisconsin.gov/
 Page_County,_Virginia	Page County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
@@ -1297,7 +1297,7 @@ Pulaski_County,_Missouri	Pulaski County, Missouri	2020-03-28			5			1			1					htt
 Pulaski_County,_Virginia	Pulaski County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Putnam_County,_Indiana	Putnam County, Indiana	2020-03-28		1	4		80	2	0		2	0	0.14	0.57		https://coronavirus.in.gov/
 Putnam_County,_Missouri	Putnam County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
-Putnam_County,_New_York	Putnam County, New York	2020-03-28			131			20			3					https://coronavirus.health.ny.gov/
+Putnam_County,_New_York	Putnam County, New York	2020-03-28			131			20			3			-55.24		https://coronavirus.health.ny.gov/
 Putnam_County,_Ohio	Putnam County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Putnam_County,_Tennessee	Putnam County, Tennessee	2020-03-28			13			0			-2					https://www.tn.gov/
 Putnam_County,_West_Virginia	Putnam County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		3											https://dhhr.wv.gov/
@@ -1319,7 +1319,7 @@ Rappahannock_County,_Virginia	Rappahannock County, Virginia	2020-03-28	2020-03-2
 Ray_County,_Missouri	Ray County, Missouri	2020-03-28			1			0			0					https://health.mo.gov/
 Reading,_Berkshire	Reading, Berkshire	2020-03-28			56			10			7			5.14		https://www.gov.uk/
 Redcar_and_Cleveland	Redcar and Cleveland	2020-03-28			41			11			1			5.29		https://www.gov.uk/
-Rensselaer_County,_New_York	Rensselaer County, New York	2020-03-28			38			3			0					https://coronavirus.health.ny.gov/
+Rensselaer_County,_New_York	Rensselaer County, New York	2020-03-28			38			3			0			-50.31		https://coronavirus.health.ny.gov/
 Renville_County,_Minnesota	Renville County, Minnesota	2020-03-28			1			0			0			0.0		https://www.health.state.mn.us/
 Renville_County,_North_Dakota	Renville County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Republic_of_Ireland	Republic of Ireland	2020-03-28	2020-12-16T11:31:26.000Z	22	2121			302	3	3	47	-7	2.71	205.43		https://www.ecdc.europa.eu/
@@ -1347,16 +1347,16 @@ Rock_County,_Wisconsin	Rock County, Wisconsin	2020-03-28		0	12											https:/
 Rockbridge_County,_Virginia	Rockbridge County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	2			1	0		1	0	0.0	0.29		http://www.vdh.virginia.gov/
 Rockingham_County,_New_Hampshire	Rockingham County, New Hampshire	2020-03-28	2020-03-28T09:00:00.000Z		86			11			3			8.71		https://www.nh.gov/
 Rockingham_County,_Virginia	Rockingham County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	4			0	0		-2	0	0.0	0.57		http://www.vdh.virginia.gov/
-Rockland_County,_New_York	Rockland County, New York	2020-03-28			1896			439			179					https://coronavirus.health.ny.gov/
+Rockland_County,_New_York	Rockland County, New York	2020-03-28			1896			439			179			-297.38		https://coronavirus.health.ny.gov/
 Rolette_County,_North_Dakota	Rolette County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Romania	Romania	2020-03-28	2020-12-16T11:31:26.000Z	24	1292			263	7	7	140	3	3.43	132.14		https://www.ecdc.europa.eu/
 Roosevelt_County,_New_Mexico	Roosevelt County, New Mexico	2020-03-28			1			0			-1					https://cv.nmhealth.org
 Roscommon_County,_Michigan	Roscommon County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	6			0	0	0	-1	0	0.0	0.43		https://www.michigan.gov/
 Ross_County,_Ohio	Ross County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	0			0	0		0	0	0.0	0.0		https://coronavirus.ohio.gov/
 Royal_Borough_of_Greenwich	Royal Borough of Greenwich	2020-03-28			193			16			-2			13.86		https://www.gov.uk/
-Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-03-28			183			9			-11			13.0		https://www.gov.uk/
+Royal_Borough_of_Kensington_and_Chelsea	Royal Borough of Kensington and Chelsea	2020-03-28			183			9			-12			13.0		https://www.gov.uk/
 Royal_Borough_of_Kingston_upon_Thames	Royal Borough of Kingston upon Thames	2020-03-28			107			6			-5			10.14		https://www.gov.uk/
-Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	2020-03-28			74			8			4			6.0		https://www.gov.uk/
+Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	2020-03-28			73			8			4			6.0		https://www.gov.uk/
 Rush_County,_Indiana	Rush County, Indiana	2020-03-28		0	2		32	-1	0		-3	0	0.0	0.29		https://coronavirus.in.gov/
 Russell_County,_Virginia	Russell County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Russia	Russia	2020-03-28		4	1264			228	2	2	32	0	0.57	136.86		https://www.who.int/
@@ -1394,13 +1394,13 @@ Santa_Clara_County,_California	Santa Clara County, California	2020-03-28	2020-03
 Santa_Cruz_County,_Arizona	Santa Cruz County, Arizona	2020-03-28	2020-03-28T12:30:00.000Z		2			0			0			0.29		https://azdhs.gov/
 Santa_Cruz_County,_California	Santa Cruz County, California	2020-03-28	2020-03-28T17:24:00.000Z	0	39			5	0		3	0	0.0	3.43		https://www.santacruzhealth.org/
 Santa_Fe_County,_New_Mexico	Santa Fe County, New Mexico	2020-03-28			30			1			-11					https://cv.nmhealth.org
-Saratoga_County,_New_York	Saratoga County, New York	2020-03-28			96			14			5					https://coronavirus.health.ny.gov/
+Saratoga_County,_New_York	Saratoga County, New York	2020-03-28			96			14			5			-65.52		https://coronavirus.health.ny.gov/
 Sardinia	Sardinia	2020-03-28		26	624	29	4225	94	5	16	58	3	3.14	42.0	3.43	http://www.salute.gov.it/
 Sargent_County,_North_Dakota	Sargent County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Saudi_Arabia	Saudi Arabia	2020-03-28		4	1203			99	0	0	7	-1	0.57	115.86		https://www.who.int/
 Sauk_County,_Wisconsin	Sauk County, Wisconsin	2020-03-28		1	11											https://www.dhs.wisconsin.gov/
-Schenectady_County,_New_York	Schenectady County, New York	2020-03-28			72			6			2					https://coronavirus.health.ny.gov/
-Schoharie_County,_New_York	Schoharie County, New York	2020-03-28			5			2			1					https://coronavirus.health.ny.gov/
+Schenectady_County,_New_York	Schenectady County, New York	2020-03-28			72			6			2			-69.01		https://coronavirus.health.ny.gov/
+Schoharie_County,_New_York	Schoharie County, New York	2020-03-28			5			2			1			-6.52		https://coronavirus.health.ny.gov/
 Schoolcraft_County,_Michigan	Schoolcraft County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	1			0	0	0	0	0	0.0	0.14		https://www.michigan.gov/
 Schuyler_County,_Missouri	Schuyler County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Schuyler_County,_New_York	Schuyler County, New York	2020-03-28			1											https://coronavirus.health.ny.gov/
@@ -1448,7 +1448,7 @@ Siskiyou_County,_California	Siskiyou County, California	2020-03-28	2020-03-28T19
 Skagit_County,_Washington	Skagit County, Washington	2020-03-28		3	97			6	2		-7	2				https://coronavirus.wa.gov/
 Skamania_County,_Washington	Skamania County, Washington	2020-03-28		0	1			0	0		0	0				https://coronavirus.wa.gov/
 Slope_County,_North_Dakota	Slope County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
-Slough	Slough	2020-03-28			107			5			-5			8.0		https://www.gov.uk/
+Slough	Slough	2020-03-28			108			5			-5			8.14		https://www.gov.uk/
 Slovakia	Slovakia	2020-03-28	2020-12-16T11:31:26.000Z	0	295			69	0	0	59	0	0.0	16.71		https://www.ecdc.europa.eu/
 Slovenia	Slovenia	2020-03-28	2020-12-16T11:31:26.000Z	9	632			55	4	4	6	3	1.14	35.57		https://www.ecdc.europa.eu/
 Smith_County,_Mississippi	Smith County, Mississippi	2020-03-28			1			0			0					https://msdh.ms.gov/
@@ -1466,12 +1466,12 @@ Sonoma_County,_California	Sonoma County, California	2020-03-28	2020-03-28T00:30:
 South_Africa	South Africa	2020-03-28	2020-12-16T11:31:26.000Z	2	1170			243	0	0	243	-2	0.29	132.86		https://www.ecdc.europa.eu/
 South_Carolina	South Carolina	2020-03-28		15	660			121	2		38	-2	1.71	69.57		https://www.scdhec.gov/
 South_Dakota	South Dakota	2020-03-28		1	68			10	0		-2	0	0.0	7.71		https://doh.sd.gov/
-South_East_England	South East England	2020-03-28			3064			339			8			283.29		https://www.gov.uk/
-South_Gloucestershire	South Gloucestershire	2020-03-28			67			8			2			6.71		https://www.gov.uk/
+South_East_England	South East England	2020-03-28			3062			338			8			283.14		https://www.gov.uk/
+South_Gloucestershire	South Gloucestershire	2020-03-28			66			8			2			6.57		https://www.gov.uk/
 South_Korea	South Korea	2020-03-28	2020-12-16T11:31:26.000Z	144	9478			146	5	5	55	-3	5.71	83.0		https://www.ecdc.europa.eu/
 South_Tyneside	South Tyneside	2020-03-28			29			1			-6			3.0		https://www.gov.uk/
 South_Tyrol	South Tyrol	2020-03-28		64	1109	116	9168	106	4	6	9	-8	6.29	69.71	16.43	http://www.salute.gov.it/
-South_West_England	South West England	2020-03-28			974			102			-27			89.86		https://www.gov.uk/
+South_West_England	South West England	2020-03-28			971			102			-27			89.43		https://www.gov.uk/
 Southampton	Southampton	2020-03-28			79			10			-3			8.0		https://www.gov.uk/
 Southampton_County,_Virginia	Southampton County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	1			0	0		-1	0	0.0	0.14		http://www.vdh.virginia.gov/
 Southend-on-Sea	Southend-on-Sea	2020-03-28			48			6			-1			5.57		https://www.gov.uk/
@@ -1487,12 +1487,12 @@ St._Croix_County,_Wisconsin	St. Croix County, Wisconsin	2020-03-28		0	4									
 St._Francois_County,_Missouri	St. Francois County, Missouri	2020-03-28			4			0			-2					https://health.mo.gov/
 St._Joseph_County,_Indiana	St. Joseph County, Indiana	2020-03-28		1	31		854	4	0		-2	0	0.14	3.57		https://coronavirus.in.gov/
 St._Joseph_County,_Michigan	St. Joseph County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	0	10			0	0	0	-2	0	0.0	1.14		https://www.michigan.gov/
-St._Lawrence_County,_New_York	St. Lawrence County, New York	2020-03-28			8			5			4					https://coronavirus.health.ny.gov/
+St._Lawrence_County,_New_York	St. Lawrence County, New York	2020-03-28			8			5			4			-24.99		https://coronavirus.health.ny.gov/
 St._Louis	St. Louis	2020-03-28			93			21			6					https://health.mo.gov/
 St._Louis_County,_Minnesota	St. Louis County, Minnesota	2020-03-28			5			0			0			0.57		https://www.health.state.mn.us/
 St._Louis_County,_Missouri	St. Louis County, Missouri	2020-03-28			313			66			-8					https://health.mo.gov/
 Stafford_County,_Virginia	Stafford County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	11			0	0		-4	0	0.0	1.29		http://www.vdh.virginia.gov/
-Staffordshire	Staffordshire	2020-03-28			294			22			-14			28.0		https://www.gov.uk/
+Staffordshire	Staffordshire	2020-03-28			293			22			-14			28.0		https://www.gov.uk/
 Stanislaus_County,_California	Stanislaus County, California	2020-03-28	2020-03-28T19:30:00.000Z	0	29			10	0		5	0	0.0	3.14		http://schsa.org/
 Stark_County,_North_Dakota	Stark County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		9			3			0			1.29		https://www.health.nd.gov/
 Stark_County,_Ohio	Stark County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	2	25			3	0		-3	0	0.29	2.43		https://coronavirus.ohio.gov/
@@ -1505,7 +1505,7 @@ Steele_County,_Minnesota	Steele County, Minnesota	2020-03-28			5			0			0			0.43	
 Steele_County,_North_Dakota	Steele County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 Stephens_County,_Oklahoma	Stephens County, Oklahoma	2020-03-28			2			1			1					https://coronavirus.health.ok.gov/
 Steuben_County,_Indiana	Steuben County, Indiana	2020-03-28		0	0		30	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
-Steuben_County,_New_York	Steuben County, New York	2020-03-28			13			1			0					https://coronavirus.health.ny.gov/
+Steuben_County,_New_York	Steuben County, New York	2020-03-28			13			1			0			-39.7		https://coronavirus.health.ny.gov/
 Stevens_County,_Washington	Stevens County, Washington	2020-03-28		0	3			0	0		-1	0				https://coronavirus.wa.gov/
 Stoddard_County,_Missouri	Stoddard County, Missouri	2020-03-28			1			0			0					https://health.mo.gov/
 Stoke-on-Trent	Stoke-on-Trent	2020-03-28			37			4			1			4.0		https://www.gov.uk/
@@ -1517,12 +1517,12 @@ Sublette_County,_Wyoming	Sublette County, Wyoming	2020-03-28			1											https
 Sudan	Sudan	2020-03-28		1	5			2	0	0	2	0	0.0	0.43		https://www.who.int/
 Suffolk	Suffolk	2020-03-28			122			6			-14			11.71		https://www.gov.uk/
 Suffolk_County,_Massachusetts	Suffolk County, Massachusetts	2020-03-28	2020-03-28T16:00:00.000Z		843			212			29			105.0		https://www.mass.gov/
-Suffolk_County,_New_York	Suffolk County, New York	2020-03-28			4138			753			103					https://coronavirus.health.ny.gov/
+Suffolk_County,_New_York	Suffolk County, New York	2020-03-28			4138			753			103			-1078.08		https://coronavirus.health.ny.gov/
 Suffolk,_Virginia	Suffolk, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	1			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Sullivan_County,_Indiana	Sullivan County, Indiana	2020-03-28		0	1		18	0	0		0	0	0.0	0.14		https://coronavirus.in.gov/
 Sullivan_County,_Missouri	Sullivan County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Sullivan_County,_New_Hampshire	Sullivan County, New Hampshire	2020-03-28	2020-03-28T09:00:00.000Z		2			0			0			0.29		https://www.nh.gov/
-Sullivan_County,_New_York	Sullivan County, New York	2020-03-28			72			8			-3					https://coronavirus.health.ny.gov/
+Sullivan_County,_New_York	Sullivan County, New York	2020-03-28			72			8			-3			-35.6		https://coronavirus.health.ny.gov/
 Sullivan_County,_Tennessee	Sullivan County, Tennessee	2020-03-28			6			0			-2					https://www.tn.gov/
 Summers_County,_West_Virginia	Summers County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
 Summit_County,_Ohio	Summit County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	4	79			14	3		-1	2	0.57	9.14		https://coronavirus.ohio.gov/
@@ -1560,7 +1560,7 @@ The_Gambia	The Gambia	2020-03-28	2020-12-16T11:31:26.000Z	1	3			0	0	0	0	0	0.14	-
 Thurrock	Thurrock	2020-03-28			65			7			-5			6.86		https://www.gov.uk/
 Thurston_County,_Washington	Thurston County, Washington	2020-03-28		0	33			6	0		3	0				https://coronavirus.wa.gov/
 Tillamook_County,_Oregon	Tillamook County, Oregon	2020-03-28		0	1											https://govstatus.egov.com/OR-OHA-COVID-19
-Tioga_County,_New_York	Tioga County, New York	2020-03-28			4			2			2					https://coronavirus.health.ny.gov/
+Tioga_County,_New_York	Tioga County, New York	2020-03-28			4			2			2			-19.62		https://coronavirus.health.ny.gov/
 Tioga_County,_Pennsylvania	Tioga County, Pennsylvania	2020-03-28			1											https://www.health.pa.gov/
 Tippah_County,_Mississippi	Tippah County, Mississippi	2020-03-28		2	23			5	0		2	-1				https://msdh.ms.gov/
 Tippecanoe_County,_Indiana	Tippecanoe County, Indiana	2020-03-28		1	11		362	3	1		2	1	0.14	1.29		https://coronavirus.in.gov/
@@ -1569,7 +1569,7 @@ Tipton_County,_Tennessee	Tipton County, Tennessee	2020-03-28			10			0			-2					h
 Todd_County,_South_Dakota	Todd County, South Dakota	2020-03-28			1			0			0					https://doh.sd.gov/
 Togo	Togo	2020-03-28	2020-12-16T11:31:26.000Z	1	25			1	1	1	0	1	0.14	1.43		https://www.ecdc.europa.eu/
 Tolland_County,_Connecticut	Tolland County, Connecticut	2020-03-28	2020-03-28T12:00:00.000Z	4	37			4	1		4	1				https://portal.ct.gov/
-Tompkins_County,_New_York	Tompkins County, New York	2020-03-28			45			19			15					https://coronavirus.health.ny.gov/
+Tompkins_County,_New_York	Tompkins County, New York	2020-03-28			45			19			15			-23.78		https://coronavirus.health.ny.gov/
 Torbay	Torbay	2020-03-28			37			3			-3			2.86		https://www.gov.uk/
 Torrance_County,_New_Mexico	Torrance County, New Mexico	2020-03-28			0			0			0					https://cv.nmhealth.org
 Towner_County,_North_Dakota	Towner County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
@@ -1594,7 +1594,7 @@ Twin_Falls_County,_Idaho	Twin Falls County, Idaho	2020-03-28		0	2			0	0		-1	0		0
 Tyler_County,_West_Virginia	Tyler County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
 Uganda	Uganda	2020-03-28	2020-12-16T11:31:26.000Z	0	14			0	0	0	0	0	0.0	1.86		https://www.ecdc.europa.eu/
 Ukraine	Ukraine	2020-03-28		8	311			93	0	0	31	-1	0.71	37.71		https://www.who.int/
-Ulster_County,_New_York	Ulster County, New York	2020-03-28			128			30			10					https://coronavirus.health.ny.gov/
+Ulster_County,_New_York	Ulster County, New York	2020-03-28			128			30			10			-65.38		https://coronavirus.health.ny.gov/
 Umatilla_County,_Oregon	Umatilla County, Oregon	2020-03-28		0	4											https://govstatus.egov.com/OR-OHA-COVID-19
 Umbria	Umbria	2020-03-28		28	969	43	7028	85	7	4	3	6	2.57	72.43	5.43	http://www.salute.gov.it/
 Unicoi_County,_Tennessee	Unicoi County, Tennessee	2020-03-28			1			0			0					https://www.tn.gov/
@@ -1606,7 +1606,7 @@ Union_County,_Oregon	Union County, Oregon	2020-03-28		0	1											https://govs
 Union_County,_South_Dakota	Union County, South Dakota	2020-03-28			1			0			0					https://doh.sd.gov/
 United_Arab_Emirates	United Arab Emirates	2020-03-28	2020-12-16T11:31:26.000Z	2	405			72	0	0	72	0	0.29	37.86		https://www.ecdc.europa.eu/
 United_Kingdom	United Kingdom	2020-03-28	2020-12-16T11:31:26.000Z	1172	20804			3087	288	288	395	107	139.71	2046.14		https://www.ecdc.europa.eu/
-United_States	United States	2020-03-28	2020-12-31T01:35:57.069Z	1310	124406			18186	411		-407	165	160.57	13766.29	153.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-03-28	2021-01-02T01:34:02.309Z	1310	124406			18186	411		-407	165	160.57	13766.29	153.14	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-03-28	2020-12-16T11:31:26.000Z	0	19			2	0	0	2	0	0.0	1.86		https://www.ecdc.europa.eu/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		1											https://dhhr.wv.gov/
 Uruguay	Uruguay	2020-03-28		0	274			36	0	0	15	0	0.0	23.43		https://www.who.int/
@@ -1644,7 +1644,7 @@ Ward_County,_North_Dakota	Ward County, North Dakota	2020-03-28	2020-03-28T10:46:
 Warren_County,_Indiana	Warren County, Indiana	2020-03-28		0	1		10	0	0		0	0	0.0	0.14		https://coronavirus.in.gov/
 Warren_County,_Mississippi	Warren County, Mississippi	2020-03-28			1											https://msdh.ms.gov/
 Warren_County,_Missouri	Warren County, Missouri	2020-03-28			1			1			1					https://health.mo.gov/
-Warren_County,_New_York	Warren County, New York	2020-03-28			13			5			-1					https://coronavirus.health.ny.gov/
+Warren_County,_New_York	Warren County, New York	2020-03-28			13			5			-1			-14.21		https://coronavirus.health.ny.gov/
 Warren_County,_Ohio	Warren County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	16			5	0		4	0	0.0	2.0		https://coronavirus.ohio.gov/
 Warren_County,_Pennsylvania	Warren County, Pennsylvania	2020-03-28			1			0			0					https://www.health.pa.gov/
 Warren_County,_Virginia	Warren County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	2			0	0		-1	0	0.0	0.29		http://www.vdh.virginia.gov/
@@ -1659,7 +1659,7 @@ Washington_County,_Maine	Washington County, Maine	2020-03-28			0			0			0					htt
 Washington_County,_Minnesota	Washington County, Minnesota	2020-03-28			25			3			-4			3.0		https://www.health.state.mn.us/
 Washington_County,_Mississippi	Washington County, Mississippi	2020-03-28			16			3			1					https://msdh.ms.gov/
 Washington_County,_Missouri	Washington County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
-Washington_County,_New_York	Washington County, New York	2020-03-28			6			0			-2					https://coronavirus.health.ny.gov/
+Washington_County,_New_York	Washington County, New York	2020-03-28			6			0			-2			-9.98		https://coronavirus.health.ny.gov/
 Washington_County,_Ohio	Washington County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	2			0	0		-1	0	0.0	0.29		https://coronavirus.ohio.gov/
 Washington_County,_Oklahoma	Washington County, Oklahoma	2020-03-28			14			5			1					https://coronavirus.health.ok.gov/
 Washington_County,_Oregon	Washington County, Oregon	2020-03-28		3	140											https://govstatus.egov.com/OR-OHA-COVID-19
@@ -1676,7 +1676,7 @@ Waupaca_County,_Wisconsin	Waupaca County, Wisconsin	2020-03-28		1	1											ht
 Wayne_County,_Indiana	Wayne County, Indiana	2020-03-28		0	1		59	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Wayne_County,_Michigan	Wayne County, Michigan	2020-03-28	2020-10-12T16:00:00.000Z	152	6643			509	43	43	-91	13	19.57	511.57		https://www.michigan.gov/
 Wayne_County,_Missouri	Wayne County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
-Wayne_County,_New_York	Wayne County, New York	2020-03-28			12			1			-2					https://coronavirus.health.ny.gov/
+Wayne_County,_New_York	Wayne County, New York	2020-03-28			12			1			-2			-30.11		https://coronavirus.health.ny.gov/
 Wayne_County,_Ohio	Wayne County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	4			1	0		0	0	0.0	0.57		https://coronavirus.ohio.gov/
 Wayne_County,_Pennsylvania	Wayne County, Pennsylvania	2020-03-28			6			0			0			0.71		https://www.health.pa.gov/
 Wayne_County,_West_Virginia	Wayne County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
@@ -1688,10 +1688,10 @@ Wells_County,_Indiana	Wells County, Indiana	2020-03-28		0	1		31	0	0		0	0	0.0	0.0
 Wells_County,_North_Dakota	Wells County, North Dakota	2020-03-28	2020-03-28T10:46:00.000Z		0			0			0			0.0		https://www.health.nd.gov/
 West_Berkshire	West Berkshire	2020-03-28			54			6			1			4.86		https://www.gov.uk/
 West_Flanders	West Flanders	2020-03-28	2020-03-28		1401			77			-108			131.71		https://epistat.wiv-isp.be/Covid/
-West_Midlands_(region)	West Midlands (region)	2020-03-28			2623			323			44			250.86		https://www.gov.uk/
+West_Midlands_(region)	West Midlands (region)	2020-03-28			2622			323			44			251.0		https://www.gov.uk/
 West_Sussex	West Sussex	2020-03-28			189			17			-2			17.43		https://www.gov.uk/
 West_Virginia	West Virginia	2020-03-28			113			17			-3			14.43		https://dhhr.wv.gov/
-Westchester_County,_New_York	Westchester County, New York	2020-03-28			7875			688			-555					https://coronavirus.health.ny.gov/
+Westchester_County,_New_York	Westchester County, New York	2020-03-28			7875			688			-555			-721.14		https://coronavirus.health.ny.gov/
 Westmoreland_County,_Pennsylvania	Westmoreland County, Pennsylvania	2020-03-28			41			11			5			5.29		https://www.health.pa.gov/
 Westmoreland_County,_Virginia	Westmoreland County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Wetzel_County,_West_Virginia	Wetzel County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
@@ -1725,12 +1725,12 @@ Wood_County,_Ohio	Wood County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	10			2
 Wood_County,_West_Virginia	Wood County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		2											https://dhhr.wv.gov/
 Wood_County,_Wisconsin	Wood County, Wisconsin	2020-03-28		0	2											https://www.dhs.wisconsin.gov/
 Worcester_County,_Massachusetts	Worcester County, Massachusetts	2020-03-28	2020-03-28T16:00:00.000Z		291			72			19			38.14		https://www.mass.gov/
-Worcestershire	Worcestershire	2020-03-28			212			35			13			20.29		https://www.gov.uk/
+Worcestershire	Worcestershire	2020-03-28			213			35			13			20.43		https://www.gov.uk/
 Worth_County,_Missouri	Worth County, Missouri	2020-03-28			0			0			0					https://health.mo.gov/
 Wright_County,_Minnesota	Wright County, Minnesota	2020-03-28			5			0			0			0.29		https://www.health.state.mn.us/
 Wright_County,_Missouri	Wright County, Missouri	2020-03-28			1			0			0					https://health.mo.gov/
 Wyandot_County,_Ohio	Wyandot County, Ohio	2020-03-28	2020-03-28T14:00:00.000Z	0	1			0	0		0	0	0.0	0.14		https://coronavirus.ohio.gov/
-Wyoming_County,_New_York	Wyoming County, New York	2020-03-28			7			0			0					https://coronavirus.health.ny.gov/
+Wyoming_County,_New_York	Wyoming County, New York	2020-03-28			7			0			0			-16.25		https://coronavirus.health.ny.gov/
 Wyoming_County,_West_Virginia	Wyoming County, West Virginia	2020-03-28	2020-03-28T18:00:00.000Z		0											https://dhhr.wv.gov/
 Wythe_County,_Virginia	Wythe County, Virginia	2020-03-28	2020-03-28T09:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
 Yakima_County,_Washington	Yakima County, Washington	2020-03-28		2	100			28	0		17	0				https://coronavirus.wa.gov/
@@ -1744,7 +1744,7 @@ York	York	2020-03-28			30			7			2			2.43		https://www.gov.uk/
 York_County,_Maine	York County, Maine	2020-03-28			38			5			-1					https://www.maine.gov/
 York_County,_Pennsylvania	York County, Pennsylvania	2020-03-28			37			8			0			4.0		https://www.health.pa.gov/
 York_County,_Virginia	York County, Virginia	2020-03-28		1	9			0	0		0	0	0.0	0.86		http://www.vdh.virginia.gov/
-Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-03-28			1491			208			55			155.0		https://www.gov.uk/
+Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-03-28			1489			207			54			154.71		https://www.gov.uk/
 Yuba_County,_California	Yuba County, California	2020-03-28	2020-03-28T11:30:00.000Z	0	3			0	0		0	0	0.0	0.43		https://www.yuba.org/
 Yuma_County,_Arizona	Yuma County, Arizona	2020-03-28	2020-03-28T12:30:00.000Z		4			0			0			0.43		https://azdhs.gov/
 Zambia	Zambia	2020-03-28	2020-12-16T11:31:26.000Z	0	16			2	0	0	0	0	0.0	1.43		https://www.ecdc.europa.eu/

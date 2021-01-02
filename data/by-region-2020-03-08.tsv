@@ -49,7 +49,7 @@ Bristol	Bristol	2020-03-08			3			0			-1					https://www.gov.uk/
 Brown_County,_Indiana	Brown County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Brussels	Brussels	2020-03-08	2020-03-08		39			6			1			4.71		https://epistat.wiv-isp.be/Covid/
 Buckinghamshire	Buckinghamshire	2020-03-08			5			1			0			0.57		https://www.gov.uk/
-Bulgaria	Bulgaria	2020-03-08	2020-12-16T11:31:26.000Z	0	2				0							https://www.ecdc.europa.eu/
+Bulgaria	Bulgaria	2020-03-08	2020-12-16T11:31:26.000Z	0	2				0			-61				https://www.ecdc.europa.eu/
 Calabria	Calabria	2020-03-08		0	9	0	113	5	0	0	5	0	0.0	1.14	0.0	http://www.salute.gov.it/
 Calhoun_County,_Michigan	Calhoun County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Cambodia	Cambodia	2020-03-08		0	6			0	0	0	-1	0	0.0	0.14		https://www.who.int/
@@ -98,7 +98,7 @@ Devon	Devon	2020-03-08			21			1			0			2.71		https://www.gov.uk/
 Dickinson_County,_Michigan	Dickinson County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Dominican_Republic	Dominican Republic	2020-03-08		0	5			0	0		0	0	0.0	0.0		https://www.who.int/
 Dubois_County,_Indiana	Dubois County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
-Earth	Earth	2020-03-08	2020-12-31T00:34:43.201Z	3780	109599			4080	97		-429	-7	114.14	3154.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-03-08	2021-01-02T00:42:52.620Z	9502	488752			-198186	97		125023	-7	-26719.0	-1120102.86		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Flanders	East Flanders	2020-03-08	2020-03-08		39			5			4			5.43		https://epistat.wiv-isp.be/Covid/
 East_Midlands	East Midlands	2020-03-08			32			1			-4			3.86		https://www.gov.uk/
 East_of_England	East of England	2020-03-08			30			2			-1			3.57		https://www.gov.uk/
@@ -152,7 +152,7 @@ Huntington_County,_Indiana	Huntington County, Indiana	2020-03-08		0	0		1	0	0		0	
 Huron_County,_Michigan	Huron County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Iceland	Iceland	2020-03-08		0	59			10	0	0	-4	0	0.0	7.57		https://www.who.int/
 India	India	2020-03-08		0	43			5	0	0	2	0	0.0	5.14		https://www.who.int/
-Indiana	Indiana	2020-03-08		0	1		35	0	0		-1	0	0.0	0.13		https://coronavirus.in.gov/
+Indiana	Indiana	2020-03-08		0	1		36	0	0		-1	0	0.0	0.13		https://coronavirus.in.gov/
 Indonesia	Indonesia	2020-03-08		0	10			2	0		2	0	0.0	1.43		https://www.who.int/
 Ingham_County,_Michigan	Ingham County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	4			1	0	0	1	0	0.0	0.57		https://www.michigan.gov/
 Ionia_County,_Michigan	Ionia County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	1			0	0	0	0	0	0.0	0.14		https://www.michigan.gov/
@@ -186,7 +186,7 @@ Lake_County,_Indiana	Lake County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		h
 Lake_County,_Michigan	Lake County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Lancashire	Lancashire	2020-03-08			4			0			0			0.29		https://www.gov.uk/
 Lapeer_County,_Michigan	Lapeer County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	1			1	0	0	1	0	0.0	0.14		https://www.michigan.gov/
-Latvia	Latvia	2020-03-08		0	7			2	0	0	2	0				https://www.who.int/
+Latvia	Latvia	2020-03-08		0	7			2	0	0	2	0	-9.61	-621.01		https://www.who.int/
 Lawrence_County,_Indiana	Lawrence County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Lazio	Lazio	2020-03-08		3	87	3	1929	11	2	0	-11	2	0.43	11.57	0.0	http://www.salute.gov.it/
 Lebanon	Lebanon	2020-03-08		0	36			10	0		10	0	0.0	3.14		https://www.who.int/
@@ -240,7 +240,7 @@ Malta	Malta	2020-03-08		0	7			0	0	0	0	0				https://www.who.int/
 Manchester	Manchester	2020-03-08			4			0			0					https://www.gov.uk/
 Manistee_County,_Michigan	Manistee County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Marche	Marche	2020-03-08		7	272	0	1025	65	1	0	17	-1	1.0	35.29	0.0	http://www.salute.gov.it/
-Marion_County,_Indiana	Marion County, Indiana	2020-03-08		0	1		10	0	0		-1	0	0.0	0.13		https://coronavirus.in.gov/
+Marion_County,_Indiana	Marion County, Indiana	2020-03-08		0	1		11	0	0		-1	0	0.0	0.13		https://coronavirus.in.gov/
 Marquette_County,_Michigan	Marquette County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Marshall_County,_Indiana	Marshall County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Martin_County,_Indiana	Martin County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
@@ -317,7 +317,7 @@ Piedmont	Piedmont	2020-03-08		5	360	0	1636	153	0	0	89	-1	0.71	44.43	0.0	http://w
 Pike_County,_Indiana	Pike County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Poland	Poland	2020-03-08	2020-12-16T11:31:26.000Z	0	6			1	0	0	-3	0				https://www.ecdc.europa.eu/
 Porter_County,_Indiana	Porter County, Indiana	2020-03-08		0	0		1	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
-Portugal	Portugal	2020-03-08		0	34			17	0	0	17	0				https://www.who.int/
+Portugal	Portugal	2020-03-08		0	34			17	0	0	17	0	-104.06	-6277.54		https://www.who.int/
 Posey_County,_Indiana	Posey County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
 Presque_Isle_County,_Michigan	Presque Isle County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Pulaski_County,_Indiana	Pulaski County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
@@ -344,7 +344,7 @@ Saudi_Arabia	Saudi Arabia	2020-03-08		0	15			4	0	0	2	0				https://www.who.int/
 Schoolcraft_County,_Michigan	Schoolcraft County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Scotland	Scotland	2020-03-08			18			2			-3					https://www.gov.uk/
 Scott_County,_Indiana	Scott County, Indiana	2020-03-08		0	0		1	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
-Senegal	Senegal	2020-03-08		0	8			0	0		0	0				https://www.who.int/
+Senegal	Senegal	2020-03-08		0	8			0	0		0	0	-6.12	-288.9		https://www.who.int/
 Serbia	Serbia	2020-03-08		0	5			0	0		0	0				https://www.who.int/
 Sheffield	Sheffield	2020-03-08			11			3			0			1.43		https://www.gov.uk/
 Shelby_County,_Indiana	Shelby County, Indiana	2020-03-08		0	0		0	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
@@ -390,7 +390,7 @@ Togo	Togo	2020-03-08		0	5			0	0		0	0				https://www.who.int/
 Torbay	Torbay	2020-03-08			7			0			-2					https://www.gov.uk/
 Trafford	Trafford	2020-03-08			5			0			0			0.57		https://www.gov.uk/
 Trentino	Trentino	2020-03-08		0	23	0	228	9	0	0	5	0	0.0	3.29	0.0	http://www.salute.gov.it/
-Tunisia	Tunisia	2020-03-08		0	6			1	0		1	0				https://www.who.int/
+Tunisia	Tunisia	2020-03-08		0	6			1	0		1	0	-69.79	-2076.63		https://www.who.int/
 Tuscany	Tuscany	2020-03-08		0	166	1	1618	53	0	0	19	0	0.0	21.86	0.0	http://www.salute.gov.it/
 Tuscola_County,_Michigan	Tuscola County, Michigan	2020-03-08	2020-10-12T16:00:00.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.michigan.gov/
 Ukraine	Ukraine	2020-03-08		0	5			0	0		0	0				https://www.who.int/
