@@ -1,4 +1,486 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+60002,_Antioch,_Illinois,_Illinois	60002, Antioch, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1264		11183	7			1			9.29		http://www.dph.illinois.gov/
+60004,_Arlington_Heights,_Illinois,_Illinois	60004, Arlington Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2768		44749	19			-5			20.29		http://www.dph.illinois.gov/
+60005,_Arlington_Heights,_Illinois,_Illinois	60005, Arlington Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1758		26757	6			-2			8.14		http://www.dph.illinois.gov/
+60007,_Elk_Grove_Village,_Illinois,_Illinois	60007, Elk Grove Village, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2114		23769	10			-3			7.86		http://www.dph.illinois.gov/
+60008,_Rolling_Meadows,_Illinois,_Illinois	60008, Rolling Meadows, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1939		20509	5			-5			9.0		http://www.dph.illinois.gov/
+60010,_Barrington_station,_Illinois	60010, Barrington station, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2227		32471	9			-8			15.29		http://www.dph.illinois.gov/
+60012,_Crystal_Lake,_Illinois,_Illinois	60012, Crystal Lake, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		717		9644	5			-1			7.71		http://www.dph.illinois.gov/
+60013,_Cary,_Illinois,_Illinois	60013, Cary, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1346		14016	10			-4			13.0		http://www.dph.illinois.gov/
+60014,_Crystal_Lake,_Illinois,_Illinois	60014, Crystal Lake, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2919		28656	25			2			22.43		http://www.dph.illinois.gov/
+60015,_Deerfield,_Illinois,_Illinois	60015, Deerfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1367		28642	12			-6			11.57		http://www.dph.illinois.gov/
+60016,_Des_Plaines,_Illinois,_Illinois	60016, Des Plaines, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4468		50095	15			-10			25.43		http://www.dph.illinois.gov/
+60018,_Des_Plaines,_Illinois,_Illinois	60018, Des Plaines, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2790		29903	18			2			12.0		http://www.dph.illinois.gov/
+60020,_Fox_Lake,_Illinois,_Illinois	60020, Fox Lake, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		600		7153	4			3			2.43		http://www.dph.illinois.gov/
+60021,_Fox_River_Grove,_Illinois,_Illinois	60021, Fox River Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		229		3112	1			0			2.14		http://www.dph.illinois.gov/
+60022,_Glencoe,_Illinois,_Illinois	60022, Glencoe, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		301		7111	4			2			2.0		http://www.dph.illinois.gov/
+60025,_Glenview,_Illinois,_Illinois	60025, Glenview, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2316		36017	25			5			18.14		http://www.dph.illinois.gov/
+60026,_Glenview,_Illinois,_Illinois	60026, Glenview, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		729		16048	3			-2			4.14		http://www.dph.illinois.gov/
+60030,_Grayslake,_Illinois,_Illinois	60030, Grayslake, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1835		23528	7			-8			13.29		http://www.dph.illinois.gov/
+60031,_Gurnee,_Illinois,_Illinois	60031, Gurnee, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2327		28847	15			-1			14.57		http://www.dph.illinois.gov/
+60033,_Harvard,_Illinois,_Illinois	60033, Harvard, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1259		9304	7			1			5.57		http://www.dph.illinois.gov/
+60035,_Highland_Park,_Illinois,_Illinois	60035, Highland Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1317		33467	5			-7			9.0		http://www.dph.illinois.gov/
+60040,_Highwood,_Illinois,_Illinois	60040, Highwood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		534		8730	1			-6			2.71		http://www.dph.illinois.gov/
+60041,_Ingleside,_Illinois,_Illinois	60041, Ingleside, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		517		5449	4			1			3.14		http://www.dph.illinois.gov/
+60042,_Island_Lake,_Illinois,_Illinois	60042, Island Lake, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		482		4681	3			-3			4.86		http://www.dph.illinois.gov/
+60043,_Kenilworth,_Illinois,_Illinois	60043, Kenilworth, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		111		2009	0			0			0.57		http://www.dph.illinois.gov/
+60044,_Lake_Bluff,_Illinois,_Illinois	60044, Lake Bluff, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		518		12600	6			-2			4.43		http://www.dph.illinois.gov/
+60045,_Lake_Forest,_Illinois,_Illinois	60045, Lake Forest, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		862		19560	3			2			4.71		http://www.dph.illinois.gov/
+60046,_Lake_Villa,_Illinois,_Illinois	60046, Lake Villa, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1990		20998	25			18			16.29		http://www.dph.illinois.gov/
+60047,_Lake_Zurich,_Illinois,_Illinois	60047, Lake Zurich, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2365		35534	24			0			15.86		http://www.dph.illinois.gov/
+60048,_Libertyville,_Illinois,_Illinois	60048, Libertyville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1315		22375	8			-4			11.57		http://www.dph.illinois.gov/
+60050,_McHenry,_Illinois,_Illinois	60050, McHenry, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2035		21514	19			-10			17.14		http://www.dph.illinois.gov/
+60051,_McHenry,_Illinois,_Illinois	60051, McHenry, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1512		13775	11			-5			12.86		http://www.dph.illinois.gov/
+60053,_Morton_Grove,_Illinois,_Illinois	60053, Morton Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1632		26284	4			-6			11.29		http://www.dph.illinois.gov/
+60056,_Mount_Prospect,_Illinois,_Illinois	60056, Mount Prospect, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3499		37447	19			-6			22.14		http://www.dph.illinois.gov/
+60060,_Mundelein,_Illinois,_Illinois	60060, Mundelein, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2617		24380	13			-2			16.29		http://www.dph.illinois.gov/
+60061,_Vernon_Hills,_Illinois,_Illinois	60061, Vernon Hills, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1226		20235	4			1			6.71		http://www.dph.illinois.gov/
+60062,_Northbrook,_Illinois,_Illinois	60062, Northbrook, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2184		56502	16			6			12.29		http://www.dph.illinois.gov/
+60064,_North_Chicago,_Illinois,_Illinois	60064, North Chicago, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2221		11763	5			-2			6.86		http://www.dph.illinois.gov/
+60067,_Palatine,_Illinois,_Illinois	60067, Palatine, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2396		40102	15			-1			11.29		http://www.dph.illinois.gov/
+60068,_Park_Ridge,_Illinois,_Illinois	60068, Park Ridge, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2312		35287	18			-3			18.57		http://www.dph.illinois.gov/
+60069,_Lincolnshire,_Illinois,_Illinois	60069, Lincolnshire, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		475		14680	0			0			2.29		http://www.dph.illinois.gov/
+60070,_Prospect_Heights,_Illinois,_Illinois	60070, Prospect Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1095		14250	4			-8			7.14		http://www.dph.illinois.gov/
+60071,_Richmond,_Illinois,_Illinois	60071, Richmond, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		221		2264	2			2			1.43		http://www.dph.illinois.gov/
+60073,_Round_Lake,_Illinois,_Illinois	60073, Round Lake, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		5285		42445	18			1			25.14		http://www.dph.illinois.gov/
+60074,_Palatine,_Illinois,_Illinois	60074, Palatine, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2697		25473	11			-11			15.14		http://www.dph.illinois.gov/
+60076,_Skokie,_Illinois,_Illinois	60076, Skokie, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2377		30479	9			-6			14.43		http://www.dph.illinois.gov/
+60077,_Skokie,_Illinois,_Illinois	60077, Skokie, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1882		30543	11			-3			9.43		http://www.dph.illinois.gov/
+60081,_Spring_Grove,_Illinois,_Illinois	60081, Spring Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		567		4956	4			2			5.14		http://www.dph.illinois.gov/
+60083,_Wadsworth,_Illinois,_Illinois	60083, Wadsworth, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		647		6984	3			1			3.57		http://www.dph.illinois.gov/
+60084,_Wauconda,_Illinois,_Illinois	60084, Wauconda, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1022		12487	7			0			4.29		http://www.dph.illinois.gov/
+60085,_Waukegan,_Illinois,_Illinois	60085, Waukegan, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		7911		65830	15			-24			28.57		http://www.dph.illinois.gov/
+60087,_Waukegan,_Illinois,_Illinois	60087, Waukegan, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2851		21726	10			3			8.71		http://www.dph.illinois.gov/
+60089,_Buffalo_Grove,_Illinois,_Illinois	60089, Buffalo Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1986		28351	8			-17			16.29		http://www.dph.illinois.gov/
+60090,_Wheeling_station_(Illinois),_Illinois	60090, Wheeling station (Illinois), Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3181		37413	23			-14			20.86		http://www.dph.illinois.gov/
+60091,_Wilmette,_Illinois,_Illinois	60091, Wilmette, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1038		20857	2			-9			4.86		http://www.dph.illinois.gov/
+60093,_Winnetka,_Illinois,_Illinois	60093, Winnetka, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1063		17116	4			-1			6.71		http://www.dph.illinois.gov/
+60096,_Winthrop_Harbor,_Illinois,_Illinois	60096, Winthrop Harbor, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		450		3529	1			0			2.29		http://www.dph.illinois.gov/
+60097,_Wonder_Lake_(CDP),_Illinois,_Illinois	60097, Wonder Lake (CDP), Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		637		6367	4			-4			5.57		http://www.dph.illinois.gov/
+60098,_Woodstock,_Illinois,_Illinois	60098, Woodstock, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2337		27586	12			-3			11.57		http://www.dph.illinois.gov/
+60099,_Zion,_Illinois,_Illinois	60099, Zion, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2799		27038	7			-3			10.0		http://www.dph.illinois.gov/
+60101,_Addison,_Illinois,_Illinois	60101, Addison, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3879		26920	16			-3			18.43		http://www.dph.illinois.gov/
+60102,_Algonquin,_Illinois,_Illinois	60102, Algonquin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1918		18600	19			3			12.57		http://www.dph.illinois.gov/
+60103,_Bartlett,_Illinois,_Illinois	60103, Bartlett, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3024		33490	20			-2			20.14		http://www.dph.illinois.gov/
+60104,_Bellwood_station_(Metra),_Illinois	60104, Bellwood station (Metra), Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1818		14566	9			1			6.71		http://www.dph.illinois.gov/
+60106,_Bensenville,_Illinois,_Illinois	60106, Bensenville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1881		18565	14			7			9.0		http://www.dph.illinois.gov/
+60107,_Streamwood,_Illinois,_Illinois	60107, Streamwood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3563		31402	13			-2			13.29		http://www.dph.illinois.gov/
+60108,_Bloomingdale,_Illinois,_Illinois	60108, Bloomingdale, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1911		27411	16			9			14.0		http://www.dph.illinois.gov/
+60109,_Burlington,_Illinois,_Illinois	60109, Burlington, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		52		732	0			0			0.14		http://www.dph.illinois.gov/
+60110,_Carpentersville,_Illinois,_Illinois	60110, Carpentersville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3588		22420	12			3			24.0		http://www.dph.illinois.gov/
+60112,_Cortland,_Illinois,_Illinois	60112, Cortland, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		300		3131	2			1			2.14		http://www.dph.illinois.gov/
+60115,_DeKalb,_Illinois,_Illinois	60115, DeKalb, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2854		40653	22			9			16.43		http://www.dph.illinois.gov/
+60119,_Elburn,_Illinois,_Illinois	60119, Elburn, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		646		6763	5			5			4.14		http://www.dph.illinois.gov/
+60120,_Elgin,_Illinois,_Illinois	60120, Elgin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4964		34067	24			-6			24.14		http://www.dph.illinois.gov/
+60123,_Elgin,_Illinois,_Illinois	60123, Elgin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4139		39399	20			-21			24.0		http://www.dph.illinois.gov/
+60126,_Elmhurst,_Illinois,_Illinois	60126, Elmhurst, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3177		46536	19			-7			21.0		http://www.dph.illinois.gov/
+60130,_Forest_Park,_Illinois,_Illinois	60130, Forest Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		901		18952	5			4			4.86		http://www.dph.illinois.gov/
+60131,_Franklin_Park,_Illinois,_Illinois	60131, Franklin Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1897		17471	8			-6			10.57		http://www.dph.illinois.gov/
+60134,_Geneva,_Illinois,_Illinois	60134, Geneva, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1768		23184	11			7			9.0		http://www.dph.illinois.gov/
+60135,_Genoa,_Illinois,_Illinois	60135, Genoa, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		583		4750	7			1			5.29		http://www.dph.illinois.gov/
+60136,_Gilberts,_Illinois,_Illinois	60136, Gilberts, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		583		4984	0			-9			4.43		http://www.dph.illinois.gov/
+60137,_Glen_Ellyn,_Illinois,_Illinois	60137, Glen Ellyn, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2325		30918	13			-10			14.43		http://www.dph.illinois.gov/
+60139,_Glendale_Heights,_Illinois,_Illinois	60139, Glendale Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3114		23959	14			0			14.43		http://www.dph.illinois.gov/
+60140,_Hampshire,_Illinois,_Illinois	60140, Hampshire, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1336		11891	10			1			9.57		http://www.dph.illinois.gov/
+60141,_Hines,_Illinois,_Illinois	60141, Hines, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		56		2096	-1			-2			0.29		http://www.dph.illinois.gov/
+60142,_Huntley,_Illinois,_Illinois	60142, Huntley, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1657		19929	7			-6			11.0		http://www.dph.illinois.gov/
+60143,_Itasca_station,_Illinois	60143, Itasca station, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		865		9265	4			-7			5.14		http://www.dph.illinois.gov/
+60148,_Lombard,_Illinois,_Illinois	60148, Lombard, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3142		44292	16			-13			20.71		http://www.dph.illinois.gov/
+60152,_Marengo,_Illinois,_Illinois	60152, Marengo, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		808		7495	3			-4			4.14		http://www.dph.illinois.gov/
+60153,_Maywood,_Illinois,_Illinois	60153, Maywood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1964		16337	9			-1			9.43		http://www.dph.illinois.gov/
+60154,_Westchester,_Illinois,_Illinois	60154, Westchester, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1162		13832	6			-4			7.43		http://www.dph.illinois.gov/
+60157,_Medinah,_Illinois,_Illinois	60157, Medinah, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		166		1621	0			0			0.86		http://www.dph.illinois.gov/
+60160,_Melrose_Park,_Illinois,_Illinois	60160, Melrose Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2950		20459	4			-14			11.57		http://www.dph.illinois.gov/
+60162,_Hillside,_Illinois,_Illinois	60162, Hillside, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1012		10246	6			-9			29.43		http://www.dph.illinois.gov/
+60163,_Berkeley,_Illinois,_Illinois	60163, Berkeley, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		500		3982	1			-3			2.86		http://www.dph.illinois.gov/
+60164,_Melrose_Park,_Illinois,_Illinois	60164, Melrose Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2436		25432	14			-2			12.57		http://www.dph.illinois.gov/
+60165,_Stone_Park,_Illinois,_Illinois	60165, Stone Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		580		2989	1			0			1.71		http://www.dph.illinois.gov/
+60171,_River_Grove,_Illinois,_Illinois	60171, River Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		863		7263	4			-3			5.43		http://www.dph.illinois.gov/
+60172,_Roselle,_Illinois,_Illinois	60172, Roselle, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1745		16203	18			1			12.0		http://www.dph.illinois.gov/
+60173,_Schaumburg,_Illinois,_Illinois	60173, Schaumburg, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		702		7553	4			2			4.14		http://www.dph.illinois.gov/
+60174,_St._Charles,_Illinois,_Illinois	60174, St. Charles, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2226		28950	10			-5			12.29		http://www.dph.illinois.gov/
+60175,_St._Charles,_Illinois,_Illinois	60175, St. Charles, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1922		27025	17			1			12.57		http://www.dph.illinois.gov/
+60176,_Schiller_Park,_Illinois,_Illinois	60176, Schiller Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1017		7256	2			-7			4.86		http://www.dph.illinois.gov/
+60177,_South_Elgin,_Illinois,_Illinois	60177, South Elgin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2055		25683	6			-10			11.43		http://www.dph.illinois.gov/
+60178,_Sycamore,_Illinois,_Illinois	60178, Sycamore, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1428		15273	4			-3			7.14		http://www.dph.illinois.gov/
+60181,_Villa_Park,_Illinois,_Illinois	60181, Villa Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2153		20899	8			-6			15.0		http://www.dph.illinois.gov/
+60185,_West_Chicago,_Illinois,_Illinois	60185, West Chicago, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3422		31498	17			-7			21.14		http://www.dph.illinois.gov/
+60187,_Wheaton,_Illinois,_Illinois	60187, Wheaton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1599		34893	11			3			10.0		http://www.dph.illinois.gov/
+60188,_Carol_Stream,_Illinois,_Illinois	60188, Carol Stream, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3373		30699	30			5			25.0		http://www.dph.illinois.gov/
+60189,_Wheaton,_Illinois,_Illinois	60189, Wheaton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1693		23636	7			-15			14.29		http://www.dph.illinois.gov/
+60190,_Winfield,_Illinois,_Illinois	60190, Winfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		797		9171	6			0			6.71		http://www.dph.illinois.gov/
+60191,_Wood_Dale,_Illinois,_Illinois	60191, Wood Dale, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1239		10095	11			2			9.43		http://www.dph.illinois.gov/
+60192,_Hoffman_Estates,_Illinois,_Illinois	60192, Hoffman Estates, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		742		9349	2			-4			6.0		http://www.dph.illinois.gov/
+60193,_Schaumburg,_Illinois,_Illinois	60193, Schaumburg, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2261		30810	12			2			12.0		http://www.dph.illinois.gov/
+60194,_Schaumburg,_Illinois,_Illinois	60194, Schaumburg, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1098		18220	2			-8			6.43		http://www.dph.illinois.gov/
+60195,_Schaumburg,_Illinois,_Illinois	60195, Schaumburg, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		229		2564	2			-2			1.43		http://www.dph.illinois.gov/
+60201,_Evanston,_Illinois,_Illinois	60201, Evanston, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1578		44991	8			-3			9.57		http://www.dph.illinois.gov/
+60202,_Evanston,_Illinois,_Illinois	60202, Evanston, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1596		36357	13			4			7.86		http://www.dph.illinois.gov/
+60203,_Evanston,_Illinois,_Illinois	60203, Evanston, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		195		3821	1			0			1.86		http://www.dph.illinois.gov/
+60301,_Oak_Park,_Illinois,_Illinois	60301, Oak Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		146		2675	0			-2			0.57		http://www.dph.illinois.gov/
+60302,_Oak_Park,_Illinois,_Illinois	60302, Oak Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1444		30244	4			-17			10.0		http://www.dph.illinois.gov/
+60304,_Oak_Park,_Illinois,_Illinois	60304, Oak Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		667		14764	7			0			4.57		http://www.dph.illinois.gov/
+60305,_River_Forest,_Illinois,_Illinois	60305, River Forest, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		522		9353	3			-3			4.43		http://www.dph.illinois.gov/
+60401,_Beecher,_Illinois,_Illinois	60401, Beecher, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		627		9010	4			1			4.43		http://www.dph.illinois.gov/
+60402,_Berwyn,_Illinois,_Illinois	60402, Berwyn, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6766		50685	25			-16			30.14		http://www.dph.illinois.gov/
+60406,_Blue_Island–Vermont_Street_station,_Illinois	60406, Blue Island–Vermont Street station, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2389		20247	8			1			10.0		http://www.dph.illinois.gov/
+60408,_Braidwood,_Illinois,_Illinois	60408, Braidwood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		435		3817	5			3			2.43		http://www.dph.illinois.gov/
+60409,_Calumet_City,_Illinois,_Illinois	60409, Calumet City, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2785		27304	8			-9			13.43		http://www.dph.illinois.gov/
+60410,_Channahon,_Illinois,_Illinois	60410, Channahon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1000		7890	8			2			7.14		http://www.dph.illinois.gov/
+60411,_Chicago_Heights,_Illinois,_Illinois	60411, Chicago Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4393		53491	17			-10			23.0		http://www.dph.illinois.gov/
+60415,_Chicago_Ridge,_Illinois,_Illinois	60415, Chicago Ridge, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		952		10869	1			-2			2.43		http://www.dph.illinois.gov/
+60417,_Crete,_Illinois,_Illinois	60417, Crete, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1117		18378	3			-4			6.57		http://www.dph.illinois.gov/
+60419,_Dolton,_Illinois,_Illinois	60419, Dolton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1420		24449	2			-3			4.57		http://www.dph.illinois.gov/
+60422,_Flossmoor,_Illinois,_Illinois	60422, Flossmoor, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		560		8223	5			2			3.57		http://www.dph.illinois.gov/
+60423,_Frankfort,_Illinois,_Illinois	60423, Frankfort, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2551		20607	5			-11			13.29		http://www.dph.illinois.gov/
+60425,_Glenwood,_Illinois,_Illinois	60425, Glenwood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		663		9172	2			-9			5.29		http://www.dph.illinois.gov/
+60426,_Harvey,_Illinois,_Illinois	60426, Harvey, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1971		18546	3			-8			8.57		http://www.dph.illinois.gov/
+60429,_Hazel_Crest,_Illinois,_Illinois	60429, Hazel Crest, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1072		12740	7			0			6.86		http://www.dph.illinois.gov/
+60430,_Homewood,_Illinois,_Illinois	60430, Homewood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1201		16261	7			0			6.43		http://www.dph.illinois.gov/
+60431,_Joliet,_Illinois,_Illinois	60431, Joliet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2280		18439	10			-20			14.86		http://www.dph.illinois.gov/
+60432,_Joliet,_Illinois,_Illinois	60432, Joliet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2037		12608	4			-6			11.0		http://www.dph.illinois.gov/
+60433,_Joliet,_Illinois,_Illinois	60433, Joliet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1443		12540	4			-4			5.29		http://www.dph.illinois.gov/
+60434,_Joliet,_Illinois,_Illinois	60434, Joliet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		334		3494	0			0			0.0		http://www.dph.illinois.gov/
+60435,_Joliet,_Illinois,_Illinois	60435, Joliet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4107		38985	12			-10			18.86		http://www.dph.illinois.gov/
+60436,_Joliet,_Illinois,_Illinois	60436, Joliet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1624		14379	5			-1			9.57		http://www.dph.illinois.gov/
+60438,_Lansing,_Illinois,_Illinois	60438, Lansing, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2549		21324	3			-25			13.14		http://www.dph.illinois.gov/
+60439,_Lemont,_Illinois,_Illinois	60439, Lemont, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1648		22201	7			0			7.0		http://www.dph.illinois.gov/
+60440,_Bolingbrook,_Illinois,_Illinois	60440, Bolingbrook, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4197		47537	15			-9			18.57		http://www.dph.illinois.gov/
+60441,_Lockport,_Illinois,_Illinois	60441, Lockport, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2527		20144	4			-9			14.71		http://www.dph.illinois.gov/
+60442,_Manhattan,_Illinois,_Illinois	60442, Manhattan, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		813		6359	7			1			5.14		http://www.dph.illinois.gov/
+60443,_Matteson,_Illinois,_Illinois	60443, Matteson, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1480		16403	8			-2			7.0		http://www.dph.illinois.gov/
+60445,_Midlothian,_Illinois,_Illinois	60445, Midlothian, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1424		16051	8			0			8.57		http://www.dph.illinois.gov/
+60446,_Romeoville,_Illinois,_Illinois	60446, Romeoville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3506		30184	7			-21			16.0		http://www.dph.illinois.gov/
+60447,_Minooka,_Illinois,_Illinois	60447, Minooka, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1049		8910	13			-5			9.29		http://www.dph.illinois.gov/
+60448,_Mokena,_Illinois,_Illinois	60448, Mokena, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1766		14463	11			1			10.57		http://www.dph.illinois.gov/
+60449,_Monee,_Illinois,_Illinois	60449, Monee, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		533		5630	5			4			2.57		http://www.dph.illinois.gov/
+60450,_Morris,_Illinois,_Illinois	60450, Morris, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1591		12755	5			-6			9.71		http://www.dph.illinois.gov/
+60451,_New_Lenox,_Illinois,_Illinois	60451, New Lenox, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2375		21467	16			1			18.86		http://www.dph.illinois.gov/
+60452,_Oak_Forest,_Illinois,_Illinois	60452, Oak Forest, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2133		17205	14			-7			13.71		http://www.dph.illinois.gov/
+60453,_Oak_Lawn,_Illinois,_Illinois	60453, Oak Lawn, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4389		46302	21			-8			26.57		http://www.dph.illinois.gov/
+60455,_Bridgeview,_Illinois,_Illinois	60455, Bridgeview, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1386		13624	1			-7			6.57		http://www.dph.illinois.gov/
+60456,_Hometown,_Illinois,_Illinois	60456, Hometown, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		278		2945	2			0			1.14		http://www.dph.illinois.gov/
+60457,_Hickory_Hills,_Illinois,_Illinois	60457, Hickory Hills, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		941		8511	4			-6			6.71		http://www.dph.illinois.gov/
+60458,_Justice,_Illinois,_Illinois	60458, Justice, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1032		9197	7			2			5.0		http://www.dph.illinois.gov/
+60459,_Burbank,_Illinois,_Illinois	60459, Burbank, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2491		19219	10			-6			11.14		http://www.dph.illinois.gov/
+60461,_Olympia_Fields,_Illinois,_Illinois	60461, Olympia Fields, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		239		3549	3			2			1.43		http://www.dph.illinois.gov/
+60462,_Orland_Park,_Illinois,_Illinois	60462, Orland Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2846		27816	16			-4			17.29		http://www.dph.illinois.gov/
+60463,_Palos_Heights,_Illinois,_Illinois	60463, Palos Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1200		16336	8			1			5.57		http://www.dph.illinois.gov/
+60464,_Palos_Park,_Illinois,_Illinois	60464, Palos Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		613		6789	1			-5			2.57		http://www.dph.illinois.gov/
+60465,_Palos_Hills,_Illinois,_Illinois	60465, Palos Hills, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1395		11615	4			-8			7.29		http://www.dph.illinois.gov/
+60466,_Park_Forest_(meteorite),_Illinois	60466, Park Forest (meteorite), Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1632		20406	8			-4			8.43		http://www.dph.illinois.gov/
+60467,_Orland_Park,_Illinois,_Illinois	60467, Orland Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1813		18426	10			-1			11.43		http://www.dph.illinois.gov/
+60468,_Peotone,_Illinois,_Illinois	60468, Peotone, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		476		3753	6			4			3.43		http://www.dph.illinois.gov/
+60469,_Posen,_Illinois,_Illinois	60469, Posen, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		615		4141	3			2			1.0		http://www.dph.illinois.gov/
+60471,_Richton_Park,_Illinois,_Illinois	60471, Richton Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		882		13849	7			-3			5.29		http://www.dph.illinois.gov/
+60472,_Robbins,_Illinois,_Illinois	60472, Robbins, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		271		3615	1			1			1.57		http://www.dph.illinois.gov/
+60473,_South_Holland,_Illinois,_Illinois	60473, South Holland, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1770		24752	3			-6			11.0		http://www.dph.illinois.gov/
+60475,_Steger,_Illinois,_Illinois	60475, Steger, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		641		5852	2			-12			5.43		http://www.dph.illinois.gov/
+60476,_Thornton,_Illinois,_Illinois	60476, Thornton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		203		1835	0			-2			0.57		http://www.dph.illinois.gov/
+60477,_Tinley_Park,_Illinois,_Illinois	60477, Tinley Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2754		24846	6			-14			16.71		http://www.dph.illinois.gov/
+60478,_Country_Club_Hills,_Illinois,_Illinois	60478, Country Club Hills, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1174		15146	4			0			6.0		http://www.dph.illinois.gov/
+60480,_Willow_Springs,_Illinois,_Illinois	60480, Willow Springs, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		382		3932	4			2			2.43		http://www.dph.illinois.gov/
+60481,_Wilmington,_Will_County,_Illinois,_Illinois	60481, Wilmington, Will County, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		979		11371	7			3			10.29		http://www.dph.illinois.gov/
+60482,_Worth,_Illinois,_Illinois	60482, Worth, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		615		5208	6			3			2.71		http://www.dph.illinois.gov/
+60490,_Bolingbrook,_Illinois,_Illinois	60490, Bolingbrook, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1310		15056	14			9			10.86		http://www.dph.illinois.gov/
+60501,_Summit,_Illinois,_Illinois	60501, Summit, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1161		7264	0			-7			2.14		http://www.dph.illinois.gov/
+60504,_Aurora,_Illinois,_Illinois	60504, Aurora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2344		24605	12			-3			15.29		http://www.dph.illinois.gov/
+60505,_Aurora,_Illinois,_Illinois	60505, Aurora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6845		48540	15			-7			26.14		http://www.dph.illinois.gov/
+60506,_Aurora,_Illinois,_Illinois	60506, Aurora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4898		45988	13			-12			23.14		http://www.dph.illinois.gov/
+60510,_Batavia,_Illinois,_Illinois	60510, Batavia, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1538		21040	4			-6			7.0		http://www.dph.illinois.gov/
+60513,_Brookfield,_Illinois,_Illinois	60513, Brookfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1320		16214	8			-5			8.0		http://www.dph.illinois.gov/
+60514,_Clarendon_Hills,_Illinois,_Illinois	60514, Clarendon Hills, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		595		7170	3			-6			7.57		http://www.dph.illinois.gov/
+60515,_Downers_Grove,_Illinois,_Illinois	60515, Downers Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1409		20298	14			-1			14.29		http://www.dph.illinois.gov/
+60516,_Downers_Grove,_Illinois,_Illinois	60516, Downers Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1484		20512	18			0			15.86		http://www.dph.illinois.gov/
+60517,_Woodridge,_Illinois,_Illinois	60517, Woodridge, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1975		22972	7			-18			15.86		http://www.dph.illinois.gov/
+60521,_Hinsdale,_Illinois,_Illinois	60521, Hinsdale, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1116		16416	10			-10			11.43		http://www.dph.illinois.gov/
+60523,_Oak_Brook,_Illinois,_Illinois	60523, Oak Brook, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		723		9921	4			-2			3.86		http://www.dph.illinois.gov/
+60525,_La_Grange,_Illinois,_Illinois	60525, La Grange, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2264		34549	15			-1			12.29		http://www.dph.illinois.gov/
+60526,_La_Grange_Park,_Illinois,_Illinois	60526, La Grange Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		749		18452	5			-3			6.0		http://www.dph.illinois.gov/
+60527,_Willowbrook,_DuPage_County,_Illinois,_Illinois	60527, Willowbrook, DuPage County, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1939		28986	14			-1			16.14		http://www.dph.illinois.gov/
+60532,_Lisle,_Illinois,_Illinois	60532, Lisle, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1329		22235	4			-5			8.29		http://www.dph.illinois.gov/
+60534,_Lyons,_Illinois,_Illinois	60534, Lyons, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		973		7749	1			-3			3.14		http://www.dph.illinois.gov/
+60538,_Montgomery,_Illinois,_Illinois	60538, Montgomery, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2152		18314	10			-9			15.43		http://www.dph.illinois.gov/
+60540,_Naperville,_Illinois,_Illinois	60540, Naperville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1954		28610	13			-4			13.0		http://www.dph.illinois.gov/
+60542,_North_Aurora,_Illinois,_Illinois	60542, North Aurora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1246		13670	3			-2			5.43		http://www.dph.illinois.gov/
+60543,_Oswego,_Illinois,_Illinois	60543, Oswego, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2358		23745	10			-8			12.71		http://www.dph.illinois.gov/
+60544,_Plainfield,_Illinois,_Illinois	60544, Plainfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1960		23250	6			-12			10.86		http://www.dph.illinois.gov/
+60545,_Plano,_Illinois,_Illinois	60545, Plano, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1103		8508	13			-6			9.57		http://www.dph.illinois.gov/
+60546,_Riverside,_Illinois,_Illinois	60546, Riverside, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1077		19012	1			-9			7.43		http://www.dph.illinois.gov/
+60548,_Sandwich,_Illinois,_Illinois	60548, Sandwich, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		870		9445	11			3			8.71		http://www.dph.illinois.gov/
+60551,_Sheridan,_Illinois,_Illinois	60551, Sheridan, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		488		5690	13			10			7.14		http://www.dph.illinois.gov/
+60552,_Somonauk,_Illinois,_Illinois	60552, Somonauk, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		243		2379	2			-2			2.43		http://www.dph.illinois.gov/
+60554,_Sugar_Grove,_Illinois,_Illinois	60554, Sugar Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		678		7512	5			-4			4.43		http://www.dph.illinois.gov/
+60555,_Warrenville,_Illinois,_Illinois	60555, Warrenville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1000		9732	6			-7			6.86		http://www.dph.illinois.gov/
+60558,_Western_Springs,_Illinois,_Illinois	60558, Western Springs, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		784		10448	8			1			5.0		http://www.dph.illinois.gov/
+60559,_Westmont,_Illinois,_Illinois	60559, Westmont, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1555		21174	7			-7			13.14		http://www.dph.illinois.gov/
+60560,_Yorkville,_Illinois,_Illinois	60560, Yorkville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1754		19285	17			0			13.57		http://www.dph.illinois.gov/
+60561,_Darien,_Illinois,_Illinois	60561, Darien, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1276		14799	8			-5			11.71		http://www.dph.illinois.gov/
+60563,_Naperville,_Illinois,_Illinois	60563, Naperville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2167		40204	7			-19			12.86		http://www.dph.illinois.gov/
+60564,_Naperville,_Illinois,_Illinois	60564, Naperville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2103		28879	8			-7			15.0		http://www.dph.illinois.gov/
+60565,_Naperville,_Illinois,_Illinois	60565, Naperville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1769		25608	10			-3			11.14		http://www.dph.illinois.gov/
+60601,_Chicago,_Illinois	60601, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		743		15906	3			0			3.71		http://www.dph.illinois.gov/
+60602,_Chicago,_Illinois	60602, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		70		1737	0			0			0.0		http://www.dph.illinois.gov/
+60604,_Chicago,_Illinois	60604, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		88		1338	1			1			0.57		http://www.dph.illinois.gov/
+60605,_Chicago,_Illinois	60605, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1382		28019	7			-2			6.86		http://www.dph.illinois.gov/
+60606,_Chicago,_Illinois	60606, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		232		5370	-1			-1			0.86		http://www.dph.illinois.gov/
+60607,_Chicago,_Illinois	60607, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1909		36328	9			-6			10.29		http://www.dph.illinois.gov/
+60608,_Chicago,_Illinois	60608, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6422		69829	19			-23			23.29		http://www.dph.illinois.gov/
+60609,_Chicago,_Illinois	60609, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		5695		52660	13			-14			21.0		http://www.dph.illinois.gov/
+60610,_Chicago,_Illinois	60610, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2317		44185	14			-5			10.14		http://www.dph.illinois.gov/
+60611,_Chicago,_Illinois	60611, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1596		34595	11			3			9.43		http://www.dph.illinois.gov/
+60612,_Chicago,_Illinois	60612, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2699		41222	4			-8			15.29		http://www.dph.illinois.gov/
+60613,_Chicago,_Illinois	60613, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2661		54321	14			-3			15.86		http://www.dph.illinois.gov/
+60614,_Chicago,_Illinois	60614, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3803		84308	17			-7			19.14		http://www.dph.illinois.gov/
+60615,_Chicago,_Illinois	60615, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1648		45057	7			-6			9.14		http://www.dph.illinois.gov/
+60616,_Chicago,_Illinois	60616, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2698		51415	9			-8			17.86		http://www.dph.illinois.gov/
+60617,_Chicago,_Illinois	60617, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6014		59639	32			-2			30.43		http://www.dph.illinois.gov/
+60618,_Chicago,_Illinois	60618, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6148		81382	29			-11			33.86		http://www.dph.illinois.gov/
+60619,_Chicago,_Illinois	60619, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3243		45390	8			-6			14.86		http://www.dph.illinois.gov/
+60620,_Chicago,_Illinois	60620, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3852		48551	13			-7			18.0		http://www.dph.illinois.gov/
+60621,_Chicago,_Illinois	60621, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1695		19800	9			5			6.71		http://www.dph.illinois.gov/
+60622,_Chicago,_Illinois	60622, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3631		64572	29			-8			24.14		http://www.dph.illinois.gov/
+60623,_Chicago,_Illinois	60623, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		9029		60973	22			-20			29.57		http://www.dph.illinois.gov/
+60624,_Chicago,_Illinois	60624, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2492		25647	5			-5			10.71		http://www.dph.illinois.gov/
+60625,_Chicago,_Illinois	60625, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		5255		67450	18			-14			24.14		http://www.dph.illinois.gov/
+60626,_Chicago,_Illinois	60626, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3215		67425	22			-1			19.71		http://www.dph.illinois.gov/
+60628,_Chicago,_Illinois	60628, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3743		44643	12			-9			16.0		http://www.dph.illinois.gov/
+60629,_Chicago,_Illinois	60629, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		13913		83026	45			-23			56.0		http://www.dph.illinois.gov/
+60630,_Chicago,_Illinois	60630, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4044		42098	19			-5			21.0		http://www.dph.illinois.gov/
+60631,_Chicago,_Illinois	60631, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2211		30611	22			6			15.57		http://www.dph.illinois.gov/
+60632,_Chicago,_Illinois	60632, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		10894		63965	37			-35			45.57		http://www.dph.illinois.gov/
+60633,_Chicago,_Illinois	60633, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1495		15655	1			-3			3.43		http://www.dph.illinois.gov/
+60634,_Chicago,_Illinois	60634, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		7727		67014	29			-41			50.0		http://www.dph.illinois.gov/
+60636,_Chicago,_Illinois	60636, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2454		21551	9			0			9.71		http://www.dph.illinois.gov/
+60637,_Chicago,_Illinois	60637, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2403		72107	15			5			9.14		http://www.dph.illinois.gov/
+60638,_Chicago,_Illinois	60638, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6183		43758	24			-3			28.29		http://www.dph.illinois.gov/
+60639,_Chicago,_Illinois	60639, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		11635		74718	28			-31			54.43		http://www.dph.illinois.gov/
+60640,_Chicago,_Illinois	60640, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3255		72712	24			-7			21.71		http://www.dph.illinois.gov/
+60641,_Chicago,_Illinois	60641, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6830		69041	35			4			34.71		http://www.dph.illinois.gov/
+60643,_Chicago,_Illinois	60643, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3215		52963	15			-17			20.86		http://www.dph.illinois.gov/
+60644,_Chicago,_Illinois	60644, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3196		38258	16			-8			15.57		http://www.dph.illinois.gov/
+60645,_Chicago,_Illinois	60645, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3556		45815	22			-4			25.86		http://www.dph.illinois.gov/
+60646,_Chicago,_Illinois	60646, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1882		25175	23			4			14.43		http://www.dph.illinois.gov/
+60647,_Chicago,_Illinois	60647, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6515		95935	32			-8			34.71		http://www.dph.illinois.gov/
+60649,_Chicago,_Illinois	60649, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2457		37511	9			-11			12.71		http://www.dph.illinois.gov/
+60651,_Chicago,_Illinois	60651, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		6004		47238	13			-22			23.71		http://www.dph.illinois.gov/
+60652,_Chicago,_Illinois	60652, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4085		32099	12			-15			20.57		http://www.dph.illinois.gov/
+60653,_Chicago,_Illinois	60653, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1900		32240	7			-7			9.86		http://www.dph.illinois.gov/
+60654,_Chicago,_Illinois	60654, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1395		21975	10			1			6.57		http://www.dph.illinois.gov/
+60655,_Chicago,_Illinois	60655, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2600		24224	17			-11			15.57		http://www.dph.illinois.gov/
+60656,_Chicago,_Illinois	60656, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2186		20410	12			-6			12.57		http://www.dph.illinois.gov/
+60657,_Chicago,_Illinois	60657, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3476		73447	23			-1			19.43		http://www.dph.illinois.gov/
+60659,_Chicago,_Illinois	60659, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3025		28990	18			1			16.86		http://www.dph.illinois.gov/
+60660,_Chicago,_Illinois	60660, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1938		36117	20			14			8.71		http://www.dph.illinois.gov/
+60661,_Chicago,_Illinois	60661, Chicago, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		557		10429	3			0			2.57		http://www.dph.illinois.gov/
+60706,_Harwood_Heights,_Illinois,_Illinois	60706, Harwood Heights, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2176		20221	9			-11			13.0		http://www.dph.illinois.gov/
+60707,_Elmwood_Park,_Illinois,_Illinois	60707, Elmwood Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4079		40571	9			-26			24.71		http://www.dph.illinois.gov/
+60712,_Lincolnwood,_Illinois,_Illinois	60712, Lincolnwood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1792		18808	7			-5			14.43		http://www.dph.illinois.gov/
+60714,_Niles,_Illinois,_Illinois	60714, Niles, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2783		40198	8			-9			16.71		http://www.dph.illinois.gov/
+60803,_Alsip,_Illinois,_Illinois	60803, Alsip, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1672		12981	15			3			9.43		http://www.dph.illinois.gov/
+60804,_Cicero,_Illinois,_Illinois	60804, Cicero, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		10775		63222	30			-16			36.29		http://www.dph.illinois.gov/
+60805,_Evergreen_Park,_Illinois,_Illinois	60805, Evergreen Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1505		18459	11			4			7.71		http://www.dph.illinois.gov/
+60827,_Riverdale,_Illinois,_Illinois	60827, Riverdale, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1334		15412	4			-10			8.29		http://www.dph.illinois.gov/
+60901,_Kankakee,_Illinois,_Illinois	60901, Kankakee, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3895		51963	5			-11			14.71		http://www.dph.illinois.gov/
+60914,_Bourbonnais,_Illinois,_Illinois	60914, Bourbonnais, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2762		31281	5			-12			10.86		http://www.dph.illinois.gov/
+60915,_Bradley,_Illinois,_Illinois	60915, Bradley, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1007		12363	1			-5			3.0		http://www.dph.illinois.gov/
+60922,_Chebanse,_Illinois,_Illinois	60922, Chebanse, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		207		2066	0			-1			0.29		http://www.dph.illinois.gov/
+60927,_Clifton,_Illinois,_Illinois	60927, Clifton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		245		4054	0			0			0.57		http://www.dph.illinois.gov/
+60950,_Manteno,_Illinois,_Illinois	60950, Manteno, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1070		19856	4			-7			4.0		http://www.dph.illinois.gov/
+60954,_Momence,_Illinois,_Illinois	60954, Momence, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		557		7440	1			-2			2.29		http://www.dph.illinois.gov/
+60955,_Onarga,_Illinois,_Illinois	60955, Onarga, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		194		2114	0			0			0.14		http://www.dph.illinois.gov/
+60964,_St._Anne,_Illinois,_Illinois	60964, St. Anne, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		390		4159	1			1			0.57		http://www.dph.illinois.gov/
+61008,_Belvidere,_Illinois,_Illinois	61008, Belvidere, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3579		28245	26			11			18.29		http://www.dph.illinois.gov/
+61016,_Cherry_Valley,_Illinois,_Illinois	61016, Cherry Valley, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		450		3417	2			0			1.43		http://www.dph.illinois.gov/
+61021,_Dixon,_Illinois,_Illinois	61021, Dixon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1831		25888	7			-9			8.86		http://www.dph.illinois.gov/
+61064,_Polo,_Illinois,_Illinois	61064, Polo, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		214		3021	1			-1			1.71		http://www.dph.illinois.gov/
+61065,_Poplar_Grove,_Illinois,_Illinois	61065, Poplar Grove, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		841		7126	14			9			7.43		http://www.dph.illinois.gov/
+61068,_Rochelle,_Illinois,_Illinois	61068, Rochelle, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1310		8858	4			0			12.29		http://www.dph.illinois.gov/
+61071,_Rock_Falls,_Illinois,_Illinois	61071, Rock Falls, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1077		7265	3			-16			6.14		http://www.dph.illinois.gov/
+61072,_Rockton,_Illinois,_Illinois	61072, Rockton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		918		8765	5			-7			5.71		http://www.dph.illinois.gov/
+61073,_Roscoe,_Illinois,_Illinois	61073, Roscoe, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1608		15096	16			5			9.43		http://www.dph.illinois.gov/
+61080,_South_Beloit,_Illinois,_Illinois	61080, South Beloit, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		886		6863	7			-1			5.86		http://www.dph.illinois.gov/
+61081,_Sterling,_Illinois,_Illinois	61081, Sterling, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1861		15323	8			-12			11.0		http://www.dph.illinois.gov/
+61084,_Stillman_Valley,_Illinois,_Illinois	61084, Stillman Valley, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		224		1691	2			-3			1.86		http://www.dph.illinois.gov/
+61101,_Rockford,_Illinois,_Illinois	61101, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1488		15934	7			-9			7.86		http://www.dph.illinois.gov/
+61102,_Rockford,_Illinois,_Illinois	61102, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1625		12879	7			2			5.14		http://www.dph.illinois.gov/
+61103,_Rockford,_Illinois,_Illinois	61103, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1826		23377	8			-3			7.71		http://www.dph.illinois.gov/
+61104,_Rockford,_Illinois,_Illinois	61104, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1474		12643	4			0			4.57		http://www.dph.illinois.gov/
+61107,_Rockford,_Illinois,_Illinois	61107, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2709		32658	18			-3			14.43		http://www.dph.illinois.gov/
+61108,_Rockford,_Illinois,_Illinois	61108, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2792		27644	15			1			11.86		http://www.dph.illinois.gov/
+61109,_Rockford,_Illinois,_Illinois	61109, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2305		19005	8			-19			13.14		http://www.dph.illinois.gov/
+61111,_Loves_Park,_Illinois,_Illinois	61111, Loves Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1987		21943	10			1			10.14		http://www.dph.illinois.gov/
+61114,_Rockford,_Illinois,_Illinois	61114, Rockford, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1346		16663	6			-4			6.14		http://www.dph.illinois.gov/
+61115,_Machesney_Park,_Illinois,_Illinois	61115, Machesney Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1829		17675	10			-2			8.57		http://www.dph.illinois.gov/
+61201,_Rock_Island,_Illinois,_Illinois	61201, Rock Island, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2769		33528	9			3			11.43		http://www.dph.illinois.gov/
+61235,_Atkinson,_Illinois,_Illinois	61235, Atkinson, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		87		1269	0			-1			0.29		http://www.dph.illinois.gov/
+61240,_Coal_Valley,_Illinois,_Illinois	61240, Coal Valley, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		401		4338	4			4			2.0		http://www.dph.illinois.gov/
+61241,_Colona,_Illinois,_Illinois	61241, Colona, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		504		5002	0			-2			4.14		http://www.dph.illinois.gov/
+61244,_East_Moline,_Illinois,_Illinois	61244, East Moline, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1928		21264	11			-3			10.29		http://www.dph.illinois.gov/
+61252,_Fulton,_Illinois,_Illinois	61252, Fulton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		442		2574	3			1			2.57		http://www.dph.illinois.gov/
+61254,_Geneseo,_Illinois,_Illinois	61254, Geneseo, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		792		10686	1			1			2.14		http://www.dph.illinois.gov/
+61264,_Milan,_Illinois,_Illinois	61264, Milan, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		669		7184	0			-2			2.86		http://www.dph.illinois.gov/
+61265,_Moline,_Illinois,_Illinois	61265, Moline, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3376		33916	13			-6			13.86		http://www.dph.illinois.gov/
+61270,_Morrison,_Illinois,_Illinois	61270, Morrison, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		669		4336	2			-2			4.86		http://www.dph.illinois.gov/
+61275,_Port_Byron,_Illinois,_Illinois	61275, Port Byron, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		320		2927	2			-1			2.0		http://www.dph.illinois.gov/
+61282,_Silvis,_Illinois,_Illinois	61282, Silvis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		670		7924	6			3			6.43		http://www.dph.illinois.gov/
+61341,_Marseilles,_Illinois,_Illinois	61341, Marseilles, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		576		6802	0			-4			2.57		http://www.dph.illinois.gov/
+61342,_Mendota,_Illinois,_Illinois	61342, Mendota, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		935		6903	13			4			5.86		http://www.dph.illinois.gov/
+61350,_Ottawa,_Illinois,_Illinois	61350, Ottawa, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1707		21182	5			-3			8.0		http://www.dph.illinois.gov/
+61356,_Princeton,_Illinois,_Illinois	61356, Princeton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		939		9742	2			-7			3.57		http://www.dph.illinois.gov/
+61401,_Galesburg,_Illinois,_Illinois	61401, Galesburg, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2709		31230	5			-4			20.0		http://www.dph.illinois.gov/
+61410,_Abingdon,_Illinois,_Illinois	61410, Abingdon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		264		2282	1			-6			3.43		http://www.dph.illinois.gov/
+61443,_Kewanee,_Illinois,_Illinois	61443, Kewanee, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1158		13467	2			-3			4.57		http://www.dph.illinois.gov/
+61455,_Macomb,_Illinois,_Illinois	61455, Macomb, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1409		17995	1			-12			4.57		http://www.dph.illinois.gov/
+61462,_Monmouth,_Illinois,_Illinois	61462, Monmouth, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1061		7356	8			2			5.86		http://www.dph.illinois.gov/
+61525,_Dunlap,_Illinois,_Illinois	61525, Dunlap, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		787		10506	3			-13			6.14		http://www.dph.illinois.gov/
+61548,_Metamora,_Illinois,_Illinois	61548, Metamora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		966		12664	18			3			10.57		http://www.dph.illinois.gov/
+61554,_Pekin,_Illinois,_Illinois	61554, Pekin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3304		40619	26			1			28.43		http://www.dph.illinois.gov/
+61603,_Peoria,_Illinois,_Illinois	61603, Peoria, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1168		14440	6			-5			8.0		http://www.dph.illinois.gov/
+61604,_Peoria,_Illinois,_Illinois	61604, Peoria, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2333		33241	16			-13			18.71		http://www.dph.illinois.gov/
+61605,_Peoria,_Illinois,_Illinois	61605, Peoria, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		904		11974	10			4			6.86		http://www.dph.illinois.gov/
+61610,_Creve_Coeur,_Illinois,_Illinois	61610, Creve Coeur, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		357		4244	4			3			3.29		http://www.dph.illinois.gov/
+61611,_East_Peoria,_Illinois,_Illinois	61611, East Peoria, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1845		23825	12			-5			14.71		http://www.dph.illinois.gov/
+61614,_Peoria,_Illinois,_Illinois	61614, Peoria, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2177		38093	13			-5			15.29		http://www.dph.illinois.gov/
+61615,_Peoria,_Illinois,_Illinois	61615, Peoria, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1628		24110	9			-2			11.14		http://www.dph.illinois.gov/
+61701,_Bloomington,_Illinois,_Illinois	61701, Bloomington, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2270		42905	11			-14			18.29		http://www.dph.illinois.gov/
+61704,_Bloomington,_Illinois,_Illinois	61704, Bloomington, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2148		32363	11			-18			17.43		http://www.dph.illinois.gov/
+61761,_Normal,_Illinois,_Illinois	61761, Normal, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4387		68294	12			-34			25.71		http://www.dph.illinois.gov/
+61764,_Pontiac,_Illinois,_Illinois	61764, Pontiac, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1181		20962	0			-10			6.0		http://www.dph.illinois.gov/
+61801,_Urbana,_Illinois,_Illinois	61801, Urbana, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1192		286111	3			-3			6.0		http://www.dph.illinois.gov/
+61802,_Urbana,_Illinois,_Illinois	61802, Urbana, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1146		63957	8			-15			10.0		http://www.dph.illinois.gov/
+61820,_Champaign,_Illinois,_Illinois	61820, Champaign, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		4056		561203	6			2			8.86		http://www.dph.illinois.gov/
+61821,_Champaign,_Illinois,_Illinois	61821, Champaign, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1759		104399	11			-12			14.57		http://www.dph.illinois.gov/
+61822,_Champaign,_Illinois,_Illinois	61822, Champaign, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1418		82802	10			0			11.29		http://www.dph.illinois.gov/
+61832,_Danville,_Illinois,_Illinois	61832, Danville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2560		31928	9			-20			18.0		http://www.dph.illinois.gov/
+61853,_Mahomet,_Illinois,_Illinois	61853, Mahomet, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		792		32436	3			-12			9.71		http://www.dph.illinois.gov/
+61866,_Rantoul,_Illinois,_Illinois	61866, Rantoul, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1184		20567	4			-13			8.43		http://www.dph.illinois.gov/
+61874,_Savoy,_Illinois,_Illinois	61874, Savoy, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		476		42885	0			-2			3.14		http://www.dph.illinois.gov/
+61910,_Arcola,_Illinois,_Illinois	61910, Arcola, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		660		4264	4			-4			4.86		http://www.dph.illinois.gov/
+61920,_Charleston,_Illinois,_Illinois	61920, Charleston, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1866		20341	14			0			10.86		http://www.dph.illinois.gov/
+61938,_Mattoon,_Illinois,_Illinois	61938, Mattoon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2000		20971	10			-7			12.0		http://www.dph.illinois.gov/
+61953,_Tuscola,_Illinois,_Illinois	61953, Tuscola, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		519		8100	3			4			2.29		http://www.dph.illinois.gov/
+62002,_Alton,_Illinois,_Illinois	62002, Alton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2526		21285	17			-5			17.0		http://www.dph.illinois.gov/
+62010,_Bethalto,_Illinois,_Illinois	62010, Bethalto, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1004		7172	5			-4			5.71		http://www.dph.illinois.gov/
+62024,_East_Alton,_Illinois,_Illinois	62024, East Alton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		637		5468	3			1			2.71		http://www.dph.illinois.gov/
+62025,_Edwardsville,_Illinois,_Illinois	62025, Edwardsville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2615		24978	16			-12			21.43		http://www.dph.illinois.gov/
+62034,_Glen_Carbon,_Illinois,_Illinois	62034, Glen Carbon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1029		12196	9			2			7.0		http://www.dph.illinois.gov/
+62035,_Godfrey,_Illinois,_Illinois	62035, Godfrey, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1550		12549	13			0			12.14		http://www.dph.illinois.gov/
+62040,_Granite_City,_Illinois,_Illinois	62040, Granite City, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2974		21044	33			6			25.29		http://www.dph.illinois.gov/
+62052,_Jerseyville,_Illinois,_Illinois	62052, Jerseyville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1281		13889	1			-14			12.29		http://www.dph.illinois.gov/
+62056,_Litchfield,_Illinois,_Illinois	62056, Litchfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		519		9905	2			-3			6.0		http://www.dph.illinois.gov/
+62060,_Madison,_Illinois,_Illinois	62060, Madison, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		284		2296	1			-2			1.14		http://www.dph.illinois.gov/
+62062,_Maryville,_Illinois,_Illinois	62062, Maryville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		713		12576	4			-3			3.86		http://www.dph.illinois.gov/
+62069,_Mount_Olive,_Illinois,_Illinois	62069, Mount Olive, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		218		2597	3			-2			5.14		http://www.dph.illinois.gov/
+62088,_Staunton,_Illinois,_Illinois	62088, Staunton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		502		6715	4			-4			7.0		http://www.dph.illinois.gov/
+62090,_Venice,_Illinois,_Illinois	62090, Venice, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		74		571	0			-1			0.29		http://www.dph.illinois.gov/
+62095,_Wood_River,_Illinois,_Illinois	62095, Wood River, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		903		9733	3			-10			8.29		http://www.dph.illinois.gov/
+62201,_East_St._Louis,_Illinois,_Illinois	62201, East St. Louis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		459		4026	-1			-9			1.71		http://www.dph.illinois.gov/
+62203,_East_St._Louis,_Illinois,_Illinois	62203, East St. Louis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		512		5090	1			-3			2.71		http://www.dph.illinois.gov/
+62204,_East_St._Louis,_Illinois,_Illinois	62204, East St. Louis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		324		3584	0			2			1.29		http://www.dph.illinois.gov/
+62205,_East_St._Louis,_Illinois,_Illinois	62205, East St. Louis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		520		5153	1			-2			3.14		http://www.dph.illinois.gov/
+62206,_East_St._Louis,_Illinois,_Illinois	62206, East St. Louis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1026		11151	10			4			8.14		http://www.dph.illinois.gov/
+62207,_East_St._Louis,_Illinois,_Illinois	62207, East St. Louis, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		470		4416	8			6			3.86		http://www.dph.illinois.gov/
+62208,_Fairview_Heights_station_(MetroLink),_Illinois	62208, Fairview Heights station (MetroLink), Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1223		11653	11			-8			12.43		http://www.dph.illinois.gov/
+62220,_Belleville,_Illinois,_Illinois	62220, Belleville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1465		13034	10			-9			12.43		http://www.dph.illinois.gov/
+62221,_Belleville,_Illinois,_Illinois	62221, Belleville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2038		18226	14			-14			18.29		http://www.dph.illinois.gov/
+62223,_Belleville,_Illinois,_Illinois	62223, Belleville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1292		12760	9			-16			12.29		http://www.dph.illinois.gov/
+62226,_Belleville,_Illinois,_Illinois	62226, Belleville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2318		24470	14			-21			19.71		http://www.dph.illinois.gov/
+62230,_Breese,_Illinois,_Illinois	62230, Breese, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		931		6956	6			-1			6.29		http://www.dph.illinois.gov/
+62231,_Carlyle,_Illinois,_Illinois	62231, Carlyle, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		854		6183	1			-1			3.29		http://www.dph.illinois.gov/
+62232,_Caseyville,_Illinois,_Illinois	62232, Caseyville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		684		7934	3			-1			4.86		http://www.dph.illinois.gov/
+62233,_Chester,_Illinois,_Illinois	62233, Chester, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		839		7095	2			-3			5.86		http://www.dph.illinois.gov/
+62234,_Collinsville,_Illinois,_Illinois	62234, Collinsville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2576		19648	17			-1			18.0		http://www.dph.illinois.gov/
+62236,_Columbia,_Illinois,_Illinois	62236, Columbia, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1240		7603	6			-3			9.57		http://www.dph.illinois.gov/
+62239,_Dupo,_Illinois,_Illinois	62239, Dupo, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		328		2297	1			0			3.0		http://www.dph.illinois.gov/
+62249,_Highland,_Illinois,_Illinois	62249, Highland, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1561		12853	9			-4			13.14		http://www.dph.illinois.gov/
+62254,_Lebanon,_Illinois,_Illinois	62254, Lebanon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		618		6445	0			-7			2.71		http://www.dph.illinois.gov/
+62257,_Marissa,_Illinois,_Illinois	62257, Marissa, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		241		1847	3			1			2.43		http://www.dph.illinois.gov/
+62258,_Mascoutah,_Illinois,_Illinois	62258, Mascoutah, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		769		7816	5			-6			5.29		http://www.dph.illinois.gov/
+62265,_New_Baden,_Illinois,_Illinois	62265, New Baden, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		418		4243	2			-6			3.71		http://www.dph.illinois.gov/
+62269,_O'Fallon,_Illinois,_Illinois	62269, O'Fallon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2369		23748	26			-22			31.86		http://www.dph.illinois.gov/
+62272,_Percy,_Illinois,_Illinois	62272, Percy, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		176		1144	1			1			1.43		http://www.dph.illinois.gov/
+62274,_Pinckneyville,_Illinois,_Illinois	62274, Pinckneyville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1025		8167	40			27			25.14		http://www.dph.illinois.gov/
+62278,_Red_Bud,_Illinois,_Illinois	62278, Red Bud, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		816		5459	5			-1			7.14		http://www.dph.illinois.gov/
+62285,_Smithton,_Illinois,_Illinois	62285, Smithton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		416		3177	0			-4			2.29		http://www.dph.illinois.gov/
+62286,_Sparta,_Illinois,_Illinois	62286, Sparta, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		644		6214	5			-2			7.43		http://www.dph.illinois.gov/
+62288,_Steeleville,_Illinois,_Illinois	62288, Steeleville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		356		2485	3			2			1.86		http://www.dph.illinois.gov/
+62294,_Troy,_Illinois,_Illinois	62294, Troy, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1335		9040	16			8			12.57		http://www.dph.illinois.gov/
+62295,_Valmeyer,_Illinois,_Illinois	62295, Valmeyer, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		123		654	0			-2			1.0		http://www.dph.illinois.gov/
+62298,_Waterloo,_Illinois,_Illinois	62298, Waterloo, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1643		16215	5			-23			17.86		http://www.dph.illinois.gov/
+62301,_Quincy,_Illinois,_Illinois	62301, Quincy, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3212		54658	5			-67			37.71		http://www.dph.illinois.gov/
+62305,_Quincy,_Illinois,_Illinois	62305, Quincy, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1933		13687	9			-18			19.86		http://www.dph.illinois.gov/
+62448,_Newton,_Illinois,_Illinois	62448, Newton, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		631		5249	4			-1			3.43		http://www.dph.illinois.gov/
+62454,_Robinson,_Illinois,_Illinois	62454, Robinson, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1027		14466	2			-4			6.57		http://www.dph.illinois.gov/
+62471,_Vandalia,_Illinois,_Illinois	62471, Vandalia, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1462		9098	6			3			7.0		http://www.dph.illinois.gov/
+62521,_Decatur,_Illinois,_Illinois	62521, Decatur, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2758		29879	14			5			12.29		http://www.dph.illinois.gov/
+62522,_Decatur,_Illinois,_Illinois	62522, Decatur, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		954		9943	2			-3			3.29		http://www.dph.illinois.gov/
+62526,_Decatur,_Illinois,_Illinois	62526, Decatur, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2363		31542	12			-1			10.0		http://www.dph.illinois.gov/
+62565,_Shelbyville,_Illinois,_Illinois	62565, Shelbyville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		636		7090	1			0			1.29		http://www.dph.illinois.gov/
+62568,_Taylorville,_Illinois,_Illinois	62568, Taylorville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1473		14884	9			-10			10.14		http://www.dph.illinois.gov/
+62613,_Athens,_Illinois,_Illinois	62613, Athens, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		221		3398	5			2			2.29		http://www.dph.illinois.gov/
+62618,_Beardstown,_Illinois,_Illinois	62618, Beardstown, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1095		6742	3			1			10.57		http://www.dph.illinois.gov/
+62629,_Chatham,_Illinois,_Illinois	62629, Chatham, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		905		15390	14			8			5.71		http://www.dph.illinois.gov/
+62650,_Jacksonville,_Illinois,_Illinois	62650, Jacksonville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2407		27411	7			-11			10.14		http://www.dph.illinois.gov/
+62656,_Lincoln,_Illinois,_Illinois	62656, Lincoln, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2137		32734	19			12			11.0		http://www.dph.illinois.gov/
+62664,_Mason_City,_Illinois,_Illinois	62664, Mason City, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		230		2627	0			-3			1.57		http://www.dph.illinois.gov/
+62684,_Sherman,_Illinois,_Illinois	62684, Sherman, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		570		6649	4			1			2.43		http://www.dph.illinois.gov/
+62702,_Springfield,_Illinois,_Illinois	62702, Springfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2102		39114	12			-20			12.86		http://www.dph.illinois.gov/
+62703,_Springfield,_Illinois,_Illinois	62703, Springfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2029		36726	9			-2			7.57		http://www.dph.illinois.gov/
+62704,_Springfield,_Illinois,_Illinois	62704, Springfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2293		41640	11			-7			10.57		http://www.dph.illinois.gov/
+62707,_Springfield,_Illinois,_Illinois	62707, Springfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		559		9500	3			2			2.14		http://www.dph.illinois.gov/
+62801,_Centralia,_Illinois,_Illinois	62801, Centralia, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2114		25073	5			-9			11.29		http://www.dph.illinois.gov/
+62832,_Du_Quoin,_Illinois,_Illinois	62832, Du Quoin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		871		7754	2			-13			8.57		http://www.dph.illinois.gov/
+62864,_Mount_Vernon,_Illinois,_Illinois	62864, Mount Vernon, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1883		17685	6			-20			13.86		http://www.dph.illinois.gov/
+62901,_Carbondale,_Illinois,_Illinois	62901, Carbondale, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1634		22134	10			5			8.43		http://www.dph.illinois.gov/
+62902,_Carbondale,_Illinois,_Illinois	62902, Carbondale, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		239		3289	-1			-4			2.57		http://www.dph.illinois.gov/
+62906,_Anna,_Illinois,_Illinois	62906, Anna, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		877		10771	2			-7			9.86		http://www.dph.illinois.gov/
+62907,_Ava,_Illinois,_Illinois	62907, Ava, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		171		1374	1			0			0.57		http://www.dph.illinois.gov/
+62918,_Carterville,_Illinois,_Illinois	62918, Carterville, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		910		8667	5			-4			9.71		http://www.dph.illinois.gov/
+62920,_Cobden,_Illinois,_Illinois	62920, Cobden, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		286		3485	0			-4			2.71		http://www.dph.illinois.gov/
+62948,_Herrin,_Illinois,_Illinois	62948, Herrin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1035		12648	5			-3			8.86		http://www.dph.illinois.gov/
+62959,_Marion,_Illinois,_Illinois	62959, Marion, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2190		28956	21			-1			26.29		http://www.dph.illinois.gov/
+62966,_Murphysboro,_Illinois,_Illinois	62966, Murphysboro, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1068		11156	5			1			5.29		http://www.dph.illinois.gov/
+62992,_Ullin,_Illinois,_Illinois	62992, Ullin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		184		1240	0			0			0.29		http://www.dph.illinois.gov/
+94102,_San_Francisco,_California	94102, San Francisco, California	2021-01-02			1279			8			-6			9.71		https://www.sfdph.org/
+94103,_San_Francisco,_California	94103, San Francisco, California	2021-01-02			1231			11			-10			12.57		https://www.sfdph.org/
+94104,_San_Francisco,_California	94104, San Francisco, California	2021-01-02		0	10			0	0		0	0	0.0			https://www.sfdph.org/
+94105,_San_Francisco,_California	94105, San Francisco, California	2021-01-02			250			1			-1			3.43		https://www.sfdph.org/
+94107,_San_Francisco,_California	94107, San Francisco, California	2021-01-02			740			5			-3			8.14		https://www.sfdph.org/
+94108,_San_Francisco,_California	94108, San Francisco, California	2021-01-02			187			2			-2			2.29		https://www.sfdph.org/
+94109,_San_Francisco,_California	94109, San Francisco, California	2021-01-02		18	1358			13	0		-9	-1	0.14	14.71		https://www.sfdph.org/
+94110,_San_Francisco,_California	94110, San Francisco, California	2021-01-02		11	3131			47	0		5	0	0.0	34.57		https://www.sfdph.org/
+94111,_San_Francisco,_California	94111, San Francisco, California	2021-01-02			53			0			-2			0.71		https://www.sfdph.org/
+94112,_San_Francisco,_California	94112, San Francisco, California	2021-01-02		25	3578			56	0		-13	0	0.0	49.0		https://www.sfdph.org/
+94114,_San_Francisco,_California	94114, San Francisco, California	2021-01-02			570			7			-6			6.57		https://www.sfdph.org/
+94115,_San_Francisco,_California	94115, San Francisco, California	2021-01-02		34	863			8	0		-12	-1	0.14	10.14		https://www.sfdph.org/
+94116,_San_Francisco,_California	94116, San Francisco, California	2021-01-02			622			7			3			6.29		https://www.sfdph.org/
+94117,_San_Francisco,_California	94117, San Francisco, California	2021-01-02			581			1			-4			4.29		https://www.sfdph.org/
+94118,_San_Francisco,_California	94118, San Francisco, California	2021-01-02		10	603			6	0		-3	0	0.0	6.43		https://www.sfdph.org/
+94121,_San_Francisco,_California	94121, San Francisco, California	2021-01-02			560			7			-2			9.14		https://www.sfdph.org/
+94122,_San_Francisco,_California	94122, San Francisco, California	2021-01-02			675			14			2			11.43		https://www.sfdph.org/
+94123,_San_Francisco,_California	94123, San Francisco, California	2021-01-02			502			6			-2			5.0		https://www.sfdph.org/
+94124,_San_Francisco,_California	94124, San Francisco, California	2021-01-02		18	2621			31	0		-2	-1	0.14	28.43		https://www.sfdph.org/
+94127,_San_Francisco,_California	94127, San Francisco, California	2021-01-02		0	298			5	0		0	0	0.0	4.14		https://www.sfdph.org/
+94129,_San_Francisco,_California	94129, San Francisco, California	2021-01-02		0	67			0	0		0	0	0.0	0.0		https://www.sfdph.org/
+94130,_San_Francisco,_California	94130, San Francisco, California	2021-01-02		0	76			3	0		2	0	0.0	1.43		https://www.sfdph.org/
+94131,_San_Francisco,_California	94131, San Francisco, California	2021-01-02			450			11			3			7.43		https://www.sfdph.org/
+94132,_San_Francisco,_California	94132, San Francisco, California	2021-01-02			555			14			3			9.14		https://www.sfdph.org/
+94133,_San_Francisco,_California	94133, San Francisco, California	2021-01-02		10	391			7	0		-5	0	0.0	7.71		https://www.sfdph.org/
+94134,_San_Francisco,_California	94134, San Francisco, California	2021-01-02		10	1917			24	0		-5	0	0.0	24.57		https://www.sfdph.org/
+60133,_Hanover_Park,_Illinois,_Illinois	60133, Hanover Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3725		28438	11			-10			15.71		http://www.dph.illinois.gov/
+60156,_Lake_in_the_Hills,_Illinois,_Illinois	60156, Lake in the Hills, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1723		16043	4			-9			10.86		http://www.dph.illinois.gov/
+60155,_Broadview,_Illinois,_Illinois	60155, Broadview, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		639		5722	2			1			2.71		http://www.dph.illinois.gov/
+60491,_Homer_Glen,_Illinois,_Illinois	60491, Homer Glen, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1718		16190	7			-4			10.43		http://www.dph.illinois.gov/
+94158,_San_Francisco,_California	94158, San Francisco, California	2021-01-02		0	218			2	0		0	0	0.0	1.86		https://www.sfdph.org/
+60502,_Aurora,_Illinois,_Illinois	60502, Aurora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1038		13881	4			-1			5.0		http://www.dph.illinois.gov/
+60503,_Aurora,_Illinois,_Illinois	60503, Aurora, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		792		9494	5			1			3.86		http://www.dph.illinois.gov/
+60585,_Plainfield,_Illinois,_Illinois	60585, Plainfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1493		15960	12			-4			11.71		http://www.dph.illinois.gov/
+60586,_Plainfield,_Illinois,_Illinois	60586, Plainfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		3719		31133	17			-7			19.43		http://www.dph.illinois.gov/
+60428,_Markham,_Illinois,_Illinois	60428, Markham, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		790		8264	2			-1			2.71		http://www.dph.illinois.gov/
+62711,_Springfield,_Illinois,_Illinois	62711, Springfield, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1390		22060	4			-9			6.43		http://www.dph.illinois.gov/
+60124,_Elgin,_Illinois,_Illinois	60124, Elgin, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1626		15736	7			-3			8.71		http://www.dph.illinois.gov/
+60169,_Hoffman_Estates,_Illinois,_Illinois	60169, Hoffman Estates, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		2299		22998	13			-5			15.71		http://www.dph.illinois.gov/
 60403,_Crest_Hill,_Illinois,_Illinois	60403, Crest Hill, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1385		14155	7			1			7.29		http://www.dph.illinois.gov/
 60404,_Shorewood,_Illinois,_Illinois	60404, Shorewood, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1476		13964	12			-10			12.57		http://www.dph.illinois.gov/
 60487,_Tinley_Park,_Illinois,_Illinois	60487, Tinley Park, Illinois, Illinois	2021-01-02	2021-01-02T06:00:00.000Z		1902		15957	9			-4			11.57		http://www.dph.illinois.gov/
@@ -1139,7 +1621,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2021-01-02	2021-01-02T21:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2021-01-02	2021-01-02T20:00:00.000Z	70	4342		22107	25	0	0	11	0	0.43	36.14		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2021-01-02		16	3404			12	0		-6	0	0.29	29.14		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2021-01-02	2021-01-02T18:50:10.000Z	41	816			5	0		4	0	0.0	4.43		https://dph.georgia.gov/
-Earth	Earth	2021-01-02	2021-01-05T00:50:55.921Z	1809664	83445359			567623	7754		25035	-1625	10671.43	576738.57	307534.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2021-01-02	2021-01-05T01:43:12.701Z	1809664	83445359			567623	7754		25035	-1625	10671.43	576738.57	307534.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2021-01-02		583	25726		312144	0	0		0	0	2.71	184.57		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2021-01-02	2021-01-02T21:00:00.000Z		591		12428	0			0			7.0		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2021-01-02	2021-01-02T21:00:00.000Z		71		1794	0			0			2.14		https://www.mass.gov/
