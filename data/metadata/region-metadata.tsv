@@ -344,7 +344,6 @@ id	type	woeId	label	wikiId	countryCode	stateCode	countyCode	longitude	latitude	p
 29653,_Hodges,_South_Carolina,_South_Carolina	PostalZip	12770337	29653, Hodges, South Carolina, South Carolina					-82.23196	34.30126		Hodges,_South_Carolina
 29654,_Honea_Path,_South_Carolina,_South_Carolina	PostalZip	12770338	29654, Honea Path, South Carolina, South Carolina					-82.3648	34.46612		Honea_Path,_South_Carolina
 29655,_Iva,_South_Carolina,_South_Carolina	PostalZip	12770339	29655, Iva, South Carolina, South Carolina					-82.6426	34.27002		Iva,_South_Carolina
-29656,_La_France,_South_Carolina,_South_Carolina	PostalZip	12770340	29656, La France, South Carolina, South Carolina					-82.76519	34.6119		La_France,_South_Carolina
 29657,_Liberty,_South_Carolina,_South_Carolina	PostalZip	12770341	29657, Liberty, South Carolina, South Carolina					-82.68868	34.76643		Liberty,_South_Carolina
 29658,_Long_Creek,_South_Carolina,_South_Carolina	PostalZip	12770342	29658, Long Creek, South Carolina, South Carolina					-83.29872	34.75871		Long_Creek,_South_Carolina
 29659,_Lowndesville,_South_Carolina,_South_Carolina	PostalZip	12770343	29659, Lowndesville, South Carolina, South Carolina					-82.64529	34.21047		Lowndesville,_South_Carolina
@@ -2027,7 +2026,7 @@ Burkina_Faso	Country	23424978	Burkina Faso	Burkina_Faso	BF			-1.55676	12.24184	1
 Burleigh_County,_North_Dakota	CountyAdminArea	12589481	Burleigh County, North Dakota	Burleigh_County,_North_Dakota			38015	-100.52031	46.9806	95626	North_Dakota
 Burleson_County,_Texas	CountyAdminArea	12590032	Burleson County, Texas	Burleson_County,_Texas			48051	-96.61767	30.51321	18443	Texas
 Burlington_County,_New_Jersey	CountyAdminArea	12589260	Burlington County, New Jersey	Burlington_County,_New_Jersey			34005	-74.72449	39.86017	445349	New_Jersey
-Burlington,_Illinois	CountyAdminArea|CityTown	2372082	Burlington, Illinois	Burlington,_Illinois				-88.54811	42.0506	618	Kane_County,_Illinois
+Burlington,_Illinois	CityTown	2372082	Burlington, Illinois	Burlington,_Illinois				-88.54811	42.0506	618	Kane_County,_Illinois
 Burlington,_Massachusetts	CityTown	2372081	Burlington, Massachusetts	Burlington,_Massachusetts				-71.20273	42.50207	24498	Middlesex_County,_Massachusetts
 Burnet_County,_Texas	CountyAdminArea	12590033	Burnet County, Texas	Burnet_County,_Texas			48053	-98.1441	30.73068	48155	Texas
 Burnett_County,_Wisconsin	CountyAdminArea	12590540	Burnett County, Wisconsin	Burnett_County,_Wisconsin			55013	-92.45908	45.89863	15414	Wisconsin
@@ -3613,7 +3612,7 @@ Hickory_Grove,_South_Carolina	CityTown	2420765	Hickory Grove, South Carolina	Hic
 Hickory_Hills,_Illinois	CountyAdminArea|CityTown	2420841	Hickory Hills, Illinois	Hickory_Hills,_Illinois				-87.82808	41.7249	14049	Cook_County,_Illinois
 Hidalgo_County,_New_Mexico	CountyAdminArea	12589291	Hidalgo County, New Mexico	Hidalgo_County,_New_Mexico			35023	-108.62933	32.05499	4198	New_Mexico
 Hidalgo_County,_Texas	CountyAdminArea	12590114	Hidalgo County, Texas	Hidalgo_County,_Texas			48215	-98.2241	26.40962	868707	Texas
-Hidden_Hills,_California	CountyAdminArea|CityTown	2421016	Hidden Hills, California	Hidden_Hills,_California				-118.64025	34.15918	1856	Los_Angeles_County,_California
+Hidden_Hills,_California	CityTown	2421016	Hidden Hills, California	Hidden_Hills,_California				-118.64025	34.15918	1856	Los_Angeles_County,_California
 Highland_County,_Ohio	CountyAdminArea	12589562	Highland County, Ohio	Highland_County,_Ohio			39071	-83.60786	39.19883	43161	Ohio
 Highland_County,_Virginia	CountyAdminArea	12590366	Highland County, Virginia	Highland_County,_Virginia			51091	-79.55925	38.38598	2190	Virginia
 Highland_Park,_Illinois	CountyAdminArea|CityTown	2421549	Highland Park, Illinois	Highland_Park,_Illinois				-87.81034	42.18241	29763	Lake_County,_Illinois
@@ -5213,7 +5212,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown	744649	Odivelas	Odivelas				-9.17687	38.79129		Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295		Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	20997	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	50643	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
@@ -5621,7 +5620,7 @@ Provincetown_(CDP),_Massachusetts	CountyAdminArea|CityTown	2477078	Provincetown,
 Prowers_County,_Colorado	CountyAdminArea	12587777	Prowers County, Colorado	Prowers_County,_Colorado			08099	-102.39478	37.95609	12172	Colorado
 Prue,_Oklahoma	CityTown	91419284	Prue, Oklahoma	Prue,_Oklahoma				-96.26546	36.24969	465	Osage_County,_Oklahoma
 Pskov_Oblast	CountyAdminArea|StateAdminArea	12599086	Pskov Oblast	Pskov_Oblast				28.3613	57.8034		Russia
-Puducherry	CityTown|StateAdminArea	2295300	Puducherry	Puducherry				79.81909	11.92083		India
+Pondicherry	CountyAdminArea|CityTown|StateAdminArea	2295300	Pondicherry	Pondicherry				79.81909	11.92083	244377	India
 Pueblo_County,_Colorado	CountyAdminArea	12587778	Pueblo County, Colorado	Pueblo_County,_Colorado			08101	-104.55294	38.12828	168424	Colorado
 Puerto_Rico	StateAdminArea|Island	23424935	Puerto Rico	Puerto_Rico				-66.42889	18.22328	3195153	United_States
 Pulaski_County,_Arkansas	CountyAdminArea	12587654	Pulaski County, Arkansas	Pulaski_County,_Arkansas			05119	-92.39254	34.75207	391911	Arkansas
