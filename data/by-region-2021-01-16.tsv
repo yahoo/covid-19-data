@@ -1,16 +1,24 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Akmola_Region	Akmola Region	2021-01-16		97	8085	7131							0.0	52.71	42.86	https://www.coronavirus2020.kz/
+Akmola_Region	Akmola Region	2021-01-16		97	8085	7131							0.0	61.0	51.71	https://www.coronavirus2020.kz/
 Aktobe_Region	Aktobe Region	2021-01-16		44	3784	3655							0.29	5.71	6.29	https://www.coronavirus2020.kz/
 Almaty	Almaty	2021-01-16		406	20111	18411							1.14	101.43	86.14	https://www.coronavirus2020.kz/
 Almaty_Region	Almaty Region	2021-01-16		89	7917	6163							0.57	55.14	9.43	https://www.coronavirus2020.kz/
+Altai_Republic	Altai Republic	2021-01-16	2021-01-15T08:00:00.000Z	113	14580	13502		72			0		0.71	52.29	31.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Amur_Oblast	Amur Oblast	2021-01-16	2021-01-15T08:00:00.000Z	106	17736	15818		115	0	113	-3	0	0.14	101.57	92.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2021-01-16		122	14699	13397							0.43	62.0	59.86	https://www.coronavirus2020.kz/
 Banteay_Meanchey_Province	Banteay Meanchey Province	2021-01-16	2021-01-16T07:00:00.000Z		30			0			-5			3.14		http://www.cdcmoh.gov.kh/
+Bashkortostan	Bashkortostan	2021-01-16	2021-01-15T08:00:00.000Z	162	21569	16188		167			0		1.14	166.0	119.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Battambang_Province	Battambang Province	2021-01-16	2021-01-16T07:00:00.000Z		26			0			-9			1.57		http://www.cdcmoh.gov.kh/
-Cambodia	Cambodia	2021-01-16	2021-01-16T07:00:00.000Z	0	426	381		0	0	0	-15	0	0.0	5.57	2.29	http://www.cdcmoh.gov.kh/
-Earth	Earth	2021-01-16	2021-01-15T21:04:45.357Z	1968126	91879747								10343.57	526434.57	267393.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
-East_Kazakhstan_Region	East Kazakhstan Region	2021-01-16		323	19438	19038							0.57	31.29	24.57	https://www.coronavirus2020.kz/
+Cambodia	Cambodia	2021-01-16	2021-01-16T07:00:00.000Z	0	426	381		0	0	0	-28	0	0.0	5.57	2.29	http://www.cdcmoh.gov.kh/
+Chelyabinsk_Oblast	Chelyabinsk Oblast	2021-01-16	2021-01-15T08:00:00.000Z	634	39152	26039		293			0		7.71	250.57	325.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2021-01-16	2021-01-15T08:00:00.000Z	4	578	512		9			0		0.0	4.14	2.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Chuvashia	Chuvashia	2021-01-16	2021-01-15T08:00:00.000Z	690	17846	16076		105			0		11.14	94.43	78.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Earth	Earth	2021-01-16	2021-01-15T23:40:49.392Z	1969318	91928558								10515.57	532215.86	273336.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Kazakhstan_Region	East Kazakhstan Region	2021-01-16		323	19438	19038							0.57	38.0	38.86	https://www.coronavirus2020.kz/
 India	India	2021-01-16	2021-01-15T02:30:00.000Z	151918	10527683	10162738							160.0	13720.57	15155.29	https://www.mohfw.gov.in/
+Irkutsk_Oblast	Irkutsk Oblast	2021-01-16	2021-01-15T08:00:00.000Z	1402	44484	39217		264			0		10.86	225.14	260.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jambyl_Region	Jambyl Region	2021-01-16		63	5204	4917							0.14	13.14	5.0	https://www.coronavirus2020.kz/
+Jewish_Autonomous_Oblast	Jewish Autonomous Oblast	2021-01-16	2021-01-15T08:00:00.000Z	85	3957	3450		13	5	46	3	5	1.57	12.57	45.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kampong_Cham_Province	Kampong Cham Province	2021-01-16	2021-01-16T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampong_Chhnang_Province	Kampong Chhnang Province	2021-01-16	2021-01-16T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampot_Province	Kampot Province	2021-01-16	2021-01-16T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -18,24 +26,46 @@ Kandal_Province	Kandal Province	2021-01-16	2021-01-16T07:00:00.000Z		2			0			0		
 Karaganda_Region	Karaganda Region	2021-01-16		294	12613	11879							0.0	34.57	25.43	https://www.coronavirus2020.kz/
 Kazakhstan	Kazakhstan	2021-01-16		2349	166146	151838							4.29	785.14	618.0	https://www.coronavirus2020.kz/
 Kep_Province	Kep Province	2021-01-16	2021-01-16T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
+Khanty-Mansi_Autonomous_Okrug	Khanty-Mansi Autonomous Okrug	2021-01-16	2021-01-15T08:00:00.000Z	602	44359	40640		215	4	0	0	2	3.71	171.86	166.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kirov_Oblast	Kirov Oblast	2021-01-16	2021-01-15T08:00:00.000Z	248	29094	22932		232	1	230	4	-1	1.14	196.29	224.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Koh_Kong_Province	Koh Kong Province	2021-01-16	2021-01-16T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
-Kostanay_Region	Kostanay Region	2021-01-16		36	8452	7589							0.14	58.71	37.86	https://www.coronavirus2020.kz/
-Kyzylorda_Region	Kyzylorda Region	2021-01-16		15	3472	3373							0.0	5.29	3.29	https://www.coronavirus2020.kz/
-Malaysia	Malaysia	2021-01-16	2021-01-15T04:00:00.000Z	586	151066	115227							7.0	2851.14	1399.43	http://www.moh.gov.my/
+Kostanay_Region	Kostanay Region	2021-01-16		36	8452	7589							0.14	67.86	40.71	https://www.coronavirus2020.kz/
+Kyzylorda_Region	Kyzylorda Region	2021-01-16		15	3472	3373							0.0	6.14	3.29	https://www.coronavirus2020.kz/
+Lebanon	Lebanon	2021-01-16	2021-01-15T15:34:00.000Z	1825	243286	149108							33.57	3961.86	1219.86	https://corona.ministryinfo.gov.lb/
+Malaysia	Malaysia	2021-01-16	2021-01-15T04:00:00.000Z	586	151066	115227		3211	8	1939	3211	8	7.0	2851.14	1399.43	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2021-01-16		56	3845	3684							0.0	7.86	8.14	https://www.coronavirus2020.kz/
+Moscow	Moscow	2021-01-16	2021-01-15T08:00:00.000Z	12322	882962	729089		5534			0		64.14	4230.0	5861.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Moscow_Oblast	Moscow Oblast	2021-01-16	2021-01-15T08:00:00.000Z	3217	174620	133874		1361	29	1307	98	29	20.57	1071.86	1234.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Murmansk_Oblast	Murmansk Oblast	2021-01-16	2021-01-15T08:00:00.000Z	720	39735	35365		239	8	247	5	0	5.0	202.29	169.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2021-01-16	2021-01-15T08:00:00.000Z	0	832	726		3	0	2	-1	0	0.0	2.86	1.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 New_Zealand	New Zealand	2021-01-16	2021-01-15T01:00:00.000Z	25	2246	2145	1457076						0.0	8.29	6.29	https://www.health.govt.nz/
-North_Kazakhstan_Region	North Kazakhstan Region	2021-01-16		41	9400	8394							0.0	45.86	19.29	https://www.coronavirus2020.kz/
-Nur-Sultan	Nur-Sultan	2021-01-16		371	19646	17736							0.57	69.57	49.0	https://www.coronavirus2020.kz/
+North_Kazakhstan_Region	North Kazakhstan Region	2021-01-16		41	9400	8394							0.0	53.71	24.43	https://www.coronavirus2020.kz/
+Nur-Sultan	Nur-Sultan	2021-01-16		371	19646	17736							0.57	79.57	56.86	https://www.coronavirus2020.kz/
+Oryol_Oblast	Oryol Oblast	2021-01-16	2021-01-15T08:00:00.000Z	303	23985	21218		179			0		2.14	151.29	123.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Pavlodar_Region	Pavlodar Region	2021-01-16		89	10173	9029							0.29	56.29	91.29	https://www.coronavirus2020.kz/
+Penza_Oblast	Penza Oblast	2021-01-16	2021-01-15T08:00:00.000Z	349	29084	23229		219	2	161	7	2	2.0	175.29	128.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2021-01-16	2021-01-16T07:00:00.000Z		265			0			0			0.71		http://www.cdcmoh.gov.kh/
 Preah_Vihear_Province	Preah Vihear Province	2021-01-16	2021-01-16T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Qatar	Qatar	2021-01-16	2021-01-14T21:00:00.000Z	246	146885	143435	1311760	196			0		0.0	173.29	123.29	https://www.moph.gov.qa/
+Ryazan_Oblast	Ryazan Oblast	2021-01-16	2021-01-15T08:00:00.000Z	203	20098	18283		122			0		3.14	124.29	111.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Saint_Petersburg	Saint Petersburg	2021-01-16	2021-01-15T08:00:00.000Z	8721	290908	180438		3094			0		66.0	2984.14	2621.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Samara_Oblast	Samara Oblast	2021-01-16	2021-01-15T08:00:00.000Z	739	35724	32885		283			0		8.71	280.57	265.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Shymkent	Shymkent	2021-01-16		81	5677	5347							0.0	15.29	2.71	https://www.coronavirus2020.kz/
 Siem_Reap_Province	Siem Reap Province	2021-01-16	2021-01-16T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2021-01-16	2021-01-15T04:00:00.000Z	29	59059	58771	5837181	30	0	14	-15	0	0.0	31.86	27.29	https://www.moh.gov.sg/covid-19
-Sri_Lanka	Sri Lanka	2021-01-16	2021-01-15T16:20:00.000Z	255	51594	44259							3.71	536.29	488.71	https://hpb.health.gov.lk/
-Tatarstan	Tatarstan	2021-01-16	2021-01-15T08:00:00.000Z	221	14637	11151		96			0		1.43	77.86	21.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sri_Lanka	Sri Lanka	2021-01-16	2021-01-15T16:20:00.000Z	255	51594	44259		695	4	512	685	0	4.29	612.71	563.14	https://hpb.health.gov.lk/
+Sverdlovsk_Oblast	Sverdlovsk Oblast	2021-01-16	2021-01-15T08:00:00.000Z	1771	64410	56830		392			0		15.14	325.86	330.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tatarstan	Tatarstan	2021-01-16	2021-01-15T08:00:00.000Z	221	14637	11151		96			0		1.71	91.29	38.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tboung_Khmum_Province	Tboung Khmum Province	2021-01-16	2021-01-16T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
+Tomsk_Oblast	Tomsk Oblast	2021-01-16	2021-01-15T08:00:00.000Z	235	26496	23216		119			0		1.29	126.43	220.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Turkey	Turkey	2021-01-16		23664	2373115	2246047	27066653						147.57	7999.57	8000.0	https://covid19.saglik.gov.tr/
 Turkistan_Region	Turkistan Region	2021-01-16		47	3837	3622							0.0	12.43	5.71	https://www.coronavirus2020.kz/
+Tuva	Tuva	2021-01-16	2021-01-15T08:00:00.000Z	180	15085	13896		21			0		3.29	20.29	17.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tver_Oblast	Tver Oblast	2021-01-16	2021-01-15T08:00:00.000Z	484	25684	21071		225			0		2.14	226.29	275.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Udmurtia	Udmurtia	2021-01-16	2021-01-15T08:00:00.000Z	434	22684	19020		190			0		2.57	163.14	165.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ulyanovsk_Oblast	Ulyanovsk Oblast	2021-01-16	2021-01-15T08:00:00.000Z	499	40105	36863		244	12	269	-1	12	3.57	210.14	236.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Vietnam	Vietnam	2021-01-16		35	1536	1380							0.0	3.29	2.71	https://ncov.moh.gov.vn/
 West_Kazakhstan_Region	West Kazakhstan Region	2021-01-16		175	9793	8473							0.14	44.43	37.86	https://www.coronavirus2020.kz/
+Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2021-01-16	2021-01-15T08:00:00.000Z	362	34178	28214		110			0		1.29	100.57	195.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Yaroslavl_Oblast	Yaroslavl Oblast	2021-01-16	2021-01-15T08:00:00.000Z	252	25130	23605		189	6	163	2	4	3.57	189.0	179.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Zabaykalsky_Krai	Zabaykalsky Krai	2021-01-16	2021-01-15T08:00:00.000Z	424	30745	28587		223	1	221	-4	-4	2.43	195.57	138.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
