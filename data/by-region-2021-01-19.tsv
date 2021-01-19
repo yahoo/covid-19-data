@@ -1,4 +1,5 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+Abruzzo	Abruzzo	2021-01-19		1333	39422	26707	578709				107		6.0	199.57	158.57	http://www.salute.gov.it/
 Adygea	Adygea	2021-01-19	2021-01-18T08:10:00.000Z	106	12343	10329		65			0		0.57	58.14	64.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2021-01-19	2021-01-18T12:00:00.000Z		1379									5.86		https://www.fhi.no/
 Akmola_Region	Akmola Region	2021-01-19		97	8341	7338							0.0	72.29	57.57	https://www.coronavirus2020.kz/
@@ -9,76 +10,93 @@ Altai_Krai	Altai Krai	2021-01-19	2021-01-18T08:10:00.000Z	1055	36542	33471		195	
 Altai_Republic	Altai Republic	2021-01-19	2021-01-18T08:10:00.000Z	116	14820	13699		70			0		1.14	63.29	51.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Amstetten_District	Amstetten District	2021-01-19	2021-01-18T21:00:00.000Z	111	6805	6247							0.57	20.71	33.86	https://info.gesundheitsministerium.at/
 Amur_Oblast	Amur Oblast	2021-01-19	2021-01-18T08:10:00.000Z	115	18095	16176		123			0		1.43	101.0	100.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Aosta_Valley	Aosta Valley	2021-01-19		395	7650	6840	66690				11		0.43	14.86	16.86	http://www.salute.gov.it/
+Apulia	Apulia	2021-01-19		2876	109831	51443	1184798				403		19.43	905.0	848.14	http://www.salute.gov.it/
 Arkhangelsk_Oblast	Arkhangelsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	455	47985	39558		264			0		0.14	220.86	291.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Astrakhan_Oblast	Astrakhan Oblast	2021-01-19	2021-01-18T08:10:00.000Z	461	22140	14111		185			0		4.0	153.57	68.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Atyrau_Region	Atyrau Region	2021-01-19		122	14952	13661							0.0	69.43	73.86	https://www.coronavirus2020.kz/
 Austria	Austria	2021-01-19	2021-01-18T21:00:00.000Z	7069	391981	359875	7590771						41.0	1316.86	1709.0	https://info.gesundheitsministerium.at/
+Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2021-01-19		7458		30724							33.86		150.43	https://www.santepubliquefrance.fr/
 Baden_District,_Austria	Baden District, Austria	2021-01-19	2021-01-18T21:00:00.000Z	73	4991	4501							0.43	28.86	34.14	https://info.gesundheitsministerium.at/
 Bahrain	Bahrain	2021-01-19	2021-01-19T00:00:00.000Z	360	97940	94646	2563504	333	0	349	-6	0	0.57	294.43	285.86	https://www.moh.gov.bh/COVID19
 Banteay_Meanchey_Province	Banteay Meanchey Province	2021-01-19	2021-01-19T07:00:00.000Z		42			0			0			4.14		http://www.cdcmoh.gov.kh/
 Bashkortostan	Bashkortostan	2021-01-19	2021-01-18T08:10:00.000Z	167	22068	16570		166			0		1.43	166.71	143.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2021-01-19		294	12508	5311	201037				7		1.86	54.57	26.57	http://www.salute.gov.it/
 Battambang_Province	Battambang Province	2021-01-19	2021-01-19T07:00:00.000Z		26			0			0			1.57		http://www.cdcmoh.gov.kh/
 Belarus	Belarus	2021-01-19	2021-01-18T03:00:00.000Z	1591	227360	210779	4271382						8.0	1662.29	1846.86	http://stopcovid.belta.by/
 Belgorod_Oblast	Belgorod Oblast	2021-01-19	2021-01-18T08:10:00.000Z	300	25132	22444		180			0		2.57	180.71	199.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Bludenz_District	Bludenz District	2021-01-19	2021-01-18T21:00:00.000Z	38	3032	2889							0.0	10.57	12.29	https://info.gesundheitsministerium.at/
+Bourgogne-Franche-Comté	Bourgogne-Franche-Comté	2021-01-19		3023		11093							19.71		69.29	https://www.santepubliquefrance.fr/
 Braunau_am_Inn_District	Braunau am Inn District	2021-01-19	2021-01-18T21:00:00.000Z	61	4834	4361							0.14	20.57	23.86	https://info.gesundheitsministerium.at/
+Brittany_(administrative_region)	Brittany (administrative region)	2021-01-19		815		3680							5.71		18.71	https://www.santepubliquefrance.fr/
 Bruck_an_der_Leitha_District	Bruck an der Leitha District	2021-01-19	2021-01-18T21:00:00.000Z	58	3087	2807							0.14	12.0	12.29	https://info.gesundheitsministerium.at/
 Bryansk_Oblast	Bryansk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	220	26657	24707		192			0		0.29	166.14	243.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Burgenland	Burgenland	2021-01-19	2021-01-18T21:00:00.000Z	183	10299	9485							0.29	38.43	40.57	https://info.gesundheitsministerium.at/
 Buryatia	Buryatia	2021-01-19	2021-01-18T08:10:00.000Z	636	28469	25882		153			0		1.86	152.29	155.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Calabria	Calabria	2021-01-19		539	29329	18576	483031				256		2.71	268.0	198.14	http://www.salute.gov.it/
 Cambodia	Cambodia	2021-01-19	2021-01-19T07:00:00.000Z	0	439	386		0	0	0	0	0	0.0	6.86	2.14	http://www.cdcmoh.gov.kh/
-Canton_of_Aargau	Canton of Aargau	2021-01-19	2021-01-17T23:00:00.000Z	548	32477								3.43	159.29		https://www.bag.admin.ch/
-Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2021-01-19	2021-01-17T23:00:00.000Z	46	2792								0.86	11.71		https://www.bag.admin.ch/
-Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2021-01-19	2021-01-17T23:00:00.000Z	15	785								0.0	2.29		https://www.bag.admin.ch/
-Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2021-01-19	2021-01-17T23:00:00.000Z	193	12075								0.71	42.14		https://www.bag.admin.ch/
-Canton_of_Basel-Stadt	Canton of Basel-Stadt	2021-01-19	2021-01-17T23:00:00.000Z	169	8951								0.29	23.71		https://www.bag.admin.ch/
-Canton_of_Bern	Canton of Bern	2021-01-19	2021-01-17T23:00:00.000Z	812	48190								4.57	201.0		https://www.bag.admin.ch/
-Canton_of_Fribourg	Canton of Fribourg	2021-01-19	2021-01-17T23:00:00.000Z	428	24678								1.0	51.14		https://www.bag.admin.ch/
-Canton_of_Glarus	Canton of Glarus	2021-01-19	2021-01-17T23:00:00.000Z	46	1924								1.0	10.29		https://www.bag.admin.ch/
-Canton_of_Grisons	Canton of Grisons	2021-01-19	2021-01-17T23:00:00.000Z	159	9274								1.0	49.29		https://www.bag.admin.ch/
-Canton_of_Jura	Canton of Jura	2021-01-19	2021-01-17T23:00:00.000Z	116	5010								0.0	24.43		https://www.bag.admin.ch/
-Canton_of_Lucerne	Canton of Lucerne	2021-01-19	2021-01-17T23:00:00.000Z	262	19498								1.57	105.86		https://www.bag.admin.ch/
-Canton_of_Nidwalden	Canton of Nidwalden	2021-01-19	2021-01-17T23:00:00.000Z	14	1713								0.14	12.29		https://www.bag.admin.ch/
-Canton_of_Obwalden	Canton of Obwalden	2021-01-19	2021-01-17T23:00:00.000Z	32	1618								0.29	13.14		https://www.bag.admin.ch/
-Canton_of_Schaffhausen	Canton of Schaffhausen	2021-01-19	2021-01-17T23:00:00.000Z	58	3335								0.29	14.57		https://www.bag.admin.ch/
-Canton_of_Schwyz	Canton of Schwyz	2021-01-19	2021-01-17T23:00:00.000Z	173	8683								0.71	37.43		https://www.bag.admin.ch/
-Canton_of_St._Gallen	Canton of St. Gallen	2021-01-19	2021-01-17T23:00:00.000Z	604	30696								3.57	111.43		https://www.bag.admin.ch/
-Canton_of_Thurgau	Canton of Thurgau	2021-01-19	2021-01-17T23:00:00.000Z	280	13512								3.29	51.29		https://www.bag.admin.ch/
-Canton_of_Ticino	Canton of Ticino	2021-01-19	2021-01-17T23:00:00.000Z	888	26069								4.57	80.71		https://www.bag.admin.ch/
-Canton_of_Uri	Canton of Uri	2021-01-19	2021-01-17T23:00:00.000Z	35	1622								0.0	11.86		https://www.bag.admin.ch/
-Canton_of_Valais	Canton of Valais	2021-01-19	2021-01-17T23:00:00.000Z	637	27683								0.57	61.86		https://www.bag.admin.ch/
-Canton_of_Zug	Canton of Zug	2021-01-19	2021-01-17T23:00:00.000Z	99	5648								2.14	26.71		https://www.bag.admin.ch/
-Canton_of_Zürich	Canton of Zürich	2021-01-19	2021-01-17T23:00:00.000Z	1079	78192								8.0	296.0		https://www.bag.admin.ch/
+Campania	Campania	2021-01-19		3395	207863	131806	2245559				714		26.57	915.57	878.57	http://www.salute.gov.it/
+Canton_of_Aargau	Canton of Aargau	2021-01-19	2021-01-18T23:00:00.000Z	548	32477			0	0		-391	-11	3.43	159.29		https://www.bag.admin.ch/
+Canton_of_Appenzell_Ausserrhoden	Canton of Appenzell Ausserrhoden	2021-01-19	2021-01-18T23:00:00.000Z	46	2792			0	0		-26	-1	0.86	11.71		https://www.bag.admin.ch/
+Canton_of_Appenzell_Innerrhoden	Canton of Appenzell Innerrhoden	2021-01-19	2021-01-18T23:00:00.000Z	15	785			0	0		-10	0	0.0	2.29		https://www.bag.admin.ch/
+Canton_of_Basel-Landschaft	Canton of Basel-Landschaft	2021-01-19	2021-01-18T23:00:00.000Z	193	12075			0	0		-118	-4	0.71	42.14		https://www.bag.admin.ch/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2021-01-19	2021-01-18T23:00:00.000Z	169	8951			0	0		-55	-1	0.29	23.71		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2021-01-19	2021-01-18T23:00:00.000Z	812	48190			0	0		-518	-12	4.57	201.0		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2021-01-19	2021-01-18T23:00:00.000Z	428	24678			0	0		-109	-1	1.0	51.14		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2021-01-19	2021-01-18T23:00:00.000Z	46	1924			0	0		-22	-3	1.0	10.29		https://www.bag.admin.ch/
+Canton_of_Grisons	Canton of Grisons	2021-01-19	2021-01-18T23:00:00.000Z	159	9274			0	0		-155	-4	1.0	49.29		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2021-01-19	2021-01-18T23:00:00.000Z	116	5010			0	0		-75	0	0.0	24.43		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2021-01-19	2021-01-18T23:00:00.000Z	262	19498			0	0		-298	-4	1.57	105.86		https://www.bag.admin.ch/
+Canton_of_Nidwalden	Canton of Nidwalden	2021-01-19	2021-01-18T23:00:00.000Z	14	1713			0	0		-45	-1	0.14	12.29		https://www.bag.admin.ch/
+Canton_of_Obwalden	Canton of Obwalden	2021-01-19	2021-01-18T23:00:00.000Z	32	1618			0	0		-35	-1	0.29	13.14		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2021-01-19	2021-01-18T23:00:00.000Z	58	3335			0	0		-34	-1	0.29	14.57		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2021-01-19	2021-01-18T23:00:00.000Z	173	8683			0	0		-110	0	0.71	37.43		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2021-01-19	2021-01-18T23:00:00.000Z	604	30696			0	0		-235	-9	3.57	111.43		https://www.bag.admin.ch/
+Canton_of_Thurgau	Canton of Thurgau	2021-01-19	2021-01-18T23:00:00.000Z	280	13512			0	0		-107	-5	3.29	51.29		https://www.bag.admin.ch/
+Canton_of_Ticino	Canton of Ticino	2021-01-19	2021-01-18T23:00:00.000Z	888	26069			0	0		-220	-15	4.57	80.71		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2021-01-19	2021-01-18T23:00:00.000Z	35	1622			0	0		-38	0	0.0	11.86		https://www.bag.admin.ch/
+Canton_of_Valais	Canton of Valais	2021-01-19	2021-01-18T23:00:00.000Z	637	27683			0	0		0	0	0.57	61.86		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2021-01-19	2021-01-18T23:00:00.000Z	99	5648			0	0		-63	-10	2.14	26.71		https://www.bag.admin.ch/
+Canton_of_Zürich	Canton of Zürich	2021-01-19	2021-01-18T23:00:00.000Z	1079	78192			0	0		-769	-31	8.0	296.0		https://www.bag.admin.ch/
 Carinthia	Carinthia	2021-01-19	2021-01-18T21:00:00.000Z	573	24338	21636							5.14	102.29	150.86	https://info.gesundheitsministerium.at/
+Centre-Val_de_Loire	Centre-Val de Loire	2021-01-19		1491		6042							8.86		28.0	https://www.santepubliquefrance.fr/
 Chechnya	Chechnya	2021-01-19	2021-01-18T08:10:00.000Z	101	10238	7621		63			0		0.43	73.14	203.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	660	40051	27188		303			0		8.0	253.29	328.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2021-01-19	2021-01-18T08:10:00.000Z	4	582	518		1			0		0.0	3.43	2.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2021-01-19	2021-01-18T08:10:00.000Z	725	18181	16336		114			0		10.14	90.86	69.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Corsica	Corsica	2021-01-19		119		531							0.43		1.14	https://www.santepubliquefrance.fr/
 Czech_Republic	Czech Republic	2021-01-19	2021-01-18T05:49:00.000Z	14449	891852	732446	4265365						137.71	6721.86	7979.0	https://onemocneni-aktualne.mzcr.cz/
 Dagestan	Dagestan	2021-01-19	2021-01-18T08:10:00.000Z	1187	26314	22996		158			0		4.43	158.43	163.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Deutschlandsberg_District	Deutschlandsberg District	2021-01-19	2021-01-18T21:00:00.000Z	68	2124	1888							0.14	7.57	20.14	https://info.gesundheitsministerium.at/
 Dornbirn_District	Dornbirn District	2021-01-19	2021-01-18T21:00:00.000Z	49	5420	5198							0.57	14.43	19.29	https://info.gesundheitsministerium.at/
-Earth	Earth	2021-01-19	2021-01-19T00:44:55.317Z	2001144	93651953								10455.57	523736.0	284237.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2021-01-19	2021-01-19T02:42:42.075Z	2001651	93666128								10528.0	525761.0	293134.71	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2021-01-19		323	19548	19091							0.0	32.43	14.71	https://www.coronavirus2020.kz/
 Eferding_District	Eferding District	2021-01-19	2021-01-18T21:00:00.000Z	27	2106	2022							0.14	3.71	3.71	https://info.gesundheitsministerium.at/
 Eisenstadt	Eisenstadt	2021-01-19	2021-01-18T21:00:00.000Z	10	556	520							0.0	2.14	2.71	https://info.gesundheitsministerium.at/
+Emilia-Romagna	Emilia-Romagna	2021-01-19		8797	203141	140114	2820331				1153		49.0	1249.43	2052.14	http://www.salute.gov.it/
 Feldkirch_District	Feldkirch District	2021-01-19	2021-01-18T21:00:00.000Z	67	5757	5454							0.29	20.86	26.29	https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2021-01-19	2021-01-18T21:00:00.000Z	37	1480	1311							0.14	7.29	13.0	https://info.gesundheitsministerium.at/
+France	France	2021-01-19		70686	2914725	210200							269.14	15447.86	830.0	https://www.santepubliquefrance.fr/
 Freistadt_District	Freistadt District	2021-01-19	2021-01-18T21:00:00.000Z	79	3832	3582							0.43	8.14	13.29	https://info.gesundheitsministerium.at/
+Friuli_Venezia_Giulia	Friuli Venezia Giulia	2021-01-19		2113	60919	46121	1038677				153		23.29	525.43	535.43	http://www.salute.gov.it/
 Gmunden_District	Gmunden District	2021-01-19	2021-01-18T21:00:00.000Z	84	5125	4684							0.57	20.71	31.29	https://info.gesundheitsministerium.at/
+Grand_Est	Grand Est	2021-01-19		6650		23247							30.0		102.43	https://www.santepubliquefrance.fr/
 Graz	Graz	2021-01-19	2021-01-18T21:00:00.000Z	215	9658	8991							0.29	28.71	41.43	https://info.gesundheitsministerium.at/
 Greenland	Greenland	2021-01-19	2021-01-18T12:00:00.000Z	0	30	29	16840						0.0	0.14	0.14	https://www.sst.dk/
 Grieskirchen_District	Grieskirchen District	2021-01-19	2021-01-18T21:00:00.000Z	58	4002	3807							0.0	11.57	17.0	https://info.gesundheitsministerium.at/
+Hauts-de-France	Hauts-de-France	2021-01-19		4882		19317							18.29		69.29	https://www.santepubliquefrance.fr/
 Hermagor_District	Hermagor District	2021-01-19	2021-01-18T21:00:00.000Z	16	1088	923							0.14	8.0	17.86	https://info.gesundheitsministerium.at/
 Hollabrunn_District	Hollabrunn District	2021-01-19	2021-01-18T21:00:00.000Z	26	1237	1160							0.0	2.29	3.14	https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2021-01-19	2021-01-18T21:00:00.000Z	10	660	607							0.0	3.14	2.71	https://info.gesundheitsministerium.at/
 Hungary	Hungary	2021-01-19	2021-01-18T06:38:00.000Z	11409	352703	230441	2963613						97.71	1292.43	3781.29	https://koronavirus.gov.hu/
+Île-de-France	Île-de-France	2021-01-19		12803		57339							29.29		138.14	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2021-01-19	2021-01-18T21:00:00.000Z	31	3204	3096							0.14	5.71	14.29	https://info.gesundheitsministerium.at/
 India	India	2021-01-19	2021-01-18T02:30:00.000Z	152419	10571773	10211342							156.0	13227.71	14292.57	https://www.mohfw.gov.in/
 Ingushetia	Ingushetia	2021-01-19	2021-01-18T08:10:00.000Z	153	13356	11495		56			0		0.71	63.57	50.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2021-01-19	2021-01-18T12:00:00.000Z		3125									15.43		https://www.fhi.no/
 Innsbruck	Innsbruck	2021-01-19	2021-01-18T21:00:00.000Z	81	6609	6374							0.14	10.0	13.29	https://info.gesundheitsministerium.at/
 Irkutsk_Oblast	Irkutsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	1431	45261	39886		257			0		11.57	261.43	295.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Italy	Italy	2021-01-19		82554	2390102	1760489	29365366				8825		390.71	12405.57	15297.86	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2021-01-19	2021-01-18T08:10:00.000Z	655	24509	19579		175			0		6.57	151.0	205.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Jambyl_Region	Jambyl Region	2021-01-19		63	5271	4932							0.14	17.71	7.14	https://www.coronavirus2020.kz/
 Jennersdorf_District	Jennersdorf District	2021-01-19	2021-01-18T21:00:00.000Z	17	681	635							0.0	1.86	2.29	https://info.gesundheitsministerium.at/
@@ -118,26 +136,32 @@ Kursk_Oblast	Kursk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	330	23944	21118		1
 Kuwait	Kuwait	2021-01-19		948	158244	151496							0.29	415.57	274.43	https://corona.e.gov.kw/
 Kyzylorda_Region	Kyzylorda Region	2021-01-19		15	3488	3392							0.0	6.43	4.43	https://www.coronavirus2020.kz/
 Landeck_District	Landeck District	2021-01-19	2021-01-18T21:00:00.000Z	36	2798	2694							0.43	5.14	10.43	https://info.gesundheitsministerium.at/
+Lazio	Lazio	2021-01-19		4415	190515	108755	2977732				872		28.14	1174.14	1323.43	http://www.salute.gov.it/
 Lebanon	Lebanon	2021-01-19	2021-01-18T18:58:00.000Z	1959	255956	154608							36.29	4144.0	1393.0	https://corona.ministryinfo.gov.lb/
 Leibnitz_District	Leibnitz District	2021-01-19	2021-01-18T21:00:00.000Z	72	3346	3058							0.14	15.0	13.43	https://info.gesundheitsministerium.at/
 Leningrad_Oblast	Leningrad Oblast	2021-01-19	2021-01-18T08:10:00.000Z	328	27809	24953		225			0		2.14	194.57	186.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Leoben_District	Leoben District	2021-01-19	2021-01-18T21:00:00.000Z	84	2189	2013							0.86	6.0	10.14	https://info.gesundheitsministerium.at/
 Lienz_District	Lienz District	2021-01-19	2021-01-18T21:00:00.000Z	39	2846	2645							0.14	13.43	15.57	https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2021-01-19	2021-01-18T21:00:00.000Z	83	3488	3105							0.71	25.86	27.29	https://info.gesundheitsministerium.at/
+Liguria	Liguria	2021-01-19		3128	66026	57849	777459				263		11.71	250.0	235.29	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2021-01-19	2021-01-18T21:00:00.000Z	29	1006	924							0.0	3.0	2.14	https://info.gesundheitsministerium.at/
 Linz	Linz	2021-01-19	2021-01-18T21:00:00.000Z	181	9106	8578							0.71	21.71	21.29	https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	332	18953	14340		153			0		4.71	157.14	181.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lithuania	Lithuania	2021-01-19	2021-01-18T19:37:00.000Z	2469	167992	104297	1810382						28.14	949.14	1238.57	https://koronastop.lrv.lt
+Lombardy	Lombardy	2021-01-19		26282	515355	435509	5248516				1189		54.14	1709.0	1776.43	http://www.salute.gov.it/
 Lower_Austria	Lower Austria	2021-01-19	2021-01-18T21:00:00.000Z	1032	59674	54345							7.29	253.29	269.43	https://info.gesundheitsministerium.at/
 Magadan_Oblast	Magadan Oblast	2021-01-19	2021-01-18T08:10:00.000Z	75	7548	7095		28			0		0.86	28.14	28.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Malaysia	Malaysia	2021-01-19	2021-01-18T04:00:00.000Z	605	161740	122344							6.57	2886.71	1747.0	http://www.moh.gov.my/
 Mangystau_Region	Mangystau Region	2021-01-19		56	3886	3688							0.0	10.86	8.71	https://www.coronavirus2020.kz/
+Marche	Marche	2021-01-19		1794	50268	38223	621742				157		10.14	374.43	927.0	http://www.salute.gov.it/
 Mari_El	Mari El	2021-01-19	2021-01-18T08:10:00.000Z	140	10076	8747		48			0		1.29	41.29	34.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Mattersburg_District	Mattersburg District	2021-01-19	2021-01-18T21:00:00.000Z	21	1283	1192							0.0	4.43	5.57	https://info.gesundheitsministerium.at/
 Mauritius	Mauritius	2021-01-19	2021-01-12T20:00:00.000Z	10	547	516							0.0	1.14	0.29	http://www.covid19.mu/
 Melk_District	Melk District	2021-01-19	2021-01-18T21:00:00.000Z	74	3382	3119							0.57	11.86	12.57	https://info.gesundheitsministerium.at/
 Mistelbach_District	Mistelbach District	2021-01-19	2021-01-18T21:00:00.000Z	29	1730	1576							0.29	9.29	9.71	https://info.gesundheitsministerium.at/
+Molise	Molise	2021-01-19		233	7586	6268	127577				33		2.14	63.86	71.29	http://www.salute.gov.it/
 Mordovia	Mordovia	2021-01-19	2021-01-18T08:10:00.000Z	115	15011	12478		81			0		1.71	82.43	73.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Morocco	Morocco	2021-01-19	2021-01-18T17:00:00.000Z	7977	460144	435686	4733898						27.57	907.86	1190.71	http://www.covidmaroc.ma/
 Moscow	Moscow	2021-01-19	2021-01-18T08:10:00.000Z	12541	895327	743349		3679			0		63.43	4016.0	4968.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2021-01-19	2021-01-18T08:10:00.000Z	3299	178833	137730		1381			0		23.14	1146.57	1158.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Murau_District	Murau District	2021-01-19	2021-01-18T21:00:00.000Z	18	1141	1048							0.14	6.71	8.57	https://info.gesundheitsministerium.at/
@@ -150,24 +174,30 @@ Neusiedl_am_See_District	Neusiedl am See District	2021-01-19	2021-01-18T21:00:00
 New_Zealand	New Zealand	2021-01-19	2021-01-18T01:00:00.000Z	25	2262	2152	1465758						0.0	5.71	4.57	https://www.health.govt.nz/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2021-01-19	2021-01-18T08:10:00.000Z	1923	78218	70465		479			0		15.14	472.14	463.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Nordland	Nordland	2021-01-19	2021-01-18T12:00:00.000Z		828									4.14		https://www.fhi.no/
+Normandy	Normandy	2021-01-19		1696		6505							8.57		38.0	https://www.santepubliquefrance.fr/
 North_Kazakhstan_Region	North Kazakhstan Region	2021-01-19		41	9562	8681							0.0	53.86	49.86	https://www.coronavirus2020.kz/
 Norway	Norway	2021-01-19	2021-01-18T12:00:00.000Z	521	58651		3187985						5.57	392.86		https://www.fhi.no/
+Nouvelle-Aquitaine	Nouvelle-Aquitaine	2021-01-19		2002		8632							13.57		39.57	https://www.santepubliquefrance.fr/
 Novgorod_Oblast	Novgorod Oblast	2021-01-19	2021-01-18T08:10:00.000Z	105	21830	16461		183			0		0.86	185.0	233.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Novosibirsk_Oblast	Novosibirsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	1114	30461	27258		138			0		8.43	140.71	190.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Nur-Sultan	Nur-Sultan	2021-01-19		371	20020	17891							0.57	107.43	57.57	https://www.coronavirus2020.kz/
 Oberpullendorf_District	Oberpullendorf District	2021-01-19	2021-01-18T21:00:00.000Z	19	1457	1297							0.14	3.43	3.0	https://info.gesundheitsministerium.at/
 Oberwart_District	Oberwart District	2021-01-19	2021-01-18T21:00:00.000Z	51	1977	1858							0.0	3.43	4.57	https://info.gesundheitsministerium.at/
+Occitanie	Occitanie	2021-01-19		2368		11077							11.86		39.43	https://www.santepubliquefrance.fr/
 Omsk_Oblast	Omsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	1007	34598	31317		243			0		6.29	209.71	207.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Orenburg_Oblast	Orenburg Oblast	2021-01-19	2021-01-18T08:10:00.000Z	416	31868	28184		172			0		3.29	147.14	137.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Oryol_Oblast	Oryol Oblast	2021-01-19	2021-01-18T08:10:00.000Z	309	24520	21714		175			0		2.0	152.43	146.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Oslo	Oslo	2021-01-19	2021-01-18T12:00:00.000Z		15991									103.57		https://www.fhi.no/
 Pavlodar_Region	Pavlodar Region	2021-01-19		89	10573	9302							0.0	84.71	98.71	https://www.coronavirus2020.kz/
+Pays_de_la_Loire	Pays de la Loire	2021-01-19		1547		6809							10.14		34.0	https://www.santepubliquefrance.fr/
 Penza_Oblast	Penza Oblast	2021-01-19	2021-01-18T08:10:00.000Z	353	29767	23685		225			0		1.86	216.57	151.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Perg_District	Perg District	2021-01-19	2021-01-18T21:00:00.000Z	50	3818	3613							0.57	7.71	16.14	https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2021-01-19	2021-01-18T08:10:00.000Z	1312	35995	29423		295			0		8.29	251.29	263.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2021-01-19	2021-01-19T07:00:00.000Z		265			0			0			0.71		http://www.cdcmoh.gov.kh/
+Piedmont	Piedmont	2021-01-19		8419	213195	189987	1829660				435		26.0	674.71	646.0	http://www.salute.gov.it/
 Preah_Vihear_Province	Preah Vihear Province	2021-01-19	2021-01-19T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Primorsky_Krai	Primorsky Krai	2021-01-19	2021-01-18T08:10:00.000Z	456	33486	24824		235			0		4.71	233.86	235.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Provence-Alpes-Côte_d'Azur	Provence-Alpes-Côte d'Azur	2021-01-19		4064		20666							27.29		93.86	https://www.santepubliquefrance.fr/
 Pskov_Oblast	Pskov Oblast	2021-01-19	2021-01-18T08:10:00.000Z	112	27422	14958		210			0		0.71	197.57	139.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Qatar	Qatar	2021-01-19	2021-01-17T21:00:00.000Z	248	147504	144015	1323172	227			0		0.29	205.14	169.71	https://www.moph.gov.qa/
 Republic_of_Karelia	Republic of Karelia	2021-01-19	2021-01-18T08:10:00.000Z	199	32561	27056		285			0		1.57	240.29	253.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -183,36 +213,43 @@ Salzburg	Salzburg	2021-01-19	2021-01-18T21:00:00.000Z	84	7218	6596							1.43	34
 Salzburg_(state)	Salzburg (state)	2021-01-19	2021-01-18T21:00:00.000Z	398	32358	29715							2.86	152.71	206.86	https://info.gesundheitsministerium.at/
 Samara_Oblast	Samara Oblast	2021-01-19	2021-01-18T08:10:00.000Z	743	36586	33722		288			0		4.29	243.71	239.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Saratov_Oblast	Saratov Oblast	2021-01-19	2021-01-18T08:10:00.000Z	479	39951	34331		250			0		4.29	215.43	199.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Sardinia	Sardinia	2021-01-19		907	35910	17387	530803				136		8.14	210.57	173.43	http://www.salute.gov.it/
 Scheibbs_District	Scheibbs District	2021-01-19	2021-01-18T21:00:00.000Z	26	2265	2086							0.14	13.29	8.14	https://info.gesundheitsministerium.at/
 Schwaz_District	Schwaz District	2021-01-19	2021-01-18T21:00:00.000Z	107	7057	6804							0.57	14.0	15.43	https://info.gesundheitsministerium.at/
 Shymkent	Shymkent	2021-01-19		81	5726	5347							0.0	14.14	2.71	https://www.coronavirus2020.kz/
+Sicily	Sicily	2021-01-19		3027	122007	72095	1477389				1278		31.71	1493.14	1054.71	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2021-01-19	2021-01-19T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2021-01-19	2021-01-18T04:00:00.000Z	29	59127	58868	5837181						0.0	28.29	28.57	https://www.moh.gov.sg/covid-19
 Smolensk_Oblast	Smolensk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	387	19954	15693		172			0		4.29	145.0	167.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+South_Tyrol	South Tyrol	2021-01-19		811	33684	20760	406945				165		4.0	277.29	213.71	http://www.salute.gov.it/
 Spittal_an_der_Drau_District	Spittal an der Drau District	2021-01-19	2021-01-18T21:00:00.000Z	44	2629	2026							1.14	32.86	7.29	https://info.gesundheitsministerium.at/
 Sri_Lanka	Sri Lanka	2021-01-19	2021-01-18T16:00:00.000Z	270	53408	45820							4.29	553.57	457.0	https://hpb.health.gov.lk/
 Stavropol_Krai	Stavropol Krai	2021-01-19	2021-01-18T08:10:00.000Z	855	39421	35288		235			0		6.0	204.29	200.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Steyr	Steyr	2021-01-19	2021-01-18T21:00:00.000Z	18	1645	1589							0.0	2.71	5.57	https://info.gesundheitsministerium.at/
 Styria	Styria	2021-01-19	2021-01-18T21:00:00.000Z	1504	46493	42430							6.14	169.29	247.29	https://info.gesundheitsministerium.at/
 Sverdlovsk_Oblast	Sverdlovsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	1821	65592	58034		390			0		14.71	333.0	338.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Switzerland	Switzerland	2021-01-19	2021-01-17T23:00:00.000Z	8788	492737								44.29	1759.57		https://www.bag.admin.ch/
+Switzerland	Switzerland	2021-01-19	2021-01-18T23:00:00.000Z	8788	492737			0	0		-4424	-141	44.29	1759.57		https://www.bag.admin.ch/
 Tambov_Oblast	Tambov Oblast	2021-01-19	2021-01-18T08:10:00.000Z	232	20522	18498		160			0		2.86	158.57	206.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tatarstan	Tatarstan	2021-01-19	2021-01-18T08:10:00.000Z	232	14927	11332		95			0		3.0	80.71	38.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tboung_Khmum_Province	Tboung Khmum Province	2021-01-19	2021-01-19T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Tomsk_Oblast	Tomsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	241	26849	23860		115			0		1.43	122.43	220.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Trentino	Trentino	2021-01-19		1076	25129	21690	487395				56		6.71	169.43	107.0	http://www.salute.gov.it/
 Troms_og_Finnmark	Troms og Finnmark	2021-01-19	2021-01-18T12:00:00.000Z		1196									8.14		https://www.fhi.no/
 Tula_Oblast	Tula Oblast	2021-01-19	2021-01-18T08:10:00.000Z	910	26505	23584		200			0		5.43	174.43	173.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tulln_District	Tulln District	2021-01-19	2021-01-18T21:00:00.000Z	47	3316	2825							0.14	17.71	2.14	https://info.gesundheitsministerium.at/
 Turkey	Turkey	2021-01-19		24161	2392963	2270769	27523423						144.14	6668.29	7472.14	https://covid19.saglik.gov.tr/
 Turkistan_Region	Turkistan Region	2021-01-19		47	3889	3634							0.0	16.71	4.29	https://www.coronavirus2020.kz/
+Tuscany	Tuscany	2021-01-19		3994	128197	115870	2046397				345		12.71	366.29	409.29	http://www.salute.gov.it/
 Tuva	Tuva	2021-01-19	2021-01-18T08:10:00.000Z	183	15170	13966		32			0		1.86	22.14	19.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tver_Oblast	Tver Oblast	2021-01-19	2021-01-18T08:10:00.000Z	487	26357	21732		223			0		1.86	193.71	242.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tyrol_(state)	Tyrol (state)	2021-01-19	2021-01-18T21:00:00.000Z	562	42840	41012							2.57	92.14	145.43	https://info.gesundheitsministerium.at/
 Tyumen_Oblast	Tyumen Oblast	2021-01-19	2021-01-18T08:10:00.000Z	229	26230	24643		164			0		2.0	141.14	136.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Udmurtia	Udmurtia	2021-01-19	2021-01-18T08:10:00.000Z	445	23265	19584		194			0		3.0	164.86	161.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Ulyanovsk_Oblast	Ulyanovsk Oblast	2021-01-19	2021-01-18T08:10:00.000Z	521	40844	37519		246			0		6.71	210.71	234.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Umbria	Umbria	2021-01-19		701	32397	27116	551381				94		4.14	176.71	139.43	http://www.salute.gov.it/
 United_Arab_Emirates	United Arab Emirates	2021-01-19	2021-01-18T11:56:00.000Z	751	256732	228364	23543793						5.71	3392.86	2856.86	https://covid19.ncema.gov.ae/
 Upper_Austria	Upper Austria	2021-01-19	2021-01-18T21:00:00.000Z	1267	77412	72518							5.0	200.0	305.57	https://info.gesundheitsministerium.at/
+Veneto	Veneto	2021-01-19		8025	299170	222062	3663538				998		61.71	1333.57	3506.43	http://www.salute.gov.it/
 Vestfold_og_Telemark	Vestfold og Telemark	2021-01-19	2021-01-18T12:00:00.000Z		2797									22.29		https://www.fhi.no/
 Vestland	Vestland	2021-01-19	2021-01-18T12:00:00.000Z		6029									16.71		https://www.fhi.no/
 Vienna	Vienna	2021-01-19	2021-01-18T21:00:00.000Z	1310	77775	68921							10.71	244.0	261.29	https://info.gesundheitsministerium.at/
