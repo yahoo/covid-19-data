@@ -1619,7 +1619,7 @@ Aurora_County,_South_Dakota	CountyAdminArea	12589846	Aurora County, South Dakota
 Aurora,_Illinois	CountyAdminArea|CityTown	2357467	Aurora, Illinois	Aurora,_Illinois				-88.31577	41.75695	197899	Kane_County,_Illinois
 Austin_County,_Texas	CountyAdminArea	12590014	Austin County, Texas	Austin_County,_Texas			48015	-96.31314	29.84934	30032	Texas
 Australia	Country	23424748	Australia	Australia	AU			133.398	-24.9121	24982688	Earth
-Australian_Capital_Territory	StateAdminArea	2344699	Australian Capital Territory	Australian_Capital_Territory				149.0025	-35.48879	431114	Australia
+Australian_Capital_Territory	CountyAdminArea|StateAdminArea	2344699	Australian Capital Territory	Australian_Capital_Territory				149.0025	-35.48879	431114	Australia
 Austria	Country	23424750	Austria	Austria	AT			13.34577	47.69651	8840521	Earth
 Autauga_County,_Alabama	CountyAdminArea	12587487	Autauga County, Alabama	Autauga_County,_Alabama			01001	-86.66611	32.50771	55869	Alabama
 Autonomous_Province_of_Kosovo_and_Metohija	StateAdminArea		Autonomous Province of Kosovo and Metohija	Autonomous_Province_of_Kosovo_and_Metohija				21.166666	42.666668	1780021	Serbia
@@ -1643,7 +1643,7 @@ Bắc_Ninh_Province	StateAdminArea		Bắc Ninh Province	Bắc_Ninh_Province				1
 Baca_County,_Colorado	CountyAdminArea	12587732	Baca County, Colorado	Baca_County,_Colorado			08009	-102.56451	37.31864	3581	Colorado
 Bacon_County,_Georgia	CountyAdminArea	12587872	Bacon County, Georgia	Bacon_County,_Georgia			13005	-82.42746	31.56383	11164	Georgia_(U.S._state)
 Baden_District,_Austria	CountyAdminArea	12591690	Baden District, Austria	Baden_District,_Austria				16.21335	48.01032	143657	Lower_Austria
-Baden-Württemberg	StateAdminArea	2345481	Baden-Württemberg	Baden-Württemberg				9.0036	48.66181	11023424	Germany
+Baden-Württemberg	StateAdminArea	2345481	Baden-Württemberg	Baden-Württemberg				9.0036	48.66181	11111496	Germany
 Bahia	StateAdminArea	2344848	Bahia	Bahia				-41.9952	-13.442	14016906	Brazil
 Bahrain	Country|Island	23424753	Bahrain	Bahrain	BH			50.5485	26.02475	1569439	Earth
 Baião,_Portugal	CountyAdminArea|CityTown		Baião, Portugal	Baião,_Portugal				-8.033334	41.166668		
@@ -2123,8 +2123,6 @@ Candler_County,_Georgia	CountyAdminArea	12587890	Candler County, Georgia	Candler
 Cannon_County,_Tennessee	CountyAdminArea	12589919	Cannon County, Tennessee	Cannon_County,_Tennessee			47015	-86.04469	35.80872	14678	Tennessee
 Cantabria	CountyAdminArea|StateAdminArea		Cantabria	Cantabria				-4.0	43.333332	580229	Spain
 Cantanhede,_Portugal	CountyAdminArea|CityTown	738145	Cantanhede, Portugal	Cantanhede,_Portugal				-8.59303	40.34654		
-Canton_of_Aargau	StateAdminArea	2347083	Canton of Aargau	Canton_of_Aargau				8.08404	47.37915		Switzerland
-Canton_of_Appenzell_Innerrhoden	CountyAdminArea		Canton of Appenzell Innerrhoden	Canton_of_Appenzell_Innerrhoden				9.4	47.3		
 Canton_of_Basel-Stadt	StateAdminArea	2347086	Canton of Basel-Stadt	Canton_of_Basel-Stadt				7.64819	47.56011		Switzerland
 Canton_of_Bern	CountyAdminArea|StateAdminArea	2347087	Canton of Bern	Canton_of_Bern				7.65805	46.83585		Switzerland
 Canton_of_Fribourg	StateAdminArea	2347088	Canton of Fribourg	Canton_of_Fribourg				7.08755	46.72228		Switzerland
@@ -2134,8 +2132,6 @@ Canton_of_Lucerne	StateAdminArea	2347093	Canton of Lucerne	Canton_of_Lucerne				
 Canton_of_Schaffhausen	StateAdminArea	2347098	Canton of Schaffhausen	Canton_of_Schaffhausen				8.57289	47.72327		Switzerland
 Canton_of_Schwyz	StateAdminArea	2347099	Canton of Schwyz	Canton_of_Schwyz				8.69675	47.05406		Switzerland
 Canton_of_St._Gallen	StateAdminArea	2347097	Canton of St. Gallen	Canton_of_St._Gallen				9.23488	47.20236		Switzerland
-Canton_of_Thurgau	StateAdminArea	2347101	Canton of Thurgau	Canton_of_Thurgau				9.05425	47.53553		Switzerland
-Canton_of_Ticino	StateAdminArea		Canton of Ticino	Canton_of_Ticino				8.816667	46.316666		Switzerland
 Canton_of_Uri	StateAdminArea	2347103	Canton of Uri	Canton_of_Uri				8.67737	46.76045		Switzerland
 Canton_of_Zug	StateAdminArea	2347106	Canton of Zug	Canton_of_Zug				8.54796	47.1648		Switzerland
 Canton_of_Zürich	StateAdminArea	2347107	Canton of Zürich	Canton_of_Zürich				8.67153	47.42694		Switzerland
