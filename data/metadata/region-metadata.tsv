@@ -344,6 +344,7 @@ id	type	woeId	label	wikiId	countryCode	stateCode	countyCode	longitude	latitude	p
 29653,_Hodges,_South_Carolina,_South_Carolina	PostalZip	12770337	29653, Hodges, South Carolina, South Carolina					-82.23196	34.30126		Hodges,_South_Carolina
 29654,_Honea_Path,_South_Carolina,_South_Carolina	PostalZip	12770338	29654, Honea Path, South Carolina, South Carolina					-82.3648	34.46612		Honea_Path,_South_Carolina
 29655,_Iva,_South_Carolina,_South_Carolina	PostalZip	12770339	29655, Iva, South Carolina, South Carolina					-82.6426	34.27002		Iva,_South_Carolina
+29656,_La_France,_South_Carolina,_South_Carolina	PostalZip	12770340	29656, La France, South Carolina, South Carolina					-82.76519	34.6119		La_France,_South_Carolina
 29657,_Liberty,_South_Carolina,_South_Carolina	PostalZip	12770341	29657, Liberty, South Carolina, South Carolina					-82.68868	34.76643		Liberty,_South_Carolina
 29658,_Long_Creek,_South_Carolina,_South_Carolina	PostalZip	12770342	29658, Long Creek, South Carolina, South Carolina					-83.29872	34.75871		Long_Creek,_South_Carolina
 29659,_Lowndesville,_South_Carolina,_South_Carolina	PostalZip	12770343	29659, Lowndesville, South Carolina, South Carolina					-82.64529	34.21047		Lowndesville,_South_Carolina
@@ -1633,7 +1634,6 @@ Avoyelles_Parish,_Louisiana	CountyAdminArea	12588600	Avoyelles Parish, Louisiana
 Awendaw,_South_Carolina	CityTown	2357938	Awendaw, South Carolina	Awendaw,_South_Carolina				-79.61786	33.03639	1294	Charleston_County,_South_Carolina
 Ayer,_Massachusetts	CountyAdminArea|CityTown		Ayer, Massachusetts	Ayer,_Massachusetts				-71.59028	42.56111	7427	
 Aynor,_South_Carolina	CityTown	2358002	Aynor, South Carolina	Aynor,_South_Carolina				-79.20542	34.00152	560	Horry_County,_South_Carolina
-Aysén_Region	StateAdminArea		Aysén Region	Aysén_Region				-72.06611	-43.57	102317	Chile
 Azambuja	CityTown	736688	Azambuja	Azambuja				-8.87133	39.06813		Portugal
 Azerbaijan	Country	23424741	Azerbaijan	Azerbaijan	AZ			47.68707	40.15134	9939800	Earth
 Azusa,_California	CountyAdminArea|CityTown	2358048	Azusa, California	Azusa,_California				-117.91221	34.13885	46361	Los_Angeles_County,_California
@@ -1666,7 +1666,7 @@ Bangladesh	Country	23424759	Bangladesh	Bangladesh	BD			90.3509	23.68745	16135603
 Banks_County,_Georgia	CountyAdminArea	12587875	Banks County, Georgia	Banks_County,_Georgia			13011	-83.50365	34.34463	19234	Georgia_(U.S._state)
 Banner_County,_Nebraska	CountyAdminArea	12589141	Banner County, Nebraska	Banner_County,_Nebraska			31007	-103.71006	41.54641	745	Nebraska
 Bannock_County,_Idaho	CountyAdminArea	12588036	Bannock County, Idaho	Bannock_County,_Idaho			16005	-112.31388	42.6394	87808	Idaho
-Banteay_Meanchey_Province	CountyAdminArea|StateAdminArea	20070093	Banteay Meanchey Province	Banteay_Meanchey_Province				102.89214	13.75694	859545	Cambodia
+Banteay_Meanchey_Province	CountyAdminArea|StateAdminArea	20070093	Banteay Meanchey Province	Banteay_Meanchey_Province				102.89214	13.75694	861883	Cambodia
 Baraga_County,_Michigan	CountyAdminArea	12588720	Baraga County, Michigan	Baraga_County,_Michigan			26013	-88.33535	46.69334	8209	Michigan
 Barbados	Country|Island	23424754	Barbados	Barbados	BB			-59.53465	13.18355	286641	Earth
 Barber_County,_Kansas	CountyAdminArea	12588374	Barber County, Kansas	Barber_County,_Kansas			20007	-98.67986	37.23458	4427	Kansas
@@ -1705,7 +1705,7 @@ Bath_and_North_East_Somerset	TertiaryAdminArea		Bath and North East Somerset	Bat
 Bath_County,_Kentucky	CountyAdminArea	12588481	Bath County, Kentucky	Bath_County,_Kentucky			21011	-83.72155	38.14762	12500	Kentucky
 Bath_County,_Virginia	CountyAdminArea	12590313	Bath County, Virginia	Bath_County,_Virginia			51017	-79.74671	38.0523	4147	Virginia
 Bath,_South_Carolina	CityTown	2359970	Bath, South Carolina	Bath,_South_Carolina				-81.86722	33.50531	1033	Aiken_County,_South_Carolina
-Battambang_Province	StateAdminArea		Battambang Province	Battambang_Province				102.98944	13.028611	987400	Cambodia
+Battambang_Province	StateAdminArea		Battambang Province	Battambang_Province				102.98944	13.028611	997169	Cambodia
 Bavaria	CountyAdminArea|CityTown|StateAdminArea	2345482	Bavaria	Bavaria				11.40799	48.9172	13124737	Germany
 Baxter_County,_Arkansas	CountyAdminArea	12587597	Baxter County, Arkansas	Baxter_County,_Arkansas			05005	-92.37291	36.23629	41932	Arkansas
 Bay_County,_Florida	CountyAdminArea	12587805	Bay County, Florida	Bay_County,_Florida			12005	-85.69019	30.29818	174705	Florida
@@ -2316,7 +2316,7 @@ Chester_County,_South_Carolina	CountyAdminArea	12589811	Chester County, South Ca
 Chester_County,_Tennessee	CountyAdminArea	12589923	Chester County, Tennessee	Chester_County,_Tennessee			47023	-88.59696	35.41996	17297	Tennessee
 Chester,_Illinois	CountyAdminArea|CityTown	2379286	Chester, Illinois	Chester,_Illinois				-89.82616	37.91932	8586	Randolph_County,_Illinois
 Chester,_Massachusetts	CountyAdminArea|CityTown	2379268	Chester, Massachusetts	Chester,_Massachusetts				-72.9827	42.28	1337	Hampden_County,_Massachusetts
-Chester,_Oklahoma	CityTown	2379277	Chester, Oklahoma	Chester,_Oklahoma				-98.9208	36.21654		Major_County,_Oklahoma
+Chester,_Oklahoma	CountyAdminArea|CityTown	2379277	Chester, Oklahoma	Chester,_Oklahoma				-98.9208	36.21654		Major_County,_Oklahoma
 Chester,_South_Carolina	CountyAdminArea|CityTown	2379287	Chester, South Carolina	Chester,_South_Carolina				-81.20805	34.70595	5607	Chester_County,_South_Carolina
 Chesterfield_County,_South_Carolina	CountyAdminArea	12589812	Chesterfield County, South Carolina	Chesterfield_County,_South_Carolina			45025	-80.17071	34.59139	45650	South_Carolina
 Chesterfield_County,_Virginia	CountyAdminArea	12590330	Chesterfield County, Virginia	Chesterfield_County,_Virginia			51041	-77.56116	37.38987	352802	Virginia
@@ -3931,12 +3931,12 @@ Kalkaska_County,_Michigan	CountyAdminArea	12588753	Kalkaska County, Michigan	Kal
 Kalmykia	StateAdminArea	2346872	Kalmykia	Kalmykia				44.6217	46.4667		Russia
 Kaluga_Oblast	CountyAdminArea|StateAdminArea	12598397	Kaluga Oblast	Kaluga_Oblast				36.2211	54.5496		Russia
 Kamchatka_Krai	StateAdminArea	56437929	Kamchatka Krai	Kamchatka_Krai				160.578	57.9059		Russia
-Kampong_Cham_Province	StateAdminArea		Kampong Cham Province	Kampong_Cham_Province				105.45	11.983334	895763	Cambodia
-Kampong_Chhnang_Province	StateAdminArea		Kampong Chhnang Province	Kampong_Chhnang_Province						525932	Cambodia
-Kampot_Province	CountyAdminArea|StateAdminArea		Kampot Province	Kampot_Province				104.166664	10.6	592845	Cambodia
+Kampong_Cham_Province	StateAdminArea		Kampong Cham Province	Kampong_Cham_Province				105.45	11.983334	899791	Cambodia
+Kampong_Chhnang_Province	StateAdminArea		Kampong Chhnang Province	Kampong_Chhnang_Province						527027	Cambodia
+Kampot_Province	CountyAdminArea|StateAdminArea		Kampot Province	Kampot_Province				104.166664	10.6	593829	Cambodia
 Kanabec_County,_Minnesota	CountyAdminArea	12588829	Kanabec County, Minnesota	Kanabec_County,_Minnesota			27065	-93.28644	45.94498	16337	Minnesota
 Kanawha_County,_West_Virginia	CountyAdminArea	12590498	Kanawha County, West Virginia	Kanawha_County,_West_Virginia			54039	-81.55463	38.29689	178124	West_Virginia
-Kandal_Province	CountyAdminArea|StateAdminArea	2344933	Kandal Province	Kandal_Province				104.9715	11.39979	1195547	Cambodia
+Kandal_Province	CountyAdminArea|StateAdminArea	2344933	Kandal Province	Kandal_Province				104.9715	11.39979	1201581	Cambodia
 Kandiyohi_County,_Minnesota	CountyAdminArea	12588830	Kandiyohi County, Minnesota	Kandiyohi_County,_Minnesota			27067	-95.00614	45.15214	43199	Minnesota
 Kane_County,_Illinois	CountyAdminArea	12588122	Kane County, Illinois	Kane_County,_Illinois			17089	-88.42102	41.93693	532403	Illinois
 Kane_County,_Utah	CountyAdminArea	12590273	Kane County, Utah	Kane_County,_Utah			49025	-111.77034	37.27208	7886	Utah
@@ -3977,7 +3977,7 @@ Kenton_County,_Kentucky	CountyAdminArea	12588534	Kenton County, Kentucky	Kenton_
 Kentucky	StateAdminArea	2347576	Kentucky	Kentucky		US-KY		-85.2876	37.52728	4467673	United_States
 Kenya	Country	23424863	Kenya	Kenya	KE			37.90395	-0.02435	51393010	Earth
 Keokuk_County,_Iowa	CountyAdminArea	12588325	Keokuk County, Iowa	Keokuk_County,_Iowa			19107	-92.17834	41.33637	10246	Iowa
-Kep_Province	CountyAdminArea|CityTown|StateAdminArea	1028484	Kep Province	Kep_Province				104.3209	10.53903	41798	Cambodia
+Kep_Province	CountyAdminArea|CityTown|StateAdminArea	1028484	Kep Province	Kep_Province				104.3209	10.53903	42665	Cambodia
 Kerala	StateAdminArea	2345747	Kerala	Kerala				76.13824	10.54737	34630192	India
 Kern_County,_California	CountyAdminArea	12587684	Kern County, California	Kern_County,_California			06029	-118.90531	35.29344	900202	California
 Kerr_County,_Texas	CountyAdminArea	12590139	Kerr County, Texas	Kerr_County,_Texas			48265	-99.33761	30.036	52600	Texas
@@ -4040,7 +4040,7 @@ Knox_County,_Ohio	CountyAdminArea	12589568	Knox County, Ohio	Knox_County,_Ohio		
 Knox_County,_Tennessee	CountyAdminArea	12589958	Knox County, Tennessee	Knox_County,_Tennessee			47093	-83.96229	35.99056	470313	Tennessee
 Knox_County,_Texas	CountyAdminArea	12590144	Knox County, Texas	Knox_County,_Texas			48275	-99.73432	33.61655	3664	Texas
 Kodiak_Island_Borough,_Alaska	CountyAdminArea	12587566	Kodiak Island Borough, Alaska	Kodiak_Island_Borough,_Alaska			02150	-153.38025	57.61239	12998	Alaska
-Koh_Kong_Province	CountyAdminArea|StateAdminArea	2344934	Koh Kong Province	Koh_Kong_Province				103.46667	11.42991	123618	Cambodia
+Koh_Kong_Province	CountyAdminArea|StateAdminArea	2344934	Koh Kong Province	Koh_Kong_Province				103.46667	11.42991	125902	Cambodia
 Komi_Republic	StateAdminArea	2346874	Komi Republic	Komi_Republic				55.8281	63.8118		Russia
 Konawa,_Oklahoma	CountyAdminArea|CityTown	2433781	Konawa, Oklahoma	Konawa,_Oklahoma				-96.75401	34.95821	1298	Seminole_County,_Oklahoma
 Koochiching_County,_Minnesota	CountyAdminArea	12588832	Koochiching County, Minnesota	Koochiching_County,_Minnesota			27071	-93.75564	48.27881	12229	Minnesota
