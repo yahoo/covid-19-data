@@ -1,4 +1,1120 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
+60002,_Antioch,_Illinois,_Illinois	60002, Antioch, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1629		14289	2			-4			6.71		http://www.dph.illinois.gov/
+60004,_Arlington_Heights,_Illinois,_Illinois	60004, Arlington Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3347		52739	5			0			7.86		http://www.dph.illinois.gov/
+60005,_Arlington_Heights,_Illinois,_Illinois	60005, Arlington Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2108		32861	8			5			5.43		http://www.dph.illinois.gov/
+60007,_Elk_Grove_Village,_Illinois,_Illinois	60007, Elk Grove Village, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2554		28591	7			3			5.86		http://www.dph.illinois.gov/
+60008,_Rolling_Meadows,_Illinois,_Illinois	60008, Rolling Meadows, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2254		25001	2			-2			3.29		http://www.dph.illinois.gov/
+60010,_Barrington_station,_Illinois	60010, Barrington station, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2670		38375	8			0			8.0		http://www.dph.illinois.gov/
+60012,_Crystal_Lake,_Illinois,_Illinois	60012, Crystal Lake, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		843		12411	1			1			1.86		http://www.dph.illinois.gov/
+60013,_Cary,_Illinois,_Illinois	60013, Cary, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1692		18056	4			1			7.29		http://www.dph.illinois.gov/
+60014,_Crystal_Lake,_Illinois,_Illinois	60014, Crystal Lake, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3468		35076	11			4			8.29		http://www.dph.illinois.gov/
+60015,_Deerfield,_Illinois,_Illinois	60015, Deerfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1633		37553	3			1			6.57		http://www.dph.illinois.gov/
+60016,_Des_Plaines,_Illinois,_Illinois	60016, Des Plaines, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5297		62386	5			-6			11.14		http://www.dph.illinois.gov/
+60018,_Des_Plaines,_Illinois,_Illinois	60018, Des Plaines, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3199		37960	4			0			5.43		http://www.dph.illinois.gov/
+60020,_Fox_Lake,_Illinois,_Illinois	60020, Fox Lake, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		739		8838	1			-2			3.57		http://www.dph.illinois.gov/
+60021,_Fox_River_Grove,_Illinois,_Illinois	60021, Fox River Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		303		3829	0			-2			2.0		http://www.dph.illinois.gov/
+60022,_Glencoe,_Illinois,_Illinois	60022, Glencoe, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		370		8714	0			-2			1.43		http://www.dph.illinois.gov/
+60025,_Glenview,_Illinois,_Illinois	60025, Glenview, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2734		44169	8			2			7.14		http://www.dph.illinois.gov/
+60026,_Glenview,_Illinois,_Illinois	60026, Glenview, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		845		19189	3			3			1.57		http://www.dph.illinois.gov/
+60030,_Grayslake,_Illinois,_Illinois	60030, Grayslake, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2248		28576	8			5			9.57		http://www.dph.illinois.gov/
+60031,_Gurnee,_Illinois,_Illinois	60031, Gurnee, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2718		35556	2			0			5.0		http://www.dph.illinois.gov/
+60033,_Harvard,_Illinois,_Illinois	60033, Harvard, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1366		10592	1			-2			1.86		http://www.dph.illinois.gov/
+60035,_Highland_Park,_Illinois,_Illinois	60035, Highland Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1587		41113	1			-5			5.43		http://www.dph.illinois.gov/
+60040,_Highwood,_Illinois,_Illinois	60040, Highwood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		624		10656	1			0			1.57		http://www.dph.illinois.gov/
+60041,_Ingleside,_Illinois,_Illinois	60041, Ingleside, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		650		6687	2			-1			3.14		http://www.dph.illinois.gov/
+60042,_Island_Lake,_Illinois,_Illinois	60042, Island Lake, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		591		5871	3			-1			2.43		http://www.dph.illinois.gov/
+60043,_Kenilworth,_Illinois,_Illinois	60043, Kenilworth, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		130		2458	0			-1			0.71		http://www.dph.illinois.gov/
+60044,_Lake_Bluff,_Illinois,_Illinois	60044, Lake Bluff, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		620		15468	1			-2			2.43		http://www.dph.illinois.gov/
+60045,_Lake_Forest,_Illinois,_Illinois	60045, Lake Forest, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1036		26024	3			4			1.86		http://www.dph.illinois.gov/
+60046,_Lake_Villa,_Illinois,_Illinois	60046, Lake Villa, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2524		26231	9			4			8.14		http://www.dph.illinois.gov/
+60047,_Lake_Zurich,_Illinois,_Illinois	60047, Lake Zurich, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2872		44877	7			1			11.43		http://www.dph.illinois.gov/
+60048,_Libertyville,_Illinois,_Illinois	60048, Libertyville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1595		27856	2			-6			6.29		http://www.dph.illinois.gov/
+60050,_McHenry,_Illinois,_Illinois	60050, McHenry, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2538		27344	4			1			6.43		http://www.dph.illinois.gov/
+60051,_McHenry,_Illinois,_Illinois	60051, McHenry, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1854		16647	2			-2			7.29		http://www.dph.illinois.gov/
+60053,_Morton_Grove,_Illinois,_Illinois	60053, Morton Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1844		32320	2			0			3.71		http://www.dph.illinois.gov/
+60056,_Mount_Prospect,_Illinois,_Illinois	60056, Mount Prospect, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4187		45364	11			2			9.57		http://www.dph.illinois.gov/
+60060,_Mundelein,_Illinois,_Illinois	60060, Mundelein, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3101		30095	11			9			10.86		http://www.dph.illinois.gov/
+60061,_Vernon_Hills,_Illinois,_Illinois	60061, Vernon Hills, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1525		25452	8			6			5.43		http://www.dph.illinois.gov/
+60062,_Northbrook,_Illinois,_Illinois	60062, Northbrook, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2615		69423	11			5			7.14		http://www.dph.illinois.gov/
+60064,_North_Chicago,_Illinois,_Illinois	60064, North Chicago, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2476		14534	2			-3			9.14		http://www.dph.illinois.gov/
+60067,_Palatine,_Illinois,_Illinois	60067, Palatine, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2859		46746	3			-4			4.86		http://www.dph.illinois.gov/
+60068,_Park_Ridge,_Illinois,_Illinois	60068, Park Ridge, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2819		43681	4			-2			9.0		http://www.dph.illinois.gov/
+60069,_Lincolnshire,_Illinois,_Illinois	60069, Lincolnshire, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		559		17518	1			0			2.29		http://www.dph.illinois.gov/
+60070,_Prospect_Heights,_Illinois,_Illinois	60070, Prospect Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1283		16933	3			-1			3.71		http://www.dph.illinois.gov/
+60071,_Richmond,_Illinois,_Illinois	60071, Richmond, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		264		2689	2			1			0.86		http://www.dph.illinois.gov/
+60073,_Round_Lake,_Illinois,_Illinois	60073, Round Lake, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		6183		51848	17			10			19.57		http://www.dph.illinois.gov/
+60074,_Palatine,_Illinois,_Illinois	60074, Palatine, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3163		30838	5			2			6.14		http://www.dph.illinois.gov/
+60076,_Skokie,_Illinois,_Illinois	60076, Skokie, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2782		37970	2			-12			10.14		http://www.dph.illinois.gov/
+60077,_Skokie,_Illinois,_Illinois	60077, Skokie, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2232		38188	4			0			7.0		http://www.dph.illinois.gov/
+60081,_Spring_Grove,_Illinois,_Illinois	60081, Spring Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		700		6066	2			1			1.43		http://www.dph.illinois.gov/
+60083,_Wadsworth,_Illinois,_Illinois	60083, Wadsworth, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		748		8512	0			-1			1.57		http://www.dph.illinois.gov/
+60084,_Wauconda,_Illinois,_Illinois	60084, Wauconda, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1263		15357	4			1			3.71		http://www.dph.illinois.gov/
+60085,_Waukegan,_Illinois,_Illinois	60085, Waukegan, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		8815		80084	9			6			12.14		http://www.dph.illinois.gov/
+60087,_Waukegan,_Illinois,_Illinois	60087, Waukegan, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3212		25348	2			-3			4.0		http://www.dph.illinois.gov/
+60089,_Buffalo_Grove,_Illinois,_Illinois	60089, Buffalo Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2387		35119	5			-2			8.71		http://www.dph.illinois.gov/
+60090,_Wheeling_station_(Illinois),_Illinois	60090, Wheeling station (Illinois), Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3715		46791	9			4			10.43		http://www.dph.illinois.gov/
+60091,_Wilmette,_Illinois,_Illinois	60091, Wilmette, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1276		25777	6			2			5.14		http://www.dph.illinois.gov/
+60093,_Winnetka,_Illinois,_Illinois	60093, Winnetka, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1299		20842	3			-1			5.86		http://www.dph.illinois.gov/
+60096,_Winthrop_Harbor,_Illinois,_Illinois	60096, Winthrop Harbor, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		504		4179	0			0			0.86		http://www.dph.illinois.gov/
+60097,_Wonder_Lake_(CDP),_Illinois,_Illinois	60097, Wonder Lake (CDP), Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		762		7631	0			-1			1.29		http://www.dph.illinois.gov/
+60098,_Woodstock,_Illinois,_Illinois	60098, Woodstock, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2727		34085	9			4			6.57		http://www.dph.illinois.gov/
+60099,_Zion,_Illinois,_Illinois	60099, Zion, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3114		33566	4			2			4.14		http://www.dph.illinois.gov/
+60101,_Addison,_Illinois,_Illinois	60101, Addison, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4392		31780	2			-3			7.29		http://www.dph.illinois.gov/
+60102,_Algonquin,_Illinois,_Illinois	60102, Algonquin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2355		23689	7			2			8.0		http://www.dph.illinois.gov/
+60103,_Bartlett,_Illinois,_Illinois	60103, Bartlett, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3610		40139	13			3			9.43		http://www.dph.illinois.gov/
+60104,_Bellwood_station_(Metra),_Illinois	60104, Bellwood station (Metra), Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2055		17557	2			1			4.43		http://www.dph.illinois.gov/
+60106,_Bensenville,_Illinois,_Illinois	60106, Bensenville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2124		22040	4			2			4.0		http://www.dph.illinois.gov/
+60107,_Streamwood,_Illinois,_Illinois	60107, Streamwood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4040		37645	2			-3			7.29		http://www.dph.illinois.gov/
+60108,_Bloomingdale,_Illinois,_Illinois	60108, Bloomingdale, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2242		33069	3			2			5.14		http://www.dph.illinois.gov/
+60109,_Burlington,_Illinois,_Illinois	60109, Burlington, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		59		802	0			0			0.0		http://www.dph.illinois.gov/
+60110,_Carpentersville,_Illinois,_Illinois	60110, Carpentersville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4145		27602	3			-2			9.14		http://www.dph.illinois.gov/
+60112,_Cortland,_Illinois,_Illinois	60112, Cortland, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		364		3733	0			0			1.14		http://www.dph.illinois.gov/
+60115,_DeKalb,_Illinois,_Illinois	60115, DeKalb, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3355		50746	1			-3			7.43		http://www.dph.illinois.gov/
+60119,_Elburn,_Illinois,_Illinois	60119, Elburn, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		774		8304	3			3			2.86		http://www.dph.illinois.gov/
+60120,_Elgin,_Illinois,_Illinois	60120, Elgin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5774		42090	13			3			12.57		http://www.dph.illinois.gov/
+60123,_Elgin,_Illinois,_Illinois	60123, Elgin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4891		48747	10			2			9.86		http://www.dph.illinois.gov/
+60126,_Elmhurst,_Illinois,_Illinois	60126, Elmhurst, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3759		56941	4			3			8.0		http://www.dph.illinois.gov/
+60130,_Forest_Park,_Illinois,_Illinois	60130, Forest Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1047		22297	4			1			2.29		http://www.dph.illinois.gov/
+60131,_Franklin_Park,_Illinois,_Illinois	60131, Franklin Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2201		22109	3			0			5.57		http://www.dph.illinois.gov/
+60134,_Geneva,_Illinois,_Illinois	60134, Geneva, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2104		28296	3			-1			5.14		http://www.dph.illinois.gov/
+60135,_Genoa,_Illinois,_Illinois	60135, Genoa, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		657		5598	0			0			1.29		http://www.dph.illinois.gov/
+60136,_Gilberts,_Illinois,_Illinois	60136, Gilberts, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		695		6308	1			1			2.0		http://www.dph.illinois.gov/
+60137,_Glen_Ellyn,_Illinois,_Illinois	60137, Glen Ellyn, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2775		37093	4			-1			8.0		http://www.dph.illinois.gov/
+60139,_Glendale_Heights,_Illinois,_Illinois	60139, Glendale Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3514		28161	1			3			5.43		http://www.dph.illinois.gov/
+60140,_Hampshire,_Illinois,_Illinois	60140, Hampshire, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1598		15386	1			-2			3.43		http://www.dph.illinois.gov/
+60141,_Hines,_Illinois,_Illinois	60141, Hines, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		65		2664	-1			-2			0.29		http://www.dph.illinois.gov/
+60142,_Huntley,_Illinois,_Illinois	60142, Huntley, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1973		24897	4			0			6.14		http://www.dph.illinois.gov/
+60143,_Itasca_station,_Illinois	60143, Itasca station, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		995		11297	1			0			1.57		http://www.dph.illinois.gov/
+60148,_Lombard,_Illinois,_Illinois	60148, Lombard, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3747		54574	3			-3			11.43		http://www.dph.illinois.gov/
+60152,_Marengo,_Illinois,_Illinois	60152, Marengo, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		968		9375	1			0			1.71		http://www.dph.illinois.gov/
+60153,_Maywood,_Illinois,_Illinois	60153, Maywood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2225		19614	3			2			5.29		http://www.dph.illinois.gov/
+60154,_Westchester,_Illinois,_Illinois	60154, Westchester, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1405		17110	3			-1			5.71		http://www.dph.illinois.gov/
+60157,_Medinah,_Illinois,_Illinois	60157, Medinah, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		198		1982	0			0			0.57		http://www.dph.illinois.gov/
+60160,_Melrose_Park,_Illinois,_Illinois	60160, Melrose Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3332		24058	4			3			4.57		http://www.dph.illinois.gov/
+60162,_Hillside,_Illinois,_Illinois	60162, Hillside, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1352		14397	-1			-2			0.86		http://www.dph.illinois.gov/
+60163,_Berkeley,_Illinois,_Illinois	60163, Berkeley, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		562		4716	0			-1			1.57		http://www.dph.illinois.gov/
+60164,_Melrose_Park,_Illinois,_Illinois	60164, Melrose Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2805		29976	1			-4			5.14		http://www.dph.illinois.gov/
+60165,_Stone_Park,_Illinois,_Illinois	60165, Stone Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		656		3509	1			0			0.71		http://www.dph.illinois.gov/
+60171,_River_Grove,_Illinois,_Illinois	60171, River Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1024		8607	3			3			3.14		http://www.dph.illinois.gov/
+60172,_Roselle,_Illinois,_Illinois	60172, Roselle, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2079		20372	4			2			4.14		http://www.dph.illinois.gov/
+60173,_Schaumburg,_Illinois,_Illinois	60173, Schaumburg, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		807		9225	1			1			1.14		http://www.dph.illinois.gov/
+60174,_St._Charles,_Illinois,_Illinois	60174, St. Charles, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2633		35373	2			-4			7.0		http://www.dph.illinois.gov/
+60175,_St._Charles,_Illinois,_Illinois	60175, St. Charles, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2229		33379	5			3			5.57		http://www.dph.illinois.gov/
+60176,_Schiller_Park,_Illinois,_Illinois	60176, Schiller Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1229		8707	6			4			3.43		http://www.dph.illinois.gov/
+60177,_South_Elgin,_Illinois,_Illinois	60177, South Elgin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2397		31612	6			0			5.29		http://www.dph.illinois.gov/
+60178,_Sycamore,_Illinois,_Illinois	60178, Sycamore, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1655		18369	1			-4			3.43		http://www.dph.illinois.gov/
+60181,_Villa_Park,_Illinois,_Illinois	60181, Villa Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2531		25200	3			-1			6.0		http://www.dph.illinois.gov/
+60185,_West_Chicago,_Illinois,_Illinois	60185, West Chicago, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3981		38678	7			4			6.86		http://www.dph.illinois.gov/
+60187,_Wheaton,_Illinois,_Illinois	60187, Wheaton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1905		43004	9			7			4.86		http://www.dph.illinois.gov/
+60188,_Carol_Stream,_Illinois,_Illinois	60188, Carol Stream, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3918		36562	5			1			8.0		http://www.dph.illinois.gov/
+60189,_Wheaton,_Illinois,_Illinois	60189, Wheaton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1967		28292	3			3			4.43		http://www.dph.illinois.gov/
+60190,_Winfield,_Illinois,_Illinois	60190, Winfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		947		10718	5			4			1.71		http://www.dph.illinois.gov/
+60191,_Wood_Dale,_Illinois,_Illinois	60191, Wood Dale, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1424		12283	-1			-2			2.14		http://www.dph.illinois.gov/
+60192,_Hoffman_Estates,_Illinois,_Illinois	60192, Hoffman Estates, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		895		11404	0			-1			1.29		http://www.dph.illinois.gov/
+60193,_Schaumburg,_Illinois,_Illinois	60193, Schaumburg, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2691		36029	2			-2			6.86		http://www.dph.illinois.gov/
+60194,_Schaumburg,_Illinois,_Illinois	60194, Schaumburg, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1305		21698	5			2			3.43		http://www.dph.illinois.gov/
+60195,_Schaumburg,_Illinois,_Illinois	60195, Schaumburg, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		272		3093	0			0			0.43		http://www.dph.illinois.gov/
+60201,_Evanston,_Illinois,_Illinois	60201, Evanston, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1963		80819	6			-3			8.57		http://www.dph.illinois.gov/
+60202,_Evanston,_Illinois,_Illinois	60202, Evanston, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1829		45535	2			1			3.43		http://www.dph.illinois.gov/
+60203,_Evanston,_Illinois,_Illinois	60203, Evanston, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		232		4699	0			0			0.71		http://www.dph.illinois.gov/
+60301,_Oak_Park,_Illinois,_Illinois	60301, Oak Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		174		3269	0			0			1.0		http://www.dph.illinois.gov/
+60302,_Oak_Park,_Illinois,_Illinois	60302, Oak Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1737		37033	3			-2			6.0		http://www.dph.illinois.gov/
+60304,_Oak_Park,_Illinois,_Illinois	60304, Oak Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		816		17591	1			0			2.43		http://www.dph.illinois.gov/
+60305,_River_Forest,_Illinois,_Illinois	60305, River Forest, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		639		11216	6			4			2.57		http://www.dph.illinois.gov/
+60401,_Beecher,_Illinois,_Illinois	60401, Beecher, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		722		11558	1			1			1.43		http://www.dph.illinois.gov/
+60402,_Berwyn,_Illinois,_Illinois	60402, Berwyn, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7710		60127	7			-6			12.43		http://www.dph.illinois.gov/
+60406,_Blue_Island–Vermont_Street_station,_Illinois	60406, Blue Island–Vermont Street station, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2723		24410	1			-4			4.0		http://www.dph.illinois.gov/
+60408,_Braidwood,_Illinois,_Illinois	60408, Braidwood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		502		4600	0			-1			1.29		http://www.dph.illinois.gov/
+60409,_Calumet_City,_Illinois,_Illinois	60409, Calumet City, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3164		32447	5			0			4.14		http://www.dph.illinois.gov/
+60410,_Channahon,_Illinois,_Illinois	60410, Channahon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1215		9758	2			-4			5.29		http://www.dph.illinois.gov/
+60411,_Chicago_Heights,_Illinois,_Illinois	60411, Chicago Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5115		65606	5			-3			9.0		http://www.dph.illinois.gov/
+60415,_Chicago_Ridge,_Illinois,_Illinois	60415, Chicago Ridge, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1092		13332	2			0			2.14		http://www.dph.illinois.gov/
+60417,_Crete,_Illinois,_Illinois	60417, Crete, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1343		22285	0			-2			4.29		http://www.dph.illinois.gov/
+60419,_Dolton,_Illinois,_Illinois	60419, Dolton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1678		31690	11			10			5.0		http://www.dph.illinois.gov/
+60422,_Flossmoor,_Illinois,_Illinois	60422, Flossmoor, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		661		9859	1			-1			1.57		http://www.dph.illinois.gov/
+60423,_Frankfort,_Illinois,_Illinois	60423, Frankfort, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2999		25639	9			4			7.57		http://www.dph.illinois.gov/
+60425,_Glenwood,_Illinois,_Illinois	60425, Glenwood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		773		11663	0			-2			1.71		http://www.dph.illinois.gov/
+60426,_Harvey,_Illinois,_Illinois	60426, Harvey, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2334		23198	1			-6			8.57		http://www.dph.illinois.gov/
+60429,_Hazel_Crest,_Illinois,_Illinois	60429, Hazel Crest, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1220		16270	1			0			2.29		http://www.dph.illinois.gov/
+60430,_Homewood,_Illinois,_Illinois	60430, Homewood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1418		20172	1			0			2.29		http://www.dph.illinois.gov/
+60431,_Joliet,_Illinois,_Illinois	60431, Joliet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2787		23038	7			1			7.14		http://www.dph.illinois.gov/
+60432,_Joliet,_Illinois,_Illinois	60432, Joliet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2275		14951	5			5			3.43		http://www.dph.illinois.gov/
+60433,_Joliet,_Illinois,_Illinois	60433, Joliet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1662		15593	-1			-2			4.57		http://www.dph.illinois.gov/
+60434,_Joliet,_Illinois,_Illinois	60434, Joliet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		369		6233	0			0			0.43		http://www.dph.illinois.gov/
+60435,_Joliet,_Illinois,_Illinois	60435, Joliet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4759		47522	9			1			12.71		http://www.dph.illinois.gov/
+60436,_Joliet,_Illinois,_Illinois	60436, Joliet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1860		19129	8			1			5.43		http://www.dph.illinois.gov/
+60438,_Lansing,_Illinois,_Illinois	60438, Lansing, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2906		25888	6			1			6.71		http://www.dph.illinois.gov/
+60439,_Lemont,_Illinois,_Illinois	60439, Lemont, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1930		27055	5			0			6.71		http://www.dph.illinois.gov/
+60440,_Bolingbrook,_Illinois,_Illinois	60440, Bolingbrook, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4837		57796	14			7			10.29		http://www.dph.illinois.gov/
+60441,_Lockport,_Illinois,_Illinois	60441, Lockport, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3024		24872	13			7			10.71		http://www.dph.illinois.gov/
+60442,_Manhattan,_Illinois,_Illinois	60442, Manhattan, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		971		7931	2			-1			3.57		http://www.dph.illinois.gov/
+60443,_Matteson,_Illinois,_Illinois	60443, Matteson, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1702		19992	1			-3			2.0		http://www.dph.illinois.gov/
+60445,_Midlothian,_Illinois,_Illinois	60445, Midlothian, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1687		19037	2			-6			3.71		http://www.dph.illinois.gov/
+60446,_Romeoville,_Illinois,_Illinois	60446, Romeoville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4076		35875	3			-12			9.29		http://www.dph.illinois.gov/
+60447,_Minooka,_Illinois,_Illinois	60447, Minooka, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1347		11751	3			-2			5.86		http://www.dph.illinois.gov/
+60448,_Mokena,_Illinois,_Illinois	60448, Mokena, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2127		17895	3			-3			5.43		http://www.dph.illinois.gov/
+60449,_Monee,_Illinois,_Illinois	60449, Monee, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		658		6847	1			-1			2.86		http://www.dph.illinois.gov/
+60450,_Morris,_Illinois,_Illinois	60450, Morris, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1942		16704	3			-2			6.14		http://www.dph.illinois.gov/
+60451,_New_Lenox,_Illinois,_Illinois	60451, New Lenox, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2960		26808	7			-6			12.29		http://www.dph.illinois.gov/
+60452,_Oak_Forest,_Illinois,_Illinois	60452, Oak Forest, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2555		21077	3			-2			4.43		http://www.dph.illinois.gov/
+60453,_Oak_Lawn,_Illinois,_Illinois	60453, Oak Lawn, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5186		57204	9			-4			12.71		http://www.dph.illinois.gov/
+60455,_Bridgeview,_Illinois,_Illinois	60455, Bridgeview, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1596		17265	2			-1			3.71		http://www.dph.illinois.gov/
+60456,_Hometown,_Illinois,_Illinois	60456, Hometown, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		327		3668	1			0			0.71		http://www.dph.illinois.gov/
+60457,_Hickory_Hills,_Illinois,_Illinois	60457, Hickory Hills, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1104		10500	1			-1			1.71		http://www.dph.illinois.gov/
+60458,_Justice,_Illinois,_Illinois	60458, Justice, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1235		11465	3			0			3.29		http://www.dph.illinois.gov/
+60459,_Burbank,_Illinois,_Illinois	60459, Burbank, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2812		22952	1			0			2.86		http://www.dph.illinois.gov/
+60461,_Olympia_Fields,_Illinois,_Illinois	60461, Olympia Fields, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		283		4201	1			0			0.57		http://www.dph.illinois.gov/
+60462,_Orland_Park,_Illinois,_Illinois	60462, Orland Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3396		34361	3			-5			10.57		http://www.dph.illinois.gov/
+60463,_Palos_Heights,_Illinois,_Illinois	60463, Palos Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1405		20212	3			1			3.29		http://www.dph.illinois.gov/
+60464,_Palos_Park,_Illinois,_Illinois	60464, Palos Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		757		8777	0			-2			1.14		http://www.dph.illinois.gov/
+60465,_Palos_Hills,_Illinois,_Illinois	60465, Palos Hills, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1582		14963	1			-2			2.57		http://www.dph.illinois.gov/
+60466,_Park_Forest_(meteorite),_Illinois	60466, Park Forest (meteorite), Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1878		25798	1			1			3.43		http://www.dph.illinois.gov/
+60467,_Orland_Park,_Illinois,_Illinois	60467, Orland Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2149		23225	0			-2			3.71		http://www.dph.illinois.gov/
+60468,_Peotone,_Illinois,_Illinois	60468, Peotone, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		542		4449	3			2			1.29		http://www.dph.illinois.gov/
+60469,_Posen,_Illinois,_Illinois	60469, Posen, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		695		4857	0			-5			1.0		http://www.dph.illinois.gov/
+60471,_Richton_Park,_Illinois,_Illinois	60471, Richton Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1010		17292	0			-1			1.14		http://www.dph.illinois.gov/
+60472,_Robbins,_Illinois,_Illinois	60472, Robbins, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		310		5957	1			-1			0.71		http://www.dph.illinois.gov/
+60473,_South_Holland,_Illinois,_Illinois	60473, South Holland, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2062		31526	5			3			7.29		http://www.dph.illinois.gov/
+60475,_Steger,_Illinois,_Illinois	60475, Steger, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		765		7033	2			2			2.0		http://www.dph.illinois.gov/
+60476,_Thornton,_Illinois,_Illinois	60476, Thornton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		225		2120	0			-1			0.43		http://www.dph.illinois.gov/
+60477,_Tinley_Park,_Illinois,_Illinois	60477, Tinley Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3314		30396	5			-1			9.0		http://www.dph.illinois.gov/
+60478,_Country_Club_Hills,_Illinois,_Illinois	60478, Country Club Hills, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1340		18695	3			-3			2.71		http://www.dph.illinois.gov/
+60480,_Willow_Springs,_Illinois,_Illinois	60480, Willow Springs, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		450		4687	0			0			0.29		http://www.dph.illinois.gov/
+60481,_Wilmington,_Will_County,_Illinois,_Illinois	60481, Wilmington, Will County, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1113		13379	2			0			3.14		http://www.dph.illinois.gov/
+60482,_Worth,_Illinois,_Illinois	60482, Worth, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		751		6538	0			-1			2.43		http://www.dph.illinois.gov/
+60490,_Bolingbrook,_Illinois,_Illinois	60490, Bolingbrook, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1567		18290	3			1			3.86		http://www.dph.illinois.gov/
+60501,_Summit,_Illinois,_Illinois	60501, Summit, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1299		8448	3			2			2.29		http://www.dph.illinois.gov/
+60504,_Aurora,_Illinois,_Illinois	60504, Aurora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2797		29817	2			1			6.29		http://www.dph.illinois.gov/
+60505,_Aurora,_Illinois,_Illinois	60505, Aurora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7761		56778	13			3			13.86		http://www.dph.illinois.gov/
+60506,_Aurora,_Illinois,_Illinois	60506, Aurora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5644		57169	13			7			12.86		http://www.dph.illinois.gov/
+60510,_Batavia,_Illinois,_Illinois	60510, Batavia, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1874		25352	3			-2			4.71		http://www.dph.illinois.gov/
+60513,_Brookfield,_Illinois,_Illinois	60513, Brookfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1567		19227	1			-1			1.57		http://www.dph.illinois.gov/
+60514,_Clarendon_Hills,_Illinois,_Illinois	60514, Clarendon Hills, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		731		8731	2			2			1.14		http://www.dph.illinois.gov/
+60515,_Downers_Grove,_Illinois,_Illinois	60515, Downers Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1763		25642	6			3			5.29		http://www.dph.illinois.gov/
+60516,_Downers_Grove,_Illinois,_Illinois	60516, Downers Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1807		25430	6			1			5.71		http://www.dph.illinois.gov/
+60517,_Woodridge,_Illinois,_Illinois	60517, Woodridge, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2334		28328	3			-1			7.0		http://www.dph.illinois.gov/
+60521,_Hinsdale,_Illinois,_Illinois	60521, Hinsdale, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1384		20625	7			6			4.43		http://www.dph.illinois.gov/
+60523,_Oak_Brook,_Illinois,_Illinois	60523, Oak Brook, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		827		11910	0			0			0.71		http://www.dph.illinois.gov/
+60525,_La_Grange,_Illinois,_Illinois	60525, La Grange, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2670		42907	2			-3			6.29		http://www.dph.illinois.gov/
+60526,_La_Grange_Park,_Illinois,_Illinois	60526, La Grange Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		947		22395	1			-1			2.71		http://www.dph.illinois.gov/
+60527,_Willowbrook,_DuPage_County,_Illinois,_Illinois	60527, Willowbrook, DuPage County, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2390		35967	4			0			6.0		http://www.dph.illinois.gov/
+60532,_Lisle,_Illinois,_Illinois	60532, Lisle, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1609		28089	4			4			4.0		http://www.dph.illinois.gov/
+60534,_Lyons,_Illinois,_Illinois	60534, Lyons, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1099		9120	1			1			1.14		http://www.dph.illinois.gov/
+60538,_Montgomery,_Illinois,_Illinois	60538, Montgomery, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2561		22251	3			0			7.14		http://www.dph.illinois.gov/
+60540,_Naperville,_Illinois,_Illinois	60540, Naperville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2368		37862	5			-4			6.57		http://www.dph.illinois.gov/
+60542,_North_Aurora,_Illinois,_Illinois	60542, North Aurora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1455		17246	1			-2			2.43		http://www.dph.illinois.gov/
+60543,_Oswego,_Illinois,_Illinois	60543, Oswego, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2948		29054	3			-3			8.57		http://www.dph.illinois.gov/
+60544,_Plainfield,_Illinois,_Illinois	60544, Plainfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2348		28428	8			2			6.43		http://www.dph.illinois.gov/
+60545,_Plano,_Illinois,_Illinois	60545, Plano, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1343		10330	0			-1			2.86		http://www.dph.illinois.gov/
+60546,_Riverside,_Illinois,_Illinois	60546, Riverside, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1299		22997	1			-3			4.29		http://www.dph.illinois.gov/
+60548,_Sandwich,_Illinois,_Illinois	60548, Sandwich, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1126		11148	0			-2			1.71		http://www.dph.illinois.gov/
+60551,_Sheridan,_Illinois,_Illinois	60551, Sheridan, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		609		14347	1			1			0.86		http://www.dph.illinois.gov/
+60552,_Somonauk,_Illinois,_Illinois	60552, Somonauk, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		337		2921	-1			-3			0.57		http://www.dph.illinois.gov/
+60554,_Sugar_Grove,_Illinois,_Illinois	60554, Sugar Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		829		9113	3			0			3.71		http://www.dph.illinois.gov/
+60555,_Warrenville,_Illinois,_Illinois	60555, Warrenville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1150		11521	2			-1			0.86		http://www.dph.illinois.gov/
+60558,_Western_Springs,_Illinois,_Illinois	60558, Western Springs, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		938		12480	3			-1			2.86		http://www.dph.illinois.gov/
+60559,_Westmont,_Illinois,_Illinois	60559, Westmont, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1858		27178	9			9			4.29		http://www.dph.illinois.gov/
+60560,_Yorkville,_Illinois,_Illinois	60560, Yorkville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2197		24057	6			-1			6.57		http://www.dph.illinois.gov/
+60561,_Darien,_Illinois,_Illinois	60561, Darien, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1570		17852	7			5			6.14		http://www.dph.illinois.gov/
+60563,_Naperville,_Illinois,_Illinois	60563, Naperville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2561		51830	6			5			6.0		http://www.dph.illinois.gov/
+60564,_Naperville,_Illinois,_Illinois	60564, Naperville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2576		36092	3			-9			8.14		http://www.dph.illinois.gov/
+60565,_Naperville,_Illinois,_Illinois	60565, Naperville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2176		31281	10			8			7.14		http://www.dph.illinois.gov/
+60601,_Chicago,_Illinois	60601, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		873		19205	0			-2			1.29		http://www.dph.illinois.gov/
+60602,_Chicago,_Illinois	60602, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		86		2077	0			0			0.14		http://www.dph.illinois.gov/
+60604,_Chicago,_Illinois	60604, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		96		1697	1			1			0.14		http://www.dph.illinois.gov/
+60605,_Chicago,_Illinois	60605, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1606		33666	4			4			4.29		http://www.dph.illinois.gov/
+60606,_Chicago,_Illinois	60606, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		261		6330	0			0			0.57		http://www.dph.illinois.gov/
+60607,_Chicago,_Illinois	60607, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2229		44934	2			0			3.57		http://www.dph.illinois.gov/
+60608,_Chicago,_Illinois	60608, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7233		82101	-2			-16			10.0		http://www.dph.illinois.gov/
+60609,_Chicago,_Illinois	60609, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		6428		62290	5			-4			11.71		http://www.dph.illinois.gov/
+60610,_Chicago,_Illinois	60610, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2751		53158	3			-6			5.71		http://www.dph.illinois.gov/
+60611,_Chicago,_Illinois	60611, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1831		41363	3			2			3.14		http://www.dph.illinois.gov/
+60612,_Chicago,_Illinois	60612, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2975		53482	2			0			1.0		http://www.dph.illinois.gov/
+60613,_Chicago,_Illinois	60613, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3130		66377	7			0			10.86		http://www.dph.illinois.gov/
+60614,_Chicago,_Illinois	60614, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4558		105004	6			-8			13.14		http://www.dph.illinois.gov/
+60615,_Chicago,_Illinois	60615, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1920		56076	3			-3			6.57		http://www.dph.illinois.gov/
+60616,_Chicago,_Illinois	60616, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3164		60713	2			-5			6.14		http://www.dph.illinois.gov/
+60617,_Chicago,_Illinois	60617, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		6901		69610	5			0			9.71		http://www.dph.illinois.gov/
+60618,_Chicago,_Illinois	60618, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7166		96971	7			-15			21.14		http://www.dph.illinois.gov/
+60619,_Chicago,_Illinois	60619, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3738		53646	12			5			7.57		http://www.dph.illinois.gov/
+60620,_Chicago,_Illinois	60620, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4473		58992	8			0			9.43		http://www.dph.illinois.gov/
+60621,_Chicago,_Illinois	60621, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1948		23685	4			0			3.0		http://www.dph.illinois.gov/
+60622,_Chicago,_Illinois	60622, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4316		76836	3			-8			11.0		http://www.dph.illinois.gov/
+60623,_Chicago,_Illinois	60623, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		10022		72134	8			2			12.86		http://www.dph.illinois.gov/
+60624,_Chicago,_Illinois	60624, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2780		30819	-1			-10			4.14		http://www.dph.illinois.gov/
+60625,_Chicago,_Illinois	60625, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5983		82629	13			-4			12.29		http://www.dph.illinois.gov/
+60626,_Chicago,_Illinois	60626, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3738		86232	5			-1			8.29		http://www.dph.illinois.gov/
+60628,_Chicago,_Illinois	60628, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4319		53093	5			-3			8.14		http://www.dph.illinois.gov/
+60629,_Chicago,_Illinois	60629, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		15697		98042	8			-7			19.29		http://www.dph.illinois.gov/
+60630,_Chicago,_Illinois	60630, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4781		50662	4			-10			12.57		http://www.dph.illinois.gov/
+60631,_Chicago,_Illinois	60631, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2651		37204	3			-1			3.14		http://www.dph.illinois.gov/
+60632,_Chicago,_Illinois	60632, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		12225		74573	9			-2			14.57		http://www.dph.illinois.gov/
+60633,_Chicago,_Illinois	60633, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1648		19330	0			0			2.0		http://www.dph.illinois.gov/
+60634,_Chicago,_Illinois	60634, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		8934		79989	11			4			19.14		http://www.dph.illinois.gov/
+60636,_Chicago,_Illinois	60636, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2762		25511	0			-5			4.29		http://www.dph.illinois.gov/
+60637,_Chicago,_Illinois	60637, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2782		90728	0			-4			5.14		http://www.dph.illinois.gov/
+60638,_Chicago,_Illinois	60638, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7063		51671	6			0			9.14		http://www.dph.illinois.gov/
+60639,_Chicago,_Illinois	60639, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		13115		88086	9			-8			20.43		http://www.dph.illinois.gov/
+60640,_Chicago,_Illinois	60640, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3903		89723	6			-6			13.43		http://www.dph.illinois.gov/
+60641,_Chicago,_Illinois	60641, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7830		82545	6			-7			16.71		http://www.dph.illinois.gov/
+60643,_Chicago,_Illinois	60643, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3757		63927	7			3			9.14		http://www.dph.illinois.gov/
+60644,_Chicago,_Illinois	60644, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3638		45654	5			-2			7.0		http://www.dph.illinois.gov/
+60645,_Chicago,_Illinois	60645, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4105		56574	4			-4			7.0		http://www.dph.illinois.gov/
+60646,_Chicago,_Illinois	60646, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2269		30936	5			-4			7.43		http://www.dph.illinois.gov/
+60647,_Chicago,_Illinois	60647, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		7574		114437	7			-5			12.43		http://www.dph.illinois.gov/
+60649,_Chicago,_Illinois	60649, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2819		44308	2			1			5.71		http://www.dph.illinois.gov/
+60651,_Chicago,_Illinois	60651, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		6873		55883	10			-2			14.86		http://www.dph.illinois.gov/
+60652,_Chicago,_Illinois	60652, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4711		38288	2			-11			8.86		http://www.dph.illinois.gov/
+60653,_Chicago,_Illinois	60653, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2181		38894	2			-2			6.29		http://www.dph.illinois.gov/
+60654,_Chicago,_Illinois	60654, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1671		26475	0			-6			3.29		http://www.dph.illinois.gov/
+60655,_Chicago,_Illinois	60655, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3048		28932	4			-9			8.43		http://www.dph.illinois.gov/
+60656,_Chicago,_Illinois	60656, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2572		24468	5			3			6.0		http://www.dph.illinois.gov/
+60657,_Chicago,_Illinois	60657, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4298		89133	12			-7			15.43		http://www.dph.illinois.gov/
+60659,_Chicago,_Illinois	60659, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3500		36392	1			-8			7.29		http://www.dph.illinois.gov/
+60660,_Chicago,_Illinois	60660, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2340		47756	5			0			8.14		http://www.dph.illinois.gov/
+60661,_Chicago,_Illinois	60661, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		666		12516	0			-4			1.43		http://www.dph.illinois.gov/
+60706,_Harwood_Heights,_Illinois,_Illinois	60706, Harwood Heights, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2551		24578	3			-2			7.71		http://www.dph.illinois.gov/
+60707,_Elmwood_Park,_Illinois,_Illinois	60707, Elmwood Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4705		48680	4			-2			7.57		http://www.dph.illinois.gov/
+60712,_Lincolnwood,_Illinois,_Illinois	60712, Lincolnwood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1962		21629	2			0			2.57		http://www.dph.illinois.gov/
+60714,_Niles,_Illinois,_Illinois	60714, Niles, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3226		52225	3			-5			5.57		http://www.dph.illinois.gov/
+60803,_Alsip,_Illinois,_Illinois	60803, Alsip, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1954		15624	2			-2			4.14		http://www.dph.illinois.gov/
+60804,_Cicero,_Illinois,_Illinois	60804, Cicero, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		12081		76427	12			-10			19.14		http://www.dph.illinois.gov/
+60805,_Evergreen_Park,_Illinois,_Illinois	60805, Evergreen Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1782		22732	4			3			3.14		http://www.dph.illinois.gov/
+60827,_Riverdale,_Illinois,_Illinois	60827, Riverdale, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1547		18658	3			1			3.14		http://www.dph.illinois.gov/
+60901,_Kankakee,_Illinois,_Illinois	60901, Kankakee, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4334		66595	6			-3			8.0		http://www.dph.illinois.gov/
+60914,_Bourbonnais,_Illinois,_Illinois	60914, Bourbonnais, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3076		37307	3			1			6.14		http://www.dph.illinois.gov/
+60915,_Bradley,_Illinois,_Illinois	60915, Bradley, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1116		14858	0			-3			1.86		http://www.dph.illinois.gov/
+60922,_Chebanse,_Illinois,_Illinois	60922, Chebanse, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		230		2458	0			0			0.43		http://www.dph.illinois.gov/
+60927,_Clifton,_Illinois,_Illinois	60927, Clifton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		256		5031	1			1			0.43		http://www.dph.illinois.gov/
+60950,_Manteno,_Illinois,_Illinois	60950, Manteno, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1237		23949	4			4			2.57		http://www.dph.illinois.gov/
+60954,_Momence,_Illinois,_Illinois	60954, Momence, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		641		8780	0			1			0.86		http://www.dph.illinois.gov/
+60955,_Onarga,_Illinois,_Illinois	60955, Onarga, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		241		2662	-1			-1			1.57		http://www.dph.illinois.gov/
+60964,_St._Anne,_Illinois,_Illinois	60964, St. Anne, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		442		5093	1			1			0.29		http://www.dph.illinois.gov/
+61008,_Belvidere,_Illinois,_Illinois	61008, Belvidere, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3991		32997	6			-2			6.29		http://www.dph.illinois.gov/
+61016,_Cherry_Valley,_Illinois,_Illinois	61016, Cherry Valley, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		495		3979	0			-1			0.71		http://www.dph.illinois.gov/
+61021,_Dixon,_Illinois,_Illinois	61021, Dixon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2165		42105	3			3			3.71		http://www.dph.illinois.gov/
+61064,_Polo,_Illinois,_Illinois	61064, Polo, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		269		3720	0			0			0.57		http://www.dph.illinois.gov/
+61065,_Poplar_Grove,_Illinois,_Illinois	61065, Poplar Grove, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		978		8467	0			-1			2.71		http://www.dph.illinois.gov/
+61068,_Rochelle,_Illinois,_Illinois	61068, Rochelle, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1549		11252	1			0			3.14		http://www.dph.illinois.gov/
+61071,_Rock_Falls,_Illinois,_Illinois	61071, Rock Falls, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1244		9273	0			-3			3.43		http://www.dph.illinois.gov/
+61072,_Rockton,_Illinois,_Illinois	61072, Rockton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1075		10674	2			0			2.71		http://www.dph.illinois.gov/
+61073,_Roscoe,_Illinois,_Illinois	61073, Roscoe, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1871		17888	6			3			5.71		http://www.dph.illinois.gov/
+61080,_South_Beloit,_Illinois,_Illinois	61080, South Beloit, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1062		8220	1			-3			4.29		http://www.dph.illinois.gov/
+61081,_Sterling,_Illinois,_Illinois	61081, Sterling, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2194		19250	1			-2			7.29		http://www.dph.illinois.gov/
+61084,_Stillman_Valley,_Illinois,_Illinois	61084, Stillman Valley, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		255		2047	0			-1			0.57		http://www.dph.illinois.gov/
+61101,_Rockford,_Illinois,_Illinois	61101, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1661		19888	0			-2			1.86		http://www.dph.illinois.gov/
+61102,_Rockford,_Illinois,_Illinois	61102, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1826		15227	1			-1			1.57		http://www.dph.illinois.gov/
+61103,_Rockford,_Illinois,_Illinois	61103, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2051		28011	2			0			4.29		http://www.dph.illinois.gov/
+61104,_Rockford,_Illinois,_Illinois	61104, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1672		14998	0			-1			1.43		http://www.dph.illinois.gov/
+61107,_Rockford,_Illinois,_Illinois	61107, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3049		39950	0			-1			6.43		http://www.dph.illinois.gov/
+61108,_Rockford,_Illinois,_Illinois	61108, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3084		34551	4			3			3.86		http://www.dph.illinois.gov/
+61109,_Rockford,_Illinois,_Illinois	61109, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2593		22374	2			-4			3.86		http://www.dph.illinois.gov/
+61111,_Loves_Park,_Illinois,_Illinois	61111, Loves Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2301		26819	0			-8			7.86		http://www.dph.illinois.gov/
+61114,_Rockford,_Illinois,_Illinois	61114, Rockford, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1533		20568	0			-2			1.57		http://www.dph.illinois.gov/
+61115,_Machesney_Park,_Illinois,_Illinois	61115, Machesney Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2119		21239	5			3			5.14		http://www.dph.illinois.gov/
+61201,_Rock_Island,_Illinois,_Illinois	61201, Rock Island, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3191		39288	9			2			9.14		http://www.dph.illinois.gov/
+61235,_Atkinson,_Illinois,_Illinois	61235, Atkinson, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		98		1512	0			0			0.0		http://www.dph.illinois.gov/
+61240,_Coal_Valley,_Illinois,_Illinois	61240, Coal Valley, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		479		5130	0			0			0.71		http://www.dph.illinois.gov/
+61241,_Colona,_Illinois,_Illinois	61241, Colona, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		580		6026	1			0			0.57		http://www.dph.illinois.gov/
+61244,_East_Moline,_Illinois,_Illinois	61244, East Moline, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2199		32509	2			-4			5.29		http://www.dph.illinois.gov/
+61252,_Fulton,_Illinois,_Illinois	61252, Fulton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		514		3179	0			0			1.71		http://www.dph.illinois.gov/
+61254,_Geneseo,_Illinois,_Illinois	61254, Geneseo, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		910		12998	3			3			2.14		http://www.dph.illinois.gov/
+61264,_Milan,_Illinois,_Illinois	61264, Milan, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		780		8400	2			1			1.71		http://www.dph.illinois.gov/
+61265,_Moline,_Illinois,_Illinois	61265, Moline, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3798		39580	7			2			7.71		http://www.dph.illinois.gov/
+61270,_Morrison,_Illinois,_Illinois	61270, Morrison, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		773		5372	0			0			1.43		http://www.dph.illinois.gov/
+61275,_Port_Byron,_Illinois,_Illinois	61275, Port Byron, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		384		3548	0			0			1.29		http://www.dph.illinois.gov/
+61282,_Silvis,_Illinois,_Illinois	61282, Silvis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		742		9356	-1			-3			0.57		http://www.dph.illinois.gov/
+61341,_Marseilles,_Illinois,_Illinois	61341, Marseilles, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		685		8482	1			-1			1.86		http://www.dph.illinois.gov/
+61342,_Mendota,_Illinois,_Illinois	61342, Mendota, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1135		8803	8			6			6.14		http://www.dph.illinois.gov/
+61350,_Ottawa,_Illinois,_Illinois	61350, Ottawa, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2020		26475	3			-3			5.71		http://www.dph.illinois.gov/
+61356,_Princeton,_Illinois,_Illinois	61356, Princeton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1058		12083	1			1			3.71		http://www.dph.illinois.gov/
+61401,_Galesburg,_Illinois,_Illinois	61401, Galesburg, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3105		38140	0			-3			3.29		http://www.dph.illinois.gov/
+61410,_Abingdon,_Illinois,_Illinois	61410, Abingdon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		301		2896	0			0			0.29		http://www.dph.illinois.gov/
+61443,_Kewanee,_Illinois,_Illinois	61443, Kewanee, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1314		17051	0			0			2.71		http://www.dph.illinois.gov/
+61455,_Macomb,_Illinois,_Illinois	61455, Macomb, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1567		24073	-1			-1			3.29		http://www.dph.illinois.gov/
+61462,_Monmouth,_Illinois,_Illinois	61462, Monmouth, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1150		9745	1			1			2.0		http://www.dph.illinois.gov/
+61525,_Dunlap,_Illinois,_Illinois	61525, Dunlap, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		972		12412	4			2			3.29		http://www.dph.illinois.gov/
+61548,_Metamora,_Illinois,_Illinois	61548, Metamora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1171		15748	2			2			3.29		http://www.dph.illinois.gov/
+61554,_Pekin,_Illinois,_Illinois	61554, Pekin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4034		49020	4			0			10.14		http://www.dph.illinois.gov/
+61603,_Peoria,_Illinois,_Illinois	61603, Peoria, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1380		17966	3			-1			4.0		http://www.dph.illinois.gov/
+61604,_Peoria,_Illinois,_Illinois	61604, Peoria, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2840		41285	6			-11			11.57		http://www.dph.illinois.gov/
+61605,_Peoria,_Illinois,_Illinois	61605, Peoria, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1069		14861	1			-1			1.14		http://www.dph.illinois.gov/
+61610,_Creve_Coeur,_Illinois,_Illinois	61610, Creve Coeur, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		432		5124	0			-1			0.71		http://www.dph.illinois.gov/
+61611,_East_Peoria,_Illinois,_Illinois	61611, East Peoria, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2186		28861	7			0			5.43		http://www.dph.illinois.gov/
+61614,_Peoria,_Illinois,_Illinois	61614, Peoria, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2627		45201	11			3			10.57		http://www.dph.illinois.gov/
+61615,_Peoria,_Illinois,_Illinois	61615, Peoria, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1999		29104	9			5			6.14		http://www.dph.illinois.gov/
+61701,_Bloomington,_Illinois,_Illinois	61701, Bloomington, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2689		51880	2			-3			6.29		http://www.dph.illinois.gov/
+61704,_Bloomington,_Illinois,_Illinois	61704, Bloomington, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2577		39086	3			-3			6.86		http://www.dph.illinois.gov/
+61761,_Normal,_Illinois,_Illinois	61761, Normal, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		5169		85663	0			-6			13.14		http://www.dph.illinois.gov/
+61764,_Pontiac,_Illinois,_Illinois	61764, Pontiac, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1584		34349	3			-2			7.71		http://www.dph.illinois.gov/
+61801,_Urbana,_Illinois,_Illinois	61801, Urbana, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1434		350494	8			-4			5.43		http://www.dph.illinois.gov/
+61802,_Urbana,_Illinois,_Illinois	61802, Urbana, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1475		79579	7			3			5.0		http://www.dph.illinois.gov/
+61820,_Champaign,_Illinois,_Illinois	61820, Champaign, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4717		690348	33			-4			34.71		http://www.dph.illinois.gov/
+61821,_Champaign,_Illinois,_Illinois	61821, Champaign, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2126		126826	6			2			7.0		http://www.dph.illinois.gov/
+61822,_Champaign,_Illinois,_Illinois	61822, Champaign, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1702		102455	6			0			4.86		http://www.dph.illinois.gov/
+61832,_Danville,_Illinois,_Illinois	61832, Danville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3146		39620	2			-7			9.0		http://www.dph.illinois.gov/
+61853,_Mahomet,_Illinois,_Illinois	61853, Mahomet, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1061		42585	1			-1			5.57		http://www.dph.illinois.gov/
+61866,_Rantoul,_Illinois,_Illinois	61866, Rantoul, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1395		24640	4			-3			5.14		http://www.dph.illinois.gov/
+61874,_Savoy,_Illinois,_Illinois	61874, Savoy, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		586		53207	1			-2			2.29		http://www.dph.illinois.gov/
+61910,_Arcola,_Illinois,_Illinois	61910, Arcola, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		734		5377	1			1			1.29		http://www.dph.illinois.gov/
+61920,_Charleston,_Illinois,_Illinois	61920, Charleston, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2179		27040	3			1			6.29		http://www.dph.illinois.gov/
+61938,_Mattoon,_Illinois,_Illinois	61938, Mattoon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2248		25787	4			2			4.29		http://www.dph.illinois.gov/
+61953,_Tuscola,_Illinois,_Illinois	61953, Tuscola, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		648		9828	4			4			4.43		http://www.dph.illinois.gov/
+62002,_Alton,_Illinois,_Illinois	62002, Alton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3083		27168	9			-5			10.71		http://www.dph.illinois.gov/
+62010,_Bethalto,_Illinois,_Illinois	62010, Bethalto, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1230		9505	0			-3			2.57		http://www.dph.illinois.gov/
+62024,_East_Alton,_Illinois,_Illinois	62024, East Alton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		824		7001	0			0			1.71		http://www.dph.illinois.gov/
+62025,_Edwardsville,_Illinois,_Illinois	62025, Edwardsville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3332		32271	8			2			9.86		http://www.dph.illinois.gov/
+62034,_Glen_Carbon,_Illinois,_Illinois	62034, Glen Carbon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1308		14818	5			3			4.86		http://www.dph.illinois.gov/
+62035,_Godfrey,_Illinois,_Illinois	62035, Godfrey, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1858		16179	4			-5			6.29		http://www.dph.illinois.gov/
+62040,_Granite_City,_Illinois,_Illinois	62040, Granite City, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3743		25937	13			6			15.0		http://www.dph.illinois.gov/
+62052,_Jerseyville,_Illinois,_Illinois	62052, Jerseyville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1536		17832	4			1			3.86		http://www.dph.illinois.gov/
+62056,_Litchfield,_Illinois,_Illinois	62056, Litchfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		734		13557	0			-1			1.86		http://www.dph.illinois.gov/
+62060,_Madison,_Illinois,_Illinois	62060, Madison, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		335		2713	0			0			0.57		http://www.dph.illinois.gov/
+62062,_Maryville,_Illinois,_Illinois	62062, Maryville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		915		14904	3			-2			4.14		http://www.dph.illinois.gov/
+62069,_Mount_Olive,_Illinois,_Illinois	62069, Mount Olive, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		287		3378	0			0			1.43		http://www.dph.illinois.gov/
+62088,_Staunton,_Illinois,_Illinois	62088, Staunton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		642		8466	4			2			1.57		http://www.dph.illinois.gov/
+62090,_Venice,_Illinois,_Illinois	62090, Venice, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		82		652	0			0			0.0		http://www.dph.illinois.gov/
+62095,_Wood_River,_Illinois,_Illinois	62095, Wood River, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1107		11834	4			1			3.14		http://www.dph.illinois.gov/
+62201,_East_St._Louis,_Illinois,_Illinois	62201, East St. Louis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		552		4733	0			-1			0.71		http://www.dph.illinois.gov/
+62203,_East_St._Louis,_Illinois,_Illinois	62203, East St. Louis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		580		8408	1			1			1.14		http://www.dph.illinois.gov/
+62204,_East_St._Louis,_Illinois,_Illinois	62204, East St. Louis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		364		4243	1			1			0.0		http://www.dph.illinois.gov/
+62205,_East_St._Louis,_Illinois,_Illinois	62205, East St. Louis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		606		6306	1			1			1.0		http://www.dph.illinois.gov/
+62206,_East_St._Louis,_Illinois,_Illinois	62206, East St. Louis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1224		13912	0			-3			4.29		http://www.dph.illinois.gov/
+62207,_East_St._Louis,_Illinois,_Illinois	62207, East St. Louis, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		552		5422	1			-1			1.0		http://www.dph.illinois.gov/
+62208,_Fairview_Heights_station_(MetroLink),_Illinois	62208, Fairview Heights station (MetroLink), Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1495		14524	7			3			5.14		http://www.dph.illinois.gov/
+62220,_Belleville,_Illinois,_Illinois	62220, Belleville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1903		16983	3			-3			8.86		http://www.dph.illinois.gov/
+62221,_Belleville,_Illinois,_Illinois	62221, Belleville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2574		22998	6			-8			10.29		http://www.dph.illinois.gov/
+62223,_Belleville,_Illinois,_Illinois	62223, Belleville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1598		16344	1			-2			6.43		http://www.dph.illinois.gov/
+62226,_Belleville,_Illinois,_Illinois	62226, Belleville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2952		31184	5			-5			10.71		http://www.dph.illinois.gov/
+62230,_Breese,_Illinois,_Illinois	62230, Breese, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1128		9222	2			0			4.29		http://www.dph.illinois.gov/
+62231,_Carlyle,_Illinois,_Illinois	62231, Carlyle, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1005		8209	1			0			5.29		http://www.dph.illinois.gov/
+62232,_Caseyville,_Illinois,_Illinois	62232, Caseyville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		835		9744	1			1			1.14		http://www.dph.illinois.gov/
+62233,_Chester,_Illinois,_Illinois	62233, Chester, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1017		10221	0			0			1.0		http://www.dph.illinois.gov/
+62234,_Collinsville,_Illinois,_Illinois	62234, Collinsville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3181		24530	13			6			15.43		http://www.dph.illinois.gov/
+62236,_Columbia,_Illinois,_Illinois	62236, Columbia, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1495		9456	4			3			4.14		http://www.dph.illinois.gov/
+62239,_Dupo,_Illinois,_Illinois	62239, Dupo, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		428		2926	1			1			1.43		http://www.dph.illinois.gov/
+62249,_Highland,_Illinois,_Illinois	62249, Highland, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1979		17136	2			-2			4.43		http://www.dph.illinois.gov/
+62254,_Lebanon,_Illinois,_Illinois	62254, Lebanon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		753		8457	1			-1			2.43		http://www.dph.illinois.gov/
+62257,_Marissa,_Illinois,_Illinois	62257, Marissa, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		322		2355	0			0			1.86		http://www.dph.illinois.gov/
+62258,_Mascoutah,_Illinois,_Illinois	62258, Mascoutah, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		964		10021	1			-5			4.0		http://www.dph.illinois.gov/
+62265,_New_Baden,_Illinois,_Illinois	62265, New Baden, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		515		5141	-1			-2			1.43		http://www.dph.illinois.gov/
+62269,_O'Fallon,_Illinois,_Illinois	62269, O'Fallon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3033		30638	10			-5			11.71		http://www.dph.illinois.gov/
+62272,_Percy,_Illinois,_Illinois	62272, Percy, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		190		1440	0			0			0.43		http://www.dph.illinois.gov/
+62274,_Pinckneyville,_Illinois,_Illinois	62274, Pinckneyville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1501		17921	0			-1			6.29		http://www.dph.illinois.gov/
+62278,_Red_Bud,_Illinois,_Illinois	62278, Red Bud, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		971		7229	0			-2			1.14		http://www.dph.illinois.gov/
+62285,_Smithton,_Illinois,_Illinois	62285, Smithton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		524		4128	4			2			2.86		http://www.dph.illinois.gov/
+62286,_Sparta,_Illinois,_Illinois	62286, Sparta, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		731		8027	1			1			1.43		http://www.dph.illinois.gov/
+62288,_Steeleville,_Illinois,_Illinois	62288, Steeleville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		404		3367	0			-1			1.29		http://www.dph.illinois.gov/
+62294,_Troy,_Illinois,_Illinois	62294, Troy, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1761		11502	4			-2			7.86		http://www.dph.illinois.gov/
+62295,_Valmeyer,_Illinois,_Illinois	62295, Valmeyer, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		153		826	1			1			0.43		http://www.dph.illinois.gov/
+62298,_Waterloo,_Illinois,_Illinois	62298, Waterloo, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2021		21320	3			-2			8.14		http://www.dph.illinois.gov/
+62301,_Quincy,_Illinois,_Illinois	62301, Quincy, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3761		69552	1			0			5.29		http://www.dph.illinois.gov/
+62305,_Quincy,_Illinois,_Illinois	62305, Quincy, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2272		18344	0			0			3.71		http://www.dph.illinois.gov/
+62448,_Newton,_Illinois,_Illinois	62448, Newton, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		740		6647	0			0			1.0		http://www.dph.illinois.gov/
+62454,_Robinson,_Illinois,_Illinois	62454, Robinson, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1215		20733	0			-1			3.57		http://www.dph.illinois.gov/
+62471,_Vandalia,_Illinois,_Illinois	62471, Vandalia, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1612		11836	0			-1			1.71		http://www.dph.illinois.gov/
+62521,_Decatur,_Illinois,_Illinois	62521, Decatur, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		3106		35712	6			1			4.86		http://www.dph.illinois.gov/
+62522,_Decatur,_Illinois,_Illinois	62522, Decatur, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1116		13080	2			0			2.86		http://www.dph.illinois.gov/
+62526,_Decatur,_Illinois,_Illinois	62526, Decatur, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2682		39807	7			4			6.43		http://www.dph.illinois.gov/
+62565,_Shelbyville,_Illinois,_Illinois	62565, Shelbyville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		703		9093	0			-1			0.86		http://www.dph.illinois.gov/
+62568,_Taylorville,_Illinois,_Illinois	62568, Taylorville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1744		22277	2			0			3.43		http://www.dph.illinois.gov/
+62613,_Athens,_Illinois,_Illinois	62613, Athens, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		301		4184	1			0			1.57		http://www.dph.illinois.gov/
+62618,_Beardstown,_Illinois,_Illinois	62618, Beardstown, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1244		9438	0			0			0.57		http://www.dph.illinois.gov/
+62629,_Chatham,_Illinois,_Illinois	62629, Chatham, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1089		18406	4			-1			4.14		http://www.dph.illinois.gov/
+62650,_Jacksonville,_Illinois,_Illinois	62650, Jacksonville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2709		35412	7			-4			9.29		http://www.dph.illinois.gov/
+62656,_Lincoln,_Illinois,_Illinois	62656, Lincoln, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2486		46210	2			2			3.43		http://www.dph.illinois.gov/
+62664,_Mason_City,_Illinois,_Illinois	62664, Mason City, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		306		3666	1			1			1.43		http://www.dph.illinois.gov/
+62684,_Sherman,_Illinois,_Illinois	62684, Sherman, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		659		7957	2			-1			1.29		http://www.dph.illinois.gov/
+62702,_Springfield,_Illinois,_Illinois	62702, Springfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2442		45830	8			4			7.14		http://www.dph.illinois.gov/
+62703,_Springfield,_Illinois,_Illinois	62703, Springfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2325		44614	3			-4			5.14		http://www.dph.illinois.gov/
+62704,_Springfield,_Illinois,_Illinois	62704, Springfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2653		48825	10			5			8.29		http://www.dph.illinois.gov/
+62707,_Springfield,_Illinois,_Illinois	62707, Springfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		644		11506	3			2			2.14		http://www.dph.illinois.gov/
+62801,_Centralia,_Illinois,_Illinois	62801, Centralia, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2463		41072	3			4			3.57		http://www.dph.illinois.gov/
+62832,_Du_Quoin,_Illinois,_Illinois	62832, Du Quoin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1042		9751	1			0			2.86		http://www.dph.illinois.gov/
+62864,_Mount_Vernon,_Illinois,_Illinois	62864, Mount Vernon, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2316		21716	1			-5			8.43		http://www.dph.illinois.gov/
+62901,_Carbondale,_Illinois,_Illinois	62901, Carbondale, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1977		29906	0			-5			5.29		http://www.dph.illinois.gov/
+62902,_Carbondale,_Illinois,_Illinois	62902, Carbondale, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		315		4122	0			0			1.29		http://www.dph.illinois.gov/
+62906,_Anna,_Illinois,_Illinois	62906, Anna, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1092		14776	0			0			3.57		http://www.dph.illinois.gov/
+62907,_Ava,_Illinois,_Illinois	62907, Ava, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		201		1877	1			1			0.14		http://www.dph.illinois.gov/
+62918,_Carterville,_Illinois,_Illinois	62918, Carterville, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1124		10894	3			3			2.0		http://www.dph.illinois.gov/
+62920,_Cobden,_Illinois,_Illinois	62920, Cobden, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		355		4359	0			-1			0.71		http://www.dph.illinois.gov/
+62948,_Herrin,_Illinois,_Illinois	62948, Herrin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1226		15512	1			1			1.0		http://www.dph.illinois.gov/
+62959,_Marion,_Illinois,_Illinois	62959, Marion, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2739		37362	7			1			8.43		http://www.dph.illinois.gov/
+62966,_Murphysboro,_Illinois,_Illinois	62966, Murphysboro, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1308		14877	1			0			2.43		http://www.dph.illinois.gov/
+62992,_Ullin,_Illinois,_Illinois	62992, Ullin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		201		1603	-1			-2			0.29		http://www.dph.illinois.gov/
+94102,_San_Francisco,_California	94102, San Francisco, California	2021-02-08		13	1717								0.29	11.86		https://www.sfdph.org/
+94103,_San_Francisco,_California	94103, San Francisco, California	2021-02-08			1628									7.71		https://www.sfdph.org/
+94104,_San_Francisco,_California	94104, San Francisco, California	2021-02-08		0	15								0.0	0.0		https://www.sfdph.org/
+94105,_San_Francisco,_California	94105, San Francisco, California	2021-02-08			343									1.0		https://www.sfdph.org/
+94107,_San_Francisco,_California	94107, San Francisco, California	2021-02-08			922									3.0		https://www.sfdph.org/
+94108,_San_Francisco,_California	94108, San Francisco, California	2021-02-08			263									1.57		https://www.sfdph.org/
+94109,_San_Francisco,_California	94109, San Francisco, California	2021-02-08		38	1898								0.71	9.14		https://www.sfdph.org/
+94110,_San_Francisco,_California	94110, San Francisco, California	2021-02-08		29	3989								0.43	16.0		https://www.sfdph.org/
+94111,_San_Francisco,_California	94111, San Francisco, California	2021-02-08			84									1.0		https://www.sfdph.org/
+94112,_San_Francisco,_California	94112, San Francisco, California	2021-02-08		50	4679								0.57	18.14		https://www.sfdph.org/
+94114,_San_Francisco,_California	94114, San Francisco, California	2021-02-08			731									2.86		https://www.sfdph.org/
+94115,_San_Francisco,_California	94115, San Francisco, California	2021-02-08		43	1126								0.14	4.43		https://www.sfdph.org/
+94116,_San_Francisco,_California	94116, San Francisco, California	2021-02-08		23	878								0.43	3.29		https://www.sfdph.org/
+94117,_San_Francisco,_California	94117, San Francisco, California	2021-02-08		12	816								0.0	3.29		https://www.sfdph.org/
+94118,_San_Francisco,_California	94118, San Francisco, California	2021-02-08		16	809								0.0	4.14		https://www.sfdph.org/
+94121,_San_Francisco,_California	94121, San Francisco, California	2021-02-08			802									6.14		https://www.sfdph.org/
+94122,_San_Francisco,_California	94122, San Francisco, California	2021-02-08		12	950								0.14	3.86		https://www.sfdph.org/
+94123,_San_Francisco,_California	94123, San Francisco, California	2021-02-08			709									3.71		https://www.sfdph.org/
+94124,_San_Francisco,_California	94124, San Francisco, California	2021-02-08		30	3431								0.0	11.86		https://www.sfdph.org/
+94127,_San_Francisco,_California	94127, San Francisco, California	2021-02-08		0	414								0.0	3.43		https://www.sfdph.org/
+94129,_San_Francisco,_California	94129, San Francisco, California	2021-02-08		0	90								0.0	0.71		https://www.sfdph.org/
+94130,_San_Francisco,_California	94130, San Francisco, California	2021-02-08		0	119								0.0	1.14		https://www.sfdph.org/
+94131,_San_Francisco,_California	94131, San Francisco, California	2021-02-08			597									1.43		https://www.sfdph.org/
+94132,_San_Francisco,_California	94132, San Francisco, California	2021-02-08			738									6.14		https://www.sfdph.org/
+94133,_San_Francisco,_California	94133, San Francisco, California	2021-02-08		12	589								0.14	3.57		https://www.sfdph.org/
+94134,_San_Francisco,_California	94134, San Francisco, California	2021-02-08		16	2607								0.0	13.86		https://www.sfdph.org/
+60133,_Hanover_Park,_Illinois,_Illinois	60133, Hanover Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4220		33575	3			2			8.0		http://www.dph.illinois.gov/
+60156,_Lake_in_the_Hills,_Illinois,_Illinois	60156, Lake in the Hills, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2108		19912	3			0			8.14		http://www.dph.illinois.gov/
+60155,_Broadview,_Illinois,_Illinois	60155, Broadview, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		738		7102	4			4			1.43		http://www.dph.illinois.gov/
+60491,_Homer_Glen,_Illinois,_Illinois	60491, Homer Glen, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2031		19986	4			3			6.29		http://www.dph.illinois.gov/
+94158,_San_Francisco,_California	94158, San Francisco, California	2021-02-08		0	287								0.0	0.57		https://www.sfdph.org/
+60502,_Aurora,_Illinois,_Illinois	60502, Aurora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1282		16772	3			2			4.43		http://www.dph.illinois.gov/
+60503,_Aurora,_Illinois,_Illinois	60503, Aurora, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		964		11633	2			-2			2.29		http://www.dph.illinois.gov/
+60585,_Plainfield,_Illinois,_Illinois	60585, Plainfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1841		20181	8			5			5.43		http://www.dph.illinois.gov/
+60586,_Plainfield,_Illinois,_Illinois	60586, Plainfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		4449		38232	16			6			11.86		http://www.dph.illinois.gov/
+60428,_Markham,_Illinois,_Illinois	60428, Markham, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		919		10282	0			-2			2.0		http://www.dph.illinois.gov/
+62711,_Springfield,_Illinois,_Illinois	62711, Springfield, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1633		26103	4			2			3.57		http://www.dph.illinois.gov/
+60124,_Elgin,_Illinois,_Illinois	60124, Elgin, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1947		19197	3			-2			4.14		http://www.dph.illinois.gov/
+60169,_Hoffman_Estates,_Illinois,_Illinois	60169, Hoffman Estates, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2694		27694	3			-2			5.43		http://www.dph.illinois.gov/
+60403,_Crest_Hill,_Illinois,_Illinois	60403, Crest Hill, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1605		33019	0			-2			2.57		http://www.dph.illinois.gov/
+60404,_Shorewood,_Illinois,_Illinois	60404, Shorewood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1809		17404	7			6			6.43		http://www.dph.illinois.gov/
+60487,_Tinley_Park,_Illinois,_Illinois	60487, Tinley Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		2318		19631	3			-3			7.0		http://www.dph.illinois.gov/
+60642,_Chicago,_Illinois	60642, Chicago, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1652		27324	3			2			3.57		http://www.dph.illinois.gov/
+61705,_Bloomington,_Illinois,_Illinois	61705, Bloomington, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		1065		16343	2			2			2.0		http://www.dph.illinois.gov/
+60484,_University_Park,_Illinois,_Illinois	60484, University Park, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		499		5656	0			-2			0.71		http://www.dph.illinois.gov/
+60958,_Pembroke_Township,_Kankakee_County,_Illinois,_Illinois	60958, Pembroke Township, Kankakee County, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		137		1798	0			0			0.0		http://www.dph.illinois.gov/
+60418,_Crestwood,_Illinois,_Illinois	60418, Crestwood, Illinois, Illinois	2021-02-08	2021-02-08T06:00:00.000Z		917		10223	1			-2			2.14		http://www.dph.illinois.gov/
+Abbeville_County,_South_Carolina	Abbeville County, South Carolina	2021-02-08		31	1758			13	0		3	0	0.29	16.86		https://www.scdhec.gov/
+Abington,_Massachusetts	Abington, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1292		21094	0			0			10.29		https://www.mass.gov/
+Abruzzo	Abruzzo	2021-02-08		1518	45592	33120	770149	184	5	201	-252	-6	6.86	369.29	288.43	http://www.salute.gov.it/
+Acadia_Parish,_Louisiana	Acadia Parish, Louisiana	2021-02-08		177	5910		72640	6	0		8	0	0.0	12.43		http://ldh.la.gov/
+Accomack_County,_Virginia	Accomack County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	33	2461			4	0		-5	0	0.29	13.71		http://www.vdh.virginia.gov/
+Acre_(state)	Acre (state)	2021-02-08	2021-02-08T22:00:00.000Z	893	50694			148	5		56	3	2.86	267.71		https://covid.saude.gov.br/
+Acton,_Massachusetts	Acton, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		687		30229	0			0			3.57		https://www.mass.gov/
+Acushnet,_Massachusetts	Acushnet, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1030		15692	0			0			8.14		https://www.mass.gov/
+Ada_County,_Idaho	Ada County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	422	45255			104	4		104	4	1.29	90.71		https://coronavirus.idaho.gov/
+Adair_County,_Iowa	Adair County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	25	721	646	3248	0	0	0	-1	0	0.14	2.0	6.29	https://idph.iowa.gov
+Adair_County,_Kentucky	Adair County, Kentucky	2021-02-08		49	1479			0	0		-8	0	0.14	5.0		https://govstatus.egov.com/
+Adair_County,_Missouri	Adair County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	11	2019		16179	2	0		-2	0	0.57	3.86		https://health.mo.gov
+Adair_County,_Oklahoma	Adair County, Oklahoma	2021-02-08		20	2982	2626		7	0	8	-2	0	0.0	15.71	25.0	https://coronavirus.health.ok.gov/
+Adams_County,_Colorado	Adams County, Colorado	2021-02-08		595	46547			66	0		-17	-1	0.86	105.71		https://covid19.colorado.gov/
+Adams_County,_Idaho	Adams County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	3	317			0	0		0	0	0.0	0.86		https://coronavirus.idaho.gov/
+Adams_County,_Illinois	Adams County, Illinois	2021-02-08		109	7807		117313	0	0		-1	0	0.29	12.86		http://www.dph.illinois.gov/
+Adams_County,_Indiana	Adams County, Indiana	2021-02-08		48	3138		11731	2	0		-3	0	0.29	7.14		https://coronavirus.in.gov/
+Adams_County,_Iowa	Adams County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	3	313	287	1431	0	0	0	0	0	0.0	0.71	2.0	https://idph.iowa.gov
+Adams_County,_Mississippi	Adams County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	74	2256			1	0		-1	0	0.29	5.57		https://msdh.ms.gov/
+Adams_County,_Nebraska	Adams County, Nebraska	2021-02-08		37	2652		11597	0	0		-3	0	0.0	3.57		http://dhhs.ne.gov/
+Adams_County,_North_Dakota	Adams County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	2	264	255	1190	0	0	0	0	0	0.0	0.71	1.0	https://www.health.nd.gov/
+Adams_County,_Ohio	Adams County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	15	2047			11	0		5	0	0.0	13.43		https://coronavirus.ohio.gov/
+Adams_County,_Pennsylvania	Adams County, Pennsylvania	2021-02-08		141	6796		34985	17	-3		-8	-3	-0.14	31.14		https://www.health.pa.gov/
+Adams_County,_Washington	Adams County, Washington	2021-02-08	2021-02-08T23:55:00.000Z	21	1850			13	0		13	0	0.14	5.86		https://coronavirus.wa.gov/
+Adams_County,_Wisconsin	Adams County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	14	1685		9117	3	0		-1	0	0.0	2.71		https://www.dhs.wisconsin.gov/
+Adams,_Massachusetts	Adams, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		220		9462	0			0			3.0		https://www.mass.gov/
+Addison_County,_Vermont	Addison County, Vermont	2021-02-08		8	639			8	0		0	0	0.0	6.0		https://www.healthvermont.gov/
+Adygea	Adygea	2021-02-08	2021-02-08T07:30:00.000Z	128	13349	11496		38	0	38	3	-2	1.29	38.14	41.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Agawam,_Massachusetts	Agawam, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1995		44433	0			0			12.57		https://www.mass.gov/
+Agder	Agder	2021-02-08	2021-02-08T12:00:00.000Z		1630			11			3			18.86		https://www.fhi.no/
+Agoura_Hills,_California	Agoura Hills, California	2021-02-08	2021-02-08T01:00:00.000Z	13	904			4	0		0	0	0.0	4.0		http://publichealth.lacounty.gov/
+Aiken_County,_South_Carolina	Aiken County, South Carolina	2021-02-08		183	11293			47	1		-20	1	1.14	54.29		https://www.scdhec.gov/
+Aitkin_County,_Minnesota	Aitkin County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	33	1148			1	0		0	0	0.0	2.57		https://www.health.state.mn.us/
+Akmola_Region	Akmola Region	2021-02-08		104	12070	9734		118	0	209	-20	0	0.43	158.0	183.86	https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2021-02-08		50	4020	3840		5	0	0	-5	0	0.0	9.29	10.14	https://www.coronavirus2020.kz/
+Alabama	Alabama	2021-02-08		8523	473348	252880	2301567	925	8	0	-187	6	119.29	1784.0	1533.86	https://covid19.alabama.gov/
+Alachua_County,_Florida	Alachua County, Florida	2021-02-08		185	21401		165086	48	2		-3	1	1.57	101.29		https://floridahealthcovid19.gov/
+Alagoas	Alagoas	2021-02-08	2021-02-08T22:00:00.000Z	2814	121145			451	9		212	1	8.57	417.86		https://covid.saude.gov.br/
+Alamance_County,_North_Carolina	Alamance County, North Carolina	2021-02-08		178	14587			39	0		-51	0	0.86	105.0		https://www.ncdhhs.gov/
+Alameda_County,_California	Alameda County, California	2021-02-08	2021-02-08T00:00:00.000Z	1041	76648		1752854	478	4		45	4	8.43	365.86		http://www.acphd.org/
+Alamosa_County,_Colorado	Alamosa County, Colorado	2021-02-08		28	1209			3	0		2	0	0.0	5.43		https://covid19.colorado.gov/
+Alaska	Alaska	2021-02-08	2021-02-08T00:00:00.000Z	279	55768		1555532	509	0		509	0	2.43	187.0		http://www.dhss.alaska.gov
+Albania	Albania	2021-02-08	2021-02-08T00:00:00.000Z	1472	86289	52128	385281	953	12	684	-171	-2	11.29	1042.43	600.86	https://coronavirus.al/statistika/
+Albany_County,_New_York	Albany County, New York	2021-02-08	2021-02-08T14:00:00.000Z	313	19507		448127	69	3		-25	1	2.57	105.14		https://coronavirus.health.ny.gov/
+Albany_County,_Wyoming	Albany County, Wyoming	2021-02-08	2021-02-08T22:00:00.000Z	11	3468	3786		6	0	9	3	0	0.0	6.29	8.29	https://health.wyo.gov/
+Albemarle_County,_Virginia	Albemarle County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	38	4088			6	0		-28	0	0.43	20.29		http://www.vdh.virginia.gov/
+Alberta	Alberta	2021-02-08	2021-02-08T16:00:00.000Z	1710	127036	119130	0	269	1	314	-82	-3	10.14	404.0	580.86	https://www.canada.ca/
+Alcona_County,_Michigan	Alcona County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	23	418			1	0	0	1	0	0.0	0.71		https://www.michigan.gov/
+Alcorn_County,_Mississippi	Alcorn County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	59	2864			1	0		-5	0	0.14	6.29		https://msdh.ms.gov/
+Aleutians_East_Borough,_Alaska	Aleutians East Borough, Alaska	2021-02-08			2			0			0			0.0		http://www.dhss.alaska.gov/
+Aleutians_West_Census_Area,_Alaska	Aleutians West Census Area, Alaska	2021-02-08			4			0			0			0.0		http://www.dhss.alaska.gov/
+Alexander_County,_Illinois	Alexander County, Illinois	2021-02-08		8	426		4623	0	0		0	0	0.0	1.43		http://www.dph.illinois.gov/
+Alexander_County,_North_Carolina	Alexander County, North Carolina	2021-02-08		59	3650			9	0		-8	0	0.0	19.43		https://www.ncdhhs.gov/
+Alexandria,_Virginia	Alexandria, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	105	9744			12	0		-18	0	0.14	37.43		http://www.vdh.virginia.gov/
+Alfalfa_County,_Oklahoma	Alfalfa County, Oklahoma	2021-02-08		5	1130	1076		3	0	2	-1	0	0.0	4.0	3.71	https://coronavirus.health.ok.gov/
+Alford,_Massachusetts	Alford, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		3		175	0			0			0.0		https://www.mass.gov/
+Alger_County,_Michigan	Alger County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	3	430			0	0	0	0	0	0.0	0.86		https://www.michigan.gov/
+Algeria	Algeria	2021-02-08	2020-08-05T00:00:00.000Z	1261	33055	22802		551	13	0	0	0	0.0	0.0	0.0	http://covid19.sante.gov.dz/
+Alhambra,_California	Alhambra, California	2021-02-08	2021-02-08T01:00:00.000Z	155	6404			15	0		-12	-1	1.71	25.29		http://publichealth.lacounty.gov/
+Allamakee_County,_Iowa	Allamakee County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	39	1351	1206	5422	0	0	0	-5	0	0.29	3.14	6.0	https://idph.iowa.gov
+Allegan_County,_Michigan	Allegan County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	109	7072			17	0	0	17	0	0.43	17.14		https://www.michigan.gov/
+Allegany_County,_Maryland	Allegany County, Maryland	2021-02-08		190	6317			7	1		-5	1	1.0	16.0		https://coronavirus.maryland.gov/
+Allegany_County,_New_York	Allegany County, New York	2021-02-08	2021-02-08T14:00:00.000Z	80	2690		65783	7	0		-11	-1	0.14	14.86		https://coronavirus.health.ny.gov/
+Alleghany_County,_North_Carolina	Alleghany County, North Carolina	2021-02-08		4	866			5	0		-7	0	0.0	5.14		https://www.ncdhhs.gov/
+Alleghany_County,_Virginia	Alleghany County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	31	1163			1	0		1	0	0.0	5.71		http://www.vdh.virginia.gov/
+Allegheny_County,_Pennsylvania	Allegheny County, Pennsylvania	2021-02-08		1591	71533		400367	190	0		-70	-5	10.0	285.14		https://www.health.pa.gov/
+Allen_County,_Indiana	Allen County, Indiana	2021-02-08		616	34486		153426	68	0		-38	0	1.29	101.86		https://coronavirus.in.gov/
+Allen_County,_Kansas	Allen County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		1023			7			7			6.14		https://www.coronavirus.kdheks.gov
+Allen_County,_Kentucky	Allen County, Kentucky	2021-02-08		22	1691			19	0		14	0	0.14	19.57		https://govstatus.egov.com/
+Allen_County,_Ohio	Allen County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	135	10460			6	1		-9	1	0.43	26.71		https://coronavirus.ohio.gov/
+Allen_Parish,_Louisiana	Allen Parish, Louisiana	2021-02-08		79	2888		33006	4	0		-20	0	0.0	7.14		http://ldh.la.gov/
+Allendale_County,_South_Carolina	Allendale County, South Carolina	2021-02-08		14	705			4	0		-3	0	0.14	6.0		https://www.scdhec.gov/
+Almaty	Almaty	2021-02-08		452	22898	21061		114	0	108	1	0	3.29	110.0	97.29	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2021-02-08		114	9732	7912		47	0	146	-17	0	0.86	63.57	111.57	https://www.coronavirus2020.kz/
+Alpena_County,_Michigan	Alpena County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	45	1437			2	0	0	2	0	0.0	1.86		https://www.michigan.gov/
+Alpine_County,_California	Alpine County, California	2021-02-08	2021-02-08T00:00:00.000Z	0	79			1	0		1	0	0.0	0.71		https://www.alpinecountyca.gov/
+Altai_Krai	Altai Krai	2021-02-08	2021-02-08T07:30:00.000Z	1283	40437	36171		176	7	129	-1	-7	12.0	179.0	137.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Altai_Republic	Altai Republic	2021-02-08	2021-02-08T07:30:00.000Z	135	15712	14628		45	0	39	-1	0	0.14	35.86	46.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Amador_County,_California	Amador County, California	2021-02-08	2021-02-07	35	3343	1419	20200	37	0	9	30	0	0.29	18.71	5.57	https://www.cdph.ca.gov
+Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2021-02-08	2021-02-08T22:00:00.000Z	9116	283658			919	113		-66	44	121.43	2134.43		https://covid.saude.gov.br/
+Amelia_County,_Virginia	Amelia County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	12	692			0	0		-7	0	0.29	6.57		http://www.vdh.virginia.gov/
+Amesbury,_Massachusetts	Amesbury, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		878		22304	0			0			5.0		https://www.mass.gov/
+Amherst_County,_Virginia	Amherst County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	12	2485			6	0		-5	0	0.14	12.0		http://www.vdh.virginia.gov/
+Amherst,_Massachusetts	Amherst, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1187		206415	0			0			16.0		https://www.mass.gov/
+Amite_County,_Mississippi	Amite County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	31	1084			3	0		1	0	0.29	2.43		https://msdh.ms.gov/
+Amstetten_District	Amstetten District	2021-02-08	2021-02-08T21:00:00.000Z	120	7197	6843		8	1	15	-10	1	0.43	18.86	18.71	https://info.gesundheitsministerium.at/
+Amur_Oblast	Amur Oblast	2021-02-08	2021-02-08T07:30:00.000Z	144	20134	18484		72	1	68	-4	0	0.57	81.43	89.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Anchorage,_Alaska	Anchorage, Alaska	2021-02-08			1956			0			0			0.0		http://www.dhss.alaska.gov/
+Anderson_County,_Kansas	Anderson County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		783			4			4			2.86		https://www.coronavirus.kdheks.gov
+Anderson_County,_Kentucky	Anderson County, Kentucky	2021-02-08		14	1543			3	0		1	-1	0.29	13.43		https://govstatus.egov.com/
+Anderson_County,_South_Carolina	Anderson County, South Carolina	2021-02-08		404	16996			51	2		-45	0	3.29	73.43		https://www.scdhec.gov/
+Anderson_County,_Tennessee	Anderson County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	145	7387		62599	4	2	2	-9	2	2.29	19.86		https://www.tn.gov/
+Anderson_County,_Texas	Anderson County, Texas	2021-02-08		93	5988	5574		20	0	1	20	0	0.43	24.43	41.0	https://www.dshs.state.tx.us/
+Andorra	Andorra	2021-02-08	2021-02-08T00:00:00.000Z	106	10275	9610		24	0	77	-21	-1	0.71	43.29	57.71	https://www.govern.ad/
+Andover,_Massachusetts	Andover, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		2040		67929	0			0			12.71		https://www.mass.gov/
+Andrew_County,_Missouri	Andrew County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	17	1265		10387	0	0		-3	0	0.0	1.43		https://health.mo.gov
+Andrews_County,_Texas	Andrews County, Texas	2021-02-08		44	1672	1459		0	0	0	0	0	0.57	3.29	4.43	https://www.dshs.state.tx.us/
+Androscoggin_County,_Maine	Androscoggin County, Maine	2021-02-08	2021-02-08T15:00:00.000Z	54	4500	1495		17	0	1	3	0	-0.14	22.14	1.86	https://www.maine.gov/
+Angelina_County,_Texas	Angelina County, Texas	2021-02-08		232	7526	6441		0	2	0	0	2	1.86	57.86	42.57	https://www.dshs.state.tx.us/
+Anne_Arundel_County,_Maryland	Anne Arundel County, Maryland	2021-02-08		479	33911			99	1		-40	-2	3.0	123.86		https://coronavirus.maryland.gov/
+Anoka_County,_Minnesota	Anoka County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	375	32255			34	0		-49	-1	0.43	62.43		https://www.health.state.mn.us/
+Anson_County,_North_Carolina	Anson County, North Carolina	2021-02-08		45	2143			2	0		-10	0	0.43	13.86		https://www.ncdhhs.gov/
+Antelope_County,_Nebraska	Antelope County, Nebraska	2021-02-08		6	461		1781	0	0		0	0	0.0	0.0		http://dhhs.ne.gov/
+Antofagasta_Region	Antofagasta Region	2021-02-08	2021-02-08T04:00:00.000Z	690	33579	31147		317	9	287	114	8	4.43	265.0	266.0	https://www.minsal.cl/
+Antrim_County,_Michigan	Antrim County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	18	878			6	0	0	6	0	0.14	3.71		https://www.michigan.gov/
+Aosta_Valley	Aosta Valley	2021-02-08		410	7856	7281	71962	13	1	9	12	0	0.71	8.0	16.43	http://www.salute.gov.it/
+Apache_County,_Arizona	Apache County, Arizona	2021-02-08	2021-02-08T16:00:00.000Z	326	9858		27049	4	0	0	-15	0	2.14	31.43		https://azdhs.gov/
+Appanoose_County,_Iowa	Appanoose County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	45	1162	1024	5382	0	0	0	-3	0	0.29	2.14	8.0	https://idph.iowa.gov
+Appling_County,_Georgia	Appling County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	55	2063			0	0		-8	0	0.29	7.29		https://dph.georgia.gov/
+Appomattox_County,_Virginia	Appomattox County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	9	1297			3	0		-7	0	0.14	6.86		http://www.vdh.virginia.gov/
+Apulia	Apulia	2021-02-08		3422	129467	75760	1378491	377	23	1335	-388	15	27.71	883.0	1112.29	http://www.salute.gov.it/
+Aquinnah,_Massachusetts	Aquinnah, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		3		466	0			0			0.0		https://www.mass.gov/
+Aransas_County,_Texas	Aransas County, Texas	2021-02-08		31	1081	886		0	0	2	-12	0	0.0	10.71	6.71	https://www.dshs.state.tx.us/
+Arapahoe_County,_Colorado	Arapahoe County, Colorado	2021-02-08		628	46138			117	1		7	1	1.71	140.57		https://covid19.colorado.gov/
+Araucanía_Region	Araucanía Region	2021-02-08	2021-02-08T04:00:00.000Z	438	34002	32136		191	1	308	-118	-5	3.71	258.29	288.0	https://www.minsal.cl/
+Arcadia,_California	Arcadia, California	2021-02-08	2021-02-08T01:00:00.000Z	96	2469			9	0		1	-1	0.86	11.0		http://publichealth.lacounty.gov/
+Archer_County,_Texas	Archer County, Texas	2021-02-08		11	753	747		0	0	0	0	0	0.14	0.86	0.86	https://www.dshs.state.tx.us/
+Archuleta_County,_Colorado	Archuleta County, Colorado	2021-02-08		1	616			0	0		-3	0	0.0	1.71		https://covid19.colorado.gov/
+Arenac_County,_Michigan	Arenac County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	24	730			5	0	0	5	0	0.14	3.86		https://www.michigan.gov/
+Arica_y_Parinacota_Region	Arica y Parinacota Region	2021-02-08	2021-02-08T04:00:00.000Z	265	13638	12748		90	1	89	-11	-2	1.29	81.71	93.71	https://www.minsal.cl/
+Arizona	Arizona	2021-02-08	2021-02-08T16:00:00.000Z	14055	782887		3975900	2250	7	7	706	-30	133.0	2963.14		https://azdhs.gov/
+Arkansas	Arkansas	2021-02-08		5106	307373	286917	2926477	637	30	1611	-35	15	30.14	1554.14	1716.14	https://www.healthy.arkansas.gov/
+Arkansas_County,_Arkansas	Arkansas County, Arkansas	2021-02-08		37	1884	1692	21134	3	0	23	-8	0	0.14	15.29	14.86	https://www.healthy.arkansas.gov/
+Arkhangelsk_Oblast	Arkhangelsk Oblast	2021-02-08	2021-02-08T07:30:00.000Z	500	53130	46424		231	4	362	-4	-2	3.57	237.86	344.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Arlington_County,_Virginia	Arlington County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	207	12262			41	1		-30	0	0.86	70.43		http://www.vdh.virginia.gov/
+Arlington,_Massachusetts	Arlington, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1416		79357	0			0			9.14		https://www.mass.gov/
+Armenia	Armenia	2021-02-08	2021-02-08T11:00:00.000Z	3123	168177	159876	666195	89	6	156	-62	3	5.57	155.57	296.57	https://ncdc.am/
+Armstrong_County,_Pennsylvania	Armstrong County, Pennsylvania	2021-02-08		114	4702		17810	11	0		0	-1	0.29	12.57		https://www.health.pa.gov/
+Armstrong_County,_Texas	Armstrong County, Texas	2021-02-08		6	142	125		0	0	1	0	0	0.0	0.43	1.29	https://www.dshs.state.tx.us/
+Aroostook_County,_Maine	Aroostook County, Maine	2021-02-08	2021-02-08T15:00:00.000Z	43	1194	194		4	0	5	2	0	0.57	6.86	2.43	https://www.maine.gov/
+Artesia,_California	Artesia, California	2021-02-08	2021-02-08T01:00:00.000Z	44	1900			1	0		-11	-1	0.29	8.14		http://publichealth.lacounty.gov/
+Arthur_County,_Nebraska	Arthur County, Nebraska	2021-02-08		0	22		69	0	0		0	0	0.0	0.0		http://dhhs.ne.gov/
+Ascension_Parish,_Louisiana	Ascension Parish, Louisiana	2021-02-08		141	10624		93392	23	0		-5	0	0.57	42.71		http://ldh.la.gov/
+Ashburnham,_Massachusetts	Ashburnham, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		303		8231	0			0			2.57		https://www.mass.gov/
+Ashby,_Massachusetts	Ashby, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		130		2963	0			0			1.14		https://www.mass.gov/
+Ashe_County,_North_Carolina	Ashe County, North Carolina	2021-02-08		36	1750			0	0		-12	0	0.29	8.86		https://www.ncdhhs.gov/
+Ashfield,_Massachusetts	Ashfield, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		25		1674	0			0			0.0		https://www.mass.gov/
+Ashland_County,_Ohio	Ashland County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	39	3634			3	0		-7	0	0.14	7.86		https://coronavirus.ohio.gov/
+Ashland_County,_Wisconsin	Ashland County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	16	1225		7786	1	0		1	0	0.0	2.14		https://www.dhs.wisconsin.gov/
+Ashland,_Massachusetts	Ashland, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1183		29212	0			0			6.29		https://www.mass.gov/
+Ashley_County,_Arkansas	Ashley County, Arkansas	2021-02-08		29	1698	1596	15593	3	0	5	0	0	0.29	7.14	9.71	https://www.healthy.arkansas.gov/
+Ashtabula_County,_Ohio	Ashtabula County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	80	5009			30	0		21	0	0.71	41.0		https://coronavirus.ohio.gov/
+Asotin_County,_Washington	Asotin County, Washington	2021-02-08	2021-02-08T23:55:00.000Z	26	1245			3	0		3	0	0.0	1.29		https://coronavirus.wa.gov/
+Assumption_Parish,_Louisiana	Assumption Parish, Louisiana	2021-02-08		32	2036		21365	8	0		-6	0	0.14	13.0		http://ldh.la.gov/
+Astrakhan_Oblast	Astrakhan Oblast	2021-02-08	2021-02-08T07:30:00.000Z	504	25729	15958		152	3	73	-1	0	2.57	157.0	93.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Atacama_Region	Atacama Region	2021-02-08	2021-02-08T04:00:00.000Z	134	10744	10206		71	1	73	12	-1	0.71	62.57	71.0	https://www.minsal.cl/
+Atascosa_County,_Texas	Atascosa County, Texas	2021-02-08		118	4866	4543		0	0	40	0	-1	1.86	39.57	51.86	https://www.dshs.state.tx.us/
+Atchison_County,_Kansas	Atchison County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		1480			4			4			4.43		https://www.coronavirus.kdheks.gov
+Atchison_County,_Missouri	Atchison County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	6	290		2278	0	0		0	0	0.0	0.14		https://health.mo.gov
+Athens_County,_Ohio	Athens County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	12	4230			9	1		3	1	0.43	24.29		https://coronavirus.ohio.gov/
+Athol,_Massachusetts	Athol, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		519		16244	0			0			2.71		https://www.mass.gov/
+Atkinson_County,_Georgia	Atkinson County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	15	953			0	0		-3	0	0.14	1.71		https://dph.georgia.gov/
+Atlantic_County,_New_Jersey	Atlantic County, New Jersey	2021-02-08		508	22745			58	1	1	-83	1	4.57	146.71		https://www.nj.gov/
+Atoka_County,_Oklahoma	Atoka County, Oklahoma	2021-02-08		10	1686	1609		1	0	3	-5	0	0.14	5.14	7.71	https://coronavirus.health.ok.gov/
+Attala_County,_Mississippi	Attala County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	67	2034			3	0		2	0	0.29	3.57		https://msdh.ms.gov/
+Attleboro,_Massachusetts	Attleboro, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		3200		54690	0			0			23.14		https://www.mass.gov/
+Atyrau_Region	Atyrau Region	2021-02-08		128	16467	15423		43	0	44	-1	0	0.14	53.57	86.57	https://www.coronavirus2020.kz/
+Auburn,_Massachusetts	Auburn, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1261		25718	0			0			6.43		https://www.mass.gov/
+Audrain_County,_Missouri	Audrain County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	51	2046		22878	2	0		2	0	0.14	4.14		https://health.mo.gov
+Audubon_County,_Iowa	Audubon County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	9	445	390	2333	1	0	0	-1	0	0.14	1.57	1.86	https://idph.iowa.gov
+Auglaize_County,_Ohio	Auglaize County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	67	4416			3	0		-5	0	0.14	11.57		https://coronavirus.ohio.gov/
+Augusta_County,_Virginia	Augusta County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	50	4931			34	0		17	0	0.29	22.57		http://www.vdh.virginia.gov/
+Aurora_County,_South_Dakota	Aurora County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	15	450	428	1284	-1	0	1	-1	0	-0.14	-0.14	1.0	https://doh.sd.gov/
+Austin_County,_Texas	Austin County, Texas	2021-02-08		26	1677	1537		10	0	0	6	0	0.0	13.0	10.14	https://www.dshs.state.tx.us/
+Australia	Australia	2021-02-08	2021-02-08T00:00:00.000Z	909	28857	27897	13314092	7	0	8	5	0	0.0	5.57	6.71	https://www.health.gov.au/
+Austria	Austria	2021-02-08	2021-02-08T14:02:00.000Z	7940	421452	392751	10313170	865	34	1007	-224	12	32.86	1361.57	1371.14	https://info.gesundheitsministerium.at/
+Autauga_County,_Alabama	Autauga County, Alabama	2021-02-08		77	5881			12	0		-1	0	1.14	28.29		https://covid19.alabama.gov/
+Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2021-02-08		8363		34137			61	153		42	35.14		170.29	https://www.santepubliquefrance.fr/
+Avalon,_California	Avalon, California	2021-02-08	2021-02-08T01:00:00.000Z	0	13			0	0		0	0	0.0	0.0		http://publichealth.lacounty.gov/
+Avery_County,_North_Carolina	Avery County, North Carolina	2021-02-08		17	1732			7	0		-1	0	0.14	6.86		https://www.ncdhhs.gov/
+Avon,_Massachusetts	Avon, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		373		5998	0			0			2.29		https://www.mass.gov/
+Avoyelles_Parish,_Louisiana	Avoyelles Parish, Louisiana	2021-02-08		116	3563		56466	12	0		-15	-1	0.29	12.29		http://ldh.la.gov/
+Ayer,_Massachusetts	Ayer, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		680		14753	0			0			2.57		https://www.mass.gov/
+Aysén_Region	Aysén Region	2021-02-08	2021-02-08T04:00:00.000Z	23	2693	2530		31	0	45	0	-2	0.43	23.43	31.57	https://www.minsal.cl/
+Azerbaijan	Azerbaijan	2021-02-08	2021-02-08T21:10:00.000Z	3161	231198	225348	2456650	44	3	102	-88	1	3.57	128.86	267.57	https://its.gov.az/
+Azusa,_California	Azusa, California	2021-02-08	2021-02-08T01:00:00.000Z	89	5890			14	0		-1	0	0.71	19.0		http://publichealth.lacounty.gov/
+Bắc_Giang_Province	Bắc Giang Province	2021-02-08	2021-02-08T00:00:00.000Z	0	21	20		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Bạc_Liêu_Province	Bạc Liêu Province	2021-02-08	2021-02-08T00:00:00.000Z	0	52	52		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Bắc_Ninh_Province	Bắc Ninh Province	2021-02-08	2021-02-08T00:00:00.000Z	0	12	8		0	0	0	0	0	0.0	0.14	0.0	https://ncov.moh.gov.vn/
+Baca_County,_Colorado	Baca County, Colorado	2021-02-08		3	269			0	0		0	0	0.0	0.71		https://covid19.colorado.gov/
+Bacon_County,_Georgia	Bacon County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	32	1333			0	1		0	1	0.14	3.29		https://dph.georgia.gov/
+Baden_District,_Austria	Baden District, Austria	2021-02-08	2021-02-08T21:00:00.000Z	86	5543	5126		12	0	24	-32	0	0.43	25.14	24.0	https://info.gesundheitsministerium.at/
+Bahia	Bahia	2021-02-08	2021-02-08T22:00:00.000Z	10412	609755			1809	39		-75	0	39.43	2931.57		https://covid.saude.gov.br/
+Bahrain	Bahrain	2021-02-08	2021-02-08T00:00:00.000Z	382	107329	101168	2805255	616	2	396	101	0	0.86	610.29	367.0	https://www.moh.gov.bh/COVID19
+Bailey_County,_Texas	Bailey County, Texas	2021-02-08		16	767	741		0	0	1	0	0	0.0	0.29	2.14	https://www.dshs.state.tx.us/
+Baker_County,_Florida	Baker County, Florida	2021-02-08		54	3159		13604	16	0		4	0	0.86	16.0		https://floridahealthcovid19.gov/
+Baker_County,_Georgia	Baker County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	6	212			0	0		0	0	0.0	0.57		https://dph.georgia.gov/
+Baker_County,_Oregon	Baker County, Oregon	2021-02-08	2021-02-08T08:00:00.000Z	7	605		8913	5	0		5	0	0.29	2.29		https://govstatus.egov.com/OR-OHA-COVID-19
+Baldwin_County,_Alabama	Baldwin County, Alabama	2021-02-08		227	18763			40	0		-15	0	0.43	78.86		https://covid19.alabama.gov/
+Baldwin_County,_Georgia	Baldwin County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	96	4088			5	0		-5	0	0.29	17.29		https://dph.georgia.gov/
+Baldwin_Park,_California	Baldwin Park, California	2021-02-08	2021-02-08T01:00:00.000Z	237	12374			33	1		6	1	2.71	38.29		http://publichealth.lacounty.gov/
+Ballard_County,_Kentucky	Ballard County, Kentucky	2021-02-08		5	322			3	0		2	0	0.29	1.71		https://govstatus.egov.com/
+Baltimore	Baltimore	2021-02-08		816	38828			95	3		-54	-1	2.29	114.86		https://coronavirus.maryland.gov/
+Baltimore_County,_Maryland	Baltimore County, Maryland	2021-02-08		1152	48568			91	4		-104	0	4.86	152.29		https://coronavirus.maryland.gov/
+Bamberg_County,_South_Carolina	Bamberg County, South Carolina	2021-02-08		46	1255			7	2		0	2	0.29	7.14		https://www.scdhec.gov/
+Bandera_County,_Texas	Bandera County, Texas	2021-02-08		22	1125	1015		0	0	9	0	0	0.0	15.86	14.86	https://www.dshs.state.tx.us/
+Banks_County,_Georgia	Banks County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	29	1603			2	0		-2	0	0.0	6.43		https://dph.georgia.gov/
+Banner_County,_Nebraska	Banner County, Nebraska	2021-02-08		0	30		109	0	0		0	0	0.0	0.29		http://dhhs.ne.gov/
+Bannock_County,_Idaho	Bannock County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	90	7503			31	3		31	3	0.71	18.86		https://coronavirus.idaho.gov/
+Banteay_Meanchey_Province	Banteay Meanchey Province	2021-02-08	2021-02-08T07:00:00.000Z		56			0			0			0.0		http://www.cdcmoh.gov.kh/
+Baraga_County,_Michigan	Baraga County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	31	591			0	0	0	0	0	0.0	1.57		https://www.michigan.gov/
+Barber_County,_Kansas	Barber County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		365			0			0			0.43		https://www.coronavirus.kdheks.gov
+Barbour_County,_Alabama	Barbour County, Alabama	2021-02-08		45	2008			0	0		-6	0	0.71	7.43		https://covid19.alabama.gov/
+Barbour_County,_West_Virginia	Barbour County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	18	1153	1088	20174	0	0	5	-7	0	0.0	5.71	6.29	https://dhhr.wv.gov/
+Barnes_County,_North_Dakota	Barnes County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	31	1276	1243	5355	0	0	0	0	0	0.0	-0.14	0.14	https://www.health.nd.gov/
+Barnstable_County,_Massachusetts	Barnstable County, Massachusetts	2021-02-08	2021-02-08T16:00:00.000Z	358	9339			37	4		-46	1	2.29	85.71		https://www.mass.gov/
+Barnstable,_Massachusetts	Barnstable, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		2647		52146	0			0			18.71		https://www.mass.gov/
+Barnwell_County,_South_Carolina	Barnwell County, South Carolina	2021-02-08		43	1961			7	0		-7	0	0.0	7.86		https://www.scdhec.gov/
+Barre,_Massachusetts	Barre, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		222		5885	0			0			2.0		https://www.mass.gov/
+Barren_County,_Kentucky	Barren County, Kentucky	2021-02-08		52	3669			14	7		-9	5	1.86	23.0		https://govstatus.egov.com/
+Barrington,_Rhode_Island	Barrington, Rhode Island	2021-02-08	2021-02-03T14:16:00.000Z		1008		9835	0			0			6.29		https://health.ri.gov/
+Barron_County,_Wisconsin	Barron County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	72	5331		23526	6	0		1	0	0.14	10.14		https://www.dhs.wisconsin.gov/
+Barrow_County,_Georgia	Barrow County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	104	8347			23	0		-7	0	1.29	39.71		https://dph.georgia.gov/
+Barry_County,_Michigan	Barry County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	41	3610			7	0	0	7	0	0.14	8.57		https://www.michigan.gov/
+Barry_County,_Missouri	Barry County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	43	2146		17510	3	0		-2	0	0.29	4.86		https://health.mo.gov
+Bartholomew_County,_Indiana	Bartholomew County, Indiana	2021-02-08		138	7044		36760	15	0		-5	0	0.29	27.43		https://coronavirus.in.gov/
+Barton_County,_Kansas	Barton County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		2536			9			9			4.43		https://www.coronavirus.kdheks.gov
+Barton_County,_Missouri	Barton County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	10	934		5987	0	0		-1	0	0.14	2.0		https://health.mo.gov
+Bartow_County,_Georgia	Bartow County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	177	11776			45	0		-6	0	1.43	69.14		https://dph.georgia.gov/
+Bashkortostan	Bashkortostan	2021-02-08	2021-02-08T07:30:00.000Z	208	25566	19368		163	4	54	-1	0	2.86	164.86	132.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Basilicata	Basilicata	2021-02-08		343	13701	10090	221863	15	3	36	-62	0	2.43	65.29	303.71	http://www.salute.gov.it/
+Bastrop_County,_Texas	Bastrop County, Texas	2021-02-08		67	8066	6024		63	0	18	61	0	0.29	82.29	55.57	https://www.dshs.state.tx.us/
+Bates_County,_Missouri	Bates County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	19	1056		7875	2	0		1	0	0.43	2.71		https://health.mo.gov
+Bath_and_North_East_Somerset	Bath and North East Somerset	2021-02-08			7692			11			1			23.29		https://www.gov.uk/
+Bath_County,_Kentucky	Bath County, Kentucky	2021-02-08		15	716			0	0		0	0	0.14	2.29		https://govstatus.egov.com/
+Bath_County,_Virginia	Bath County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	8	245			0	0		-1	0	0.0	0.71		http://www.vdh.virginia.gov/
+Battambang_Province	Battambang Province	2021-02-08	2021-02-08T07:00:00.000Z		26			0			0			0.0		http://www.cdcmoh.gov.kh/
+Baxter_County,_Arkansas	Baxter County, Arkansas	2021-02-08		95	2724	2520	19726	2	0	11	1	0	0.0	11.14	10.86	https://www.healthy.arkansas.gov/
+Bay_County,_Florida	Bay County, Florida	2021-02-08		307	17515		77396	20	0		-43	-3	2.43	120.29		https://floridahealthcovid19.gov/
+Bay_County,_Michigan	Bay County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	274	7214			22	0	0	22	0	1.43	12.57		https://www.michigan.gov/
+Bayfield_County,_Wisconsin	Bayfield County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	18	1122		7549	4	0		2	0	0.0	4.29		https://www.dhs.wisconsin.gov/
+Baylor_County,_Texas	Baylor County, Texas	2021-02-08		11	291	287		0	0	0	0	0	0.0	0.43	1.0	https://www.dshs.state.tx.us/
+Beadle_County,_South_Dakota	Beadle County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	39	2624	2526	8209	1	0	0	-1	0	0.0	2.0	2.14	https://doh.sd.gov/
+Bear_Lake_County,_Idaho	Bear Lake County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	2	335			1	0		1	0	0.0	1.0		https://coronavirus.idaho.gov/
+Beaufort_County,_North_Carolina	Beaufort County, North Carolina	2021-02-08		76	3959			14	0		-4	-3	0.71	22.43		https://www.ncdhhs.gov/
+Beaufort_County,_South_Carolina	Beaufort County, South Carolina	2021-02-08		159	13240			44	1		-11	0	1.0	86.71		https://www.scdhec.gov/
+Beauregard_Parish,_Louisiana	Beauregard Parish, Louisiana	2021-02-08		62	2695		24578	11	0		0	0	0.14	10.57		http://ldh.la.gov/
+Beaver_County,_Oklahoma	Beaver County, Oklahoma	2021-02-08		4	396	370		1	0	1	1	0	0.0	1.43	2.43	https://coronavirus.health.ok.gov/
+Beaver_County,_Pennsylvania	Beaver County, Pennsylvania	2021-02-08		329	11315		52580	21	-1		-8	-2	0.86	42.29		https://www.health.pa.gov/
+Beaver_County,_Utah	Beaver County, Utah	2021-02-08	2021-02-08T00:00:00.000Z	4	592			6	0		6	0	0.0	4.0		https://swuhealth.org/covid/
+Beaverhead_County,_Montana	Beaverhead County, Montana	2021-02-08		8	853			0	0		0	0	0.0	0.14		https://dphhs.mt.gov/
+Becker_County,_Minnesota	Becker County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	41	2969			3	0		-12	-1	0.14	5.57		https://www.health.state.mn.us/
+Becket,_Massachusetts	Becket, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		51		1980	0			0			0.71		https://www.mass.gov/
+Beckham_County,_Oklahoma	Beckham County, Oklahoma	2021-02-08		33	2585	2393		1	0	11	-7	-1	0.29	14.29	16.14	https://coronavirus.health.ok.gov/
+Bedford_County,_Pennsylvania	Bedford County, Pennsylvania	2021-02-08		125	3698		11212	8	0		3	-1	0.57	8.43		https://www.health.pa.gov/
+Bedford_County,_Tennessee	Bedford County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	110	5642		33649	1	1	1	-11	1	1.29	12.29		https://www.tn.gov/
+Bedford_County,_Virginia	Bedford County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	41	5421			6	0		-18	0	0.29	31.0		http://www.vdh.virginia.gov/
+Bedford,_Massachusetts	Bedford, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		691		29438	0			0			3.0		https://www.mass.gov/
+Bee_County,_Texas	Bee County, Texas	2021-02-08		59	3352	3044		0	0	0	-12	-1	0.43	12.43	15.86	https://www.dshs.state.tx.us/
+Belarus	Belarus	2021-02-08	2021-02-08T04:00:00.000Z	1792	259499	247703	4586633	808	9	526	-924	-1	9.14	1457.71	1598.14	http://stopcovid.belta.by/
+Belchertown,_Massachusetts	Belchertown, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		637		23882	0			0			5.29		https://www.mass.gov/
+Belgium	Belgium	2021-02-08	2021-02-08T00:00:00.000Z	21389	725610		8599012	1740	37	37	-698	-20	42.43	2208.14		https://epistat.wiv-isp.be/Covid/
+Belgorod_Oblast	Belgorod Oblast	2021-02-08	2021-02-08T07:30:00.000Z	412	28789	25930		161	3	19	-7	-1	5.29	167.0	144.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Belknap_County,_New_Hampshire	Belknap County, New Hampshire	2021-02-08	2021-02-08T14:00:00.000Z	90	2933			4	0		-6	-1	0.29	14.86		https://www.nh.gov/
+Bell_County,_Kentucky	Bell County, Kentucky	2021-02-08		33	2519			5	0		-7	0	0.14	11.71		https://govstatus.egov.com/
+Bell_County,_Texas	Bell County, Texas	2021-02-08		297	19602	17989		0	2	0	0	2	4.43	124.71	180.14	https://www.dshs.state.tx.us/
+Bell_Gardens,_California	Bell Gardens, California	2021-02-08	2021-02-08T01:00:00.000Z	79	7818			12	0		-2	-1	0.86	22.43		http://publichealth.lacounty.gov/
+Bell,_California	Bell, California	2021-02-08	2021-02-08T01:00:00.000Z	87	6370			12	0		-11	0	0.57	22.57		http://publichealth.lacounty.gov/
+Bellflower,_California	Bellflower, California	2021-02-08	2021-02-08T01:00:00.000Z	147	10027			19	1		-12	-2	3.14	31.29		http://publichealth.lacounty.gov/
+Bellingham,_Massachusetts	Bellingham, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		837		17154	0			0			7.57		https://www.mass.gov/
+Belmont_County,_Ohio	Belmont County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	51	4630			36	0		31	0	0.43	27.86		https://coronavirus.ohio.gov/
+Belmont,_Massachusetts	Belmont, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		935		48429	0			0			4.43		https://www.mass.gov/
+Beltrami_County,_Minnesota	Beltrami County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	48	3251			3	0		2	0	0.0	5.71		https://www.health.state.mn.us/
+Ben_Hill_County,_Georgia	Ben Hill County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	67	1979			1	0		1	0	0.14	2.57		https://dph.georgia.gov/
+Bến_Tre_Province	Bến Tre Province	2021-02-08	2021-02-08T00:00:00.000Z	0	2	1		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Benewah_County,_Idaho	Benewah County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	7	536			0	0		0	0	0.0	0.29		https://coronavirus.idaho.gov/
+Bennett_County,_South_Dakota	Bennett County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	9	378	363	1517	0	0	0	-1	0	0.0	0.14	0.0	https://doh.sd.gov/
+Bennington_County,_Vermont	Bennington County, Vermont	2021-02-08		5	1223			19	0		4	0	0.14	18.0		https://www.healthvermont.gov/
+Benson_County,_North_Dakota	Benson County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	18	1024	1006	4031	0	0	0	0	0	0.0	0.14	0.57	https://www.health.nd.gov/
+Bent_County,_Colorado	Bent County, Colorado	2021-02-08		20	1327			-1	0		-1	0	0.0	5.29		https://covid19.colorado.gov/
+Benton_County,_Arkansas	Benton County, Arkansas	2021-02-08		370	26005	24425	206201	46	1	131	-22	0	2.86	117.86	133.86	https://www.healthy.arkansas.gov/
+Benton_County,_Indiana	Benton County, Indiana	2021-02-08		11	900		4270	1	0		0	0	0.0	1.43		https://coronavirus.in.gov/
+Benton_County,_Iowa	Benton County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	52	2225	2003	11274	3	0	0	-2	0	0.14	6.57	6.71	https://idph.iowa.gov
+Benton_County,_Minnesota	Benton County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	89	4347			8	0		3	0	0.14	7.57		https://www.health.state.mn.us/
+Benton_County,_Mississippi	Benton County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	24	908			0	0		-6	0	0.14	2.14		https://msdh.ms.gov/
+Benton_County,_Missouri	Benton County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	23	1419		13577	2	0		2	0	0.43	3.86		https://health.mo.gov
+Benton_County,_Oregon	Benton County, Oregon	2021-02-08	2021-02-08T08:00:00.000Z	14	2048		98422	35	0		35	0	0.0	18.71		https://govstatus.egov.com/OR-OHA-COVID-19
+Benton_County,_Tennessee	Benton County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	37	1396		9720	0	0	0	0	0	0.29	3.14		https://www.tn.gov/
+Benton_County,_Washington	Benton County, Washington	2021-02-08	2021-02-08T23:55:00.000Z	191	14465			108	0		108	0	0.57	50.71		https://coronavirus.wa.gov/
+Benzie_County,_Michigan	Benzie County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	31	881			4	0	0	4	0	0.14	2.71		https://www.michigan.gov/
+Bergen_County,_New_Jersey	Bergen County, New Jersey	2021-02-08		2510	70209			224	4	4	-262	4	4.14	371.43		https://www.nj.gov/
+Berkeley_County,_South_Carolina	Berkeley County, South Carolina	2021-02-08		154	11805			54	1		-25	1	1.29	74.0		https://www.scdhec.gov/
+Berkeley_County,_West_Virginia	Berkeley County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	91	9241	7705	94215	42	2	118	-1	2	1.14	38.43	115.43	https://dhhr.wv.gov/
+Berkley,_Massachusetts	Berkley, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		557		8295	0			0			4.86		https://www.mass.gov/
+Berks_County,_Pennsylvania	Berks County, Pennsylvania	2021-02-08		843	33625		132417	95	5		-71	3	5.57	130.29		https://www.health.pa.gov/
+Berkshire_County,_Massachusetts	Berkshire County, Massachusetts	2021-02-08	2021-02-08T16:00:00.000Z	234	4650			11	4		-9	3	2.43	16.71		https://www.mass.gov/
+Berlin,_Massachusetts	Berlin, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		154		4420	0			0			0.86		https://www.mass.gov/
+Bernalillo_County,_New_Mexico	Bernalillo County, New Mexico	2021-02-08		790	50357			120	0		22	-2	3.14	135.0		https://cv.nmhealth.org
+Bernardston,_Massachusetts	Bernardston, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		36		2911	0			0			0.0		https://www.mass.gov/
+Berrien_County,_Georgia	Berrien County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	37	1588			2	0		-4	0	0.29	7.71		https://dph.georgia.gov/
+Berrien_County,_Michigan	Berrien County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	226	11075			43	0	0	43	0	0.43	30.57		https://www.michigan.gov/
+Bertie_County,_North_Carolina	Bertie County, North Carolina	2021-02-08		35	1566			5	0		4	0	0.0	4.43		https://www.ncdhhs.gov/
+Bethel_Census_Area,_Alaska	Bethel Census Area, Alaska	2021-02-08			22			0			0			0.0		http://www.dhss.alaska.gov/
+Beverly_Hills,_California	Beverly Hills, California	2021-02-08	2021-02-08T01:00:00.000Z	24	2318			4	0		-2	0	0.14	10.0		http://publichealth.lacounty.gov/
+Beverly,_Massachusetts	Beverly, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		2719		104303	0			0			11.86		https://www.mass.gov/
+Bexar_County,_Texas	Bexar County, Texas	2021-02-08		2534	183201	153812		2190	7	626	1565	-11	26.43	1435.29	1518.14	https://www.dshs.state.tx.us/
+Bibb_County,_Alabama	Bibb County, Alabama	2021-02-08		53	2346			7	0		2	0	0.14	5.29		https://covid19.alabama.gov/
+Bibb_County,_Georgia	Bibb County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	345	13810			28	1		-12	1	2.71	68.86		https://dph.georgia.gov/
+Bienville_Parish,_Louisiana	Bienville Parish, Louisiana	2021-02-08		68	1546		23199	2	0		-5	-1	0.29	3.57		http://ldh.la.gov/
+Big_Horn_County,_Montana	Big Horn County, Montana	2021-02-08		68	2312			7	0		1	0	-0.14	8.0		https://dphhs.mt.gov/
+Big_Horn_County,_Wyoming	Big Horn County, Wyoming	2021-02-08	2021-02-08T22:00:00.000Z	28	841	964		5	0	4	7	0	0.0	4.29	5.86	https://health.wyo.gov/
+Big_Stone_County,_Minnesota	Big Stone County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	3	484			1	0		-1	0	0.0	1.86		https://www.health.state.mn.us/
+Billerica,_Massachusetts	Billerica, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		2931		57915	0			0			14.57		https://www.mass.gov/
+Billings_County,_North_Dakota	Billings County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	0	53	53	352	0	0	0	0	0	0.0	0.0	0.0	https://www.health.nd.gov/
+Bingham_County,_Idaho	Bingham County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	59	4103			4	0		4	0	0.0	6.29		https://coronavirus.idaho.gov/
+Bình_Thuận_Province	Bình Thuận Province	2021-02-08	2021-02-08T00:00:00.000Z	0	10	10		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Biobío_Region	Biobío Region	2021-02-08	2021-02-08T04:00:00.000Z	1134	64001	60284		396	11	324	0	3	8.71	366.43	382.71	https://www.minsal.cl/
+Birmingham	Birmingham	2021-02-08			90835			49			-217			368.86		https://www.gov.uk/
+Black_Hawk_County,_Iowa	Black Hawk County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	265	14558	13255	64055	5	0	1	-26	0	0.57	25.0	53.86	https://idph.iowa.gov
+Blackburn_with_Darwen	Blackburn with Darwen	2021-02-08			16425			10			-36			51.57		https://www.gov.uk/
+Blackford_County,_Indiana	Blackford County, Indiana	2021-02-08		27	1179		5335	0	0		-1	0	0.0	5.57		https://coronavirus.in.gov/
+Blackpool	Blackpool	2021-02-08			8408			5			-25			31.86		https://www.gov.uk/
+Blackstone,_Massachusetts	Blackstone, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		462		9246	0			0			3.86		https://www.mass.gov/
+Bladen_County,_North_Carolina	Bladen County, North Carolina	2021-02-08		35	2748			8	0		-5	0	0.14	16.43		https://www.ncdhhs.gov/
+Blaine_County,_Idaho	Blaine County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	14	2057			23	0		23	0	0.0	12.71		https://coronavirus.idaho.gov/
+Blaine_County,_Montana	Blaine County, Montana	2021-02-08		24	690			0	0		0	0	0.0	2.86		https://dphhs.mt.gov/
+Blaine_County,_Nebraska	Blaine County, Nebraska	2021-02-08		0	19		102	0	0		0	0	0.0	0.0		http://dhhs.ne.gov/
+Blaine_County,_Oklahoma	Blaine County, Oklahoma	2021-02-08		7	960	841		3	0	7	-1	0	0.14	8.0	6.57	https://coronavirus.health.ok.gov/
+Blair_County,_Pennsylvania	Blair County, Pennsylvania	2021-02-08		275	10221		41558	27	0		5	-2	2.71	36.29		https://www.health.pa.gov/
+Blanco_County,_Texas	Blanco County, Texas	2021-02-08		15	649	446		2	0	1	2	0	0.29	7.0	1.0	https://www.dshs.state.tx.us/
+Bland_County,_Virginia	Bland County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	9	608			0	0		0	0	0.0	0.71		http://www.vdh.virginia.gov/
+Blandford,_Massachusetts	Blandford, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		44		1118	0			0			0.14		https://www.mass.gov/
+Bleckley_County,_Georgia	Bleckley County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	43	1354			2	0		-2	0	0.0	5.43		https://dph.georgia.gov/
+Bledsoe_County,_Tennessee	Bledsoe County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	11	1884		15689	1	0	0	-1	0	0.0	6.86		https://www.tn.gov/
+Blount_County,_Alabama	Blount County, Alabama	2021-02-08		112	5920			5	0		-2	0	1.71	28.57		https://covid19.alabama.gov/
+Blount_County,_Tennessee	Blount County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	158	13016		77094	32	0	0	-18	0	2.0	49.71		https://www.tn.gov/
+Bludenz_District	Bludenz District	2021-02-08	2021-02-08T21:00:00.000Z	43	3281	3138		7	0	5	-2	0	0.43	8.29	9.0	https://info.gesundheitsministerium.at/
+Blue_Earth_County,_Minnesota	Blue Earth County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	34	5627			8	0		-3	0	0.14	10.14		https://www.health.state.mn.us/
+Boise_County,_Idaho	Boise County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	2	295			0	0		0	0	0.0	1.0		https://coronavirus.idaho.gov/
+Bolivar_County,_Mississippi	Bolivar County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	112	4430			12	0		5	0	0.14	15.43		https://msdh.ms.gov/
+Bollinger_County,_Missouri	Bollinger County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	12	1045		6537	1	0		-1	0	0.0	1.86		https://health.mo.gov
+Bolton,_Massachusetts	Bolton, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		131		7664	0			0			0.71		https://www.mass.gov/
+Bon_Homme_County,_South_Dakota	Bon Homme County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	24	1499	1473	3501	0	0	0	0	0	-0.14	-0.14	0.43	https://doh.sd.gov/
+Bond_County,_Illinois	Bond County, Illinois	2021-02-08		22	1831		20952	0	0		-2	-1	0.14	3.14		http://www.dph.illinois.gov/
+Bonner_County,_Idaho	Bonner County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	29	2827			9	0		9	0	0.29	15.0		https://coronavirus.idaho.gov/
+Bonneville_County,_Idaho	Bonneville County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	140	11610			21	0		21	0	0.57	18.0		https://coronavirus.idaho.gov/
+Boone_County,_Arkansas	Boone County, Arkansas	2021-02-08		76	3486	3211	32371	15	0	25	12	0	0.29	20.0	24.57	https://www.healthy.arkansas.gov/
+Boone_County,_Illinois	Boone County, Illinois	2021-02-08		74	5800		48139	5	1		-8	1	0.57	10.86		http://www.dph.illinois.gov/
+Boone_County,_Indiana	Boone County, Indiana	2021-02-08		86	5853		30679	17	0		4	0	0.14	17.71		https://coronavirus.in.gov/
+Boone_County,_Iowa	Boone County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	25	2326	2082	12260	4	0	0	3	0	0.14	5.71	17.0	https://idph.iowa.gov
+Boone_County,_Kentucky	Boone County, Kentucky	2021-02-08		66	11498			24	0		-41	0	1.57	97.43		https://govstatus.egov.com/
+Boone_County,_Missouri	Boone County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	69	15593		170700	8	0		-24	0	1.14	34.86		https://health.mo.gov
+Boone_County,_Nebraska	Boone County, Nebraska	2021-02-08		4	480		2113	1	0		1	0	0.0	0.86		http://dhhs.ne.gov/
+Boone_County,_West_Virginia	Boone County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	30	1484	1328	21841	3	0	11	-4	0	0.0	7.57	12.29	https://dhhr.wv.gov/
+Borden_County,_Texas	Borden County, Texas	2021-02-08		2	17	18		0	0	0	0	0	0.29	0.0	0.0	https://www.dshs.state.tx.us/
+Borough_of_Bedford	Borough of Bedford	2021-02-08			12322			2			-47			56.29		https://www.gov.uk/
+Borough_of_Darlington	Borough of Darlington	2021-02-08			6424			12			-14			26.71		https://www.gov.uk/
+Borough_of_Halton	Borough of Halton	2021-02-08			11101			21			-21			44.14		https://www.gov.uk/
+Borough_of_Hartlepool	Borough of Hartlepool	2021-02-08			7928			8			-16			22.86		https://www.gov.uk/
+Borough_of_Milton_Keynes	Borough of Milton Keynes	2021-02-08			18187			13			-31			56.29		https://www.gov.uk/
+Borough_of_Stockton-on-Tees	Borough of Stockton-on-Tees	2021-02-08			13813			19			-22			58.71		https://www.gov.uk/
+Borough_of_Swindon	Borough of Swindon	2021-02-08			9918			14			-9			33.86		https://www.gov.uk/
+Borough_of_Wokingham	Borough of Wokingham	2021-02-08			7563			5			-15			23.29		https://www.gov.uk/
+Bosnia_and_Herzegovina	Bosnia and Herzegovina	2021-02-08	2021-02-08T15:16:00.000Z		124135	98950		427		1822	427			275.86	533.14	https://koronavirususrpskoj.com/
+Bosque_County,_Texas	Bosque County, Texas	2021-02-08		27	1523	1199		7	0	0	3	0	0.29	8.57	4.29	https://www.dshs.state.tx.us/
+Bossier_Parish,_Louisiana	Bossier Parish, Louisiana	2021-02-08		249	12547		146313	58	2		-9	1	0.86	97.43		http://ldh.la.gov/
+Boston	Boston	2021-02-08	2021-02-08T21:00:00.000Z		53889		2347377	0			0			279.43		https://www.mass.gov/
+Botetourt_County,_Virginia	Botetourt County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	22	1946			2	0		-7	0	0.14	9.57		http://www.vdh.virginia.gov/
+Bottineau_County,_North_Dakota	Bottineau County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	20	655	623	2838	0	0	0	-2	0	0.0	1.0	1.14	https://www.health.nd.gov/
+Boulder_County,_Colorado	Boulder County, Colorado	2021-02-08		216	17706			60	0		3	-1	0.43	63.29		https://covid19.colorado.gov/
+Boundary_County,_Idaho	Boundary County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	10	758			3	0		3	0	0.0	4.0		https://coronavirus.idaho.gov/
+Bourbon_County,_Kansas	Bourbon County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		1241			10			10			3.57		https://www.coronavirus.kdheks.gov
+Bourbon_County,_Kentucky	Bourbon County, Kentucky	2021-02-08		6	1475			10	0		5	0	0.29	9.71		https://govstatus.egov.com/
+Bourgogne-Franche-Comté	Bourgogne-Franche-Comté	2021-02-08		3488		12743			19	58		7	18.29		80.43	https://www.santepubliquefrance.fr/
+Bourne,_Massachusetts	Bourne, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		884		28561	0			0			6.0		https://www.mass.gov/
+Bournemouth,_Christchurch_and_Poole	Bournemouth, Christchurch and Poole	2021-02-08			23423			40			-27			112.0		https://www.gov.uk/
+Bowie_County,_Texas	Bowie County, Texas	2021-02-08		162	6156	5464		42	0	19	42	0	0.86	34.43	15.57	https://www.dshs.state.tx.us/
+Bowman_County,_North_Dakota	Bowman County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	4	371	351	1548	0	0	0	-2	0	0.0	1.57	1.0	https://www.health.nd.gov/
+Box_Butte_County,_Nebraska	Box Butte County, Nebraska	2021-02-08		8	879		3374	0	0		0	0	-0.14	1.14		http://dhhs.ne.gov/
+Box_Elder_County,_Utah	Box Elder County, Utah	2021-02-08	2021-02-08T10:00:00.000Z	38	4639	4415	24946	5	0	10	-4	0	0.57	9.14	21.86	https://brhd.org/coronavirus/
+Boxborough,_Massachusetts	Boxborough, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		146		6327	0			0			1.14		https://www.mass.gov/
+Boxford,_Massachusetts	Boxford, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		415		12104	0			0			2.14		https://www.mass.gov/
+Boyd_County,_Kentucky	Boyd County, Kentucky	2021-02-08		40	4420			12	1		-13	-3	0.71	19.71		https://govstatus.egov.com/
+Boyd_County,_Nebraska	Boyd County, Nebraska	2021-02-08		3	172		507	0	0		0	0	0.0	0.0		http://dhhs.ne.gov/
+Boyle_County,_Kentucky	Boyle County, Kentucky	2021-02-08		29	3027			5	0		-4	-1	0.43	8.14		https://govstatus.egov.com/
+Boylston,_Massachusetts	Boylston, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		235		6721	0			0			1.43		https://www.mass.gov/
+Bracken_County,_Kentucky	Bracken County, Kentucky	2021-02-08		4	467			0	0		0	0	0.14	2.71		https://govstatus.egov.com/
+Bracknell_Forest	Bracknell Forest	2021-02-08			6538			7			-9			26.14		https://www.gov.uk/
+Bradbury,_California	Bradbury, California	2021-02-08	2021-02-08T01:00:00.000Z	0	33			0	0		0	0	0.0	0.0		http://publichealth.lacounty.gov/
+Bradford_County,_Florida	Bradford County, Florida	2021-02-08		47	2729		11540	7	1		-5	1	1.0	9.71		https://floridahealthcovid19.gov/
+Bradford_County,_Pennsylvania	Bradford County, Pennsylvania	2021-02-08		73	4073		20362	13	0		-9	0	0.57	19.29		https://www.health.pa.gov/
+Bradley_County,_Arkansas	Bradley County, Arkansas	2021-02-08		29	1293	1222	10688	5	0	9	1	0	0.0	5.86	7.29	https://www.healthy.arkansas.gov/
+Bradley_County,_Tennessee	Bradley County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	128	11984		68515	29	0	0	-14	0	1.86	54.57		https://www.tn.gov/
+Braintree,_Massachusetts	Braintree, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		3155		67618	0			0			16.71		https://www.mass.gov/
+Branch_County,_Michigan	Branch County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	83	3689			8	0	0	8	0	0.29	6.57		https://www.michigan.gov/
+Brantley_County,_Georgia	Brantley County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	26	1436			3	0		1	-1	0.14	7.57		https://dph.georgia.gov/
+Braunau_am_Inn_District	Braunau am Inn District	2021-02-08	2021-02-08T21:00:00.000Z	65	5301	4896		2	0	0	-29	-1	0.43	23.57	9.14	https://info.gesundheitsministerium.at/
+Braxton_County,_West_Virginia	Braxton County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	1	756	703	9650	0	0	4	-1	0	0.0	1.0	7.43	https://dhhr.wv.gov/
+Brazil	Brazil	2021-02-08	2021-02-08T22:00:00.000Z	232170	9548079	8447645		23439	636	50458	-3406	114	1010.14	45536.71	52811.14	https://covid.saude.gov.br/
+Brazoria_County,_Texas	Brazoria County, Texas	2021-02-08		333	30155	25058		-385	1	124	-1092	0	3.43	209.57	282.57	https://www.dshs.state.tx.us/
+Brazos_County,_Texas	Brazos County, Texas	2021-02-08		197	19403	14424		0	0	0	0	-2	2.14	118.71	102.86	https://www.dshs.state.tx.us/
+Breathitt_County,_Kentucky	Breathitt County, Kentucky	2021-02-08		4	874			4	0		-5	0	0.14	5.43		https://govstatus.egov.com/
+Breckinridge_County,_Kentucky	Breckinridge County, Kentucky	2021-02-08		6	1031			5	0		2	-1	0.14	4.0		https://govstatus.egov.com/
+Bremer_County,_Iowa	Bremer County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	52	2578	2361	10985	3	0	0	0	0	0.14	5.29	10.57	https://idph.iowa.gov
+Brevard_County,_Florida	Brevard County, Florida	2021-02-08		681	31006		229360	148	1		-86	-4	3.71	212.57		https://floridahealthcovid19.gov/
+Brewster_County,_Texas	Brewster County, Texas	2021-02-08		10	857	939		1	0	1	-3	0	0.29	3.0	2.57	https://www.dshs.state.tx.us/
+Brewster,_Massachusetts	Brewster, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		337		13154	0			0			3.0		https://www.mass.gov/
+Bridgewater,_Massachusetts	Bridgewater, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		2128		47903	0			0			17.43		https://www.mass.gov/
+Brighton_and_Hove	Brighton and Hove	2021-02-08			13534			7			-6			35.0		https://www.gov.uk/
+Brimfield,_Massachusetts	Brimfield, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		155		3964	0			0			1.43		https://www.mass.gov/
+Briscoe_County,_Texas	Briscoe County, Texas	2021-02-08		4	125	114		0	0	1	0	0	0.0	0.57	1.29	https://www.dshs.state.tx.us/
+Bristol	Bristol	2021-02-08			28027			16			-70			96.57		https://www.gov.uk/
+Bristol_Bay_Borough,_Alaska	Bristol Bay Borough, Alaska	2021-02-08			6			0			0			0.0		http://www.dhss.alaska.gov/
+Bristol_County,_Massachusetts	Bristol County, Massachusetts	2021-02-08	2021-02-08T16:00:00.000Z	1387	52679			134	3		-153	-3	6.14	311.29		https://www.mass.gov/
+Bristol,_Rhode_Island	Bristol, Rhode Island	2021-02-08	2021-02-03T14:16:00.000Z		1904		15133	0			0			14.0		https://health.ri.gov/
+Bristol,_Virginia	Bristol, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	27	1196			1	0		-1	-1	0.43	1.57		http://www.vdh.virginia.gov/
+British_Columbia	British Columbia	2021-02-08	2021-02-08T16:00:00.000Z	1259	70952	65605	0	1236	13	3038	1236	13	10.0	596.14	864.86	https://www.canada.ca/
+Brittany_(administrative_region)	Brittany (administrative region)	2021-02-08		986		4220			9	11		4	9.14		28.71	https://www.santepubliquefrance.fr/
+Broadwater_County,_Montana	Broadwater County, Montana	2021-02-08		4	380			1	0		2	0	0.14	1.86		https://dphhs.mt.gov/
+Brockton,_Massachusetts	Brockton, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		11179		149364	0			0			51.71		https://www.mass.gov/
+Brooke_County,_West_Virginia	Brooke County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	50	1946	1719	21969	3	0	7	0	0	0.29	3.71	13.14	https://dhhr.wv.gov/
+Brookfield,_Massachusetts	Brookfield, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		171		3881	0			0			1.57		https://www.mass.gov/
+Brookings_County,_South_Dakota	Brookings County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	35	3478	3322	14663	3	0	4	-4	0	0.14	7.86	9.71	https://doh.sd.gov/
+Brookline,_Massachusetts	Brookline, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1734		145226	0			0			10.86		https://www.mass.gov/
+Brooklyn	Brooklyn	2021-02-08	2021-02-08T14:00:00.000Z	6083	181611		4113519	1261	19		-195	0	20.0	1220.57		https://coronavirus.health.ny.gov/
+Brooks_County,_Georgia	Brooks County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	40	1210			0	0		-1	0	0.29	4.0		https://dph.georgia.gov/
+Brooks_County,_Texas	Brooks County, Texas	2021-02-08		31	737	660		0	0	0	-4	0	0.0	1.57	3.43	https://www.dshs.state.tx.us/
+Broome_County,_New_York	Broome County, New York	2021-02-08	2021-02-08T14:00:00.000Z	315	13349		343972	44	1		-29	-4	3.29	79.29		https://coronavirus.health.ny.gov/
+Broomfield,_Colorado	Broomfield, Colorado	2021-02-08		72	3539			6	0		-13	0	0.29	16.14		https://covid19.colorado.gov/
+Broward_County,_Florida	Broward County, Florida	2021-02-08		2185	179745		1129462	797	16		-35	9	10.0	870.43		https://floridahealthcovid19.gov/
+Brown_County,_Illinois	Brown County, Illinois	2021-02-08		6	647		19549	0	0		0	0	0.0	0.86		http://www.dph.illinois.gov/
+Brown_County,_Indiana	Brown County, Indiana	2021-02-08		37	924		4047	6	0		3	0	0.0	2.29		https://coronavirus.in.gov/
+Brown_County,_Kansas	Brown County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		1186			1			1			1.0		https://www.coronavirus.kdheks.gov
+Brown_County,_Minnesota	Brown County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	35	2289			8	0		-3	0	0.0	7.71		https://www.health.state.mn.us/
+Brown_County,_Nebraska	Brown County, Nebraska	2021-02-08		2	212		904	0	0		-1	0	0.0	0.14		http://dhhs.ne.gov/
+Brown_County,_Ohio	Brown County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	28	3504			7	0		-6	0	0.86	21.14		https://coronavirus.ohio.gov/
+Brown_County,_South_Dakota	Brown County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	79	5017	4778	17095	1	0	1	-7	0	-0.14	11.0	12.57	https://doh.sd.gov/
+Brown_County,_Texas	Brown County, Texas	2021-02-08		101	3862	3619		0	0	0	0	0	1.71	11.57	47.14	https://www.dshs.state.tx.us/
+Brown_County,_Wisconsin	Brown County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	219	31867		154805	28	0		4	0	0.29	68.43		https://www.dhs.wisconsin.gov/
+Bruck_an_der_Leitha_District	Bruck an der Leitha District	2021-02-08	2021-02-08T21:00:00.000Z	65	3367	3056		4	0	15	-15	0	0.14	13.0	10.57	https://info.gesundheitsministerium.at/
+Brule_County,_South_Dakota	Brule County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	9	680	665	2487	0	0	-1	-1	0	0.14	0.0	0.71	https://doh.sd.gov/
+Brunei	Brunei	2021-02-08	2021-02-08T00:00:00.000Z	3	182	175	94047	1	0	0	1	0	0.0	0.29	0.57	http://www.moh.gov.bn/
+Brunswick_County,_North_Carolina	Brunswick County, North Carolina	2021-02-08		107	7103			56	0		-5	-2	0.71	68.57		https://www.ncdhhs.gov/
+Brunswick_County,_Virginia	Brunswick County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	10	1134			1	0		-5	0	0.14	5.71		http://www.vdh.virginia.gov/
+Bryan_County,_Georgia	Bryan County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	27	2829			6	0		-2	0	0.14	16.71		https://dph.georgia.gov/
+Bryan_County,_Oklahoma	Bryan County, Oklahoma	2021-02-08		51	5544	5053		33	0	29	-2	0	0.86	30.57	34.0	https://coronavirus.health.ok.gov/
+Bryansk_Oblast	Bryansk Oblast	2021-02-08	2021-02-08T07:30:00.000Z	246	30421	28940		165	0	135	1	-1	1.0	167.0	143.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Buchanan_County,_Iowa	Buchanan County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	26	1689	1528	8469	1	0	1	-3	0	0.29	4.86	10.14	https://idph.iowa.gov
+Buchanan_County,_Missouri	Buchanan County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	126	6860		69584	9	0		0	0	0.57	11.29		https://health.mo.gov
+Buchanan_County,_Virginia	Buchanan County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	32	1200			2	0		2	0	0.0	5.43		http://www.vdh.virginia.gov/
+Buckingham_County,_Virginia	Buckingham County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	20	1933			1	0		-14	0	0.43	9.57		http://www.vdh.virginia.gov/
+Buckinghamshire	Buckinghamshire	2021-02-08			28574			36			-44			115.57		https://www.gov.uk/
+Buckland,_Massachusetts	Buckland, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		29		336	0			0			0.0		https://www.mass.gov/
+Bucks_County,_Pennsylvania	Bucks County, Pennsylvania	2021-02-08		1060	41767		240614	170	4		-108	4	3.29	202.57		https://www.health.pa.gov/
+Buena_Vista_County,_Iowa	Buena Vista County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	36	4025	3829	13733	0	0	0	-1	0	0.14	2.43	15.14	https://idph.iowa.gov
+Buena_Vista,_Virginia	Buena Vista, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	12	788			3	0		-1	0	0.0	5.71		http://www.vdh.virginia.gov/
+Buffalo_County,_Nebraska	Buffalo County, Nebraska	2021-02-08		54	4906		21830	2	0		-1	0	0.0	12.14		http://dhhs.ne.gov/
+Buffalo_County,_South_Dakota	Buffalo County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	13	419	403	1300	0	0	0	0	0	0.0	-0.14	0.14	https://doh.sd.gov/
+Buffalo_County,_Wisconsin	Buffalo County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	7	1322		6328	1	0		-1	0	0.0	3.43		https://www.dhs.wisconsin.gov/
+Bulgaria	Bulgaria	2021-02-08	2021-02-08T00:00:00.000Z	9331	223734	193251	1455852	182	20	60	-311	-10	40.86	712.29	885.57	https://www.mh.government.bg/
+Bullitt_County,_Kentucky	Bullitt County, Kentucky	2021-02-08		44	5744			32	0		15	-1	0.71	26.86		https://govstatus.egov.com/
+Bulloch_County,_Georgia	Bulloch County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	82	6021			9	0		-14	0	0.57	38.71		https://dph.georgia.gov/
+Bullock_County,_Alabama	Bullock County, Alabama	2021-02-08		29	1132			4	0		-3	0	0.0	6.14		https://covid19.alabama.gov/
+Buncombe_County,_North_Carolina	Buncombe County, North Carolina	2021-02-08		267	14143			44	0		-33	0	2.0	105.86		https://www.ncdhhs.gov/
+Burbank,_California	Burbank, California	2021-02-08	2021-02-08T01:00:00.000Z	183	7808			21	1		0	1	1.0	33.86		http://publichealth.lacounty.gov/
+Bureau_County,_Illinois	Bureau County, Illinois	2021-02-08		73	3178		33406	4	0		4	0	0.14	8.14		http://www.dph.illinois.gov/
+Burgenland	Burgenland	2021-02-08	2021-02-08T21:00:00.000Z	215	11182	10445		13	1	37	-31	1	0.57	41.14	39.71	https://info.gesundheitsministerium.at/
+Burke_County,_Georgia	Burke County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	44	2240			3	0		2	0	1.0	8.0		https://dph.georgia.gov/
+Burke_County,_North_Carolina	Burke County, North Carolina	2021-02-08		115	8738			12	0		-23	-2	1.29	29.43		https://www.ncdhhs.gov/
+Burke_County,_North_Dakota	Burke County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	1	219	213	871	0	0	0	0	0	0.0	0.57	0.57	https://www.health.nd.gov/
+Burleigh_County,_North_Dakota	Burleigh County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	185	14366	14042	53659	9	0	5	-6	0	0.0	13.43	11.14	https://www.health.nd.gov/
+Burleson_County,_Texas	Burleson County, Texas	2021-02-08		28	2115	1500		18	0	3	18	0	0.43	38.71	10.14	https://www.dshs.state.tx.us/
+Burlington_County,_New_Jersey	Burlington County, New Jersey	2021-02-08		696	32919			87	0	0	-85	0	1.29	174.86		https://www.nj.gov/
+Burlington,_Massachusetts	Burlington, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1511		37029	0			0			8.43		https://www.mass.gov/
+Burnet_County,_Texas	Burnet County, Texas	2021-02-08		49	3905	2893		21	0	2	16	0	0.86	27.71	10.0	https://www.dshs.state.tx.us/
+Burnett_County,_Wisconsin	Burnett County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	23	1252		6996	1	0		0	0	0.0	3.14		https://www.dhs.wisconsin.gov/
+Burrillville,_Rhode_Island	Burrillville, Rhode Island	2021-02-08	2021-02-03T14:16:00.000Z		1508		7873	0			0			14.0		https://health.ri.gov/
+Burt_County,_Nebraska	Burt County, Nebraska	2021-02-08		10	593		2706	0	0		0	0	0.0	1.86		http://dhhs.ne.gov/
+Buryatia	Buryatia	2021-02-08	2021-02-08T07:30:00.000Z	683	31525	29084		130	2	78	-2	0	2.0	136.57	140.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Butler_County,_Alabama	Butler County, Alabama	2021-02-08		62	1868			3	0		1	0	0.29	5.86		https://covid19.alabama.gov/
+Butler_County,_Iowa	Butler County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	29	1553	1403	6342	2	0	0	2	0	0.0	2.43	15.29	https://idph.iowa.gov
+Butler_County,_Kansas	Butler County, Kansas	2021-02-08	2021-02-08T17:00:00.000Z		6988			53			53			26.29		https://www.coronavirus.kdheks.gov
+Butler_County,_Kentucky	Butler County, Kentucky	2021-02-08		21	1228			6	3		0	3	0.43	8.86		https://govstatus.egov.com/
+Butler_County,_Missouri	Butler County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	27	3296		32778	2	0		-3	0	0.43	9.29		https://health.mo.gov
+Butler_County,_Nebraska	Butler County, Nebraska	2021-02-08		11	774		3093	1	0		1	0	0.0	1.0		http://dhhs.ne.gov/
+Butler_County,_Ohio	Butler County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	270	33467			67	1		-26	1	3.86	142.43		https://coronavirus.ohio.gov/
+Butler_County,_Pennsylvania	Butler County, Pennsylvania	2021-02-08		344	13150		52598	29	3		-9	3	2.29	53.86		https://www.health.pa.gov/
+Butte_County,_California	Butte County, California	2021-02-08	2021-02-07	147	10513	9959	161305	33	0	137	-26	0	1.29	42.57	52.57	https://www.cdph.ca.gov
+Butte_County,_Idaho	Butte County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	1	186			0	0		0	0	0.0	0.14		https://coronavirus.idaho.gov/
+Butte_County,_South_Dakota	Butte County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	20	961	926	4041	0	0	1	-1	0	0.0	0.71	1.29	https://doh.sd.gov/
+Butts_County,_Georgia	Butts County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	64	2482			7	0		1	0	0.29	15.43		https://dph.georgia.gov/
+Cabarrus_County,_North_Carolina	Cabarrus County, North Carolina	2021-02-08		208	17052			53	0		-59	0	2.0	141.29		https://www.ncdhhs.gov/
+Cabell_County,_West_Virginia	Cabell County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	150	7312	6178	142543	14	1	30	-21	1	0.57	27.57	83.29	https://dhhr.wv.gov/
+Cache_County,_Utah	Cache County, Utah	2021-02-08	2021-02-08T10:00:00.000Z	28	14174	13401	71485	11	0	26	-8	0	0.29	50.0	66.14	https://brhd.org/coronavirus/
+Caddo_County,_Oklahoma	Caddo County, Oklahoma	2021-02-08		51	3688	3390		6	0	13	-10	-1	0.43	15.71	18.0	https://coronavirus.health.ok.gov/
+Caddo_Parish,_Louisiana	Caddo Parish, Louisiana	2021-02-08		635	24031		336124	77	1		-32	-1	3.14	158.14		http://ldh.la.gov/
+Calabasas,_California	Calabasas, California	2021-02-08	2021-02-08T01:00:00.000Z	24	1070			8	0		3	0	0.43	5.14		http://publichealth.lacounty.gov/
+Calabria	Calabria	2021-02-08		625	34333	26144	538810	142	1	380	15	-6	4.14	198.71	353.86	http://www.salute.gov.it/
+Calaveras_County,_California	Calaveras County, California	2021-02-08	2021-02-07	23	1837	1702	21784	5	0	16	-9	0	0.0	8.43	4.57	https://www.cdph.ca.gov
+Calcasieu_Parish,_Louisiana	Calcasieu Parish, Louisiana	2021-02-08		332	18327		160064	35	0		-71	-3	0.86	74.0		http://ldh.la.gov/
+Calderdale	Calderdale	2021-02-08			12444			6			-32			49.86		https://www.gov.uk/
+Caldwell_County,_Kentucky	Caldwell County, Kentucky	2021-02-08		21	1214			2	0		-11	0	0.0	5.57		https://govstatus.egov.com/
+Caldwell_County,_Missouri	Caldwell County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	10	627		4957	1	0		0	0	0.29	1.14		https://health.mo.gov
+Caldwell_County,_North_Carolina	Caldwell County, North Carolina	2021-02-08		59	8191			22	0		-9	0	2.71	42.71		https://www.ncdhhs.gov/
+Caldwell_County,_Texas	Caldwell County, Texas	2021-02-08		68	4964	3599		27	0	8	27	0	0.14	32.0	12.0	https://www.dshs.state.tx.us/
+Caldwell_Parish,_Louisiana	Caldwell Parish, Louisiana	2021-02-08		24	1056		12568	-2	0		-10	0	0.0	1.0		http://ldh.la.gov/
+Caledonia_County,_Vermont	Caledonia County, Vermont	2021-02-08		4	372			1	0		-1	0	0.0	4.86		https://www.healthvermont.gov/
+Calhoun_County,_Alabama	Calhoun County, Alabama	2021-02-08		246	12426			24	0		-10	0	2.0	52.0		https://covid19.alabama.gov/
+Calhoun_County,_Arkansas	Calhoun County, Arkansas	2021-02-08		3	372	334	3913	0	0	5	-3	0	0.14	3.14	4.29	https://www.healthy.arkansas.gov/
+Calhoun_County,_Florida	Calhoun County, Florida	2021-02-08		36	1559		7227	3	0		2	0	0.0	3.86		https://floridahealthcovid19.gov/
+Calhoun_County,_Georgia	Calhoun County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	13	537			5	0		1	0	0.14	0.14		https://dph.georgia.gov/
+Calhoun_County,_Illinois	Calhoun County, Illinois	2021-02-08		2	467		4753	0	0		-5	0	0.0	2.0		http://www.dph.illinois.gov/
+Calhoun_County,_Iowa	Calhoun County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	9	1258	1201	4856	0	0	0	-3	0	0.0	1.29	4.0	https://idph.iowa.gov
+Calhoun_County,_Michigan	Calhoun County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	225	9141			27	0	0	27	0	1.0	24.86		https://www.michigan.gov/
+Calhoun_County,_Mississippi	Calhoun County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	25	1516			2	0		-5	0	0.29	4.14		https://msdh.ms.gov/
+Calhoun_County,_South_Carolina	Calhoun County, South Carolina	2021-02-08		30	1086			1	0		-4	0	0.14	3.0		https://www.scdhec.gov/
+Calhoun_County,_Texas	Calhoun County, Texas	2021-02-08		13	1658	1560		0	0	7	0	0	0.0	10.0	12.29	https://www.dshs.state.tx.us/
+Calhoun_County,_West_Virginia	Calhoun County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	0	217	206	6674	1	0	1	1	0	0.0	0.43	2.43	https://dhhr.wv.gov/
+California	California	2021-02-08	2021-02-07	44150	3346340			10414	208		-4650	-87	463.14	12519.14		https://www.cdph.ca.gov
+Callahan_County,_Texas	Callahan County, Texas	2021-02-08		36	1093	1070		0	0	0	0	-1	0.57	4.29	4.14	https://www.dshs.state.tx.us/
+Callaway_County,_Missouri	Callaway County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	37	4380		42670	7	0		-4	0	0.43	12.57		https://health.mo.gov
+Calloway_County,_Kentucky	Calloway County, Kentucky	2021-02-08		36	3303			14	0		11	0	0.29	10.14		https://govstatus.egov.com/
+Calumet_County,_Wisconsin	Calumet County, Wisconsin	2021-02-08	2021-02-08T07:00:00.000Z	41	5844		25378	11	0		8	0	0.0	15.14		https://www.dhs.wisconsin.gov/
+Calvert_County,_Maryland	Calvert County, Maryland	2021-02-08		62	3519			6	0		-8	0	0.29	13.0		https://coronavirus.maryland.gov/
+Camas_County,_Idaho	Camas County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	0	68			1	0		1	0	0.0	0.29		https://coronavirus.idaho.gov/
+Cambodia	Cambodia	2021-02-08	2021-02-08T07:00:00.000Z	0	474	456		0	0	2	-2	0	0.0	1.14	1.86	http://www.cdcmoh.gov.kh/
+Cambria_County,_Pennsylvania	Cambria County, Pennsylvania	2021-02-08		374	11085		47725	53	2		34	1	1.43	39.57		https://www.health.pa.gov/
+Cambridge,_Massachusetts	Cambridge, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		4058		549197	0			0			28.0		https://www.mass.gov/
+Cambridgeshire	Cambridgeshire	2021-02-08			24078			14			-75			122.86		https://www.gov.uk/
+Camden_County,_Georgia	Camden County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	28	3396			9	0		-8	0	0.43	15.29		https://dph.georgia.gov/
+Camden_County,_Missouri	Camden County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	75	3668		23041	0	0		-4	0	0.14	7.0		https://health.mo.gov
+Camden_County,_New_Jersey	Camden County, New Jersey	2021-02-08		1054	41517			89	2	2	-50	2	4.29	140.43		https://www.nj.gov/
+Camden_County,_North_Carolina	Camden County, North Carolina	2021-02-08		5	496			4	0		1	0	0.0	3.71		https://www.ncdhhs.gov/
+Cameron_County,_Pennsylvania	Cameron County, Pennsylvania	2021-02-08		7	247		1062	0	0		-1	0	0.0	0.57		https://www.health.pa.gov/
+Cameron_County,_Texas	Cameron County, Texas	2021-02-08		1251	35736	31951		0	0	55	0	-6	6.71	127.86	149.86	https://www.dshs.state.tx.us/
+Cameron_Parish,_Louisiana	Cameron Parish, Louisiana	2021-02-08		5	494		4255	-2	0		-2	0	0.0	1.0		http://ldh.la.gov/
+Camp_County,_Texas	Camp County, Texas	2021-02-08		36	1126	901		2	0	6	2	0	0.29	7.57	3.0	https://www.dshs.state.tx.us/
+Campania	Campania	2021-02-08		3904	233322	163710	2555030	1189	13	940	1189	10	19.86	1449.0	947.0	http://www.salute.gov.it/
+Campbell_County,_Kentucky	Campbell County, Kentucky	2021-02-08		44	7165			30	0		8	0	0.57	57.57		https://govstatus.egov.com/
+Campbell_County,_South_Dakota	Campbell County, South Dakota	2021-02-08	2021-02-08T18:00:00.000Z	4	126	120	370	0	0	0	0	0	0.0	0.0	0.57	https://doh.sd.gov/
+Campbell_County,_Tennessee	Campbell County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	52	3556		25733	0	1	1	-4	1	1.14	11.29		https://www.tn.gov/
+Campbell_County,_Virginia	Campbell County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	32	3667			2	0		-14	0	0.14	17.43		http://www.vdh.virginia.gov/
+Campbell_County,_Wyoming	Campbell County, Wyoming	2021-02-08	2021-02-08T22:00:00.000Z	55	4181	4559		5	0	7	11	0	0.29	1.86	6.43	https://health.wyo.gov/
+Cần_Thơ	Cần Thơ	2021-02-08	2021-02-08T00:00:00.000Z	0	10	10		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
+Canada	Canada	2021-02-08	2021-02-08T16:00:00.000Z	20835	808120	747110	0	3860	68	8344	657	3	114.71	4164.0	5921.57	https://www.canada.ca/
+Canadian_County,_Oklahoma	Canadian County, Oklahoma	2021-02-08		75	15004	14185		53	0	69	-63	-2	1.29	93.57	101.29	https://coronavirus.health.ok.gov/
+Candler_County,_Georgia	Candler County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	49	877			0	0		0	0	1.0	1.0		https://dph.georgia.gov/
+Cannon_County,_Tennessee	Cannon County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	25	1694		9888	1	0	0	-3	0	0.14	5.14		https://www.tn.gov/
+Canton_of_Basel-Stadt	Canton of Basel-Stadt	2021-02-08	2021-02-07T23:00:00.000Z	187	9534			78	6		78	6	1.14	26.57		https://www.bag.admin.ch/
+Canton_of_Bern	Canton of Bern	2021-02-08	2021-02-07T23:00:00.000Z	951	51536			301	7		301	7	3.0	132.43		https://www.bag.admin.ch/
+Canton_of_Fribourg	Canton of Fribourg	2021-02-08	2021-02-07T23:00:00.000Z	457	26262			113	3		113	3	0.86	78.57		https://www.bag.admin.ch/
+Canton_of_Geneva	Canton of Geneva	2021-02-08	2021-02-07T23:00:00.000Z	690	45418			267	0		267	0	1.29	115.71		https://www.bag.admin.ch/
+Canton_of_Glarus	Canton of Glarus	2021-02-08	2021-02-07T23:00:00.000Z	66	2118			9	0		9	0	0.29	4.86		https://www.bag.admin.ch/
+Canton_of_Jura	Canton of Jura	2021-02-08	2021-02-07T23:00:00.000Z	127	5401			19	1		19	1	0.29	9.29		https://www.bag.admin.ch/
+Canton_of_Lucerne	Canton of Lucerne	2021-02-08	2021-02-07T23:00:00.000Z	290	21019			135	0		135	0	0.43	58.0		https://www.bag.admin.ch/
+Canton_of_Schaffhausen	Canton of Schaffhausen	2021-02-08	2021-02-07T23:00:00.000Z	65	3516			9	0		9	0	0.29	4.86		https://www.bag.admin.ch/
+Canton_of_Schwyz	Canton of Schwyz	2021-02-08	2021-02-07T23:00:00.000Z	205	9257			52	1		52	1	0.71	20.14		https://www.bag.admin.ch/
+Canton_of_St._Gallen	Canton of St. Gallen	2021-02-08	2021-02-07T23:00:00.000Z	655	33066			173	4		173	4	1.86	89.29		https://www.bag.admin.ch/
+Canton_of_Uri	Canton of Uri	2021-02-08	2021-02-07T23:00:00.000Z	37	1729			6	0		6	0	0.0	3.86		https://www.bag.admin.ch/
+Canton_of_Zug	Canton of Zug	2021-02-08	2021-02-07T23:00:00.000Z	111	6215			65	1		65	1	0.43	27.57		https://www.bag.admin.ch/
+Canton_of_Zürich	Canton of Zürich	2021-02-08	2021-02-07T23:00:00.000Z	1219	84113			487	14		487	14	5.14	226.57		https://www.bag.admin.ch/
+Canton,_Massachusetts	Canton, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		1417		41095	0			0			10.43		https://www.mass.gov/
+Canyon_County,_Idaho	Canyon County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	263	24126			70	2		70	2	0.71	47.57		https://coronavirus.idaho.gov/
+Cape_Girardeau_County,_Missouri	Cape Girardeau County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	116	7391		60273	6	0		-8	0	0.86	20.71		https://health.mo.gov
+Cape_May_County,_New_Jersey	Cape May County, New Jersey	2021-02-08		168	6536			9	0	0	-12	-1	1.0	42.57		https://www.nj.gov/
+Carbon_County,_Montana	Carbon County, Montana	2021-02-08		11	794			2	0		2	0	0.0	2.14		https://dphhs.mt.gov/
+Carbon_County,_Pennsylvania	Carbon County, Pennsylvania	2021-02-08		133	4564		22584	15	1		-1	0	1.29	23.0		https://www.health.pa.gov/
+Carbon_County,_Utah	Carbon County, Utah	2021-02-08	2021-02-08T00:00:00.000Z	10	1332	1237		2	0	0	2	0	0.14	4.71	6.57	https://www.seuhealth.com/
+Carbon_County,_Wyoming	Carbon County, Wyoming	2021-02-08	2021-02-08T22:00:00.000Z	21	1183	1237		4	0	39	4	0	0.43	10.14	12.71	https://health.wyo.gov/
+Caribou_County,_Idaho	Caribou County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	11	614			0	0		0	0	0.0	0.57		https://coronavirus.idaho.gov/
+Carinthia	Carinthia	2021-02-08	2021-02-08T21:00:00.000Z	666	26696	24310		66	5	66	-43	4	3.0	108.43	94.57	https://info.gesundheitsministerium.at/
+Carlisle_County,_Kentucky	Carlisle County, Kentucky	2021-02-08		1	416			0	0		-1	0	0.0	1.43		https://govstatus.egov.com/
+Carlisle,_Massachusetts	Carlisle, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		131		6556	0			0			1.0		https://www.mass.gov/
+Carlton_County,_Minnesota	Carlton County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	43	2940			1	0		-8	0	0.0	5.71		https://www.health.state.mn.us/
+Caroline_County,_Maryland	Caroline County, Maryland	2021-02-08		18	1962			2	0		-21	0	0.29	9.0		https://coronavirus.maryland.gov/
+Caroline_County,_Virginia	Caroline County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	14	1686			17	0		15	0	0.14	13.86		http://www.vdh.virginia.gov/
+Carroll_County,_Arkansas	Carroll County, Arkansas	2021-02-08		40	2674	2502	20396	8	1	15	7	1	0.14	12.0	12.71	https://www.healthy.arkansas.gov/
+Carroll_County,_Georgia	Carroll County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	184	10002			38	0		-21	0	1.43	50.86		https://dph.georgia.gov/
+Carroll_County,_Illinois	Carroll County, Illinois	2021-02-08		32	1523		16494	0	0		-1	0	0.0	2.71		http://www.dph.illinois.gov/
+Carroll_County,_Indiana	Carroll County, Indiana	2021-02-08		17	1705		7240	4	0		-6	0	0.0	6.0		https://coronavirus.in.gov/
+Carroll_County,_Iowa	Carroll County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	45	2608	2455	10401	-1	0	2	-2	0	0.29	1.71	11.0	https://idph.iowa.gov
+Carroll_County,_Kentucky	Carroll County, Kentucky	2021-02-08		10	836			3	0		2	0	0.0	4.0		https://govstatus.egov.com/
+Carroll_County,_Maryland	Carroll County, Maryland	2021-02-08		198	7176			21	0		-32	-1	1.29	27.57		https://coronavirus.maryland.gov/
+Carroll_County,_Mississippi	Carroll County, Mississippi	2021-02-08	2021-02-08T05:00:00.000Z	23	1118			1	1		0	1	0.14	2.43		https://msdh.ms.gov/
+Carroll_County,_Missouri	Carroll County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	21	820		5579	2	0		-2	0	0.43	3.43		https://health.mo.gov
+Carroll_County,_New_Hampshire	Carroll County, New Hampshire	2021-02-08	2021-02-08T14:00:00.000Z	6	1560			5	0		-3	0	0.0	9.57		https://www.nh.gov/
+Carroll_County,_Ohio	Carroll County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	18	1709			6	0		4	0	0.0	8.57		https://coronavirus.ohio.gov/
+Carroll_County,_Tennessee	Carroll County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	78	3347		21105	7	0	0	3	0	0.86	8.71		https://www.tn.gov/
+Carroll_County,_Virginia	Carroll County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	58	2023			2	0		-9	0	0.14	6.29		http://www.vdh.virginia.gov/
+Carson_City,_Nevada	Carson City, Nevada	2021-02-08	2021-02-08T17:01:00.000Z	108	5760	4271	60144	5	1	95	3	0	0.43	6.57	58.43	https://gethealthycarsoncity.org/
+Carson_County,_Texas	Carson County, Texas	2021-02-08		12	351	323		0	0	2	0	0	0.0	0.71	1.71	https://www.dshs.state.tx.us/
+Carson,_California	Carson, California	2021-02-08	2021-02-08T01:00:00.000Z	174	8561			18	0		-12	0	2.14	40.86		http://publichealth.lacounty.gov/
+Carter_County,_Kentucky	Carter County, Kentucky	2021-02-08		21	1895			8	0		1	0	0.14	8.0		https://govstatus.egov.com/
+Carter_County,_Missouri	Carter County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	8	414		2533	0	0		0	0	0.0	0.71		https://health.mo.gov
+Carter_County,_Montana	Carter County, Montana	2021-02-08		5	139			0	0		0	0	0.0	0.0		https://dphhs.mt.gov/
+Carter_County,_Oklahoma	Carter County, Oklahoma	2021-02-08		36	5364	4791		7	0	29	-42	0	0.57	44.86	42.57	https://coronavirus.health.ok.gov/
+Carter_County,_Tennessee	Carter County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	139	5429		38384	3	0	0	-6	0	1.0	15.71		https://www.tn.gov/
+Carteret_County,_North_Carolina	Carteret County, North Carolina	2021-02-08		27	4100			2	0		-7	-6	1.14	45.71		https://www.ncdhhs.gov/
+Carver_County,_Minnesota	Carver County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	40	7294			13	0		-8	0	0.14	18.43		https://www.health.state.mn.us/
+Carver,_Massachusetts	Carver, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		529		11421	0			0			4.29		https://www.mass.gov/
+Cascade_County,_Montana	Cascade County, Montana	2021-02-08		144	7400			6	0		-4	0	0.43	16.14		https://dphhs.mt.gov/
+Casey_County,_Kentucky	Casey County, Kentucky	2021-02-08		31	1113			0	0		-7	0	0.29	5.57		https://govstatus.egov.com/
+Cass_County,_Illinois	Cass County, Illinois	2021-02-08		22	1848		16263	0	0		0	0	0.0	2.0		http://www.dph.illinois.gov/
+Cass_County,_Indiana	Cass County, Indiana	2021-02-08		92	5157		18596	22	0		-3	0	0.14	17.29		https://coronavirus.in.gov/
+Cass_County,_Iowa	Cass County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	46	1208	1060	5709	1	0	0	-3	0	0.14	4.0	5.71	https://idph.iowa.gov
+Cass_County,_Michigan	Cass County, Michigan	2021-02-08	2021-02-08T17:00:00.000Z	58	3830			11	0	0	11	0	0.14	11.71		https://www.michigan.gov/
+Cass_County,_Minnesota	Cass County, Minnesota	2021-02-08	2021-02-08T16:00:00.000Z	24	2135			0	0		-4	0	0.0	2.0		https://www.health.state.mn.us/
+Cass_County,_Missouri	Cass County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	72	7003		74007	6	0		-2	0	0.43	16.57		https://health.mo.gov
+Cass_County,_Nebraska	Cass County, Nebraska	2021-02-08		14	2161		11937	5	0		-2	0	0.0	7.29		http://dhhs.ne.gov/
+Cass_County,_North_Dakota	Cass County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	192	21047	20754	91023	9	0	17	4	0	0.29	11.57	20.14	https://www.health.nd.gov/
+Cass_County,_Texas	Cass County, Texas	2021-02-08		71	1699	1519		5	0	6	5	0	0.43	9.43	8.0	https://www.dshs.state.tx.us/
+Cassia_County,_Idaho	Cassia County, Idaho	2021-02-08	2021-02-08T17:00:00.000Z	23	2803			5	0		5	0	0.14	4.0		https://coronavirus.idaho.gov/
+Castro_County,_Texas	Castro County, Texas	2021-02-08		26	857	814		0	0	1	0	0	0.14	1.14	2.14	https://www.dshs.state.tx.us/
+Caswell_County,_North_Carolina	Caswell County, North Carolina	2021-02-08		17	1820			10	0		3	0	0.29	9.29		https://www.ncdhhs.gov/
+Catahoula_Parish,_Louisiana	Catahoula Parish, Louisiana	2021-02-08		33	1033		11815	0	0		-4	0	0.0	1.57		http://ldh.la.gov/
+Catawba_County,_North_Carolina	Catawba County, North Carolina	2021-02-08		255	16440			51	0		-33	-1	2.14	101.14		https://www.ncdhhs.gov/
+Catoosa_County,_Georgia	Catoosa County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	54	5095			12	0		-13	0	0.14	40.14		https://dph.georgia.gov/
+Catron_County,_New_Mexico	Catron County, New Mexico	2021-02-08		4	73			0	0		0	0	0.14	0.29		https://cv.nmhealth.org
+Cattaraugus_County,_New_York	Cattaraugus County, New York	2021-02-08	2021-02-08T14:00:00.000Z	71	4004		101418	19	0		-9	0	0.43	27.86		https://coronavirus.health.ny.gov/
+Cavalier_County,_North_Dakota	Cavalier County, North Dakota	2021-02-08	2021-02-08T17:00:00.000Z	5	415	409	1916	0	0	1	0	0	0.14	-0.14	0.0	https://www.health.nd.gov/
+Cayuga_County,_New_York	Cayuga County, New York	2021-02-08	2021-02-08T14:00:00.000Z	83	5045		124611	13	0		0	0	0.0	17.57		https://coronavirus.health.ny.gov/
+Cecil_County,_Maryland	Cecil County, Maryland	2021-02-08		111	4866			8	0		-10	0	0.29	14.14		https://coronavirus.maryland.gov/
+Cedar_County,_Iowa	Cedar County, Iowa	2021-02-08		20	1610	1439	8104	0	0	0	-5	0	0.0	2.57	5.86	https://idph.iowa.gov/
+Cedar_County,_Missouri	Cedar County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	10	657		10126	1	0		1	0	0.14	1.57		https://health.mo.gov
+Cedar_County,_Nebraska	Cedar County, Nebraska	2021-02-08		11	677		2580	1	0		-3	0	0.0	3.71		http://dhhs.ne.gov/
+Central_Bedfordshire	Central Bedfordshire	2021-02-08			14340			11			-39			56.71		https://www.gov.uk/
+Central_Falls,_Rhode_Island	Central Falls, Rhode Island	2021-02-08	2021-02-03T14:16:00.000Z		3880		12707	0			0			13.57		https://health.ri.gov/
+Centre_County,_Pennsylvania	Centre County, Pennsylvania	2021-02-08		200	11891		68956	22	-1		-112	-1	1.0	79.43		https://www.health.pa.gov/
+Centre-Val_de_Loire	Centre-Val de Loire	2021-02-08		1760		6906			20	29		12	11.29		48.71	https://www.santepubliquefrance.fr/
+Cerritos,_California	Cerritos, California	2021-02-08	2021-02-08T01:00:00.000Z	37	2752			9	2		-1	-1	1.14	13.14		http://publichealth.lacounty.gov/
+Cerro_Gordo_County,_Iowa	Cerro Gordo County, Iowa	2021-02-08	2021-02-08T00:00:00.000Z	76	4878	4478	21752	1	0	0	-10	0	0.29	8.57	21.14	https://idph.iowa.gov
+Chaffee_County,_Colorado	Chaffee County, Colorado	2021-02-08		23	1348			-1	0		-7	0	0.0	4.86		https://covid19.colorado.gov/
+Chambers_County,_Alabama	Chambers County, Alabama	2021-02-08		81	3266			3	0		-1	0	0.71	8.0		https://covid19.alabama.gov/
+Chambers_County,_Texas	Chambers County, Texas	2021-02-08		19	3884	3495		0	0	0	0	0	0.29	23.29	20.43	https://www.dshs.state.tx.us/
+Champaign_County,_Illinois	Champaign County, Illinois	2021-02-08		109	16958		1556283	72	0		-15	-1	1.0	82.86		http://www.dph.illinois.gov/
+Champaign_County,_Ohio	Champaign County, Ohio	2021-02-08	2021-02-08T19:00:00.000Z	28	2698			8	0		6	0	0.0	10.14		https://coronavirus.ohio.gov/
 Chariton_County,_Missouri	Chariton County, Missouri	2021-02-08	2021-02-08T18:00:00.000Z	3	408		3599	0	0		0	0	0.0	0.57		https://health.mo.gov
 Charlemont,_Massachusetts	Charlemont, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		15		1399	0			0			0.14		https://www.mass.gov/
 Charles_City_County,_Virginia	Charles City County, Virginia	2021-02-08	2021-02-08T14:00:00.000Z	10	366			4	0		1	0	0.14	3.0		http://www.vdh.virginia.gov/
@@ -470,7 +1586,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2021-02-08	2021-02-08T21:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2021-02-08	2021-02-08T20:00:00.000Z	93	5060		24179	0	1	1	-5	1	0.86	11.29		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2021-02-08		20	4621			23	0		3	0	0.43	31.29		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2021-02-08	2021-02-08T18:50:11.000Z	44	1078			4	0		-3	0	0.0	4.14		https://dph.georgia.gov/
-Earth	Earth	2021-02-08	2021-02-09T22:45:24.812Z	2268973	103933499			307688	7619		-11380	1067	11988.86	407322.71	292441.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2021-02-08	2021-02-10T01:07:53.958Z	2268973	103933499			307688	7619		-11380	1067	11988.86	407322.71	292441.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2021-02-08		698	33958		401412	76	5		-86	5	3.29	177.14		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		966		16848	0			0			9.0		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2021-02-08	2021-02-08T21:00:00.000Z		130		2324	0			0			1.29		https://www.mass.gov/
@@ -3201,7 +4317,7 @@ Union_County,_Tennessee	Union County, Tennessee	2021-02-08	2021-02-08T20:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2021-02-08		72	2258		29361	5	0		-9	0	0.0	6.14		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2021-02-08	2021-02-08T11:52:00.000Z	930	329293	309692	27044459	2798	9	3933	-295	2	10.14	3279.14	4040.29	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2021-02-08		112798	3959784		78860651	14104	333		-1741	-40	890.57	17714.43		https://www.gov.uk/
-United_States	United States	2021-02-08	2021-02-09T22:40:32.882Z	463163	26975873			82380	1336		-11857	-133	3108.29	111281.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2021-02-08	2021-02-10T01:00:30.605Z	463163	26975873			82380	1336		-11857	-133	3108.29	111281.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2021-02-08	2021-02-08T21:00:00.000Z	1363	81622	77428		140	1	162	16	-1	2.71	177.86	201.14	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2021-02-08		49	3014	2443		7	0	23	7	-1	0.43	17.0	12.29	https://www.dshs.state.tx.us/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2021-02-08	2021-02-08T10:00:00.000Z	27	1578	1375	24196	8	0	5	7	-1	0.57	11.57	15.0	https://dhhr.wv.gov/
