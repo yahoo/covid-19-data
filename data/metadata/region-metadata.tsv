@@ -3928,7 +3928,7 @@ Kalamazoo_County,_Michigan	CountyAdminArea	12588752	Kalamazoo County, Michigan	K
 Kalawao_County,_Hawaii	CountyAdminArea	12588031	Kalawao County, Hawaii	Kalawao_County,_Hawaii			15005	-156.91734	21.1718	86	Hawaii
 Kaliningrad_Oblast	CountyAdminArea|StateAdminArea	12598331	Kaliningrad Oblast	Kaliningrad_Oblast				20.4717	54.7156		Russia
 Kalkaska_County,_Michigan	CountyAdminArea	12588753	Kalkaska County, Michigan	Kalkaska_County,_Michigan			26079	-85.09046	44.68496	18038	Michigan
-Kalmykia	StateAdminArea	2346872	Kalmykia	Kalmykia				44.6217	46.4667		Russia
+Kalmykia	CountyAdminArea|StateAdminArea	2346872	Kalmykia	Kalmykia				44.6217	46.4667		Russia
 Kaluga_Oblast	CountyAdminArea|StateAdminArea	12598397	Kaluga Oblast	Kaluga_Oblast				36.2211	54.5496		Russia
 Kamchatka_Krai	StateAdminArea	56437929	Kamchatka Krai	Kamchatka_Krai				160.578	57.9059		Russia
 Kampong_Cham_Province	StateAdminArea		Kampong Cham Province	Kampong_Cham_Province				105.45	11.983334	899791	Cambodia
@@ -4057,7 +4057,7 @@ Krems_an_der_Donau	CityTown	542516	Krems an der Donau	Krems_an_der_Donau				15.5
 Kufstein_District	CountyAdminArea	12591744	Kufstein District	Kufstein_District				12.05468	47.53207	101321	Austria
 Kurgan_Oblast	CountyAdminArea|StateAdminArea	12598548	Kurgan Oblast	Kurgan_Oblast				65.3053	55.4143		Russia
 Kursk_Oblast	CountyAdminArea|StateAdminArea	12598579	Kursk Oblast	Kursk_Oblast				36.1871	51.7173		Russia
-Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02158	-163.23764	62.11722	8314	Alaska
+Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02270	-163.23764	62.11722	8314	Alaska
 Kuwait	Country	23424870	Kuwait	Kuwait	KW			47.49445	29.31015	4137309	Earth
 Kyrgyzstan	Country	23424864	Kyrgyzstan	Kyrgyzstan	KG			74.7799	41.20554	6322800	Earth
 Kyzylorda_Region	StateAdminArea	2345990	Kyzylorda Region	Kyzylorda_Region				63.48485	45.36045	799533	Hotel_Kazakhstan
@@ -4711,7 +4711,7 @@ Mendon,_Massachusetts	CountyAdminArea|CityTown	2449397	Mendon, Massachusetts	Men
 Mendota,_Illinois	CountyAdminArea|CityTown	2449411	Mendota, Illinois	Mendota,_Illinois				-89.11619	41.5517	7372	LaSalle_County,_Illinois
 Menifee_County,_Kentucky	CountyAdminArea	12588558	Menifee County, Kentucky	Menifee_County,_Kentucky			21165	-83.60546	37.93851	6489	Kentucky
 Menominee_County,_Michigan	CountyAdminArea	12588768	Menominee County, Michigan	Menominee_County,_Michigan			26109	-87.57605	45.54031	22780	Michigan
-Menominee_County,_Wisconsin	CountyAdminArea	12590573	Menominee County, Wisconsin	Menominee_County,_Wisconsin			55078	-88.73287	44.98675	4556	Wisconsin
+Menominee_County,_Wisconsin	CountyAdminArea	12590573	Menominee County, Wisconsin	Menominee_County,_Wisconsin				-88.73287	44.98675	4556	Wisconsin
 Merced_County,_California	CountyAdminArea	12587693	Merced County, California	Merced_County,_California			06047	-120.65001	37.18697	277680	California
 Mercer_County,_Illinois	CountyAdminArea	12588143	Mercer County, Illinois	Mercer_County,_Illinois			17131	-90.77403	41.19848	15437	Illinois
 Mercer_County,_Kentucky	CountyAdminArea	12588559	Mercer County, Kentucky	Mercer_County,_Kentucky			21167	-84.85975	37.82431	21933	Kentucky
@@ -4756,7 +4756,7 @@ Miami,_Oklahoma	CountyAdminArea|CityTown	2450017	Miami, Oklahoma	Miami,_Oklahoma
 Michigan	StateAdminArea	2347581	Michigan	Michigan		US-MI		-84.62167	43.7427	9986857	United_States
 Middleborough,_Massachusetts	CityTown	2450259	Middleborough, Massachusetts	Middleborough,_Massachusetts				-70.9069	41.8944	23117	Plymouth_County,_Massachusetts
 Middlefield,_Massachusetts	CountyAdminArea|CityTown	2450311	Middlefield, Massachusetts	Middlefield,_Massachusetts				-73.01278	42.35235	521	Hampshire_County,_Massachusetts
-Middlesbrough	CountyAdminArea|CityTown	28869	Middlesbrough	Middlesbrough				-1.23763	54.57301	140980	North_Yorkshire
+Middlesbrough	CountyAdminArea|CityTown	28869	Middlesbrough	Middlesbrough				-1.23763	54.57301	174700	North_Yorkshire
 Middlesex_County,_Connecticut	CountyAdminArea	12587794	Middlesex County, Connecticut	Middlesex_County,_Connecticut			09007	-72.52926	41.45164	162436	Connecticut
 Middlesex_County,_Massachusetts	CountyAdminArea	12588708	Middlesex County, Massachusetts	Middlesex_County,_Massachusetts			25017	-71.45937	42.44672	1611699	Massachusetts
 Middlesex_County,_New_Jersey	CountyAdminArea	12589269	Middlesex County, New Jersey	Middlesex_County,_New_Jersey			34023	-74.44686	40.43007	825062	New_Jersey
@@ -4928,14 +4928,14 @@ Morris_County,_New_Jersey	CountyAdminArea	12589271	Morris County, New Jersey	Mor
 Morris_County,_Texas	CountyAdminArea	12590178	Morris County, Texas	Morris_County,_Texas			48343	-94.73604	33.12272	12388	Texas
 Morris,_Illinois	CountyAdminArea|CityTown	2454257	Morris, Illinois	Morris,_Illinois				-88.42495	41.35869	13636	Grundy_County,_Illinois
 Morrison_County,_Minnesota	CountyAdminArea	12588845	Morrison County, Minnesota	Morrison_County,_Minnesota			27097	-94.20852	46.06126	33386	Minnesota
-Morrison,_Illinois	CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
+Morrison,_Illinois	CountyAdminArea|CityTown	2454303	Morrison, Illinois	Morrison,_Illinois				-89.96426	41.80763	4188	Whiteside_County,_Illinois
 Morrow_County,_Ohio	CountyAdminArea	12589585	Morrow County, Ohio	Morrow_County,_Ohio			39117	-82.82287	40.52887	35328	Ohio
 Morrow_County,_Oregon	CountyAdminArea	12589716	Morrow County, Oregon	Morrow_County,_Oregon			41049	-119.57607	45.46	11603	Oregon
 Mortágua	CountyAdminArea|CityTown		Mortágua	Mortágua				-8.233334	40.433334		
 Morton_County,_Kansas	CountyAdminArea	12588435	Morton County, Kansas	Morton_County,_Kansas			20129	-101.79875	37.19113	2587	Kansas
 Morton_County,_North_Dakota	CountyAdminArea	12589503	Morton County, North Dakota	Morton_County,_North_Dakota			38059	-101.32094	46.63356	31364	North_Dakota
 Morton_Grove,_Illinois	CityTown	2454439	Morton Grove, Illinois	Morton_Grove,_Illinois				-87.78889	42.04226	23270	Cook_County,_Illinois
-Moscow	CountyAdminArea|CityTown	2122265	Moscow	Moscow				37.60506	55.74164		Russia
+Moscow	CountyAdminArea|CityTown	2122265	Moscow	Moscow				37.60506	55.74164	12593000	Russia
 Moscow_Oblast	StateAdminArea		Moscow Oblast	Moscow_Oblast				36.966667	55.7		
 Motley_County,_Texas	CountyAdminArea	12590179	Motley County, Texas	Motley_County,_Texas			48345	-100.77933	34.07366	1200	Texas
 Moultrie_County,_Illinois	CountyAdminArea	12588147	Moultrie County, Illinois	Moultrie_County,_Illinois			17139	-88.64157	39.61977	14501	Illinois

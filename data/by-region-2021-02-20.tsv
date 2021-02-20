@@ -3,16 +3,16 @@ Abrantes	Abrantes	2021-02-20	2021-02-20T00:00:00.000Z		771			0			0			-46.43		htt
 Abruzzo	Abruzzo	2021-02-20		1608	50204	36219	889920				494		7.14	379.29	237.29	http://www.salute.gov.it/
 Adygea	Adygea	2021-02-20	2021-02-19T08:00:00.000Z	139	13660	11915		21			0		0.57	22.57	27.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Agder	Agder	2021-02-20	2021-02-19T12:00:00.000Z		1818									20.29		https://www.fhi.no/
-Akmola_Region	Akmola Region	2021-02-20		104	12946	11717							0.0	63.14	159.14	https://www.coronavirus2020.kz/
-Aktobe_Region	Aktobe Region	2021-02-20		50	4151	3962							0.0	11.0	8.57	https://www.coronavirus2020.kz/
+Akmola_Region	Akmola Region	2021-02-20		104	13023	11782							0.0	74.14	168.43	https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2021-02-20		50	4165	3962							0.0	13.0	8.57	https://www.coronavirus2020.kz/
 Albergaria-a-Velha	Albergaria-a-Velha	2021-02-20	2021-02-20T00:00:00.000Z		679			0			0			-49.71		https://covid19.min-saude.pt/
 Albufeira	Albufeira	2021-02-20	2021-02-20T00:00:00.000Z		636			0			0			-33.29		https://covid19.min-saude.pt/
 Alcanena	Alcanena	2021-02-20	2021-02-20T00:00:00.000Z		1273			0			0			-112.57		https://covid19.min-saude.pt/
 Alcochete	Alcochete	2021-02-20	2021-02-20T00:00:00.000Z		1339			0			0			-79.43		https://covid19.min-saude.pt/
 Alenquer,_Portugal	Alenquer, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		1357			0			0			-59.14		https://covid19.min-saude.pt/
 Almada	Almada	2021-02-20	2021-02-20T00:00:00.000Z		1428			0			0			-81.71		https://covid19.min-saude.pt/
-Almaty	Almaty	2021-02-20		452	24044	22435							0.0	88.29	98.14	https://www.coronavirus2020.kz/
-Almaty_Region	Almaty Region	2021-02-20		114	10334	9270							0.0	45.29	98.29	https://www.coronavirus2020.kz/
+Almaty	Almaty	2021-02-20		452	24156	22472							0.0	104.29	103.43	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2021-02-20		114	10380	9419							0.0	51.86	119.57	https://www.coronavirus2020.kz/
 Almeida,_Portugal	Almeida, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		1664			0			0			-370.0		https://covid19.min-saude.pt/
 Almeirim	Almeirim	2021-02-20	2021-02-20T00:00:00.000Z		1002			0			0			-55.14		https://covid19.min-saude.pt/
 Altai_Krai	Altai Krai	2021-02-20	2021-02-19T08:00:00.000Z	1416	42256	37753		152			0		9.71	137.14	120.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -31,7 +31,7 @@ Arkhangelsk_Oblast	Arkhangelsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	579	55
 Arouca,_Portugal	Arouca, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		656			0			0			-64.14		https://covid19.min-saude.pt/
 Arruda_dos_Vinhos	Arruda dos Vinhos	2021-02-20	2021-02-20T00:00:00.000Z		1200			0			0			-110.29		https://covid19.min-saude.pt/
 Astrakhan_Oblast	Astrakhan Oblast	2021-02-20	2021-02-19T08:00:00.000Z	537	27267	18093		129			0		2.86	114.43	187.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Atyrau_Region	Atyrau Region	2021-02-20		128	16848	16266							0.0	29.29	50.86	https://www.coronavirus2020.kz/
+Atyrau_Region	Atyrau Region	2021-02-20		128	16882	16326							0.0	34.14	59.43	https://www.coronavirus2020.kz/
 Austria	Austria	2021-02-20	2021-02-19T21:00:00.000Z	8233	437899	407253	12691956						20.71	1315.29	1098.0	https://info.gesundheitsministerium.at/
 Auvergne-Rhône-Alpes	Auvergne-Rhône-Alpes	2021-02-20		8789		36029							33.29		134.71	https://www.santepubliquefrance.fr/
 Aveiro,_Portugal	Aveiro, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		749			0			0			-47.71		https://covid19.min-saude.pt/
@@ -99,63 +99,122 @@ Chechnya	Chechnya	2021-02-20	2021-02-19T08:00:00.000Z	111	11192	10527		12			0		0
 Chelyabinsk_Oblast	Chelyabinsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	942	48858	42494		238			0		6.0	217.43	383.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chukotka_Autonomous_Okrug	Chukotka Autonomous Okrug	2021-02-20	2021-02-19T08:00:00.000Z	4	677	625		2			0		0.0	1.57	2.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Chuvashia	Chuvashia	2021-02-20	2021-02-19T08:00:00.000Z	981	20899	19144		57			0		4.43	53.0	59.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Clay_County,_Georgia	Clay County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	3	228								0.0	0.14		https://dph.georgia.gov/
+Clayton_County,_Georgia	Clayton County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	370	22463								2.57	62.57		https://dph.georgia.gov/
+Clinch_County,_Georgia	Clinch County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	22	901								0.14	1.71		https://dph.georgia.gov/
+Cobb_County,_Georgia	Cobb County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	873	67772								5.71	182.0		https://dph.georgia.gov/
+Coffee_County,_Georgia	Coffee County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	148	5085								1.43	8.43		https://dph.georgia.gov/
 Coimbra	Coimbra	2021-02-20	2021-02-20T00:00:00.000Z		1579			0			0			-119.29		https://covid19.min-saude.pt/
+Colquitt_County,_Georgia	Colquitt County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	93	4282								1.29	11.57		https://dph.georgia.gov/
+Columbia_County,_Georgia	Columbia County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	184	15388								1.57	43.43		https://dph.georgia.gov/
 Condeixa-a-Nova	Condeixa-a-Nova	2021-02-20	2021-02-20T00:00:00.000Z		1122			0			0			-115.29		https://covid19.min-saude.pt/
+Cook_County,_Georgia	Cook County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	37	1668								0.0	2.86		https://dph.georgia.gov/
+Coquimbo_Region	Coquimbo Region	2021-02-20	2021-02-19T04:00:00.000Z	381	19475	18280							1.43	111.43	110.86	https://www.minsal.cl/
 Corsica	Corsica	2021-02-20		143		610							1.0		2.57	https://www.santepubliquefrance.fr/
 Coruche	Coruche	2021-02-20	2021-02-20T00:00:00.000Z		1236			0			0			-45.86		https://covid19.min-saude.pt/
+Coweta_County,_Georgia	Coweta County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	155	12424								1.86	44.57		https://dph.georgia.gov/
+Crawford_County,_Georgia	Crawford County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	15	613								0.29	2.29		https://dph.georgia.gov/
+Crisp_County,_Georgia	Crisp County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	58	1894								0.29	2.29		https://dph.georgia.gov/
+Cuba	Cuba	2021-02-20		287	42547	37206							3.71	723.43	671.0	https://temas.sld.cu/
 Cuba,_Portugal	Cuba, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		958			0			0			-167.86		https://covid19.min-saude.pt/
 Czech_Republic	Czech Republic	2021-02-20	2021-02-19T05:59:00.000Z	18913	1134957	1003739	5074180						122.14	7444.0	5718.86	https://onemocneni-aktualne.mzcr.cz/
+Dade_County,_Georgia	Dade County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	10	1219								0.0	5.29		https://dph.georgia.gov/
 Dagestan	Dagestan	2021-02-20	2021-02-19T08:00:00.000Z	1316	29351	26945		60			0		3.0	56.57	70.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Dawson_County,_Georgia	Dawson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	35	2717								0.29	6.29		https://dph.georgia.gov/
+Decatur_County,_Georgia	Decatur County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	63	2687								0.29	2.43		https://dph.georgia.gov/
+DeKalb_County,_Georgia	DeKalb County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	785	55306								7.0	132.71		https://dph.georgia.gov/
 Deutschlandsberg_District	Deutschlandsberg District	2021-02-20	2021-02-19T21:00:00.000Z	87	2612	2381							0.43	10.86	13.71	https://info.gesundheitsministerium.at/
+Dodge_County,_Georgia	Dodge County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	94	2046								0.43	2.0		https://dph.georgia.gov/
+Dooly_County,_Georgia	Dooly County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	39	971								0.29	1.14		https://dph.georgia.gov/
 Dornbirn_District	Dornbirn District	2021-02-20	2021-02-19T21:00:00.000Z	62	5974	5781							0.0	9.14	12.71	https://info.gesundheitsministerium.at/
-Earth	Earth	2021-02-20	2021-02-20T05:04:25.629Z	2387101	107736837								7485.43	269991.71	217674.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Dougherty_County,_Georgia	Dougherty County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	272	6968								1.14	9.14		https://dph.georgia.gov/
+Douglas_County,_Georgia	Douglas County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	175	13027								1.29	40.29		https://dph.georgia.gov/
+Early_County,_Georgia	Early County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	44	1104								0.0	1.29		https://dph.georgia.gov/
+Earth	Earth	2021-02-20	2021-02-20T06:12:17.353Z	2387106	107737696								7486.14	270114.43	219273.57	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2021-02-20		332	21503	19926							0.0	64.29	22.14	https://www.coronavirus2020.kz/
+Echols_County,_Georgia	Echols County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	6	444								0.0	0.71		https://dph.georgia.gov/
 Eferding_District	Eferding District	2021-02-20	2021-02-19T21:00:00.000Z	29	2230	2162							0.0	2.86	2.0	https://info.gesundheitsministerium.at/
+Effingham_County,_Georgia	Effingham County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	56	4029								0.29	15.14		https://dph.georgia.gov/
 Eisenstadt	Eisenstadt	2021-02-20	2021-02-19T21:00:00.000Z	9	593	557							-0.14	1.86	0.71	https://info.gesundheitsministerium.at/
+Elbert_County,_Georgia	Elbert County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	57	2189								0.43	3.14		https://dph.georgia.gov/
 Elvas	Elvas	2021-02-20	2021-02-20T00:00:00.000Z		624			0			0			-103.57		https://covid19.min-saude.pt/
+Emanuel_County,_Georgia	Emanuel County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	77	2418								0.14	3.29		https://dph.georgia.gov/
 Emilia-Romagna	Emilia-Romagna	2021-02-20		10281	242462	197244	3571996				1821		28.0	1149.0	1641.14	http://www.salute.gov.it/
 Entroncamento	Entroncamento	2021-02-20	2021-02-20T00:00:00.000Z		501			0			0			-57.0		https://covid19.min-saude.pt/
 Espinho,_Portugal	Espinho, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		918			0			0			-73.14		https://covid19.min-saude.pt/
 Esposende	Esposende	2021-02-20	2021-02-20T00:00:00.000Z		781			0			0			-89.43		https://covid19.min-saude.pt/
 Estarreja	Estarreja	2021-02-20	2021-02-20T00:00:00.000Z		638			0			0			-51.71		https://covid19.min-saude.pt/
+Evans_County,_Georgia	Evans County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	20	891								0.14	1.29		https://dph.georgia.gov/
 Fafe	Fafe	2021-02-20	2021-02-20T00:00:00.000Z		722			0			0			-69.86		https://covid19.min-saude.pt/
+Fannin_County,_Georgia	Fannin County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	60	2126								0.14	5.57		https://dph.georgia.gov/
 Faro,_Portugal	Faro, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		756			0			0			-80.0		https://covid19.min-saude.pt/
+Fayette_County,_Georgia	Fayette County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	136	7643								1.43	30.86		https://dph.georgia.gov/
 Feldkirch_District	Feldkirch District	2021-02-20	2021-02-19T21:00:00.000Z	70	6305	6048							0.29	13.71	9.57	https://info.gesundheitsministerium.at/
 Feldkirchen_District	Feldkirchen District	2021-02-20	2021-02-19T21:00:00.000Z	42	1644	1512							0.0	3.29	1.43	https://info.gesundheitsministerium.at/
 Felgueiras	Felgueiras	2021-02-20	2021-02-20T00:00:00.000Z		712			0			0			-47.43		https://covid19.min-saude.pt/
 Figueira_da_Foz	Figueira da Foz	2021-02-20	2021-02-20T00:00:00.000Z		764			0			0			-41.57		https://covid19.min-saude.pt/
 Figueira_de_Castelo_Rodrigo	Figueira de Castelo Rodrigo	2021-02-20	2021-02-20T00:00:00.000Z		752			0			0			-202.14		https://covid19.min-saude.pt/
+Floyd_County,_Georgia	Floyd County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	189	10661								1.14	25.14		https://dph.georgia.gov/
 Fornos_de_Algodres	Fornos de Algodres	2021-02-20	2021-02-20T00:00:00.000Z		552			0			0			-116.71		https://covid19.min-saude.pt/
+Forsyth_County,_Georgia	Forsyth County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	144	18760								1.29	83.14		https://dph.georgia.gov/
 France	France	2021-02-20		83964	3560764	248488							331.0	16021.0	1019.14	https://www.santepubliquefrance.fr/
+Franklin_County,_Georgia	Franklin County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	42	2488								0.29	3.71		https://dph.georgia.gov/
 Freistadt_District	Freistadt District	2021-02-20	2021-02-19T21:00:00.000Z	84	4134	3883							0.29	7.29	5.86	https://info.gesundheitsministerium.at/
 Friuli_Venezia_Giulia	Friuli Venezia Giulia	2021-02-20		2748	73353	61244	1281941				310		9.43	203.0	287.86	http://www.salute.gov.it/
+Fulton_County,_Georgia	Fulton County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	1086	83059								5.29	198.43		https://dph.georgia.gov/
 Funchal	Funchal	2021-02-20	2021-02-20T00:00:00.000Z		568			0			0			9.14		https://covid19.min-saude.pt/
+Georgia_(U.S._state)	Georgia	2021-02-20	2021-02-19T18:50:14.000Z	16610	980411		8288412						108.57	2514.71		https://dph.georgia.gov/
+Gilmer_County,_Georgia	Gilmer County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	69	2708								0.86	3.71		https://dph.georgia.gov/
+Glascock_County,_Georgia	Glascock County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	16	247								0.29	0.57		https://dph.georgia.gov/
+Glynn_County,_Georgia	Glynn County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	157	7399								0.43	19.43		https://dph.georgia.gov/
 Gmunden_District	Gmunden District	2021-02-20	2021-02-19T21:00:00.000Z	93	5770	5405							0.29	16.29	14.29	https://info.gesundheitsministerium.at/
 Gondomar,_Portugal	Gondomar, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		575			0			0			-77.29		https://covid19.min-saude.pt/
+Gordon_County,_Georgia	Gordon County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	95	7152								0.29	38.57		https://dph.georgia.gov/
 Gouveia,_Portugal	Gouveia, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		678			0			0			-60.0		https://covid19.min-saude.pt/
+Grady_County,_Georgia	Grady County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	54	1965								0.43	3.71		https://dph.georgia.gov/
 Grand_Est	Grand Est	2021-02-20		7827		27264							25.0		93.14	https://www.santepubliquefrance.fr/
 Graz	Graz	2021-02-20	2021-02-19T21:00:00.000Z	249	10890	9994							0.86	58.86	24.0	https://info.gesundheitsministerium.at/
+Greene_County,_Georgia	Greene County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	48	1677								0.86	5.14		https://dph.georgia.gov/
 Greenland	Greenland	2021-02-20	2021-02-19T12:00:00.000Z	0	30	30	18817						0.0	0.0	0.0	https://www.sst.dk/
 Grieskirchen_District	Grieskirchen District	2021-02-20	2021-02-19T21:00:00.000Z	67	4278	4122							0.0	7.14	7.57	https://info.gesundheitsministerium.at/
 Guarda,_Portugal	Guarda, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		790			0			0			-103.43		https://covid19.min-saude.pt/
+Gwinnett_County,_Georgia	Gwinnett County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	915	89853								6.86	218.43		https://dph.georgia.gov/
+Habersham_County,_Georgia	Habersham County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	138	4750								0.43	7.0		https://dph.georgia.gov/
+Hall_County,_Georgia	Hall County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	386	25087								2.0	38.0		https://dph.georgia.gov/
+Hancock_County,_Georgia	Hancock County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	55	862								0.0	1.29		https://dph.georgia.gov/
+Haralson_County,_Georgia	Haralson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	72	2397								0.29	4.71		https://dph.georgia.gov/
+Harris_County,_Georgia	Harris County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	45	2268								0.43	6.43		https://dph.georgia.gov/
+Hart_County,_Georgia	Hart County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	49	2198								0.0	4.57		https://dph.georgia.gov/
 Hauts-de-France	Hauts-de-France	2021-02-20		5920		22908							28.71		106.0	https://www.santepubliquefrance.fr/
+Heard_County,_Georgia	Heard County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	16	784								0.0	1.71		https://dph.georgia.gov/
+Henry_County,_Georgia	Henry County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	255	20836								2.71	58.29		https://dph.georgia.gov/
 Hermagor_District	Hermagor District	2021-02-20	2021-02-19T21:00:00.000Z	17	1408	1192							0.0	13.43	2.71	https://info.gesundheitsministerium.at/
 Hollabrunn_District	Hollabrunn District	2021-02-20	2021-02-19T21:00:00.000Z	34	1573	1352							0.71	11.43	10.0	https://info.gesundheitsministerium.at/
 Horn_District	Horn District	2021-02-20	2021-02-19T21:00:00.000Z	11	836	712							0.0	6.0	5.86	https://info.gesundheitsministerium.at/
 Horta,_Azores	Horta, Azores	2021-02-20	2021-02-20T00:00:00.000Z		117			0			0			-11.86		https://covid19.min-saude.pt/
+Houston_County,_Georgia	Houston County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	203	13039								1.14	54.29		https://dph.georgia.gov/
 Hungary	Hungary	2021-02-20	2021-02-19T08:53:00.000Z	14145	397116	302689	3457538						75.25	1672.63	1646.13	https://koronavirus.gov.hu/
 Île-de-France	Île-de-France	2021-02-20		14429		64390							48.14		201.86	https://www.santepubliquefrance.fr/
 Imst_District	Imst District	2021-02-20	2021-02-19T21:00:00.000Z	33	3387	3283							0.14	6.0	3.29	https://info.gesundheitsministerium.at/
 India	India	2021-02-20	2021-02-19T02:30:00.000Z	156111	10963394	10667741							80.14	10092.57	9588.0	https://www.mohfw.gov.in/
+Indiana	Indiana	2021-02-20	2021-02-19T16:00:00.000Z	12325	653245		3069866	1080	44		0	0	25.14	798.29		https://coronavirus.in.gov/
 Ingushetia	Ingushetia	2021-02-20	2021-02-19T08:00:00.000Z	170	14574	12744		29			0		0.71	25.29	22.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Innlandet	Innlandet	2021-02-20	2021-02-19T12:00:00.000Z		3376									5.86		https://www.fhi.no/
 Innsbruck	Innsbruck	2021-02-20	2021-02-19T21:00:00.000Z	87	6969	6754							0.29	7.71	8.0	https://info.gesundheitsministerium.at/
 Irkutsk_Oblast	Irkutsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	1714	53514	49778		247			0		6.14	211.86	292.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Irwin_County,_Georgia	Irwin County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	25	872								0.0	1.0		https://dph.georgia.gov/
 Italy	Italy	2021-02-20		95235	2780882	2303199	37501875				15479		268.43	10009.0	12449.86	http://www.salute.gov.it/
 Ivanovo_Oblast	Ivanovo Oblast	2021-02-20	2021-02-19T08:00:00.000Z	879	29650	27292		126			0		5.14	117.14	116.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Jackson_County,_Georgia	Jackson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	126	8864								1.0	19.71		https://dph.georgia.gov/
 Jambyl_Region	Jambyl Region	2021-02-20		64	5820	5550							0.0	12.29	17.14	https://www.coronavirus2020.kz/
+Jasper_County,_Georgia	Jasper County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	30	1261								0.29	3.43		https://dph.georgia.gov/
+Jeff_Davis_County,_Georgia	Jeff Davis County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	43	1727								0.29	3.14		https://dph.georgia.gov/
+Jefferson_County,_Georgia	Jefferson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	54	1831								0.0	3.43		https://dph.georgia.gov/
+Jenkins_County,_Georgia	Jenkins County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	38	802								0.0	0.57		https://dph.georgia.gov/
 Jennersdorf_District	Jennersdorf District	2021-02-20	2021-02-19T21:00:00.000Z	19	892	791							0.0	5.57	5.57	https://info.gesundheitsministerium.at/
 Jewish_Autonomous_Oblast	Jewish Autonomous Oblast	2021-02-20	2021-02-19T08:00:00.000Z	118	4290	4088		4			0		1.0	3.71	4.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Johnson_County,_Georgia	Johnson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	47	1089								0.29	5.71		https://dph.georgia.gov/
+Jones_County,_Georgia	Jones County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	38	1852								0.0	8.0		https://dph.georgia.gov/
 Jordan	Jordan	2021-02-20	2021-02-19T00:00:00.000Z	4528	357611	332892	4328210						12.0	1829.71	1000.0	https://corona.moh.gov.jo/
 Kabardino-Balkaria	Kabardino-Balkaria	2021-02-20	2021-02-19T08:00:00.000Z	358	20331	19003		76			0		0.71	66.57	66.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Kaliningrad_Oblast	Kaliningrad Oblast	2021-02-20	2021-02-19T08:00:00.000Z	233	27177	24494		131			0		0.14	124.14	120.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -170,6 +229,7 @@ Karachay-Cherkessia	Karachay-Cherkessia	2021-02-20	2021-02-19T08:00:00.000Z	60	1
 Karaganda_Region	Karaganda Region	2021-02-20		307	15005	13825							0.0	52.29	51.43	https://www.coronavirus2020.kz/
 Kazakhstan	Kazakhstan	2021-02-20		2540	206652	190610							0.0	812.57	1042.14	https://www.coronavirus2020.kz/
 Kemerovo_Oblast	Kemerovo Oblast	2021-02-20	2021-02-19T08:00:00.000Z	551	31035	30032		70			0		1.0	65.0	91.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Kentucky	Kentucky	2021-02-20	2021-02-19T00:00:00.000Z	4401	394687	46473							18.43	1085.29	123.86	https://govstatus.egov.com/
 Kep_Province	Kep Province	2021-02-20	2021-02-20T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
 Khabarovsk_Krai	Khabarovsk Krai	2021-02-20	2021-02-19T08:00:00.000Z	276	48112	44728		115			0		1.14	116.0	157.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Khakassia	Khakassia	2021-02-20	2021-02-19T08:00:00.000Z	437	21123	19789		29			0		2.43	24.57	30.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -193,31 +253,46 @@ Kyzylorda_Region	Kyzylorda Region	2021-02-20		16	3768	3620							0.0	10.14	6.57	
 Lagoa,_Algarve	Lagoa, Algarve	2021-02-20	2021-02-20T00:00:00.000Z		448			0			0			-6.86		https://covid19.min-saude.pt/
 Lagoa,_Azores	Lagoa, Azores	2021-02-20	2021-02-20T00:00:00.000Z		34			0			0			-2.86		https://covid19.min-saude.pt/
 Lagos,_Portugal	Lagos, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		599			0			0			-34.86		https://covid19.min-saude.pt/
+Lamar_County,_Georgia	Lamar County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	47	1824								0.57	3.29		https://dph.georgia.gov/
 Lamego	Lamego	2021-02-20	2021-02-20T00:00:00.000Z		904			0			0			-93.57		https://covid19.min-saude.pt/
 Landeck_District	Landeck District	2021-02-20	2021-02-19T21:00:00.000Z	42	2922	2840							0.0	2.86	2.86	https://info.gesundheitsministerium.at/
+Lanier_County,_Georgia	Lanier County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	11	729								0.14	1.29		https://dph.georgia.gov/
+Laurens_County,_Georgia	Laurens County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	154	5301								0.71	4.86		https://dph.georgia.gov/
 Lazio	Lazio	2021-02-20		5672	223845	182565	3839816				990		30.14	764.14	1450.29	http://www.salute.gov.it/
 Lebanon	Lebanon	2021-02-20	2021-02-19T16:32:00.000Z	4257	351065	260390							42.29	2009.43	4818.86	https://corona.ministryinfo.gov.lb/
+Lee_County,_Georgia	Lee County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	50	2534								0.43	2.14		https://dph.georgia.gov/
 Leibnitz_District	Leibnitz District	2021-02-20	2021-02-19T21:00:00.000Z	87	3760	3513							0.43	14.43	11.43	https://info.gesundheitsministerium.at/
 Leiria	Leiria	2021-02-20	2021-02-20T00:00:00.000Z		556			0			0			-64.57		https://covid19.min-saude.pt/
 Leningrad_Oblast	Leningrad Oblast	2021-02-20	2021-02-19T08:00:00.000Z	559	34534	31159		188			0		8.86	161.57	128.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Leoben_District	Leoben District	2021-02-20	2021-02-19T21:00:00.000Z	89	2391	2212							0.14	7.29	5.86	https://info.gesundheitsministerium.at/
+Liberty_County,_Georgia	Liberty County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	48	3022								0.29	9.43		https://dph.georgia.gov/
 Lienz_District	Lienz District	2021-02-20	2021-02-19T21:00:00.000Z	41	3432	3260							0.0	11.14	13.14	https://info.gesundheitsministerium.at/
 Liezen_District	Liezen District	2021-02-20	2021-02-19T21:00:00.000Z	95	3903	3746							0.29	4.14	8.14	https://info.gesundheitsministerium.at/
 Liguria	Liguria	2021-02-20		3559	75147	66756	976976				274		7.43	229.43	221.71	http://www.salute.gov.it/
 Lilienfeld_District	Lilienfeld District	2021-02-20	2021-02-19T21:00:00.000Z	30	1085	1020							0.0	2.71	1.43	https://info.gesundheitsministerium.at/
+Lincoln_County,_Georgia	Lincoln County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	19	716								0.0	2.14		https://dph.georgia.gov/
 Linz	Linz	2021-02-20	2021-02-19T21:00:00.000Z	205	9677	9238							0.0	18.71	10.57	https://info.gesundheitsministerium.at/
 Lipetsk_Oblast	Lipetsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	414	23614	19950		127			0		2.29	116.43	104.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Lisbon	Lisbon	2021-02-20	2021-02-20T00:00:00.000Z		1451			0			0			-96.0		https://covid19.min-saude.pt/
 Lithuania	Lithuania	2021-02-20	2021-02-19T18:35:00.000Z	3145	192986	178126	2058431						12.57	392.14	660.14	https://koronastop.lrv.lt
 Lombardy	Lombardy	2021-02-20		27971	573747	493987	6287867				3724		30.14	1808.0	1401.0	http://www.salute.gov.it/
+Long_County,_Georgia	Long County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	12	774								0.14	1.57		https://dph.georgia.gov/
+Los_Lagos_Region	Los Lagos Region	2021-02-20	2021-02-19T04:00:00.000Z	558	49042	46344							6.29	256.14	262.29	https://www.minsal.cl/
+Los_Ríos_Region	Los Ríos Region	2021-02-20	2021-02-19T04:00:00.000Z	202	17645	16473							1.29	123.86	123.71	https://www.minsal.cl/
 Loures	Loures	2021-02-20	2021-02-20T00:00:00.000Z		1541			0			0			-95.0		https://covid19.min-saude.pt/
 Lousada	Lousada	2021-02-20	2021-02-20T00:00:00.000Z		607			0			0			-40.71		https://covid19.min-saude.pt/
 Lower_Austria	Lower Austria	2021-02-20	2021-02-19T21:00:00.000Z	1215	68435	63147							2.86	265.71	234.43	https://info.gesundheitsministerium.at/
+Lowndes_County,_Georgia	Lowndes County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	181	11288								0.29	19.43		https://dph.georgia.gov/
+Lumpkin_County,_Georgia	Lumpkin County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	55	2726								0.43	3.71		https://dph.georgia.gov/
 Macedo_de_Cavaleiros	Macedo de Cavaleiros	2021-02-20	2021-02-20T00:00:00.000Z		579			0			0			-60.0		https://covid19.min-saude.pt/
+Macon_County,_Georgia	Macon County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	25	776								0.29	1.86		https://dph.georgia.gov/
 Madalena,_Azores	Madalena, Azores	2021-02-20	2021-02-20T00:00:00.000Z		119			0			0			0.0		https://covid19.min-saude.pt/
+Madison_County,_Georgia	Madison County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	44	2966								0.29	6.43		https://dph.georgia.gov/
 Mafra,_Portugal	Mafra, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		1567			0			0			-90.0		https://covid19.min-saude.pt/
 Magadan_Oblast	Magadan Oblast	2021-02-20	2021-02-19T08:00:00.000Z	94	8089	7750		9			0		0.0	7.29	14.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Magallanes_Region	Magallanes Region	2021-02-20	2021-02-19T04:00:00.000Z	304	21353	20627							1.71	53.14	57.0	https://www.minsal.cl/
 Maia,_Portugal	Maia, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		458			0			0			-55.0		https://covid19.min-saude.pt/
+Maine	Maine	2021-02-20	2021-02-19T15:00:00.000Z	656	43225	12755	1737851						1.29	115.14	16.29	https://www.maine.gov/
 Malaysia	Malaysia	2021-02-20	2021-02-19T04:00:00.000Z	1043	277811	239971							12.14	2286.57	4383.14	http://www.moh.gov.my/
 Mangualde	Mangualde	2021-02-20	2021-02-20T00:00:00.000Z		800			0			0			-113.43		https://covid19.min-saude.pt/
 Mangystau_Region	Mangystau Region	2021-02-20		58	4190	3883							0.0	6.43	10.14	https://www.coronavirus2020.kz/
@@ -226,56 +301,76 @@ Marche	Marche	2021-02-20		2169	62704	52034	781587				488		10.43	321.57	250.86	ht
 Marco_de_Canaveses	Marco de Canaveses	2021-02-20	2021-02-20T00:00:00.000Z		470			0			0			-47.14		https://covid19.min-saude.pt/
 Mari_El	Mari El	2021-02-20	2021-02-19T08:00:00.000Z	165	11461	10154		37			0		0.71	34.43	31.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Marinha_Grande	Marinha Grande	2021-02-20	2021-02-20T00:00:00.000Z		493			0			0			-37.57		https://covid19.min-saude.pt/
+Marion_County,_Georgia	Marion County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	15	504								0.29	1.0		https://dph.georgia.gov/
 Matosinhos	Matosinhos	2021-02-20	2021-02-20T00:00:00.000Z		567			0			0			-55.57		https://covid19.min-saude.pt/
 Mattersburg_District	Mattersburg District	2021-02-20	2021-02-19T21:00:00.000Z	24	1474	1395							0.0	5.43	3.86	https://info.gesundheitsministerium.at/
+Maule_Region	Maule Region	2021-02-20	2021-02-19T04:00:00.000Z	802	40816	38259							4.43	191.43	222.71	https://www.minsal.cl/
 Mauritius	Mauritius	2021-02-20	2021-02-15T20:00:00.000Z	10	603	556							0.0	1.14	1.43	http://www.covid19.mu/
+McDuffie_County,_Georgia	McDuffie County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	42	2239								0.57	4.86		https://dph.georgia.gov/
+McIntosh_County,_Georgia	McIntosh County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	15	713								0.0	1.71		https://dph.georgia.gov/
 Mealhada	Mealhada	2021-02-20	2021-02-20T00:00:00.000Z		1296			0			0			-115.43		https://covid19.min-saude.pt/
 Melk_District	Melk District	2021-02-20	2021-02-19T21:00:00.000Z	80	3731	3448							0.0	16.14	5.57	https://info.gesundheitsministerium.at/
+Meriwether_County,_Georgia	Meriwether County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	51	1811								0.29	4.0		https://dph.georgia.gov/
+Miller_County,_Georgia	Miller County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	8	754								0.14	0.29		https://dph.georgia.gov/
 Mira,_Portugal	Mira, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		727			0			0			-31.43		https://covid19.min-saude.pt/
 Miranda_do_Corvo	Miranda do Corvo	2021-02-20	2021-02-20T00:00:00.000Z		1070			0			0			-110.14		https://covid19.min-saude.pt/
 Miranda_do_Douro	Miranda do Douro	2021-02-20	2021-02-20T00:00:00.000Z		659			0			0			-83.71		https://covid19.min-saude.pt/
 Mirandela	Mirandela	2021-02-20	2021-02-20T00:00:00.000Z		1232			0			0			-70.86		https://covid19.min-saude.pt/
 Mistelbach_District	Mistelbach District	2021-02-20	2021-02-19T21:00:00.000Z	30	2233	1952							0.0	15.86	18.71	https://info.gesundheitsministerium.at/
+Mitchell_County,_Georgia	Mitchell County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	74	1927								0.14	2.43		https://dph.georgia.gov/
 Mogadouro	Mogadouro	2021-02-20	2021-02-20T00:00:00.000Z		643			0			0			-114.14		https://covid19.min-saude.pt/
 Moimenta_da_Beira	Moimenta da Beira	2021-02-20	2021-02-20T00:00:00.000Z		1684			0			0			-163.0		https://covid19.min-saude.pt/
 Moita	Moita	2021-02-20	2021-02-20T00:00:00.000Z		1664			0			0			-48.57		https://covid19.min-saude.pt/
 Molise	Molise	2021-02-20		327	9914	7904	154240				114		3.0	77.57	54.57	http://www.salute.gov.it/
 Monchique	Monchique	2021-02-20	2021-02-20T00:00:00.000Z		2088			0			0			123.86		https://covid19.min-saude.pt/
+Monroe_County,_Georgia	Monroe County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	87	2313								0.29	10.86		https://dph.georgia.gov/
 Montalegre	Montalegre	2021-02-20	2021-02-20T00:00:00.000Z		667			0			0			-49.14		https://covid19.min-saude.pt/
 Montemor-o-Novo	Montemor-o-Novo	2021-02-20	2021-02-20T00:00:00.000Z		582			0			0			-121.43		https://covid19.min-saude.pt/
 Montemor-o-Velho	Montemor-o-Velho	2021-02-20	2021-02-20T00:00:00.000Z		1447			0			0			-82.71		https://covid19.min-saude.pt/
+Montgomery_County,_Georgia	Montgomery County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	20	846								0.0	0.57		https://dph.georgia.gov/
 Montijo,_Portugal	Montijo, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		1125			0			0			-44.57		https://covid19.min-saude.pt/
 Mordovia	Mordovia	2021-02-20	2021-02-19T08:00:00.000Z	153	17331	15229		62			0		0.57	55.0	77.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Morgan_County,_Georgia	Morgan County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	17	1779								0.57	4.71		https://dph.georgia.gov/
 Morocco	Morocco	2021-02-20	2021-02-19T17:00:00.000Z	8540	480504	463271	5089223						11.43	338.43	681.0	http://www.covidmaroc.ma/
 Moscow	Moscow	2021-02-20	2021-02-19T08:00:00.000Z	14631	964609	880767		1972			0		48.71	1427.14	1855.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moscow_Oblast	Moscow Oblast	2021-02-20	2021-02-19T08:00:00.000Z	4393	208209	170018		687			0		26.43	572.29	634.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Moura,_Portugal	Moura, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		2005			0			0			-44.71		https://covid19.min-saude.pt/
 Murau_District	Murau District	2021-02-20	2021-02-19T21:00:00.000Z	19	1302	1244							0.0	3.14	5.71	https://info.gesundheitsministerium.at/
 Murmansk_Oblast	Murmansk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	909	45901	43678		121			0		4.14	116.71	112.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Murray_County,_Georgia	Murray County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	68	4403								0.86	7.57		https://dph.georgia.gov/
 Murtal_District	Murtal District	2021-02-20	2021-02-19T21:00:00.000Z	145	3410	3154							0.43	8.86	6.0	https://info.gesundheitsministerium.at/
 Murtosa	Murtosa	2021-02-20	2021-02-20T00:00:00.000Z		905			0			0			-12.43		https://covid19.min-saude.pt/
+Muscogee_County,_Georgia	Muscogee County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	341	14031								2.57	32.0		https://dph.georgia.gov/
 Nelas	Nelas	2021-02-20	2021-02-20T00:00:00.000Z		755			0			0			-86.0		https://covid19.min-saude.pt/
 Nenets_Autonomous_Okrug	Nenets Autonomous Okrug	2021-02-20	2021-02-19T08:00:00.000Z	3	997	867		5			0		0.0	2.86	1.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Netherlands	Netherlands	2021-02-20	2021-02-18T22:00:00.000Z	15151	1048152								49.29	3080.43		https://www.rivm.nl/
 Neunkirchen_District,_Austria	Neunkirchen District, Austria	2021-02-20	2021-02-19T21:00:00.000Z	76	3616	3298							0.0	16.71	10.71	https://info.gesundheitsministerium.at/
 Neusiedl_am_See_District	Neusiedl am See District	2021-02-20	2021-02-19T21:00:00.000Z	30	2158	1988							0.14	11.43	7.14	https://info.gesundheitsministerium.at/
+New_Hampshire	New Hampshire	2021-02-20	2021-02-19T00:00:00.000Z	1152	72767	68559	657561						3.14	323.14	348.14	https://www.nh.gov/
 New_Zealand	New Zealand	2021-02-20	2021-02-20T01:00:00.000Z	26	2350	2273	1640686	2	0	1	-2	0	0.14	3.14	2.14	https://www.health.govt.nz/
+Newton_County,_Georgia	Newton County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	191	9085								0.86	28.43		https://dph.georgia.gov/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2021-02-20	2021-02-19T08:00:00.000Z	2349	92970	84988		416			0		9.14	361.86	365.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Nordeste,_Azores	Nordeste, Azores	2021-02-20	2021-02-20T00:00:00.000Z		82			0			0			0.0		https://covid19.min-saude.pt/
 Nordland	Nordland	2021-02-20	2021-02-19T12:00:00.000Z		1029									4.57		https://www.fhi.no/
 Normandy	Normandy	2021-02-20		2161		8235							10.86		39.86	https://www.santepubliquefrance.fr/
+North_Carolina	North Carolina	2021-02-20		10820	836650	765456	9825272						52.43	2560.86	5000.29	https://www.ncdhhs.gov/
 North_Kazakhstan_Region	North Kazakhstan Region	2021-02-20		42	12024	11319							0.0	38.57	47.43	https://www.coronavirus2020.kz/
 Norway	Norway	2021-02-20	2021-02-19T12:00:00.000Z	607	67824		3717004						2.14	226.86		https://www.fhi.no/
 Nouvelle-Aquitaine	Nouvelle-Aquitaine	2021-02-20		2682		10875							15.43		59.14	https://www.santepubliquefrance.fr/
 Novgorod_Oblast	Novgorod Oblast	2021-02-20	2021-02-19T08:00:00.000Z	113	26392	22829		102			0		0.0	93.0	90.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Novosibirsk_Oblast	Novosibirsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	1368	34676	32226		118			0		6.29	104.14	60.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Ñuble_Region	Ñuble Region	2021-02-20	2021-02-19T04:00:00.000Z	313	16016	14930							2.0	91.43	99.29	https://www.minsal.cl/
 Nur-Sultan	Nur-Sultan	2021-02-20		385	24351	22420							0.0	95.0	123.71	https://www.coronavirus2020.kz/
+O'Higgins_Region	O'Higgins Region	2021-02-20	2021-02-19T04:00:00.000Z	742	28848	27184							3.0	105.0	112.86	https://www.minsal.cl/
+O'Higgins_Region	O'Higgins Region	2021-02-20	2021-02-19T04:00:00.000Z	742	28848	27184							3.0	105.0	112.86	https://www.minsal.cl/
 Oberpullendorf_District	Oberpullendorf District	2021-02-20	2021-02-19T21:00:00.000Z	24	1579	1475							0.0	2.43	2.71	https://info.gesundheitsministerium.at/
 Oberwart_District	Oberwart District	2021-02-20	2021-02-19T21:00:00.000Z	55	2195	2038							0.14	7.86	3.43	https://info.gesundheitsministerium.at/
 Occitanie	Occitanie	2021-02-20		3084		13555							18.57		58.57	https://www.santepubliquefrance.fr/
+Oconee_County,_Georgia	Oconee County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	61	3516								0.71	7.57		https://dph.georgia.gov/
 Odemira	Odemira	2021-02-20	2021-02-20T00:00:00.000Z		627			0			0			-15.0		https://covid19.min-saude.pt/
 Odivelas	Odivelas	2021-02-20	2021-02-20T00:00:00.000Z		1759			0			0			-79.43		https://covid19.min-saude.pt/
 Oeiras,_Portugal	Oeiras, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		1490			0			0			-73.43		https://covid19.min-saude.pt/
+Oglethorpe_County,_Georgia	Oglethorpe County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	24	1361								0.29	3.43		https://dph.georgia.gov/
 Oliveira_de_Frades	Oliveira de Frades	2021-02-20	2021-02-20T00:00:00.000Z		1429			0			0			-166.86		https://covid19.min-saude.pt/
 Oliveira_do_Bairro	Oliveira do Bairro	2021-02-20	2021-02-20T00:00:00.000Z		688			0			0			-67.0		https://covid19.min-saude.pt/
 Oliveira_do_Hospital	Oliveira do Hospital	2021-02-20	2021-02-20T00:00:00.000Z		1044			0			0			-97.14		https://covid19.min-saude.pt/
@@ -287,8 +382,10 @@ Ovar	Ovar	2021-02-20	2021-02-20T00:00:00.000Z		947			0			0			-76.43		https://cov
 Palmela	Palmela	2021-02-20	2021-02-20T00:00:00.000Z		1694			0			0			-96.57		https://covid19.min-saude.pt/
 Paredes_de_Coura	Paredes de Coura	2021-02-20	2021-02-20T00:00:00.000Z		1359			0			0			-172.43		https://covid19.min-saude.pt/
 Paredes,_Portugal	Paredes, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		465			0			0			-42.43		https://covid19.min-saude.pt/
+Paulding_County,_Georgia	Paulding County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	173	14109								1.14	57.29		https://dph.georgia.gov/
 Pavlodar_Region	Pavlodar Region	2021-02-20		107	16839	16148							0.0	105.57	146.29	https://www.coronavirus2020.kz/
 Pays_de_la_Loire	Pays de la Loire	2021-02-20		1948		8289							8.14		34.29	https://www.santepubliquefrance.fr/
+Peach_County,_Georgia	Peach County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	47	2380								0.57	13.71		https://dph.georgia.gov/
 Penacova	Penacova	2021-02-20	2021-02-20T00:00:00.000Z		1300			0			0			-124.14		https://covid19.min-saude.pt/
 Penafiel	Penafiel	2021-02-20	2021-02-20T00:00:00.000Z		477			0			0			-60.29		https://covid19.min-saude.pt/
 Penela	Penela	2021-02-20	2021-02-20T00:00:00.000Z		2075			0			0			-53.0		https://covid19.min-saude.pt/
@@ -297,8 +394,12 @@ Penza_Oblast	Penza Oblast	2021-02-20	2021-02-19T08:00:00.000Z	424	36664	30869		1
 Perg_District	Perg District	2021-02-20	2021-02-19T21:00:00.000Z	61	4178	3939							0.29	9.43	10.29	https://info.gesundheitsministerium.at/
 Perm_Krai	Perm Krai	2021-02-20	2021-02-19T08:00:00.000Z	1640	44878	37069		243			0		9.0	215.86	139.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Phnom_Penh	Phnom Penh	2021-02-20	2021-02-20T07:00:00.000Z		290			0			-1			0.71		http://www.cdcmoh.gov.kh/
+Pickens_County,_Georgia	Pickens County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	63	3007								0.57	11.43		https://dph.georgia.gov/
 Piedmont	Piedmont	2021-02-20		9245	237382	215700	2403012				1307		17.14	646.43	605.0	http://www.salute.gov.it/
+Pierce_County,_Georgia	Pierce County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	49	2282								0.14	5.43		https://dph.georgia.gov/
+Pike_County,_Georgia	Pike County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	31	1997								0.14	5.43		https://dph.georgia.gov/
 Pinhel	Pinhel	2021-02-20	2021-02-20T00:00:00.000Z		1140			0			0			-124.14		https://covid19.min-saude.pt/
+Polk_County,_Georgia	Polk County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	74	5088								0.57	11.71		https://dph.georgia.gov/
 Pombal,_Portugal	Pombal, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		874			0			0			-86.43		https://covid19.min-saude.pt/
 Ponta_Delgada	Ponta Delgada	2021-02-20	2021-02-20T00:00:00.000Z		63			0			0			-8.43		https://covid19.min-saude.pt/
 Ponta_do_Sol,_Madeira	Ponta do Sol, Madeira	2021-02-20	2021-02-20T00:00:00.000Z		477			0			0			15.0		https://covid19.min-saude.pt/
@@ -314,13 +415,20 @@ Preah_Vihear_Province	Preah Vihear Province	2021-02-20	2021-02-20T07:00:00.000Z	
 Primorsky_Krai	Primorsky Krai	2021-02-20	2021-02-19T08:00:00.000Z	607	39474	32821		112			0		2.29	102.43	213.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Provence-Alpes-Côte_d'Azur	Provence-Alpes-Côte d'Azur	2021-02-20		5400		25634							38.43		143.29	https://www.santepubliquefrance.fr/
 Pskov_Oblast	Pskov Oblast	2021-02-20	2021-02-19T08:00:00.000Z	163	31108	20423		115			0		1.57	73.86	102.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Pulaski_County,_Georgia	Pulaski County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	37	860								0.43	3.71		https://dph.georgia.gov/
+Putnam_County,_Georgia	Putnam County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	46	1955								0.0	4.57		https://dph.georgia.gov/
 Qatar	Qatar	2021-02-20	2021-02-18T21:00:00.000Z	256	159518	149320	1491675	465			0		0.14	387.71	169.0	https://www.moph.gov.qa/
+Quitman_County,_Georgia	Quitman County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	1	151								0.0	0.0		https://dph.georgia.gov/
+Rabun_County,_Georgia	Rabun County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	44	1542								0.71	1.71		https://dph.georgia.gov/
+Randolph_County,_Georgia	Randolph County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	32	587								0.0	1.29		https://dph.georgia.gov/
 Reguengos_de_Monsaraz	Reguengos de Monsaraz	2021-02-20	2021-02-20T00:00:00.000Z		869			0			0			-118.29		https://covid19.min-saude.pt/
 Republic_of_Karelia	Republic of Karelia	2021-02-20	2021-02-19T08:00:00.000Z	282	39543	35177		162			0		2.0	142.29	164.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Resende,_Portugal	Resende, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		2496			0			0			62.0		https://covid19.min-saude.pt/
 Reutte_District	Reutte District	2021-02-20	2021-02-19T21:00:00.000Z	4	1345	1257							0.0	7.71	5.57	https://info.gesundheitsministerium.at/
 Ribeira_de_Pena	Ribeira de Pena	2021-02-20	2021-02-20T00:00:00.000Z		1097			0			0			-97.43		https://covid19.min-saude.pt/
+Richmond_County,_Georgia	Richmond County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	408	22287								3.43	56.14		https://dph.georgia.gov/
 Rio_Maior	Rio Maior	2021-02-20	2021-02-20T00:00:00.000Z		2625			0			0			-125.57		https://covid19.min-saude.pt/
+Rockdale_County,_Georgia	Rockdale County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	139	6316								2.0	23.57		https://dph.georgia.gov/
 Rogaland	Rogaland	2021-02-20	2021-02-19T12:00:00.000Z		3481									3.43		https://www.fhi.no/
 Rohrbach_District	Rohrbach District	2021-02-20	2021-02-19T21:00:00.000Z	93	4368	4082							0.43	9.29	8.29	https://info.gesundheitsministerium.at/
 Rostov_Oblast	Rostov Oblast	2021-02-20	2021-02-19T08:00:00.000Z	3017	70326	60542		320			0		12.14	282.43	276.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -339,9 +447,12 @@ Santo_Tirso	Santo Tirso	2021-02-20	2021-02-20T00:00:00.000Z		732			0			0			-52.7
 Saratov_Oblast	Saratov Oblast	2021-02-20	2021-02-19T08:00:00.000Z	619	47640	42642		220			0		3.14	190.86	215.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Sardinia	Sardinia	2021-02-20		1102	40582	26151	715073				44		6.14	65.43	158.71	http://www.salute.gov.it/
 Scheibbs_District	Scheibbs District	2021-02-20	2021-02-19T21:00:00.000Z	32	2528	2413							0.0	5.43	3.71	https://info.gesundheitsministerium.at/
+Schley_County,_Georgia	Schley County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	3	301								0.14	0.14		https://dph.georgia.gov/
 Schwaz_District	Schwaz District	2021-02-20	2021-02-19T21:00:00.000Z	117	7749	7448							0.14	17.29	16.0	https://info.gesundheitsministerium.at/
+Screven_County,_Georgia	Screven County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	21	871								0.14	1.29		https://dph.georgia.gov/
 Seia	Seia	2021-02-20	2021-02-20T00:00:00.000Z		1183			0			0			-105.29		https://covid19.min-saude.pt/
 Seixal	Seixal	2021-02-20	2021-02-20T00:00:00.000Z		1472			0			0			-87.71		https://covid19.min-saude.pt/
+Seminole_County,_Georgia	Seminole County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	17	889								0.29	0.57		https://dph.georgia.gov/
 Sernancelhe	Sernancelhe	2021-02-20	2021-02-20T00:00:00.000Z		1723			0			0			-307.14		https://covid19.min-saude.pt/
 Serpa	Serpa	2021-02-20	2021-02-20T00:00:00.000Z		1077			0			0			29.0		https://covid19.min-saude.pt/
 Sesimbra	Sesimbra	2021-02-20	2021-02-20T00:00:00.000Z		1737			0			0			-94.86		https://covid19.min-saude.pt/
@@ -356,45 +467,68 @@ Sintra	Sintra	2021-02-20	2021-02-20T00:00:00.000Z		1747			0			0			-89.0		https:/
 Smolensk_Oblast	Smolensk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	559	25406	22899		122			0		5.71	121.71	107.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Soure,_Portugal	Soure, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		1081			0			0			-36.71		https://covid19.min-saude.pt/
 South_Tyrol	South Tyrol	2021-02-20		970	50800	42552	654963				524		5.0	374.71	531.57	http://www.salute.gov.it/
+Spalding_County,_Georgia	Spalding County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	151	5368								0.71	12.71		https://dph.georgia.gov/
 Spittal_an_der_Drau_District	Spittal an der Drau District	2021-02-20	2021-02-19T21:00:00.000Z	94	3530	3056							0.86	22.57	20.29	https://info.gesundheitsministerium.at/
 Sri_Lanka	Sri Lanka	2021-02-20	2021-02-19T23:38:00.000Z	433	78937	72566							6.14	583.57	676.43	https://hpb.health.gov.lk/
 Stavropol_Krai	Stavropol Krai	2021-02-20	2021-02-19T08:00:00.000Z	1029	46357	41974		160			0		4.29	144.0	144.57	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Stephens_County,_Georgia	Stephens County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	72	2915								0.29	3.29		https://dph.georgia.gov/
+Stewart_County,_Georgia	Stewart County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	21	849								0.0	6.14		https://dph.georgia.gov/
 Steyr	Steyr	2021-02-20	2021-02-19T21:00:00.000Z	18	1712	1658							0.0	2.43	1.57	https://info.gesundheitsministerium.at/
 Styria	Styria	2021-02-20	2021-02-19T21:00:00.000Z	1708	53408	48896							4.57	226.29	178.43	https://info.gesundheitsministerium.at/
+Sumter_County,_Georgia	Sumter County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	92	2404								0.43	1.86		https://dph.georgia.gov/
 Sverdlovsk_Oblast	Sverdlovsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	2281	75921	68794		216			0		10.14	203.57	213.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Switzerland	Switzerland	2021-02-20	2021-02-19T23:00:00.000Z	9883	539970			0	0		-1009	-8	19.43	974.29		https://www.bag.admin.ch/
+Talbot_County,_Georgia	Talbot County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	15	441								0.0	1.43		https://dph.georgia.gov/
+Taliaferro_County,_Georgia	Taliaferro County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	1	113								0.14	0.0		https://dph.georgia.gov/
 Tambov_Oblast	Tambov Oblast	2021-02-20	2021-02-19T08:00:00.000Z	321	25159	23044		128			0		2.14	111.0	105.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tarapacá_Region	Tarapacá Region	2021-02-20	2021-02-19T04:00:00.000Z	398	23743	22430							1.57	99.71	88.86	https://www.minsal.cl/
 Tatarstan	Tatarstan	2021-02-20	2021-02-19T08:00:00.000Z	310	17486	14095		59			0		2.0	55.71	59.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Tattnall_County,_Georgia	Tattnall County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	56	2154								0.57	3.43		https://dph.georgia.gov/
 Tavira	Tavira	2021-02-20	2021-02-20T00:00:00.000Z		404			0			0			-72.71		https://covid19.min-saude.pt/
+Taylor_County,_Georgia	Taylor County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	23	746								0.14	2.14		https://dph.georgia.gov/
 Tboung_Khmum_Province	Tboung Khmum Province	2021-02-20	2021-02-20T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
+Telfair_County,_Georgia	Telfair County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	50	1233								0.14	2.0		https://dph.georgia.gov/
 Terras_de_Bouro	Terras de Bouro	2021-02-20	2021-02-20T00:00:00.000Z		645			0			0			-62.86		https://covid19.min-saude.pt/
+Terrell_County,_Georgia	Terrell County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	39	739								0.0	0.43		https://dph.georgia.gov/
+Thomas_County,_Georgia	Thomas County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	112	4126								0.86	5.0		https://dph.georgia.gov/
+Tift_County,_Georgia	Tift County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	118	4619								0.57	4.43		https://dph.georgia.gov/
 Tomar	Tomar	2021-02-20	2021-02-20T00:00:00.000Z		1012			0			0			-91.0		https://covid19.min-saude.pt/
 Tomsk_Oblast	Tomsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	299	29744	27607		64			0		1.29	57.29	98.0	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tondela	Tondela	2021-02-20	2021-02-20T00:00:00.000Z		1222			0			0			-81.29		https://covid19.min-saude.pt/
+Toombs_County,_Georgia	Toombs County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	100	3161								0.57	4.29		https://dph.georgia.gov/
 Torre_de_Moncorvo	Torre de Moncorvo	2021-02-20	2021-02-20T00:00:00.000Z		338			0			0			-37.14		https://covid19.min-saude.pt/
 Torres_Novas	Torres Novas	2021-02-20	2021-02-20T00:00:00.000Z		512			0			0			-74.14		https://covid19.min-saude.pt/
 Torres_Vedras	Torres Vedras	2021-02-20	2021-02-20T00:00:00.000Z		1023			0			0			-81.29		https://covid19.min-saude.pt/
+Towns_County,_Georgia	Towns County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	49	1073								0.57	2.43		https://dph.georgia.gov/
 Trancoso,_Portugal	Trancoso, Portugal	2021-02-20	2021-02-20T00:00:00.000Z		710			0			0			-104.57		https://covid19.min-saude.pt/
 Trentino	Trentino	2021-02-20		1193	31411	27334	581938				256		2.43	178.14	151.29	http://www.salute.gov.it/
+Treutlen_County,_Georgia	Treutlen County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	22	824								0.0	4.86		https://dph.georgia.gov/
 Trofa	Trofa	2021-02-20	2021-02-20T00:00:00.000Z		750			0			0			-87.71		https://covid19.min-saude.pt/
 Troms_og_Finnmark	Troms og Finnmark	2021-02-20	2021-02-19T12:00:00.000Z		1225									0.57		https://www.fhi.no/
+Troup_County,_Georgia	Troup County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	189	6848								0.71	12.43		https://dph.georgia.gov/
 Tula_Oblast	Tula Oblast	2021-02-20	2021-02-19T08:00:00.000Z	1176	31881	29495		138			0		6.57	121.86	136.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tulln_District	Tulln District	2021-02-20	2021-02-19T21:00:00.000Z	66	3758	3439							0.43	11.29	13.57	https://info.gesundheitsministerium.at/
 Turkey	Turkey	2021-02-20		27903	2624019	2511548	32098166						75.14	6303.29	6161.29	https://covid19.saglik.gov.tr/
 Turkistan_Region	Turkistan Region	2021-02-20		48	4240	4116							0.0	5.0	13.71	https://www.coronavirus2020.kz/
+Turner_County,_Georgia	Turner County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	31	949								0.29	1.14		https://dph.georgia.gov/
 Tuscany	Tuscany	2021-02-20		4516	146900	129174	2547014				924		14.57	607.14	405.29	http://www.salute.gov.it/
 Tuva	Tuva	2021-02-20	2021-02-19T08:00:00.000Z	193	15600	14484		3			0		0.43	3.0	4.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Tver_Oblast	Tver Oblast	2021-02-20	2021-02-19T08:00:00.000Z	593	32390	29237		154			0		4.0	136.57	181.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
+Twiggs_County,_Georgia	Twiggs County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	34	606								0.29	1.86		https://dph.georgia.gov/
 Tyrol_(state)	Tyrol (state)	2021-02-20	2021-02-19T21:00:00.000Z	615	46379	44683							1.29	79.71	80.71	https://info.gesundheitsministerium.at/
 Tyumen_Oblast	Tyumen Oblast	2021-02-20	2021-02-19T08:00:00.000Z	269	30515	28692		91			0		0.57	86.14	84.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Udmurtia	Udmurtia	2021-02-20	2021-02-19T08:00:00.000Z	582	27379	24079		92			0		3.29	81.29	82.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Ulyanovsk_Oblast	Ulyanovsk Oblast	2021-02-20	2021-02-19T08:00:00.000Z	745	46648	43270		123			0		6.43	108.71	107.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Umbria	Umbria	2021-02-20		959	42359	32961	763845				301		9.29	241.71	181.43	http://www.salute.gov.it/
+Union_County,_Georgia	Union County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	65	2029								0.0	3.57		https://dph.georgia.gov/
 United_Arab_Emirates	United Arab Emirates	2021-02-20	2021-02-19T11:52:00.000Z	1093	365017	351715	28997070						13.14	2773.14	3562.14	https://covid19.ncema.gov.ae/
+United_States	United States	2021-02-20	2021-02-20T06:06:45.904Z	493236	27861859								1569.14	57960.29		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2021-02-20	2021-02-19T21:00:00.000Z	1389	83901	79424							2.0	190.29	154.29	https://info.gesundheitsministerium.at/
+Upson_County,_Georgia	Upson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	109	3173								0.29	4.0		https://dph.georgia.gov/
 Vagos	Vagos	2021-02-20	2021-02-20T00:00:00.000Z		501			0			0			-51.0		https://covid19.min-saude.pt/
 Vale_de_Cambra	Vale de Cambra	2021-02-20	2021-02-20T00:00:00.000Z		971			0			0			-121.86		https://covid19.min-saude.pt/
 Valongo	Valongo	2021-02-20	2021-02-20T00:00:00.000Z		402			0			0			-70.43		https://covid19.min-saude.pt/
+Valparaíso_Region	Valparaíso Region	2021-02-20	2021-02-19T04:00:00.000Z	1531	47484	44276							6.57	208.43	160.43	https://www.minsal.cl/
 Vendas_Novas	Vendas Novas	2021-02-20	2021-02-20T00:00:00.000Z		578			0			0			-48.14		https://covid19.min-saude.pt/
 Veneto	Veneto	2021-02-20		9683	324545	293375	4716720				657		27.71	512.14	976.14	http://www.salute.gov.it/
 Vestfold_og_Telemark	Vestfold og Telemark	2021-02-20	2021-02-19T12:00:00.000Z		3363									16.71		https://www.fhi.no/
@@ -428,11 +562,26 @@ Voronezh_Oblast	Voronezh Oblast	2021-02-20	2021-02-19T08:00:00.000Z	1835	65097	5
 Vouzela	Vouzela	2021-02-20	2021-02-20T00:00:00.000Z		1050			0			0			-158.86		https://covid19.min-saude.pt/
 Waidhofen_an_der_Thaya_District	Waidhofen an der Thaya District	2021-02-20	2021-02-19T21:00:00.000Z	14	1052	966							0.0	5.14	2.43	https://info.gesundheitsministerium.at/
 Waidhofen_an_der_Ybbs	Waidhofen an der Ybbs	2021-02-20	2021-02-19T21:00:00.000Z	10	634	605							0.0	1.71	0.43	https://info.gesundheitsministerium.at/
+Walker_County,_Georgia	Walker County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	74	6318								0.0	21.71		https://dph.georgia.gov/
+Walton_County,_Georgia	Walton County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	205	9006								1.43	20.14		https://dph.georgia.gov/
+Ware_County,_Georgia	Ware County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	141	4521								1.14	9.14		https://dph.georgia.gov/
+Warren_County,_Georgia	Warren County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	11	487								0.14	0.14		https://dph.georgia.gov/
+Washington_County,_Georgia	Washington County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	65	1911								0.29	2.14		https://dph.georgia.gov/
+Washington,_D.C.	Washington, D.C.	2021-02-20	2020-03-31T04:00:00.000Z	993	39461	28202	1186987						2.0	95.0	93.29	https://coronavirus.dc.gov/
+Wayne_County,_Georgia	Wayne County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	72	3253								0.43	12.14		https://dph.georgia.gov/
+Webster_County,_Georgia	Webster County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	4	134								0.0	0.43		https://dph.georgia.gov/
 Weiz_District	Weiz District	2021-02-20	2021-02-19T21:00:00.000Z	123	3603	3157							0.57	24.14	14.0	https://info.gesundheitsministerium.at/
 Wels	Wels	2021-02-20	2021-02-19T21:00:00.000Z	58	3689	3435							0.0	15.14	11.0	https://info.gesundheitsministerium.at/
 West_Kazakhstan_Region	West Kazakhstan Region	2021-02-20		199	12473	10031							0.0	66.29	61.57	https://www.coronavirus2020.kz/
+Wheeler_County,_Georgia	Wheeler County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	23	613								0.14	0.71		https://dph.georgia.gov/
+White_County,_Georgia	White County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	72	2981								0.71	5.43		https://dph.georgia.gov/
+Whitfield_County,_Georgia	Whitfield County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	209	15676								0.71	19.71		https://dph.georgia.gov/
 Wiener_Neustadt	Wiener Neustadt	2021-02-20	2021-02-19T21:00:00.000Z	61	2256	1987							0.0	11.43	15.43	https://info.gesundheitsministerium.at/
+Wilcox_County,_Georgia	Wilcox County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	44	776								0.14	1.71		https://dph.georgia.gov/
+Wilkes_County,_Georgia	Wilkes County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	21	1000								0.0	0.86		https://dph.georgia.gov/
+Wilkinson_County,_Georgia	Wilkinson County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	22	860								0.14	2.71		https://dph.georgia.gov/
 Wolfsberg_District	Wolfsberg District	2021-02-20	2021-02-19T21:00:00.000Z	65	2657	2499							0.0	3.86	3.71	https://info.gesundheitsministerium.at/
+Worth_County,_Georgia	Worth County, Georgia	2021-02-20	2021-02-19T18:50:14.000Z	60	1670								0.0	1.29		https://dph.georgia.gov/
 Yamalo-Nenets_Autonomous_Okrug	Yamalo-Nenets Autonomous Okrug	2021-02-20	2021-02-19T08:00:00.000Z	394	36718	34387		48			0		0.43	43.86	86.71	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Yaroslavl_Oblast	Yaroslavl Oblast	2021-02-20	2021-02-19T08:00:00.000Z	369	31435	29688		161			0		2.57	141.14	149.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Zabaykalsky_Krai	Zabaykalsky Krai	2021-02-20	2021-02-19T08:00:00.000Z	512	37615	35946		135			0		1.43	126.29	159.14	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
