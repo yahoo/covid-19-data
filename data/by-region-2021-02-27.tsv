@@ -1,6 +1,15 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Earth	Earth	2021-02-27	2021-02-26T19:43:46.280Z	2444333	110037042								6689.14	270563.71	187385.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Akmola_Region	Akmola Region	2021-02-27		104	13440	12278							0.0	59.57	70.86	https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2021-02-27		50	4239	4026							0.0	10.57	9.14	https://www.coronavirus2020.kz/
+Almaty	Almaty	2021-02-27		452	24773	22985							0.0	88.14	73.29	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2021-02-27		114	10663	9689							0.0	40.43	38.57	https://www.coronavirus2020.kz/
+Atyrau_Region	Atyrau Region	2021-02-27		128	17082	16541							0.0	28.57	30.71	https://www.coronavirus2020.kz/
+Banteay_Meanchey_Province	Banteay Meanchey Province	2021-02-27	2021-02-27T07:00:00.000Z		58			0			0			0.14		http://www.cdcmoh.gov.kh/
+Battambang_Province	Battambang Province	2021-02-27	2021-02-27T07:00:00.000Z		26			0			0			0.0		http://www.cdcmoh.gov.kh/
+Cambodia	Cambodia	2021-02-27	2021-02-27T07:00:00.000Z	0	741	477		0	0	0	-44	0	0.0	36.71	1.0	http://www.cdcmoh.gov.kh/
+Earth	Earth	2021-02-27	2021-02-26T21:33:34.080Z	2444926	110054337								6773.86	273034.43	188064.57	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Kazakhstan_Region	East Kazakhstan Region	2021-02-27		332	21897	20025							0.0	56.29	14.14	https://www.coronavirus2020.kz/
+India	India	2021-02-27	2021-02-26T02:30:00.000Z	156825	11063491	10750680							87.57	12300.57	10376.0	https://www.mohfw.gov.in/
 Jambyl_Region	Jambyl Region	2021-02-27		64	5915	5627							0.0	13.57	11.0	https://www.coronavirus2020.kz/
 Kampong_Cham_Province	Kampong Cham Province	2021-02-27	2021-02-27T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampong_Chhnang_Province	Kampong Chhnang Province	2021-02-27	2021-02-27T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
@@ -23,6 +32,7 @@ Preah_Vihear_Province	Preah Vihear Province	2021-02-27	2021-02-27T07:00:00.000Z	
 Shymkent	Shymkent	2021-02-27		94	6111	5551							0.0	8.57	4.86	https://www.coronavirus2020.kz/
 Siem_Reap_Province	Siem Reap Province	2021-02-27	2021-02-27T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2021-02-27	2021-02-26T04:00:00.000Z	29	59913	59803	7290760	13	0	18	13	0	0.0	9.57	15.14	https://www.moh.gov.sg/covid-19
+Sri_Lanka	Sri Lanka	2021-02-27	2021-02-26T15:55:00.000Z	464	82430	77625							4.43	499.0	722.71	https://hpb.health.gov.lk/
 Tboung_Khmum_Province	Tboung Khmum Province	2021-02-27	2021-02-27T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
 Turkistan_Region	Turkistan Region	2021-02-27		48	4267	4160							0.0	3.86	6.29	https://www.coronavirus2020.kz/
 Vietnam	Vietnam	2021-02-27		35	2426	1839							0.0	8.29	30.29	https://ncov.moh.gov.vn/
