@@ -1,17 +1,37 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
-Earth	Earth	2021-03-01	2021-02-28T19:04:47.810Z	2460401	110761249								7333.14	295256.29	197901.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Akmola_Region	Akmola Region	2021-03-01		104	13580	12456							0.0	57.57	89.57	https://www.coronavirus2020.kz/
+Aktobe_Region	Aktobe Region	2021-03-01		50	4262	4037							0.0	10.14	10.71	https://www.coronavirus2020.kz/
+Almaty	Almaty	2021-03-01		452	24977	23084							0.0	88.29	64.14	https://www.coronavirus2020.kz/
+Almaty_Region	Almaty Region	2021-03-01		114	10796	9795							0.0	45.71	37.0	https://www.coronavirus2020.kz/
+Atyrau_Region	Atyrau Region	2021-03-01		128	17167	16609							0.0	32.57	30.29	https://www.coronavirus2020.kz/
+Banteay_Meanchey_Province	Banteay Meanchey Province	2021-03-01	2021-03-01T07:00:00.000Z		58			0			0			0.0		http://www.cdcmoh.gov.kh/
+Battambang_Province	Battambang Province	2021-03-01	2021-03-01T07:00:00.000Z		26			0			0			0.0		http://www.cdcmoh.gov.kh/
+Cambodia	Cambodia	2021-03-01	2021-03-01T07:00:00.000Z	0	805	477		0	0	0	-39	0	0.0	33.86	0.29	http://www.cdcmoh.gov.kh/
+Earth	Earth	2021-03-01	2021-02-28T20:01:17.908Z	2460546	110766611								7353.86	296022.29	198530.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+East_Kazakhstan_Region	East Kazakhstan Region	2021-03-01		332	21998	20112							0.0	55.43	24.14	https://www.coronavirus2020.kz/
+Jambyl_Region	Jambyl Region	2021-03-01		64	5947	5657							0.0	13.14	15.29	https://www.coronavirus2020.kz/
 Kampong_Cham_Province	Kampong Cham Province	2021-03-01	2021-03-01T07:00:00.000Z		16			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampong_Chhnang_Province	Kampong Chhnang Province	2021-03-01	2021-03-01T07:00:00.000Z		3			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kampot_Province	Kampot Province	2021-03-01	2021-03-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
 Kandal_Province	Kandal Province	2021-03-01	2021-03-01T07:00:00.000Z		11			0			0			1.29		http://www.cdcmoh.gov.kh/
+Karaganda_Region	Karaganda Region	2021-03-01		307	15401	14186							0.0	43.29	40.71	https://www.coronavirus2020.kz/
 Kazakhstan	Kazakhstan	2021-03-01		2540	212809	196543							0.0	670.29	686.29	https://www.coronavirus2020.kz/
 Kep_Province	Kep Province	2021-03-01	2021-03-01T07:00:00.000Z		4			0			0			0.0		http://www.cdcmoh.gov.kh/
 Koh_Kong_Province	Koh Kong Province	2021-03-01	2021-03-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Kostanay_Region	Kostanay Region	2021-03-01		40	12312	10890							0.0	56.29	76.14	https://www.coronavirus2020.kz/
+Kyzylorda_Region	Kyzylorda Region	2021-03-01		16	3841	3684							0.0	7.71	8.14	https://www.coronavirus2020.kz/
 Malaysia	Malaysia	2021-03-01	2021-02-28T04:00:00.000Z	1130	300752	273417							9.71	2141.57	2970.57	http://www.moh.gov.my/
+Mangystau_Region	Mangystau Region	2021-03-01		58	4226	3919							0.0	3.43	3.14	https://www.coronavirus2020.kz/
 New_Zealand	New Zealand	2021-03-01	2021-02-28T01:00:00.000Z	26	2376	2285	1707380						0.0	2.71	1.14	https://www.health.govt.nz/
+North_Kazakhstan_Region	North Kazakhstan Region	2021-03-01		42	12310	11762							0.0	30.29	55.0	https://www.coronavirus2020.kz/
+Nur-Sultan	Nur-Sultan	2021-03-01		385	25053	23196							0.0	82.43	74.14	https://www.coronavirus2020.kz/
+Pavlodar_Region	Pavlodar Region	2021-03-01		107	17535	16887							0.0	71.43	84.71	https://www.coronavirus2020.kz/
 Phnom_Penh	Phnom Penh	2021-03-01	2021-03-01T07:00:00.000Z		565			0			-27			27.43		http://www.cdcmoh.gov.kh/
 Preah_Vihear_Province	Preah Vihear Province	2021-03-01	2021-03-01T07:00:00.000Z		2			0			0			0.0		http://www.cdcmoh.gov.kh/
+Shymkent	Shymkent	2021-03-01		94	6147	5584							0.0	10.71	7.71	https://www.coronavirus2020.kz/
 Siem_Reap_Province	Siem Reap Province	2021-03-01	2021-03-01T07:00:00.000Z		9			0			0			0.0		http://www.cdcmoh.gov.kh/
 Singapore	Singapore	2021-03-01	2021-02-28T04:00:00.000Z	29	59936	59823	7290760						0.0	9.57	13.14	https://www.moh.gov.sg/covid-19
 Tboung_Khmum_Province	Tboung Khmum Province	2021-03-01	2021-03-01T07:00:00.000Z		8			0			0			0.0		http://www.cdcmoh.gov.kh/
+Turkistan_Region	Turkistan Region	2021-03-01		48	4284	4169							0.0	5.29	5.86	https://www.coronavirus2020.kz/
 Vietnam	Vietnam	2021-03-01		35	2448	1876							0.0	8.0	22.71	https://ncov.moh.gov.vn/
+West_Kazakhstan_Region	West Kazakhstan Region	2021-03-01		199	12973	10516							0.0	56.57	59.57	https://www.coronavirus2020.kz/
