@@ -1494,7 +1494,7 @@ Amadora	CountyAdminArea|CityTown	736078	Amadora	Amadora				-9.23785	38.75931		Po
 Amapá	StateAdminArea	2344846	Amapá	Amapá				-52.37802	1.5806	669526	Brazil
 Amarante,_Portugal	CityTown	736080	Amarante, Portugal	Amarante,_Portugal				-8.08063	41.27308		Portugal
 Amares	CountyAdminArea|CityTown	736085	Amares	Amares				-8.34939	41.63051		Portugal
-Amazonas_(Brazilian_state)	StateAdminArea	2344847	Amazonas (Brazilian state)	Amazonas_(Brazilian_state)				-64.94689	-3.79107		Brazil
+Amazonas_(Brazilian_state)	StateAdminArea	2344847	Amazonas (Brazilian state)	Amazonas_(Brazilian_state)				-64.94689	-3.79107	3483985	Brazil
 Amber,_Oklahoma	CityTown	2354158	Amber, Oklahoma	Amber,_Oklahoma				-97.88205	35.1601	419	Grady_County,_Oklahoma
 Amelia_County,_Virginia	CountyAdminArea	12590308	Amelia County, Virginia	Amelia_County,_Virginia			51007	-77.9497	37.34515	13145	Virginia
 American_Samoa	StateAdminArea	23424746	American Samoa	American_Samoa				-170.70238	-14.30996	55465	United_States
@@ -2052,7 +2052,7 @@ Cabeceiras_de_Basto	CityTown	737736	Cabeceiras de Basto	Cabeceiras_de_Basto				-
 Cabell_County,_West_Virginia	CountyAdminArea	12590484	Cabell County, West Virginia	Cabell_County,_West_Virginia			54011	-82.27749	38.41317	91945	West_Virginia
 Cache_County,_Utah	CountyAdminArea	12590263	Cache County, Utah	Cache_County,_Utah			49005	-111.78385	41.6842	128289	Utah
 Cache,_Oklahoma	CountyAdminArea|CityTown	2372931	Cache, Oklahoma	Cache,_Oklahoma				-98.63275	34.62829	2796	Comanche_County,_Oklahoma
-Cadaval	CountyAdminArea|CityTown	737844	Cadaval	Cadaval				-9.10238	39.24272		Portugal
+Cadaval	CityTown	737844	Cadaval	Cadaval				-9.10238	39.24272		Portugal
 Caddo_County,_Oklahoma	CountyAdminArea	12589622	Caddo County, Oklahoma	Caddo_County,_Oklahoma			40015	-98.35748	35.20323	28762	Oklahoma
 Caddo_Parish,_Louisiana	CountyAdminArea	12588604	Caddo Parish, Louisiana	Caddo_Parish,_Louisiana			22017	-93.90107	32.60764	240204	Louisiana
 Cades,_South_Carolina	CityTown	2372978	Cades, South Carolina	Cades,_South_Carolina				-79.78721	33.78968		Williamsburg_County,_South_Carolina
@@ -4057,7 +4057,7 @@ Krems_an_der_Donau	CityTown	542516	Krems an der Donau	Krems_an_der_Donau				15.5
 Kufstein_District	CountyAdminArea	12591744	Kufstein District	Kufstein_District				12.05468	47.53207	101321	Austria
 Kurgan_Oblast	CountyAdminArea|StateAdminArea	12598548	Kurgan Oblast	Kurgan_Oblast				65.3053	55.4143		Russia
 Kursk_Oblast	CountyAdminArea|StateAdminArea	12598579	Kursk Oblast	Kursk_Oblast				36.1871	51.7173		Russia
-Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02270	-163.23764	62.11722	8314	Alaska
+Kusilvak_Census_Area,_Alaska	CountyAdminArea	12587577	Kusilvak Census Area, Alaska	Kusilvak_Census_Area,_Alaska			02158	-163.23764	62.11722	8314	Alaska
 Kuwait	Country	23424870	Kuwait	Kuwait	KW			47.49445	29.31015	4137309	Earth
 Kyrgyzstan	Country	23424864	Kyrgyzstan	Kyrgyzstan	KG			74.7799	41.20554	6322800	Earth
 Kyzylorda_Region	StateAdminArea	2345990	Kyzylorda Region	Kyzylorda_Region				63.48485	45.36045	799533	Hotel_Kazakhstan
@@ -5203,7 +5203,7 @@ Odisha	StateAdminArea	2345755	Odisha	Odisha				84.43997	20.19048	41974218	India
 Odivelas	CityTown	744649	Odivelas	Odivelas				-9.17687	38.79129		Portugal
 Oeiras,_Portugal	CityTown	744651	Oeiras, Portugal	Oeiras,_Portugal				-9.3099	38.69295		Portugal
 Ogemaw_County,_Michigan	CountyAdminArea	12588778	Ogemaw County, Michigan	Ogemaw_County,_Michigan			26129	-84.1269	44.33494	20997	Michigan
-Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46102	-102.5411	43.35291	14177	South_Dakota
+Oglala_Lakota_County,_South_Dakota	CountyAdminArea	12589901	Oglala Lakota County, South Dakota	Oglala_Lakota_County,_South_Dakota			46113	-102.5411	43.35291	14177	South_Dakota
 Ogle_County,_Illinois	CountyAdminArea	12588148	Ogle County, Illinois	Ogle_County,_Illinois			17141	-89.31374	42.04511	50643	Illinois
 Oglethorpe_County,_Georgia	CountyAdminArea	12587978	Oglethorpe County, Georgia	Oglethorpe_County,_Georgia			13221	-83.04269	33.8687	15259	Georgia_(U.S._state)
 Ohio	StateAdminArea	2347594	Ohio	Ohio		US-OH		-82.78995	40.29147	11689100	United_States
@@ -5279,7 +5279,7 @@ Osceola_County,_Florida	CountyAdminArea	12587851	Osceola County, Florida	Osceola
 Osceola_County,_Iowa	CountyAdminArea	12588343	Osceola County, Iowa	Osceola_County,_Iowa			19143	-95.62465	43.37774	5958	Iowa
 Osceola_County,_Michigan	CountyAdminArea	12588780	Osceola County, Michigan	Osceola_County,_Michigan			26133	-85.32598	43.98935	23460	Michigan
 Oscoda_County,_Michigan	CountyAdminArea	12588781	Oscoda County, Michigan	Oscoda_County,_Michigan			26135	-84.12936	44.68186	8241	Michigan
-Oslo	CountyAdminArea|CityTown	862592	Oslo	Oslo				10.78136	59.92022	697549	Norway
+Oslo	CountyAdminArea|CityTown	862592	Oslo	Oslo				10.78136	59.92022	634293	Norway
 Oswego_County,_New_York	CountyAdminArea	12589349	Oswego County, New York	Oswego_County,_New_York			36075	-76.18897	43.43131	117124	New_York_(state)
 Oswego,_Illinois	CityTown	2466686	Oswego, Illinois	Oswego,_Illinois				-88.33094	41.68815	30355	Kendall_County,_Illinois
 Otero_County,_Colorado	CountyAdminArea	12587772	Otero County, Colorado	Otero_County,_Colorado			08089	-103.72919	37.95437	18278	Colorado
@@ -6482,7 +6482,7 @@ Togo	Country	23424965	Togo	Togo	TG			0.82969	8.62169	7889094	Earth
 Tolland_County,_Connecticut	CountyAdminArea	12587797	Tolland County, Connecticut	Tolland_County,_Connecticut			09013	-72.30886	41.8115	150721	Connecticut
 Tolland,_Massachusetts	CityTown	2506950	Tolland, Massachusetts	Tolland,_Massachusetts				-73.01279	42.08141	485	Hampden_County,_Massachusetts
 Tom_Green_County,_Texas	CountyAdminArea	12590232	Tom Green County, Texas	Tom_Green_County,_Texas			48451	-100.68955	31.39591	119200	Texas
-Tomar	CountyAdminArea|CityTown	749391	Tomar	Tomar				-8.41202	39.60315		Santarém,_Portugal
+Tomar	CityTown	749391	Tomar	Tomar				-8.41202	39.60315		Santarém,_Portugal
 Tompkins_County,_New_York	CountyAdminArea	12589366	Tompkins County, New York	Tompkins_County,_New_York			36109	-76.46721	42.44513	102180	New_York_(state)
 Tomsk_Oblast	StateAdminArea	2346928	Tomsk Oblast	Tomsk_Oblast				82.2318	58.2714		Russia
 Tondela	CityTown	749395	Tondela	Tondela				-8.08307	40.51838		Portugal
