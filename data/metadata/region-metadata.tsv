@@ -1478,7 +1478,7 @@ Almaty	CountyAdminArea|CityTown	2255777	Almaty	Almaty				76.91263	43.25505	19770
 Almaty_Region	CityTown|StateAdminArea	20070180	Almaty Region	Almaty_Region				78.01614	44.71356	2059200	Hotel_Kazakhstan
 Almeida,_Portugal	CityTown	735915	Almeida, Portugal	Almeida,_Portugal				-6.90559	40.72465		Portugal
 Almeirim	CountyAdminArea|CityTown	735921	Almeirim	Almeirim				-8.63049	39.20943		Santarém,_Portugal
-Almodôvar	CountyAdminArea|CityTown	735931	Almodôvar	Almodôvar				-8.06183	37.51168		Beja,_Portugal
+Almodôvar	CountyAdminArea|CityTown	735931	Almodôvar	Almodôvar				-8.06183	37.51168		Portugal
 Alpena_County,_Michigan	CountyAdminArea	12588717	Alpena County, Michigan	Alpena_County,_Michigan			26007	-83.57528	45.03184	28405	Michigan
 Alpiarça	CountyAdminArea|CityTown	735961	Alpiarça	Alpiarça				-8.58601	39.25808		Santarém,_Portugal
 Alpine_County,_California	CountyAdminArea	12587671	Alpine County, California	Alpine_County,_California			06003	-119.80731	38.63066	1129	California
@@ -1737,7 +1737,7 @@ Bee_County,_Texas	CountyAdminArea	12590019	Bee County, Texas	Bee_County,_Texas		
 Beech_Island,_South_Carolina	CityTown	2361315	Beech Island, South Carolina	Beech_Island,_South_Carolina				-81.89049	33.42869	7675	Aiken_County,_South_Carolina
 Beecher,_Illinois	CityTown	2361332	Beecher, Illinois	Beecher,_Illinois				-87.62828	41.34247	4359	Will_County,_Illinois
 Beggs,_Oklahoma	CountyAdminArea|CityTown	2361468	Beggs, Oklahoma	Beggs,_Oklahoma				-96.06999	35.74215	1321	Okmulgee_County,_Oklahoma
-Beja,_Portugal	CityTown|StateAdminArea	2346563	Beja, Portugal	Beja,_Portugal				-7.87523	37.825		Portugal
+Beja,_Portugal	CityTown		Beja, Portugal	Beja,_Portugal				-7.883333	38.033333		
 Belarus	Country	23424765	Belarus	Belarus	BY			27.97375	53.71105	9483499	Earth
 Belchertown,_Massachusetts	CountyAdminArea|CityTown		Belchertown, Massachusetts	Belchertown,_Massachusetts				-72.40139	42.276943	14649	
 Belgium	Country	23424757	Belgium	Belgium	BE			4.47684	50.50101	11433256	Earth
@@ -2128,7 +2128,7 @@ Canton_of_Fribourg	StateAdminArea	2347088	Canton of Fribourg	Canton_of_Fribourg	
 Canton_of_Geneva	StateAdminArea	2347089	Canton of Geneva	Canton_of_Geneva				6.13302	46.2232		Switzerland
 Canton_of_Glarus	StateAdminArea	2347090	Canton of Glarus	Canton_of_Glarus				9.06207	46.98518		Switzerland
 Canton_of_Jura	StateAdminArea	2347108	Canton of Jura	Canton_of_Jura				7.19955	47.32742		Switzerland
-Canton_of_Lucerne	StateAdminArea	2347093	Canton of Lucerne	Canton_of_Lucerne				8.17523	47.0311		Switzerland
+Canton_of_Lucerne	CityTown|StateAdminArea	2347093	Canton of Lucerne	Canton_of_Lucerne				8.17523	47.0311		Switzerland
 Canton_of_Schaffhausen	StateAdminArea	2347098	Canton of Schaffhausen	Canton_of_Schaffhausen				8.57289	47.72327		Switzerland
 Canton_of_Schwyz	StateAdminArea	2347099	Canton of Schwyz	Canton_of_Schwyz				8.69675	47.05406		Switzerland
 Canton_of_St._Gallen	StateAdminArea	2347097	Canton of St. Gallen	Canton_of_St._Gallen				9.23488	47.20236		Switzerland
@@ -2569,7 +2569,7 @@ County_Dublin	CountyAdminArea|CityTown		County Dublin	County_Dublin				-6.25	53.
 County_Durham	TertiaryAdminArea		County Durham	County_Durham				-1.8333334	54.666668	1305789	North_East_England
 County_Galway	CountyAdminArea|CityTown|StateAdminArea	2345255	County Galway	County_Galway				-8.95158	53.36216	258058	Republic_of_Ireland
 County_Kerry	CountyAdminArea|CityTown|StateAdminArea	2345256	County Kerry	County_Kerry				-9.72086	52.11932	147707	Republic_of_Ireland
-County_Kildare	CountyAdminArea|CityTown		County Kildare	County_Kildare				-6.75	53.166668	222504	Republic_of_Ireland
+County_Kildare	CountyAdminArea|CityTown		County Kildare	County_Kildare				-6.75	53.166668	222504	
 County_Kilkenny	CountyAdminArea|CityTown		County Kilkenny	County_Kilkenny				-7.25	52.583332	99232	Republic_of_Ireland
 County_Laois	CountyAdminArea|CityTown|StateAdminArea	2345260	County Laois	County_Laois				-7.35609	52.98367	84697	Republic_of_Ireland
 County_Leitrim	CountyAdminArea|CityTown		County Leitrim	County_Leitrim				-8.0	54.117	32044	Ireland
@@ -2642,7 +2642,7 @@ Crowder,_Oklahoma	CityTown	2387776	Crowder, Oklahoma	Crowder,_Oklahoma				-95.67
 Crowley_County,_Colorado	CountyAdminArea	12587740	Crowley County, Colorado	Crowley_County,_Colorado			08025	-103.78008	38.31783	6061	Colorado
 Crystal_Lake,_Illinois	CountyAdminArea|CityTown	2387991	Crystal Lake, Illinois	Crystal_Lake,_Illinois				-88.32999	42.23156	40743	McHenry_County,_Illinois
 Cuba	Country|Island	23424793	Cuba	Cuba	CU			-77.80679	21.51102	11338138	Earth
-Cuba,_Portugal	CountyAdminArea|CityTown	740210	Cuba, Portugal	Cuba,_Portugal				-7.89279	38.16496		Beja,_Portugal
+Cuba,_Portugal	CountyAdminArea|CityTown	740210	Cuba, Portugal	Cuba,_Portugal				-7.89279	38.16496		Portugal
 Cudahy,_California	CountyAdminArea|CityTown	2388095	Cudahy, California	Cudahy,_California				-118.18459	33.96358	23805	Los_Angeles_County,_California
 Culberson_County,_Texas	CountyAdminArea	12590061	Culberson County, Texas	Culberson_County,_Texas			48109	-104.47171	31.33243	2171	Texas
 Cullman_County,_Alabama	CountyAdminArea	12587508	Cullman County, Alabama	Cullman_County,_Alabama			01043	-86.80095	34.08588	83768	Alabama
@@ -3008,7 +3008,7 @@ Evans_County,_Georgia	CountyAdminArea	12587923	Evans County, Georgia	Evans_Count
 Evanston,_Illinois	CountyAdminArea|CityTown	2400737	Evanston, Illinois	Evanston,_Illinois				-87.68659	42.05665	74486	Cook_County,_Illinois
 Everett,_Massachusetts	CountyAdminArea|CityTown	2400848	Everett, Massachusetts	Everett,_Massachusetts				-71.05442	42.40646	41667	Middlesex_County,_Massachusetts
 Evergreen_Park,_Illinois	CityTown	2400934	Evergreen Park, Illinois	Evergreen_Park,_Illinois				-87.70131	41.72131	19852	Cook_County,_Illinois
-Évora	CityTown		Évora	Évora				-7.9	38.566666		
+Évora	CityTown		Évora	Évora							
 Exeter,_Rhode_Island	CityTown	2401076	Exeter, Rhode Island	Exeter,_Rhode_Island				-71.57627	41.57988	6425	Washington_County,_Rhode_Island
 Extremadura	StateAdminArea	12578035	Extremadura	Extremadura				-6.09523	39.21412	1087778	Spain
 Fafe	CityTown	740803	Fafe	Fafe				-8.18154	41.44643		Portugal
