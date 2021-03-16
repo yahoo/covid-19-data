@@ -4741,7 +4741,7 @@ Metropolitan_Borough_of_Knowsley	CityTown|TertiaryAdminArea		Metropolitan Boroug
 Metropolitan_Borough_of_Oldham	CityTown|TertiaryAdminArea		Metropolitan Borough of Oldham	Metropolitan_Borough_of_Oldham				-2.1166666	53.533333		Greater_Manchester
 Metropolitan_Borough_of_Rochdale	CityTown|TertiaryAdminArea		Metropolitan Borough of Rochdale	Metropolitan_Borough_of_Rochdale				-2.1566668	53.616665		Greater_Manchester
 Metropolitan_Borough_of_Rotherham	CountyAdminArea|TertiaryAdminArea		Metropolitan Borough of Rotherham	Metropolitan_Borough_of_Rotherham				-1.3547223	53.430832		Yorkshire_and_the_Humber
-Metropolitan_Borough_of_Sefton	CityTown|TertiaryAdminArea		Metropolitan Borough of Sefton	Metropolitan_Borough_of_Sefton				-2.998	53.445	273790	North_West_England
+Metropolitan_Borough_of_Sefton	CountyAdminArea|CityTown|TertiaryAdminArea		Metropolitan Borough of Sefton	Metropolitan_Borough_of_Sefton				-2.998	53.445	273790	North_West_England
 Metropolitan_Borough_of_Solihull	TertiaryAdminArea		Metropolitan Borough of Solihull	Metropolitan_Borough_of_Solihull				-1.78092	52.4088		West_Midlands_(region)
 Metropolitan_Borough_of_St_Helens	CityTown|TertiaryAdminArea		Metropolitan Borough of St Helens	Metropolitan_Borough_of_St_Helens				-2.746	53.454		North_West_England
 Metropolitan_Borough_of_Stockport	CityTown|TertiaryAdminArea		Metropolitan Borough of Stockport	Metropolitan_Borough_of_Stockport				-2.1591666	53.405556		Greater_Manchester
@@ -6282,7 +6282,7 @@ Stevens_County,_Minnesota	CountyAdminArea	12588871	Stevens County, Minnesota	Ste
 Stevens_County,_Washington	CountyAdminArea	12590472	Stevens County, Washington	Stevens_County,_Washington			53065	-117.91576	48.39634	45723	Washington_(state)
 Stewart_County,_Georgia	CountyAdminArea	12587997	Stewart County, Georgia	Stewart_County,_Georgia			13259	-84.85099	32.07655	6621	Georgia_(U.S._state)
 Stewart_County,_Tennessee	CountyAdminArea	12589992	Stewart County, Tennessee	Stewart_County,_Tennessee			47161	-87.83125	36.50351	13715	Tennessee
-Steyr	CityTown	546883	Steyr	Steyr				14.41933	48.03917		Upper_Austria
+Steyr	CityTown|StateAdminArea	546883	Steyr	Steyr				14.41933	48.03917		Upper_Austria
 Stigler,_Oklahoma	CountyAdminArea|CityTown	2499889	Stigler, Oklahoma	Stigler,_Oklahoma				-95.12252	35.25743	2685	Haskell_County,_Oklahoma
 Stillman_Valley,_Illinois	CityTown	2499928	Stillman Valley, Illinois	Stillman_Valley,_Illinois				-89.17867	42.10377	1120	Ogle_County,_Illinois
 Stillwater_County,_Montana	CountyAdminArea	12589128	Stillwater County, Montana	Stillwater_County,_Montana			30095	-109.45439	45.64976	9642	Montana
