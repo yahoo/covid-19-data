@@ -1,6 +1,9 @@
 regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	totalRecoveredCases	totalTestedCases	numPositiveTests	numDeaths	numRecoveredCases	diffNumPositiveTests	diffNumDeaths	avgWeeklyDeaths	avgWeeklyConfirmedCases	avgWeeklyRecoveredCases	dataSource
 Afghanistan	Afghanistan	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Alameda_County,_California	Alameda County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Algeria	Algeria	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Alpine_County,_California	Alpine County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Amador_County,_California	Amador County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Armenia	Armenia	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Australia	Australia	2020-02-04		0	17			1	0	0	1	0	0.0	1.14		https://www.who.int/
 Austria	Austria	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
@@ -9,63 +12,119 @@ Bahrain	Bahrain	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		htt
 Belarus	Belarus	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Belgium	Belgium	2020-02-04	2020-12-16T11:31:26.000Z	0	1			1	0	0	1	0	0.0	0.14		https://www.ecdc.europa.eu/
 Brazil	Brazil	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Butte_County,_California	Butte County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Calaveras_County,_California	Calaveras County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+California	California	2020-02-04		0	6			0	0		-3	0	0.0	0.86		https://www.cdph.ca.gov
 Cambodia	Cambodia	2020-02-04		0	5			0	0	0	0	0	0.0	0.0		https://www.who.int/
 Canada	Canada	2020-02-04		0	9			1	0	0	1	0	0.0	0.29		https://www.who.int/
 China	China	2020-02-04		425	20475			3233	65	65	406	8	45.57	2276.86		https://www.who.int/
+Colusa_County,_California	Colusa County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Contra_Costa_County,_California	Contra Costa County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Croatia	Croatia	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Czech_Republic	Czech Republic	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Del_Norte_County,_California	Del Norte County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Denmark	Denmark	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Dominican_Republic	Dominican Republic	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
-Earth	Earth	2020-02-04	2021-03-14T00:09:39.831Z	426	20745			3259	65		429	8	45.71	2298.29		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-02-04	2021-03-18T01:02:14.950Z	426	20745			3259	65		429	8	45.71	2298.29		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Ecuador	Ecuador	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Egypt	Egypt	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+El_Dorado_County,_California	El Dorado County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 England	England	2020-02-04			2			0			0					https://www.gov.uk/
 Estonia	Estonia	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Finland	Finland	2020-02-04		0	5			0	0	0	0	0	0.0	0.71		https://www.who.int/
 France	France	2020-02-04		0	10	0		0	0	0	0	0	0.0	0.29	0.0	https://www.who.int/
+Fresno_County,_California	Fresno County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Georgia_(country)	Georgia (country)	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Germany	Germany	2020-02-04	2020-12-16T11:31:26.000Z	0	11			2	0	0	1	0	0.0	1.43		https://www.ecdc.europa.eu/
+Glenn_County,_California	Glenn County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Greece	Greece	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Humboldt_County,_California	Humboldt County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Iceland	Iceland	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Imperial_County,_California	Imperial County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 India	India	2020-02-04		0	7			0	0	0	-1	0	0.0	1.0		https://www.who.int/
 Indonesia	Indonesia	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Inyo_County,_California	Inyo County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Iran	Iran	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Iraq	Iraq	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Israel	Israel	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Italy	Italy	2020-02-04		0	6			0	0	0	0	0	0.0	0.86		https://www.who.int/
 Japan	Japan	2020-02-04		0	27			3	0	0	3	0	0.0	2.29		https://www.who.int/
+Kern_County,_California	Kern County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Kings_County,_California	Kings County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Kuwait	Kuwait	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Lake_County,_California	Lake County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Lassen_County,_California	Lassen County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Lebanon	Lebanon	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Lithuania	Lithuania	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Los_Angeles_County,_California	Los Angeles County, California	2020-02-04		0	1			0	0		0	0	0.0	0.14		https://www.cdph.ca.gov
 Luxembourg	Luxembourg	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Madera_County,_California	Madera County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Malaysia	Malaysia	2020-02-04		0	14			2	0	0	2	0	0.0	0.86		https://www.who.int/
+Marin_County,_California	Marin County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Mariposa_County,_California	Mariposa County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Mendocino_County,_California	Mendocino County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Merced_County,_California	Merced County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Mexico	Mexico	2020-02-04	2020-12-16T11:31:26.000Z	0	2			0	0	0	0	0	0.0	0.14		https://www.ecdc.europa.eu/
+Modoc_County,_California	Modoc County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Monaco	Monaco	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Mono_County,_California	Mono County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Monterey_County,_California	Monterey County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Napa_County,_California	Napa County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Nepal	Nepal	2020-02-04		0	5			0	0	0	0	0	0.0	0.0		https://www.who.int/
 Netherlands	Netherlands	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Nevada_County,_California	Nevada County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 New_Zealand	New Zealand	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Nigeria	Nigeria	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 North_Macedonia	North Macedonia	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Norway	Norway	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Oman	Oman	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Orange_County,_California	Orange County, California	2020-02-04		0	1			0	0		0	0	0.0	0.14		https://www.cdph.ca.gov
 Pakistan	Pakistan	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Philippines	Philippines	2020-02-04		1	7			1	0	0	1	0	0.14	1.0		https://www.who.int/
+Placer_County,_California	Placer County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Plumas_County,_California	Plumas County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Qatar	Qatar	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Republic_of_Ireland	Republic of Ireland	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+Riverside_County,_California	Riverside County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Romania	Romania	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Russia	Russia	2020-02-04		0	6			0	0	0	0	0	0.0	0.86		https://www.who.int/
+Sacramento_County,_California	Sacramento County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+San_Benito_County,_California	San Benito County, California	2020-02-04		0	2			0	0		-2	0	0.0	0.29		https://www.cdph.ca.gov
+San_Bernardino_County,_California	San Bernardino County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+San_Diego_County,_California	San Diego County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+San_Francisco	San Francisco	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+San_Joaquin_County,_California	San Joaquin County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+San_Luis_Obispo_County,_California	San Luis Obispo County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 San_Marino	San Marino	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
+San_Mateo_County,_California	San Mateo County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Santa_Barbara_County,_California	Santa Barbara County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Santa_Clara_County,_California	Santa Clara County, California	2020-02-04		0	2			0	0		-1	0	0.0	0.29		https://www.cdph.ca.gov
+Santa_Cruz_County,_California	Santa Cruz County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Shasta_County,_California	Shasta County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Sierra_County,_California	Sierra County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Singapore	Singapore	2020-02-04		0	28			6	0	0	6	0	0.0	2.43		https://www.who.int/
+Siskiyou_County,_California	Siskiyou County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Solano_County,_California	Solano County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Sonoma_County,_California	Sonoma County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 South_Korea	South Korea	2020-02-04		0	20			1	0	0	1	0	0.0	1.71		https://www.who.int/
 Spain	Spain	2020-02-04		0	5			0	0	0	0	0	0.0	0.71		https://www.who.int/
 Sri_Lanka	Sri Lanka	2020-02-04		0	5			0	0	0	0	0	0.0	0.0		https://www.who.int/
+Stanislaus_County,_California	Stanislaus County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Sutter_County,_California	Sutter County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Sweden	Sweden	2020-02-04		0	5			0	0	0	0	0	0.0	0.71		https://www.who.int/
 Switzerland	Switzerland	2020-02-04	2020-12-16T11:31:26.000Z	0	0			0	0	0	0	0	0.0	0.0		https://www.ecdc.europa.eu/
 Taiwan	Taiwan	2020-02-04	2020-12-16T11:31:26.000Z	0	10			0	0	0	0	0	0.0	0.43		https://www.ecdc.europa.eu/
+Tehama_County,_California	Tehama County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Thailand	Thailand	2020-02-04		0	29			6	0	0	6	0	0.0	1.57		https://www.who.int/
+Trinity_County,_California	Trinity County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Tulare_County,_California	Tulare County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
+Tuolumne_County,_California	Tuolumne County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 United_Arab_Emirates	United Arab Emirates	2020-02-04	2020-12-16T11:31:26.000Z	0	5			0	0	0	0	0	0.0	0.57		https://www.ecdc.europa.eu/
 United_Kingdom	United Kingdom	2020-02-04	2020-12-16T11:31:26.000Z	0	2			0	0	0	0	0	0.0	0.29		https://www.ecdc.europa.eu/
 United_States	United States	2020-02-04		0	15			0	0		0	0	0.0	0.86		https://www.who.int/
+Ventura_County,_California	Ventura County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 Vietnam	Vietnam	2020-02-04		0	14			2	0	0	1	0	0.0	1.14		https://www.who.int/
+Yolo_County,_California	Yolo County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
 York	York	2020-02-04			1			0			0					https://www.gov.uk/
 Yorkshire_and_the_Humber	Yorkshire and the Humber	2020-02-04			1			0			0					https://www.gov.uk/
+Yuba_County,_California	Yuba County, California	2020-02-04		0	0			0	0		0	0	0.0	0.0		https://www.cdph.ca.gov
