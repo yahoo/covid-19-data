@@ -616,13 +616,13 @@ Dutchess_County,_New_York	Dutchess County, New York	2020-03-24	2020-03-24T14:49:
 Duval_County,_Florida	Duval County, Florida	2020-03-24	2020-03-24T11:00:00.000Z	3	50			0			-11					https://floridahealthcovid19.gov/
 Duval_County,_Texas	Duval County, Texas	2020-03-24	2020-03-24T00:00:00.000Z		0											https://www.dshs.state.tx.us/
 Eagle_County,_Colorado	Eagle County, Colorado	2020-03-24	2020-03-24T19:00:00.000Z		96			4			-8					https://covid19.colorado.gov/
-Earth	Earth	2020-03-24	2021-03-21T19:44:55.478Z	17741	426021			38692	1854		-5129	163	1440.43	32347.29		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2020-03-24	2021-03-23T00:17:11.279Z	17741	426021			38692	1854		-5129	163	1440.43	32347.29		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2020-03-24	2020-03-24T13:00:00.000Z	2	58			15	1		-8	0				http://ldh.la.gov/
 East_Carroll_Parish,_Louisiana	East Carroll Parish, Louisiana	2020-03-24	2020-03-24T13:00:00.000Z	0	0			0	0		0	0				http://ldh.la.gov/
 East_Feliciana_Parish,_Louisiana	East Feliciana Parish, Louisiana	2020-03-24	2020-03-24T13:00:00.000Z	0	0			0	0		0	0				http://ldh.la.gov/
 East_Flanders	East Flanders	2020-03-24	2020-03-24		821			155			11			81.14		https://epistat.wiv-isp.be/Covid/
 East_Midlands	East Midlands	2020-03-24			817			135			18			83.86		https://www.gov.uk/
-East_of_England	East of England	2020-03-24			961			165			-29			103.71		https://www.gov.uk/
+East_of_England	East of England	2020-03-24			961			165			-30			104.0		https://www.gov.uk/
 East_Riding_of_Yorkshire	East Riding of Yorkshire	2020-03-24			25			2			-3			1.71		https://www.gov.uk/
 East_Sussex	East Sussex	2020-03-24			47			9			4			4.71		https://www.gov.uk/
 East_Timor	East Timor	2020-03-24	2020-12-16T11:31:26.000Z	0	1			0	0	0	0	0				https://www.ecdc.europa.eu/
@@ -662,7 +662,7 @@ Erie_County,_Ohio	Erie County, Ohio	2020-03-24	2020-03-24T14:00:00.000Z	1	1			0	
 Erie_County,_Pennsylvania	Erie County, Pennsylvania	2020-03-24	2020-03-24T12:00:00.000Z		4			1			0					https://www.health.pa.gov/
 Eritrea	Eritrea	2020-03-24	2020-12-16T11:31:26.000Z	0	1			0	0	0	0	0				https://www.ecdc.europa.eu/
 Escambia_County,_Florida	Escambia County, Florida	2020-03-24	2020-03-24T11:00:00.000Z	0	10			1			-4					https://floridahealthcovid19.gov/
-Essex	Essex	2020-03-24			228			37			-11			24.29		https://www.gov.uk/
+Essex	Essex	2020-03-24			228			37			-12			24.57		https://www.gov.uk/
 Essex_County,_Massachusetts	Essex County, Massachusetts	2020-03-24	2020-03-24T16:00:00.000Z		118			45			32					https://www.mass.gov/
 Essex_County,_New_Jersey	Essex County, New Jersey	2020-03-24	2020-03-24T14:00:00.000Z		342			69			-32					https://www.nj.gov/
 Essex_County,_New_York	Essex County, New York	2020-03-24	2020-03-24T14:49:00.000Z		3			0			0					https://coronavirus.health.ny.gov/
@@ -818,7 +818,7 @@ Gray_County,_Texas	Gray County, Texas	2020-03-24	2020-03-24T00:00:00.000Z		0				
 Grays_Harbor_County,_Washington	Grays Harbor County, Washington	2020-03-24		0	1			0	0		0	0				https://coronavirus.wa.gov/
 Grayson_County,_Texas	Grayson County, Texas	2020-03-24	2020-03-24T00:00:00.000Z		1											https://www.dshs.state.tx.us/
 Grayson_County,_Virginia	Grayson County, Virginia	2020-03-24	2020-03-24T00:00:00.000Z	0	0			0	0		0	0	0.0	0.0		http://www.vdh.virginia.gov/
-Greater_London	Greater London	2020-03-24			4835			635			-53			460.43		https://www.gov.uk/
+Greater_London	Greater London	2020-03-24			4837			635			-54			460.71		https://www.gov.uk/
 Greece	Greece	2020-03-24	2020-12-16T11:31:26.000Z	17	695			71	2	2	-23	0	1.86	49.0		https://www.ecdc.europa.eu/
 Greeley_County,_Kansas	Greeley County, Kansas	2020-03-24	2020-03-24T12:00:00.000Z		0			0			0					https://www.coronavirus.kdheks.gov
 Greene_County,_Indiana	Greene County, Indiana	2020-03-24	2020-03-24T10:00:00.000Z	0	0		22	0	0		0	0	0.0	0.0		https://coronavirus.in.gov/
@@ -1249,11 +1249,11 @@ London_Borough_of_Barnet	London Borough of Barnet	2020-03-24			244			38			7			24
 London_Borough_of_Bexley	London Borough of Bexley	2020-03-24			95			13			-4			9.14		https://www.gov.uk/
 London_Borough_of_Brent	London Borough of Brent	2020-03-24			258			27			-19			25.71		https://www.gov.uk/
 London_Borough_of_Bromley	London Borough of Bromley	2020-03-24			190			30			-5			20.29		https://www.gov.uk/
-London_Borough_of_Camden	London Borough of Camden	2020-03-24			121			21			7			11.57		https://www.gov.uk/
+London_Borough_of_Camden	London Borough of Camden	2020-03-24			122			21			6			11.71		https://www.gov.uk/
 London_Borough_of_Croydon	London Borough of Croydon	2020-03-24			235			27			-9			23.0		https://www.gov.uk/
 London_Borough_of_Ealing	London Borough of Ealing	2020-03-24			206			34			5			20.71		https://www.gov.uk/
 London_Borough_of_Enfield	London Borough of Enfield	2020-03-24			157			24			2			16.29		https://www.gov.uk/
-London_Borough_of_Hammersmith_and_Fulham	London Borough of Hammersmith and Fulham	2020-03-24			111			14			1			10.14		https://www.gov.uk/
+London_Borough_of_Hammersmith_and_Fulham	London Borough of Hammersmith and Fulham	2020-03-24			112			14			1			10.29		https://www.gov.uk/
 London_Borough_of_Haringey	London Borough of Haringey	2020-03-24			128			19			4			12.86		https://www.gov.uk/
 London_Borough_of_Harrow	London Borough of Harrow	2020-03-24			189			25			6			17.86		https://www.gov.uk/
 London_Borough_of_Havering	London Borough of Havering	2020-03-24			84			16			6			9.43		https://www.gov.uk/
@@ -2171,7 +2171,7 @@ Union_County,_South_Carolina	Union County, South Carolina	2020-03-24	2020-03-24T
 Union_Parish,_Louisiana	Union Parish, Louisiana	2020-03-24	2020-03-24T13:00:00.000Z	0	0			0	0		0	0				http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2020-03-24	2020-12-16T11:31:26.000Z	2	198			45	0	0	45	0	0.29	14.29		https://www.ecdc.europa.eu/
 United_Kingdom	United Kingdom	2020-03-24	2020-12-16T11:31:26.000Z	364	10312			1378	76	76	180	40	42.71	1037.86		https://www.ecdc.europa.eu/
-United_States	United States	2020-03-24	2021-03-21T19:39:18.895Z	466	58277			6363	119		-8906	-12	60.14	7150.0		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2020-03-24	2021-03-23T01:20:02.478Z	466	58277			6363	119		-8906	-12	60.14	7150.0		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 United_States_Virgin_Islands	United States Virgin Islands	2020-03-24	2020-12-16T11:31:26.000Z	0	17			0	0	0	-11	0	0.0	1.43		https://www.ecdc.europa.eu/
 Upshur_County,_Texas	Upshur County, Texas	2020-03-24	2020-03-24T00:00:00.000Z		1											https://www.dshs.state.tx.us/
 Upton_County,_Texas	Upton County, Texas	2020-03-24	2020-03-24T00:00:00.000Z		0											https://www.dshs.state.tx.us/
@@ -2281,7 +2281,7 @@ West_Berkshire	West Berkshire	2020-03-24			32			3			-5			3.57		https://www.gov.u
 West_Carroll_Parish,_Louisiana	West Carroll Parish, Louisiana	2020-03-24	2020-03-24T13:00:00.000Z	0	0			0	0		0	0				http://ldh.la.gov/
 West_Feliciana_Parish,_Louisiana	West Feliciana Parish, Louisiana	2020-03-24	2020-03-24T13:00:00.000Z	0	0			0	0		0	0				http://ldh.la.gov/
 West_Flanders	West Flanders	2020-03-24	2020-03-24		835			119			-72			84.0		https://epistat.wiv-isp.be/Covid/
-West_Midlands_(region)	West Midlands (region)	2020-03-24			1467			250			11			157.0		https://www.gov.uk/
+West_Midlands_(region)	West Midlands (region)	2020-03-24			1466			250			11			156.86		https://www.gov.uk/
 West_Sussex	West Sussex	2020-03-24			110			20			6			11.29		https://www.gov.uk/
 West_Virginia	West Virginia	2020-03-24			39			19			15			5.43		https://dhhr.wv.gov/
 Westchester_County,_New_York	Westchester County, New York	2020-03-24	2020-03-24T14:49:00.000Z		3891			997			-24					https://coronavirus.health.ny.gov/
@@ -2336,7 +2336,7 @@ Woodford_County,_Illinois	Woodford County, Illinois	2020-03-24	2020-03-24T00:00:
 Woodson_County,_Kansas	Woodson County, Kansas	2020-03-24	2020-03-24T12:00:00.000Z		1			1			1					https://www.coronavirus.kdheks.gov
 Worcester_County,_Maryland	Worcester County, Maryland	2020-03-24	2020-03-24T10:00:00.000Z		2			0			0					https://coronavirus.maryland.gov/
 Worcester_County,_Massachusetts	Worcester County, Massachusetts	2020-03-24	2020-03-24T16:00:00.000Z		73			31			26					https://www.mass.gov/
-Worcestershire	Worcestershire	2020-03-24			111			17			3			11.86		https://www.gov.uk/
+Worcestershire	Worcestershire	2020-03-24			110			17			3			11.71		https://www.gov.uk/
 Worth_County,_Iowa	Worth County, Iowa	2020-03-24	2020-03-24T20:40:00.000Z		0			0			0					https://idph.iowa.gov
 Wright_County,_Iowa	Wright County, Iowa	2020-03-24	2020-03-24T20:40:00.000Z		0			0			0					https://idph.iowa.gov
 Wright_County,_Minnesota	Wright County, Minnesota	2020-03-24			3			0			0					https://www.health.state.mn.us/
