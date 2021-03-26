@@ -527,7 +527,7 @@ Alabama	Alabama	2021-03-17		10363	509476	310742	2487508	759	26	6996	271	18	20.14
 Alachua_County,_Florida	Alachua County, Florida	2021-03-17		251	22880		175368	20	1		-12	1	0.43	26.14		https://floridahealthcovid19.gov/
 Alagoas	Alagoas	2021-03-17	2021-03-17T22:00:00.000Z	3254	143338			794	20		-1408	-16	17.14	857.0		https://covid.saude.gov.br/
 Alamance_County,_North_Carolina	Alamance County, North Carolina	2021-03-17		237	16311			55	0		30	0	0.86	38.71		https://www.ncdhhs.gov/
-Alameda_County,_California	Alameda County, California	2021-03-17	2021-03-17T00:00:00.000Z	1358	82258		2101340	90	28		38	-134	6.71	85.71		http://www.acphd.org/
+Alameda_County,_California	Alameda County, California	2021-03-17		1177	82259		2101340	91	-153		39	-315	-19.14	85.86		https://www.cdph.ca.gov
 Alamosa_County,_Colorado	Alamosa County, Colorado	2021-03-17		29	1336			7	0		7	0	0.0	2.71		https://covid19.colorado.gov/
 Alaska	Alaska	2021-03-17	2021-03-17T00:00:00.000Z	307	60931		1812448	176	1		72	1	0.29	144.86		http://www.dhss.alaska.gov
 Albania	Albania	2021-03-17	2021-03-17T00:00:00.000Z	2092	118938	82554	515679	446	15	744	-29	-2	15.14	585.43	722.29	https://coronavirus.al/statistika/
@@ -565,7 +565,7 @@ Alpena_County,_Michigan	Alpena County, Michigan	2021-03-17	2021-03-19T16:00:00.0
 Alpine_County,_California	Alpine County, California	2021-03-17	2021-03-11T00:00:00.000Z	0	85			0	0		0	0	0.0	0.0		https://www.alpinecountyca.gov/
 Altai_Krai	Altai Krai	2021-03-17	2021-03-17T08:00:00.000Z	1676	45629	40734		117	12	117	2	-3	14.71	117.71	84.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Altai_Republic	Altai Republic	2021-03-17	2021-03-17T08:00:00.000Z	187	16485	16194		16	0	3	14	0	1.14	17.29	8.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Amador_County,_California	Amador County, California	2021-03-17	2021-03-17T07:00:00.000Z	36	1634	1579	21400	-1872	-8	2	-1874	-8	-0.86	-265.71	2.86	https://www.amadorgov.org/
+Amador_County,_California	Amador County, California	2021-03-17		44	3510	1579	21400	4	0	2	2	0	0.29	2.29	2.86	https://www.cdph.ca.gov
 Amazonas_(Brazilian_state)	Amazonas (Brazilian state)	2021-03-17	2021-03-17T22:00:00.000Z	11672	334432			824	49		-1016	-35	40.57	987.0		https://covid.saude.gov.br/
 Amelia_County,_Virginia	Amelia County, Virginia	2021-03-17	2021-03-17T13:00:00.000Z	25	799			2	1		0	1	0.43	1.57		http://www.vdh.virginia.gov/
 Amesbury,_Massachusetts	Amesbury, Massachusetts	2021-03-17	2021-03-17T20:00:00.000Z		962		26206							1.0		https://www.mass.gov/
@@ -959,7 +959,7 @@ Butler_County,_Missouri	Butler County, Missouri	2021-03-17	2021-03-17T17:00:00.0
 Butler_County,_Nebraska	Butler County, Nebraska	2021-03-17		12	813		3243	-3	0		-6	0	0.0	0.29		http://dhhs.ne.gov/
 Butler_County,_Ohio	Butler County, Ohio	2021-03-17	2021-03-17T18:00:00.000Z	544	36348			46	0		-30	-4	1.29	46.71		https://coronavirus.ohio.gov/
 Butler_County,_Pennsylvania	Butler County, Pennsylvania	2021-03-17		377	14545		56835	33	0		-34	-2	0.43	43.57		https://www.health.pa.gov/
-Butte_County,_California	Butte County, California	2021-03-17	2021-03-17T00:00:00.000Z	171	10953	10725	185644	-188	-14	19	-189	-14	-2.0	-19.86	11.86	http://www.buttecounty.net/
+Butte_County,_California	Butte County, California	2021-03-17		184	11154	10725	185644	13	-1	19	12	-1	-0.14	8.86	11.86	https://www.cdph.ca.gov
 Butte_County,_Idaho	Butte County, Idaho	2021-03-17	2021-03-17T17:00:00.000Z	1	201			0	0		0	0	0.0	0.14		https://coronavirus.idaho.gov/
 Butte_County,_South_Dakota	Butte County, South Dakota	2021-03-17	2021-03-17T17:00:00.000Z	20	991	958	4258	0	0	0	-1	0	0.0	0.57	0.71	https://doh.sd.gov/
 Butts_County,_Georgia	Butts County, Georgia	2021-03-17	2021-03-17T18:50:19.000Z	76	2771			4	0		1	0	0.14	2.43		https://dph.georgia.gov/
@@ -989,6 +989,7 @@ Calhoun_County,_Mississippi	Calhoun County, Mississippi	2021-03-17	2021-03-17T05
 Calhoun_County,_South_Carolina	Calhoun County, South Carolina	2021-03-17		36	1163			1	0		0	0	0.0	2.71		https://www.scdhec.gov/
 Calhoun_County,_Texas	Calhoun County, Texas	2021-03-17		20	2095	2023		13	0	6	12	0	0.0	5.43	4.57	https://www.dshs.state.tx.us/
 Calhoun_County,_West_Virginia	Calhoun County, West Virginia	2021-03-17	2021-03-17T10:00:00.000Z	0	236	224	8125	1	0	0	0	0	0.0	0.71	0.29	https://dhhr.wv.gov/
+California	California	2021-03-17		55577	3532496			2441	205		1181	163	179.57	2688.29		https://www.cdph.ca.gov
 Callahan_County,_Texas	Callahan County, Texas	2021-03-17		38	1156	1149		0	0	0	-2	0	0.0	0.71	0.86	https://www.dshs.state.tx.us/
 Callaway_County,_Missouri	Callaway County, Missouri	2021-03-17	2021-03-17T17:00:00.000Z	46	4573		46116	0	0		-8	0	0.0	5.43		https://health.mo.gov
 Calloway_County,_Kentucky	Calloway County, Kentucky	2021-03-17		40	3430			4	1		1	1	0.29	2.43		https://govstatus.egov.com/
@@ -1563,7 +1564,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2021-03-17	2021-03-17T20:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2021-03-17	2021-03-17T19:00:00.000Z	103	5279		25066	2	0	0	2	-1	0.14	2.43		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2021-03-17		22	5431			16	0		-1	0	0.0	17.14		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2021-03-17	2021-03-17T18:50:19.000Z	44	1138			1	0		-1	0	0.0	1.86		https://dph.georgia.gov/
-Earth	Earth	2021-03-17	2021-03-25T22:58:10.393Z	2604059	117223088			458352	9234		-5038	-1374	7938.0	402370.14	266687.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2021-03-17	2021-03-26T02:16:37.006Z	2604264	117225529			460793	9439		-2597	-1169	7967.29	402718.86	266687.43	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2021-03-17		755	36655		467421	11	1		-158	0	1.43	60.43		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2021-03-17	2021-03-17T20:00:00.000Z		1074		20151							1.0		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2021-03-17	2021-03-17T20:00:00.000Z		140		2757							0.38		https://www.mass.gov/
@@ -2180,7 +2181,7 @@ Idaho	Idaho	2021-03-17	2021-03-17T23:00:00.000Z	1935	176461			454	6		104	-13	4.8
 Idaho_County,_Idaho	Idaho County, Idaho	2021-03-17	2021-03-17T17:00:00.000Z	17	1168			0	0		0	0	0.0	0.43		https://coronavirus.idaho.gov/
 Île-de-France	Île-de-France	2021-03-17		15864		70905			53	366		-13	54.57		293.57	https://www.santepubliquefrance.fr/
 Illinois	Illinois	2021-03-17		23255	1213765		19299281	1655	20		-342	1	26.86	1579.43		http://www.dph.illinois.gov/
-Imperial_County,_California	Imperial County, California	2021-03-17	2021-03-17T08:30:00.000Z	684	24829	24090	119945	-2293	0	12	-2293	1	1.29	-316.57	15.57	http://www.icphd.org/
+Imperial_County,_California	Imperial County, California	2021-03-17		689	27143	24090	119945	21	5	12	21	6	2.0	14.0	15.57	https://www.cdph.ca.gov
 Imst_District	Imst District	2021-03-17	2021-03-17T21:00:00.000Z	33	3863	3559		0	0	0	-45	0	0.0	28.0	15.71	https://info.gesundheitsministerium.at/
 Independence_County,_Arkansas	Independence County, Arkansas	2021-03-17		120	3695	3567	43102	-1	0	-1	-5	-1	0.29	0.86	0.57	https://www.healthy.arkansas.gov/
 India	India	2021-03-17	2021-03-17T02:30:00.000Z	159044	11438734	11045284		28903	188	17741	4411	57	140.14	25146.71	17891.14	https://www.mohfw.gov.in/
@@ -2461,7 +2462,7 @@ Lafayette_County,_Wisconsin	Lafayette County, Wisconsin	2021-03-17	2021-03-17T06
 Lafayette_Parish,_Louisiana	Lafayette Parish, Louisiana	2021-03-17		266	22001		299181	29	0		-20	0	0.57	28.0		http://ldh.la.gov/
 Lafourche_Parish,_Louisiana	Lafourche Parish, Louisiana	2021-03-17		198	9305		116548	10	0		-10	0	0.0	7.86		http://ldh.la.gov/
 Lai_Châu_Province	Lai Châu Province	2021-03-17	2021-03-17T00:00:00.000Z	0	1	1		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
-Lake_County,_California	Lake County, California	2021-03-17	2021-03-17T11:15:00.000Z	43	3233	3149	58407	-4	0	1	-4	0	0.14	4.43	5.14	http://health.co.lake.ca.us/
+Lake_County,_California	Lake County, California	2021-03-17		43	3246	3149	58407	9	0	1	9	0	0.14	6.29	5.14	https://www.cdph.ca.gov
 Lake_County,_Colorado	Lake County, Colorado	2021-03-17			677			2			-2			1.14		https://covid19.colorado.gov/
 Lake_County,_Florida	Lake County, Florida	2021-03-17		591	25754		172626	76	-3		25	-4	2.14	63.14		https://floridahealthcovid19.gov/
 Lake_County,_Illinois	Lake County, Illinois	2021-03-17		942	61006		851098	72	-1		-52	-1	0.57	85.57		http://www.dph.illinois.gov/
@@ -2732,7 +2733,7 @@ Macon_County,_Missouri	Macon County, Missouri	2021-03-17	2021-03-17T17:00:00.000
 Macon_County,_North_Carolina	Macon County, North Carolina	2021-03-17		28	2617			2	0		1	0	0.0	2.71		https://www.ncdhhs.gov/
 Macon_County,_Tennessee	Macon County, Tennessee	2021-03-17	2021-03-17T19:00:00.000Z	74	3411		18447	1	0	0	-1	0	0.14	3.0		https://www.tn.gov/
 Macoupin_County,_Illinois	Macoupin County, Illinois	2021-03-17		80	4438		64355	7	0		0	0	0.0	4.43		http://www.dph.illinois.gov/
-Madera_County,_California	Madera County, California	2021-03-17	2021-03-17T14:55:00.000Z	226	15741	15069	209641	-65	12	17	-67	12	2.14	5.71	29.71	https://www.maderacounty.com/
+Madera_County,_California	Madera County, California	2021-03-17		214	15822	15069	209641	16	0	17	14	0	0.43	17.29	29.71	https://www.cdph.ca.gov
 Madison_County,_Alabama	Madison County, Alabama	2021-03-17		480	33108			59	1		23	1	0.71	46.0		https://covid19.alabama.gov/
 Madison_County,_Arkansas	Madison County, Arkansas	2021-03-17		22	1420	1392	13948	0	0	2	-1	0	0.14	0.86	1.0	https://www.healthy.arkansas.gov/
 Madison_County,_Florida	Madison County, Florida	2021-03-17		43	2027		9338	1	0		0	0	0.0	1.29		https://floridahealthcovid19.gov/
@@ -2784,7 +2785,7 @@ Marengo_County,_Alabama	Marengo County, Alabama	2021-03-17		58	2478			2	0		2	0	0
 Mari_El	Mari El	2021-03-17	2021-03-17T08:00:00.000Z	190	12224	11230		26	2	38	1	0	1.43	25.29	33.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Maricopa_County,_Arizona	Maricopa County, Arizona	2021-03-17	2021-03-17T15:00:00.000Z	9449	521251		4878000	0	2	2	-390	0	11.57	503.57		https://azdhs.gov/
 Maries_County,_Missouri	Maries County, Missouri	2021-03-17	2021-03-17T17:00:00.000Z	7	545		3862	0	0		-1	0	0.0	0.57		https://health.mo.gov
-Marin_County,_California	Marin County, California	2021-03-17	2021-03-17T15:30:00.000Z	171	11236		387418	-2172	-47		-2175	-47	-6.14	-299.86		https://coronavirus.marinhhs.org
+Marin_County,_California	Marin County, California	2021-03-17		218	13419		387418	11	0		8	0	0.57	12.0		https://www.cdph.ca.gov
 Marinette_County,_Wisconsin	Marinette County, Wisconsin	2021-03-17	2021-03-17T06:00:00.000Z	67	4391		22743	4	0		2	0	0.14	1.57		https://www.dhs.wisconsin.gov/
 Marion_County,_Alabama	Marion County, Alabama	2021-03-17		98	3041			10	0		-10	0	0.14	15.43		https://covid19.alabama.gov/
 Marion_County,_Arkansas	Marion County, Arkansas	2021-03-17		29	998	958	11016	10	0	9	9	0	0.0	2.14	2.86	https://www.healthy.arkansas.gov/
@@ -3002,7 +3003,7 @@ Moldova	Moldova	2021-03-17	2021-03-17T19:54:00.000Z	4436	209255	182108		3674	67	
 Molise	Molise	2021-03-17		406	11739	9877	175614	77	4	110	59	2	3.57	60.71	73.86	http://www.salute.gov.it/
 Moniteau_County,_Missouri	Moniteau County, Missouri	2021-03-17	2021-03-17T17:00:00.000Z	29	1690		10840	0	0		-3	0	0.0	1.14		https://health.mo.gov
 Monmouth_County,_New_Jersey	Monmouth County, New Jersey	2021-03-17		1456	62683			373	3	3	77	1	3.29	350.57		https://www.nj.gov/
-Mono_County,_California	Mono County, California	2021-03-17	2021-03-17T00:00:00.000Z	4	973		11440	-233	1		-233	1	0.14	-32.86		https://coronavirus.monocounty.ca.gov/
+Mono_County,_California	Mono County, California	2021-03-17		3	1207		11440	1	0		1	0	0.0	0.57		https://www.cdph.ca.gov
 Monona_County,_Iowa	Monona County, Iowa	2021-03-17	2021-03-17T00:00:00.000Z	29	833	734	16440	0	0	3	-2	0	0.0	1.29	1.14	https://idph.iowa.gov
 Monongalia_County,_West_Virginia	Monongalia County, West Virginia	2021-03-17	2021-03-17T10:00:00.000Z	81	8346	7846	173625	18	0	15	-2	0	1.43	17.0	24.71	https://dhhr.wv.gov/
 Monroe_County,_Alabama	Monroe County, Alabama	2021-03-17		39	1690			4	0		5	0	0.0	3.0		https://covid19.alabama.gov/
@@ -3107,7 +3108,7 @@ Nacogdoches_County,_Texas	Nacogdoches County, Texas	2021-03-17		160	4249	3844		7
 Nahant,_Massachusetts	Nahant, Massachusetts	2021-03-17	2021-03-17T20:00:00.000Z		219		8212							0.5		https://www.mass.gov/
 Nance_County,_Nebraska	Nance County, Nebraska	2021-03-17		10	382		1339	2	0		4	0	0.0	0.43		http://dhhs.ne.gov/
 Nantucket	Nantucket	2021-03-17	2021-03-17T20:00:00.000Z		1221			3			3			4.86		https://www.mass.gov/
-Napa_County,_California	Napa County, California	2021-03-17	2021-03-17T13:00:00.000Z	77	9208		210545	12	2		10	2	0.29	7.57		https://www.countyofnapa.org/
+Napa_County,_California	Napa County, California	2021-03-17		75	9209		210545	13	0		11	0	0.0	7.71		https://www.cdph.ca.gov
 Narragansett,_Rhode_Island	Narragansett, Rhode Island	2021-03-17	2021-03-17T15:55:00.000Z		1456		7676	99			99			14.14		https://health.ri.gov/
 Nash_County,_North_Carolina	Nash County, North Carolina	2021-03-17		173	10097			28	1		14	1	0.14	22.0		https://www.ncdhhs.gov/
 Nassau_County,_Florida	Nassau County, Florida	2021-03-17		118	7886		43378	10	0		-2	-1	0.29	9.29		https://floridahealthcovid19.gov/
@@ -3747,12 +3748,12 @@ Salzburg_(state)	Salzburg (state)	2021-03-17	2021-03-17T21:00:00.000Z	526	41162	
 Samara_Oblast	Samara Oblast	2021-03-17	2021-03-17T08:00:00.000Z	1003	52887	49347		223	6	242	-4	-4	7.29	239.0	249.43	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
 Sampson_County,_North_Carolina	Sampson County, North Carolina	2021-03-17		95	7128			26	0		22	0	0.29	19.71		https://www.ncdhhs.gov/
 San_Augustine_County,_Texas	San Augustine County, Texas	2021-03-17		30	546	504		3	0	0	3	0	0.0	0.43	0.43	https://www.dshs.state.tx.us/
-San_Benito_County,_California	San Benito County, California	2021-03-17	2021-03-17T15:18:00.000Z	61	5805	5705	34303	-26	0	2	-28	0	0.0	0.71	7.0	https://hhsa.cosb.us/
+San_Benito_County,_California	San Benito County, California	2021-03-17		61	5831	5705	34303	0	0	2	-2	0	0.0	4.43	7.0	https://www.cdph.ca.gov
 San_Bernardino_County,_California	San Bernardino County, California	2021-03-17	2021-03-17T00:00:00.000Z	3581	289057	284096	2601764	125	50	206	61	31	54.71	131.71	135.0	http://wp.sbcounty.gov/
 San_Diego_County,_California	San Diego County, California	2021-03-17	2021-03-17T17:00:00.000Z	3470	266317		4111091	411	8		154	-2	8.14	317.14		https://www.sandiegocounty.gov/
 San_Dimas,_California	San Dimas, California	2021-03-17	2021-03-17T01:00:00.000Z	84	3152			1	-1		0	-1	0.29	0.86		http://publichealth.lacounty.gov/
 San_Fernando,_California	San Fernando, California	2021-03-17	2021-03-17T01:00:00.000Z	56	5171			2	0		1	-1	0.29	1.57		http://publichealth.lacounty.gov/
-San_Francisco	San Francisco	2021-03-17	2021-03-17T00:00:00.000Z	448	34589		1627421	-231	-8		-241	-9	-0.29	-9.29		https://www.sfdph.org/
+San_Francisco	San Francisco	2021-03-17		456	34833		1627421	13	0		3	-1	0.86	25.57		https://www.cdph.ca.gov
 San_Gabriel,_California	San Gabriel, California	2021-03-17	2021-03-17T01:00:00.000Z	193	3169			3	0		4	0	0.0	2.43		http://publichealth.lacounty.gov/
 San_Jacinto_County,_Texas	San Jacinto County, Texas	2021-03-17		30	1093	873		3	0	3	-4	0	0.14	4.71	3.29	https://www.dshs.state.tx.us/
 San_Joaquin_County,_California	San Joaquin County, California	2021-03-17	2021-03-17T13:48:00.000Z	1213	68301	65666		265	1	277	46	-1	0.71	78.14	67.86	https://www.sjgov.org/
@@ -3762,7 +3763,7 @@ San_Juan_County,_Utah	San Juan County, Utah	2021-03-17	2021-03-17T19:00:00.000Z	
 San_Juan_County,_Washington	San Juan County, Washington	2021-03-17	2021-03-18T00:18:00.000Z	0	122			0	0		-1	0	0.0	0.14		https://coronavirus.wa.gov/
 San_Luis_Obispo_County,_California	San Luis Obispo County, California	2021-03-17	2021-03-17T13:00:00.000Z	253	20136	19605		21	0	33	-16	0	0.71	24.29	24.57	https://www.emergencyslo.org/
 San_Marino,_California	San Marino, California	2021-03-17	2021-03-17T01:00:00.000Z	9	360			1	0		1	0	0.0	0.14		http://publichealth.lacounty.gov/
-San_Mateo_County,_California	San Mateo County, California	2021-03-17	2021-03-17T00:00:00.000Z	536	39502		1287809	-263	192		-284	190	28.57	-4.71		https://www.smchealth.org/
+San_Mateo_County,_California	San Mateo County, California	2021-03-17		344	39806		1287809	41	0		20	-2	1.14	38.71		https://www.cdph.ca.gov
 San_Miguel_County,_Colorado	San Miguel County, Colorado	2021-03-17			839			1			1			1.29		https://covid19.colorado.gov/
 San_Miguel_County,_New_Mexico	San Miguel County, New Mexico	2021-03-17		13	1292			10	0		5	0	0.0	5.29		https://cv.nmhealth.org
 San_Patricio_County,_Texas	San Patricio County, Texas	2021-03-17		144	4114	3873		0	1	-1	0	0	0.43	6.0	7.14	https://www.dshs.state.tx.us/
@@ -3893,7 +3894,7 @@ Shymkent	Shymkent	2021-03-17		94	6417	5643		28	0	2	11	0	0.0	17.86	3.86	https://w
 Sibley_County,_Minnesota	Sibley County, Minnesota	2021-03-17	2021-03-17T16:00:00.000Z	10	1209			0	0		-2	0	0.0	2.57		https://www.health.state.mn.us/
 Sicily	Sicily	2021-03-17		4383	162710	143362	2848185	782	12	581	184	-1	13.71	645.29	448.14	http://www.salute.gov.it/
 Siem_Reap_Province	Siem Reap Province	2021-03-17	2021-03-17T07:00:00.000Z		10			0			0			0.0		http://www.cdcmoh.gov.kh/
-Sierra_County,_California	Sierra County, California	2021-03-17	2021-03-17T00:00:00.000Z		101	100		0		0	0			0.14	0.0	http://sierracounty.ca.gov/
+Sierra_County,_California	Sierra County, California	2021-03-17	2021-03-17T00:00:00.000Z	0	101	100		0	0	0	0	0	0.0	0.14	0.0	http://sierracounty.ca.gov/
 Sierra_County,_New_Mexico	Sierra County, New Mexico	2021-03-17		45	707			0	0		0	0	0.0	0.43		https://cv.nmhealth.org
 Sierra_Madre,_California	Sierra Madre, California	2021-03-17	2021-03-17T01:00:00.000Z	13	454			1	0		1	0	0.0	0.14		http://publichealth.lacounty.gov/
 Signal_Hill,_California	Signal Hill, California	2021-03-17	2021-03-17T01:00:00.000Z	9	1116			0	0		0	0	0.0	1.0		http://publichealth.lacounty.gov/
@@ -3930,7 +3931,7 @@ Somerset_County,_Pennsylvania	Somerset County, Pennsylvania	2021-03-17		186	6824
 Somerset,_Massachusetts	Somerset, Massachusetts	2021-03-17	2021-03-17T20:00:00.000Z		1813		29225							2.5		https://www.mass.gov/
 Somervell_County,_Texas	Somervell County, Texas	2021-03-17		13	1050	1046		0	0	0	0	0	0.0	0.14	0.43	https://www.dshs.state.tx.us/
 Somerville,_Massachusetts	Somerville, Massachusetts	2021-03-17	2021-03-17T20:00:00.000Z		4862		399814							13.63		https://www.mass.gov/
-Sonoma_County,_California	Sonoma County, California	2021-03-17	2021-03-11T20:50:26.000Z	308	28820	27019	575443	6	23	0	-10	22	3.43	31.29	96.29	https://socoemergency.org/
+Sonoma_County,_California	Sonoma County, California	2021-03-17		291	28850	27019	575443	36	6	0	20	5	1.0	35.57	96.29	https://www.cdph.ca.gov
 South_Africa	South Africa	2021-03-17	2021-03-17T00:00:00.000Z	51634	1532497	1459056	9524854	1531	74	1055	598	-65	88.43	1189.0	1868.14	https://sacoronavirus.co.za/
 South_Carolina	South Carolina	2021-03-17		8933	536100			1231	52		550	49	21.71	1089.57		https://www.scdhec.gov/
 South_Dakota	South Dakota	2021-03-17	2021-03-17T17:00:00.000Z	1915	114966	110944	1021540	0	0	0	-317	-3	1.57	143.43	142.86	https://doh.sd.gov/
@@ -4256,7 +4257,7 @@ Union_County,_Tennessee	Union County, Tennessee	2021-03-17	2021-03-17T19:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2021-03-17		77	2320		31765	8	0		11	0	0.0	1.29		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2021-03-17	2021-03-17T12:01:00.000Z	1414	432364	413477	34476071	2051	8	2741	33	4	8.71	2065.0	2193.0	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2021-03-17		125831	4274579		110914005	5758	141		464	31	120.57	5665.0		https://www.gov.uk/
-United_States	United States	2021-03-17	2021-03-25T22:52:23.047Z	534650	29425337			54998	936		-9673	-365	1109.71	54905.0		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2021-03-17	2021-03-26T02:06:05.047Z	534855	29427778			57439	1141		-7232	-160	1139.0	55253.71		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2021-03-17	2021-03-17T21:00:00.000Z	1424	92586	85394		0	0	0	-903	-5	1.86	416.14	280.86	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2021-03-17		67	3177	2677		2	0	8	0	0	0.29	1.0	3.71	https://www.dshs.state.tx.us/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2021-03-17	2021-03-17T10:00:00.000Z	31	1730	1674	29278	2	0	8	-2	0	0.0	2.14	4.29	https://dhhr.wv.gov/
@@ -4613,7 +4614,7 @@ Yell_County,_Arkansas	Yell County, Arkansas	2021-03-17		63	3398	3322	34015	1	0	4
 Yellow_Medicine_County,_Minnesota	Yellow Medicine County, Minnesota	2021-03-17	2021-03-17T16:00:00.000Z	17	993			2	0		0	0	0.0	2.0		https://www.health.state.mn.us/
 Yellowstone_County,_Montana	Yellowstone County, Montana	2021-03-17		240	16484			20	0		-5	0	0.14	17.0		https://dphhs.mt.gov/
 Yoakum_County,_Texas	Yoakum County, Texas	2021-03-17		27	863	848		0	0	0	0	0	0.0	0.0	0.57	https://www.dshs.state.tx.us/
-Yolo_County,_California	Yolo County, California	2021-03-17	2021-03-17T17:00:00.000Z	190	13035	12681	106623	-96	0	16	-99	-1	0.14	2.86	21.86	https://www.yolocounty.org/
+Yolo_County,_California	Yolo County, California	2021-03-17		190	13162	12681	106623	31	0	16	28	-1	0.14	21.0	21.86	https://www.cdph.ca.gov
 York	York	2021-03-17			12096			6			-8			9.29		https://www.gov.uk/
 York_County,_Maine	York County, Maine	2021-03-17	2021-03-17T14:00:00.000Z	125	10065	2590		0	0	0	-82	0	0.14	35.86	0.57	https://www.maine.gov/
 York_County,_Nebraska	York County, Nebraska	2021-03-17		9	1627		6424	-31	0		-72	0	0.0	2.71		http://dhhs.ne.gov/
