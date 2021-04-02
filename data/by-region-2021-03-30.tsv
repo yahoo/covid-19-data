@@ -442,37 +442,37 @@ regionId	label	referenceDate	lastUpdatedDate	totalDeaths	totalConfirmedCases	tot
 62959,_Marion,_Illinois,_Illinois	62959, Marion, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		2925		43047	4			3			2.29		http://www.dph.illinois.gov/
 62966,_Murphysboro,_Illinois,_Illinois	62966, Murphysboro, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		1369		18093	0			-2			2.29		http://www.dph.illinois.gov/
 62992,_Ullin,_Illinois,_Illinois	62992, Ullin, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		203		1885	0			0			-0.14		http://www.dph.illinois.gov/
-94102,_San_Francisco,_California	94102, San Francisco, California	2021-03-30		22	1918								0.25	2.38		https://www.sfdph.org/
-94103,_San_Francisco,_California	94103, San Francisco, California	2021-03-30		13	1769								0.0	1.5		https://www.sfdph.org/
-94104,_San_Francisco,_California	94104, San Francisco, California	2021-03-30		0	18								0.0	0.0		https://www.sfdph.org/
-94105,_San_Francisco,_California	94105, San Francisco, California	2021-03-30			385									0.5		https://www.sfdph.org/
-94107,_San_Francisco,_California	94107, San Francisco, California	2021-03-30			996									0.75		https://www.sfdph.org/
-94108,_San_Francisco,_California	94108, San Francisco, California	2021-03-30			305									0.75		https://www.sfdph.org/
-94109,_San_Francisco,_California	94109, San Francisco, California	2021-03-30		46	2065								0.0	3.88		https://www.sfdph.org/
-94110,_San_Francisco,_California	94110, San Francisco, California	2021-03-30		52	4265								0.25	3.25		https://www.sfdph.org/
-94111,_San_Francisco,_California	94111, San Francisco, California	2021-03-30			86									0.13		https://www.sfdph.org/
-94112,_San_Francisco,_California	94112, San Francisco, California	2021-03-30		65	4972								0.25	3.63		https://www.sfdph.org/
-94114,_San_Francisco,_California	94114, San Francisco, California	2021-03-30			796									1.38		https://www.sfdph.org/
-94115,_San_Francisco,_California	94115, San Francisco, California	2021-03-30		48	1259								0.13	2.63		https://www.sfdph.org/
-94116,_San_Francisco,_California	94116, San Francisco, California	2021-03-30		26	960								0.0	1.63		https://www.sfdph.org/
-94117,_San_Francisco,_California	94117, San Francisco, California	2021-03-30		14	895								0.0	1.38		https://www.sfdph.org/
-94118,_San_Francisco,_California	94118, San Francisco, California	2021-03-30		21	887								0.13	1.5		https://www.sfdph.org/
-94121,_San_Francisco,_California	94121, San Francisco, California	2021-03-30			896									1.0		https://www.sfdph.org/
-94122,_San_Francisco,_California	94122, San Francisco, California	2021-03-30		14	1056								0.0	2.38		https://www.sfdph.org/
-94123,_San_Francisco,_California	94123, San Francisco, California	2021-03-30			819									2.13		https://www.sfdph.org/
-94124,_San_Francisco,_California	94124, San Francisco, California	2021-03-30		35	3630								0.0	2.25		https://www.sfdph.org/
-94127,_San_Francisco,_California	94127, San Francisco, California	2021-03-30		0	465								0.0	0.25		https://www.sfdph.org/
-94129,_San_Francisco,_California	94129, San Francisco, California	2021-03-30		0	103								0.0	0.25		https://www.sfdph.org/
-94130,_San_Francisco,_California	94130, San Francisco, California	2021-03-30			135									0.0		https://www.sfdph.org/
-94131,_San_Francisco,_California	94131, San Francisco, California	2021-03-30		12	642								0.0	0.75		https://www.sfdph.org/
-94132,_San_Francisco,_California	94132, San Francisco, California	2021-03-30			808									0.38		https://www.sfdph.org/
-94133,_San_Francisco,_California	94133, San Francisco, California	2021-03-30		17	669								0.0	1.75		https://www.sfdph.org/
-94134,_San_Francisco,_California	94134, San Francisco, California	2021-03-30		27	2802								0.25	1.5		https://www.sfdph.org/
+94102,_San_Francisco,_California	94102, San Francisco, California	2021-03-30		22	1918			1	0		0	0	0.25	2.38		https://www.sfdph.org/
+94103,_San_Francisco,_California	94103, San Francisco, California	2021-03-30		13	1769			0	0		-4	0	0.0	1.5		https://www.sfdph.org/
+94104,_San_Francisco,_California	94104, San Francisco, California	2021-03-30		0	18			0	0		0	0	0.0	0.0		https://www.sfdph.org/
+94105,_San_Francisco,_California	94105, San Francisco, California	2021-03-30			385			0			0			0.5		https://www.sfdph.org/
+94107,_San_Francisco,_California	94107, San Francisco, California	2021-03-30			996			0			0			0.75		https://www.sfdph.org/
+94108,_San_Francisco,_California	94108, San Francisco, California	2021-03-30			305			1			1			0.75		https://www.sfdph.org/
+94109,_San_Francisco,_California	94109, San Francisco, California	2021-03-30		46	2065			1	0		-3	0	0.0	3.88		https://www.sfdph.org/
+94110,_San_Francisco,_California	94110, San Francisco, California	2021-03-30		52	4265			2	0		-2	0	0.25	3.25		https://www.sfdph.org/
+94111,_San_Francisco,_California	94111, San Francisco, California	2021-03-30			86			0			0			0.13		https://www.sfdph.org/
+94112,_San_Francisco,_California	94112, San Francisco, California	2021-03-30		65	4972			3	0		1	0	0.25	3.63		https://www.sfdph.org/
+94114,_San_Francisco,_California	94114, San Francisco, California	2021-03-30			796			1			1			1.38		https://www.sfdph.org/
+94115,_San_Francisco,_California	94115, San Francisco, California	2021-03-30		48	1259			1	0		1	0	0.13	2.63		https://www.sfdph.org/
+94116,_San_Francisco,_California	94116, San Francisco, California	2021-03-30		26	960			1	0		-2	0	0.0	1.63		https://www.sfdph.org/
+94117,_San_Francisco,_California	94117, San Francisco, California	2021-03-30		14	895			1	0		0	0	0.0	1.38		https://www.sfdph.org/
+94118,_San_Francisco,_California	94118, San Francisco, California	2021-03-30		21	887			3	0		2	0	0.13	1.5		https://www.sfdph.org/
+94121,_San_Francisco,_California	94121, San Francisco, California	2021-03-30			896			0			0			1.0		https://www.sfdph.org/
+94122,_San_Francisco,_California	94122, San Francisco, California	2021-03-30		14	1056			1	0		-3	0	0.0	2.38		https://www.sfdph.org/
+94123,_San_Francisco,_California	94123, San Francisco, California	2021-03-30			819			1			0			2.13		https://www.sfdph.org/
+94124,_San_Francisco,_California	94124, San Francisco, California	2021-03-30		35	3630			2	0		-5	0	0.0	2.25		https://www.sfdph.org/
+94127,_San_Francisco,_California	94127, San Francisco, California	2021-03-30		0	465			0	0		-1	0	0.0	0.25		https://www.sfdph.org/
+94129,_San_Francisco,_California	94129, San Francisco, California	2021-03-30		0	103			0	0		0	0	0.0	0.25		https://www.sfdph.org/
+94130,_San_Francisco,_California	94130, San Francisco, California	2021-03-30			135			0			0			0.0		https://www.sfdph.org/
+94131,_San_Francisco,_California	94131, San Francisco, California	2021-03-30		12	642			-1	0		-3	0	0.0	0.75		https://www.sfdph.org/
+94132,_San_Francisco,_California	94132, San Francisco, California	2021-03-30			808			1			1			0.38		https://www.sfdph.org/
+94133,_San_Francisco,_California	94133, San Francisco, California	2021-03-30		17	669			0	0		-1	0	0.0	1.75		https://www.sfdph.org/
+94134,_San_Francisco,_California	94134, San Francisco, California	2021-03-30		27	2802			0	0		-1	0	0.25	1.5		https://www.sfdph.org/
 60133,_Hanover_Park,_Illinois,_Illinois	60133, Hanover Park, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		4506		39442	20			11			11.29		http://www.dph.illinois.gov/
 60156,_Lake_in_the_Hills,_Illinois,_Illinois	60156, Lake in the Hills, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		2327		23891	4			0			4.86		http://www.dph.illinois.gov/
 60155,_Broadview,_Illinois,_Illinois	60155, Broadview, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		799		8574	1			-3			2.0		http://www.dph.illinois.gov/
 60491,_Homer_Glen,_Illinois,_Illinois	60491, Homer Glen, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		2214		23912	3			-1			4.86		http://www.dph.illinois.gov/
-94158,_San_Francisco,_California	94158, San Francisco, California	2021-03-30		0	317								0.0	0.38		https://www.sfdph.org/
+94158,_San_Francisco,_California	94158, San Francisco, California	2021-03-30		0	317			0	0		0	0	0.0	0.38		https://www.sfdph.org/
 60502,_Aurora,_Illinois,_Illinois	60502, Aurora, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		1496		20105	8			5			5.57		http://www.dph.illinois.gov/
 60503,_Aurora,_Illinois,_Illinois	60503, Aurora, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		1116		14301	1			-5			5.29		http://www.dph.illinois.gov/
 60585,_Plainfield,_Illinois,_Illinois	60585, Plainfield, Illinois, Illinois	2021-03-30	2021-03-30T05:00:00.000Z		2082		24637	4			-1			5.29		http://www.dph.illinois.gov/
@@ -504,7 +504,7 @@ Adair_County,_Missouri	Adair County, Missouri	2021-03-30	2021-03-30T17:00:00.000
 Adams_County,_Colorado	Adams County, Colorado	2021-03-30		635	51255			70	1		11	1	0.43	94.14		https://covid19.colorado.gov/
 Adams_County,_Idaho	Adams County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	4	333			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Adams_County,_Illinois	Adams County, Illinois	2021-03-30		115	8075		137512	-2	0		-4	0	0.0	2.0		http://www.dph.illinois.gov/
-Adams_County,_Indiana	Adams County, Indiana	2021-03-30		51	3332		12632	8	0		6	0	0.0	2.86		https://coronavirus.in.gov/
+Adams_County,_Indiana	Adams County, Indiana	2021-03-30		51	3332		12636	8	0		6	0	0.0	3.0		https://coronavirus.in.gov/
 Adams_County,_Iowa	Adams County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	4	328	315	5140	-2	0	0	-5	0	0.0	-0.14	0.0	https://idph.iowa.gov
 Adams_County,_Mississippi	Adams County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	81	2426			13	0		13	0	0.0	2.71		https://msdh.ms.gov/
 Adams_County,_Nebraska	Adams County, Nebraska	2021-03-30		38	2796		12002	1	0		0	0	0.0	2.14		http://dhhs.ne.gov/
@@ -553,7 +553,7 @@ Allegany_County,_New_York	Allegany County, New York	2021-03-30	2021-03-30T14:00:
 Alleghany_County,_North_Carolina	Alleghany County, North Carolina	2021-03-30		5	942			2	0		1	0	0.0	0.71		https://www.ncdhhs.gov/
 Alleghany_County,_Virginia	Alleghany County, Virginia	2021-03-30	2021-03-30T13:00:00.000Z	48	1271			-1	-1		-1	-1	-0.14	1.14		http://www.vdh.virginia.gov/
 Allegheny_County,_Pennsylvania	Allegheny County, Pennsylvania	2021-03-30		1807	85262		445945	412	5		84	4	3.43	402.57		https://www.health.pa.gov/
-Allen_County,_Indiana	Allen County, Indiana	2021-03-30		663	37710		168779	73	0		10	0	0.43	80.86		https://coronavirus.in.gov/
+Allen_County,_Indiana	Allen County, Indiana	2021-03-30		663	37707		168856	77	0		14	0	0.43	81.14		https://coronavirus.in.gov/
 Allen_County,_Kansas	Allen County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1206			0			0			1.86		https://www.coronavirus.kdheks.gov
 Allen_County,_Kentucky	Allen County, Kentucky	2021-03-30		32	1919			10	0		8	0	0.14	4.29		https://govstatus.egov.com/
 Allen_County,_Ohio	Allen County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	228	11044			19	3		16	3	0.86	16.14		https://coronavirus.ohio.gov/
@@ -701,7 +701,7 @@ Barron_County,_Wisconsin	Barron County, Wisconsin	2021-03-30	2021-03-30T06:00:00
 Barrow_County,_Georgia	Barrow County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	127	9459			9	0		-5	0	0.86	13.43		https://dph.georgia.gov/
 Barry_County,_Michigan	Barry County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	52	4196			26	0	0	-27	0	0.29	25.86		https://www.michigan.gov/
 Barry_County,_Missouri	Barry County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	45	2219		19637	0	0		0	0	0.0	0.43		https://health.mo.gov
-Bartholomew_County,_Indiana	Bartholomew County, Indiana	2021-03-30		151	7696		39871	4	0		-2	0	0.0	9.71		https://coronavirus.in.gov/
+Bartholomew_County,_Indiana	Bartholomew County, Indiana	2021-03-30		151	7695		39884	4	0		-1	0	0.0	9.57		https://coronavirus.in.gov/
 Barton_County,_Kansas	Barton County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		2597			0			-2			1.71		https://www.coronavirus.kdheks.gov
 Barton_County,_Missouri	Barton County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	14	988		6789	0	1		0	1	0.14	0.0		https://health.mo.gov
 Bartow_County,_Georgia	Bartow County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	214	13898			32	0		21	0	0.71	22.57		https://dph.georgia.gov/
@@ -755,7 +755,7 @@ Bennington_County,_Vermont	Bennington County, Vermont	2021-03-30		10	1669			2	0	
 Benson_County,_North_Dakota	Benson County, North Dakota	2021-03-30	2021-03-30T16:00:00.000Z	18	1037	1016	4116	2	0	0	2	0	0.0	0.57	0.29	https://www.health.nd.gov/
 Bent_County,_Colorado	Bent County, Colorado	2021-03-30		21	1483			0	0		0	0	0.0	-0.14		https://covid19.colorado.gov/
 Benton_County,_Arkansas	Benton County, Arkansas	2021-03-30		406	28119	27512	246225	34	1	31	27	0	1.0	19.43	28.86	https://www.healthy.arkansas.gov/
-Benton_County,_Indiana	Benton County, Indiana	2021-03-30		13	930		4565	0	0		0	0	0.0	0.29		https://coronavirus.in.gov/
+Benton_County,_Indiana	Benton County, Indiana	2021-03-30		13	930		4569	0	0		0	0	0.0	0.29		https://coronavirus.in.gov/
 Benton_County,_Iowa	Benton County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	54	2630	2338	34726	7	0	15	12	0	0.0	3.29	6.86	https://idph.iowa.gov
 Benton_County,_Minnesota	Benton County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	95	4907			24	0		5	0	0.0	17.86		https://www.health.state.mn.us/
 Benton_County,_Mississippi	Benton County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	25	964			0	0		0	0	0.14	1.14		https://msdh.ms.gov/
@@ -794,7 +794,7 @@ Biobío_Region	Biobío Region	2021-03-30	2021-03-30T04:00:00.000Z	1557	94969	883
 Birmingham	Birmingham	2021-03-30			100167			73			3			98.57		https://www.gov.uk/
 Black_Hawk_County,_Iowa	Black Hawk County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	300	16657	14623	199813	22	0	21	27	0	0.0	17.43	13.57	https://idph.iowa.gov
 Blackburn_with_Darwen	Blackburn with Darwen	2021-03-30			17892			12			-7			20.57		https://www.gov.uk/
-Blackford_County,_Indiana	Blackford County, Indiana	2021-03-30		29	1299		5755	3	0		3	0	0.0	3.29		https://coronavirus.in.gov/
+Blackford_County,_Indiana	Blackford County, Indiana	2021-03-30		29	1299		5755	4	0		4	0	0.0	3.43		https://coronavirus.in.gov/
 Blackpool	Blackpool	2021-03-30			9163			5			1			4.43		https://www.gov.uk/
 Blackstone,_Massachusetts	Blackstone, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		554		11805	0			0			2.71		https://www.mass.gov/
 Bladen_County,_North_Carolina	Bladen County, North Carolina	2021-03-30		41	3103			1	0		-14	0	0.0	4.71		https://www.ncdhhs.gov/
@@ -821,7 +821,7 @@ Bonner_County,_Idaho	Bonner County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	37
 Bonneville_County,_Idaho	Bonneville County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	157	14004			46	0		9	0	0.0	48.57		https://coronavirus.idaho.gov/
 Boone_County,_Arkansas	Boone County, Arkansas	2021-03-30		79	3740	3634	38633	3	0	3	1	0	0.14	3.29	2.29	https://www.healthy.arkansas.gov/
 Boone_County,_Illinois	Boone County, Illinois	2021-03-30		71	6093		54964	9	0		6	0	0.0	7.14		http://www.dph.illinois.gov/
-Boone_County,_Indiana	Boone County, Indiana	2021-03-30		99	6363		33611	3	0		-6	0	0.0	8.71		https://coronavirus.in.gov/
+Boone_County,_Indiana	Boone County, Indiana	2021-03-30		99	6363		33652	3	0		-6	0	0.0	8.71		https://coronavirus.in.gov/
 Boone_County,_Iowa	Boone County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	31	2702	2399	41431	11	0	10	13	0	0.14	4.71	3.57	https://idph.iowa.gov
 Boone_County,_Kentucky	Boone County, Kentucky	2021-03-30		108	13169			20	0		8	0	0.29	15.29		https://govstatus.egov.com/
 Boone_County,_Missouri	Boone County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	86	16273		194934	2	0		-5	0	0.0	12.43		https://health.mo.gov
@@ -904,7 +904,7 @@ Broome_County,_New_York	Broome County, New York	2021-03-30	2021-03-30T14:00:00.0
 Broomfield,_Colorado	Broomfield, Colorado	2021-03-30		74	4173			12	0		3	0	0.0	13.0		https://covid19.colorado.gov/
 Broward_County,_Florida	Broward County, Florida	2021-03-30		2634	213880		1295907	722	5		205	0	4.43	672.86		https://floridahealthcovid19.gov/
 Brown_County,_Illinois	Brown County, Illinois	2021-03-30		6	680		23639	0	0		0	0	0.0	0.29		http://www.dph.illinois.gov/
-Brown_County,_Indiana	Brown County, Indiana	2021-03-30		40	968		4258	1	0		1	0	0.0	0.43		https://coronavirus.in.gov/
+Brown_County,_Indiana	Brown County, Indiana	2021-03-30		40	967		4257	0	0		0	0	0.0	0.29		https://coronavirus.in.gov/
 Brown_County,_Kansas	Brown County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1229			0			-1			0.86		https://www.coronavirus.kdheks.gov
 Brown_County,_Minnesota	Brown County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	39	2749			14	0		-1	0	0.0	13.71		https://www.health.state.mn.us/
 Brown_County,_Nebraska	Brown County, Nebraska	2021-03-30		2	215		938	0	0		0	0	0.0	-0.14		http://dhhs.ne.gov/
@@ -1048,7 +1048,7 @@ Caroline_County,_Virginia	Caroline County, Virginia	2021-03-30	2021-03-30T13:00:
 Carroll_County,_Arkansas	Carroll County, Arkansas	2021-03-30		44	2749	2695	23678	1	0	3	0	0	0.0	1.29	0.71	https://www.healthy.arkansas.gov/
 Carroll_County,_Georgia	Carroll County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	227	10917			15	2		2	2	0.29	16.71		https://dph.georgia.gov/
 Carroll_County,_Illinois	Carroll County, Illinois	2021-03-30		35	1635		19014	5	0		4	0	0.0	3.71		http://www.dph.illinois.gov/
-Carroll_County,_Indiana	Carroll County, Indiana	2021-03-30		20	1807		7764	4	0		2	0	0.0	1.71		https://coronavirus.in.gov/
+Carroll_County,_Indiana	Carroll County, Indiana	2021-03-30		20	1804		7768	4	0		2	0	0.0	1.71		https://coronavirus.in.gov/
 Carroll_County,_Iowa	Carroll County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	49	2935	2617	33913	-5	0	4	-13	0	0.0	0.86	2.29	https://idph.iowa.gov
 Carroll_County,_Kentucky	Carroll County, Kentucky	2021-03-30		17	957			3	1		3	1	0.43	0.86		https://govstatus.egov.com/
 Carroll_County,_Maryland	Carroll County, Maryland	2021-03-30		212	8220			28	0		12	0	0.0	29.71		https://coronavirus.maryland.gov/
@@ -1071,7 +1071,7 @@ Carver,_Massachusetts	Carver, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z	
 Cascade_County,_Montana	Cascade County, Montana	2021-03-30		150	8428			2	0		-1	0	0.0	9.0		https://dphhs.mt.gov/
 Casey_County,_Kentucky	Casey County, Kentucky	2021-03-30		34	1237			1	0		1	0	0.14	-0.29		https://govstatus.egov.com/
 Cass_County,_Illinois	Cass County, Illinois	2021-03-30		24	1926		19230	1	0		0	0	0.0	2.86		http://www.dph.illinois.gov/
-Cass_County,_Indiana	Cass County, Indiana	2021-03-30		102	5612		19964	10	0		6	0	0.0	4.29		https://coronavirus.in.gov/
+Cass_County,_Indiana	Cass County, Indiana	2021-03-30		102	5615		19967	10	0		6	0	0.0	4.43		https://coronavirus.in.gov/
 Cass_County,_Iowa	Cass County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	53	1397	1235	19504	-3	0	12	-7	0	0.14	0.57	4.0	https://idph.iowa.gov
 Cass_County,_Michigan	Cass County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	68	4562			34	0	0	0	0	0.14	24.29		https://www.michigan.gov/
 Cass_County,_Minnesota	Cass County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	26	2309			6	0		3	0	0.0	4.57		https://www.health.state.mn.us/
@@ -1204,7 +1204,7 @@ Clarion_County,_Pennsylvania	Clarion County, Pennsylvania	2021-03-30		88	2825		1
 Clark_County,_Arkansas	Clark County, Arkansas	2021-03-30		40	2078	2033	29461	0	0	1	0	0	0.0	1.0	1.57	https://www.healthy.arkansas.gov/
 Clark_County,_Idaho	Clark County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	0	56			0	0		0	0	0.0	0.0		https://coronavirus.idaho.gov/
 Clark_County,_Illinois	Clark County, Illinois	2021-03-30		32	1720		15607	-1	0		-3	0	0.0	1.14		http://www.dph.illinois.gov/
-Clark_County,_Indiana	Clark County, Indiana	2021-03-30		187	12411		57625	4	0		-3	-1	0.29	12.14		https://coronavirus.in.gov/
+Clark_County,_Indiana	Clark County, Indiana	2021-03-30		187	12412		57646	5	0		-2	-1	0.29	12.29		https://coronavirus.in.gov/
 Clark_County,_Kansas	Clark County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		247			0			0			0.0		https://www.coronavirus.kdheks.gov
 Clark_County,_Kentucky	Clark County, Kentucky	2021-03-30		28	2621			2	0		0	0	0.29	3.86		https://govstatus.egov.com/
 Clark_County,_Missouri	Clark County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	7	481		2793	0	0		0	0	0.0	0.57		https://health.mo.gov
@@ -1225,7 +1225,7 @@ Clay_County,_Arkansas	Clay County, Arkansas	2021-03-30		50	1723	1667	19499	1	0	1
 Clay_County,_Florida	Clay County, Florida	2021-03-30		325	17347		100200	19	0		6	0	0.0	22.14		https://floridahealthcovid19.gov/
 Clay_County,_Georgia	Clay County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	3	234			2	0		2	0	0.0	0.43		https://dph.georgia.gov/
 Clay_County,_Illinois	Clay County, Illinois	2021-03-30		42	1455		14905	1	0		1	0	0.0	0.71		http://www.dph.illinois.gov/
-Clay_County,_Indiana	Clay County, Indiana	2021-03-30		44	2471		11434	4	0		3	0	0.0	2.57		https://coronavirus.in.gov/
+Clay_County,_Indiana	Clay County, Indiana	2021-03-30		44	2471		11437	5	0		5	0	0.0	2.57		https://coronavirus.in.gov/
 Clay_County,_Iowa	Clay County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	25	2118	1812	27588	18	0	4	20	0	0.0	9.0	1.14	https://idph.iowa.gov
 Clay_County,_Kansas	Clay County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		785			0			0			0.14		https://www.coronavirus.kdheks.gov
 Clay_County,_Kentucky	Clay County, Kentucky	2021-03-30		36	2577			3	0		1	0	0.43	2.86		https://govstatus.egov.com/
@@ -1251,7 +1251,7 @@ Cleveland_County,_Arkansas	Cleveland County, Arkansas	2021-03-30		25	938	912	106
 Cleveland_County,_North_Carolina	Cleveland County, North Carolina	2021-03-30		219	10870			20	0		-29	-1	0.14	18.57		https://www.ncdhhs.gov/
 Clinch_County,_Georgia	Clinch County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	26	935			2	0		2	0	0.14	0.29		https://dph.georgia.gov/
 Clinton_County,_Illinois	Clinton County, Illinois	2021-03-30		89	5667		59904	3	0		2	0	0.0	1.86		http://www.dph.illinois.gov/
-Clinton_County,_Indiana	Clinton County, Indiana	2021-03-30		53	4056		18388	3	0		0	0	0.0	4.0		https://coronavirus.in.gov/
+Clinton_County,_Indiana	Clinton County, Indiana	2021-03-30		53	4055		18397	3	0		0	0	0.0	4.0		https://coronavirus.in.gov/
 Clinton_County,_Iowa	Clinton County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	87	5647	4923	57650	26	0	4	37	0	0.0	13.86	6.0	https://idph.iowa.gov
 Clinton_County,_Kentucky	Clinton County, Kentucky	2021-03-30		29	1392			4	0		4	0	0.0	-0.57		https://govstatus.egov.com/
 Clinton_County,_Michigan	Clinton County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	75	5885			72	0	0	16	0	0.14	46.29		https://www.michigan.gov/
@@ -1430,7 +1430,7 @@ Dauphin_County,_Pennsylvania	Dauphin County, Pennsylvania	2021-03-30		518	22273	
 Davidson_County,_North_Carolina	Davidson County, North Carolina	2021-03-30		178	15306			24	0		-67	0	0.14	28.71		https://www.ncdhhs.gov/
 Davidson_County,_Tennessee	Davidson County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	896	85331		1035611	102	2	2	24	0	1.71	120.29		https://www.tn.gov/
 Davie_County,_North_Carolina	Davie County, North Carolina	2021-03-30		36	3783			7	0		-13	-1	0.14	9.43		https://www.ncdhhs.gov/
-Daviess_County,_Indiana	Daviess County, Indiana	2021-03-30		98	2874		11748	0	0		0	0	0.0	0.57		https://coronavirus.in.gov/
+Daviess_County,_Indiana	Daviess County, Indiana	2021-03-30		98	2874		11750	0	0		0	0	0.0	0.57		https://coronavirus.in.gov/
 Daviess_County,_Kentucky	Daviess County, Kentucky	2021-03-30		172	10148			22	0		16	0	0.29	14.43		https://govstatus.egov.com/
 Daviess_County,_Missouri	Daviess County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	11	591		5744	0	0		0	0	0.0	0.14		https://health.mo.gov
 Davis_County,_Iowa	Davis County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	24	856	739	10266	0	0	4	-1	0	0.0	1.0	1.43	https://idph.iowa.gov
@@ -1444,9 +1444,9 @@ Dawson_County,_Texas	Dawson County, Texas	2021-03-30		68	1717	1681		0	0	0	0	0	0.
 Day_County,_South_Dakota	Day County, South Dakota	2021-03-30	2021-03-30T17:00:00.000Z	29	677	640	2534	-2	0	-1	-2	0	0.0	-0.86	-0.57	https://doh.sd.gov/
 De_Baca_County,_New_Mexico	De Baca County, New Mexico	2021-03-30		1	133			0	0		0	0	0.0	0.0		https://cv.nmhealth.org
 Deaf_Smith_County,_Texas	Deaf Smith County, Texas	2021-03-30		64	2684	2600		0	0	3	0	0	0.0	2.29	3.14	https://www.dshs.state.tx.us/
-Dearborn_County,_Indiana	Dearborn County, Indiana	2021-03-30		73	5588		22503	4	0		4	0	0.0	3.86		https://coronavirus.in.gov/
+Dearborn_County,_Indiana	Dearborn County, Indiana	2021-03-30		73	5589		22527	4	0		3	0	0.0	3.86		https://coronavirus.in.gov/
 Decatur_County,_Georgia	Decatur County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	67	2835			2	0		-1	0	0.14	3.57		https://dph.georgia.gov/
-Decatur_County,_Indiana	Decatur County, Indiana	2021-03-30		92	2758		11973	2	0		2	0	0.0	2.14		https://coronavirus.in.gov/
+Decatur_County,_Indiana	Decatur County, Indiana	2021-03-30		92	2758		11977	2	0		2	0	0.0	2.14		https://coronavirus.in.gov/
 Decatur_County,_Iowa	Decatur County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	9	597	565	9892	3	0	5	4	0	0.0	0.71	1.71	https://idph.iowa.gov
 Decatur_County,_Kansas	Decatur County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		264			0			0			0.14		https://www.coronavirus.kdheks.gov
 Decatur_County,_Tennessee	Decatur County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	38	1562		12236	1	0	0	1	0	0.14	0.86		https://www.tn.gov/
@@ -1461,7 +1461,7 @@ DeKalb_County,_Missouri	DeKalb County, Missouri	2021-03-30	2021-03-30T17:00:00.0
 DeKalb_County,_Tennessee	DeKalb County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	53	2725		19041	0	1	1	0	1	0.14	2.14		https://www.tn.gov/
 Del_Norte_County,_California	Del Norte County, California	2021-03-30	2021-03-30T23:00:00.000Z	6	1149	1110	13814	11	1	15	-2	1	0.14	6.0	8.14	http://www.co.del-norte.ca.us/
 Delaware	Delaware	2021-03-30	2021-03-30T17:00:00.000Z	1559	94573		659958	171	7		-169	-1	3.43	280.57		https://dhss.delaware.gov
-Delaware_County,_Indiana	Delaware County, Indiana	2021-03-30		182	10105		52169	8	0		1	0	0.0	10.0		https://coronavirus.in.gov/
+Delaware_County,_Indiana	Delaware County, Indiana	2021-03-30		182	10104		52195	8	0		1	0	0.0	10.0		https://coronavirus.in.gov/
 Delaware_County,_Iowa	Delaware County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	39	1986	1813	25332	11	0	2	10	0	0.0	5.57	0.86	https://idph.iowa.gov
 Delaware_County,_New_York	Delaware County, New York	2021-03-30	2021-03-30T14:00:00.000Z	34	1894		78924	7	0		-1	0	0.0	12.71		https://coronavirus.health.ny.gov/
 Delaware_County,_Ohio	Delaware County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	129	17354			61	0		23	0	0.14	40.0		https://coronavirus.ohio.gov/
@@ -1544,7 +1544,7 @@ Downey,_California	Downey, California	2021-03-30	2021-03-30T01:00:00.000Z	281	17
 Dracut,_Massachusetts	Dracut, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		3257		56267	0			0			10.86		https://www.mass.gov/
 Drew_County,_Arkansas	Drew County, Arkansas	2021-03-30		39	1984	1939	19976	0	0	0	-3	0	0.14	1.57	2.14	https://www.healthy.arkansas.gov/
 Duarte,_California	Duarte, California	2021-03-30	2021-03-30T01:00:00.000Z	93	2287			2	0		2	0	0.14	1.0		http://publichealth.lacounty.gov/
-Dubois_County,_Indiana	Dubois County, Indiana	2021-03-30		115	6026		19833	4	0		3	0	0.0	4.0		https://coronavirus.in.gov/
+Dubois_County,_Indiana	Dubois County, Indiana	2021-03-30		115	6025		19846	4	0		3	0	0.0	4.0		https://coronavirus.in.gov/
 Dubuque_County,_Iowa	Dubuque County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	200	13896	12208	174653	28	0	23	33	0	0.0	18.71	14.57	https://idph.iowa.gov
 Duchesne_County,_Utah	Duchesne County, Utah	2021-03-30	2021-02-12T13:00:00.000Z	9	1217	1108		0	0	0	0	0	0.0	0.0	0.0	https://tricountyhealth.com/
 Dudley,_Massachusetts	Dudley, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		862		43642	0			0			4.0		https://www.mass.gov/
@@ -1564,7 +1564,7 @@ Duxbury,_Massachusetts	Duxbury, Massachusetts	2021-03-30	2021-03-30T20:00:00.000
 Dyer_County,_Tennessee	Dyer County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	103	5311		25369	1	0	0	0	0	0.0	2.29		https://www.tn.gov/
 Eagle_County,_Colorado	Eagle County, Colorado	2021-03-30		22	5704			10	0		3	0	0.0	19.71		https://covid19.colorado.gov/
 Early_County,_Georgia	Early County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	46	1151			2	0		2	0	0.29	1.43		https://dph.georgia.gov/
-Earth	Earth	2021-03-30	2021-04-01T17:58:34.072Z	2717754	123550189			498749	10893		78921	4372	9120.14	516038.0	322060.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+Earth	Earth	2021-03-30	2021-04-01T23:16:15.768Z	2717754	123550189			498749	10893		78921	4372	9120.14	516038.0	322060.29	https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 East_Baton_Rouge_Parish,_Louisiana	East Baton Rouge Parish, Louisiana	2021-03-30		770	37279		482287	52	1		-16	-1	1.29	42.0		http://ldh.la.gov/
 East_Bridgewater,_Massachusetts	East Bridgewater, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		1105		21465	0			0			2.29		https://www.mass.gov/
 East_Brookfield,_Massachusetts	East Brookfield, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		155		2918	0			0			1.14		https://www.mass.gov/
@@ -1613,7 +1613,7 @@ Elbert_County,_Colorado	Elbert County, Colorado	2021-03-30		12	1411			3	0		-2	0	
 Elbert_County,_Georgia	Elbert County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	66	2258			1	0		1	0	0.29	0.43		https://dph.georgia.gov/
 Elk_County,_Kansas	Elk County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		178			0			0			0.0		https://www.coronavirus.kdheks.gov
 Elk_County,_Pennsylvania	Elk County, Pennsylvania	2021-03-30		37	2538		7150	24	0		21	0	0.14	13.14		https://www.health.pa.gov/
-Elkhart_County,_Indiana	Elkhart County, Indiana	2021-03-30		428	26257		104082	26	0		-13	-1	0.14	39.14		https://coronavirus.in.gov/
+Elkhart_County,_Indiana	Elkhart County, Indiana	2021-03-30		428	26262		104128	26	0		-14	-1	0.14	39.29		https://coronavirus.in.gov/
 Elko_County,_Nevada	Elko County, Nevada	2021-03-30	2021-03-30T00:00:00.000Z	53	4681	4584	31201	10	0	18	10	0	0.0	4.14	3.57	https://www.elkocountynv.net/
 Elliott_County,_Kentucky	Elliott County, Kentucky	2021-03-30		2	943			0	0		0	0	0.0	0.86		https://govstatus.egov.com/
 Ellis_County,_Kansas	Ellis County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		3720			0			-3			0.86		https://www.coronavirus.kdheks.gov
@@ -1674,7 +1674,7 @@ Fauquier_County,_Virginia	Fauquier County, Virginia	2021-03-30	2021-03-30T13:00:
 Fayette_County,_Alabama	Fayette County, Alabama	2021-03-30		59	2063			2	0		1	0	0.14	1.71		https://covid19.alabama.gov/
 Fayette_County,_Georgia	Fayette County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	156	8523			8	0		-3	0	0.57	11.57		https://dph.georgia.gov/
 Fayette_County,_Illinois	Fayette County, Illinois	2021-03-30		54	3089		29331	1	0		1	0	0.0	1.29		http://www.dph.illinois.gov/
-Fayette_County,_Indiana	Fayette County, Indiana	2021-03-30		59	2751		10988	1	0		-2	0	0.0	1.43		https://coronavirus.in.gov/
+Fayette_County,_Indiana	Fayette County, Indiana	2021-03-30		59	2751		10995	1	0		-2	0	0.0	1.43		https://coronavirus.in.gov/
 Fayette_County,_Iowa	Fayette County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	39	1894	1747	32895	1	0	13	3	0	0.29	1.29	2.43	https://idph.iowa.gov
 Fayette_County,_Kentucky	Fayette County, Kentucky	2021-03-30		275	34089			57	1		49	1	1.86	42.86		https://govstatus.egov.com/
 Fayette_County,_Ohio	Fayette County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	48	2742			2	0		2	0	0.14	1.43		https://coronavirus.ohio.gov/
@@ -1702,7 +1702,7 @@ Florence_County,_Wisconsin	Florence County, Wisconsin	2021-03-30	2021-03-30T06:0
 Florida	Florida	2021-03-30		33983	2052446		11859459	5061	92		1687	20	76.29	5132.43		https://floridahealthcovid19.gov/
 Florida,_Massachusetts	Florida, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		9		624	0			0			0.14		https://www.mass.gov/
 Floyd_County,_Georgia	Floyd County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	208	11601			15	0		8	-1	0.71	15.43		https://dph.georgia.gov/
-Floyd_County,_Indiana	Floyd County, Indiana	2021-03-30		174	7416		37274	9	0		4	0	0.0	8.29		https://coronavirus.in.gov/
+Floyd_County,_Indiana	Floyd County, Indiana	2021-03-30		174	7416		37298	9	0		4	0	0.0	8.29		https://coronavirus.in.gov/
 Floyd_County,_Iowa	Floyd County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	41	1684	1431	23661	5	0	1	7	0	0.0	2.14	1.0	https://idph.iowa.gov
 Floyd_County,_Kentucky	Floyd County, Kentucky	2021-03-30		60	3182			10	0		3	0	0.43	7.29		https://govstatus.egov.com/
 Floyd_County,_Texas	Floyd County, Texas	2021-03-30		29	786	747		0	0	0	0	0	0.0	1.0	1.14	https://www.dshs.state.tx.us/
@@ -1720,7 +1720,7 @@ Forsyth_County,_North_Carolina	Forsyth County, North Carolina	2021-03-30		360	33
 Fort_Bend_County,_Texas	Fort Bend County, Texas	2021-03-30		629	62938	52532		87	0	160	87	-1	1.71	130.43	125.14	https://www.dshs.state.tx.us/
 Foster_County,_North_Dakota	Foster County, North Dakota	2021-03-30	2021-03-30T16:00:00.000Z	19	571	552	1753	0	0	0	0	0	0.0	0.14	0.14	https://www.health.nd.gov/
 Foster,_Rhode_Island	Foster, Rhode Island	2021-03-30	2021-03-24T15:28:00.000Z		448		2637	0			0			1.29		https://health.ri.gov/
-Fountain_County,_Indiana	Fountain County, Indiana	2021-03-30		44	2056		7881	1	0		0	0	0.0	1.57		https://coronavirus.in.gov/
+Fountain_County,_Indiana	Fountain County, Indiana	2021-03-30		44	2057		7883	1	0		0	0	0.0	1.57		https://coronavirus.in.gov/
 Foxborough,_Massachusetts	Foxborough, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		1178		44795	0			0			4.43		https://www.mass.gov/
 Framingham,_Massachusetts	Framingham, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		7376		161297	0			0			29.29		https://www.mass.gov/
 France	France	2021-03-30	2021-03-30T00:00:00.000Z	95364	4585385	292796		30702	381	1986	21608	21	347.0	38901.71	1327.0	https://www.santepubliquefrance.fr/
@@ -1730,7 +1730,7 @@ Franklin_County,_Florida	Franklin County, Florida	2021-03-30		17	1295		7231	0	1	
 Franklin_County,_Georgia	Franklin County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	47	2588			1	0		0	0	0.14	1.0		https://dph.georgia.gov/
 Franklin_County,_Idaho	Franklin County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	16	1121			1	0		-1	0	0.0	1.57		https://coronavirus.idaho.gov/
 Franklin_County,_Illinois	Franklin County, Illinois	2021-03-30		69	4262		46825	2	0		-3	0	0.29	4.14		http://www.dph.illinois.gov/
-Franklin_County,_Indiana	Franklin County, Indiana	2021-03-30		35	1631		6474	1	0		1	0	0.0	1.0		https://coronavirus.in.gov/
+Franklin_County,_Indiana	Franklin County, Indiana	2021-03-30		35	1631		6485	1	0		1	0	0.0	1.0		https://coronavirus.in.gov/
 Franklin_County,_Iowa	Franklin County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	21	1210	1065	18447	3	0	1	4	0	0.14	1.0	0.43	https://idph.iowa.gov
 Franklin_County,_Kansas	Franklin County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		2490			0			-1			0.71		https://www.coronavirus.kdheks.gov
 Franklin_County,_Kentucky	Franklin County, Kentucky	2021-03-30		44	3862			5	0		2	0	0.29	3.71		https://govstatus.egov.com/
@@ -1769,7 +1769,7 @@ Frontier_County,_Nebraska	Frontier County, Nebraska	2021-03-30		1	191		1046	1	0	
 Fulton_County,_Arkansas	Fulton County, Arkansas	2021-03-30		47	1100	1052	8170	1	0	1	0	0	0.0	0.29	0.57	https://www.healthy.arkansas.gov/
 Fulton_County,_Georgia	Fulton County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	1264	91533			105	3		-21	1	4.14	152.57		https://dph.georgia.gov/
 Fulton_County,_Illinois	Fulton County, Illinois	2021-03-30		50	3265		72547	18	0		8	0	0.14	20.57		http://www.dph.illinois.gov/
-Fulton_County,_Indiana	Fulton County, Indiana	2021-03-30		39	1859		8806	5	0		4	0	0.0	2.0		https://coronavirus.in.gov/
+Fulton_County,_Indiana	Fulton County, Indiana	2021-03-30		39	1860		8809	6	0		5	0	0.0	2.14		https://coronavirus.in.gov/
 Fulton_County,_Kentucky	Fulton County, Kentucky	2021-03-30		14	491			2	0		2	0	0.14	0.43		https://govstatus.egov.com/
 Fulton_County,_New_York	Fulton County, New York	2021-03-30	2021-03-30T14:00:00.000Z	85	3748		86214	11	0		5	0	0.0	13.57		https://coronavirus.health.ny.gov/
 Fulton_County,_Ohio	Fulton County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	64	3939			2	0		-8	0	0.0	6.0		https://coronavirus.ohio.gov/
@@ -1812,7 +1812,7 @@ Georgetown,_Massachusetts	Georgetown, Massachusetts	2021-03-30	2021-03-30T20:00:
 Georgia_(U.S._state)	Georgia	2021-03-30	2021-03-30T18:50:13.000Z	18987	1057741		9447797	1320	25		155	-11	57.0	1366.86		https://dph.georgia.gov/
 Germany	Germany	2021-03-30	2021-03-30T00:00:00.000Z	76093	2791822	2507900		9549	180	13100	-323	137	161.29	16730.29	10585.71	https://www.rki.de/
 Ghana	Ghana	2021-03-30	2021-03-27T00:00:00.000Z	740	90287	87137		121	0	0	0	0	1.29	71.43	167.43	https://www.ghanahealthservice.org/covid19/
-Gibson_County,_Indiana	Gibson County, Indiana	2021-03-30		87	4193		14391	3	0		0	0	0.0	4.86		https://coronavirus.in.gov/
+Gibson_County,_Indiana	Gibson County, Indiana	2021-03-30		87	4193		14395	3	0		0	0	0.0	4.86		https://coronavirus.in.gov/
 Gibson_County,_Tennessee	Gibson County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	143	6284		33460	3	0	0	1	0	0.29	4.29		https://www.tn.gov/
 Gila_County,_Arizona	Gila County, Arizona	2021-03-30	2021-03-30T15:00:00.000Z	219	6542		56681	4	0	0	3	0	0.14	6.14		https://azdhs.gov/
 Gilchrist_County,_Florida	Gilchrist County, Florida	2021-03-30		38	1487		7968	4	1		4	1	0.14	2.14		https://floridahealthcovid19.gov/
@@ -1905,7 +1905,7 @@ Greene_County,_Alabama	Greene County, Alabama	2021-03-30		34	904			1	0		1	0	0.14
 Greene_County,_Arkansas	Greene County, Arkansas	2021-03-30		75	6003	5907	53467	4	0	8	4	-1	0.14	3.29	4.43	https://www.healthy.arkansas.gov/
 Greene_County,_Georgia	Greene County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	58	1770			0	0		0	0	0.57	0.71		https://dph.georgia.gov/
 Greene_County,_Illinois	Greene County, Illinois	2021-03-30		32	1402		13648	0	0		0	0	0.0	0.43		http://www.dph.illinois.gov/
-Greene_County,_Indiana	Greene County, Indiana	2021-03-30		85	2670		13272	3	0		3	0	0.29	0.71		https://coronavirus.in.gov/
+Greene_County,_Indiana	Greene County, Indiana	2021-03-30		85	2670		13276	3	0		3	0	0.29	0.71		https://coronavirus.in.gov/
 Greene_County,_Iowa	Greene County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	10	800	719	13881	-2	0	3	-4	0	0.0	0.57	0.86	https://idph.iowa.gov
 Greene_County,_Mississippi	Greene County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	33	1293			0	0		0	0	0.0	0.14		https://msdh.ms.gov/
 Greene_County,_Missouri	Greene County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	451	23853		237024	6	1		-6	1	0.0	10.71		https://health.mo.gov
@@ -1962,7 +1962,7 @@ Hall_County,_Texas	Hall County, Texas	2021-03-30		14	432	414		0	0	0	0	0	0.0	0.86
 Hamblen_County,_Tennessee	Hamblen County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	170	8348		51854	3	0	0	2	0	0.0	7.86		https://www.tn.gov/
 Hamilton_County,_Florida	Hamilton County, Florida	2021-03-30		23	1588		8005	1	0		0	0	0.0	1.0		https://floridahealthcovid19.gov/
 Hamilton_County,_Illinois	Hamilton County, Illinois	2021-03-30		15	802		7132	0	0		0	0	0.0	0.86		http://www.dph.illinois.gov/
-Hamilton_County,_Indiana	Hamilton County, Indiana	2021-03-30		403	33385		189982	39	0		-7	0	0.0	46.0		https://coronavirus.in.gov/
+Hamilton_County,_Indiana	Hamilton County, Indiana	2021-03-30		403	33391		190165	41	0		-9	0	0.0	46.29		https://coronavirus.in.gov/
 Hamilton_County,_Iowa	Hamilton County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	46	1941	1696	22145	-2	0	2	-4	0	0.29	0.29	1.43	https://idph.iowa.gov
 Hamilton_County,_Kansas	Hamilton County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		201			0			0			-0.14		https://www.coronavirus.kdheks.gov
 Hamilton_County,_Nebraska	Hamilton County, Nebraska	2021-03-30		17	904		3759	1	0		-1	0	0.14	1.0		http://dhhs.ne.gov/
@@ -1981,7 +1981,7 @@ Hampton_County,_South_Carolina	Hampton County, South Carolina	2021-03-30		47	152
 Hampton,_Virginia	Hampton, Virginia	2021-03-30	2021-03-30T13:00:00.000Z	157	9502			33	3		5	0	1.0	31.29		http://www.vdh.virginia.gov/
 Hancock_County,_Georgia	Hancock County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	60	896			0	0		0	0	0.0	0.29		https://dph.georgia.gov/
 Hancock_County,_Illinois	Hancock County, Illinois	2021-03-30		30	1699		17545	-1	0		0	0	0.0	1.86		http://www.dph.illinois.gov/
-Hancock_County,_Indiana	Hancock County, Indiana	2021-03-30		136	7674		40287	8	0		-3	0	0.14	8.57		https://coronavirus.in.gov/
+Hancock_County,_Indiana	Hancock County, Indiana	2021-03-30		136	7669		40299	8	0		-3	0	0.14	8.57		https://coronavirus.in.gov/
 Hancock_County,_Iowa	Hancock County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	33	1501	1342	19729	-2	0	3	-4	0	0.0	0.86	0.71	https://idph.iowa.gov
 Hancock_County,_Kentucky	Hancock County, Kentucky	2021-03-30		15	837			2	0		2	0	0.0	0.86		https://govstatus.egov.com/
 Hancock_County,_Maine	Hancock County, Maine	2021-03-30	2021-03-30T14:00:00.000Z	35	1041	225		3	0	0	-4	0	0.0	5.57	0.0	https://www.maine.gov/
@@ -2019,7 +2019,7 @@ Harney_County,_Oregon	Harney County, Oregon	2021-03-30	2021-03-30T07:00:00.000Z	
 Harper_County,_Kansas	Harper County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		616			0			2			0.29		https://www.coronavirus.kdheks.gov
 Harris_County,_Georgia	Harris County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	53	2461			1	0		-1	0	0.43	2.86		https://dph.georgia.gov/
 Harris_County,_Texas	Harris County, Texas	2021-03-30		5778	375093	360324		538	19	363	-392	18	19.0	687.43	877.29	https://www.dshs.state.tx.us/
-Harrison_County,_Indiana	Harrison County, Indiana	2021-03-30		69	4208		18807	3	0		-1	0	0.0	7.0		https://coronavirus.in.gov/
+Harrison_County,_Indiana	Harrison County, Indiana	2021-03-30		69	4207		18821	3	0		-2	0	0.0	7.14		https://coronavirus.in.gov/
 Harrison_County,_Iowa	Harrison County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	71	1838	1599	19811	4	0	2	4	0	0.14	1.57	1.14	https://idph.iowa.gov
 Harrison_County,_Kentucky	Harrison County, Kentucky	2021-03-30		21	1598			1	0		1	0	0.0	3.29		https://govstatus.egov.com/
 Harrison_County,_Mississippi	Harrison County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	299	17335			15	1		10	1	0.14	12.86		https://msdh.ms.gov/
@@ -2059,14 +2059,14 @@ Henderson_County,_Kentucky	Henderson County, Kentucky	2021-03-30		66	4487			5	0	
 Henderson_County,_North_Carolina	Henderson County, North Carolina	2021-03-30		153	9497			8	0		-27	0	0.14	16.14		https://www.ncdhhs.gov/
 Henderson_County,_Tennessee	Henderson County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	74	3658		19017	0	0	0	0	0	0.0	1.29		https://www.tn.gov/
 Henderson_County,_Texas	Henderson County, Texas	2021-03-30		177	5694	5102		0	0	0	0	-1	0.43	3.43	0.14	https://www.dshs.state.tx.us/
-Hendricks_County,_Indiana	Hendricks County, Indiana	2021-03-30		307	16323		76407	14	0		-3	0	0.29	17.0		https://coronavirus.in.gov/
+Hendricks_County,_Indiana	Hendricks County, Indiana	2021-03-30		307	16321		76444	14	0		-3	0	0.29	17.0		https://coronavirus.in.gov/
 Hendry_County,_Florida	Hendry County, Florida	2021-03-30		77	4464		18515	4	0		2	0	0.0	4.14		https://floridahealthcovid19.gov/
 Hennepin_County,_Minnesota	Hennepin County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	1646	107631			302	0		-40	-2	1.71	333.86		https://www.health.state.mn.us/
 Henrico_County,_Virginia	Henrico County, Virginia	2021-03-30	2021-03-30T13:00:00.000Z	570	23146			73	2		-13	2	0.57	77.43		http://www.vdh.virginia.gov/
 Henry_County,_Alabama	Henry County, Alabama	2021-03-30		42	1866			1	0		1	0	0.0	1.0		https://covid19.alabama.gov/
 Henry_County,_Georgia	Henry County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	297	23625			21	0		-22	0	0.57	44.14		https://dph.georgia.gov/
 Henry_County,_Illinois	Henry County, Illinois	2021-03-30		60	4494		62190	10	0		9	0	0.29	7.14		http://www.dph.illinois.gov/
-Henry_County,_Indiana	Henry County, Indiana	2021-03-30		99	5509		22119	3	0		0	0	0.0	4.71		https://coronavirus.in.gov/
+Henry_County,_Indiana	Henry County, Indiana	2021-03-30		99	5507		22122	3	0		0	0	0.0	4.71		https://coronavirus.in.gov/
 Henry_County,_Iowa	Henry County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	37	2967	2760	33981	-5	0	2	-13	0	0.0	1.29	0.86	https://idph.iowa.gov
 Henry_County,_Kentucky	Henry County, Kentucky	2021-03-30		10	1290			0	0		-1	0	0.14	1.29		https://govstatus.egov.com/
 Henry_County,_Missouri	Henry County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	38	1776		18266	0	0		0	0	0.0	1.29		https://health.mo.gov
@@ -2138,7 +2138,7 @@ Houston_County,_Minnesota	Houston County, Minnesota	2021-03-30	2021-03-30T16:00:
 Houston_County,_Tennessee	Houston County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	33	1060		10434	2	0	0	0	0	0.0	0.71		https://www.tn.gov/
 Houston_County,_Texas	Houston County, Texas	2021-03-30		49	1586	1490		1	0	0	0	0	0.29	0.29	1.0	https://www.dshs.state.tx.us/
 Howard_County,_Arkansas	Howard County, Arkansas	2021-03-30		24	1640	1611	12696	3	0	2	3	0	0.14	2.43	2.0	https://www.healthy.arkansas.gov/
-Howard_County,_Indiana	Howard County, Indiana	2021-03-30		209	9399		45478	3	0		-6	0	0.0	12.57		https://coronavirus.in.gov/
+Howard_County,_Indiana	Howard County, Indiana	2021-03-30		209	9400		45495	3	0		-6	0	0.0	12.43		https://coronavirus.in.gov/
 Howard_County,_Iowa	Howard County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	22	1063	969	15820	3	0	0	8	0	0.0	0.86	0.71	https://idph.iowa.gov
 Howard_County,_Maryland	Howard County, Maryland	2021-03-30		220	17212			64	0		22	0	0.43	59.14		https://coronavirus.maryland.gov/
 Howard_County,_Missouri	Howard County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	7	731		5900	0	0		0	0	0.0	0.57		https://health.mo.gov
@@ -2163,7 +2163,7 @@ Hungary	Hungary	2021-03-30	2021-03-30T12:44:00.000Z	20435	645733	402964	4576398	
 Hunt_County,_Texas	Hunt County, Texas	2021-03-30		163	5498	5295		0	0	0	0	0	0.71	0.0	0.0	https://www.dshs.state.tx.us/
 Hunterdon_County,_New_Jersey	Hunterdon County, New Jersey	2021-03-30		169	8270			66	1	1	10	1	0.14	61.43		https://www.nj.gov/
 Huntingdon_County,_Pennsylvania	Huntingdon County, Pennsylvania	2021-03-30		126	4550		18051	7	0		4	0	0.0	7.71		https://www.health.pa.gov/
-Huntington_County,_Indiana	Huntington County, Indiana	2021-03-30		79	3667		18465	3	0		3	0	0.14	6.14		https://coronavirus.in.gov/
+Huntington_County,_Indiana	Huntington County, Indiana	2021-03-30		79	3667		18485	4	0		3	0	0.14	6.29		https://coronavirus.in.gov/
 Huntington_Park,_California	Huntington Park, California	2021-03-30	2021-03-30T01:00:00.000Z	164	11080			5	0		2	0	0.29	2.0		http://publichealth.lacounty.gov/
 Huntington,_Massachusetts	Huntington, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		92		3262	0			0			0.43		https://www.mass.gov/
 Huron_County,_Michigan	Huron County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	62	2919			42	0	0	0	0	0.0	37.0		https://www.michigan.gov/
@@ -2229,7 +2229,7 @@ Jackson_County,_Colorado	Jackson County, Colorado	2021-03-30			52			0			0			0.0	
 Jackson_County,_Florida	Jackson County, Florida	2021-03-30		154	6059		26824	4	0		-2	0	0.0	4.0		https://floridahealthcovid19.gov/
 Jackson_County,_Georgia	Jackson County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	142	9510			4	0		-4	0	0.43	13.57		https://dph.georgia.gov/
 Jackson_County,_Illinois	Jackson County, Illinois	2021-03-30		62	4734		72078	3	0		-2	0	0.0	8.71		http://www.dph.illinois.gov/
-Jackson_County,_Indiana	Jackson County, Indiana	2021-03-30		67	4796		18197	8	0		-3	0	0.0	9.43		https://coronavirus.in.gov/
+Jackson_County,_Indiana	Jackson County, Indiana	2021-03-30		67	4799		18218	8	0		-3	0	0.0	9.43		https://coronavirus.in.gov/
 Jackson_County,_Iowa	Jackson County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	42	2271	2058	23799	5	0	1	5	-1	0.29	2.71	1.86	https://idph.iowa.gov
 Jackson_County,_Kansas	Jackson County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1378			0			-3			2.14		https://www.coronavirus.kdheks.gov
 Jackson_County,_Kentucky	Jackson County, Kentucky	2021-03-30		31	1273			2	0		2	-1	0.29	1.0		https://govstatus.egov.com/
@@ -2252,13 +2252,13 @@ Jamestown,_Rhode_Island	Jamestown, Rhode Island	2021-03-30	2021-03-24T15:28:00.0
 Japan	Japan	2021-03-30	2021-03-30T00:00:00.000Z	9086	470175	443640	9762131	1305	25	1271	-453	-5	32.14	1774.43	1182.71	https://www.mhlw.go.jp/
 Jasper_County,_Georgia	Jasper County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	38	1366			0	0		0	0	0.57	2.43		https://dph.georgia.gov/
 Jasper_County,_Illinois	Jasper County, Illinois	2021-03-30		17	1130		11305	1	0		1	0	0.0	1.43		http://www.dph.illinois.gov/
-Jasper_County,_Indiana	Jasper County, Indiana	2021-03-30		46	3314		15110	12	0		5	0	0.0	7.0		https://coronavirus.in.gov/
+Jasper_County,_Indiana	Jasper County, Indiana	2021-03-30		46	3316		15124	13	0		6	0	0.0	7.0		https://coronavirus.in.gov/
 Jasper_County,_Iowa	Jasper County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	69	4352	3816	47981	7	0	10	8	0	0.0	11.43	19.43	https://idph.iowa.gov
 Jasper_County,_Mississippi	Jasper County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	47	2191			3	0		3	0	0.0	1.29		https://msdh.ms.gov/
 Jasper_County,_Missouri	Jasper County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	126	7558		49076	1	0		-1	0	0.0	3.14		https://health.mo.gov
 Jasper_County,_South_Carolina	Jasper County, South Carolina	2021-03-30		43	2094			1	0		0	0	0.0	1.43		https://www.scdhec.gov/
 Jasper_County,_Texas	Jasper County, Texas	2021-03-30		84	2363	2262		0	0	0	0	0	0.14	0.71	0.14	https://www.dshs.state.tx.us/
-Jay_County,_Indiana	Jay County, Indiana	2021-03-30		28	1828		7529	0	0		-1	0	0.0	1.57		https://coronavirus.in.gov/
+Jay_County,_Indiana	Jay County, Indiana	2021-03-30		28	1829		7531	0	0		-1	0	0.0	1.57		https://coronavirus.in.gov/
 Jeff_Davis_County,_Georgia	Jeff Davis County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	46	1831			3	0		2	0	0.0	1.57		https://dph.georgia.gov/
 Jeff_Davis_County,_Texas	Jeff Davis County, Texas	2021-03-30		4	184	179		0	0	0	0	0	0.0	0.0	-0.29	https://www.dshs.state.tx.us/
 Jefferson_County,_Alabama	Jefferson County, Alabama	2021-03-30		1454	74631			60	-1		10	-1	1.0	76.86		https://covid19.alabama.gov/
@@ -2268,7 +2268,7 @@ Jefferson_County,_Florida	Jefferson County, Florida	2021-03-30		24	1427		7215	1	
 Jefferson_County,_Georgia	Jefferson County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	62	1894			1	0		1	0	0.29	1.0		https://dph.georgia.gov/
 Jefferson_County,_Idaho	Jefferson County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	22	2803			17	0		6	0	0.0	13.14		https://coronavirus.idaho.gov/
 Jefferson_County,_Illinois	Jefferson County, Illinois	2021-03-30		118	4065		51511	1	0		-1	0	0.0	2.86		http://www.dph.illinois.gov/
-Jefferson_County,_Indiana	Jefferson County, Indiana	2021-03-30		78	3009		15330	3	0		3	0	0.0	3.43		https://coronavirus.in.gov/
+Jefferson_County,_Indiana	Jefferson County, Indiana	2021-03-30		78	3008		15345	3	0		3	0	0.0	3.43		https://coronavirus.in.gov/
 Jefferson_County,_Iowa	Jefferson County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	35	1411	1259	19111	1	0	2	1	0	0.0	0.57	1.71	https://idph.iowa.gov
 Jefferson_County,_Kansas	Jefferson County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1663			0			-5			2.14		https://www.coronavirus.kdheks.gov
 Jefferson_County,_Kentucky	Jefferson County, Kentucky	2021-03-30		1088	76338			122	2		63	0	6.86	64.29		https://govstatus.egov.com/
@@ -2290,7 +2290,7 @@ Jefferson_Davis_Parish,_Louisiana	Jefferson Davis Parish, Louisiana	2021-03-30		
 Jefferson_Parish,_Louisiana	Jefferson Parish, Louisiana	2021-03-30		877	45007		604440	24	0		-27	-1	0.29	26.43		http://ldh.la.gov/
 Jenkins_County,_Georgia	Jenkins County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	42	836			1	0		1	0	0.0	0.71		https://dph.georgia.gov/
 Jennersdorf_District	Jennersdorf District	2021-03-30	2021-03-30T20:00:00.000Z	22	1152	1050		3	0	2	-1	0	0.0	6.0	4.57	https://info.gesundheitsministerium.at/
-Jennings_County,_Indiana	Jennings County, Indiana	2021-03-30		46	2222		10396	2	0		1	0	0.0	2.0		https://coronavirus.in.gov/
+Jennings_County,_Indiana	Jennings County, Indiana	2021-03-30		46	2222		10402	2	0		1	0	0.0	2.0		https://coronavirus.in.gov/
 Jerauld_County,_South_Dakota	Jerauld County, South Dakota	2021-03-30	2021-03-30T17:00:00.000Z	16	275	257	852	0	0	0	0	0	0.0	0.0	0.57	https://doh.sd.gov/
 Jerome_County,_Idaho	Jerome County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	23	2537			2	0		0	0	0.0	1.0		https://coronavirus.idaho.gov/
 Jersey_County,_Illinois	Jersey County, Illinois	2021-03-30		48	2555		28986	1	0		-1	0	0.0	3.29		http://www.dph.illinois.gov/
@@ -2303,7 +2303,7 @@ Jo_Daviess_County,_Illinois	Jo Daviess County, Illinois	2021-03-30		22	1678		196
 Johnson_County,_Arkansas	Johnson County, Arkansas	2021-03-30		36	2878	2823	28666	3	0	3	3	0	0.0	2.0	4.29	https://www.healthy.arkansas.gov/
 Johnson_County,_Georgia	Johnson County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	48	1098			0	0		0	0	0.14	0.29		https://dph.georgia.gov/
 Johnson_County,_Illinois	Johnson County, Illinois	2021-03-30		14	1372		44032	0	0		-1	0	0.29	1.0		http://www.dph.illinois.gov/
-Johnson_County,_Indiana	Johnson County, Indiana	2021-03-30		369	17013		80382	14	0		-2	0	0.0	23.71		https://coronavirus.in.gov/
+Johnson_County,_Indiana	Johnson County, Indiana	2021-03-30		369	17013		80424	14	0		0	0	0.0	23.29		https://coronavirus.in.gov/
 Johnson_County,_Iowa	Johnson County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	78	14318	13012	194333	37	0	19	34	0	0.14	26.29	16.86	https://idph.iowa.gov
 Johnson_County,_Kansas	Johnson County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		56029			0			-115			50.0		https://www.coronavirus.kdheks.gov
 Johnson_County,_Kentucky	Johnson County, Kentucky	2021-03-30		30	1853			1	0		1	-1	0.71	1.57		https://govstatus.egov.com/
@@ -2413,7 +2413,7 @@ Kleberg_County,_Texas	Kleberg County, Texas	2021-03-30		88	2505	2331		5	0	3	5	0	
 Klickitat_County,_Washington	Klickitat County, Washington	2021-03-30	2021-03-30T23:32:00.000Z	9	680			3	0		3	0	0.0	0.57		https://coronavirus.wa.gov/
 Knott_County,_Kentucky	Knott County, Kentucky	2021-03-30		22	1113			5	0		5	0	0.0	1.71		https://govstatus.egov.com/
 Knox_County,_Illinois	Knox County, Illinois	2021-03-30		135	5121		97255	8	0		2	0	0.29	5.71		http://www.dph.illinois.gov/
-Knox_County,_Indiana	Knox County, Indiana	2021-03-30		88	3600		14167	0	0		0	0	0.0	1.29		https://coronavirus.in.gov/
+Knox_County,_Indiana	Knox County, Indiana	2021-03-30		88	3600		14182	0	0		-1	0	0.0	1.29		https://coronavirus.in.gov/
 Knox_County,_Kentucky	Knox County, Kentucky	2021-03-30		31	3237			13	1		4	1	0.43	7.0		https://govstatus.egov.com/
 Knox_County,_Maine	Knox County, Maine	2021-03-30	2021-03-30T14:00:00.000Z	5	803	212		5	0	0	4	0	0.0	5.0	0.0	https://www.maine.gov/
 Knox_County,_Missouri	Knox County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	2	185		1617	1	0		2	0	0.0	0.86		https://health.mo.gov
@@ -2427,7 +2427,7 @@ Komi_Republic	Komi Republic	2021-03-30	2021-03-30T08:15:00.000Z	803	41546	40358	
 Koochiching_County,_Minnesota	Koochiching County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	11	680			1	0		-1	0	0.0	6.29		https://www.health.state.mn.us/
 Kootenai_County,_Idaho	Kootenai County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	193	17166			7	0		-18	0	0.0	12.43		https://coronavirus.idaho.gov/
 Korneuburg_District	Korneuburg District	2021-03-30	2021-03-30T20:00:00.000Z	43	3762	3243		28	0	7	-8	0	0.0	31.86	7.57	https://info.gesundheitsministerium.at/
-Kosciusko_County,_Indiana	Kosciusko County, Indiana	2021-03-30		112	8825		37434	19	0		13	0	0.0	14.29		https://coronavirus.in.gov/
+Kosciusko_County,_Indiana	Kosciusko County, Indiana	2021-03-30		112	8825		37462	19	0		13	0	0.0	14.29		https://coronavirus.in.gov/
 Kossuth_County,_Iowa	Kossuth County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	58	2184	1927	24060	6	0	3	6	0	0.0	4.57	2.29	https://idph.iowa.gov
 Kostanay_Region	Kostanay Region	2021-03-30		40	13747	12233		38	0	42	-1	0	0.0	39.57	29.57	https://www.coronavirus2020.kz/
 Kostroma_Oblast	Kostroma Oblast	2021-03-30	2021-03-30T08:15:00.000Z	388	19613	16849		42	2	72	-1	2	1.57	43.71	30.86	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
@@ -2465,7 +2465,7 @@ Lake_County,_California	Lake County, California	2021-03-30		43	3325	3231	59876	5
 Lake_County,_Colorado	Lake County, Colorado	2021-03-30			697			0			0			1.29		https://covid19.colorado.gov/
 Lake_County,_Florida	Lake County, Florida	2021-03-30		601	26604		177186	97	1		60	1	1.29	73.14		https://floridahealthcovid19.gov/
 Lake_County,_Illinois	Lake County, Illinois	2021-03-30		951	62133		898225	109	1		25	1	0.57	92.43		http://www.dph.illinois.gov/
-Lake_County,_Indiana	Lake County, Indiana	2021-03-30		920	49927		229960	52	0		-14	0	0.71	61.86		https://coronavirus.in.gov/
+Lake_County,_Indiana	Lake County, Indiana	2021-03-30		920	49926		230146	53	0		-14	0	0.71	62.0		https://coronavirus.in.gov/
 Lake_County,_Michigan	Lake County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	12	427			3	0	0	-7	0	0.14	4.0		https://www.michigan.gov/
 Lake_County,_Minnesota	Lake County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	19	766			4	0		4	0	0.14	1.29		https://www.health.state.mn.us/
 Lake_County,_Montana	Lake County, Montana	2021-03-30		26	1978			5	0		5	0	0.0	0.86		https://dphhs.mt.gov/
@@ -2520,7 +2520,7 @@ Lawndale,_California	Lawndale, California	2021-03-30	2021-03-30T01:00:00.000Z	57
 Lawrence_County,_Alabama	Lawrence County, Alabama	2021-03-30		94	2926			4	0		0	0	0.29	2.29		https://covid19.alabama.gov/
 Lawrence_County,_Arkansas	Lawrence County, Arkansas	2021-03-30		42	2069	2021	16959	4	0	0	4	0	0.0	0.71	0.71	https://www.healthy.arkansas.gov/
 Lawrence_County,_Illinois	Lawrence County, Illinois	2021-03-30		24	2369		44868	3	0		3	0	0.0	2.0		http://www.dph.illinois.gov/
-Lawrence_County,_Indiana	Lawrence County, Indiana	2021-03-30		117	4259		17808	5	0		3	0	0.14	2.43		https://coronavirus.in.gov/
+Lawrence_County,_Indiana	Lawrence County, Indiana	2021-03-30		117	4252		17820	5	0		3	0	0.14	2.43		https://coronavirus.in.gov/
 Lawrence_County,_Kentucky	Lawrence County, Kentucky	2021-03-30		20	1336			7	0		7	0	0.0	2.57		https://govstatus.egov.com/
 Lawrence_County,_Mississippi	Lawrence County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	22	1250			1	0		1	0	0.0	1.14		https://msdh.ms.gov/
 Lawrence_County,_Missouri	Lawrence County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	79	2799		34772	0	0		-1	0	0.0	0.86		https://health.mo.gov
@@ -2738,7 +2738,7 @@ Madison_County,_Florida	Madison County, Florida	2021-03-30		44	2031		9446	0	0		-
 Madison_County,_Georgia	Madison County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	54	3145			2	0		0	0	0.14	1.86		https://dph.georgia.gov/
 Madison_County,_Idaho	Madison County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	23	6840			15	0		-4	0	0.14	15.29		https://coronavirus.idaho.gov/
 Madison_County,_Illinois	Madison County, Illinois	2021-03-30		502	29168		284977	39	0		9	0	2.0	44.29		http://www.dph.illinois.gov/
-Madison_County,_Indiana	Madison County, Indiana	2021-03-30		333	12057		58675	22	0		7	0	0.0	11.71		https://coronavirus.in.gov/
+Madison_County,_Indiana	Madison County, Indiana	2021-03-30		333	12056		58704	22	0		7	0	0.0	11.86		https://coronavirus.in.gov/
 Madison_County,_Iowa	Madison County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	19	1637	1427	19084	1	0	3	0	0	0.0	2.0	2.86	https://idph.iowa.gov
 Madison_County,_Kentucky	Madison County, Kentucky	2021-03-30		107	8994			10	0		1	0	0.57	9.71		https://govstatus.egov.com/
 Madison_County,_Mississippi	Madison County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	208	9805			2	1		-2	1	0.29	9.14		https://msdh.ms.gov/
@@ -2791,7 +2791,7 @@ Marion_County,_Arkansas	Marion County, Arkansas	2021-03-30		30	1031	993	11371	0	
 Marion_County,_Florida	Marion County, Florida	2021-03-30		918	28996		152485	45	2		20	2	1.0	45.57		https://floridahealthcovid19.gov/
 Marion_County,_Georgia	Marion County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	19	543			0	0		0	0	0.14	0.29		https://dph.georgia.gov/
 Marion_County,_Illinois	Marion County, Illinois	2021-03-30		114	4359		78927	4	0		3	0	0.14	3.71		http://www.dph.illinois.gov/
-Marion_County,_Indiana	Marion County, Indiana	2021-03-30		1694	93450		491402	94	0		3	-1	0.29	112.57		https://coronavirus.in.gov/
+Marion_County,_Indiana	Marion County, Indiana	2021-03-30		1696	93441		491642	97	0		4	-1	0.43	112.57		https://coronavirus.in.gov/
 Marion_County,_Iowa	Marion County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	74	3703	3342	39077	6	0	3	9	0	0.0	4.0	4.0	https://idph.iowa.gov
 Marion_County,_Kansas	Marion County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1045			0			0			0.29		https://www.coronavirus.kdheks.gov
 Marion_County,_Kentucky	Marion County, Kentucky	2021-03-30		35	2210			-1	0		-2	0	0.0	2.71		https://govstatus.egov.com/
@@ -2811,7 +2811,7 @@ Marquette_County,_Michigan	Marquette County, Michigan	2021-03-30	2021-03-30T16:0
 Marquette_County,_Wisconsin	Marquette County, Wisconsin	2021-03-30	2021-03-30T06:00:00.000Z	27	1509		7699	3	0		3	0	0.0	0.86		https://www.dhs.wisconsin.gov/
 Marshall_County,_Alabama	Marshall County, Alabama	2021-03-30		217	11851			9	0		6	0	-0.14	6.43		https://covid19.alabama.gov/
 Marshall_County,_Illinois	Marshall County, Illinois	2021-03-30		17	918		18227	4	0		-2	0	0.14	3.71		http://www.dph.illinois.gov/
-Marshall_County,_Indiana	Marshall County, Indiana	2021-03-30		107	5599		24327	3	0		0	0	0.14	6.0		https://coronavirus.in.gov/
+Marshall_County,_Indiana	Marshall County, Indiana	2021-03-30		107	5603		24337	4	0		0	0	0.14	6.14		https://coronavirus.in.gov/
 Marshall_County,_Iowa	Marshall County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	74	5093	4562	76609	14	0	16	22	0	0.0	4.14	5.0	https://idph.iowa.gov
 Marshall_County,_Kansas	Marshall County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1075			0			0			-0.29		https://www.coronavirus.kdheks.gov
 Marshall_County,_Kentucky	Marshall County, Kentucky	2021-03-30		53	2641			0	0		-1	0	0.14	5.14		https://govstatus.egov.com/
@@ -2822,7 +2822,7 @@ Marshall_County,_Tennessee	Marshall County, Tennessee	2021-03-30	2021-03-30T19:0
 Marshall_County,_West_Virginia	Marshall County, West Virginia	2021-03-30	2021-03-30T10:00:00.000Z	72	3171	3064	41593	3	0	11	2	0	0.0	3.43	4.14	https://dhhr.wv.gov/
 Marshfield,_Massachusetts	Marshfield, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		1703		36837	0			0			4.43		https://www.mass.gov/
 Martin_County,_Florida	Martin County, Florida	2021-03-30		302	11335		78602	27	0		18	0	0.43	24.57		https://floridahealthcovid19.gov/
-Martin_County,_Indiana	Martin County, Indiana	2021-03-30		15	818		3770	2	0		2	0	0.0	1.0		https://coronavirus.in.gov/
+Martin_County,_Indiana	Martin County, Indiana	2021-03-30		15	817		3773	2	0		2	0	0.0	1.0		https://coronavirus.in.gov/
 Martin_County,_Kentucky	Martin County, Kentucky	2021-03-30		20	982			3	0		2	0	0.0	2.43		https://govstatus.egov.com/
 Martin_County,_Minnesota	Martin County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	29	2025			4	0		0	0	0.0	4.57		https://www.health.state.mn.us/
 Martin_County,_North_Carolina	Martin County, North Carolina	2021-03-30		38	2147			3	1		-4	1	0.14	2.86		https://www.ncdhhs.gov/
@@ -2941,7 +2941,7 @@ Metropolitan_Borough_of_Walsall	Metropolitan Borough of Walsall	2021-03-30			254
 Metropolitan_Borough_of_Wigan	Metropolitan Borough of Wigan	2021-03-30			28698			15			-18			34.0		https://www.gov.uk/
 Metropolitan_Borough_of_Wirral	Metropolitan Borough of Wirral	2021-03-30			24240			9			0			10.14		https://www.gov.uk/
 Mexico	Mexico	2021-03-30	2021-03-30T00:00:00.000Z	202633	2232910	1769256		5068	807	4012	3776	604	512.14	4267.0	3570.57	https://coronavirus.gob.mx/
-Miami_County,_Indiana	Miami County, Indiana	2021-03-30		65	3675		16982	6	0		4	0	0.0	4.86		https://coronavirus.in.gov/
+Miami_County,_Indiana	Miami County, Indiana	2021-03-30		65	3677		16984	6	0		3	0	0.0	5.0		https://coronavirus.in.gov/
 Miami_County,_Kansas	Miami County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		2666			0			3			0.57		https://www.coronavirus.kdheks.gov
 Miami_County,_Ohio	Miami County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	206	10326			16	1		11	1	0.29	12.0		https://coronavirus.ohio.gov/
 Miami-Dade_County,_Florida	Miami-Dade County, Florida	2021-03-30		5845	444487		2178696	1280	30		410	29	14.71	1156.14		https://floridahealthcovid19.gov/
@@ -3010,7 +3010,7 @@ Monroe_County,_Arkansas	Monroe County, Arkansas	2021-03-30		17	862	837	8421	3	1	
 Monroe_County,_Florida	Monroe County, Florida	2021-03-30		48	6414		46801	17	0		2	0	0.0	21.43		https://floridahealthcovid19.gov/
 Monroe_County,_Georgia	Monroe County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	98	2539			1	0		0	0	0.14	1.29		https://dph.georgia.gov/
 Monroe_County,_Illinois	Monroe County, Illinois	2021-03-30		90	4197		39126	6	0		5	0	0.14	5.29		http://www.dph.illinois.gov/
-Monroe_County,_Indiana	Monroe County, Indiana	2021-03-30		166	10878		83214	18	0		0	0	0.0	26.43		https://coronavirus.in.gov/
+Monroe_County,_Indiana	Monroe County, Indiana	2021-03-30		166	10877		83263	18	0		-1	0	0.0	26.43		https://coronavirus.in.gov/
 Monroe_County,_Iowa	Monroe County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	28	954	867	9106	0	0	4	0	0	0.0	0.29	1.71	https://idph.iowa.gov
 Monroe_County,_Kentucky	Monroe County, Kentucky	2021-03-30		40	1279			7	0		7	0	0.14	2.14		https://govstatus.egov.com/
 Monroe_County,_Michigan	Monroe County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	212	11441			137	0	0	30	0	0.43	82.43		https://www.michigan.gov/
@@ -3038,7 +3038,7 @@ Montgomery_County,_Alabama	Montgomery County, Alabama	2021-03-30		550	23717			30
 Montgomery_County,_Arkansas	Montgomery County, Arkansas	2021-03-30		32	750	715	8485	0	0	0	0	0	0.14	0.57	0.43	https://www.healthy.arkansas.gov/
 Montgomery_County,_Georgia	Montgomery County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	21	864			0	0		-1	0	0.0	0.0		https://dph.georgia.gov/
 Montgomery_County,_Illinois	Montgomery County, Illinois	2021-03-30		71	3593		64281	-2	0		-3	0	0.0	2.29		http://www.dph.illinois.gov/
-Montgomery_County,_Indiana	Montgomery County, Indiana	2021-03-30		86	4076		17909	0	0		-9	0	0.0	7.57		https://coronavirus.in.gov/
+Montgomery_County,_Indiana	Montgomery County, Indiana	2021-03-30		86	4077		17919	1	0		-8	0	0.0	7.71		https://coronavirus.in.gov/
 Montgomery_County,_Iowa	Montgomery County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	36	1055	932	13342	1	0	2	1	0	0.0	1.0	0.57	https://idph.iowa.gov
 Montgomery_County,_Kansas	Montgomery County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		3394			0			0			1.43		https://www.coronavirus.kdheks.gov
 Montgomery_County,_Kentucky	Montgomery County, Kentucky	2021-03-30		30	2429			3	0		1	0	0.0	3.43		https://govstatus.egov.com/
@@ -3067,7 +3067,7 @@ Morgan_County,_Alabama	Morgan County, Alabama	2021-03-30		263	14120			4	0		2	0	0
 Morgan_County,_Colorado	Morgan County, Colorado	2021-03-30		92	2531			2	0		-1	0	0.0	2.29		https://covid19.colorado.gov/
 Morgan_County,_Georgia	Morgan County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	28	2027			2	0		1	-1	0.57	3.86		https://dph.georgia.gov/
 Morgan_County,_Illinois	Morgan County, Illinois	2021-03-30		79	3689		54453	6	0		7	0	0.0	3.29		http://www.dph.illinois.gov/
-Morgan_County,_Indiana	Morgan County, Indiana	2021-03-30		135	6267		29688	6	0		1	0	0.0	5.0		https://coronavirus.in.gov/
+Morgan_County,_Indiana	Morgan County, Indiana	2021-03-30		135	6270		29702	6	0		1	0	0.0	5.0		https://coronavirus.in.gov/
 Morgan_County,_Kentucky	Morgan County, Kentucky	2021-03-30		3	2101			0	0		0	0	0.0	2.86		https://govstatus.egov.com/
 Morgan_County,_Missouri	Morgan County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	42	1644		17797	0	0		0	0	0.0	0.43		https://health.mo.gov
 Morgan_County,_Ohio	Morgan County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	22	1042			2	0		2	0	0.0	0.86		https://coronavirus.ohio.gov/
@@ -3165,7 +3165,7 @@ Newport_News,_Virginia	Newport News, Virginia	2021-03-30	2021-03-30T13:00:00.000
 Newport,_Rhode_Island	Newport, Rhode Island	2021-03-30	2021-03-24T15:28:00.000Z		1750		17050	0			0			8.71		https://health.ri.gov/
 Newton_County,_Arkansas	Newton County, Arkansas	2021-03-30		26	706	679	7401	1	0	1	1	0	0.0	0.43	0.86	https://www.healthy.arkansas.gov/
 Newton_County,_Georgia	Newton County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	222	10335			16	0		5	0	1.0	15.43		https://dph.georgia.gov/
-Newton_County,_Indiana	Newton County, Indiana	2021-03-30		33	1003		4295	2	0		1	0	0.0	1.57		https://coronavirus.in.gov/
+Newton_County,_Indiana	Newton County, Indiana	2021-03-30		33	1004		4296	3	0		2	0	0.0	1.57		https://coronavirus.in.gov/
 Newton_County,_Mississippi	Newton County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	57	2421			1	0		-2	0	0.14	3.0		https://msdh.ms.gov/
 Newton_County,_Missouri	Newton County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	74	4162		25140	2	0		2	0	0.14	2.29		https://health.mo.gov
 Newton_County,_Texas	Newton County, Texas	2021-03-30		34	587	546		0	0	0	0	0	0.0	0.71	0.14	https://www.dshs.state.tx.us/
@@ -3179,7 +3179,7 @@ Ninh_Bình_Province	Ninh Bình Province	2021-03-30	2021-03-30T00:00:00.000Z	0	32
 Ninh_Thuận_Province	Ninh Thuận Province	2021-03-30	2021-03-30T00:00:00.000Z	0	12	3		0	0	0	0	0	0.0	0.0	0.0	https://ncov.moh.gov.vn/
 Niobrara_County,_Wyoming	Niobrara County, Wyoming	2021-03-30	2021-03-30T21:00:00.000Z	2	67	148		0	0	0	0	0	0.0	0.0	0.0	https://health.wyo.gov/
 Nizhny_Novgorod_Oblast	Nizhny Novgorod Oblast	2021-03-30	2021-03-30T08:15:00.000Z	2833	107169	101205		277	9	353	-14	-2	10.71	309.57	375.29	https://xn--80aesfpebagmfblc0a.xn--p1ai/#
-Noble_County,_Indiana	Noble County, Indiana	2021-03-30		80	5240		22560	5	0		4	0	0.0	5.57		https://coronavirus.in.gov/
+Noble_County,_Indiana	Noble County, Indiana	2021-03-30		80	5241		22560	6	0		5	0	0.0	5.71		https://coronavirus.in.gov/
 Noble_County,_Ohio	Noble County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	37	1312			2	0		1	0	0.0	1.0		https://coronavirus.ohio.gov/
 Nobles_County,_Minnesota	Nobles County, Minnesota	2021-03-30	2021-03-30T16:00:00.000Z	47	3915			2	0		1	0	0.0	2.43		https://www.health.state.mn.us/
 Nodaway_County,_Missouri	Nodaway County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	25	2162		20522	1	0		-1	0	-0.14	1.43		https://health.mo.gov
@@ -3268,7 +3268,7 @@ Oglala_Lakota_County,_South_Dakota	Oglala Lakota County, South Dakota	2021-03-30
 Ogle_County,_Illinois	Ogle County, Illinois	2021-03-30		78	5393		56812	17	-1		9	-1	0.0	16.57		http://www.dph.illinois.gov/
 Oglethorpe_County,_Georgia	Oglethorpe County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	28	1438			0	0		-1	0	0.0	0.57		https://dph.georgia.gov/
 Ohio	Ohio	2021-03-30	2021-03-30T18:00:00.000Z	18609	1015577			2458	83		961	83	32.43	1822.14		https://coronavirus.ohio.gov/
-Ohio_County,_Indiana	Ohio County, Indiana	2021-03-30		11	547		2456	0	0		-1	0	0.0	0.43		https://coronavirus.in.gov/
+Ohio_County,_Indiana	Ohio County, Indiana	2021-03-30		11	547		2460	0	0		-1	0	0.0	0.43		https://coronavirus.in.gov/
 Ohio_County,_Kentucky	Ohio County, Kentucky	2021-03-30		52	2386			4	0		2	0	0.14	2.29		https://govstatus.egov.com/
 Ohio_County,_West_Virginia	Ohio County, West Virginia	2021-03-30	2021-03-30T10:00:00.000Z	77	3833	3651	69392	11	0	8	2	0	0.0	9.43	8.0	https://dhhr.wv.gov/
 Okaloosa_County,_Florida	Okaloosa County, Florida	2021-03-30		351	19734		85966	12	0		9	0	1.0	15.86		https://floridahealthcovid19.gov/
@@ -3291,7 +3291,7 @@ Ontario_County,_New_York	Ontario County, New York	2021-03-30	2021-03-30T14:00:00
 Ontonagon_County,_Michigan	Ontonagon County, Michigan	2021-03-30	2021-03-30T16:00:00.000Z	21	431			0	0	0	0	0	0.0	0.57		https://www.michigan.gov/
 Orange_County,_California	Orange County, California	2021-03-30	2021-03-30T07:00:00.000Z	4740	250537	242669	3332327	106	14	206	-17	13	15.0	111.0	166.43	https://occovid19.ochealthinfo.com/
 Orange_County,_Florida	Orange County, Florida	2021-03-30		1185	123352		830944	334	3		116	-4	2.14	365.29		https://floridahealthcovid19.gov/
-Orange_County,_Indiana	Orange County, Indiana	2021-03-30		52	1735		7680	0	0		-1	0	0.0	1.14		https://coronavirus.in.gov/
+Orange_County,_Indiana	Orange County, Indiana	2021-03-30		52	1737		7688	0	0		-1	0	0.0	1.14		https://coronavirus.in.gov/
 Orange_County,_New_York	Orange County, New York	2021-03-30	2021-03-30T14:00:00.000Z	670	43015		645183	246	0		12	-1	0.86	235.0		https://coronavirus.health.ny.gov/
 Orange_County,_North_Carolina	Orange County, North Carolina	2021-03-30		100	8069			10	0		-43	0	0.14	18.14		https://www.ncdhhs.gov/
 Orange_County,_Texas	Orange County, Texas	2021-03-30		132	8193	7454		-28	2	98	-28	2	1.14	-2.57	2.57	https://www.dshs.state.tx.us/
@@ -3330,7 +3330,7 @@ Ouachita_Parish,_Louisiana	Ouachita Parish, Louisiana	2021-03-30		437	17880		222
 Ouray_County,_Colorado	Ouray County, Colorado	2021-03-30		3	275			1	0		0	0	0.0	0.71		https://covid19.colorado.gov/
 Outagamie_County,_Wisconsin	Outagamie County, Wisconsin	2021-03-30	2021-03-30T06:00:00.000Z	214	22532		109983	43	1		27	1	0.29	35.14		https://www.dhs.wisconsin.gov/
 Overton_County,_Tennessee	Overton County, Tennessee	2021-03-30	2021-03-30T19:00:00.000Z	60	2925		17290	1	0	0	-3	0	0.29	2.29		https://www.tn.gov/
-Owen_County,_Indiana	Owen County, Indiana	2021-03-30		56	1881		10909	1	0		1	0	0.0	1.43		https://coronavirus.in.gov/
+Owen_County,_Indiana	Owen County, Indiana	2021-03-30		56	1880		10918	1	0		1	0	0.0	1.43		https://coronavirus.in.gov/
 Owen_County,_Kentucky	Owen County, Kentucky	2021-03-30		12	640			-2	0		-2	0	0.14	0.86		https://govstatus.egov.com/
 Owsley_County,_Kentucky	Owsley County, Kentucky	2021-03-30		12	477			3	0		3	0	0.14	2.14		https://govstatus.egov.com/
 Owyhee_County,_Idaho	Owyhee County, Idaho	2021-03-30	2021-03-30T17:00:00.000Z	27	1038			1	0		0	-1	0.14	1.0		https://coronavirus.idaho.gov/
@@ -3357,7 +3357,7 @@ Paramount,_California	Paramount, California	2021-03-30	2021-03-30T01:00:00.000Z	
 Park_County,_Colorado	Park County, Colorado	2021-03-30		5	608			1	0		1	0	0.0	2.43		https://covid19.colorado.gov/
 Park_County,_Montana	Park County, Montana	2021-03-30		15	1189			14	0		14	0	0.0	2.0		https://dphhs.mt.gov/
 Park_County,_Wyoming	Park County, Wyoming	2021-03-30	2021-03-30T21:00:00.000Z	30	2492	2604		-1	0	-2	-2	0	0.0	0.29	0.86	https://health.wyo.gov/
-Parke_County,_Indiana	Parke County, Indiana	2021-03-30		16	1423		6855	0	0		-2	0	0.0	1.29		https://coronavirus.in.gov/
+Parke_County,_Indiana	Parke County, Indiana	2021-03-30		16	1424		6860	0	0		-2	0	0.0	1.29		https://coronavirus.in.gov/
 Parker_County,_Texas	Parker County, Texas	2021-03-30		170	15250	15162		28	0	27	28	0	0.14	8.86	9.71	https://www.dshs.state.tx.us/
 Parmer_County,_Texas	Parmer County, Texas	2021-03-30		35	1214	1168		0	0	2	0	0	0.0	1.57	1.71	https://www.dshs.state.tx.us/
 Pasco_County,_Florida	Pasco County, Florida	2021-03-30		692	36265		221124	118	5		45	5	1.71	110.43		https://floridahealthcovid19.gov/
@@ -3402,7 +3402,7 @@ Perquimans_County,_North_Carolina	Perquimans County, North Carolina	2021-03-30		
 Perry_County,_Alabama	Perry County, Alabama	2021-03-30		27	1078			0	0		0	0	0.0	0.14		https://covid19.alabama.gov/
 Perry_County,_Arkansas	Perry County, Arkansas	2021-03-30		10	824	811	12775	3	0	3	3	0	0.0	0.71	1.86	https://www.healthy.arkansas.gov/
 Perry_County,_Illinois	Perry County, Illinois	2021-03-30		59	3112		44220	2	0		0	0	0.0	1.86		http://www.dph.illinois.gov/
-Perry_County,_Indiana	Perry County, Indiana	2021-03-30		36	1774		8471	1	0		1	0	0.0	1.86		https://coronavirus.in.gov/
+Perry_County,_Indiana	Perry County, Indiana	2021-03-30		36	1774		8473	1	0		1	0	0.0	1.86		https://coronavirus.in.gov/
 Perry_County,_Kentucky	Perry County, Kentucky	2021-03-30		61	2512			9	1		9	1	0.71	5.0		https://govstatus.egov.com/
 Perry_County,_Mississippi	Perry County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	38	1245			0	0		0	0	0.0	0.57		https://msdh.ms.gov/
 Perry_County,_Missouri	Perry County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	29	2079		17289	1	0		-1	0	0.0	1.29		https://health.mo.gov
@@ -3446,7 +3446,7 @@ Pike_County,_Alabama	Pike County, Alabama	2021-03-30		74	3039			2	0		2	0	0.0	6.2
 Pike_County,_Arkansas	Pike County, Arkansas	2021-03-30		22	997	974	9760	0	0	0	0	0	0.0	0.71	1.0	https://www.healthy.arkansas.gov/
 Pike_County,_Georgia	Pike County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	36	2154			3	0		0	0	0.29	2.86		https://dph.georgia.gov/
 Pike_County,_Illinois	Pike County, Illinois	2021-03-30		50	1734		17263	0	0		0	0	0.0	1.0		http://www.dph.illinois.gov/
-Pike_County,_Indiana	Pike County, Indiana	2021-03-30		34	1290		5066	0	0		0	0	0.0	0.43		https://coronavirus.in.gov/
+Pike_County,_Indiana	Pike County, Indiana	2021-03-30		34	1290		5067	0	0		0	0	0.0	0.43		https://coronavirus.in.gov/
 Pike_County,_Kentucky	Pike County, Kentucky	2021-03-30		83	5357			18	0		14	0	0.57	7.0		https://govstatus.egov.com/
 Pike_County,_Mississippi	Pike County, Mississippi	2021-03-30	2021-03-30T05:00:00.000Z	101	3142			5	0		2	0	0.0	3.14		https://msdh.ms.gov/
 Pike_County,_Missouri	Pike County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	23	1501		12876	0	0		0	0	0.0	0.43		https://health.mo.gov
@@ -3503,12 +3503,12 @@ Pope_County,_Minnesota	Pope County, Minnesota	2021-03-30	2021-03-30T16:00:00.000
 Poquoson,_Virginia	Poquoson, Virginia	2021-03-30	2021-03-30T13:00:00.000Z	16	801			4	0		1	0	0.0	2.57		http://www.vdh.virginia.gov/
 Portage_County,_Ohio	Portage County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	192	11779			37	0		10	0	0.29	33.57		https://coronavirus.ohio.gov/
 Portage_County,_Wisconsin	Portage County, Wisconsin	2021-03-30	2021-03-30T06:00:00.000Z	69	7084		34053	3	0		3	0	0.0	2.14		https://www.dhs.wisconsin.gov/
-Porter_County,_Indiana	Porter County, Indiana	2021-03-30		292	16561		77185	6	0		-11	0	0.29	19.71		https://coronavirus.in.gov/
+Porter_County,_Indiana	Porter County, Indiana	2021-03-30		292	16569		77265	16	0		-6	0	0.29	21.29		https://coronavirus.in.gov/
 Portsmouth	Portsmouth	2021-03-30			14175			1			-3			9.29		https://www.gov.uk/
 Portsmouth,_Rhode_Island	Portsmouth, Rhode Island	2021-03-30	2021-03-24T15:28:00.000Z		1118		9568	0			0			1.86		https://health.ri.gov/
 Portsmouth,_Virginia	Portsmouth, Virginia	2021-03-30	2021-03-30T13:00:00.000Z	170	8318			20	0		9	-1	0.86	20.14		http://www.vdh.virginia.gov/
 Portugal	Portugal	2021-03-30	2021-03-30T00:00:00.000Z	16845	821105	777503	9013053	389	2	1654	80	-4	7.29	413.29	1202.43	https://covid19.min-saude.pt/
-Posey_County,_Indiana	Posey County, Indiana	2021-03-30		33	2655		10398	0	0		0	0	0.0	1.14		https://coronavirus.in.gov/
+Posey_County,_Indiana	Posey County, Indiana	2021-03-30		33	2655		10404	0	0		0	0	0.0	1.14		https://coronavirus.in.gov/
 Pottawatomie_County,_Kansas	Pottawatomie County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		1835			0			-1			3.0		https://www.coronavirus.kdheks.gov
 Pottawattamie_County,_Iowa	Pottawattamie County, Iowa	2021-03-30	2021-03-30T00:00:00.000Z	152	11301	9694	110691	10	0	22	-20	0	0.43	27.71	12.43	https://idph.iowa.gov
 Potter_County,_Pennsylvania	Potter County, Pennsylvania	2021-03-30		22	980		4132	4	0		4	0	0.0	1.14		https://www.health.pa.gov/
@@ -3547,14 +3547,14 @@ Pueblo_County,_Colorado	Pueblo County, Colorado	2021-03-30		364	15766			18	0		-3
 Pulaski_County,_Arkansas	Pulaski County, Arkansas	2021-03-30		624	38289	37402	441952	27	5	32	17	4	2.57	23.14	27.71	https://www.healthy.arkansas.gov/
 Pulaski_County,_Georgia	Pulaski County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	43	903			0	1		0	0	0.43	1.29		https://dph.georgia.gov/
 Pulaski_County,_Illinois	Pulaski County, Illinois	2021-03-30		7	673		5955	0	0		0	0	0.0	-0.14		http://www.dph.illinois.gov/
-Pulaski_County,_Indiana	Pulaski County, Indiana	2021-03-30		45	1105		5122	0	0		-2	0	0.0	0.43		https://coronavirus.in.gov/
+Pulaski_County,_Indiana	Pulaski County, Indiana	2021-03-30		45	1104		5123	0	0		-2	0	0.0	0.43		https://coronavirus.in.gov/
 Pulaski_County,_Kentucky	Pulaski County, Kentucky	2021-03-30		92	6021			11	0		11	0	0.0	4.14		https://govstatus.egov.com/
 Pulaski_County,_Missouri	Pulaski County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	51	3013		20500	1	2		-1	2	0.29	1.0		https://health.mo.gov
 Pulaski_County,_Virginia	Pulaski County, Virginia	2021-03-30	2021-03-30T13:00:00.000Z	60	2454			6	0		2	0	0.0	5.57		http://www.vdh.virginia.gov/
 Putnam_County,_Florida	Putnam County, Florida	2021-03-30		135	6027		31786	8	0		5	0	0.29	7.57		https://floridahealthcovid19.gov/
 Putnam_County,_Georgia	Putnam County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	52	2104			-1	0		-2	0	0.0	1.43		https://dph.georgia.gov/
 Putnam_County,_Illinois	Putnam County, Illinois	2021-03-30		3	431		5767	0	0		0	0	0.0	0.14		http://www.dph.illinois.gov/
-Putnam_County,_Indiana	Putnam County, Indiana	2021-03-30		60	3467		17342	2	0		2	0	0.0	3.29		https://coronavirus.in.gov/
+Putnam_County,_Indiana	Putnam County, Indiana	2021-03-30		60	3468		17348	2	0		2	0	0.0	3.43		https://coronavirus.in.gov/
 Putnam_County,_Missouri	Putnam County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	4	227		1753	0	0		0	0	0.0	0.14		https://health.mo.gov
 Putnam_County,_New_York	Putnam County, New York	2021-03-30	2021-03-30T14:00:00.000Z	90	9468		189851	30	0		-17	0	0.14	46.0		https://coronavirus.health.ny.gov/
 Putnam_County,_Ohio	Putnam County, Ohio	2021-03-30	2021-03-30T18:00:00.000Z	98	4079			9	0		6	0	0.14	4.71		https://coronavirus.ohio.gov/
@@ -3584,7 +3584,7 @@ Randolph_County,_Alabama	Randolph County, Alabama	2021-03-30		41	1752			3	0		0	0
 Randolph_County,_Arkansas	Randolph County, Arkansas	2021-03-30		47	2061	2000	21584	8	0	2	8	0	0.0	1.71	1.71	https://www.healthy.arkansas.gov/
 Randolph_County,_Georgia	Randolph County, Georgia	2021-03-30	2021-03-30T18:50:13.000Z	33	618			0	0		0	0	0.0	0.0		https://dph.georgia.gov/
 Randolph_County,_Illinois	Randolph County, Illinois	2021-03-30		82	4032		51133	-2	0		-5	0	0.14	3.14		http://www.dph.illinois.gov/
-Randolph_County,_Indiana	Randolph County, Indiana	2021-03-30		79	2306		10417	0	0		-1	0	0.0	2.57		https://coronavirus.in.gov/
+Randolph_County,_Indiana	Randolph County, Indiana	2021-03-30		79	2309		10421	1	0		0	0	0.0	2.71		https://coronavirus.in.gov/
 Randolph_County,_Missouri	Randolph County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	30	1854		18082	-1	0		-2	0	0.0	1.14		https://health.mo.gov
 Randolph_County,_North_Carolina	Randolph County, North Carolina	2021-03-30		214	14178			21	0		-43	-1	0.86	22.0		https://www.ncdhhs.gov/
 Randolph_County,_West_Virginia	Randolph County, West Virginia	2021-03-30	2021-03-30T10:00:00.000Z	12	2462	2414	46679	7	0	2	1	0	0.0	3.14	3.29	https://dhhr.wv.gov/
@@ -3649,7 +3649,7 @@ Rio_Grande_County,_Colorado	Rio Grande County, Colorado	2021-03-30		13	754			1	0
 Rio_Grande_do_Norte	Rio Grande do Norte	2021-03-30	2021-03-30T22:00:00.000Z	4474	195285			1599	47		-308	33	37.86	1206.29		https://covid.saude.gov.br/
 Rio_Grande_do_Sul	Rio Grande do Sul	2021-03-30	2021-03-30T22:00:00.000Z	19432	839070			7063	412		5686	215	276.14	5367.29		https://covid.saude.gov.br/
 Rio_Maior	Rio Maior	2021-03-30	2021-03-29T23:00:00.000Z		280			0			0			-3.38		https://covid19.min-saude.pt/
-Ripley_County,_Indiana	Ripley County, Indiana	2021-03-30		66	3303		13508	0	0		0	0	0.0	0.71		https://coronavirus.in.gov/
+Ripley_County,_Indiana	Ripley County, Indiana	2021-03-30		66	3305		13521	0	0		0	0	0.0	0.71		https://coronavirus.in.gov/
 Ripley_County,_Missouri	Ripley County, Missouri	2021-03-30	2021-03-30T17:00:00.000Z	15	873		6323	1	0		1	0	0.0	0.57		https://health.mo.gov
 Ritchie_County,_West_Virginia	Ritchie County, West Virginia	2021-03-30	2021-03-30T10:00:00.000Z	11	639	619	9811	0	0	0	0	0	0.0	0.43	0.29	https://dhhr.wv.gov/
 Riverside_County,_California	Riverside County, California	2021-03-30	2021-03-30T00:00:00.000Z	4297	294192	287120	2705734	129	24	171	-103	-1	19.0	108.0	179.86	https://www.countyofriverside.us/
@@ -3705,7 +3705,7 @@ Royal_Borough_of_Kingston_upon_Thames	Royal Borough of Kingston upon Thames	2021
 Royal_Borough_of_Windsor_and_Maidenhead	Royal Borough of Windsor and Maidenhead	2021-03-30			8341			2			-8			11.14		https://www.gov.uk/
 Royalston,_Massachusetts	Royalston, Massachusetts	2021-03-30	2021-03-30T20:00:00.000Z		65		1786	0			0			0.14		https://www.mass.gov/
 Runnels_County,_Texas	Runnels County, Texas	2021-03-30		37	1264	1254		0	0	0	0	0	0.14	0.14	0.14	https://www.dshs.state.tx.us/
-Rush_County,_Indiana	Rush County, Indiana	2021-03-30		24	1673		8004	2	0		1	0	0.0	0.71		https://coronavirus.in.gov/
+Rush_County,_Indiana	Rush County, Indiana	2021-03-30		24	1674		8009	2	0		1	0	0.0	0.71		https://coronavirus.in.gov/
 Rush_County,_Kansas	Rush County, Kansas	2021-03-30	2021-03-30T16:00:00.000Z		431			0			-3			0.43		https://www.coronavirus.kdheks.gov
 Rusk_County,_Texas	Rusk County, Texas	2021-03-30		105	3857	3449		8	0	3	7	-1	0.14	1.71	2.86	https://www.dshs.state.tx.us/
 Rusk_County,_Wisconsin	Rusk County, Wisconsin	2021-03-30	2021-03-30T06:00:00.000Z	17	1324		6388	1	0		1	0	0.0	0.43		https://www.dhs.wisconsin.gov/
@@ -4253,7 +4253,7 @@ Union_County,_Tennessee	Union County, Tennessee	2021-03-30	2021-03-30T19:00:00.0
 Union_Parish,_Louisiana	Union Parish, Louisiana	2021-03-30		77	2331		32324	-2	0		-3	0	0.0	1.0		http://ldh.la.gov/
 United_Arab_Emirates	United Arab Emirates	2021-03-30	2021-03-30T11:52:00.000Z	1492	459360	443153	37354626	2289	6	2422	415	1	5.86	2137.43	2280.71	https://covid19.ncema.gov.ae/
 United_Kingdom	United Kingdom	2021-03-30		126670	4341736		126220810	4040	55		-614	32	55.14	4918.86		https://www.gov.uk/
-United_States	United States	2021-03-30	2021-04-01T20:56:06.964Z	547757	30194515			61127	956		-3141	454	1000.0	63169.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
+United_States	United States	2021-03-30	2021-04-01T23:05:22.385Z	547757	30194515			61127	956		-3141	454	1000.0	63169.57		https://github.com/yahoo/covid-19-data/blob/master/data-sources.md
 Upper_Austria	Upper Austria	2021-03-30	2021-03-30T20:00:00.000Z	1465	98609	89210		427	6	357	98	3	2.57	484.86	305.71	https://info.gesundheitsministerium.at/
 Upshur_County,_Texas	Upshur County, Texas	2021-03-30		68	3198	2702		2	0	3	0	0	0.14	1.43	2.14	https://www.dshs.state.tx.us/
 Upshur_County,_West_Virginia	Upshur County, West Virginia	2021-03-30	2021-03-30T10:00:00.000Z	32	1780	1706	31096	4	0	3	-2	0	0.0	4.43	2.14	https://dhhr.wv.gov/
